@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RAG OCR Output Schema",
+  "description": "RAG 파이프라인 및 Chunking을 위한 표준 OCR 데이터 구조",
+  "type": "object",
+  "properties": {
+    "page_id": {
+      "type": "integer",
+      "description": "문서 내 페이지 번호 (기본값 1)",
+      "default": 1
+    },
+    "metadata": {
+      "type": "object",
+      "description": "이미지 원본 정보 (좌표 해석을 위해 필수)",
+      "properties": {
+        "file_name": {
+          "type": "string",
+          "description": "원본 파일명 (예: doc_0007.png)"
+        },
+        "image_width": {
+          "type": "integer",
+          "description": "원본 이미지 너비 (px)"
+        },
+        "image_height": {
+          "type": "integer",
+          "description": "원본 이미지 높이 (px)"
+        }
+      },
+      "required": ["file_name", "image_width", "image_height"]
+    },
+    "full_text": {
+      "type": "string",
+      "description": "RAG Chunking용 전체 텍스트. 줄바꿈(\\n)으로 라인 구분."
+    },
+    "lines": {
+      "type": "array",
+      "description": "검색 및 하이라이팅을 위한 라인 단위 정보",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "해당 라인의 텍스트"
+          },
+          "bbox": {
+            "type": "array",
+            "description": "절대 픽셀 좌표 [x_min, y_min, x_max, y_max]",
+            "items": {
+              "type": "integer"
+            },
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "confidence": {
+            "type": "number",
+            "description": "OCR 인식 신뢰도 (0.0 ~ 1.0)",
+            "minimum": 0.0,
+            "maximum": 1.0
+          },
+          "words": {
+            "type": "array",
+            "description": "상세 검색용 개별 단어 정보 (선택 사항)",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": { "type": "string" },
+                "bbox": { "type": "array", "items": { "type": "integer" } }
+              }
+            }
+          }
+        },
+        "required": ["text", "bbox", "confidence"]
+      }
+    }
+  },
+  "required": ["page_id", "metadata", "full_text", "lines"]
+}

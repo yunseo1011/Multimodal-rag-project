@@ -20,7 +20,7 @@ def get_random_document():
         # 이미 파이프가 연결돼 있어서 훨씬 빠릅니다.
         sample = next(data_iterator)
     except StopIteration:
-        # 혹시 데이터가 바닥나면(그럴 일 없지만) 다시 연결
+        # 혹시 데이터가 바닥나면 다시 연결
         data_iterator = iter(dataset)
         sample = next(data_iterator)
     
