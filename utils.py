@@ -2,6 +2,7 @@ import os
 import json
 from pathlib import Path
 
+
 def get_data_pairs(raw_root, ocr_root):
     """
     이미지 폴더와 OCR 결과 폴더를 순회하며 짝을 맞춥니다.
