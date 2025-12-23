@@ -22,3 +22,5 @@ data/
 # --- 로그 및 기타 ---
 *.log
 .ipynb_checkpoints/
+
+models/
