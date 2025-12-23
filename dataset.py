@@ -4,6 +4,7 @@ from PIL import Image
 from torch.utils.data import Dataset
 from utils import normalize_box  # utils.py에서 함수 가져오기
 
+
 class LayoutLMDataset(Dataset):
     def __init__(self, data_pairs, processor, label2id):
         self.data_pairs = data_pairs
@@ -39,6 +40,7 @@ class LayoutLMDataset(Dataset):
             words.append(text)
             # utils.py의 함수로 즉시 변환해서 추가 (효율적)
             boxes.append(normalize_box(bbox, width, height))
+
 
         # 3. 방어 코드 (빈 문서 처리)
         if len(words) == 0:

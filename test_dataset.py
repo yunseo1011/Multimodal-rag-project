@@ -9,12 +9,11 @@ RAW_ROOT = "data/raw"              # 원본 이미지 폴더
 OCR_ROOT = "data/processed/ocr"    # OCR 결과(JSON) 폴더
 MODEL_ID = "microsoft/layoutlmv3-base"
 
+
 def test_dataset():
     print("데이터셋 통합 테스트 시작...")
 
-    # ==========================================
     # 1단계: 데이터 및 프로세서 로드
-    # ==========================================
     
     # 1. 데이터 짝(Pair) 가져오기 (JSON 없는 파일 자동 Skip 확인)
     data_pairs = get_data_pairs(RAW_ROOT, OCR_ROOT)
@@ -35,9 +34,7 @@ def test_dataset():
     dataset = LayoutLMDataset(data_pairs, processor, label2id)
     print(f"Dataset 생성 완료! 총 데이터 개수: {len(dataset)}개")
 
-    # ==========================================
     # 2단계: 단일 샘플 정밀 검사 (__getitem__)
-    # ==========================================
     print("\n[Test 1] 단일 샘플 데이터 구조 확인 중...")
     sample = dataset[0]
 
@@ -61,9 +58,7 @@ def test_dataset():
     assert isinstance(sample['labels'], torch.LongTensor) or isinstance(sample['labels'], torch.Tensor), "라벨 Tensor 변환 안됨"
     print("단일 샘플 검증 통과!")
 
-    # ==========================================
     # 3단계: DataLoader 배치 처리 테스트 (Batch)
-    # ==========================================
     print("\n[Test 2] DataLoader 배치(Batch) 테스트 중...")
     
     BATCH_SIZE = 2
