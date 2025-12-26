@@ -8,12 +8,11 @@ from transformers import LayoutLMv3Processor, LayoutLMv3ForSequenceClassificatio
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
-from dataset import LayoutLMDataset
-from utils import get_data_pairs
+from src.dataset import LayoutLMDataset
+from src.utils import get_data_pairs
 
-# ==========================================
+
 # 1. 설정
-# ==========================================
 if torch.cuda.is_available():
     DEVICE = "cuda"
 elif torch.backends.mps.is_available():
@@ -56,7 +55,7 @@ def evaluate():
         BASE_MODEL, num_labels=len(labels), label2id=label2id, id2label=id2label
     )
     
-    print(f"💾 Loading model weights from {MODEL_PATH}...")
+    print(f"Loading model weights from {MODEL_PATH}...")
     if not torch.cuda.is_available() and not torch.backends.mps.is_available():
         state_dict = torch.load(MODEL_PATH, map_location=torch.device('cpu'))
     else:
@@ -67,7 +66,7 @@ def evaluate():
     model.eval()
 
     # 추론
-    print("🚀 Running Inference...")
+    print("Running Inference...")
     pred_labels = []
     with torch.no_grad():
         for batch in tqdm(dataloader):
@@ -94,9 +93,7 @@ def evaluate():
     plt.savefig('confusion_matrix.png')
     print("📈 Confusion Matrix saved as 'confusion_matrix.png'")
 
-    # ==========================================
-    # ✅ 정답 맞춘 케이스 확인 (Success Samples)
-    # ==========================================
+    # 정답 맞춘 케이스 확인 (Success Samples)
     print("\n========================================")
     print("✅ Success Samples (Good Examples)")
     print("========================================")
@@ -114,7 +111,6 @@ def evaluate():
                 with open(info['json_path'], 'r', encoding='utf-8') as f:
                     ocr_data = json.load(f)
                 
-                # [수정된 로직 적용]
                 if 'words' in ocr_data:
                     words = ocr_data['words']
                 elif 'full_text' in ocr_data:
@@ -130,14 +126,12 @@ def evaluate():
                 print(f"   📝 OCR snippet: {text_snippet}")
                 
             except Exception as e:
-                print(f"   ⚠️ OCR Load Failed: {e}")
+                print(f"OCR Load Failed: {e}")
 
             print("-" * 40)
             if success_count >= 5: break
 
-    # ==========================================
-    # 💀 오답 노트 (Failed Samples)
-    # ==========================================
+    # 오답 노트 (Failed Samples)
     print("\n========================================")
     print("💀 Failed Samples (Why did it fail?)")
     print("========================================")
@@ -155,7 +149,6 @@ def evaluate():
                 with open(info['json_path'], 'r', encoding='utf-8') as f:
                     ocr_data = json.load(f)
                 
-                # [수정된 로직 적용]
                 if 'words' in ocr_data:
                     words = ocr_data['words']
                 elif 'full_text' in ocr_data:

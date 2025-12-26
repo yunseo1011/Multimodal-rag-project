@@ -2,7 +2,7 @@ import json
 import torch
 from PIL import Image
 from torch.utils.data import Dataset
-from utils import normalize_box  # utils.py에서 함수 가져오기
+from src.utils import normalize_box  # utils.py에서 함수 가져오기
 
 
 class LayoutLMDataset(Dataset):

@@ -1,10 +1,12 @@
 import torch
 import os
+import sys  
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from torch.utils.data import DataLoader
 from torch.optim import AdamW  
 from transformers import LayoutLMv3Processor, LayoutLMv3ForSequenceClassification
-from dataset import LayoutLMDataset
-from utils import get_data_pairs
+from src.dataset import LayoutLMDataset
+from src.utils import get_data_pairs
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
