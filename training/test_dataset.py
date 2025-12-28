@@ -1,8 +1,8 @@
 import torch
 from torch.utils.data import DataLoader
 from transformers import LayoutLMv3Processor
-from utils import get_data_pairs
-from dataset import LayoutLMDataset
+from src.utils.data_utils import get_data_pairs
+from core.dataset import LayoutLMDataset
 
 # 1. 경로 및 모델 설정
 RAW_ROOT = "data/raw"              # 원본 이미지 폴더

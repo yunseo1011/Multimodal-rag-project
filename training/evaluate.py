@@ -8,8 +8,8 @@ from transformers import LayoutLMv3Processor, LayoutLMv3ForSequenceClassificatio
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
-from src.dataset import LayoutLMDataset
-from src.utils import get_data_pairs
+from core.dataset import LayoutLMDataset
+from src.utils.data_utils import get_data_pairs
 
 
 # 1. 설정

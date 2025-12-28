@@ -1,5 +1,8 @@
 import sys
 import os
+import warnings
+
+warnings.filterwarnings("ignore")
 
 # 1. 프로젝트 루트 경로 설정 (어디서 실행하든 동작하게 함)
 current_dir = os.path.dirname(os.path.abspath(__file__))

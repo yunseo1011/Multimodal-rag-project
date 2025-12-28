@@ -3,7 +3,7 @@ import torch
 from PIL import Image
 from torch.utils.data import Dataset
 from src.utils.geometry import normalize_box  # utils.py에서 함수 가져오기
-
+# training/train.py에 사용됨
 
 class LayoutLMDataset(Dataset):
     def __init__(self, data_pairs, processor, label2id):
@@ -16,7 +16,7 @@ class LayoutLMDataset(Dataset):
 
     def __getitem__(self, idx):
         item = self.data_pairs[idx]
-
+        # 1~3 까지 src.core.ocr_processor로 리팩토링 가능 
         # 1. Image 로드
         image = Image.open(item["image_path"]).convert("RGB")
         width, height = image.size
