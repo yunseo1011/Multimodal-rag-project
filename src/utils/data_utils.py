@@ -61,22 +61,3 @@ def get_data_pairs(raw_root, ocr_root):
         
     return data_pairs
 
-def normalize_box(box, width, height):
-    """
-    PaddleOCR 좌표를 LayoutLM 포맷(0~1000)으로 변환하고,
-    [x_min, y_min, x_max, y_max] 순서를 보장합니다.
-    """
-    # 1. 스케일링 (0~1000)
-    x1 = int(box[0] / width * 1000)
-    y1 = int(box[1] / height * 1000)
-    x2 = int(box[2] / width * 1000)
-    y2 = int(box[3] / height * 1000)
-
-    # 2. 값 범위 고정 (Clamp 0~1000)
-    x1 = max(0, min(1000, x1))
-    y1 = max(0, min(1000, y1))
-    x2 = max(0, min(1000, x2))
-    y2 = max(0, min(1000, y2))
-
-    # 3. 좌표 정렬
-    return [min(x1, x2), min(y1, y2), max(x1, x2), max(y1, y2)]

@@ -2,7 +2,7 @@ import json
 import torch
 from PIL import Image
 from torch.utils.data import Dataset
-from src.utils import normalize_box  # utils.py에서 함수 가져오기
+from src.utils.geometry import normalize_box  # utils.py에서 함수 가져오기
 
 
 class LayoutLMDataset(Dataset):
@@ -38,7 +38,7 @@ class LayoutLMDataset(Dataset):
                 continue
 
             words.append(text)
-            # utils.py의 함수로 즉시 변환해서 추가 (효율적)
+            # 즉시 변환해서 추가 (효율적)
             boxes.append(normalize_box(bbox, width, height))
 
 
