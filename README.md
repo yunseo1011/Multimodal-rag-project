@@ -83,7 +83,6 @@ HuggingFace의 `rvl_cdip` 데이터셋을 **Streaming 방식**으로 수집하�
   - Validation Accuracy 85% 이상
 - Purpose:
   - 문서 의미 학습 검증용 Baseline
-
 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
@@ -117,14 +116,15 @@ graph TD
 ### 4. Embedding Dataset
 
 - RAG 연동을 위한 문서 임베딩 Parquet 저장
+```text
 document_embeddings.parquet
- ├── doc_id
- ├── file_path
- ├── label
- ├── embedding      # 768-dim Vector
- ├── ocr_text_full  # 검색용 원문
- └── metadata
-
+ ├── doc_id          (String) : 문서 고유 ID
+ ├── file_path       (String) : 원본 파일 경로
+ ├── label           (Int)    : 문서 클래스(0~15)
+ ├── embedding       (List)   : 768-dim Vector (Float32)
+ ├── ocr_text_full   (String) : 검색용 원문 텍스트
+ └── metadata        (Dict)   : 기타 메타데이터
+```
 ---
 
 ### 5. API & Engineering
@@ -133,50 +133,20 @@ document_embeddings.parquet
 - Embedding API (POST /embeddings): 문서 이미지 입력 시 768차원 벡터 반환
 
 
-## Next Step: Phase 3. RAG System & Containerization 
+## Next Step: Phase 3. RAG System & Deployment
 
-문서 임베딩을 활용해 **검색(Retrieval) → 생성(Generation)** 이 연결된  
-End-to-End RAG 시스템을 구현하고, 컨테이너 환경으로 패키징합니다.
-
----
+문서 임베딩을 활용해 **검색(Retrieval) → 생성(Generation)** 이 연결된 End-to-End RAG 시스템을 구축하고, Docker 컨테이너로 패키징하여 배포합니다.
 
 ### 1. Vector Database & Retrieval
-
-- Vector DB 구축 (ChromaDB 또는 FAISS)
-- 문서 임베딩 데이터 Ingestion
-- Query 텍스트 임베딩 변환
-- Cosine Similarity 기반 Top-k 문서 검색 구현
-
-- **API**
-  - `POST /search`  
-    → Query 입력  
-    → 관련 문서 Top-k 반환
-
----
+* **Vector DB 구축:** ChromaDB 또는 FAISS를 활용하여 문서 임베딩 데이터를 적재(Ingestion)합니다.
+* **검색 로직 구현:** Query 텍스트를 벡터화한 뒤, Cosine Similarity 기반으로 가장 유사한 문서(Top-k)를 검색합니다.
+* **API:** `POST /search` (사용자 질문 입력 → 관련 문서 Top-k 반환)
 
 ### 2. LLM-based Generation
-
-- 외부 LLM 연동 (OpenAI API 등)
-- Retrieved Context 기반 답변 생성
-- Prompt Engineering을 통한 Hallucination 제어
-
-- **API**
-  - `POST /chat`  
-    → Retrieval + Generation 통합  
-    → 최종 답변 반환
-
----
+* **Context Injection:** 검색된 문서 내용을 LLM(OpenAI 등)의 프롬프트에 주입하여 답변을 생성합니다.
+* **Prompt Engineering:** Hallucination(거짓 답변)을 억제하고, 문서 내용에 기반한 정확한 답변을 유도합니다.
+* **API:** `POST /chat` (Retrieval + Generation 과정이 통합된 QA 인터페이스)
 
 ### 3. Engineering & Deployment
-
-- FastAPI 기반 RAG 백엔드 구조 정리
-- Dockerfile 작성 및 서버 컨테이너화
-- 로컬 및 배포 환경에서의 실행 검증
-
----
-
-### Output
-
-- RAG 검색 및 질의응답 API
-- Vector DB 기반 문서 검색 시스템
-- Docker 컨테이너 이미지
+* **Backend Refactoring:** 실험용 코드(Notebook 등)를 FastAPI 백엔드 아키텍처에 맞춰 모듈화 및 최적화합니다.
+* **Containerization:** `Dockerfile`을 작성하여 로컬 및 클라우드 환경에서 동일하게 실행 가능한 컨테이너 이미지를 빌드합니다.
