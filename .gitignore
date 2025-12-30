@@ -24,3 +24,8 @@ data/
 .ipynb_checkpoints/
 
 models/
+
+# Vector Database
+chroma_db/
+__pycache__/
+*.pyc
