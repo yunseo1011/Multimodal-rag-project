@@ -17,7 +17,7 @@ class GeminiClient:
         self.client = genai.Client(api_key=self.api_key)
         
         # 2. 모델 설정
-        self.model_name = "gemini-flash-latest" 
+        self.model_name = "gemini-2.5-flash-lite" 
         print(f"✅ GeminiClient Ready (Model: {self.model_name})")
 
     def generate(self, prompt: str):
