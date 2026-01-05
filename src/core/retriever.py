@@ -1,3 +1,5 @@
+# src/core/retriever.py
+# 구버전 (layoutLM기반, 가짜이미지 생성) -> 현재 (gemini)
 import torch
 import chromadb
 import os
