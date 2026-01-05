@@ -1,10 +1,7 @@
 fastapi
 uvicorn
-python-multipart
-torch
-transformers
-pillow
+python-dotenv
 chromadb
-pydantic
-numpy
+google-generativeai
 pandas
+requests

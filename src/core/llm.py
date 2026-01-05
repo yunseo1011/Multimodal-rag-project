@@ -20,7 +20,7 @@ class GeminiClient:
         self.model_name = "gemini-2.5-flash-lite" 
         print(f"✅ GeminiClient Ready (Model: {self.model_name})")
 
-    def generate(self, prompt: str):
+    def generate(self, prompt):
         try:
             # 3. 답변 생성
             response = self.client.models.generate_content(
