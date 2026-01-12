@@ -2,6 +2,8 @@ fastapi
 uvicorn
 python-dotenv
 chromadb
+google-genai
 google-generativeai
 pandas
 requests
+pillow

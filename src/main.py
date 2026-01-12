@@ -1,10 +1,11 @@
 import sys
 import os
 
-sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from fastapi import FastAPI
-from src.api.search import router as search_router  
+from api.routers.search import router as search_router  
+from api.routers.chat import router as chat_router
 
 # 앱 생성
 app = FastAPI(
@@ -16,6 +17,7 @@ app = FastAPI(
 # 라우터 등록 
 # prefix="/api/v1" -> 실제 주소는 localhost:8000/api/v1/search
 app.include_router(search_router, prefix="/api/v1", tags=["Search"])
+app.include_router(chat_router, prefix="/api/v1", tags=["Chat"])
 
 if __name__ == "__main__":
     import uvicorn

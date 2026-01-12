@@ -8,6 +8,8 @@ WORKDIR /app
 # apt-get update 후 설치하고, 캐시를 지워서 용량을 줄임
 RUN apt-get update && apt-get install -y \
     build-essential \
+    libgl1\
+    libglib2.0-0 \
     && rm -rf /var/lib/apt/lists/*
 
 # 4. 의존성 파일 복사 및 설치
@@ -17,6 +19,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 5. 전체 코드 복사
 COPY . .
+ENV PYTHONPATH="${PYTHONPATH}:/app/src"
 
 # 6. 서버 실행 명령
 # host를 0.0.0.0으로 해야 외부에서 접속 가능

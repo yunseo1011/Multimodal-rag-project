@@ -31,3 +31,13 @@ class SearchResultItem(BaseModel):
 # 최종 검색 답변 (Response)
 class SearchResponse(BaseModel):
     results: List[SearchResultItem]
+
+# 채팅
+class ChatRequest(BaseModel):
+    query: str
+    session_id: str = "default_user"  # <-- 사용자 구별용 ID (기본값 설정)
+
+class ChatResponse(BaseModel):
+    response: str
+    category: str
+    reason: str
