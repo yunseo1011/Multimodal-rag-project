@@ -1,3 +1,4 @@
+#src/rag/multimodal_rag.py
 import os
 import re
 from PIL import Image
@@ -19,69 +20,62 @@ class MultimodalRAG:
         self.text_rag = TextRAG()
 
     def answer(self, query: str, category: str = None, history: list = None, fixed_file_path: str = None):
-        # fixed_file_path가 있으면 검색을 건너뛰고 해당 파일을 사용
+        
         file_path = fixed_file_path
         top_doc = None
 
-        # 검색용 쿼리: 최근 대화 일부를 섞어 의미 보강
-        search_query = query
-        if history:
-            search_query = " ".join(history[-3:]) + " " + query
-
+        # 1. 고정된 파일이 없으면 -> 검색(Retrieval) 수행
         if not file_path:
-            # 문서 검색
-            retrieved_docs = self.retriever.retrieve(search_query, top_k=5, category=category)
+            retrieved_docs = self.retriever.retrieve(query, top_k=5, category=category)
             if not retrieved_docs:
-                return "검색 결과가 없습니다.", None
+                return "검색 결과가 없어 답변할 수 없습니다.", None # 값 2개 반환
 
-            # 가장 질문에 잘 맞는 문서 선택
-            top_doc = self._select_best_doc(search_query, retrieved_docs)
-
+            # Reranking
+            top_doc = self._select_best_doc(query, retrieved_docs)
             original_path = top_doc["metadata"].get("file_path", "")
             filename = top_doc["metadata"].get("filename", os.path.basename(original_path))
-
-            # 실제 파일 경로 찾기
+            
+            # 경로 찾기
             file_path = self._resolve_file_path(original_path, filename)
             if not file_path:
-                return "파일을 찾을 수 없습니다.", None
-
+                return "파일을 찾을 수 없습니다.", None # 값 2개 반환
+        
+        # 2. 고정된 파일이 있으면 -> 그 파일 정보만 세팅
         else:
-            # 이미 선택된 파일이 있으면 그 파일만 사용
             filename = os.path.basename(file_path)
+            # 텍스트 파일이면 내용을 읽어야 함 (이미지는 불필요)
             content = ""
-
-            # 텍스트 파일이면 내용을 읽어서 TextRAG에 전달
-            if not file_path.lower().endswith((".png", ".jpg", ".jpeg")):
+            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
                 try:
-                    with open(file_path, "r", encoding="utf-8") as f:
+                    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
                         content = f.read()[:5000]
-                except:
-                    pass
+                except: pass
+            
+            # 가짜 top_doc 생성 (TextRAG 형식 맞추기 위함)
+            top_doc = {"content": content, "metadata": {"filename": filename}}
+            print(f"🔒 [Lock] 고정된 파일 사용: {filename}")
 
-            top_doc = {
-                "content": content,
-                "metadata": {"filename": filename}
-            }
-
-        # Vision 쪽에서만 사용할 대화 기록 요약
+        # 3. 대화 내역 정리
         history_text = ""
         if history:
-            history_text = " ".join(history[-5:]) + " "
+            history_text = "이전 대화 내역:\n" + "\n".join(history) + "\n\n"
 
-        # 파일 타입에 따라 Vision / Text 분기
+        # 4. Vision / Text 분기
         ext = os.path.splitext(file_path)[1].lower()
+        response = ""
 
-        if ext in (".png", ".jpg", ".jpeg"):
+        if ext in [".png", ".jpg", ".jpeg"]: 
+            print(f"🖼️ [Vision] {filename}")
             response = self._handle_image_query(query, file_path, history_text)
         else:
-            augmented_query = f"{history_text}{query}"
+            print(f"📝 [Text] {filename}")
+            augmented_query = f"{history_text}사용자 질문: {query}"
             response = self.text_rag.answer(augmented_query, [top_doc])
 
-        # 답변과 함께 사용한 파일 경로 반환 (세션에 고정시키기 위함)
+        # [핵심] (답변, 사용한파일경로) 튜플 반환!
         return response, file_path
-
-
-    # Top-K 문서 Reranker 
+    
+    # Top-K 문서 Reranker (기존 동일)
     def _select_best_doc(self, query, candidates):
         """
         Top-K 문서 중 '이 문서로 질문에 답할 수 있는가?' 기준으로 LLM이 최적의 문서를 선택

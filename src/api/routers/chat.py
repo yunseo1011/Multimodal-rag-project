@@ -1,4 +1,4 @@
-# src/api/chat.py
+# src/api/routers/chat.py
 from fastapi import APIRouter, HTTPException
 from src.core.router import IntentRouter
 from src.rag.multimodal_rag import MultimodalRAG
@@ -57,5 +57,5 @@ async def reset_session(session_id: str):
     # 세션 초기화 (대화 기록 및 파일 고정 삭제)
     if session_id in session_store:
         del session_store[session_id]
-        return {"message": "세션이 초기화되었습니다."}
+        return {"message": "{session_id} 세션이 초기화되었습니다."}
     return {"message": "세션을 찾을 수 없습니다."}

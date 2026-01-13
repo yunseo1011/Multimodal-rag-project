@@ -1,11 +1,14 @@
+#src/main.py
 import sys
 import os
 
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+current_dir = os.path.dirname(os.path.abspath(__file__))
+root_dir = os.path.dirname(current_dir)
+sys.path.append(root_dir)
 
 from fastapi import FastAPI
-from api.routers.search import router as search_router  
-from api.routers.chat import router as chat_router
+from src.api.routers.search import router as search_router  
+from src.api.routers.chat import router as chat_router
 
 # 앱 생성
 app = FastAPI(
