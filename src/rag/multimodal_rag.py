@@ -12,70 +12,49 @@ from src.rag.prompts import VISION_RAG_PROMPT
 DOCKER_DATA_DIR = "/app/data"
 LOCAL_DATA_DIR = "./data"
 
-
 class MultimodalRAG:
     def __init__(self):
         self.llm = GeminiClient()
         self.retriever = Retriever()
-        self.text_rag = TextRAG()
 
-    def answer(self, query: str, category: str = None, history: list = None, fixed_file_path: str = None):
-        
-        file_path = fixed_file_path
-        top_doc = None
+    def answer(self, query: str, category: str = None, 
+               history: list = None, target_file_path: str = None):
 
-        # 1. 고정된 파일이 없으면 -> 검색(Retrieval) 수행
-        if not file_path:
-            retrieved_docs = self.retriever.retrieve(query, top_k=5, category=category)
-            if not retrieved_docs:
-                return "검색 결과가 없어 답변할 수 없습니다.", None # 값 2개 반환
-
-            # Reranking
-            top_doc = self._select_best_doc(query, retrieved_docs)
-            original_path = top_doc["metadata"].get("file_path", "")
-            filename = top_doc["metadata"].get("filename", os.path.basename(original_path))
-            
-            # 경로 찾기
-            file_path = self._resolve_file_path(original_path, filename)
-            if not file_path:
-                return "파일을 찾을 수 없습니다.", None # 값 2개 반환
-        
-        # 2. 고정된 파일이 있으면 -> 그 파일 정보만 세팅
-        else:
-            filename = os.path.basename(file_path)
-            # 텍스트 파일이면 내용을 읽어야 함 (이미지는 불필요)
-            content = ""
-            if not file_path.lower().endswith(('.png', '.jpg', '.jpeg')):
-                try:
-                    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-                        content = f.read()[:5000]
-                except: pass
-            
-            # 가짜 top_doc 생성 (TextRAG 형식 맞추기 위함)
-            top_doc = {"content": content, "metadata": {"filename": filename}}
-            print(f"🔒 [Lock] 고정된 파일 사용: {filename}")
-
-        # 3. 대화 내역 정리
         history_text = ""
         if history:
             history_text = "이전 대화 내역:\n" + "\n".join(history) + "\n\n"
 
-        # 4. Vision / Text 분기
-        ext = os.path.splitext(file_path)[1].lower()
-        response = ""
-
-        if ext in [".png", ".jpg", ".jpeg"]: 
-            print(f"🖼️ [Vision] {filename}")
-            response = self._handle_image_query(query, file_path, history_text)
+        # 이미 고정된 파일이 들어온 경우 (업로드 or 이전 대화 고정)
+        if target_file_path and os.path.exists(target_file_path):
+            print(f"🔒 [Locked] 고정된 문서 분석: {os.path.basename(target_file_path)}")
+            
+        # 파일이 없으면 -> DB 검색 수행
         else:
-            print(f"📝 [Text] {filename}")
-            augmented_query = f"{history_text}사용자 질문: {query}"
-            response = self.text_rag.answer(augmented_query, [top_doc])
+            print(f"🔍 [Search] 파일 없음 -> DB 검색 수행: {query}")
+            retrieved_docs = self.retriever.retrieve(query, top_k=5, category=category)
+            
+            if not retrieved_docs:
+                return "검색 결과가 없어 답변할 수 없습니다.", None
 
-        # [핵심] (답변, 사용한파일경로) 튜플 반환!
-        return response, file_path
+            # Rerank로 가장 좋은 문서 하나 선정
+            target_doc = self._select_best_doc(query, retrieved_docs)
+            original_path = target_doc["metadata"].get("file_path", "")
+            filename = target_doc["metadata"].get("filename", os.path.basename(original_path))
+
+            # 경로 보정
+            target_file_path = self._resolve_file_path(original_path, filename)
+            
+            if not target_file_path:
+                return "파일을 찾을 수 없습니다.", None
+            
+            print(f"🎯 [Found] 검색된 파일: {os.path.basename(target_file_path)}")
+
+        print(f"🖼️ [Vision] 이미지 분석 시작: {os.path.basename(target_file_path)}")
+        response = self._handle_image_query(query, target_file_path, history_text)
+        
+        return response, target_file_path
     
-    # Top-K 문서 Reranker (기존 동일)
+    # Top-K 문서 Reranker
     def _select_best_doc(self, query, candidates):
         """
         Top-K 문서 중 '이 문서로 질문에 답할 수 있는가?' 기준으로 LLM이 최적의 문서를 선택

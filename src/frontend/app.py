@@ -36,13 +36,13 @@ if "chat_sessions" not in st.session_state:
     saved_data = load_state()
     
     if saved_data:
-        # 📂 저장된 기록 복원
+        # 저장된 기록 복원
         st.session_state.chat_sessions = saved_data["sessions"]
         st.session_state.active_session_id = saved_data["active_id"]
         st.session_state.chat_counter = saved_data.get("counter", 2)
         print("✅ 이전 대화 기록을 복원했습니다.")
     else:
-        # 🆕 신규 시작
+        # 신규 시작
         first_id = str(uuid.uuid4())
         st.session_state.chat_sessions = {
             first_id: {"title": "새로운 대화 1", "messages": []}
