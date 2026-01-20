@@ -1,5 +1,5 @@
-# 1. 가벼운 파이썬 3.10 이미지 사용
-FROM python:3.10-slim
+# 1. 가벼운 파이썬 3.11 이미지 사용
+FROM python:3.11-slim
 
 # 2. 작업 디렉토리 설정
 WORKDIR /app
@@ -8,8 +8,12 @@ WORKDIR /app
 # apt-get update 후 설치하고, 캐시를 지워서 용량을 줄임
 RUN apt-get update && apt-get install -y \
     build-essential \
-    libgl1\
+    libgl1 \
     libglib2.0-0 \
+    libgomp1 \
+    libxext6 \
+    libxrender-dev \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
 # 4. 의존성 파일 복사 및 설치

@@ -11,6 +11,7 @@ venv/
 
 # --- 데이터 (가장 중요! 절대 커밋 금지) ---
 data/
+paddle_models/
 
 # --- 모델 가중치 파일 (대용량) ---
 *.pt
@@ -32,3 +33,5 @@ __pycache__/
 
 
 chat_history.json
+temp_uploads/
+temp_api/

@@ -4,16 +4,17 @@ import uuid
 import json
 import os
 
-# --- 1. 기본 설정 ---
+#  1. 기본 설정 
 st.set_page_config(page_title="Multimodal RAG", layout="wide")
 
-API_BASE_URL = "http://localhost:8000/api/v1"
+# Docker Compose 네트워크 안에서는 'localhost' 대신 서비스 이름('backend')을 써야 함.
+API_BASE_URL = os.getenv("API_BASE_URL", "http://backend:8000/api/v1")
+
 HISTORY_FILE = "chat_history.json"
 
-# --- 2. 데이터 저장/불러오기 함수 (새로고침 방지) ---
+# 2. 데이터 저장/불러오기 함수 (새로고침 방지) 
 def save_state():
     """현재 세션 상태를 JSON 파일로 저장"""
-    # 세션별로 업로드된 파일 정보도 같이 저장해야 함
     data = {
         "sessions": st.session_state.chat_sessions,
         "active_id": st.session_state.active_session_id,
@@ -32,7 +33,7 @@ def load_state():
             return None
     return None
 
-# --- 3. 초기화 로직 (앱 실행 시 1회 수행) ---
+# 3. 초기화 로직 (앱 실행 시 1회 수행) 
 if "chat_sessions" not in st.session_state:
     saved_data = load_state()
     
@@ -42,7 +43,6 @@ if "chat_sessions" not in st.session_state:
         st.session_state.chat_counter = saved_data.get("counter", 2)
     else:
         first_id = str(uuid.uuid4())
-        # file_info: { "filename": "a.jpg", "label": "invoice" } 형태 저장
         st.session_state.chat_sessions = {
             first_id: {"title": "새로운 대화 1", "messages": [], "file_info": None}
         }
@@ -57,11 +57,11 @@ def get_active_session():
         save_state()
     return active_id
 
-# --- 4. 사이드바 (채팅방 관리 및 업로드) ---
+#  4. 사이드바 (채팅방 관리 및 업로드) 
 with st.sidebar:
     st.title("🗂️ 채팅방 목록")
     
-    # [➕ 새 채팅방 만들기]
+    # 새 채팅방 만들기]
     if st.button("➕ New Chat", use_container_width=True):
         new_id = str(uuid.uuid4())
         new_title = f"새로운 대화 {st.session_state.chat_counter}"
@@ -69,7 +69,7 @@ with st.sidebar:
         st.session_state.chat_sessions[new_id] = {
             "title": new_title, 
             "messages": [], 
-            "file_info": None  # 파일 정보 초기화
+            "file_info": None
         }
         st.session_state.active_session_id = new_id
         st.session_state.chat_counter += 1
@@ -102,7 +102,7 @@ with st.sidebar:
 
     st.divider()
     
-    # [현재 방 파일 관리] - 여기가 많이 바뀜!
+    # [현재 방 파일 관리]
     current_session_id = get_active_session()
     current_chat_data = st.session_state.chat_sessions[current_session_id]
     
@@ -113,12 +113,6 @@ with st.sidebar:
         info = current_chat_data["file_info"]
         st.success(f"✅ 분석 완료")
         st.info(f"📁 파일: {info['filename']}\n🏷️ 유형: {info['label']}")
-        
-        # (선택사항) 파일 교체하고 싶을 때? -> 새 채팅방 권장하지만 굳이 넣자면
-        # if st.button("파일 제거"):
-        #     current_chat_data["file_info"] = None
-        #     save_state()
-        #     st.rerun()
             
     # 파일이 없는 경우 -> 업로드 UI 노출
     else:
@@ -127,28 +121,29 @@ with st.sidebar:
         if uploaded_file:
             st.image(uploaded_file, caption="Preview", use_container_width=True)
             
-            # [핵심] 업로드 버튼을 눌러야 API 호출
             if st.button("🚀 분석 시작", type="primary"):
-                with st.spinner("LayoutLM으로 문서 분석 중..."):
+                with st.spinner("AI가 문서를 분석 중입니다..."):
                     try:
                         # 1. API 호출 준비
                         files = {"file": (uploaded_file.name, uploaded_file, uploaded_file.type)}
                         data = {"session_id": current_session_id}
                         
-                        # 2. POST /upload 요청
+                        # 2. POST /upload 요청 (환경변수 적용된 URL 사용)
                         response = requests.post(f"{API_BASE_URL}/upload", files=files, data=data)
                         
                         if response.status_code == 200:
                             res_json = response.json()
-                            # 3. 결과 저장 (화면 갱신용)
+                            # 3. 결과 저장
                             current_chat_data["file_info"] = {
                                 "filename": res_json["filename"],
                                 "label": res_json["label"]
                             }
                             save_state()
-                            st.rerun() # 화면 갱신해서 업로드 UI 숨기고 정보 보여주기
+                            st.rerun()
                         else:
-                            st.error(f"실패: {response.text}")
+                            st.error(f"업로드 실패: {response.text}")
+                    except requests.exceptions.ConnectionError:
+                        st.error("🚨 서버 연결 실패! 백엔드가 켜져 있는지 확인하세요.")
                     except Exception as e:
                         st.error(f"에러 발생: {e}")
 
@@ -163,7 +158,7 @@ with st.sidebar:
         else:
             st.warning("최소 하나의 채팅방은 있어야 합니다.")
 
-# --- 5. 메인 채팅 화면 ---
+# 5. 메인 채팅 화면 
 active_id = get_active_session()
 current_chat = st.session_state.chat_sessions[active_id]
 
@@ -176,21 +171,21 @@ for msg in current_chat["messages"]:
 
 # [사용자 입력 처리]
 if prompt := st.chat_input("질문을 입력하세요..."):
-    # 1. 사용자 메시지 표시
+    # 사용자 메시지 표시
     current_chat["messages"].append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.write(prompt)
 
-    # 2. 백엔드 통신 (이제 파일은 안 보내고 JSON만 보냄)
+    # 백엔드 통신
     with st.chat_message("assistant"):
         with st.spinner("답변 생성 중..."):
             try:
-                # [핵심] 오직 JSON 데이터만 전송
                 payload = {
                     "session_id": active_id, 
                     "query": prompt
                 }
                 
+                # API 호출 (환경변수 적용된 URL 사용)
                 response = requests.post(f"{API_BASE_URL}/chat", json=payload)
 
                 if response.status_code == 200:
@@ -205,7 +200,6 @@ if prompt := st.chat_input("질문을 입력하세요..."):
                         st.session_state.chat_sessions[active_id]["title"] = new_title
 
                     # 답변 출력
-                    # (선택사항) 답변 위에 어떤 문서를 보고 있는지 태그 표시
                     if doc_category:
                         st.caption(f"🧠 Context: {doc_category}")
                         
@@ -217,5 +211,7 @@ if prompt := st.chat_input("질문을 입력하세요..."):
                 else:
                     st.error(f"Server Error: {response.text}")
             
+            except requests.exceptions.ConnectionError:
+                st.error(f"🚨 연결 실패: {API_BASE_URL}에 접속할 수 없습니다.")
             except Exception as e:
                 st.error(f"Connection Error: {e}")

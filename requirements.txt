@@ -1,9 +1,25 @@
+# Web Framework 
 fastapi
 uvicorn
 python-dotenv
+python-multipart   
+requests
+
+# Database
 chromadb
+
+# AI & LLM
 google-genai
 google-generativeai
-pandas
-requests
+transformers
+torch 
+
+# OCR & Image Processing
+paddlepaddle       
+paddleocr
+opencv-python-headless 
 pillow
+numpy
+
+# Data Utilities 
+pandas

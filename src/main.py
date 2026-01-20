@@ -7,6 +7,7 @@ root_dir = os.path.dirname(current_dir)
 sys.path.append(root_dir)
 
 from fastapi import FastAPI
+from src.api.routers.health import router as health_router
 from src.api.routers.search import router as search_router  
 from src.api.routers.chat import router as chat_router
 
@@ -19,6 +20,7 @@ app = FastAPI(
 
 # 라우터 등록 
 # prefix="/api/v1" -> 실제 주소는 localhost:8000/api/v1/search
+app.include_router(health_router, prefix="/api/v1", tags=["Health"])
 app.include_router(search_router, prefix="/api/v1", tags=["Search"])
 app.include_router(chat_router, prefix="/api/v1", tags=["Chat"])
 
