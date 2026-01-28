@@ -1,7 +1,8 @@
 # src/api/routers/chat.py
 import os
-import shutil
+import shutil 
 from fastapi import APIRouter, HTTPException, UploadFile, File, Form
+from src.core.storage import S3Client 
 from src.core.router import IntentRouter
 from src.rag.multimodal_rag import MultimodalRAG
 from src.rag.upload_processor import DocumentProcessor 
@@ -13,6 +14,7 @@ router = APIRouter()
 intent_router = IntentRouter()
 rag_system = MultimodalRAG()
 doc_processor = DocumentProcessor() # LayoutLM + OCR
+s3_client = S3Client() 
 
 # 2. 세션 저장소
 session_store = {}
@@ -22,39 +24,58 @@ os.makedirs(TEMP_DIR, exist_ok=True)
 @router.post("/upload")
 async def upload_document(session_id: str = Form(...), file: UploadFile = File(...)):
     """
-    [업로드] LayoutLM으로 문서 종류(label)만 알아내서 세션에 저장
+    [업로드] 
+    1. 로컬 Temp에 먼저 저장 (가장 안전함)
+    2. 저장된 로컬 파일을 읽어서 S3에 백업
+    3. LayoutLM으로 문서 분석
     """
     print(f"\n📥 [Upload] 파일 수신: {file.filename} ({session_id})")
 
     try:
-        # 파일 저장
+        # [Step 1] 로컬 Temp 저장 (먼저 저장!) 💾
+        # 메모리에 있는 파일을 안전하게 하드디스크로 옮깁니다.
         file_path = os.path.join(TEMP_DIR, file.filename)
         with open(file_path, "wb") as buffer:
             shutil.copyfileobj(file.file, buffer)
-        
-        # LayoutLM 분석 (오래 걸리면 비동기로 뺄 수 있음)
+            
+        # [Step 2] AWS S3 업로드 (로컬 파일 읽어서 업로드) ☁️
+        # 이미 디스크에 저장된 파일을 다시 열어서('rb') S3로 보냅니다.
+        # 이렇게 하면 'closed file' 에러가 절대 나지 않습니다.
+        with open(file_path, "rb") as f:
+            s3_key = s3_client.upload_file(f, file.filename, session_id)
+
+        # [Step 3] LayoutLM 분석 🕵️
         processed_data = doc_processor.process_file(file_path)
         
         if not processed_data:
             return {"message": "문서 분석 실패"}
 
-        # 세션에 정보 저장 (경로 + 라벨)
+        # [Step 4] 세션에 정보 저장
         if session_id not in session_store:
-            session_store[session_id] = {"history": [], "active_file": None, "label": None}
+            session_store[session_id] = {
+                "history": [], 
+                "active_file": None, 
+                "label": None, 
+                "s3_key": None
+            }
             
         session_store[session_id]["active_file"] = file_path
-        session_store[session_id]["label"] = processed_data['label'] # 예: "invoice"
+        session_store[session_id]["label"] = processed_data['label']
+        session_store[session_id]["s3_key"] = s3_key
         
         return {
-            "message": f"분석 완료! 문서는 '{processed_data['label']}' 입니다.",
+            "message": f"S3 업로드 및 분석 완료! ({processed_data['label']})",
             "filename": file.filename,
-            "label": processed_data['label']
+            "label": processed_data['label'],
+            "s3_key": s3_key
         }
 
     except Exception as e:
         print(f"❌ Upload Error: {e}")
+        # 로컬에 파일이 남아있다면 에러 시 삭제하는 로직(선택사항)
+        if 'file_path' in locals() and os.path.exists(file_path):
+            os.remove(file_path)
         raise HTTPException(status_code=500, detail=str(e))
-
 
 @router.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
@@ -65,8 +86,9 @@ async def chat_endpoint(request: ChatRequest):
     """
     user_id = request.session_id
     
+    # 세션 없으면 생성
     if user_id not in session_store:
-        session_store[user_id] = {"history": [], "active_file": None, "label": None}
+        session_store[user_id] = {"history": [], "active_file": None, "label": None, "s3_key": None}
     
     session = session_store[user_id]
     current_file = session["active_file"]
@@ -75,9 +97,7 @@ async def chat_endpoint(request: ChatRequest):
     print(f"\n=== Req: {request.query} [File: {os.path.basename(current_file) if current_file else 'None'}] ===")
     
     try:
-        # -------------------------------------------------------
         # [로직 분기] 업로드 파일 유무에 따라 결정
-        # -------------------------------------------------------
         if current_file and doc_label:
             # [Case A] 업로드 파일 있음 (Router Skip)
             print(f"🚀 [Direct] 업로드된 '{doc_label}' 문서 사용")
@@ -85,7 +105,7 @@ async def chat_endpoint(request: ChatRequest):
             search_category = None
             reason_msg = f"Uploaded ({doc_label})"
             
-            # ★ 꿀팁: 프롬프트나 함수 수정 없이, 질문 자체에 정보를 태워서 보냄
+            # 질문에 문서 정보 태우기
             final_query = f"(문서 유형: {doc_label}) {request.query}"
 
         else:
@@ -94,29 +114,26 @@ async def chat_endpoint(request: ChatRequest):
             
             search_category = route_result['filter']
             reason_msg = route_result['reason']
-            final_query = request.query # 질문 그대로
+            final_query = request.query 
             
             print(f"🤖 [Router] 검색 카테고리: {search_category}")
 
 
-        # -------------------------------------------------------
         # RAG 실행
-        # -------------------------------------------------------
-        # multimodal.py를 수정할 필요 없이 기존 함수 그대로 호출
         answer, used_file = rag_system.answer(
-            query=final_query,                # 수정된 질문 전달
+            query=final_query,                
             category=search_category,         
             history=session["history"][-6:], 
-            target_file_path=current_file     # 파일 경로 (있으면 고정, 없으면 None)
+            target_file_path=current_file     
         )
         
-        # [Lock] 검색으로 파일을 찾았다면 고정 (라벨은 모름)
+        # [Lock] 검색으로 파일을 찾았다면 고정
         if session["active_file"] is None and used_file:
             session["active_file"] = used_file
             session["label"] = "Search Result"
             print(f"📌 [Lock] 검색된 파일로 세션 고정: {os.path.basename(used_file)}")
 
-        # 히스토리 업데이트 (저장은 원래 질문으로)
+        # 히스토리 업데이트
         session["history"].append(f"User: {request.query}")
         session["history"].append(f"AI: {answer}")
         
@@ -133,8 +150,7 @@ async def chat_endpoint(request: ChatRequest):
 
 @router.delete("/chat/session/{session_id}")
 async def reset_session(session_id: str):
-    # 세션 초기화 (대화 기록 및 파일 고정 삭제)
     if session_id in session_store:
         del session_store[session_id]
-        return {"message": "{session_id} 세션이 초기화되었습니다."}
+        return {"message": f"{session_id} 세션이 초기화되었습니다."}
     return {"message": "세션을 찾을 수 없습니다."}
