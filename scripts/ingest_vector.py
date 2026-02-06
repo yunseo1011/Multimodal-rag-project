@@ -48,7 +48,7 @@ def main():
     df = pd.read_parquet(DATA_PATH)
     
     ids = df["doc_id"].astype(str).tolist()
-    embeddings = df["embedding"].tolist()
+    embeddings = [x.tolist() for x in df["embedding"]]
     documents = df["text"].fillna("").tolist() 
     
     metadatas = []

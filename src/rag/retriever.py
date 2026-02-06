@@ -20,7 +20,7 @@ class Retriever:
 
         self.embedding_function = embedding_functions.GoogleGenerativeAiEmbeddingFunction(
             api_key=api_key,
-            model_name="models/text-embedding-004",  # 모델 명시
+            model_name="models/gemini-embedding-001",  # 모델 명시
             task_type="RETRIEVAL_QUERY" # 질문할 때는 QUERY 타입 사용
         )
 
@@ -33,7 +33,7 @@ class Retriever:
                 name=self.collection_name,
                 embedding_function=self.embedding_function
             )
-            print(f"✅ Retriever Connected to ChromaDB at '{self.db_path}' (model: text-embedding-004)")
+            print(f"✅ Retriever Connected to ChromaDB at '{self.db_path}'")
         except Exception as e:
             print(f"❌ DB 연결 실패: {e}")
             raise e
