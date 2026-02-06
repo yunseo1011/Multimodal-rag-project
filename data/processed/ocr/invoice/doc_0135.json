@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0135.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "HAZLETON",
+      "bbox": [
+        125,
+        119,
+        342,
+        160
+      ],
+      "confidence": 0.9459189772605896
+    },
+    {
+      "text": "INVOICE NUMBER 409071",
+      "bbox": [
+        533,
+        116,
+        712,
+        135
+      ],
+      "confidence": 0.9922093152999878
+    },
+    {
+      "text": "LABORATORIES AMERICA, INC.",
+      "bbox": [
+        130,
+        155,
+        372,
+        179
+      ],
+      "confidence": 0.9966320395469666
+    },
+    {
+      "text": "TELEPHONE",
+      "bbox": [
+        657,
+        154,
+        744,
+        175
+      ],
+      "confidence": 0.9998700618743896
+    },
+    {
+      "text": "(703)893-5400",
+      "bbox": [
+        641,
+        170,
+        751,
+        193
+      ],
+      "confidence": 0.9682391881942749
+    },
+    {
+      "text": "9200 LEESBUAG TURNPIKE. VIENNA, VA 22180. U.S.A.",
+      "bbox": [
+        128,
+        177,
+        462,
+        202
+      ],
+      "confidence": 0.9456400871276855
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        361,
+        217,
+        493,
+        244
+      ],
+      "confidence": 0.9996793866157532
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        64,
+        258,
+        116,
+        290
+      ],
+      "confidence": 0.9993152618408203
+    },
+    {
+      "text": "Lorillard Research Center",
+      "bbox": [
+        162,
+        262,
+        377,
+        291
+      ],
+      "confidence": 0.987606406211853
+    },
+    {
+      "text": "420 English Street",
+      "bbox": [
+        162,
+        282,
+        319,
+        307
+      ],
+      "confidence": 0.928283154964447
+    },
+    {
+      "text": "Box 21688",
+      "bbox": [
+        162,
+        299,
+        246,
+        323
+      ],
+      "confidence": 0.8926411867141724
+    },
+    {
+      "text": "Greensboro, NC 27420",
+      "bbox": [
+        163,
+        316,
+        345,
+        342
+      ],
+      "confidence": 0.9967678785324097
+    },
+    {
+      "text": "L_ATTN: Connie J. Stone",
+      "bbox": [
+        141,
+        352,
+        353,
+        376
+      ],
+      "confidence": 0.9754058718681335
+    },
+    {
+      "text": "Invoice Date",
+      "bbox": [
+        59,
+        401,
+        134,
+        427
+      ],
+      "confidence": 0.9824762344360352
+    },
+    {
+      "text": "March 19, 1984 Payment Jerms. NET 30 DAYS",
+      "bbox": [
+        164,
+        402,
+        490,
+        432
+      ],
+      "confidence": 0.9591158628463745
+    },
+    {
+      "text": "Charges",
+      "bbox": [
+        568,
+        400,
+        625,
+        420
+      ],
+      "confidence": 0.999814510345459
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        59,
+        427,
+        107,
+        454
+      ],
+      "confidence": 0.9995303750038147
+    },
+    {
+      "text": "152E",
+      "bbox": [
+        278,
+        424,
+        415,
+        450
+      ],
+      "confidence": 0.9725844860076904
+    },
+    {
+      "text": "Thru Period",
+      "bbox": [
+        569,
+        414,
+        647,
+        431
+      ],
+      "confidence": 0.9445623755455017
+    },
+    {
+      "text": "642-127",
+      "bbox": [
+        168,
+        429,
+        229,
+        448
+      ],
+      "confidence": 0.9999842047691345
+    },
+    {
+      "text": "Ening",
+      "bbox": [
+        568,
+        428,
+        618,
+        447
+      ],
+      "confidence": 0.9652084112167358
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        203,
+        463,
+        311,
+        483
+      ],
+      "confidence": 0.9999499917030334
+    },
+    {
+      "text": "Charges",
+      "bbox": [
+        482,
+        463,
+        522,
+        478
+      ],
+      "confidence": 0.9995490908622742
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        723,
+        466,
+        761,
+        484
+      ],
+      "confidence": 0.9998891949653625
+    },
+    {
+      "text": "This Period",
+      "bbox": [
+        474,
+        476,
+        531,
+        490
+      ],
+      "confidence": 0.9724789261817932
+    },
+    {
+      "text": "14-day Subacute Study in Rats - B32",
+      "bbox": [
+        81,
+        495,
+        368,
+        517
+      ],
+      "confidence": 0.989168643951416
+    },
+    {
+      "text": "$1,950.00",
+      "bbox": [
+        460,
+        499,
+        544,
+        517
+      ],
+      "confidence": 0.9999576210975647
+    },
+    {
+      "text": "$",
+      "bbox": [
+        686,
+        499,
+        699,
+        513
+      ],
+      "confidence": 0.9991114735603333
+    },
+    {
+      "text": "1,950.00",
+      "bbox": [
+        699,
+        498,
+        771,
+        516
+      ],
+      "confidence": 0.998077392578125
+    },
+    {
+      "text": "Final report mailei March 1, 1984",
+      "bbox": [
+        83,
+        553,
+        349,
+        571
+      ],
+      "confidence": 0.9810181856155396
+    },
+    {
+      "text": "03-26784",
+      "bbox": [
+        364,
+        708,
+        501,
+        735
+      ],
+      "confidence": 0.9288705587387085
+    },
+    {
+      "text": "Dept 9590",
+      "bbox": [
+        356,
+        731,
+        499,
+        765
+      ],
+      "confidence": 0.9738603234291077
+    },
+    {
+      "text": "Acct 4111",
+      "bbox": [
+        362,
+        761,
+        489,
+        793
+      ],
+      "confidence": 0.9552955627441406
+    },
+    {
+      "text": "87104071",
+      "bbox": [
+        701,
+        856,
+        741,
+        972
+      ],
+      "confidence": 0.9998190999031067
+    },
+    {
+      "text": "Remit to: P.0. Box 25065, Richmond,Va. 23260",
+      "bbox": [
+        74,
+        954,
+        438,
+        977
+      ],
+      "confidence": 0.9748194217681885
+    }
+  ],
+  "full_text": "HAZLETON\nINVOICE NUMBER 409071\nLABORATORIES AMERICA, INC.\nTELEPHONE\n(703)893-5400\n9200 LEESBUAG TURNPIKE. VIENNA, VA 22180. U.S.A.\nINVOICE\nTo:\nLorillard Research Center\n420 English Street\nBox 21688\nGreensboro, NC 27420\nL_ATTN: Connie J. Stone\nInvoice Date\nMarch 19, 1984 Payment Jerms. NET 30 DAYS\nCharges\nProject\n152E\nThru Period\n642-127\nEning\nDescription\nCharges\nTotal\nThis Period\n14-day Subacute Study in Rats - B32\n$1,950.00\n$\n1,950.00\nFinal report mailei March 1, 1984\n03-26784\nDept 9590\nAcct 4111\n87104071\nRemit to: P.0. Box 25065, Richmond,Va. 23260"
+}

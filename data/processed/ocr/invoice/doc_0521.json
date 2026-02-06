@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0521.png",
+    "image_width": 769,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "GA- thoh",
+      "bbox": [
+        648,
+        320,
+        769,
+        359
+      ],
+      "confidence": 0.7948684096336365
+    },
+    {
+      "text": "(",
+      "bbox": [
+        245,
+        350,
+        274,
+        386
+      ],
+      "confidence": 0.9872183799743652
+    },
+    {
+      "text": "(",
+      "bbox": [
+        511,
+        347,
+        532,
+        378
+      ],
+      "confidence": 0.9863401651382446
+    },
+    {
+      "text": "VORM NOP.O. 101D",
+      "bbox": [
+        10,
+        361,
+        119,
+        381
+      ],
+      "confidence": 0.7562532424926758
+    },
+    {
+      "text": "1971",
+      "bbox": [
+        712,
+        362,
+        769,
+        415
+      ],
+      "confidence": 0.7836435437202454
+    },
+    {
+      "text": "September 10,",
+      "bbox": [
+        511,
+        377,
+        645,
+        408
+      ],
+      "confidence": 0.9991118907928467
+    },
+    {
+      "text": "NEW YORK 10017,",
+      "bbox": [
+        355,
+        393,
+        500,
+        413
+      ],
+      "confidence": 0.9982561469078064
+    },
+    {
+      "text": "LORILLARD CORPORATION",
+      "bbox": [
+        188,
+        424,
+        589,
+        462
+      ],
+      "confidence": 0.9994297027587891
+    },
+    {
+      "text": "200 EAST 42nd STREET",
+      "bbox": [
+        293,
+        463,
+        476,
+        485
+      ],
+      "confidence": 0.9983265995979309
+    },
+    {
+      "text": "HAZELTON LABORATORIES, INC.",
+      "bbox": [
+        61,
+        499,
+        325,
+        525
+      ],
+      "confidence": 0.9879851341247559
+    },
+    {
+      "text": "TO_",
+      "bbox": [
+        18,
+        509,
+        45,
+        525
+      ],
+      "confidence": 0.8273944854736328
+    },
+    {
+      "text": "P.O. Box 30",
+      "bbox": [
+        292,
+        535,
+        417,
+        559
+      ],
+      "confidence": 0.8938897848129272
+    },
+    {
+      "text": "FALLS CHURCH, VIRGINIA",
+      "bbox": [
+        340,
+        561,
+        565,
+        587
+      ],
+      "confidence": 0.9980886578559875
+    },
+    {
+      "text": "22046",
+      "bbox": [
+        559,
+        557,
+        630,
+        583
+      ],
+      "confidence": 0.9965108633041382
+    },
+    {
+      "text": "CHEMESOL PROJECT - PROPORTIONATE SHARE",
+      "bbox": [
+        155,
+        628,
+        524,
+        653
+      ],
+      "confidence": 0.997877299785614
+    },
+    {
+      "text": "OF _INDUSTRY COSTS FOR TESTING BY",
+      "bbox": [
+        154,
+        660,
+        467,
+        686
+      ],
+      "confidence": 0.9814119338989258
+    },
+    {
+      "text": "423",
+      "bbox": [
+        708,
+        681,
+        749,
+        709
+      ],
+      "confidence": 0.9998037219047546
+    },
+    {
+      "text": "HAZELTON LABORATORIES.",
+      "bbox": [
+        155,
+        692,
+        365,
+        718
+      ],
+      "confidence": 0.9980154633522034
+    },
+    {
+      "text": "423",
+      "bbox": [
+        564,
+        688,
+        605,
+        712
+      ],
+      "confidence": 0.9998939037322998
+    },
+    {
+      "text": "36",
+      "bbox": [
+        621,
+        683,
+        655,
+        712
+      ],
+      "confidence": 0.9991855621337891
+    },
+    {
+      "text": "00555489",
+      "bbox": [
+        701,
+        887,
+        726,
+        992
+      ],
+      "confidence": 0.9855860471725464
+    }
+  ],
+  "full_text": "GA- thoh\n(\n(\nVORM NOP.O. 101D\n1971\nSeptember 10,\nNEW YORK 10017,\nLORILLARD CORPORATION\n200 EAST 42nd STREET\nHAZELTON LABORATORIES, INC.\nTO_\nP.O. Box 30\nFALLS CHURCH, VIRGINIA\n22046\nCHEMESOL PROJECT - PROPORTIONATE SHARE\nOF _INDUSTRY COSTS FOR TESTING BY\n423\nHAZELTON LABORATORIES.\n423\n36\n00555489"
+}

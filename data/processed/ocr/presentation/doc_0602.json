@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0602.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "REDACTED",
+      "bbox": [
+        541,
+        0,
+        703,
+        53
+      ],
+      "confidence": 0.9983483552932739
+    },
+    {
+      "text": "TOBACCO FLAVORS: A CHALLENGE OF THE FUTURE",
+      "bbox": [
+        227,
+        75,
+        557,
+        102
+      ],
+      "confidence": 0.9636349678039551
+    },
+    {
+      "text": "As Dick said, my talk this evening will focus on tobacco flavors. When",
+      "bbox": [
+        158,
+        122,
+        706,
+        153
+      ],
+      "confidence": 0.996080756187439
+    },
+    {
+      "text": "deciding on how to present this topic to experts in the flavor industry, it",
+      "bbox": [
+        119,
+        154,
+        698,
+        188
+      ],
+      "confidence": 0.9828989505767822
+    },
+    {
+      "text": "AEDACTED",
+      "bbox": [
+        704,
+        153,
+        768,
+        186
+      ],
+      "confidence": 0.9219924211502075
+    },
+    {
+      "text": "dawned on me -- why not turn the tables on them. Since you're the experts,",
+      "bbox": [
+        120,
+        186,
+        695,
+        217
+      ],
+      "confidence": 0.9865078330039978
+    },
+    {
+      "text": "let me pose the questions to you - thus my title, \"Tobacco Flavors: A Challenge",
+      "bbox": [
+        121,
+        217,
+        735,
+        244
+      ],
+      "confidence": 0.993048369884491
+    },
+    {
+      "text": "of the Future.\" Tonight, I intend to answer some questions you might have,",
+      "bbox": [
+        121,
+        245,
+        696,
+        274
+      ],
+      "confidence": 0.9983315467834473
+    },
+    {
+      "text": "but more importantly, I'll be posing more questions which must be answered in.",
+      "bbox": [
+        119,
+        275,
+        714,
+        301
+      ],
+      "confidence": 0.9834098815917969
+    },
+    {
+      "text": "the future.",
+      "bbox": [
+        119,
+        304,
+        207,
+        325
+      ],
+      "confidence": 0.9688394069671631
+    },
+    {
+      "text": "My talk will focus on several areas. First, I would like to give you",
+      "bbox": [
+        157,
+        335,
+        693,
+        358
+      ],
+      "confidence": 0.9781515598297119
+    },
+    {
+      "text": "some background into the tobacco industry followed by a brief glossary of",
+      "bbox": [
+        117,
+        365,
+        686,
+        387
+      ],
+      "confidence": 0.9956216812133789
+    },
+    {
+      "text": "terms I will use. Then, since you'll be experts in my jargon, I'il discuss",
+      "bbox": [
+        116,
+        395,
+        701,
+        416
+      ],
+      "confidence": 0.9873422384262085
+    },
+    {
+      "text": "some of the flavors used historically in cigarettes, then move on to a dis-",
+      "bbox": [
+        116,
+        425,
+        701,
+        446
+      ],
+      "confidence": 0.9759946465492249
+    },
+    {
+      "text": "cussion of the compounds found in tobacco and tobacco smcke. Finally, I'll",
+      "bbox": [
+        117,
+        458,
+        700,
+        475
+      ],
+      "confidence": 0.9807168841362
+    },
+    {
+      "text": "address what is currently going on in the area of tobacco flavors and hope-",
+      "bbox": [
+        116,
+        486,
+        700,
+        507
+      ],
+      "confidence": 0.9866705536842346
+    },
+    {
+      "text": "fully plant some seeds in your minds so you can go back to your respective",
+      "bbox": [
+        117,
+        519,
+        691,
+        536
+      ],
+      "confidence": 0.9821439385414124
+    },
+    {
+      "text": "companies and work on solving the industries' problems.",
+      "bbox": [
+        116,
+        547,
+        537,
+        567
+      ],
+      "confidence": 0.9721416234970093
+    },
+    {
+      "text": "REDACTED",
+      "bbox": [
+        0,
+        575,
+        86,
+        739
+      ],
+      "confidence": 0.9921544790267944
+    },
+    {
+      "text": "The cigarette industry in the United States alone represents about $10\"",
+      "bbox": [
+        153,
+        577,
+        698,
+        599
+      ],
+      "confidence": 0.9846479296684265
+    },
+    {
+      "text": "billion in gross sales. This astronomical figure does not take into account",
+      "bbox": [
+        114,
+        606,
+        704,
+        630
+      ],
+      "confidence": 0.9903032183647156
+    },
+    {
+      "text": "the impact on related industries. Cigarette manufacturers spend billions of",
+      "bbox": [
+        114,
+        639,
+        703,
+        660
+      ],
+      "confidence": 0.9848569631576538
+    },
+    {
+      "text": "dollars each year on raw materials, equipment and acvertising. Theirispend-",
+      "bbox": [
+        112,
+        669,
+        703,
+        692
+      ],
+      "confidence": 0.9867215156555176
+    },
+    {
+      "text": "ing dollars touch all phases of the economy, from big business down to the",
+      "bbox": [
+        112,
+        702,
+        689,
+        721
+      ],
+      "confidence": 0.9891185164451599
+    },
+    {
+      "text": "small farmer. Cigarette sales have great impact on government, too.' The",
+      "bbox": [
+        111,
+        732,
+        683,
+        752
+      ],
+      "confidence": 0.9904793500900269
+    },
+    {
+      "text": "industry as a whole pays about $6 billion a year in federal, state and local",
+      "bbox": [
+        110,
+        763,
+        706,
+        782
+      ],
+      "confidence": 0.9857159852981567
+    },
+    {
+      "text": "KEDALIEU",
+      "bbox": [
+        158,
+        776,
+        214,
+        798
+      ],
+      "confidence": 0.7799373865127563
+    },
+    {
+      "text": "taxes.",
+      "bbox": [
+        110,
+        796,
+        161,
+        810
+      ],
+      "confidence": 0.9996442198753357
+    },
+    {
+      "text": "The domestic cigarette market is comprised of about l7o brands with",
+      "bbox": [
+        150,
+        825,
+        674,
+        844
+      ],
+      "confidence": 0.9772652983665466
+    },
+    {
+      "text": "total annual sales of over 60o billion units. To put that into perspective,",
+      "bbox": [
+        109,
+        855,
+        703,
+        875
+      ],
+      "confidence": 0.9871397018432617
+    },
+    {
+      "text": "during my short talk this evening, about 35 million cigarettes wili be solu",
+      "bbox": [
+        107,
+        887,
+        696,
+        905
+      ],
+      "confidence": 0.9707273244857788
+    },
+    {
+      "text": "652056070",
+      "bbox": [
+        602,
+        987,
+        737,
+        1000
+      ],
+      "confidence": 0.9159694314002991
+    }
+  ],
+  "full_text": "REDACTED\nTOBACCO FLAVORS: A CHALLENGE OF THE FUTURE\nAs Dick said, my talk this evening will focus on tobacco flavors. When\ndeciding on how to present this topic to experts in the flavor industry, it\nAEDACTED\ndawned on me -- why not turn the tables on them. Since you're the experts,\nlet me pose the questions to you - thus my title, \"Tobacco Flavors: A Challenge\nof the Future.\" Tonight, I intend to answer some questions you might have,\nbut more importantly, I'll be posing more questions which must be answered in.\nthe future.\nMy talk will focus on several areas. First, I would like to give you\nsome background into the tobacco industry followed by a brief glossary of\nterms I will use. Then, since you'll be experts in my jargon, I'il discuss\nsome of the flavors used historically in cigarettes, then move on to a dis-\ncussion of the compounds found in tobacco and tobacco smcke. Finally, I'll\naddress what is currently going on in the area of tobacco flavors and hope-\nfully plant some seeds in your minds so you can go back to your respective\ncompanies and work on solving the industries' problems.\nREDACTED\nThe cigarette industry in the United States alone represents about $10\"\nbillion in gross sales. This astronomical figure does not take into account\nthe impact on related industries. Cigarette manufacturers spend billions of\ndollars each year on raw materials, equipment and acvertising. Theirispend-\ning dollars touch all phases of the economy, from big business down to the\nsmall farmer. Cigarette sales have great impact on government, too.' The\nindustry as a whole pays about $6 billion a year in federal, state and local\nKEDALIEU\ntaxes.\nThe domestic cigarette market is comprised of about l7o brands with\ntotal annual sales of over 60o billion units. To put that into perspective,\nduring my short talk this evening, about 35 million cigarettes wili be solu\n652056070"
+}

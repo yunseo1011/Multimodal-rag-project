@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0747.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "bub0n03/14/83",
+      "bbox": [
+        275,
+        189,
+        387,
+        209
+      ],
+      "confidence": 0.8035278916358948
+    },
+    {
+      "text": "as per meeting^. models will. be teoted_by.\"non-trained\" ponelists.",
+      "bbox": [
+        133,
+        206,
+        739,
+        232
+      ],
+      "confidence": 0.8871610760688782
+    },
+    {
+      "text": ".The models w.ll be dosigned. os follows : SCs-1 moutl.end.puce.",
+      "bbox": [
+        113,
+        234,
+        715,
+        264
+      ],
+      "confidence": 0.8692610263824463
+    },
+    {
+      "text": "(40mm):hcomm filer ond 30mm hollow, port for inseon of 40 mm",
+      "bbox": [
+        126,
+        267,
+        700,
+        291
+      ],
+      "confidence": 0.8206042647361755
+    },
+    {
+      "text": "Koplon fobe-ond so mm core\", the core wrll be cons frocked with",
+      "bbox": [
+        129,
+        297,
+        665,
+        324
+      ],
+      "confidence": 0.869526743888855
+    },
+    {
+      "text": "30 mm copsulo and R.13 fuel souree. bokid at 1,ooox.",
+      "bbox": [
+        130,
+        328,
+        607,
+        354
+      ],
+      "confidence": 0.8545087575912476
+    },
+    {
+      "text": "The oorosol will be. B.3 ond the groce alumine",
+      "bbox": [
+        150,
+        357,
+        685,
+        387
+      ],
+      "confidence": 0.9511326551437378
+    },
+    {
+      "text": "wil behe .ihebolding.oalerial.of B.3 ond flovors.",
+      "bbox": [
+        134,
+        391,
+        706,
+        416
+      ],
+      "confidence": 0.8408335447311401
+    },
+    {
+      "text": "Inilially, the.. flovors.jo_be..des!d.or_the CO2. Gupereritisel",
+      "bbox": [
+        141,
+        424,
+        742,
+        449
+      ],
+      "confidence": 0.7623314261436462
+    },
+    {
+      "text": "oxliocts.Supplied. by.Bill ClappTheseextracis.",
+      "bbox": [
+        127,
+        458,
+        554,
+        481
+      ],
+      "confidence": 0.7948954105377197
+    },
+    {
+      "text": "50625.6245",
+      "bbox": [
+        733,
+        884,
+        754,
+        981
+      ],
+      "confidence": 0.9564898610115051
+    }
+  ],
+  "full_text": "bub0n03/14/83\nas per meeting^. models will. be teoted_by.\"non-trained\" ponelists.\n.The models w.ll be dosigned. os follows : SCs-1 moutl.end.puce.\n(40mm):hcomm filer ond 30mm hollow, port for inseon of 40 mm\nKoplon fobe-ond so mm core\", the core wrll be cons frocked with\n30 mm copsulo and R.13 fuel souree. bokid at 1,ooox.\nThe oorosol will be. B.3 ond the groce alumine\nwil behe .ihebolding.oalerial.of B.3 ond flovors.\nInilially, the.. flovors.jo_be..des!d.or_the CO2. Gupereritisel\noxliocts.Supplied. by.Bill ClappTheseextracis.\n50625.6245"
+}

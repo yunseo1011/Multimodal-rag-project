@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0103.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "March 11, 1977",
+      "bbox": [
+        65,
+        50,
+        194,
+        65
+      ],
+      "confidence": 0.9946470856666565
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "bbox": [
+        275,
+        47,
+        388,
+        68
+      ],
+      "confidence": 0.9946896433830261
+    },
+    {
+      "text": "Mr. V. B. Lougee, III, Vice President - Research and Development",
+      "bbox": [
+        67,
+        96,
+        651,
+        113
+      ],
+      "confidence": 0.9940241575241089
+    },
+    {
+      "text": "R. S. Sprinkle, III, Deputy Research anã Development Director",
+      "bbox": [
+        65,
+        141,
+        622,
+        159
+      ],
+      "confidence": 0.9707765579223633
+    },
+    {
+      "text": "Weekly Report - Product Development and Product Improvement",
+      "bbox": [
+        64,
+        187,
+        605,
+        206
+      ],
+      "confidence": 0.9811487197875977
+    },
+    {
+      "text": "GENERAL",
+      "bbox": [
+        61,
+        244,
+        133,
+        267
+      ],
+      "confidence": 0.9987553358078003
+    },
+    {
+      "text": "Production schedules for next week include 1l million PALL MALL Extra",
+      "bbox": [
+        61,
+        276,
+        699,
+        299
+      ],
+      "confidence": 0.9685249924659729
+    },
+    {
+      "text": "Mild, 10 million TALL Filter 120's, 2 million TALL Menthol 120's, 2",
+      "bbox": [
+        60,
+        290,
+        681,
+        317
+      ],
+      "confidence": 0.9730462431907654
+    },
+    {
+      "text": "million LONG JOHNS MEnthOl 120's, 5 milliOn AMERICAN LIGHTS Filter",
+      "bbox": [
+        59,
+        305,
+        672,
+        332
+      ],
+      "confidence": 0.925251841545105
+    },
+    {
+      "text": "120's, 50 million TAREYTON LIGHTS, 8 million ICEBERG 100's, 35 million",
+      "bbox": [
+        60,
+        320,
+        709,
+        348
+      ],
+      "confidence": 0.9646106362342834
+    },
+    {
+      "text": "CARLTON Menthol, 6 million TWIST Lemon Menthol 100's, 10 million",
+      "bbox": [
+        60,
+        336,
+        654,
+        362
+      ],
+      "confidence": 0.9549945592880249
+    },
+    {
+      "text": "LUCKY Ioo's, and 5 million LUCKY TEN Cigarettes.",
+      "bbox": [
+        60,
+        352,
+        504,
+        377
+      ],
+      "confidence": 0.9378096461296082
+    },
+    {
+      "text": "PRODUCT DEVELOPMENT",
+      "bbox": [
+        59,
+        399,
+        238,
+        419
+      ],
+      "confidence": 0.979504406452179
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        60,
+        431,
+        83,
+        449
+      ],
+      "confidence": 0.9656504392623901
+    },
+    {
+      "text": "Project RCL. Approximately 2,ooo pounds of experimental recon-",
+      "bbox": [
+        91,
+        429,
+        680,
+        455
+      ],
+      "confidence": 0.9595419764518738
+    },
+    {
+      "text": "stituted tobacco containing 5 cellulose fiber substituted for",
+      "bbox": [
+        96,
+        446,
+        673,
+        471
+      ],
+      "confidence": 0.9825605750083923
+    },
+    {
+      "text": "tobacco stems was processed at PDL on Monday. This material is",
+      "bbox": [
+        96,
+        463,
+        681,
+        485
+      ],
+      "confidence": 0.9862675070762634
+    },
+    {
+      "text": "undergoing laboratory analysis to determine improvements in ten-",
+      "bbox": [
+        95,
+        478,
+        690,
+        502
+      ],
+      "confidence": 0.9900692105293274
+    },
+    {
+      "text": "sile strength and fiiling power. Cigarettes are being prepared",
+      "bbox": [
+        95,
+        494,
+        681,
+        517
+      ],
+      "confidence": 0.9782778024673462
+    },
+    {
+      "text": "to study potential improvements in cigarette quality and for",
+      "bbox": [
+        95,
+        510,
+        653,
+        532
+      ],
+      "confidence": 0.9942273497581482
+    },
+    {
+      "text": "taste evaluations versus control RcTM.",
+      "bbox": [
+        94,
+        525,
+        445,
+        546
+      ],
+      "confidence": 0.9663692116737366
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        57,
+        557,
+        77,
+        575
+      ],
+      "confidence": 0.9939188957214355
+    },
+    {
+      "text": "Project TC. In accordance with our telephone conversation on",
+      "bbox": [
+        93,
+        555,
+        662,
+        579
+      ],
+      "confidence": 0.984517514705658
+    },
+    {
+      "text": "March 2, we have initiated development work under project code",
+      "bbox": [
+        92,
+        570,
+        671,
+        595
+      ],
+      "confidence": 0.9805870652198792
+    },
+    {
+      "text": "LTST to modify SILVA THINS Filter and Menthol Cigarettes. Our",
+      "bbox": [
+        92,
+        585,
+        672,
+        612
+      ],
+      "confidence": 0.9151337146759033
+    },
+    {
+      "text": "objective is to reduce \"tar\" delivery to 12 mg while maintaining",
+      "bbox": [
+        91,
+        602,
+        690,
+        628
+      ],
+      "confidence": 0.9751964211463928
+    },
+    {
+      "text": "as close as possible the current taste characteristics of each",
+      "bbox": [
+        91,
+        619,
+        671,
+        642
+      ],
+      "confidence": 0.9991349577903748
+    },
+    {
+      "text": "product. To aid in achieving maximum per puff smoke delivery,",
+      "bbox": [
+        90,
+        633,
+        669,
+        659
+      ],
+      "confidence": 0.9769716858863831
+    },
+    {
+      "text": "model cigarettes are being fabricated with increased filter and",
+      "bbox": [
+        89,
+        649,
+        680,
+        674
+      ],
+      "confidence": 0.9963531494140625
+    },
+    {
+      "text": "tipping iengths.",
+      "bbox": [
+        91,
+        666,
+        239,
+        686
+      ],
+      "confidence": 0.9926900863647461
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        53,
+        699,
+        74,
+        715
+      ],
+      "confidence": 0.9919229745864868
+    },
+    {
+      "text": "Filter Cigarette Development. The Department of Manufacture has",
+      "bbox": [
+        88,
+        698,
+        687,
+        720
+      ],
+      "confidence": 0.9954639077186584
+    },
+    {
+      "text": "scheduled production of Project CFh filter cigarettes for the",
+      "bbox": [
+        90,
+        714,
+        659,
+        735
+      ],
+      "confidence": 0.9838608503341675
+    },
+    {
+      "text": "last week of March. Tipping paper will be available late next",
+      "bbox": [
+        89,
+        728,
+        668,
+        752
+      ],
+      "confidence": 0.9763576984405518
+    },
+    {
+      "text": "week with all wrapping materials scheduled for delivery to Dur-",
+      "bbox": [
+        87,
+        744,
+        677,
+        766
+      ],
+      "confidence": 0.9694601893424988
+    },
+    {
+      "text": "ham Branch no later than March 28.",
+      "bbox": [
+        86,
+        760,
+        404,
+        779
+      ],
+      "confidence": 0.9724681973457336
+    },
+    {
+      "text": "Two Model TLTL cigarettes were prepared during the week for labo-",
+      "bbox": [
+        85,
+        791,
+        695,
+        815
+      ],
+      "confidence": 0.9805468916893005
+    },
+    {
+      "text": "ratory evaluations. One model was fabricated with a leaf blend",
+      "bbox": [
+        84,
+        806,
+        676,
+        831
+      ],
+      "confidence": 0.9828906059265137
+    },
+    {
+      "text": "modification designed to yield a smoke delivery identical to that",
+      "bbox": [
+        82,
+        820,
+        696,
+        849
+      ],
+      "confidence": 0.9909205436706543
+    },
+    {
+      "text": "of TAREYTON LIGHTS King-Size Cigarettes. The second model was",
+      "bbox": [
+        82,
+        838,
+        667,
+        863
+      ],
+      "confidence": 0.9571304321289062
+    },
+    {
+      "text": "constructed to deliver a higher \"tar\" per cigarette but at a per",
+      "bbox": [
+        81,
+        853,
+        685,
+        881
+      ],
+      "confidence": 0.981310248374939
+    },
+    {
+      "text": "puff value comparable to the king-size cigarette. Both models",
+      "bbox": [
+        82,
+        868,
+        667,
+        897
+      ],
+      "confidence": 0.9859698414802551
+    },
+    {
+      "text": "were prepared with standard TAREYToN LIGHrs composite filter tips",
+      "bbox": [
+        80,
+        884,
+        695,
+        913
+      ],
+      "confidence": 0.958893358707428
+    },
+    {
+      "text": "and are 100 mm in length and 24.75 mm in circumference.",
+      "bbox": [
+        79,
+        901,
+        598,
+        929
+      ],
+      "confidence": 0.9772399067878723
+    }
+  ],
+  "full_text": "March 11, 1977\nCONFIDENTIAL\nMr. V. B. Lougee, III, Vice President - Research and Development\nR. S. Sprinkle, III, Deputy Research anã Development Director\nWeekly Report - Product Development and Product Improvement\nGENERAL\nProduction schedules for next week include 1l million PALL MALL Extra\nMild, 10 million TALL Filter 120's, 2 million TALL Menthol 120's, 2\nmillion LONG JOHNS MEnthOl 120's, 5 milliOn AMERICAN LIGHTS Filter\n120's, 50 million TAREYTON LIGHTS, 8 million ICEBERG 100's, 35 million\nCARLTON Menthol, 6 million TWIST Lemon Menthol 100's, 10 million\nLUCKY Ioo's, and 5 million LUCKY TEN Cigarettes.\nPRODUCT DEVELOPMENT\n1.\nProject RCL. Approximately 2,ooo pounds of experimental recon-\nstituted tobacco containing 5 cellulose fiber substituted for\ntobacco stems was processed at PDL on Monday. This material is\nundergoing laboratory analysis to determine improvements in ten-\nsile strength and fiiling power. Cigarettes are being prepared\nto study potential improvements in cigarette quality and for\ntaste evaluations versus control RcTM.\n2.\nProject TC. In accordance with our telephone conversation on\nMarch 2, we have initiated development work under project code\nLTST to modify SILVA THINS Filter and Menthol Cigarettes. Our\nobjective is to reduce \"tar\" delivery to 12 mg while maintaining\nas close as possible the current taste characteristics of each\nproduct. To aid in achieving maximum per puff smoke delivery,\nmodel cigarettes are being fabricated with increased filter and\ntipping iengths.\n3.\nFilter Cigarette Development. The Department of Manufacture has\nscheduled production of Project CFh filter cigarettes for the\nlast week of March. Tipping paper will be available late next\nweek with all wrapping materials scheduled for delivery to Dur-\nham Branch no later than March 28.\nTwo Model TLTL cigarettes were prepared during the week for labo-\nratory evaluations. One model was fabricated with a leaf blend\nmodification designed to yield a smoke delivery identical to that\nof TAREYTON LIGHTS King-Size Cigarettes. The second model was\nconstructed to deliver a higher \"tar\" per cigarette but at a per\npuff value comparable to the king-size cigarette. Both models\nwere prepared with standard TAREYToN LIGHrs composite filter tips\nand are 100 mm in length and 24.75 mm in circumference."
+}

@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0736.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PETER GUNN - 1447 W. TOUIY - CHCA(O, ILL.,",
+      "bbox": [
+        151,
+        238,
+        455,
+        258
+      ],
+      "confidence": 0.9248231053352356
+    },
+    {
+      "text": "Ms. I. - Do you smoke cigarettes?",
+      "bbox": [
+        152,
+        277,
+        359,
+        295
+      ],
+      "confidence": 0.9616681337356567
+    },
+    {
+      "text": "Mr. G. - Yes.",
+      "bbox": [
+        151,
+        303,
+        239,
+        321
+      ],
+      "confidence": 0.9793039560317993
+    },
+    {
+      "text": "Ms. 1. - What brand do you smoke\"",
+      "bbox": [
+        152,
+        328,
+        364,
+        344
+      ],
+      "confidence": 0.9394509792327881
+    },
+    {
+      "text": "Mr. G. - ViCEROY Filter Kings.",
+      "bbox": [
+        152,
+        353,
+        350,
+        370
+      ],
+      "confidence": 0.9471398591995239
+    },
+    {
+      "text": "Ms, I, - How many pocks have you smoked in the past week?",
+      "bbox": [
+        154,
+        380,
+        511,
+        393
+      ],
+      "confidence": 0.9752479791641235
+    },
+    {
+      "text": "Mr. G. - Approximately 7.",
+      "bbox": [
+        153,
+        403,
+        316,
+        419
+      ],
+      "confidence": 0.9679674506187439
+    },
+    {
+      "text": "Ms. I. - How long has Filter Kings been your brand?",
+      "bbox": [
+        154,
+        428,
+        467,
+        444
+      ],
+      "confidence": 0.9577974081039429
+    },
+    {
+      "text": "Mr. C. - About 12 years.",
+      "bbox": [
+        155,
+        453,
+        307,
+        469
+      ],
+      "confidence": 0.9865396022796631
+    },
+    {
+      "text": "Ms. l. - Why do you srnoke the Filter Kings?",
+      "bbox": [
+        155,
+        477,
+        422,
+        493
+      ],
+      "confidence": 0.9612786769866943
+    },
+    {
+      "text": "Me, G, - They are reatly mildur than any other eigarette 1 have cver tasted,",
+      "bbox": [
+        155,
+        502,
+        602,
+        517
+      ],
+      "confidence": 0.9635907411575317
+    },
+    {
+      "text": "and they taste very good.",
+      "bbox": [
+        214,
+        516,
+        361,
+        529
+      ],
+      "confidence": 0.9938340187072754
+    },
+    {
+      "text": "Ms. I. - How do you compare the taste and Navor of ViCEkoY's to other cigarettes?",
+      "bbox": [
+        156,
+        538,
+        653,
+        553
+      ],
+      "confidence": 0.9615119695663452
+    },
+    {
+      "text": "Mr. G. - You don't really get that strong tobacco taste frora ViC EroY's.",
+      "bbox": [
+        156,
+        563,
+        584,
+        579
+      ],
+      "confidence": 0.9571383595466614
+    },
+    {
+      "text": "Ms, I. - Is there anything in partieular that you like about viCEroy Filter Kings?",
+      "bbox": [
+        156,
+        588,
+        640,
+        603
+      ],
+      "confidence": 0.967062771320343
+    },
+    {
+      "text": "Mr. G. - The size is perfect.",
+      "bbox": [
+        157,
+        613,
+        331,
+        628
+      ],
+      "confidence": 0.9757033586502075
+    },
+    {
+      "text": "Ms. I. - Hlow would you compare your smoking enjoyment to other cigarettes?",
+      "bbox": [
+        156,
+        636,
+        616,
+        655
+      ],
+      "confidence": 0.9585611820220947
+    },
+    {
+      "text": "Mr. G. - Other cigoreltes I dun't care for at ali they are uitber too strong or",
+      "bbox": [
+        157,
+        663,
+        610,
+        678
+      ],
+      "confidence": 0.9575316309928894
+    },
+    {
+      "text": "you just can't taste them st all. These are just right.",
+      "bbox": [
+        215,
+        675,
+        530,
+        692
+      ],
+      "confidence": 0.9684603810310364
+    },
+    {
+      "text": "Ms. 1. - What about the aroma of vicEnoy's as compared to other>",
+      "bbox": [
+        157,
+        700,
+        559,
+        716
+      ],
+      "confidence": 0.9246900081634521
+    },
+    {
+      "text": "Mr, G. - It smells juat as good as it tastes.",
+      "bbox": [
+        159,
+        728,
+        417,
+        741
+      ],
+      "confidence": 0.9852666258811951
+    },
+    {
+      "text": "Ms, 1. - What abont quality.",
+      "bbox": [
+        159,
+        751,
+        324,
+        766
+      ],
+      "confidence": 0.9357061982154846
+    },
+    {
+      "text": "Mr. G. - 1 ncver hud any problew ot all with the quniity. They are alwuys",
+      "bbox": [
+        159,
+        773,
+        594,
+        790
+      ],
+      "confidence": 0.9421177506446838
+    },
+    {
+      "text": "cunsistent.",
+      "bbox": [
+        217,
+        787,
+        284,
+        804
+      ],
+      "confidence": 0.9966492056846619
+    },
+    {
+      "text": "Ms. 1. - How would you compare the sutisfaction of vicEroY as compared to others?",
+      "bbox": [
+        160,
+        809,
+        660,
+        829
+      ],
+      "confidence": 0.960479199886322
+    },
+    {
+      "text": "Mr. G. - VicEnoY is better, The euly other eigarette !'ve evor tried us Marlboro.",
+      "bbox": [
+        159,
+        834,
+        648,
+        854
+      ],
+      "confidence": 0.916750431060791
+    },
+    {
+      "text": "There is just no comparison ut all.",
+      "bbox": [
+        218,
+        849,
+        424,
+        865
+      ],
+      "confidence": 0.9785618185997009
+    },
+    {
+      "text": "77504 i 3 9 8",
+      "bbox": [
+        221,
+        936,
+        463,
+        978
+      ],
+      "confidence": 0.8720288872718811
+    },
+    {
+      "text": "TI: IF TE FILM 1MMC' US LESS LEM",
+      "bbox": [
+        0,
+        942,
+        218,
+        963
+      ],
+      "confidence": 0.6958335041999817
+    },
+    {
+      "text": "A. NES YORICE. IS DE T IP.",
+      "bbox": [
+        0,
+        953,
+        197,
+        973
+      ],
+      "confidence": 0.6061389446258545
+    }
+  ],
+  "full_text": "PETER GUNN - 1447 W. TOUIY - CHCA(O, ILL.,\nMs. I. - Do you smoke cigarettes?\nMr. G. - Yes.\nMs. 1. - What brand do you smoke\"\nMr. G. - ViCEROY Filter Kings.\nMs, I, - How many pocks have you smoked in the past week?\nMr. G. - Approximately 7.\nMs. I. - How long has Filter Kings been your brand?\nMr. C. - About 12 years.\nMs. l. - Why do you srnoke the Filter Kings?\nMe, G, - They are reatly mildur than any other eigarette 1 have cver tasted,\nand they taste very good.\nMs. I. - How do you compare the taste and Navor of ViCEkoY's to other cigarettes?\nMr. G. - You don't really get that strong tobacco taste frora ViC EroY's.\nMs, I. - Is there anything in partieular that you like about viCEroy Filter Kings?\nMr. G. - The size is perfect.\nMs. I. - Hlow would you compare your smoking enjoyment to other cigarettes?\nMr. G. - Other cigoreltes I dun't care for at ali they are uitber too strong or\nyou just can't taste them st all. These are just right.\nMs. 1. - What about the aroma of vicEnoy's as compared to other>\nMr, G. - It smells juat as good as it tastes.\nMs, 1. - What abont quality.\nMr. G. - 1 ncver hud any problew ot all with the quniity. They are alwuys\ncunsistent.\nMs. 1. - How would you compare the sutisfaction of vicEroY as compared to others?\nMr. G. - VicEnoY is better, The euly other eigarette !'ve evor tried us Marlboro.\nThere is just no comparison ut all.\n77504 i 3 9 8\nTI: IF TE FILM 1MMC' US LESS LEM\nA. NES YORICE. IS DE T IP."
+}

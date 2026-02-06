@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0696.png",
+    "image_width": 757,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "VIRGINIA SLIMS",
+      "bbox": [
+        238,
+        351,
+        745,
+        493
+      ],
+      "confidence": 0.9529470801353455
+    },
+    {
+      "text": "EOGSASWANY N SKGNNGAYASSEOSHAHKS",
+      "bbox": [
+        291,
+        475,
+        695,
+        504
+      ],
+      "confidence": 0.6413435935974121
+    },
+    {
+      "text": "Pavere",
+      "bbox": [
+        447,
+        500,
+        527,
+        527
+      ],
+      "confidence": 0.8744530081748962
+    }
+  ],
+  "full_text": "VIRGINIA SLIMS\nEOGSASWANY N SKGNNGAYASSEOSHAHKS\nPavere"
+}

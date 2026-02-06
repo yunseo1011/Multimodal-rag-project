@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0958.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2084482175",
+      "bbox": [
+        332,
+        563,
+        442,
+        592
+      ],
+      "confidence": 0.9999459981918335
+    },
+    {
+      "text": "Spnisl",
+      "bbox": [
+        325,
+        581,
+        453,
+        660
+      ],
+      "confidence": 0.8015807271003723
+    }
+  ],
+  "full_text": "2084482175\nSpnisl"
+}

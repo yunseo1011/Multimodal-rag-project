@@ -1,0 +1,601 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0940.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "gilvy& Mather",
+      "bbox": [
+        51,
+        0,
+        279,
+        38
+      ],
+      "confidence": 0.8602274656295776
+    },
+    {
+      "text": "INSERTION ORDER",
+      "bbox": [
+        484,
+        9,
+        649,
+        30
+      ],
+      "confidence": 0.9998812079429626
+    },
+    {
+      "text": "Ndvatoing",
+      "bbox": [
+        116,
+        28,
+        183,
+        52
+      ],
+      "confidence": 0.7908859848976135
+    },
+    {
+      "text": "C",
+      "bbox": [
+        549,
+        44,
+        576,
+        86
+      ],
+      "confidence": 0.9496288299560547
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        396,
+        109,
+        427,
+        120
+      ],
+      "confidence": 0.9974334239959717
+    },
+    {
+      "text": "ORDERNO.",
+      "bbox": [
+        496,
+        109,
+        552,
+        120
+      ],
+      "confidence": 0.9291696548461914
+    },
+    {
+      "text": "PAGE NO.",
+      "bbox": [
+        604,
+        107,
+        653,
+        118
+      ],
+      "confidence": 0.9865707159042358
+    },
+    {
+      "text": "PROUN & WILLIAMGON",
+      "bbox": [
+        86,
+        129,
+        253,
+        151
+      ],
+      "confidence": 0.7990588545799255
+    },
+    {
+      "text": "03/31/86",
+      "bbox": [
+        371,
+        132,
+        445,
+        149
+      ],
+      "confidence": 0.859212338924408
+    },
+    {
+      "text": "39",
+      "bbox": [
+        531,
+        134,
+        552,
+        150
+      ],
+      "confidence": 0.7689223289489746
+    },
+    {
+      "text": "1",
+      "bbox": [
+        619,
+        134,
+        627,
+        144
+      ],
+      "confidence": 0.9985999464988708
+    },
+    {
+      "text": "RICHLAND",
+      "bbox": [
+        87,
+        146,
+        164,
+        167
+      ],
+      "confidence": 0.883417010307312
+    },
+    {
+      "text": "..",
+      "bbox": [
+        0,
+        180,
+        38,
+        193
+      ],
+      "confidence": 0.6506052613258362
+    },
+    {
+      "text": "-1",
+      "bbox": [
+        2,
+        205,
+        11,
+        214
+      ],
+      "confidence": 0.9827821850776672
+    },
+    {
+      "text": "SUN",
+      "bbox": [
+        98,
+        208,
+        132,
+        227
+      ],
+      "confidence": 0.8970910906791687
+    },
+    {
+      "text": "399 D STREET",
+      "bbox": [
+        101,
+        225,
+        209,
+        239
+      ],
+      "confidence": 0.7532978653907776
+    },
+    {
+      "text": "SAN DERNARDTHO CA",
+      "bbox": [
+        100,
+        238,
+        256,
+        253
+      ],
+      "confidence": 0.910551905632019
+    },
+    {
+      "text": "2240:",
+      "bbox": [
+        269,
+        239,
+        314,
+        253
+      ],
+      "confidence": 0.9777511358261108
+    },
+    {
+      "text": "J",
+      "bbox": [
+        359,
+        247,
+        382,
+        270
+      ],
+      "confidence": 0.606544554233551
+    },
+    {
+      "text": "CAPTION",
+      "bbox": [
+        142,
+        289,
+        191,
+        303
+      ],
+      "confidence": 0.9524483680725098
+    },
+    {
+      "text": "INS. DATE",
+      "bbox": [
+        403,
+        287,
+        455,
+        301
+      ],
+      "confidence": 0.9236534833908081
+    },
+    {
+      "text": "F.D",
+      "bbox": [
+        490,
+        289,
+        509,
+        301
+      ],
+      "confidence": 0.8062416911125183
+    },
+    {
+      "text": "INCHES",
+      "bbox": [
+        532,
+        289,
+        572,
+        300
+      ],
+      "confidence": 0.9940125942230225
+    },
+    {
+      "text": "SPACE",
+      "bbox": [
+        617,
+        284,
+        654,
+        302
+      ],
+      "confidence": 0.9985578656196594
+    },
+    {
+      "text": "C* IMORTANT",
+      "bbox": [
+        129,
+        307,
+        247,
+        325
+      ],
+      "confidence": 0.728401780128479
+    },
+    {
+      "text": "ALL",
+      "bbox": [
+        251,
+        308,
+        286,
+        323
+      ],
+      "confidence": 0.84503173828125
+    },
+    {
+      "text": "DATES",
+      "bbox": [
+        285,
+        309,
+        335,
+        321
+      ],
+      "confidence": 0.8394116163253784
+    },
+    {
+      "text": "ANE WEEX OF x\"•",
+      "bbox": [
+        330,
+        308,
+        469,
+        322
+      ],
+      "confidence": 0.826414167881012
+    },
+    {
+      "text": "-, SRCE.. .SO FREC. ..*/SLAGY",
+      "bbox": [
+        138,
+        335,
+        373,
+        351
+      ],
+      "confidence": 0.7450364232063293
+    },
+    {
+      "text": "94720756",
+      "bbox": [
+        408,
+        336,
+        484,
+        350
+      ],
+      "confidence": 0.7875332832336426
+    },
+    {
+      "text": "C3.O00 6X10.5 IMCHES",
+      "bbox": [
+        539,
+        333,
+        721,
+        350
+      ],
+      "confidence": 0.805423378944397
+    },
+    {
+      "text": "1 - 06-4029",
+      "bbox": [
+        0,
+        339,
+        85,
+        353
+      ],
+      "confidence": 0.7531254291534424
+    },
+    {
+      "text": "EXPANDED S A U.",
+      "bbox": [
+        522,
+        348,
+        659,
+        364
+      ],
+      "confidence": 0.9362865090370178
+    },
+    {
+      "text": "SiTION INStRUCTIONS",
+      "bbox": [
+        0,
+        395,
+        184,
+        411
+      ],
+      "confidence": 0.6989062428474426
+    },
+    {
+      "text": "RUR PAR FORWARD IN MAIN NEWS 7 RIUHI-HAND PAGL. AVOID GLUYTER.",
+      "bbox": [
+        33,
+        403,
+        589,
+        426
+      ],
+      "confidence": 0.8370087742805481
+    },
+    {
+      "text": "MONGAY THROUCH PRIDAY LUEUAY TUHICMGVER DAY THH POSITIOMING CAN BEST",
+      "bbox": [
+        31,
+        415,
+        647,
+        444
+      ],
+      "confidence": 0.8828967213630676
+    },
+    {
+      "text": "B5 achicvEn).",
+      "bbox": [
+        33,
+        438,
+        156,
+        457
+      ],
+      "confidence": 0.6732024550437927
+    },
+    {
+      "text": "55 REOUEGt THAT NEVOPAPERG CAPABLE oF AN EVENINS/MORMINS SML 1T",
+      "bbox": [
+        31,
+        462,
+        591,
+        487
+      ],
+      "confidence": 0.7030975222587585
+    },
+    {
+      "text": "RUN AD IN THE EVENING EDITION TREN THE FOLLOUINO MORMING GPITION",
+      "bbox": [
+        30,
+        477,
+        612,
+        501
+      ],
+      "confidence": 0.8936223983764648
+    },
+    {
+      "text": "CXAMPLE -. TVEODAY(EI/UEDNLSDAY(M)",
+      "bbox": [
+        136,
+        495,
+        441,
+        512
+      ],
+      "confidence": 0.8247010111808777
+    },
+    {
+      "text": "A HINIMOM SEPARATION OF FOVR (4) PASES I5 PEOUIREO BLTVEEN A BROVN & VILL-",
+      "bbox": [
+        32,
+        517,
+        705,
+        545
+      ],
+      "confidence": 0.8155158162117004
+    },
+    {
+      "text": "IAMSON INSERTION AMD A COMPETITIVE TOBACCO AO. DO NOT RUW MOKE THAN ONE BROWN",
+      "bbox": [
+        0,
+        531,
+        706,
+        561
+      ],
+      "confidence": 0.9402168393135071
+    },
+    {
+      "text": "* WFLLIAMBON PEODUCY 1N ANY ONE ISOUS. RO OTHER YOBACCO ARS 7 CSTTUARIES7",
+      "bbox": [
+        0,
+        544,
+        681,
+        577
+      ],
+      "confidence": 0.7804173231124878
+    },
+    {
+      "text": "APPEAR ON SPHEAD",
+      "bbox": [
+        0,
+        582,
+        165,
+        603
+      ],
+      "confidence": 0.8606572151184082
+    },
+    {
+      "text": "OR ARTICLES ON ADVENYISEMENTS ADVOCAYING NONEHOXING. A FULL-PAGE 4-COLOR AD",
+      "bbox": [
+        0,
+        603,
+        691,
+        632
+      ],
+      "confidence": 0.925995409488678
+    },
+    {
+      "text": "1S NOT TO RUN OPFOSITE AO. AVOIU CLUTTER ON FEACTIONAL ADS. STRESY THE IMPOR-",
+      "bbox": [
+        0,
+        618,
+        710,
+        645
+      ],
+      "confidence": 0.9244194626808167
+    },
+    {
+      "text": "TANCE OF POSITIONING AS IT IS ECSSNTIAL TO THJG CAMPAION.",
+      "bbox": [
+        0,
+        636,
+        525,
+        659
+      ],
+      "confidence": 0.9014350771903992
+    },
+    {
+      "text": "TERIAL InSTRUCTIONS",
+      "bbox": [
+        0,
+        668,
+        184,
+        689
+      ],
+      "confidence": 0.7390303015708923
+    },
+    {
+      "text": "MATERIALS FOR THES INSERTION ARE UEtNS SHIPVED ONDER SEPARATE COVER FROM",
+      "bbox": [
+        32,
+        679,
+        695,
+        703
+      ],
+      "confidence": 0.8250744342803955
+    },
+    {
+      "text": "CUSN DU BOIS ADVERTISING CF NEU YORK. ANY RUSSTIONS SEGARDING MATERIALS",
+      "bbox": [
+        33,
+        696,
+        687,
+        717
+      ],
+      "confidence": 0.9345622658729553
+    },
+    {
+      "text": "PLEASE CALL MR. BRIAN SULLIVAN OF GEER DU BCIS - T-(2I2)-7A!-I9OG.",
+      "bbox": [
+        32,
+        712,
+        639,
+        732
+      ],
+      "confidence": 0.8460473418235779
+    },
+    {
+      "text": "(CONT)",
+      "bbox": [
+        126,
+        779,
+        181,
+        793
+      ],
+      "confidence": 0.9701178073883057
+    },
+    {
+      "text": "Per: L.ALTARES",
+      "bbox": [
+        430,
+        775,
+        548,
+        788
+      ],
+      "confidence": 0.923725426197052
+    },
+    {
+      "text": "OgilvyeMather",
+      "bbox": [
+        460,
+        812,
+        585,
+        833
+      ],
+      "confidence": 0.938504159450531
+    },
+    {
+      "text": "Pleuse check reprotiucton material aganst proot to niake suar it correspmls in every respect",
+      "bbox": [
+        155,
+        860,
+        586,
+        879
+      ],
+      "confidence": 0.9068370461463928
+    },
+    {
+      "text": "If insaruct-on proof and matenial tor seproduction differ, advise us imnediately.",
+      "bbox": [
+        185,
+        874,
+        555,
+        890
+      ],
+      "confidence": 0.9323164224624634
+    },
+    {
+      "text": " This insuertian order is subject to standarct conditsons on revorse side of this oreder.",
+      "bbox": [
+        184,
+        887,
+        559,
+        902
+      ],
+      "confidence": 0.9239476323127747
+    },
+    {
+      "text": "AMERICAN ASSOCIATION OT ADVERTISINC ACENCIES",
+      "bbox": [
+        217,
+        919,
+        540,
+        937
+      ],
+      "confidence": 0.9290832877159119
+    },
+    {
+      "text": "Memrer of",
+      "bbox": [
+        345,
+        912,
+        409,
+        923
+      ],
+      "confidence": 0.7423971891403198
+    }
+  ],
+  "full_text": "gilvy& Mather\nINSERTION ORDER\nNdvatoing\nC\nDATE\nORDERNO.\nPAGE NO.\nPROUN & WILLIAMGON\n03/31/86\n39\n1\nRICHLAND\n..\n-1\nSUN\n399 D STREET\nSAN DERNARDTHO CA\n2240:\nJ\nCAPTION\nINS. DATE\nF.D\nINCHES\nSPACE\nC* IMORTANT\nALL\nDATES\nANE WEEX OF x\"•\n-, SRCE.. .SO FREC. ..*/SLAGY\n94720756\nC3.O00 6X10.5 IMCHES\n1 - 06-4029\nEXPANDED S A U.\nSiTION INStRUCTIONS\nRUR PAR FORWARD IN MAIN NEWS 7 RIUHI-HAND PAGL. AVOID GLUYTER.\nMONGAY THROUCH PRIDAY LUEUAY TUHICMGVER DAY THH POSITIOMING CAN BEST\nB5 achicvEn).\n55 REOUEGt THAT NEVOPAPERG CAPABLE oF AN EVENINS/MORMINS SML 1T\nRUN AD IN THE EVENING EDITION TREN THE FOLLOUINO MORMING GPITION\nCXAMPLE -. TVEODAY(EI/UEDNLSDAY(M)\nA HINIMOM SEPARATION OF FOVR (4) PASES I5 PEOUIREO BLTVEEN A BROVN & VILL-\nIAMSON INSERTION AMD A COMPETITIVE TOBACCO AO. DO NOT RUW MOKE THAN ONE BROWN\n* WFLLIAMBON PEODUCY 1N ANY ONE ISOUS. RO OTHER YOBACCO ARS 7 CSTTUARIES7\nAPPEAR ON SPHEAD\nOR ARTICLES ON ADVENYISEMENTS ADVOCAYING NONEHOXING. A FULL-PAGE 4-COLOR AD\n1S NOT TO RUN OPFOSITE AO. AVOIU CLUTTER ON FEACTIONAL ADS. STRESY THE IMPOR-\nTANCE OF POSITIONING AS IT IS ECSSNTIAL TO THJG CAMPAION.\nTERIAL InSTRUCTIONS\nMATERIALS FOR THES INSERTION ARE UEtNS SHIPVED ONDER SEPARATE COVER FROM\nCUSN DU BOIS ADVERTISING CF NEU YORK. ANY RUSSTIONS SEGARDING MATERIALS\nPLEASE CALL MR. BRIAN SULLIVAN OF GEER DU BCIS - T-(2I2)-7A!-I9OG.\n(CONT)\nPer: L.ALTARES\nOgilvyeMather\nPleuse check reprotiucton material aganst proot to niake suar it correspmls in every respect\nIf insaruct-on proof and matenial tor seproduction differ, advise us imnediately.\n This insuertian order is subject to standarct conditsons on revorse side of this oreder.\nAMERICAN ASSOCIATION OT ADVERTISINC ACENCIES\nMemrer of"
+}

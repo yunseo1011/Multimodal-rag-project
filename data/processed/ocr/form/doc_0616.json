@@ -1,0 +1,1211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0616.png",
+    "image_width": 775,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INSERT SPECIFICATION SHEET",
+      "bbox": [
+        95,
+        0,
+        626,
+        54
+      ],
+      "confidence": 0.9996682405471802
+    },
+    {
+      "text": "FOR SADDLE STITCH MAGAZINE",
+      "bbox": [
+        233,
+        38,
+        541,
+        76
+      ],
+      "confidence": 0.9949784874916077
+    },
+    {
+      "text": "2/8/88",
+      "bbox": [
+        660,
+        47,
+        715,
+        70
+      ],
+      "confidence": 0.999954879283905
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        0,
+        71,
+        109,
+        95
+      ],
+      "confidence": 0.9997803568840027
+    },
+    {
+      "text": "R.J. REYNOLDS/\"CAMEL\" - Supplied 4-Page Die-Cut",
+      "bbox": [
+        125,
+        69,
+        511,
+        107
+      ],
+      "confidence": 0.9900774955749512
+    },
+    {
+      "text": "\"Pop-Up\"",
+      "bbox": [
+        505,
+        84,
+        581,
+        109
+      ],
+      "confidence": 0.9963593482971191
+    },
+    {
+      "text": "Insert - 8-5/8\" wide",
+      "bbox": [
+        576,
+        84,
+        746,
+        108
+      ],
+      "confidence": 0.9905912280082703
+    },
+    {
+      "text": "hanger. Insert is to run in the 50",
+      "bbox": [
+        128,
+        114,
+        417,
+        142
+      ],
+      "confidence": 0.9977620244026184
+    },
+    {
+      "text": "United States plus Washington, D.C., news-",
+      "bbox": [
+        409,
+        123,
+        757,
+        149
+      ],
+      "confidence": 0.9762904644012451
+    },
+    {
+      "text": "NOTE: THERE MAY BE EXTRA CHARGES IF INSERTS DO NOT MEET THESE SPECS.",
+      "bbox": [
+        0,
+        142,
+        543,
+        185
+      ],
+      "confidence": 0.979263424873352
+    },
+    {
+      "text": "stand and subscription copies.",
+      "bbox": [
+        128,
+        131,
+        369,
+        160
+      ],
+      "confidence": 0.9961621761322021
+    },
+    {
+      "text": "MAGAZINE:",
+      "bbox": [
+        0,
+        163,
+        86,
+        186
+      ],
+      "confidence": 0.9996907711029053
+    },
+    {
+      "text": "CAR CRAFT;",
+      "bbox": [
+        111,
+        166,
+        199,
+        188
+      ],
+      "confidence": 0.9957178235054016
+    },
+    {
+      "text": "HOT ROD",
+      "bbox": [
+        201,
+        170,
+        266,
+        190
+      ],
+      "confidence": 0.9934779405593872
+    },
+    {
+      "text": "SSUE:.",
+      "bbox": [
+        0,
+        181,
+        53,
+        202
+      ],
+      "confidence": 0.9470939040184021
+    },
+    {
+      "text": "CAR",
+      "bbox": [
+        65,
+        183,
+        92,
+        199
+      ],
+      "confidence": 0.9997406005859375
+    },
+    {
+      "text": "CRAFT: 5/88",
+      "bbox": [
+        93,
+        183,
+        190,
+        204
+      ],
+      "confidence": 0.9958516955375671
+    },
+    {
+      "text": "Packing:",
+      "bbox": [
+        407,
+        179,
+        461,
+        201
+      ],
+      "confidence": 0.9958871603012085
+    },
+    {
+      "text": "Inserts must be uniformly packaged and brick-piled,",
+      "bbox": [
+        468,
+        181,
+        774,
+        200
+      ],
+      "confidence": 0.9870033860206604
+    },
+    {
+      "text": "DELIVERED SIZE:",
+      "bbox": [
+        0,
+        199,
+        131,
+        222
+      ],
+      "confidence": 0.9990209341049194
+    },
+    {
+      "text": "HOT ROD: 6/88",
+      "bbox": [
+        206,
+        188,
+        311,
+        206
+      ],
+      "confidence": 0.9627081155776978
+    },
+    {
+      "text": "with binding laps all one direction. Lifts should be",
+      "bbox": [
+        470,
+        198,
+        774,
+        212
+      ],
+      "confidence": 0.9853394627571106
+    },
+    {
+      "text": "STOCK:",
+      "bbox": [
+        0,
+        217,
+        59,
+        236
+      ],
+      "confidence": 0.9959681630134583
+    },
+    {
+      "text": "#80 throughout",
+      "bbox": [
+        88,
+        216,
+        202,
+        239
+      ],
+      "confidence": 0.9491543769836426
+    },
+    {
+      "text": "SEE ABOVE SCHEDULE",
+      "bbox": [
+        141,
+        203,
+        289,
+        222
+      ],
+      "confidence": 0.9839447736740112
+    },
+    {
+      "text": "four to six inches high with one reversal per lift, and each lift",
+      "bbox": [
+        408,
+        207,
+        775,
+        227
+      ],
+      "confidence": 0.9837204813957214
+    },
+    {
+      "text": "securely paper-banded to prevent inserts from separating. For",
+      "bbox": [
+        407,
+        221,
+        775,
+        240
+      ],
+      "confidence": 0.9942724108695984
+    },
+    {
+      "text": "maximum protection in shipping. inserts should be packed in",
+      "bbox": [
+        407,
+        234,
+        775,
+        254
+      ],
+      "confidence": 0.9977960586547852
+    },
+    {
+      "text": "QUANTITY:",
+      "bbox": [
+        0,
+        251,
+        82,
+        270
+      ],
+      "confidence": 0.9992743730545044
+    },
+    {
+      "text": "CAR CRAFT - 647,700 (new/current",
+      "bbox": [
+        93,
+        251,
+        351,
+        272
+      ],
+      "confidence": 0.9795052409172058
+    },
+    {
+      "text": "Skid size should measure 40\"' x 48\", with platform four to six",
+      "bbox": [
+        406,
+        259,
+        775,
+        281
+      ],
+      "confidence": 0.9482666254043579
+    },
+    {
+      "text": "medium-sized cartons (40-50 ibs.) before being loaded on skids.",
+      "bbox": [
+        407,
+        248,
+        774,
+        266
+      ],
+      "confidence": 0.9843707084655762
+    },
+    {
+      "text": "HOT ROD - 1,171,800 (new/current",
+      "bbox": [
+        93,
+        267,
+        349,
+        289
+      ],
+      "confidence": 0.9720401167869568
+    },
+    {
+      "text": "inches above the floor. If cartons are used. skid load may mea-",
+      "bbox": [
+        407,
+        273,
+        774,
+        293
+      ],
+      "confidence": 0.9875443577766418
+    },
+    {
+      "text": "A 5% margin in distribution must be allowed for all inserts.",
+      "bbox": [
+        0,
+        285,
+        332,
+        309
+      ],
+      "confidence": 0.9756333827972412
+    },
+    {
+      "text": "sure 50 inches maximum from floor to top of load. Skids should",
+      "bbox": [
+        406,
+        287,
+        774,
+        305
+      ],
+      "confidence": 0.9779273271560669
+    },
+    {
+      "text": "DUE AT PRINTER:",
+      "bbox": [
+        0,
+        302,
+        130,
+        323
+      ],
+      "confidence": 0.9413585662841797
+    },
+    {
+      "text": "CAR CRAFT - 2/29/88",
+      "bbox": [
+        140,
+        301,
+        294,
+        320
+      ],
+      "confidence": 0.9903004169464111
+    },
+    {
+      "text": "be shipped with a protective wrapping of corrugated board",
+      "bbox": [
+        406,
+        301,
+        774,
+        319
+      ],
+      "confidence": 0.9787017703056335
+    },
+    {
+      "text": "HOT ROD - 4/8/88",
+      "bbox": [
+        155,
+        317,
+        287,
+        336
+      ],
+      "confidence": 0.9772024154663086
+    },
+    {
+      "text": "liners, and steel-banded with a minimum of six bands, three in",
+      "bbox": [
+        406,
+        314,
+        774,
+        332
+      ],
+      "confidence": 0.9830347895622253
+    },
+    {
+      "text": "KEY:",
+      "bbox": [
+        0,
+        336,
+        36,
+        354
+      ],
+      "confidence": 0.9815471172332764
+    },
+    {
+      "text": "Please advise if applicable.",
+      "bbox": [
+        37,
+        335,
+        190,
+        353
+      ],
+      "confidence": 0.9933866262435913
+    },
+    {
+      "text": "each direction.",
+      "bbox": [
+        406,
+        330,
+        490,
+        344
+      ],
+      "confidence": 0.9945856332778931
+    },
+    {
+      "text": "PARTICIPATION:",
+      "bbox": [
+        0,
+        352,
+        119,
+        374
+      ],
+      "confidence": 0.9993935227394104
+    },
+    {
+      "text": "Load identification papers must accompany all skids/cartons",
+      "bbox": [
+        404,
+        339,
+        775,
+        359
+      ],
+      "confidence": 0.9865167737007141
+    },
+    {
+      "text": "X",
+      "bbox": [
+        131,
+        360,
+        145,
+        372
+      ],
+      "confidence": 0.9011085629463196
+    },
+    {
+      "text": "REGIONAL",
+      "bbox": [
+        149,
+        356,
+        231,
+        373
+      ],
+      "confidence": 0.999770998954773
+    },
+    {
+      "text": "FULL-RUN",
+      "bbox": [
+        238,
+        356,
+        336,
+        373
+      ],
+      "confidence": 0.9788388609886169
+    },
+    {
+      "text": "number of pallets and insert quantity. Also indicate whether",
+      "bbox": [
+        404,
+        367,
+        775,
+        386
+      ],
+      "confidence": 0.9958010911941528
+    },
+    {
+      "text": "(1.) Bill of Lading must show name of magazine, issue month",
+      "bbox": [
+        406,
+        353,
+        774,
+        372
+      ],
+      "confidence": 0.947959840297699
+    },
+    {
+      "text": "BINDERY LAP:",
+      "bbox": [
+        0,
+        369,
+        105,
+        389
+      ],
+      "confidence": 0.9968850612640381
+    },
+    {
+      "text": "LOW",
+      "bbox": [
+        113,
+        374,
+        149,
+        389
+      ],
+      "confidence": 0.9960007071495056
+    },
+    {
+      "text": "*SEE LISTING ABOVE",
+      "bbox": [
+        161,
+        375,
+        307,
+        393
+      ],
+      "confidence": 0.9973120093345642
+    },
+    {
+      "text": "shipment is partial or complete. (2.) Packing List should be at-",
+      "bbox": [
+        404,
+        381,
+        775,
+        400
+      ],
+      "confidence": 0.9714347720146179
+    },
+    {
+      "text": "These specifications are for an insert to be bound [x BETWEEN",
+      "bbox": [
+        0,
+        391,
+        353,
+        413
+      ],
+      "confidence": 0.9736312031745911
+    },
+    {
+      "text": "tached to one of the pallets and must include name of magazine.",
+      "bbox": [
+        404,
+        395,
+        775,
+        414
+      ],
+      "confidence": 0.9745499491691589
+    },
+    {
+      "text": "SIGNATURES  AT THE CENTER SECTION Of an 8%\" × 10%",
+      "bbox": [
+        0,
+        405,
+        353,
+        428
+      ],
+      "confidence": 0.8832264542579651
+    },
+    {
+      "text": "issue month, key number, number of pallets, insert quantity per",
+      "bbox": [
+        404,
+        410,
+        774,
+        426
+      ],
+      "confidence": 0.9908983707427979
+    },
+    {
+      "text": "Saddle-Stitch magazine.",
+      "bbox": [
+        0,
+        419,
+        134,
+        441
+      ],
+      "confidence": 0.9861797094345093
+    },
+    {
+      "text": "pallet and total quantity shipped.",
+      "bbox": [
+        405,
+        425,
+        592,
+        440
+      ],
+      "confidence": 0.9848952293395996
+    },
+    {
+      "text": "1 these specifications refer to an unspecified issue. they will",
+      "bbox": [
+        0,
+        433,
+        353,
+        454
+      ],
+      "confidence": 0.9695290327072144
+    },
+    {
+      "text": "Each skid must be marked with the following identification:",
+      "bbox": [
+        402,
+        437,
+        775,
+        456
+      ],
+      "confidence": 0.9915304183959961
+    },
+    {
+      "text": "not be considered final.",
+      "bbox": [
+        0,
+        448,
+        138,
+        466
+      ],
+      "confidence": 0.994636595249176
+    },
+    {
+      "text": "Please check with the Production",
+      "bbox": [
+        153,
+        449,
+        352,
+        468
+      ],
+      "confidence": 0.9839098453521729
+    },
+    {
+      "text": "a. name of magazine; b.) issue month; c.) insert quantity on",
+      "bbox": [
+        403,
+        454,
+        774,
+        469
+      ],
+      "confidence": 0.9602200388908386
+    },
+    {
+      "text": "Dept., before proceeding with production of this insert.",
+      "bbox": [
+        0,
+        463,
+        336,
+        482
+      ],
+      "confidence": 0.9923490881919861
+    },
+    {
+      "text": "skid; d.) gross load weight (total skid wt—bands. runners. etc.):",
+      "bbox": [
+        401,
+        466,
+        775,
+        485
+      ],
+      "confidence": 0.9656237363815308
+    },
+    {
+      "text": "PACKAGING INSTRUCTIONS:",
+      "bbox": [
+        0,
+        477,
+        171,
+        493
+      ],
+      "confidence": 0.9991531372070312
+    },
+    {
+      "text": "e. load tare (packing materials wt only): f.) net load weight",
+      "bbox": [
+        400,
+        481,
+        775,
+        499
+      ],
+      "confidence": 0.9666559100151062
+    },
+    {
+      "text": "Send to:",
+      "bbox": [
+        0,
+        490,
+        50,
+        507
+      ],
+      "confidence": 0.9860482811927795
+    },
+    {
+      "text": "Crossroads Press, Inc., Hwy 45 South, Effing-",
+      "bbox": [
+        82,
+        489,
+        350,
+        510
+      ],
+      "confidence": 0.9455416202545166
+    },
+    {
+      "text": "(actual wt of inserts only).",
+      "bbox": [
+        401,
+        495,
+        551,
+        511
+      ],
+      "confidence": 0.9865084886550903
+    },
+    {
+      "text": "ham, Illinois 62401. ATTN: Roger Woltman, Cus-",
+      "bbox": [
+        82,
+        503,
+        350,
+        523
+      ],
+      "confidence": 0.9560056924819946
+    },
+    {
+      "text": "A printed sample of insert must be affixed to all four sides of",
+      "bbox": [
+        399,
+        508,
+        774,
+        525
+      ],
+      "confidence": 0.9805034399032593
+    },
+    {
+      "text": "tomer Service.",
+      "bbox": [
+        84,
+        520,
+        155,
+        531
+      ],
+      "confidence": 0.9809533953666687
+    },
+    {
+      "text": "pallet for exact identification.",
+      "bbox": [
+        401,
+        522,
+        566,
+        538
+      ],
+      "confidence": 0.9989171028137207
+    },
+    {
+      "text": "Samples:",
+      "bbox": [
+        0,
+        535,
+        52,
+        549
+      ],
+      "confidence": 0.9995282888412476
+    },
+    {
+      "text": "Send SiX samples of the printed insert to the",
+      "bbox": [
+        81,
+        545,
+        349,
+        567
+      ],
+      "confidence": 0.9758281111717224
+    },
+    {
+      "text": "Samples must agree with this specification sheet.",
+      "bbox": [
+        82,
+        533,
+        348,
+        551
+      ],
+      "confidence": 0.993651807308197
+    },
+    {
+      "text": "POSTAL REGULATIONS:",
+      "bbox": [
+        399,
+        536,
+        546,
+        551
+      ],
+      "confidence": 0.9973208904266357
+    },
+    {
+      "text": "Production Dept. ATTN: Xbon. Ed Frye",
+      "bbox": [
+        80,
+        557,
+        355,
+        583
+      ],
+      "confidence": 0.856699526309967
+    },
+    {
+      "text": "BOoKLET INSERTS must be manufactured as integral part",
+      "bbox": [
+        401,
+        550,
+        775,
+        573
+      ],
+      "confidence": 0.9606736302375793
+    },
+    {
+      "text": "Finishing:",
+      "bbox": [
+        0,
+        575,
+        57,
+        595
+      ],
+      "confidence": 0.9894882440567017
+    },
+    {
+      "text": "The insert is to be delivered folded and ready for",
+      "bbox": [
+        81,
+        574,
+        348,
+        597
+      ],
+      "confidence": 0.9936065673828125
+    },
+    {
+      "text": "of the total magazine package. Must NOt include inde",
+      "bbox": [
+        416,
+        565,
+        775,
+        586
+      ],
+      "confidence": 0.9731042385101318
+    },
+    {
+      "text": "binding. See sketch below. Large portion of",
+      "bbox": [
+        82,
+        591,
+        347,
+        609
+      ],
+      "confidence": 0.9854206442832947
+    },
+    {
+      "text": "pendent pagination, table of contents, or any reference or",
+      "bbox": [
+        416,
+        580,
+        775,
+        601
+      ],
+      "confidence": 0.9696069955825806
+    },
+    {
+      "text": "insert binds in the low-folio or front of book.",
+      "bbox": [
+        82,
+        603,
+        346,
+        623
+      ],
+      "confidence": 0.9849896430969238
+    },
+    {
+      "text": "the booklet that it is a catalog.",
+      "bbox": [
+        416,
+        595,
+        592,
+        612
+      ],
+      "confidence": 0.9957892894744873
+    },
+    {
+      "text": "Binding:",
+      "bbox": [
+        0,
+        618,
+        49,
+        638
+      ],
+      "confidence": 0.999661922454834
+    },
+    {
+      "text": "Insert jogs to the foot taking a 3/16\" trim  toot",
+      "bbox": [
+        81,
+        619,
+        347,
+        641
+      ],
+      "confidence": 0.9747639894485474
+    },
+    {
+      "text": " cARDS or CouPONS tipped to furnished inserts must directi",
+      "bbox": [
+        401,
+        610,
+        775,
+        632
+      ],
+      "confidence": 0.9396053552627563
+    },
+    {
+      "text": " side  head. Live matter should be kept ½4\"",
+      "bbox": [
+        82,
+        634,
+        346,
+        655
+      ],
+      "confidence": 0.9406867027282715
+    },
+    {
+      "text": "relate to the advertising material printed on the insert t",
+      "bbox": [
+        415,
+        624,
+        775,
+        646
+      ],
+      "confidence": 0.9810835123062134
+    },
+    {
+      "text": "away trom final trimmed edge.",
+      "bbox": [
+        82,
+        646,
+        254,
+        667
+      ],
+      "confidence": 0.970745861530304
+    },
+    {
+      "text": "which they are permanently attached.",
+      "bbox": [
+        416,
+        640,
+        630,
+        656
+      ],
+      "confidence": 0.9896003007888794
+    },
+    {
+      "text": "Perforation:",
+      "bbox": [
+        0,
+        662,
+        65,
+        681
+      ],
+      "confidence": 0.993843138217926
+    },
+    {
+      "text": "Cards intended for removal by reader should be",
+      "bbox": [
+        82,
+        662,
+        346,
+        687
+      ],
+      "confidence": 0.9948354959487915
+    },
+    {
+      "text": "PETERSEN PUBLISHING COMPANY will not be reSpOnSible",
+      "bbox": [
+        399,
+        663,
+        767,
+        687
+      ],
+      "confidence": 0.9653959274291992
+    },
+    {
+      "text": "prepared with perforation %-inch trom bindery",
+      "bbox": [
+        82,
+        677,
+        346,
+        699
+      ],
+      "confidence": 0.9508681297302246
+    },
+    {
+      "text": "for Business Reply Mail, Business Reply Cards. and Business",
+      "bbox": [
+        399,
+        677,
+        768,
+        702
+      ],
+      "confidence": 0.9782543778419495
+    },
+    {
+      "text": "edge: perforation should be 50% paper and 50%",
+      "bbox": [
+        82,
+        692,
+        345,
+        713
+      ],
+      "confidence": 0.9838168025016785
+    },
+    {
+      "text": "Reply Labels that do not comply with postal regulations.",
+      "bbox": [
+        399,
+        691,
+        769,
+        716
+      ],
+      "confidence": 0.9769007563591003
+    },
+    {
+      "text": "perforation.",
+      "bbox": [
+        82,
+        708,
+        147,
+        722
+      ],
+      "confidence": 0.9965104460716248
+    },
+    {
+      "text": "Porosity:",
+      "bbox": [
+        0,
+        719,
+        44,
+        738
+      ],
+      "confidence": 0.9900936484336853
+    },
+    {
+      "text": "25 Sec. @ 100 cc air (Gurley Tester)",
+      "bbox": [
+        81,
+        723,
+        266,
+        743
+      ],
+      "confidence": 0.9902681708335876
+    },
+    {
+      "text": "8-5/8*",
+      "bbox": [
+        489,
+        745,
+        525,
+        759
+      ],
+      "confidence": 0.8656267523765564
+    },
+    {
+      "text": "DELIVERED SIZE: 8-5/8\" wide [1ow folio] by",
+      "bbox": [
+        0,
+        772,
+        324,
+        798
+      ],
+      "confidence": 0.9890207648277283
+    },
+    {
+      "text": "KADKACRAPT",
+      "bbox": [
+        599,
+        773,
+        651,
+        791
+      ],
+      "confidence": 0.6973806619644165
+    },
+    {
+      "text": "LANCER",
+      "bbox": [
+        610,
+        785,
+        641,
+        799
+      ],
+      "confidence": 0.7708005309104919
+    },
+    {
+      "text": "11-i\" deep with an 8-i\" wide [high folio]",
+      "bbox": [
+        0,
+        788,
+        316,
+        814
+      ],
+      "confidence": 0.9523478150367737
+    },
+    {
+      "text": "Magnacraft bindery hanger.",
+      "bbox": [
+        0,
+        805,
+        200,
+        830
+      ],
+      "confidence": 0.9921193718910217
+    },
+    {
+      "text": "TRIMMED SIZE: 8-1/8\" wide [1ow folio] by",
+      "bbox": [
+        0,
+        828,
+        307,
+        856
+      ],
+      "confidence": 0.9665406942367554
+    },
+    {
+      "text": "10-7/8\" deep with an 8-1/8\" wide [high fo-",
+      "bbox": [
+        0,
+        846,
+        322,
+        873
+      ],
+      "confidence": 0.9826552867889404
+    },
+    {
+      "text": "lio] Magnacraft bindery hanger.",
+      "bbox": [
+        0,
+        862,
+        240,
+        889
+      ],
+      "confidence": 0.9903949499130249
+    },
+    {
+      "text": "11-1/4-",
+      "bbox": [
+        418,
+        865,
+        464,
+        885
+      ],
+      "confidence": 0.8857589364051819
+    },
+    {
+      "text": "POLDD",
+      "bbox": [
+        524,
+        871,
+        560,
+        890
+      ],
+      "confidence": 0.6835280656814575
+    },
+    {
+      "text": "50686 9600",
+      "bbox": [
+        708,
+        865,
+        744,
+        978
+      ],
+      "confidence": 0.996319591999054
+    },
+    {
+      "text": "CRAMEICS",
+      "bbox": [
+        521,
+        892,
+        566,
+        912
+      ],
+      "confidence": 0.7164427042007446
+    }
+  ],
+  "full_text": "INSERT SPECIFICATION SHEET\nFOR SADDLE STITCH MAGAZINE\n2/8/88\nDESCRIPTION:\nR.J. REYNOLDS/\"CAMEL\" - Supplied 4-Page Die-Cut\n\"Pop-Up\"\nInsert - 8-5/8\" wide\nhanger. Insert is to run in the 50\nUnited States plus Washington, D.C., news-\nNOTE: THERE MAY BE EXTRA CHARGES IF INSERTS DO NOT MEET THESE SPECS.\nstand and subscription copies.\nMAGAZINE:\nCAR CRAFT;\nHOT ROD\nSSUE:.\nCAR\nCRAFT: 5/88\nPacking:\nInserts must be uniformly packaged and brick-piled,\nDELIVERED SIZE:\nHOT ROD: 6/88\nwith binding laps all one direction. Lifts should be\nSTOCK:\n#80 throughout\nSEE ABOVE SCHEDULE\nfour to six inches high with one reversal per lift, and each lift\nsecurely paper-banded to prevent inserts from separating. For\nmaximum protection in shipping. inserts should be packed in\nQUANTITY:\nCAR CRAFT - 647,700 (new/current\nSkid size should measure 40\"' x 48\", with platform four to six\nmedium-sized cartons (40-50 ibs.) before being loaded on skids.\nHOT ROD - 1,171,800 (new/current\ninches above the floor. If cartons are used. skid load may mea-\nA 5% margin in distribution must be allowed for all inserts.\nsure 50 inches maximum from floor to top of load. Skids should\nDUE AT PRINTER:\nCAR CRAFT - 2/29/88\nbe shipped with a protective wrapping of corrugated board\nHOT ROD - 4/8/88\nliners, and steel-banded with a minimum of six bands, three in\nKEY:\nPlease advise if applicable.\neach direction.\nPARTICIPATION:\nLoad identification papers must accompany all skids/cartons\nX\nREGIONAL\nFULL-RUN\nnumber of pallets and insert quantity. Also indicate whether\n(1.) Bill of Lading must show name of magazine, issue month\nBINDERY LAP:\nLOW\n*SEE LISTING ABOVE\nshipment is partial or complete. (2.) Packing List should be at-\nThese specifications are for an insert to be bound [x BETWEEN\ntached to one of the pallets and must include name of magazine.\nSIGNATURES  AT THE CENTER SECTION Of an 8%\" × 10%\nissue month, key number, number of pallets, insert quantity per\nSaddle-Stitch magazine.\npallet and total quantity shipped.\n1 these specifications refer to an unspecified issue. they will\nEach skid must be marked with the following identification:\nnot be considered final.\nPlease check with the Production\na. name of magazine; b.) issue month; c.) insert quantity on\nDept., before proceeding with production of this insert.\nskid; d.) gross load weight (total skid wt—bands. runners. etc.):\nPACKAGING INSTRUCTIONS:\ne. load tare (packing materials wt only): f.) net load weight\nSend to:\nCrossroads Press, Inc., Hwy 45 South, Effing-\n(actual wt of inserts only).\nham, Illinois 62401. ATTN: Roger Woltman, Cus-\nA printed sample of insert must be affixed to all four sides of\ntomer Service.\npallet for exact identification.\nSamples:\nSend SiX samples of the printed insert to the\nSamples must agree with this specification sheet.\nPOSTAL REGULATIONS:\nProduction Dept. ATTN: Xbon. Ed Frye\nBOoKLET INSERTS must be manufactured as integral part\nFinishing:\nThe insert is to be delivered folded and ready for\nof the total magazine package. Must NOt include inde\nbinding. See sketch below. Large portion of\npendent pagination, table of contents, or any reference or\ninsert binds in the low-folio or front of book.\nthe booklet that it is a catalog.\nBinding:\nInsert jogs to the foot taking a 3/16\" trim  toot\n cARDS or CouPONS tipped to furnished inserts must directi\n side  head. Live matter should be kept ½4\"\nrelate to the advertising material printed on the insert t\naway trom final trimmed edge.\nwhich they are permanently attached.\nPerforation:\nCards intended for removal by reader should be\nPETERSEN PUBLISHING COMPANY will not be reSpOnSible\nprepared with perforation %-inch trom bindery\nfor Business Reply Mail, Business Reply Cards. and Business\nedge: perforation should be 50% paper and 50%\nReply Labels that do not comply with postal regulations.\nperforation.\nPorosity:\n25 Sec. @ 100 cc air (Gurley Tester)\n8-5/8*\nDELIVERED SIZE: 8-5/8\" wide [1ow folio] by\nKADKACRAPT\nLANCER\n11-i\" deep with an 8-i\" wide [high folio]\nMagnacraft bindery hanger.\nTRIMMED SIZE: 8-1/8\" wide [1ow folio] by\n10-7/8\" deep with an 8-1/8\" wide [high fo-\nlio] Magnacraft bindery hanger.\n11-1/4-\nPOLDD\n50686 9600\nCRAMEICS"
+}

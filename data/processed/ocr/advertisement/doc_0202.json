@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0202.png",
+    "image_width": 723,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "VIVA. FEEL",
+      "bbox": [
+        0,
+        28,
+        421,
+        99
+      ],
+      "confidence": 0.9865157008171082
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        474,
+        33,
+        624,
+        94
+      ],
+      "confidence": 0.9998164176940918
+    },
+    {
+      "text": "SPLASH.",
+      "bbox": [
+        667,
+        29,
+        723,
+        95
+      ],
+      "confidence": 0.9987313151359558
+    },
+    {
+      "text": "2501057548",
+      "bbox": [
+        26,
+        679,
+        135,
+        704
+      ],
+      "confidence": 0.9999462962150574
+    }
+  ],
+  "full_text": "VIVA. FEEL\nTHE\nSPLASH.\n2501057548"
+}

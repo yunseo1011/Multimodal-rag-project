@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0482.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "H",
+      "bbox": [
+        56,
+        20,
+        108,
+        69
+      ],
+      "confidence": 0.6996631026268005
+    },
+    {
+      "text": "$№}$",
+      "bbox": [
+        560,
+        30,
+        592,
+        55
+      ],
+      "confidence": 0.7905095219612122
+    },
+    {
+      "text": "4855",
+      "bbox": [
+        618,
+        29,
+        675,
+        55
+      ],
+      "confidence": 0.9998624324798584
+    },
+    {
+      "text": "BIONETICS",
+      "bbox": [
+        107,
+        46,
+        204,
+        73
+      ],
+      "confidence": 0.9996500015258789
+    },
+    {
+      "text": "USE THIS NUMBER",
+      "bbox": [
+        564,
+        52,
+        709,
+        71
+      ],
+      "confidence": 0.9995667934417725
+    },
+    {
+      "text": "Litton",
+      "bbox": [
+        58,
+        60,
+        105,
+        82
+      ],
+      "confidence": 0.9888432621955872
+    },
+    {
+      "text": "5516 Nicholson Lane",
+      "bbox": [
+        60,
+        82,
+        207,
+        108
+      ],
+      "confidence": 0.9992642402648926
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        330,
+        75,
+        453,
+        106
+      ],
+      "confidence": 0.9999262094497681
+    },
+    {
+      "text": "FOR CHECK REMITTANCE",
+      "bbox": [
+        564,
+        71,
+        762,
+        90
+      ],
+      "confidence": 0.999714732170105
+    },
+    {
+      "text": "AND CORRESPONDENCE",
+      "bbox": [
+        565,
+        89,
+        748,
+        107
+      ],
+      "confidence": 0.9961426854133606
+    },
+    {
+      "text": "Kensington, MD 20795",
+      "bbox": [
+        60,
+        103,
+        223,
+        126
+      ],
+      "confidence": 0.9660238027572632
+    },
+    {
+      "text": "301-881-5600",
+      "bbox": [
+        60,
+        121,
+        152,
+        141
+      ],
+      "confidence": 0.9619744420051575
+    },
+    {
+      "text": "Billed To:",
+      "bbox": [
+        59,
+        151,
+        133,
+        172
+      ],
+      "confidence": 0.9697363972663879
+    },
+    {
+      "text": "Date: 17 July, 1984",
+      "bbox": [
+        532,
+        182,
+        695,
+        204
+      ],
+      "confidence": 0.9930053353309631
+    },
+    {
+      "text": "Lorillard Research Center",
+      "bbox": [
+        92,
+        198,
+        300,
+        220
+      ],
+      "confidence": 0.9842684864997864
+    },
+    {
+      "text": "420 English Street",
+      "bbox": [
+        93,
+        215,
+        245,
+        235
+      ],
+      "confidence": 0.9917981028556824
+    },
+    {
+      "text": "Greensboro, N.C. 27420",
+      "bbox": [
+        93,
+        231,
+        284,
+        250
+      ],
+      "confidence": 0.9784515500068665
+    },
+    {
+      "text": "ATTN: Harry Minnemeyer",
+      "bbox": [
+        93,
+        262,
+        284,
+        283
+      ],
+      "confidence": 0.9832137823104858
+    },
+    {
+      "text": "Amount $",
+      "bbox": [
+        64,
+        319,
+        139,
+        340
+      ],
+      "confidence": 0.9963630437850952
+    },
+    {
+      "text": "4,300.00",
+      "bbox": [
+        149,
+        319,
+        222,
+        343
+      ],
+      "confidence": 0.9991365671157837
+    },
+    {
+      "text": "Q H.f.Meniemger",
+      "bbox": [
+        513,
+        315,
+        748,
+        356
+      ],
+      "confidence": 0.6614640951156616
+    },
+    {
+      "text": "Terms: Due on Submission",
+      "bbox": [
+        63,
+        352,
+        251,
+        374
+      ],
+      "confidence": 0.9987511038780212
+    },
+    {
+      "text": "9-13-84",
+      "bbox": [
+        589,
+        347,
+        686,
+        374
+      ],
+      "confidence": 0.9398117661476135
+    },
+    {
+      "text": "/",
+      "bbox": [
+        271,
+        356,
+        294,
+        372
+      ],
+      "confidence": 0.6621400713920593
+    },
+    {
+      "text": "United States Dollars Only.",
+      "bbox": [
+        302,
+        354,
+        487,
+        374
+      ],
+      "confidence": 0.9854760766029358
+    },
+    {
+      "text": "Dept.9590",
+      "bbox": [
+        584,
+        369,
+        704,
+        400
+      ],
+      "confidence": 0.9950814843177795
+    },
+    {
+      "text": "Acct.4111",
+      "bbox": [
+        586,
+        394,
+        704,
+        426
+      ],
+      "confidence": 0.9644915461540222
+    },
+    {
+      "text": "Payment Address:",
+      "bbox": [
+        64,
+        419,
+        188,
+        436
+      ],
+      "confidence": 0.9996095299720764
+    },
+    {
+      "text": "LITTON BIONETICS, INC. - (103)",
+      "bbox": [
+        223,
+        414,
+        483,
+        437
+      ],
+      "confidence": 0.9849576354026794
+    },
+    {
+      "text": "Box 2087",
+      "bbox": [
+        317,
+        438,
+        390,
+        456
+      ],
+      "confidence": 0.9826506972312927
+    },
+    {
+      "text": "Washington, D.C. 20013",
+      "bbox": [
+        257,
+        458,
+        449,
+        478
+      ],
+      "confidence": 0.9989143013954163
+    },
+    {
+      "text": "Date Delivered:",
+      "bbox": [
+        63,
+        557,
+        171,
+        577
+      ],
+      "confidence": 0.999082624912262
+    },
+    {
+      "text": "July, 1984",
+      "bbox": [
+        197,
+        558,
+        281,
+        577
+      ],
+      "confidence": 0.9992328882217407
+    },
+    {
+      "text": "Authorization:",
+      "bbox": [
+        62,
+        590,
+        160,
+        610
+      ],
+      "confidence": 0.999839723110199
+    },
+    {
+      "text": ".0. #012B",
+      "bbox": [
+        195,
+        591,
+        282,
+        609
+      ],
+      "confidence": 0.9138146638870239
+    },
+    {
+      "text": "Service Rendered: Mouse Lymphoma Mutation Test on the compound Bll8.",
+      "bbox": [
+        62,
+        620,
+        600,
+        643
+      ],
+      "confidence": 0.9812875390052795
+    },
+    {
+      "text": "Draft report was submitted in July, 1984.",
+      "bbox": [
+        196,
+        653,
+        528,
+        674
+      ],
+      "confidence": 0.9821261167526245
+    },
+    {
+      "text": "80234223",
+      "bbox": [
+        700,
+        674,
+        735,
+        781
+      ],
+      "confidence": 0.9999024868011475
+    },
+    {
+      "text": "Cprinne Richilt",
+      "bbox": [
+        160,
+        830,
+        404,
+        885
+      ],
+      "confidence": 0.791435182094574
+    },
+    {
+      "text": "Submitted By:",
+      "bbox": [
+        53,
+        861,
+        161,
+        883
+      ],
+      "confidence": 0.9672202467918396
+    },
+    {
+      "text": "Project Code:",
+      "bbox": [
+        531,
+        861,
+        623,
+        879
+      ],
+      "confidence": 0.9991673827171326
+    },
+    {
+      "text": "20989-309",
+      "bbox": [
+        651,
+        861,
+        725,
+        875
+      ],
+      "confidence": 0.998640775680542
+    },
+    {
+      "text": "Name:",
+      "bbox": [
+        52,
+        892,
+        105,
+        910
+      ],
+      "confidence": 0.9999081492424011
+    },
+    {
+      "text": "Corinne Reichelt",
+      "bbox": [
+        194,
+        890,
+        325,
+        907
+      ],
+      "confidence": 0.9996874332427979
+    },
+    {
+      "text": "Billing No.:",
+      "bbox": [
+        531,
+        888,
+        610,
+        906
+      ],
+      "confidence": 0.997372567653656
+    },
+    {
+      "text": "29",
+      "bbox": [
+        649,
+        893,
+        668,
+        906
+      ],
+      "confidence": 0.9999492764472961
+    },
+    {
+      "text": "Title:",
+      "bbox": [
+        49,
+        921,
+        96,
+        944
+      ],
+      "confidence": 0.9998243451118469
+    },
+    {
+      "text": "Customer Code:",
+      "bbox": [
+        528,
+        917,
+        638,
+        938
+      ],
+      "confidence": 0.998604953289032
+    },
+    {
+      "text": "Supervisor, Cost Accounting",
+      "bbox": [
+        194,
+        923,
+        410,
+        941
+      ],
+      "confidence": 0.9941211938858032
+    },
+    {
+      "text": "Account Code:",
+      "bbox": [
+        528,
+        952,
+        631,
+        972
+      ],
+      "confidence": 0.9996446371078491
+    },
+    {
+      "text": "110",
+      "bbox": [
+        645,
+        956,
+        676,
+        972
+      ],
+      "confidence": 0.9996542930603027
+    },
+    {
+      "text": "roiect: Pink. Chronological",
+      "bbox": [
+        488,
+        984,
+        663,
+        998
+      ],
+      "confidence": 0.9645633101463318
+    }
+  ],
+  "full_text": "H\n$№}$\n4855\nBIONETICS\nUSE THIS NUMBER\nLitton\n5516 Nicholson Lane\nINVOICE\nFOR CHECK REMITTANCE\nAND CORRESPONDENCE\nKensington, MD 20795\n301-881-5600\nBilled To:\nDate: 17 July, 1984\nLorillard Research Center\n420 English Street\nGreensboro, N.C. 27420\nATTN: Harry Minnemeyer\nAmount $\n4,300.00\nQ H.f.Meniemger\nTerms: Due on Submission\n9-13-84\n/\nUnited States Dollars Only.\nDept.9590\nAcct.4111\nPayment Address:\nLITTON BIONETICS, INC. - (103)\nBox 2087\nWashington, D.C. 20013\nDate Delivered:\nJuly, 1984\nAuthorization:\n.0. #012B\nService Rendered: Mouse Lymphoma Mutation Test on the compound Bll8.\nDraft report was submitted in July, 1984.\n80234223\nCprinne Richilt\nSubmitted By:\nProject Code:\n20989-309\nName:\nCorinne Reichelt\nBilling No.:\n29\nTitle:\nCustomer Code:\nSupervisor, Cost Accounting\nAccount Code:\n110\nroiect: Pink. Chronological"
+}

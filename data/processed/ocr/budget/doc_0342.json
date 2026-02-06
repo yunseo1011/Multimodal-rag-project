@@ -1,0 +1,641 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0342.png",
+    "image_width": 743,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Tobacco Institute",
+      "bbox": [
+        298,
+        51,
+        495,
+        75
+      ],
+      "confidence": 0.9813554883003235
+    },
+    {
+      "text": "1994 BUDGET",
+      "bbox": [
+        343,
+        82,
+        449,
+        103
+      ],
+      "confidence": 0.9997438192367554
+    },
+    {
+      "text": "COST CENTER",
+      "bbox": [
+        56,
+        107,
+        163,
+        130
+      ],
+      "confidence": 0.9996368288993835
+    },
+    {
+      "text": "Advertising/Youth Programs",
+      "bbox": [
+        269,
+        111,
+        511,
+        135
+      ],
+      "confidence": 0.9995558261871338
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        591,
+        118,
+        626,
+        136
+      ],
+      "confidence": 0.9996187090873718
+    },
+    {
+      "text": "1308",
+      "bbox": [
+        658,
+        119,
+        700,
+        134
+      ],
+      "confidence": 0.9999383687973022
+    },
+    {
+      "text": "1993",
+      "bbox": [
+        434,
+        146,
+        475,
+        164
+      ],
+      "confidence": 0.9999585151672363
+    },
+    {
+      "text": "1993",
+      "bbox": [
+        554,
+        148,
+        597,
+        166
+      ],
+      "confidence": 0.999786376953125
+    },
+    {
+      "text": "1994",
+      "bbox": [
+        677,
+        149,
+        718,
+        164
+      ],
+      "confidence": 0.9999306201934814
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        424,
+        160,
+        485,
+        181
+      ],
+      "confidence": 0.9994049668312073
+    },
+    {
+      "text": "ESTIMATED",
+      "bbox": [
+        536,
+        163,
+        625,
+        180
+      ],
+      "confidence": 0.9997566938400269
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        667,
+        164,
+        730,
+        181
+      ],
+      "confidence": 0.9999108910560608
+    },
+    {
+      "text": "($000)",
+      "bbox": [
+        426,
+        174,
+        483,
+        196
+      ],
+      "confidence": 0.9740424156188965
+    },
+    {
+      "text": "($000)",
+      "bbox": [
+        548,
+        178,
+        604,
+        197
+      ],
+      "confidence": 0.9955784678459167
+    },
+    {
+      "text": "($000)",
+      "bbox": [
+        670,
+        178,
+        727,
+        197
+      ],
+      "confidence": 0.9923694133758545
+    },
+    {
+      "text": "Account #6201 - Advertising",
+      "bbox": [
+        53,
+        215,
+        308,
+        238
+      ],
+      "confidence": 0.9609905481338501
+    },
+    {
+      "text": "\"Tobacco:Helping Youth Say No\"",
+      "bbox": [
+        108,
+        245,
+        393,
+        271
+      ],
+      "confidence": 0.996296763420105
+    },
+    {
+      "text": ". General Consumer",
+      "bbox": [
+        126,
+        276,
+        299,
+        300
+      ],
+      "confidence": 0.996606707572937
+    },
+    {
+      "text": "$",
+      "bbox": [
+        408,
+        283,
+        421,
+        300
+      ],
+      "confidence": 0.999913215637207
+    },
+    {
+      "text": "800",
+      "bbox": [
+        470,
+        282,
+        505,
+        301
+      ],
+      "confidence": 0.9998422265052795
+    },
+    {
+      "text": "$",
+      "bbox": [
+        528,
+        285,
+        541,
+        301
+      ],
+      "confidence": 0.9998515844345093
+    },
+    {
+      "text": "$",
+      "bbox": [
+        653,
+        286,
+        665,
+        302
+      ],
+      "confidence": 0.9999052286148071
+    },
+    {
+      "text": ". Decision Makers",
+      "bbox": [
+        124,
+        307,
+        288,
+        330
+      ],
+      "confidence": 0.994909942150116
+    },
+    {
+      "text": "200",
+      "bbox": [
+        470,
+        314,
+        506,
+        332
+      ],
+      "confidence": 0.9999273419380188
+    },
+    {
+      "text": ". Minority",
+      "bbox": [
+        122,
+        336,
+        224,
+        361
+      ],
+      "confidence": 0.9940029382705688
+    },
+    {
+      "text": "-",
+      "bbox": [
+        617,
+        323,
+        626,
+        331
+      ],
+      "confidence": 0.9962193369865417
+    },
+    {
+      "text": "90",
+      "bbox": [
+        481,
+        345,
+        506,
+        362
+      ],
+      "confidence": 0.999708890914917
+    },
+    {
+      "text": ". Education Journals",
+      "bbox": [
+        121,
+        368,
+        315,
+        393
+      ],
+      "confidence": 0.9964885711669922
+    },
+    {
+      "text": "20",
+      "bbox": [
+        481,
+        375,
+        507,
+        395
+      ],
+      "confidence": 0.9999356865882874
+    },
+    {
+      "text": ". Miscellaneous placements",
+      "bbox": [
+        119,
+        399,
+        372,
+        425
+      ],
+      "confidence": 0.9997413158416748
+    },
+    {
+      "text": "15",
+      "bbox": [
+        481,
+        406,
+        507,
+        426
+      ],
+      "confidence": 0.9999616146087646
+    },
+    {
+      "text": "Advertising Agencies",
+      "bbox": [
+        97,
+        430,
+        295,
+        456
+      ],
+      "confidence": 0.9998674392700195
+    },
+    {
+      "text": ". Reuben M. Smith Assoc. ",
+      "bbox": [
+        120,
+        466,
+        367,
+        485
+      ],
+      "confidence": 0.9519901275634766
+    },
+    {
+      "text": "advertising agency",
+      "bbox": [
+        136,
+        481,
+        313,
+        501
+      ],
+      "confidence": 0.990685760974884
+    },
+    {
+      "text": "retainer in lieu of ad",
+      "bbox": [
+        135,
+        498,
+        351,
+        516
+      ],
+      "confidence": 0.9805766940116882
+    },
+    {
+      "text": "commission",
+      "bbox": [
+        135,
+        513,
+        236,
+        530
+      ],
+      "confidence": 0.9995158314704895
+    },
+    {
+      "text": "180",
+      "bbox": [
+        472,
+        515,
+        507,
+        534
+      ],
+      "confidence": 0.999943196773529
+    },
+    {
+      "text": ". Holding fees and residual",
+      "bbox": [
+        120,
+        543,
+        379,
+        563
+      ],
+      "confidence": 0.994243860244751
+    },
+    {
+      "text": "payments for PSA actors",
+      "bbox": [
+        134,
+        558,
+        360,
+        579
+      ],
+      "confidence": 0.9883418083190918
+    },
+    {
+      "text": "150",
+      "bbox": [
+        471,
+        561,
+        507,
+        580
+      ],
+      "confidence": 0.999980628490448
+    },
+    {
+      "text": ". Production expenses for",
+      "bbox": [
+        121,
+        590,
+        359,
+        609
+      ],
+      "confidence": 0.9968150854110718
+    },
+    {
+      "text": "print ads",
+      "bbox": [
+        135,
+        607,
+        227,
+        624
+      ],
+      "confidence": 0.998519241809845
+    },
+    {
+      "text": "40",
+      "bbox": [
+        481,
+        608,
+        506,
+        625
+      ],
+      "confidence": 0.9999143481254578
+    },
+    {
+      "text": ". Model fees for use of",
+      "bbox": [
+        121,
+        636,
+        340,
+        655
+      ],
+      "confidence": 0.9849894046783447
+    },
+    {
+      "text": "THYSN photOs in",
+      "bbox": [
+        136,
+        652,
+        284,
+        673
+      ],
+      "confidence": 0.961371123790741
+    },
+    {
+      "text": "billboards/posters",
+      "bbox": [
+        136,
+        668,
+        312,
+        687
+      ],
+      "confidence": 0.9990112781524658
+    },
+    {
+      "text": "25",
+      "bbox": [
+        481,
+        670,
+        506,
+        688
+      ],
+      "confidence": 0.9999741315841675
+    },
+    {
+      "text": "Funds for national print",
+      "bbox": [
+        100,
+        699,
+        330,
+        717
+      ],
+      "confidence": 0.9851288795471191
+    },
+    {
+      "text": "advertising campaign in",
+      "bbox": [
+        101,
+        716,
+        322,
+        733
+      ],
+      "confidence": 0.9999063611030579
+    },
+    {
+      "text": "response to Surgeon General's",
+      "bbox": [
+        100,
+        730,
+        378,
+        748
+      ],
+      "confidence": 0.9962158203125
+    },
+    {
+      "text": "report on smoking and young",
+      "bbox": [
+        101,
+        747,
+        358,
+        764
+      ],
+      "confidence": 0.9885316491127014
+    },
+    {
+      "text": "people",
+      "bbox": [
+        100,
+        762,
+        164,
+        779
+      ],
+      "confidence": 0.9999287128448486
+    },
+    {
+      "text": "150",
+      "bbox": [
+        469,
+        760,
+        505,
+        778
+      ],
+      "confidence": 0.9999778866767883
+    },
+    {
+      "text": "\"It's the Law\" placements in",
+      "bbox": [
+        102,
+        789,
+        369,
+        810
+      ],
+      "confidence": 0.9875531792640686
+    },
+    {
+      "text": "national and state retail pub-",
+      "bbox": [
+        101,
+        804,
+        385,
+        826
+      ],
+      "confidence": 0.9823688268661499
+    },
+    {
+      "text": "lications",
+      "bbox": [
+        101,
+        819,
+        191,
+        840
+      ],
+      "confidence": 0.9999499917030334
+    },
+    {
+      "text": "70",
+      "bbox": [
+        479,
+        821,
+        503,
+        838
+      ],
+      "confidence": 0.9998183846473694
+    },
+    {
+      "text": "CONFIDENTIAL:",
+      "bbox": [
+        339,
+        882,
+        484,
+        902
+      ],
+      "confidence": 0.9998023509979248
+    },
+    {
+      "text": "MINNESOTA TOBACCO LITIGATION",
+      "bbox": [
+        252,
+        897,
+        570,
+        926
+      ],
+      "confidence": 0.9996851682662964
+    },
+    {
+      "text": "06/17/93",
+      "bbox": [
+        665,
+        907,
+        743,
+        924
+      ],
+      "confidence": 0.9999454617500305
+    },
+    {
+      "text": "PAD.DRBA(DRBA)",
+      "bbox": [
+        16,
+        908,
+        152,
+        929
+      ],
+      "confidence": 0.9986411929130554
+    },
+    {
+      "text": "TIFL 0528107",
+      "bbox": [
+        389,
+        947,
+        542,
+        967
+      ],
+      "confidence": 0.9979183077812195
+    },
+    {
+      "text": "TIMN 189236",
+      "bbox": [
+        596,
+        942,
+        743,
+        968
+      ],
+      "confidence": 0.9995903372764587
+    }
+  ],
+  "full_text": "The Tobacco Institute\n1994 BUDGET\nCOST CENTER\nAdvertising/Youth Programs\nNo.\n1308\n1993\n1993\n1994\nBUDGET\nESTIMATED\nBUDGET\n($000)\n($000)\n($000)\nAccount #6201 - Advertising\n\"Tobacco:Helping Youth Say No\"\n. General Consumer\n$\n800\n$\n$\n. Decision Makers\n200\n. Minority\n-\n90\n. Education Journals\n20\n. Miscellaneous placements\n15\nAdvertising Agencies\n. Reuben M. Smith Assoc. \nadvertising agency\nretainer in lieu of ad\ncommission\n180\n. Holding fees and residual\npayments for PSA actors\n150\n. Production expenses for\nprint ads\n40\n. Model fees for use of\nTHYSN photOs in\nbillboards/posters\n25\nFunds for national print\nadvertising campaign in\nresponse to Surgeon General's\nreport on smoking and young\npeople\n150\n\"It's the Law\" placements in\nnational and state retail pub-\nlications\n70\nCONFIDENTIAL:\nMINNESOTA TOBACCO LITIGATION\n06/17/93\nPAD.DRBA(DRBA)\nTIFL 0528107\nTIMN 189236"
+}

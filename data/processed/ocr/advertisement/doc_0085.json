@@ -1,0 +1,591 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0085.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "NOTHING ELSE TASTES LIKE",
+      "bbox": [
+        140,
+        15,
+        618,
+        54
+      ],
+      "confidence": 0.9838986396789551
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        35,
+        48,
+        723,
+        229
+      ],
+      "confidence": 0.9980077743530273
+    },
+    {
+      "text": "$39",
+      "bbox": [
+        315,
+        211,
+        537,
+        370
+      ],
+      "confidence": 0.9144585728645325
+    },
+    {
+      "text": "00",
+      "bbox": [
+        487,
+        231,
+        619,
+        320
+      ],
+      "confidence": 0.9959374070167542
+    },
+    {
+      "text": "SAVE",
+      "bbox": [
+        134,
+        238,
+        327,
+        350
+      ],
+      "confidence": 0.9998111724853516
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        485,
+        453,
+        575,
+        488
+      ],
+      "confidence": 0.999706506729126
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        186,
+        461,
+        273,
+        493
+      ],
+      "confidence": 0.9988729953765869
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        340,
+        462,
+        425,
+        491
+      ],
+      "confidence": 0.9994360208511353
+    },
+    {
+      "text": "III",
+      "bbox": [
+        509,
+        483,
+        549,
+        510
+      ],
+      "confidence": 0.9010031819343567
+    },
+    {
+      "text": "Golder Lighls",
+      "bbox": [
+        340,
+        493,
+        417,
+        516
+      ],
+      "confidence": 0.9224393367767334
+    },
+    {
+      "text": "83855993",
+      "bbox": [
+        714,
+        496,
+        754,
+        634
+      ],
+      "confidence": 0.9997008442878723
+    },
+    {
+      "text": "Ultra Lights",
+      "bbox": [
+        489,
+        505,
+        565,
+        530
+      ],
+      "confidence": 0.956118643283844
+    },
+    {
+      "text": "KINGS",
+      "bbox": [
+        214,
+        562,
+        241,
+        574
+      ],
+      "confidence": 0.9906170964241028
+    },
+    {
+      "text": "KINGS",
+      "bbox": [
+        366,
+        562,
+        393,
+        573
+      ],
+      "confidence": 0.92229163646698
+    },
+    {
+      "text": "FULL FLAVOR",
+      "bbox": [
+        184,
+        598,
+        269,
+        617
+      ],
+      "confidence": 0.9911647439002991
+    },
+    {
+      "text": "EXTRA SMOOTH",
+      "bbox": [
+        329,
+        601,
+        425,
+        615
+      ],
+      "confidence": 0.9810097217559814
+    },
+    {
+      "text": "RICH ULTRA",
+      "bbox": [
+        490,
+        598,
+        566,
+        617
+      ],
+      "confidence": 0.9750725626945496
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        204,
+        614,
+        250,
+        629
+      ],
+      "confidence": 0.9993841648101807
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        354,
+        614,
+        400,
+        629
+      ],
+      "confidence": 0.997394859790802
+    },
+    {
+      "text": "IGHTS",
+      "bbox": [
+        502,
+        611,
+        552,
+        631
+      ],
+      "confidence": 0.8330806493759155
+    },
+    {
+      "text": "SURGeON GENERAL'S WaRNING: Quitting Smoking",
+      "bbox": [
+        42,
+        662,
+        348,
+        688
+      ],
+      "confidence": 0.8904380798339844
+    },
+    {
+      "text": "P.S. LOOK FOR MORE MONEY SAVING",
+      "bbox": [
+        383,
+        663,
+        735,
+        691
+      ],
+      "confidence": 0.8984616994857788
+    },
+    {
+      "text": "Now Greatly Reduces Serious Risks to Your Health.",
+      "bbox": [
+        43,
+        684,
+        347,
+        708
+      ],
+      "confidence": 0.9848122596740723
+    },
+    {
+      "text": "OFFERS AT PARTICIPATING STORES.",
+      "bbox": [
+        384,
+        688,
+        725,
+        715
+      ],
+      "confidence": 0.9904916882514954
+    },
+    {
+      "text": "KENT: Kings: 12 mg. \"tar\", 0.9 mg. nicotin KENT I: Kings: 4 mg. \"tar,0.4mg, nicotine:",
+      "bbox": [
+        23,
+        731,
+        379,
+        752
+      ],
+      "confidence": 0.8102472424507141
+    },
+    {
+      "text": "©tonilard, 1998",
+      "bbox": [
+        663,
+        741,
+        726,
+        753
+      ],
+      "confidence": 0.8253124356269836
+    },
+    {
+      "text": "KENT GOLDEN LIGHTS: Kings: 8 mg. \"tar\", 0.7 mg. nicatine av. par cigaratte by FTC Method.",
+      "bbox": [
+        23,
+        744,
+        395,
+        764
+      ],
+      "confidence": 0.9550489187240601
+    },
+    {
+      "text": "$1.00 OFF : $2.00 OFF",
+      "bbox": [
+        21,
+        780,
+        734,
+        834
+      ],
+      "confidence": 0.9327170252799988
+    },
+    {
+      "text": "MANURACTURERS COUPONVEXPIRES 6/V98",
+      "bbox": [
+        484,
+        777,
+        638,
+        792
+      ],
+      "confidence": 0.9070483446121216
+    },
+    {
+      "text": "1 PACK OF KeNt",
+      "bbox": [
+        91,
+        825,
+        286,
+        839
+      ],
+      "confidence": 0.8240219354629517
+    },
+    {
+      "text": "any Carton of Kent",
+      "bbox": [
+        438,
+        825,
+        679,
+        848
+      ],
+      "confidence": 0.8155491352081299
+    },
+    {
+      "text": "cowsumERs: You may redeem tho Cembinatian Coupon if you comply with this ofle, are 21 or older, and",
+      "bbox": [
+        2,
+        840,
+        363,
+        856
+      ],
+      "confidence": 0.9058838486671448
+    },
+    {
+      "text": "cansumers: You may redaem this Cembinatlon Coepen if yeu comply with this offer, are 21 or older. and",
+      "bbox": [
+        376,
+        843,
+        744,
+        864
+      ],
+      "confidence": 0.9358950257301331
+    },
+    {
+      "text": "coupon may De radaemed lowards the parocthase of s pack of Kest together with any exlsting sn-pack coupa",
+      "bbox": [
+        0,
+        858,
+        361,
+        872
+      ],
+      "confidence": 0.8890055418014526
+    },
+    {
+      "text": "obtair",
+      "bbox": [
+        4,
+        853,
+        24,
+        860
+      ],
+      "confidence": 0.9511374831199646
+    },
+    {
+      "text": "coupon praperiy. Use ather thas as spectified berein ay be ilegal and fraudulend. Thss eriginel",
+      "bbox": [
+        48,
+        850,
+        362,
+        864
+      ],
+      "confidence": 0.8539218902587891
+    },
+    {
+      "text": "abtaisod the ctupon properfy. Use other than as specilied hertin may be ilegal and IneedulenL. Thils trliginal",
+      "bbox": [
+        375,
+        851,
+        744,
+        872
+      ],
+      "confidence": 0.8478791117668152
+    },
+    {
+      "text": "coapoa day be nedeeimed tawands the purchace of s cartos of Kant togadher afth any esisting cn-carfun",
+      "bbox": [
+        376,
+        860,
+        743,
+        880
+      ],
+      "confidence": 0.8697201013565063
+    },
+    {
+      "text": "for thelr combined face valse off regeler stane prie. Coupon good only in aY., C\"T., and PA., may hot be",
+      "bbox": [
+        0,
+        866,
+        362,
+        881
+      ],
+      "confidence": 0.8892000913619995
+    },
+    {
+      "text": "gransferred or assigned and veid whers prnhibited. faxced or othenwnse reatricted.",
+      "bbox": [
+        2,
+        877,
+        264,
+        887
+      ],
+      "confidence": 0.9290850758552551
+    },
+    {
+      "text": "cospon ler thalir coenblned face walene oft regalar slore prlice. Ctupde guod only in NY., CT.. and PA., may no",
+      "bbox": [
+        376,
+        870,
+        742,
+        889
+      ],
+      "confidence": 0.8823592662811279
+    },
+    {
+      "text": "DEALeRs ssey redeem coupoe al tace vakue spen- cpmplilanot wth Lorilland Ceapan Terms incarperated henels",
+      "bbox": [
+        1,
+        885,
+        361,
+        897
+      ],
+      "confidence": 0.8830313086509705
+    },
+    {
+      "text": "and analabhe Irom address below. Atteigted cedemption im riolation of this ofles mey be froud",
+      "bbox": [
+        45,
+        892,
+        356,
+        906
+      ],
+      "confidence": 0.8088759779930115
+    },
+    {
+      "text": "bs tramstferned or assigned and vaid ssthere prorylbated. taxind or ethenralise resfricted",
+      "bbox": [
+        377,
+        879,
+        644,
+        894
+      ],
+      "confidence": 0.8522549271583557
+    },
+    {
+      "text": "por al Jate waloe upors compllaace with Lersiltand Caupoa Terans (imcarporaled henewn",
+      "bbox": [
+        464,
+        889,
+        743,
+        904
+      ],
+      "confidence": 0.8415575623512268
+    },
+    {
+      "text": "NIOM",
+      "bbox": [
+        164,
+        907,
+        315,
+        986
+      ],
+      "confidence": 0.7539242506027222
+    },
+    {
+      "text": "00699",
+      "bbox": [
+        166,
+        907,
+        216,
+        921
+      ],
+      "confidence": 0.998546302318573
+    },
+    {
+      "text": "Cash wilice",
+      "bbox": [
+        90,
+        920,
+        126,
+        927
+      ],
+      "confidence": 0.9010408520698547
+    },
+    {
+      "text": "on and/lor",
+      "bbox": [
+        92,
+        912,
+        127,
+        919
+      ],
+      "confidence": 0.907855212688446
+    },
+    {
+      "text": "00698",
+      "bbox": [
+        536,
+        912,
+        586,
+        926
+      ],
+      "confidence": 0.9655942916870117
+    },
+    {
+      "text": "TOND",
+      "bbox": [
+        578,
+        921,
+        695,
+        976
+      ],
+      "confidence": 0.7056279182434082
+    },
+    {
+      "text": "Coapon expires 6/5/98.",
+      "bbox": [
+        36,
+        936,
+        126,
+        944
+      ],
+      "confidence": 0.9298303127288818
+    },
+    {
+      "text": " 251De. One Fawcen Drive. Dal",
+      "bbox": [
+        1,
+        950,
+        128,
+        962
+      ],
+      "confidence": 0.8383324146270752
+    },
+    {
+      "text": "Ria. TX 78840. NOT A LORILLARD",
+      "bbox": [
+        0,
+        957,
+        128,
+        972
+      ],
+      "confidence": 0.899739146232605
+    },
+    {
+      "text": "261",
+      "bbox": [
+        155,
+        967,
+        177,
+        974
+      ],
+      "confidence": 0.9583184123039246
+    },
+    {
+      "text": "ALLARD",
+      "bbox": [
+        468,
+        963,
+        496,
+        973
+      ],
+      "confidence": 0.8742719292640686
+    },
+    {
+      "text": "Det",
+      "bbox": [
+        481,
+        956,
+        495,
+        963
+      ],
+      "confidence": 0.8315351605415344
+    },
+    {
+      "text": "(8100>000699",
+      "bbox": [
+        268,
+        968,
+        345,
+        978
+      ],
+      "confidence": 0.9270221590995789
+    }
+  ],
+  "full_text": "NOTHING ELSE TASTES LIKE\nKENT\n$39\n00\nSAVE\nKENT\nKENT\nKENT\nIII\nGolder Lighls\n83855993\nUltra Lights\nKINGS\nKINGS\nFULL FLAVOR\nEXTRA SMOOTH\nRICH ULTRA\nLIGHTS\nLIGHTS\nIGHTS\nSURGeON GENERAL'S WaRNING: Quitting Smoking\nP.S. LOOK FOR MORE MONEY SAVING\nNow Greatly Reduces Serious Risks to Your Health.\nOFFERS AT PARTICIPATING STORES.\nKENT: Kings: 12 mg. \"tar\", 0.9 mg. nicotin KENT I: Kings: 4 mg. \"tar,0.4mg, nicotine:\n©tonilard, 1998\nKENT GOLDEN LIGHTS: Kings: 8 mg. \"tar\", 0.7 mg. nicatine av. par cigaratte by FTC Method.\n$1.00 OFF : $2.00 OFF\nMANURACTURERS COUPONVEXPIRES 6/V98\n1 PACK OF KeNt\nany Carton of Kent\ncowsumERs: You may redeem tho Cembinatian Coupon if you comply with this ofle, are 21 or older, and\ncansumers: You may redaem this Cembinatlon Coepen if yeu comply with this offer, are 21 or older. and\ncoupon may De radaemed lowards the parocthase of s pack of Kest together with any exlsting sn-pack coupa\nobtair\ncoupon praperiy. Use ather thas as spectified berein ay be ilegal and fraudulend. Thss eriginel\nabtaisod the ctupon properfy. Use other than as specilied hertin may be ilegal and IneedulenL. Thils trliginal\ncoapoa day be nedeeimed tawands the purchace of s cartos of Kant togadher afth any esisting cn-carfun\nfor thelr combined face valse off regeler stane prie. Coupon good only in aY., C\"T., and PA., may hot be\ngransferred or assigned and veid whers prnhibited. faxced or othenwnse reatricted.\ncospon ler thalir coenblned face walene oft regalar slore prlice. Ctupde guod only in NY., CT.. and PA., may no\nDEALeRs ssey redeem coupoe al tace vakue spen- cpmplilanot wth Lorilland Ceapan Terms incarperated henels\nand analabhe Irom address below. Atteigted cedemption im riolation of this ofles mey be froud\nbs tramstferned or assigned and vaid ssthere prorylbated. taxind or ethenralise resfricted\npor al Jate waloe upors compllaace with Lersiltand Caupoa Terans (imcarporaled henewn\nNIOM\n00699\nCash wilice\non and/lor\n00698\nTOND\nCoapon expires 6/5/98.\n 251De. One Fawcen Drive. Dal\nRia. TX 78840. NOT A LORILLARD\n261\nALLARD\nDet\n(8100>000699"
+}

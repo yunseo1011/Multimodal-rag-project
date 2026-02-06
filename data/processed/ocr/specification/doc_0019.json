@@ -1,0 +1,511 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0019.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "03/11/93",
+      "bbox": [
+        666,
+        46,
+        738,
+        74
+      ],
+      "confidence": 0.9997866749763489
+    },
+    {
+      "text": "TASTEMAKER SPECIFICATIONS 1993",
+      "bbox": [
+        241,
+        60,
+        484,
+        82
+      ],
+      "confidence": 0.9916213154792786
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "bbox": [
+        280,
+        122,
+        437,
+        172
+      ],
+      "confidence": 0.993597686290741
+    },
+    {
+      "text": "AGREEMENT HAS NOW BEEN REACHED ON THE REMAINDER OF",
+      "bbox": [
+        71,
+        194,
+        473,
+        216
+      ],
+      "confidence": 0.9941666126251221
+    },
+    {
+      "text": "THE TASTEMAKER SPECIFICATION PACKAGE.",
+      "bbox": [
+        70,
+        226,
+        369,
+        246
+      ],
+      "confidence": 0.9958550930023193
+    },
+    {
+      "text": "PM CODE",
+      "bbox": [
+        629,
+        277,
+        690,
+        302
+      ],
+      "confidence": 0.9966810345649719
+    },
+    {
+      "text": "SPEC CODE",
+      "bbox": [
+        72,
+        283,
+        155,
+        306
+      ],
+      "confidence": 0.9983251094818115
+    },
+    {
+      "text": "TASTEMAKER CODE",
+      "bbox": [
+        332,
+        282,
+        457,
+        305
+      ],
+      "confidence": 0.9998295903205872
+    },
+    {
+      "text": "AB-124",
+      "bbox": [
+        90,
+        346,
+        146,
+        364
+      ],
+      "confidence": 0.9926503300666809
+    },
+    {
+      "text": "ISOAMYL HEXANOATE",
+      "bbox": [
+        230,
+        342,
+        369,
+        364
+      ],
+      "confidence": 0.9993433952331543
+    },
+    {
+      "text": "03-170A",
+      "bbox": [
+        629,
+        338,
+        687,
+        359
+      ],
+      "confidence": 0.9997121691703796
+    },
+    {
+      "text": "01-210A",
+      "bbox": [
+        630,
+        367,
+        688,
+        389
+      ],
+      "confidence": 0.9991665482521057
+    },
+    {
+      "text": "AB-386",
+      "bbox": [
+        90,
+        376,
+        146,
+        394
+      ],
+      "confidence": 0.9991549849510193
+    },
+    {
+      "text": "NAT. & ART. ANISE FLAVOR OS 330003U",
+      "bbox": [
+        229,
+        371,
+        514,
+        394
+      ],
+      "confidence": 0.9955024719238281
+    },
+    {
+      "text": "04-346A",
+      "bbox": [
+        629,
+        396,
+        688,
+        419
+      ],
+      "confidence": 0.999815046787262
+    },
+    {
+      "text": "AB-523",
+      "bbox": [
+        89,
+        404,
+        147,
+        426
+      ],
+      "confidence": 0.999896764755249
+    },
+    {
+      "text": "APRICOT FLAVOR 158038",
+      "bbox": [
+        229,
+        401,
+        403,
+        423
+      ],
+      "confidence": 0.9925400614738464
+    },
+    {
+      "text": "01-070A",
+      "bbox": [
+        629,
+        426,
+        687,
+        448
+      ],
+      "confidence": 0.9995740652084351
+    },
+    {
+      "text": "AB-750",
+      "bbox": [
+        91,
+        435,
+        147,
+        454
+      ],
+      "confidence": 0.9999648928642273
+    },
+    {
+      "text": "NAT. PEPPERMINT FLAVOR 350002U",
+      "bbox": [
+        229,
+        429,
+        475,
+        453
+      ],
+      "confidence": 0.9826447367668152
+    },
+    {
+      "text": "03-320A",
+      "bbox": [
+        629,
+        457,
+        687,
+        477
+      ],
+      "confidence": 0.9995430707931519
+    },
+    {
+      "text": "AB-769",
+      "bbox": [
+        91,
+        466,
+        147,
+        484
+      ],
+      "confidence": 0.9999465346336365
+    },
+    {
+      "text": "2-HEPTANONE",
+      "bbox": [
+        229,
+        461,
+        322,
+        483
+      ],
+      "confidence": 0.999873161315918
+    },
+    {
+      "text": "AB-1335",
+      "bbox": [
+        90,
+        495,
+        154,
+        515
+      ],
+      "confidence": 0.9999002814292908
+    },
+    {
+      "text": "NAT. & ART. ANISE RUM FLAVOR 208527-R2",
+      "bbox": [
+        230,
+        489,
+        536,
+        513
+      ],
+      "confidence": 0.9922453165054321
+    },
+    {
+      "text": "04-436A",
+      "bbox": [
+        630,
+        489,
+        687,
+        507
+      ],
+      "confidence": 0.9997587203979492
+    },
+    {
+      "text": "03-489A",
+      "bbox": [
+        630,
+        517,
+        687,
+        537
+      ],
+      "confidence": 0.9996496438980103
+    },
+    {
+      "text": "AB-1341",
+      "bbox": [
+        88,
+        523,
+        154,
+        547
+      ],
+      "confidence": 0.9999012351036072
+    },
+    {
+      "text": "L-MALIC ACID",
+      "bbox": [
+        229,
+        521,
+        331,
+        543
+      ],
+      "confidence": 0.9930914044380188
+    },
+    {
+      "text": "03-407A",
+      "bbox": [
+        630,
+        546,
+        687,
+        567
+      ],
+      "confidence": 0.9998641610145569
+    },
+    {
+      "text": "AB-1348",
+      "bbox": [
+        88,
+        552,
+        155,
+        576
+      ],
+      "confidence": 0.9999542832374573
+    },
+    {
+      "text": "DIMETHYLHYDROQUINONE",
+      "bbox": [
+        231,
+        549,
+        396,
+        573
+      ],
+      "confidence": 0.9998676180839539
+    },
+    {
+      "text": "03-160A",
+      "bbox": [
+        631,
+        577,
+        687,
+        595
+      ],
+      "confidence": 0.9998922944068909
+    },
+    {
+      "text": "AB-1349",
+      "bbox": [
+        88,
+        581,
+        155,
+        605
+      ],
+      "confidence": 0.9999107122421265
+    },
+    {
+      "text": "OCTYL ISOBUTYRATE",
+      "bbox": [
+        232,
+        578,
+        370,
+        599
+      ],
+      "confidence": 0.9987367987632751
+    },
+    {
+      "text": "ETHYL VANILLIN",
+      "bbox": [
+        231,
+        607,
+        348,
+        630
+      ],
+      "confidence": 0.9980711936950684
+    },
+    {
+      "text": "03-060A",
+      "bbox": [
+        631,
+        604,
+        688,
+        625
+      ],
+      "confidence": 0.9996502995491028
+    },
+    {
+      "text": "AB-1407",
+      "bbox": [
+        89,
+        611,
+        154,
+        634
+      ],
+      "confidence": 0.9999176859855652
+    },
+    {
+      "text": "D,L-CITRONELLOL",
+      "bbox": [
+        230,
+        637,
+        354,
+        663
+      ],
+      "confidence": 0.9995192885398865
+    },
+    {
+      "text": "03-774A",
+      "bbox": [
+        631,
+        633,
+        688,
+        654
+      ],
+      "confidence": 0.9998499155044556
+    },
+    {
+      "text": "AB-1469",
+      "bbox": [
+        90,
+        641,
+        155,
+        665
+      ],
+      "confidence": 0.9999150037765503
+    },
+    {
+      "text": "ANISYL FORMATE",
+      "bbox": [
+        230,
+        667,
+        347,
+        693
+      ],
+      "confidence": 0.999051034450531
+    },
+    {
+      "text": "03-455A",
+      "bbox": [
+        630,
+        661,
+        689,
+        685
+      ],
+      "confidence": 0.9997133612632751
+    },
+    {
+      "text": "2",
+      "bbox": [
+        0,
+        679,
+        8,
+        698
+      ],
+      "confidence": 0.9914119243621826
+    },
+    {
+      "text": "AB-1494",
+      "bbox": [
+        91,
+        671,
+        155,
+        696
+      ],
+      "confidence": 0.9999088644981384
+    },
+    {
+      "text": "5-ETHYL-3-HYDROXY-4-METHYL-2(5H)FURANONE",
+      "bbox": [
+        232,
+        693,
+        554,
+        722
+      ],
+      "confidence": 0.9974659085273743
+    },
+    {
+      "text": "03-446A",
+      "bbox": [
+        632,
+        692,
+        688,
+        713
+      ],
+      "confidence": 0.9998529553413391
+    },
+    {
+      "text": "3",
+      "bbox": [
+        0,
+        709,
+        12,
+        727
+      ],
+      "confidence": 0.9998098015785217
+    },
+    {
+      "text": "AB-1495",
+      "bbox": [
+        92,
+        701,
+        156,
+        726
+      ],
+      "confidence": 0.9998778700828552
+    },
+    {
+      "text": "2057124153",
+      "bbox": [
+        618,
+        800,
+        648,
+        944
+      ],
+      "confidence": 0.9999454617500305
+    }
+  ],
+  "full_text": "03/11/93\nTASTEMAKER SPECIFICATIONS 1993\nCONFIDENTIAL\nAGREEMENT HAS NOW BEEN REACHED ON THE REMAINDER OF\nTHE TASTEMAKER SPECIFICATION PACKAGE.\nPM CODE\nSPEC CODE\nTASTEMAKER CODE\nAB-124\nISOAMYL HEXANOATE\n03-170A\n01-210A\nAB-386\nNAT. & ART. ANISE FLAVOR OS 330003U\n04-346A\nAB-523\nAPRICOT FLAVOR 158038\n01-070A\nAB-750\nNAT. PEPPERMINT FLAVOR 350002U\n03-320A\nAB-769\n2-HEPTANONE\nAB-1335\nNAT. & ART. ANISE RUM FLAVOR 208527-R2\n04-436A\n03-489A\nAB-1341\nL-MALIC ACID\n03-407A\nAB-1348\nDIMETHYLHYDROQUINONE\n03-160A\nAB-1349\nOCTYL ISOBUTYRATE\nETHYL VANILLIN\n03-060A\nAB-1407\nD,L-CITRONELLOL\n03-774A\nAB-1469\nANISYL FORMATE\n03-455A\n2\nAB-1494\n5-ETHYL-3-HYDROXY-4-METHYL-2(5H)FURANONE\n03-446A\n3\nAB-1495\n2057124153"
+}

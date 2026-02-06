@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0670.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INFORMATION REQUEST FORM",
+      "bbox": [
+        245,
+        120,
+        498,
+        140
+      ],
+      "confidence": 0.9963178038597107
+    },
+    {
+      "text": "REQUEST NO.:",
+      "bbox": [
+        72,
+        155,
+        200,
+        186
+      ],
+      "confidence": 0.9825391173362732
+    },
+    {
+      "text": "70",
+      "bbox": [
+        249,
+        169,
+        290,
+        206
+      ],
+      "confidence": 0.9949409365653992
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        73,
+        217,
+        135,
+        243
+      ],
+      "confidence": 0.9982872009277344
+    },
+    {
+      "text": "9/23",
+      "bbox": [
+        244,
+        220,
+        319,
+        262
+      ],
+      "confidence": 0.9852782487869263
+    },
+    {
+      "text": "BY STAFF: Mary Tyler",
+      "bbox": [
+        76,
+        276,
+        260,
+        303
+      ],
+      "confidence": 0.9911686778068542
+    },
+    {
+      "text": "REQUESTOR'S NAME:",
+      "bbox": [
+        76,
+        335,
+        258,
+        359
+      ],
+      "confidence": 0.9939045906066895
+    },
+    {
+      "text": "M. Winokur",
+      "bbox": [
+        300,
+        333,
+        444,
+        366
+      ],
+      "confidence": 0.8754386901855469
+    },
+    {
+      "text": "REQUESTOR'S DEPARTMENT:",
+      "bbox": [
+        78,
+        390,
+        322,
+        417
+      ],
+      "confidence": 0.9996832013130188
+    },
+    {
+      "text": "WRA",
+      "bbox": [
+        356,
+        396,
+        423,
+        426
+      ],
+      "confidence": 0.9922711849212646
+    },
+    {
+      "text": "DESCRIPTION OF REQUEST:",
+      "bbox": [
+        80,
+        451,
+        306,
+        475
+      ],
+      "confidence": 0.9879584312438965
+    },
+    {
+      "text": "Infodoc article on wtto",
+      "bbox": [
+        240,
+        479,
+        583,
+        512
+      ],
+      "confidence": 0.9140960574150085
+    },
+    {
+      "text": "RESPONSE TO REQUEST:",
+      "bbox": [
+        81,
+        662,
+        283,
+        685
+      ],
+      "confidence": 0.9758593440055847
+    },
+    {
+      "text": "puled of Neusidge",
+      "bbox": [
+        256,
+        695,
+        524,
+        733
+      ],
+      "confidence": 0.8626987338066101
+    },
+    {
+      "text": "2074650532A",
+      "bbox": [
+        694,
+        826,
+        751,
+        969
+      ],
+      "confidence": 0.9371017813682556
+    }
+  ],
+  "full_text": "INFORMATION REQUEST FORM\nREQUEST NO.:\n70\nDATE:\n9/23\nBY STAFF: Mary Tyler\nREQUESTOR'S NAME:\nM. Winokur\nREQUESTOR'S DEPARTMENT:\nWRA\nDESCRIPTION OF REQUEST:\nInfodoc article on wtto\nRESPONSE TO REQUEST:\npuled of Neusidge\n2074650532A"
+}

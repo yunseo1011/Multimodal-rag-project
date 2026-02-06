@@ -1,0 +1,1021 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0779.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "p53, PAt, Devdopment",
+      "bbox": [
+        122,
+        102,
+        425,
+        143
+      ],
+      "confidence": 0.8092427253723145
+    },
+    {
+      "text": "INA daafe",
+      "bbox": [
+        420,
+        110,
+        566,
+        143
+      ],
+      "confidence": 0.8711552023887634
+    },
+    {
+      "text": "article",
+      "bbox": [
+        640,
+        119,
+        712,
+        154
+      ],
+      "confidence": 0.9645587205886841
+    },
+    {
+      "text": "A teratologic suppressor role for",
+      "bbox": [
+        135,
+        170,
+        678,
+        207
+      ],
+      "confidence": 0.9852626919746399
+    },
+    {
+      "text": "p53 in benzo[a]pyrene-treated",
+      "bbox": [
+        134,
+        203,
+        638,
+        238
+      ],
+      "confidence": 0.9991806745529175
+    },
+    {
+      "text": "transgenic p53-deficient mice",
+      "bbox": [
+        135,
+        235,
+        632,
+        269
+      ],
+      "confidence": 0.9968161582946777
+    },
+    {
+      "text": "dani = Miferfier",
+      "bbox": [
+        480,
+        280,
+        664,
+        313
+      ],
+      "confidence": 0.7491509318351746
+    },
+    {
+      "text": "Christopher J. Nicol', Maureen L. Harrison', Rebecca R. Laposa², Inga L. Gimelshtein' &",
+      "bbox": [
+        137,
+        322,
+        690,
+        349
+      ],
+      "confidence": 0.9722835421562195
+    },
+    {
+      "text": "Peter G. Wells',2",
+      "bbox": [
+        137,
+        339,
+        242,
+        356
+      ],
+      "confidence": 0.8619154691696167
+    },
+    {
+      "text": "DNA damage may mediate birth defects caused by many drugs and environmental",
+      "bbox": [
+        136,
+        385,
+        668,
+        409
+      ],
+      "confidence": 0.9891858696937561
+    },
+    {
+      "text": "critically embryoprotective. We have studied the effects of the environmental teratogen,",
+      "bbox": [
+        135,
+        412,
+        696,
+        442
+      ],
+      "confidence": 0.9743263721466064
+    },
+    {
+      "text": "chemicals, therefore p53, a tumour suppressor gene that facilitates DNA repair, may be",
+      "bbox": [
+        136,
+        398,
+        695,
+        425
+      ],
+      "confidence": 0.995657742023468
+    },
+    {
+      "text": "benzo(a]pyrene, on pregnant heterozygous p53-deficient mice. Such mice exhibited",
+      "bbox": [
+        134,
+        426,
+        675,
+        455
+      ],
+      "confidence": 0.9763718843460083
+    },
+    {
+      "text": "between 2-to 4-fold higher embryotoxicity and teratogenicity than normal p53-controls.",
+      "bbox": [
+        134,
+        440,
+        698,
+        470
+      ],
+      "confidence": 0.9412821531295776
+    },
+    {
+      "text": "Fetal resorptions reflecting in utero death were genotyped using the polymerase chain",
+      "bbox": [
+        134,
+        455,
+        688,
+        484
+      ],
+      "confidence": 0.982427716255188
+    },
+    {
+      "text": "reaction and found to be increased 2.6-fold and 3.6-fold respectively with heterozygous",
+      "bbox": [
+        134,
+        468,
+        698,
+        500
+      ],
+      "confidence": 0.9163177609443665
+    },
+    {
+      "text": "and homozygous p53-deficient embryos. These results provide the first direct evidence",
+      "bbox": [
+        134,
+        483,
+        695,
+        512
+      ],
+      "confidence": 0.974869966506958
+    },
+    {
+      "text": "that p53 may be an important teratological suppressor gene which protects the embryo",
+      "bbox": [
+        133,
+        498,
+        695,
+        526
+      ],
+      "confidence": 0.9890413880348206
+    },
+    {
+      "text": "from DNA-damaging chemicals and developmental oxidative stress.",
+      "bbox": [
+        134,
+        513,
+        572,
+        537
+      ],
+      "confidence": 0.9873753190040588
+    },
+    {
+      "text": "'Dept. of",
+      "bbox": [
+        32,
+        542,
+        78,
+        557
+      ],
+      "confidence": 0.9252282381057739
+    },
+    {
+      "text": "Teratogenesis, like cancer, may be initiated by DNA",
+      "bbox": [
+        134,
+        541,
+        415,
+        559
+      ],
+      "confidence": 0.9811711311340332
+    },
+    {
+      "text": "P450 and peroxidases to highly toxic electrophilic and",
+      "bbox": [
+        424,
+        543,
+        703,
+        565
+      ],
+      "confidence": 0.9753291010856628
+    },
+    {
+      "text": "Pharacolegy, 1",
+      "bbox": [
+        30,
+        551,
+        107,
+        569
+      ],
+      "confidence": 0.8087701201438904
+    },
+    {
+      "text": "King's College",
+      "bbox": [
+        31,
+        562,
+        97,
+        577
+      ],
+      "confidence": 0.9535470604896545
+    },
+    {
+      "text": "damage caused by radiation and chemicals. One of the",
+      "bbox": [
+        133,
+        551,
+        416,
+        572
+      ],
+      "confidence": 0.9514985680580139
+    },
+    {
+      "text": "free radicalreactive intermediateswhich,ifnotdetoxified.",
+      "bbox": [
+        424,
+        554,
+        703,
+        577
+      ],
+      "confidence": 0.7354910969734192
+    },
+    {
+      "text": "Circle and",
+      "bbox": [
+        31,
+        573,
+        82,
+        587
+      ],
+      "confidence": 0.9757804870605469
+    },
+    {
+      "text": "cell's important defences against the incorporation of",
+      "bbox": [
+        134,
+        564,
+        415,
+        582
+      ],
+      "confidence": 0.9871470928192139
+    },
+    {
+      "text": "DNA damage into daughter cells is the p53 protein, which",
+      "bbox": [
+        134,
+        576,
+        413,
+        594
+      ],
+      "confidence": 0.9737450480461121
+    },
+    {
+      "text": "irreversibly damage DNA by covalent bindingt or",
+      "bbox": [
+        424,
+        566,
+        703,
+        588
+      ],
+      "confidence": 0.9358640909194946
+    },
+    {
+      "text": "Faculty off",
+      "bbox": [
+        29,
+        580,
+        84,
+        597
+      ],
+      "confidence": 0.730918288230896
+    },
+    {
+      "text": "is postulated to exert its protective effect via several",
+      "bbox": [
+        133,
+        587,
+        413,
+        606
+      ],
+      "confidence": 0.9952797293663025
+    },
+    {
+      "text": "oxidation\" (Fig. 1).",
+      "bbox": [
+        426,
+        581,
+        525,
+        595
+      ],
+      "confidence": 0.9496018290519714
+    },
+    {
+      "text": "Pharmacy, 19",
+      "bbox": [
+        30,
+        593,
+        95,
+        607
+      ],
+      "confidence": 0.9639685750007629
+    },
+    {
+      "text": "Russell St.,",
+      "bbox": [
+        30,
+        603,
+        82,
+        617
+      ],
+      "confidence": 0.974390983581543
+    },
+    {
+      "text": "mechanisms. In response to DNA damage, p53 can inhibit",
+      "bbox": [
+        132,
+        599,
+        415,
+        619
+      ],
+      "confidence": 0.9637401103973389
+    },
+    {
+      "text": "Cytochromes p450 in p53-deficient mice",
+      "bbox": [
+        426,
+        604,
+        651,
+        618
+      ],
+      "confidence": 0.9922381043434143
+    },
+    {
+      "text": "University of",
+      "bbox": [
+        32,
+        614,
+        91,
+        625
+      ],
+      "confidence": 0.9850645661354065
+    },
+    {
+      "text": "DNA replication by triggering a growth arrest in G1 (ref.",
+      "bbox": [
+        133,
+        610,
+        413,
+        631
+      ],
+      "confidence": 0.9191942811012268
+    },
+    {
+      "text": "As the p53-deficient (TSG-p53) mouse is a new transgenic",
+      "bbox": [
+        423,
+        613,
+        704,
+        633
+      ],
+      "confidence": 0.9268931150436401
+    },
+    {
+      "text": "Ontario, Camada",
+      "bbox": [
+        29,
+        632,
+        109,
+        647
+      ],
+      "confidence": 0.8504081964492798
+    },
+    {
+      "text": "Toronto, Toronto,",
+      "bbox": [
+        31,
+        623,
+        112,
+        636
+      ],
+      "confidence": 0.9373121857643127
+    },
+    {
+      "text": "p53 in relation to cancer has been demonstrated by the",
+      "bbox": [
+        131,
+        634,
+        414,
+        654
+      ],
+      "confidence": 0.961771547794342
+    },
+    {
+      "text": "2 or initiate apoptosis  The importance of functional",
+      "bbox": [
+        133,
+        623,
+        412,
+        641
+      ],
+      "confidence": 0.947645366191864
+    },
+    {
+      "text": "metabolizingactivities, our first concern wasto determine",
+      "bbox": [
+        422,
+        637,
+        703,
+        656
+      ],
+      "confidence": 0.939673125743866
+    },
+    {
+      "text": "strain that has not been characterized for xenobiotic",
+      "bbox": [
+        423,
+        624,
+        703,
+        645
+      ],
+      "confidence": 0.9417273998260498
+    },
+    {
+      "text": "M5S 252",
+      "bbox": [
+        30,
+        643,
+        76,
+        657
+      ],
+      "confidence": 0.863152801990509
+    },
+    {
+      "text": "observations that the p5.3 gene is mutated in over 50% of",
+      "bbox": [
+        133,
+        647,
+        413,
+        665
+      ],
+      "confidence": 0.9749308824539185
+    },
+    {
+      "text": "whether CYP1A1, the major P450 isoform that bioactivates",
+      "bbox": [
+        422,
+        648,
+        704,
+        668
+      ],
+      "confidence": 0.9130856394767761
+    },
+    {
+      "text": "Comeipandence",
+      "bbox": [
+        32,
+        665,
+        102,
+        676
+      ],
+      "confidence": 0.8879814147949219
+    },
+    {
+      "text": "human cancers\",and that individuals with theLi-Fraumeni",
+      "bbox": [
+        133,
+        660,
+        412,
+        677
+      ],
+      "confidence": 0.963284969329834
+    },
+    {
+      "text": "benzo(a]pyrene, wasinduciblein thisstrain.This question",
+      "bbox": [
+        422,
+        661,
+        704,
+        679
+      ],
+      "confidence": 0.8742204904556274
+    },
+    {
+      "text": "should be addressed",
+      "bbox": [
+        30,
+        672,
+        120,
+        688
+      ],
+      "confidence": 0.7583425045013428
+    },
+    {
+      "text": "extremely susceptible to zancer development.",
+      "bbox": [
+        131,
+        682,
+        413,
+        702
+      ],
+      "confidence": 0.9726662039756775
+    },
+    {
+      "text": "syndrome, who inherit p5. germline mutations. are",
+      "bbox": [
+        133,
+        670,
+        413,
+        690
+      ],
+      "confidence": 0.9251376390457153
+    },
+    {
+      "text": "is important because CYP1A1 is a non-constitutive P450,",
+      "bbox": [
+        423,
+        674,
+        703,
+        690
+      ],
+      "confidence": 0.9709201455116272
+    },
+    {
+      "text": "ro P.G.W.",
+      "bbox": [
+        31,
+        683,
+        81,
+        698
+      ],
+      "confidence": 0.885060727596283
+    },
+    {
+      "text": "Furthermore,micedeficient inthe p53geneat oneorboth",
+      "bbox": [
+        132,
+        695,
+        412,
+        714
+      ],
+      "confidence": 0.9486470222473145
+    },
+    {
+      "text": "bloactivating activity. Since TSG-p53 mice were derived",
+      "bbox": [
+        421,
+        695,
+        703,
+        715
+      ],
+      "confidence": 0.8780271410942078
+    },
+    {
+      "text": "and enzyme inductionis necessaryforachievingsubstantial",
+      "bbox": [
+        422,
+        683,
+        703,
+        703
+      ],
+      "confidence": 0.8617983460426331
+    },
+    {
+      "text": "alleles also develop cancers at an early age",
+      "bbox": [
+        132,
+        706,
+        355,
+        724
+      ],
+      "confidence": 0.9916872382164001
+    },
+    {
+      "text": "largely from the C57BL/6 strain\", which is genetically",
+      "bbox": [
+        421,
+        706,
+        703,
+        726
+      ],
+      "confidence": 0.9284408092498779
+    },
+    {
+      "text": "DNA damage is thought to initiate the teratogenicity",
+      "bbox": [
+        143,
+        720,
+        411,
+        735
+      ],
+      "confidence": 0.9778847098350525
+    },
+    {
+      "text": "CYP1Al-induciblei, a similar pattern of substential",
+      "bbox": [
+        421,
+        718,
+        703,
+        738
+      ],
+      "confidence": 0.9282059073448181
+    },
+    {
+      "text": "caused bynumerous drugs andenvironmental chemicals.",
+      "bbox": [
+        134,
+        732,
+        411,
+        747
+      ],
+      "confidence": 0.9793022274971008
+    },
+    {
+      "text": "CYP1A1 inducibility was anticipated for the TSG-p53",
+      "bbox": [
+        421,
+        730,
+        703,
+        749
+      ],
+      "confidence": 0.9770075678825378
+    },
+    {
+      "text": "protein have been observed in cell culture after exposure",
+      "bbox": [
+        133,
+        755,
+        411,
+        770
+      ],
+      "confidence": 0.9844890832901001
+    },
+    {
+      "text": "collectively termed xenobiotics'. Elevated levels of p53",
+      "bbox": [
+        135,
+        745,
+        411,
+        759
+      ],
+      "confidence": 0.994767963886261
+    },
+    {
+      "text": "strain.",
+      "bbox": [
+        422,
+        744,
+        458,
+        758
+      ],
+      "confidence": 0.9998273849487305
+    },
+    {
+      "text": "To induce CYP1A1. pretreatment with 2,3,7,8-",
+      "bbox": [
+        431,
+        753,
+        704,
+        772
+      ],
+      "confidence": 0.9863516092300415
+    },
+    {
+      "text": "to DNA-damaging agents², and have been correlated",
+      "bbox": [
+        132,
+        766,
+        410,
+        782
+      ],
+      "confidence": 0.9773416519165039
+    },
+    {
+      "text": "tetrachlorodibenzo-p-dioxin (TCDD) was chosen in part",
+      "bbox": [
+        420,
+        764,
+        704,
+        785
+      ],
+      "confidence": 0.9810578227043152
+    },
+    {
+      "text": "with the triggering of both cellular growth arrest and",
+      "bbox": [
+        133,
+        777,
+        410,
+        795
+      ],
+      "confidence": 0.8490529656410217
+    },
+    {
+      "text": "because ofits high potencyand broad efficacyasa CYPi A1",
+      "bbox": [
+        420,
+        776,
+        703,
+        797
+      ],
+      "confidence": 0.9143341779708862
+    },
+    {
+      "text": "mouse embryos during the period of organogenesis",
+      "bbox": [
+        132,
+        800,
+        409,
+        821
+      ],
+      "confidence": 0.9171580672264099
+    },
+    {
+      "text": "apoptosis\".Sincep53 mRNA and proteinareexpressed in",
+      "bbox": [
+        133,
+        790,
+        409,
+        806
+      ],
+      "confidence": 0.9413253664970398
+    },
+    {
+      "text": "inducer among both inducible and resistant murine",
+      "bbox": [
+        420,
+        788,
+        704,
+        809
+      ],
+      "confidence": 0.9672065377235413
+    },
+    {
+      "text": "strains. Perhaps more critically. TCDD, unlike",
+      "bbox": [
+        420,
+        800,
+        703,
+        822
+      ],
+      "confidence": 0.9515772461891174
+    },
+    {
+      "text": "we postulatedthat p53might beanimportantteratological",
+      "bbox": [
+        134,
+        812,
+        409,
+        832
+      ],
+      "confidence": 0.8784164786338806
+    },
+    {
+      "text": "benzolalpyrene, is not a substrate for CYPlA1 (ref. 22),",
+      "bbox": [
+        420,
+        812,
+        703,
+        833
+      ],
+      "confidence": 0.8259783983230591
+    },
+    {
+      "text": "suppressor gene, with p53 deficiencies enhancing",
+      "bbox": [
+        133,
+        827,
+        409,
+        842
+      ],
+      "confidence": 0.9645175933837891
+    },
+    {
+      "text": "and hence is not bioactivated to a toxic reactive",
+      "bbox": [
+        421,
+        826,
+        702,
+        844
+      ],
+      "confidence": 0.979487955570221
+    },
+    {
+      "text": "susceptibiliry to chemical teratogenesis and in utero death",
+      "bbox": [
+        134,
+        838,
+        409,
+        853
+      ],
+      "confidence": 0.9655686616897583
+    },
+    {
+      "text": "intermediate. Accordingly, while TCDD itself in high",
+      "bbox": [
+        420,
+        836,
+        702,
+        857
+      ],
+      "confidence": 0.9776366949081421
+    },
+    {
+      "text": "(Fig.1).",
+      "bbox": [
+        135,
+        850,
+        179,
+        865
+      ],
+      "confidence": 0.9482004642486572
+    },
+    {
+      "text": "To test this hypothesis, we chose benzojalpyrene,",
+      "bbox": [
+        144,
+        861,
+        408,
+        876
+      ],
+      "confidence": 0.9802896976470947
+    },
+    {
+      "text": "process by which it induces CYPlAl; namely, binding",
+      "bbox": [
+        419,
+        860,
+        702,
+        880
+      ],
+      "confidence": 0.933164656162262
+    },
+    {
+      "text": "doses is teratogenic, these effectsare initiated by the same",
+      "bbox": [
+        420,
+        848,
+        702,
+        869
+      ],
+      "confidence": 0.7637261748313904
+    },
+    {
+      "text": "2501702140",
+      "bbox": [
+        697,
+        854,
+        725,
+        946
+      ],
+      "confidence": 0.9999634027481079
+    },
+    {
+      "text": "representative of a multitude of polycyclic aromatic",
+      "bbox": [
+        135,
+        875,
+        409,
+        888
+      ],
+      "confidence": 0.9702367782592773
+    },
+    {
+      "text": "with high affinity to the aromatic hydrocarbon (Ah)",
+      "bbox": [
+        420,
+        873,
+        700,
+        890
+      ],
+      "confidence": 0.9886512160301208
+    },
+    {
+      "text": "hydrocarbons found widely in the environment, and a",
+      "bbox": [
+        135,
+        886,
+        409,
+        899
+      ],
+      "confidence": 0.9702940583229065
+    },
+    {
+      "text": "receptor, rather than via a toxic reactive intermediate.",
+      "bbox": [
+        420,
+        885,
+        699,
+        901
+      ],
+      "confidence": 0.9803096055984497
+    },
+    {
+      "text": "classic DNA-damaging carcinogent and teratogen\".",
+      "bbox": [
+        134,
+        896,
+        409,
+        911
+      ],
+      "confidence": 0.9464989304542542
+    },
+    {
+      "text": "Although the parent compound is relatively non-toxic,",
+      "bbox": [
+        135,
+        907,
+        408,
+        922
+      ],
+      "confidence": 0.9737517833709717
+    },
+    {
+      "text": "Not only are the teratological anomalies initiated by",
+      "bbox": [
+        420,
+        896,
+        699,
+        912
+      ],
+      "confidence": 0.9820945858955383
+    },
+    {
+      "text": "TCDDdifferentfromthoseinitiatedby benzo[alpyrene,",
+      "bbox": [
+        420,
+        907,
+        699,
+        923
+      ],
+      "confidence": 0.9536948800086975
+    },
+    {
+      "text": "benzolalpyrene is bloactivated in vivo by cytochromes",
+      "bbox": [
+        136,
+        920,
+        408,
+        933
+      ],
+      "confidence": 0.958181619644165
+    },
+    {
+      "text": "but also the dose of TCDD necessary to induce CYP1A1",
+      "bbox": [
+        421,
+        920,
+        698,
+        934
+      ],
+      "confidence": 0.984703779220581
+    },
+    {
+      "text": "Nature Genetics volume 10 june 1995",
+      "bbox": [
+        36,
+        934,
+        210,
+        948
+      ],
+      "confidence": 0.9773653149604797
+    },
+    {
+      "text": "181",
+      "bbox": [
+        679,
+        935,
+        697,
+        948
+      ],
+      "confidence": 0.783846378326416
+    }
+  ],
+  "full_text": "p53, PAt, Devdopment\nINA daafe\narticle\nA teratologic suppressor role for\np53 in benzo[a]pyrene-treated\ntransgenic p53-deficient mice\ndani = Miferfier\nChristopher J. Nicol', Maureen L. Harrison', Rebecca R. Laposa², Inga L. Gimelshtein' &\nPeter G. Wells',2\nDNA damage may mediate birth defects caused by many drugs and environmental\ncritically embryoprotective. We have studied the effects of the environmental teratogen,\nchemicals, therefore p53, a tumour suppressor gene that facilitates DNA repair, may be\nbenzo(a]pyrene, on pregnant heterozygous p53-deficient mice. Such mice exhibited\nbetween 2-to 4-fold higher embryotoxicity and teratogenicity than normal p53-controls.\nFetal resorptions reflecting in utero death were genotyped using the polymerase chain\nreaction and found to be increased 2.6-fold and 3.6-fold respectively with heterozygous\nand homozygous p53-deficient embryos. These results provide the first direct evidence\nthat p53 may be an important teratological suppressor gene which protects the embryo\nfrom DNA-damaging chemicals and developmental oxidative stress.\n'Dept. of\nTeratogenesis, like cancer, may be initiated by DNA\nP450 and peroxidases to highly toxic electrophilic and\nPharacolegy, 1\nKing's College\ndamage caused by radiation and chemicals. One of the\nfree radicalreactive intermediateswhich,ifnotdetoxified.\nCircle and\ncell's important defences against the incorporation of\nDNA damage into daughter cells is the p53 protein, which\nirreversibly damage DNA by covalent bindingt or\nFaculty off\nis postulated to exert its protective effect via several\noxidation\" (Fig. 1).\nPharmacy, 19\nRussell St.,\nmechanisms. In response to DNA damage, p53 can inhibit\nCytochromes p450 in p53-deficient mice\nUniversity of\nDNA replication by triggering a growth arrest in G1 (ref.\nAs the p53-deficient (TSG-p53) mouse is a new transgenic\nOntario, Camada\nToronto, Toronto,\np53 in relation to cancer has been demonstrated by the\n2 or initiate apoptosis  The importance of functional\nmetabolizingactivities, our first concern wasto determine\nstrain that has not been characterized for xenobiotic\nM5S 252\nobservations that the p5.3 gene is mutated in over 50% of\nwhether CYP1A1, the major P450 isoform that bioactivates\nComeipandence\nhuman cancers\",and that individuals with theLi-Fraumeni\nbenzo(a]pyrene, wasinduciblein thisstrain.This question\nshould be addressed\nextremely susceptible to zancer development.\nsyndrome, who inherit p5. germline mutations. are\nis important because CYP1A1 is a non-constitutive P450,\nro P.G.W.\nFurthermore,micedeficient inthe p53geneat oneorboth\nbloactivating activity. Since TSG-p53 mice were derived\nand enzyme inductionis necessaryforachievingsubstantial\nalleles also develop cancers at an early age\nlargely from the C57BL/6 strain\", which is genetically\nDNA damage is thought to initiate the teratogenicity\nCYP1Al-induciblei, a similar pattern of substential\ncaused bynumerous drugs andenvironmental chemicals.\nCYP1A1 inducibility was anticipated for the TSG-p53\nprotein have been observed in cell culture after exposure\ncollectively termed xenobiotics'. Elevated levels of p53\nstrain.\nTo induce CYP1A1. pretreatment with 2,3,7,8-\nto DNA-damaging agents², and have been correlated\ntetrachlorodibenzo-p-dioxin (TCDD) was chosen in part\nwith the triggering of both cellular growth arrest and\nbecause ofits high potencyand broad efficacyasa CYPi A1\nmouse embryos during the period of organogenesis\napoptosis\".Sincep53 mRNA and proteinareexpressed in\ninducer among both inducible and resistant murine\nstrains. Perhaps more critically. TCDD, unlike\nwe postulatedthat p53might beanimportantteratological\nbenzolalpyrene, is not a substrate for CYPlA1 (ref. 22),\nsuppressor gene, with p53 deficiencies enhancing\nand hence is not bioactivated to a toxic reactive\nsusceptibiliry to chemical teratogenesis and in utero death\nintermediate. Accordingly, while TCDD itself in high\n(Fig.1).\nTo test this hypothesis, we chose benzojalpyrene,\nprocess by which it induces CYPlAl; namely, binding\ndoses is teratogenic, these effectsare initiated by the same\n2501702140\nrepresentative of a multitude of polycyclic aromatic\nwith high affinity to the aromatic hydrocarbon (Ah)\nhydrocarbons found widely in the environment, and a\nreceptor, rather than via a toxic reactive intermediate.\nclassic DNA-damaging carcinogent and teratogen\".\nAlthough the parent compound is relatively non-toxic,\nNot only are the teratological anomalies initiated by\nTCDDdifferentfromthoseinitiatedby benzo[alpyrene,\nbenzolalpyrene is bloactivated in vivo by cytochromes\nbut also the dose of TCDD necessary to induce CYP1A1\nNature Genetics volume 10 june 1995\n181"
+}

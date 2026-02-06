@@ -1,0 +1,111 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0550.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": ">>> \"Levy, Carolyn J.\" <Carolyn.J.Levy@pmusa.com> 01/05/01 02:14PM >>>",
+      "bbox": [
+        54,
+        85,
+        470,
+        104
+      ],
+      "confidence": 0.9842219948768616
+    },
+    {
+      "text": "Marion, as per our discussion Eric and I would be happy to come out to",
+      "bbox": [
+        55,
+        99,
+        436,
+        118
+      ],
+      "confidence": 0.9751340746879578
+    },
+    {
+      "text": "Wisconsin and meet with you and representatives from First Tee",
+      "bbox": [
+        54,
+        113,
+        402,
+        132
+      ],
+      "confidence": 0.9911627769470215
+    },
+    {
+      "text": "pis send us potential dates",
+      "bbox": [
+        55,
+        141,
+        202,
+        160
+      ],
+      "confidence": 0.9664986729621887
+    },
+    {
+      "text": "Eric, pls give me a call and I can tell you what a wonderful guy Marion is",
+      "bbox": [
+        55,
+        165,
+        439,
+        188
+      ],
+      "confidence": 0.9746919870376587
+    },
+    {
+      "text": "thanks",
+      "bbox": [
+        54,
+        197,
+        95,
+        212
+      ],
+      "confidence": 0.9999468922615051
+    },
+    {
+      "text": "Carolyn Levy",
+      "bbox": [
+        52,
+        220,
+        129,
+        241
+      ],
+      "confidence": 0.9976152777671814
+    },
+    {
+      "text": "Youth Smoking Prevention",
+      "bbox": [
+        53,
+        237,
+        199,
+        251
+      ],
+      "confidence": 0.9973316192626953
+    },
+    {
+      "text": "917-663-2253",
+      "bbox": [
+        53,
+        250,
+        133,
+        264
+      ],
+      "confidence": 0.9999503493309021
+    },
+    {
+      "text": "37",
+      "bbox": [
+        359,
+        714,
+        379,
+        731
+      ],
+      "confidence": 0.9999589920043945
+    }
+  ],
+  "full_text": ">>> \"Levy, Carolyn J.\" <Carolyn.J.Levy@pmusa.com> 01/05/01 02:14PM >>>\nMarion, as per our discussion Eric and I would be happy to come out to\nWisconsin and meet with you and representatives from First Tee\npis send us potential dates\nEric, pls give me a call and I can tell you what a wonderful guy Marion is\nthanks\nCarolyn Levy\nYouth Smoking Prevention\n917-663-2253\n37"
+}

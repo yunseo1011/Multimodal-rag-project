@@ -1,0 +1,1211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0393.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "1987",
+      "bbox": [
+        21,
+        15,
+        129,
+        70
+      ],
+      "confidence": 0.9997819066047668
+    },
+    {
+      "text": "RJR",
+      "bbox": [
+        591,
+        20,
+        726,
+        96
+      ],
+      "confidence": 0.8690429329872131
+    },
+    {
+      "text": "BLACK NEWSPAPER",
+      "bbox": [
+        276,
+        36,
+        397,
+        60
+      ],
+      "confidence": 0.9994508624076843
+    },
+    {
+      "text": "KEY",
+      "bbox": [
+        33,
+        61,
+        70,
+        83
+      ],
+      "confidence": 0.9994707703590393
+    },
+    {
+      "text": "M = MORER",
+      "bbox": [
+        32,
+        76,
+        113,
+        101
+      ],
+      "confidence": 0.6761514544487
+    },
+    {
+      "text": "ACTIVITY",
+      "bbox": [
+        279,
+        73,
+        348,
+        94
+      ],
+      "confidence": 0.9996212720870972
+    },
+    {
+      "text": "R = RITZ",
+      "bbox": [
+        33,
+        94,
+        115,
+        119
+      ],
+      "confidence": 0.942402720451355
+    },
+    {
+      "text": "RuIReynalds Tobacco Company",
+      "bbox": [
+        595,
+        88,
+        720,
+        107
+      ],
+      "confidence": 0.8902504444122314
+    },
+    {
+      "text": "S = SALEM",
+      "bbox": [
+        34,
+        111,
+        123,
+        136
+      ],
+      "confidence": 0.9799056649208069
+    },
+    {
+      "text": "Media Departrent",
+      "bbox": [
+        612,
+        108,
+        703,
+        127
+      ],
+      "confidence": 0.9787355661392212
+    },
+    {
+      "text": "— WEEK OF MONDAY —",
+      "bbox": [
+        430,
+        141,
+        599,
+        160
+      ],
+      "confidence": 0.9527106881141663
+    },
+    {
+      "text": "MNS.",
+      "bbox": [
+        271,
+        169,
+        302,
+        185
+      ],
+      "confidence": 0.7902647256851196
+    },
+    {
+      "text": "JAN.",
+      "bbox": [
+        316,
+        167,
+        347,
+        186
+      ],
+      "confidence": 0.9990063905715942
+    },
+    {
+      "text": "FEB.",
+      "bbox": [
+        370,
+        169,
+        398,
+        184
+      ],
+      "confidence": 0.9128720760345459
+    },
+    {
+      "text": "MAR.",
+      "bbox": [
+        420,
+        168,
+        454,
+        185
+      ],
+      "confidence": 0.9987412095069885
+    },
+    {
+      "text": "APR.",
+      "bbox": [
+        474,
+        167,
+        506,
+        186
+      ],
+      "confidence": 0.9988383054733276
+    },
+    {
+      "text": "MAY",
+      "bbox": [
+        531,
+        169,
+        559,
+        185
+      ],
+      "confidence": 0.9914689064025879
+    },
+    {
+      "text": "JUNE",
+      "bbox": [
+        580,
+        167,
+        618,
+        188
+      ],
+      "confidence": 0.9983078241348267
+    },
+    {
+      "text": "JULY",
+      "bbox": [
+        637,
+        169,
+        670,
+        188
+      ],
+      "confidence": 0.9990561008453369
+    },
+    {
+      "text": "AUG.",
+      "bbox": [
+        690,
+        169,
+        722,
+        188
+      ],
+      "confidence": 0.9973332285881042
+    },
+    {
+      "text": "SEPT.",
+      "bbox": [
+        741,
+        169,
+        754,
+        188
+      ],
+      "confidence": 0.9175697565078735
+    },
+    {
+      "text": "9",
+      "bbox": [
+        368,
+        202,
+        382,
+        214
+      ],
+      "confidence": 0.997002899646759
+    },
+    {
+      "text": "1523",
+      "bbox": [
+        377,
+        200,
+        402,
+        215
+      ],
+      "confidence": 0.7655205726623535
+    },
+    {
+      "text": "9",
+      "bbox": [
+        420,
+        202,
+        434,
+        215
+      ],
+      "confidence": 0.9993332028388977
+    },
+    {
+      "text": "4",
+      "bbox": [
+        520,
+        203,
+        530,
+        214
+      ],
+      "confidence": 0.9131404161453247
+    },
+    {
+      "text": "1",
+      "bbox": [
+        577,
+        206,
+        582,
+        213
+      ],
+      "confidence": 0.9978571534156799
+    },
+    {
+      "text": "8",
+      "bbox": [
+        586,
+        204,
+        595,
+        217
+      ],
+      "confidence": 0.998703122138977
+    },
+    {
+      "text": "6",
+      "bbox": [
+        630,
+        206,
+        638,
+        216
+      ],
+      "confidence": 0.9998989105224609
+    },
+    {
+      "text": "3",
+      "bbox": [
+        684,
+        207,
+        691,
+        216
+      ],
+      "confidence": 0.9997068047523499
+    },
+    {
+      "text": "GROUP I - 40 Insertions",
+      "bbox": [
+        33,
+        231,
+        225,
+        252
+      ],
+      "confidence": 0.9859849810600281
+    },
+    {
+      "text": "40",
+      "bbox": [
+        274,
+        261,
+        299,
+        283
+      ],
+      "confidence": 0.999890923500061
+    },
+    {
+      "text": "--SMS",
+      "bbox": [
+        303,
+        259,
+        352,
+        282
+      ],
+      "confidence": 0.9974044561386108
+    },
+    {
+      "text": "MRRR",
+      "bbox": [
+        364,
+        259,
+        405,
+        282
+      ],
+      "confidence": 0.9929875731468201
+    },
+    {
+      "text": "R-M--",
+      "bbox": [
+        409,
+        260,
+        458,
+        282
+      ],
+      "confidence": 0.9888073205947876
+    },
+    {
+      "text": "SSMS",
+      "bbox": [
+        473,
+        260,
+        515,
+        283
+      ],
+      "confidence": 0.999582052230835
+    },
+    {
+      "text": "SRRR",
+      "bbox": [
+        521,
+        262,
+        564,
+        284
+      ],
+      "confidence": 0.9981101155281067
+    },
+    {
+      "text": "RITZ Markets *",
+      "bbox": [
+        33,
+        263,
+        158,
+        283
+      ],
+      "confidence": 0.9520968794822693
+    },
+    {
+      "text": "SMSM-",
+      "bbox": [
+        578,
+        263,
+        626,
+        286
+      ],
+      "confidence": 0.9993159174919128
+    },
+    {
+      "text": "-MSS",
+      "bbox": [
+        641,
+        263,
+        681,
+        286
+      ],
+      "confidence": 0.9993789196014404
+    },
+    {
+      "text": "-SM-S",
+      "bbox": [
+        685,
+        263,
+        733,
+        286
+      ],
+      "confidence": 0.996813952922821
+    },
+    {
+      "text": "MMS-",
+      "bbox": [
+        737,
+        263,
+        754,
+        286
+      ],
+      "confidence": 0.9945666790008545
+    },
+    {
+      "text": "40",
+      "bbox": [
+        273,
+        292,
+        298,
+        313
+      ],
+      "confidence": 0.9999433755874634
+    },
+    {
+      "text": "--SMS",
+      "bbox": [
+        302,
+        291,
+        350,
+        313
+      ],
+      "confidence": 0.9321757555007935
+    },
+    {
+      "text": "MS--",
+      "bbox": [
+        362,
+        291,
+        403,
+        313
+      ],
+      "confidence": 0.9968153834342957
+    },
+    {
+      "text": "--M--",
+      "bbox": [
+        409,
+        292,
+        457,
+        313
+      ],
+      "confidence": 0.9687119722366333
+    },
+    {
+      "text": "SSMS",
+      "bbox": [
+        469,
+        290,
+        515,
+        317
+      ],
+      "confidence": 0.9997274875640869
+    },
+    {
+      "text": "Non-RITZ Markets",
+      "bbox": [
+        33,
+        294,
+        171,
+        313
+      ],
+      "confidence": 0.9857373237609863
+    },
+    {
+      "text": "SM--",
+      "bbox": [
+        520,
+        293,
+        561,
+        315
+      ],
+      "confidence": 0.9976044297218323
+    },
+    {
+      "text": "SMSM-",
+      "bbox": [
+        578,
+        295,
+        625,
+        316
+      ],
+      "confidence": 0.9989585876464844
+    },
+    {
+      "text": "SMSS",
+      "bbox": [
+        640,
+        295,
+        681,
+        317
+      ],
+      "confidence": 0.999572217464447
+    },
+    {
+      "text": "MSMSS",
+      "bbox": [
+        684,
+        295,
+        733,
+        316
+      ],
+      "confidence": 0.9996633529663086
+    },
+    {
+      "text": "SMS-",
+      "bbox": [
+        738,
+        294,
+        754,
+        316
+      ],
+      "confidence": 0.9951708316802979
+    },
+    {
+      "text": "only.",
+      "bbox": [
+        459,
+        321,
+        512,
+        349
+      ],
+      "confidence": 0.9859121441841125
+    },
+    {
+      "text": "* Exception - MORE will switch schedule",
+      "bbox": [
+        33,
+        324,
+        350,
+        344
+      ],
+      "confidence": 0.9508842825889587
+    },
+    {
+      "text": "SALEM",
+      "bbox": [
+        347,
+        324,
+        395,
+        343
+      ],
+      "confidence": 0.9987562894821167
+    },
+    {
+      "text": "in",
+      "bbox": [
+        396,
+        326,
+        416,
+        342
+      ],
+      "confidence": 0.9906346797943115
+    },
+    {
+      "text": "Miam",
+      "bbox": [
+        412,
+        325,
+        458,
+        344
+      ],
+      "confidence": 0.9989854097366333
+    },
+    {
+      "text": "GROUP II - 35 Insertions",
+      "bbox": [
+        34,
+        385,
+        229,
+        407
+      ],
+      "confidence": 0.9884076118469238
+    },
+    {
+      "text": "RITZ Markets",
+      "bbox": [
+        34,
+        416,
+        138,
+        439
+      ],
+      "confidence": 0.9984202980995178
+    },
+    {
+      "text": "35",
+      "bbox": [
+        268,
+        415,
+        294,
+        437
+      ],
+      "confidence": 0.9999679923057556
+    },
+    {
+      "text": "--SM-",
+      "bbox": [
+        299,
+        414,
+        346,
+        437
+      ],
+      "confidence": 0.9974856376647949
+    },
+    {
+      "text": "MRRR",
+      "bbox": [
+        359,
+        415,
+        399,
+        437
+      ],
+      "confidence": 0.9976749420166016
+    },
+    {
+      "text": "R-M--",
+      "bbox": [
+        404,
+        416,
+        453,
+        438
+      ],
+      "confidence": 0.9882302284240723
+    },
+    {
+      "text": "SSMS",
+      "bbox": [
+        467,
+        416,
+        510,
+        439
+      ],
+      "confidence": 0.9995399117469788
+    },
+    {
+      "text": "SRRR",
+      "bbox": [
+        516,
+        417,
+        558,
+        440
+      ],
+      "confidence": 0.9995512962341309
+    },
+    {
+      "text": "SM---",
+      "bbox": [
+        572,
+        418,
+        623,
+        441
+      ],
+      "confidence": 0.9463506937026978
+    },
+    {
+      "text": "-MS-",
+      "bbox": [
+        637,
+        418,
+        679,
+        441
+      ],
+      "confidence": 0.9976358413696289
+    },
+    {
+      "text": "-SM--",
+      "bbox": [
+        682,
+        418,
+        731,
+        441
+      ],
+      "confidence": 0.9840612411499023
+    },
+    {
+      "text": "MMS-",
+      "bbox": [
+        734,
+        419,
+        754,
+        442
+      ],
+      "confidence": 0.9978463649749756
+    },
+    {
+      "text": "Non-RITZ Markets",
+      "bbox": [
+        35,
+        446,
+        169,
+        469
+      ],
+      "confidence": 0.9974843859672546
+    },
+    {
+      "text": "35",
+      "bbox": [
+        267,
+        446,
+        293,
+        467
+      ],
+      "confidence": 0.9999528527259827
+    },
+    {
+      "text": "--SMS",
+      "bbox": [
+        298,
+        445,
+        346,
+        467
+      ],
+      "confidence": 0.9981901049613953
+    },
+    {
+      "text": "MS--",
+      "bbox": [
+        358,
+        446,
+        398,
+        468
+      ],
+      "confidence": 0.9849124550819397
+    },
+    {
+      "text": "--M--",
+      "bbox": [
+        404,
+        447,
+        452,
+        468
+      ],
+      "confidence": 0.9382467269897461
+    },
+    {
+      "text": "SSMS",
+      "bbox": [
+        467,
+        447,
+        509,
+        469
+      ],
+      "confidence": 0.999558687210083
+    },
+    {
+      "text": "S---",
+      "bbox": [
+        515,
+        447,
+        557,
+        470
+      ],
+      "confidence": 0.7895538806915283
+    },
+    {
+      "text": "S-S--",
+      "bbox": [
+        572,
+        450,
+        621,
+        471
+      ],
+      "confidence": 0.9850627779960632
+    },
+    {
+      "text": "SMSS",
+      "bbox": [
+        636,
+        449,
+        677,
+        472
+      ],
+      "confidence": 0.9998519420623779
+    },
+    {
+      "text": "-SMSS",
+      "bbox": [
+        682,
+        450,
+        730,
+        472
+      ],
+      "confidence": 0.9935792684555054
+    },
+    {
+      "text": "SMS-",
+      "bbox": [
+        735,
+        450,
+        754,
+        473
+      ],
+      "confidence": 0.9966073036193848
+    },
+    {
+      "text": "GROUP II - 25 Insertions",
+      "bbox": [
+        36,
+        508,
+        227,
+        530
+      ],
+      "confidence": 0.9668951034545898
+    },
+    {
+      "text": "RITZ Markets/MORE",
+      "bbox": [
+        36,
+        539,
+        176,
+        562
+      ],
+      "confidence": 0.9975349307060242
+    },
+    {
+      "text": "25",
+      "bbox": [
+        267,
+        539,
+        292,
+        561
+      ],
+      "confidence": 0.9999194741249084
+    },
+    {
+      "text": "---M-",
+      "bbox": [
+        297,
+        539,
+        344,
+        561
+      ],
+      "confidence": 0.9651370048522949
+    },
+    {
+      "text": "MRRR",
+      "bbox": [
+        358,
+        540,
+        398,
+        562
+      ],
+      "confidence": 0.9994021654129028
+    },
+    {
+      "text": "R-M--",
+      "bbox": [
+        404,
+        542,
+        450,
+        561
+      ],
+      "confidence": 0.9943634867668152
+    },
+    {
+      "text": "--M-",
+      "bbox": [
+        466,
+        540,
+        509,
+        563
+      ],
+      "confidence": 0.9955133199691772
+    },
+    {
+      "text": "-RRR",
+      "bbox": [
+        514,
+        541,
+        557,
+        564
+      ],
+      "confidence": 0.9982949495315552
+    },
+    {
+      "text": "-M_--",
+      "bbox": [
+        573,
+        542,
+        621,
+        564
+      ],
+      "confidence": 0.8372377157211304
+    },
+    {
+      "text": "-M--",
+      "bbox": [
+        636,
+        542,
+        677,
+        565
+      ],
+      "confidence": 0.9951059818267822
+    },
+    {
+      "text": "MM--",
+      "bbox": [
+        682,
+        543,
+        730,
+        565
+      ],
+      "confidence": 0.8544151782989502
+    },
+    {
+      "text": "MM--",
+      "bbox": [
+        736,
+        543,
+        754,
+        566
+      ],
+      "confidence": 0.9846755266189575
+    },
+    {
+      "text": "RITZ Markets/SALEM",
+      "bbox": [
+        35,
+        569,
+        184,
+        590
+      ],
+      "confidence": 0.9988410472869873
+    },
+    {
+      "text": "25",
+      "bbox": [
+        267,
+        569,
+        291,
+        590
+      ],
+      "confidence": 0.9999347925186157
+    },
+    {
+      "text": "--S--",
+      "bbox": [
+        297,
+        569,
+        343,
+        591
+      ],
+      "confidence": 0.8964516520500183
+    },
+    {
+      "text": "-RRR",
+      "bbox": [
+        360,
+        571,
+        397,
+        591
+      ],
+      "confidence": 0.9986703395843506
+    },
+    {
+      "text": "R----",
+      "bbox": [
+        403,
+        572,
+        450,
+        591
+      ],
+      "confidence": 0.9690093994140625
+    },
+    {
+      "text": "SS-S",
+      "bbox": [
+        466,
+        571,
+        508,
+        594
+      ],
+      "confidence": 0.9845459461212158
+    },
+    {
+      "text": "SRRR",
+      "bbox": [
+        513,
+        570,
+        557,
+        595
+      ],
+      "confidence": 0.9996283650398254
+    },
+    {
+      "text": "S----",
+      "bbox": [
+        571,
+        572,
+        621,
+        595
+      ],
+      "confidence": 0.8776565790176392
+    },
+    {
+      "text": "S-S-",
+      "bbox": [
+        635,
+        573,
+        675,
+        596
+      ],
+      "confidence": 0.9870884418487549
+    },
+    {
+      "text": "-S-S-",
+      "bbox": [
+        682,
+        574,
+        729,
+        597
+      ],
+      "confidence": 0.9048786163330078
+    },
+    {
+      "text": "--S-",
+      "bbox": [
+        736,
+        575,
+        754,
+        599
+      ],
+      "confidence": 0.9853344559669495
+    },
+    {
+      "text": "Non-RITZ Markets **",
+      "bbox": [
+        34,
+        600,
+        190,
+        622
+      ],
+      "confidence": 0.9358320832252502
+    },
+    {
+      "text": "25",
+      "bbox": [
+        265,
+        598,
+        292,
+        622
+      ],
+      "confidence": 0.9999434351921082
+    },
+    {
+      "text": "--SM-",
+      "bbox": [
+        296,
+        600,
+        343,
+        621
+      ],
+      "confidence": 0.9210432767868042
+    },
+    {
+      "text": "-SM-",
+      "bbox": [
+        357,
+        601,
+        397,
+        622
+      ],
+      "confidence": 0.9968956708908081
+    },
+    {
+      "text": "--M--",
+      "bbox": [
+        404,
+        603,
+        450,
+        621
+      ],
+      "confidence": 0.972866415977478
+    },
+    {
+      "text": "SSM-",
+      "bbox": [
+        465,
+        603,
+        507,
+        624
+      ],
+      "confidence": 0.9983618259429932
+    },
+    {
+      "text": "S---",
+      "bbox": [
+        512,
+        603,
+        555,
+        624
+      ],
+      "confidence": 0.7183999419212341
+    },
+    {
+      "text": "S-S--",
+      "bbox": [
+        571,
+        604,
+        619,
+        626
+      ],
+      "confidence": 0.9912399053573608
+    },
+    {
+      "text": "SM--",
+      "bbox": [
+        634,
+        605,
+        674,
+        628
+      ],
+      "confidence": 0.9937154650688171
+    },
+    {
+      "text": "MS---",
+      "bbox": [
+        680,
+        607,
+        729,
+        628
+      ],
+      "confidence": 0.9149629473686218
+    },
+    {
+      "text": "SMS-",
+      "bbox": [
+        736,
+        608,
+        754,
+        630
+      ],
+      "confidence": 0.9982890486717224
+    },
+    {
+      "text": "** Exception - MORE will swicch schedule",
+      "bbox": [
+        34,
+        630,
+        349,
+        652
+      ],
+      "confidence": 0.9694782495498657
+    },
+    {
+      "text": "with SALEM in",
+      "bbox": [
+        346,
+        632,
+        457,
+        655
+      ],
+      "confidence": 0.9860327243804932
+    },
+    {
+      "text": "San Francisco",
+      "bbox": [
+        454,
+        634,
+        568,
+        657
+      ],
+      "confidence": 0.9725911617279053
+    },
+    {
+      "text": "only.",
+      "bbox": [
+        566,
+        635,
+        616,
+        661
+      ],
+      "confidence": 0.9948800802230835
+    },
+    {
+      "text": "FURT Form 7258 — Rev. 7786",
+      "bbox": [
+        14,
+        718,
+        141,
+        730
+      ],
+      "confidence": 0.8583876490592957
+    },
+    {
+      "text": ".50540 4690",
+      "bbox": [
+        190,
+        719,
+        295,
+        739
+      ],
+      "confidence": 0.9940813183784485
+    }
+  ],
+  "full_text": "1987\nRJR\nBLACK NEWSPAPER\nKEY\nM = MORER\nACTIVITY\nR = RITZ\nRuIReynalds Tobacco Company\nS = SALEM\nMedia Departrent\n— WEEK OF MONDAY —\nMNS.\nJAN.\nFEB.\nMAR.\nAPR.\nMAY\nJUNE\nJULY\nAUG.\nSEPT.\n9\n1523\n9\n4\n1\n8\n6\n3\nGROUP I - 40 Insertions\n40\n--SMS\nMRRR\nR-M--\nSSMS\nSRRR\nRITZ Markets *\nSMSM-\n-MSS\n-SM-S\nMMS-\n40\n--SMS\nMS--\n--M--\nSSMS\nNon-RITZ Markets\nSM--\nSMSM-\nSMSS\nMSMSS\nSMS-\nonly.\n* Exception - MORE will switch schedule\nSALEM\nin\nMiam\nGROUP II - 35 Insertions\nRITZ Markets\n35\n--SM-\nMRRR\nR-M--\nSSMS\nSRRR\nSM---\n-MS-\n-SM--\nMMS-\nNon-RITZ Markets\n35\n--SMS\nMS--\n--M--\nSSMS\nS---\nS-S--\nSMSS\n-SMSS\nSMS-\nGROUP II - 25 Insertions\nRITZ Markets/MORE\n25\n---M-\nMRRR\nR-M--\n--M-\n-RRR\n-M_--\n-M--\nMM--\nMM--\nRITZ Markets/SALEM\n25\n--S--\n-RRR\nR----\nSS-S\nSRRR\nS----\nS-S-\n-S-S-\n--S-\nNon-RITZ Markets **\n25\n--SM-\n-SM-\n--M--\nSSM-\nS---\nS-S--\nSM--\nMS---\nSMS-\n** Exception - MORE will swicch schedule\nwith SALEM in\nSan Francisco\nonly.\nFURT Form 7258 — Rev. 7786\n.50540 4690"
+}

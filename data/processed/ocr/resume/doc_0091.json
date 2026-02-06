@@ -1,0 +1,321 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0091.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PETER A. DANELO",
+      "bbox": [
+        94,
+        129,
+        232,
+        146
+      ],
+      "confidence": 0.9983473420143127
+    },
+    {
+      "text": "Shareholder, Seattle Office",
+      "bbox": [
+        92,
+        151,
+        269,
+        168
+      ],
+      "confidence": 0.9981846213340759
+    },
+    {
+      "text": "Phone: (206) 389-6008",
+      "bbox": [
+        91,
+        170,
+        243,
+        191
+      ],
+      "confidence": 0.9558674097061157
+    },
+    {
+      "text": "E-Mail: pdanelo@hewm.com",
+      "bbox": [
+        91,
+        195,
+        285,
+        212
+      ],
+      "confidence": 0.9958820343017578
+    },
+    {
+      "text": "Peter A. Danelo joined the firm in 1988 and has a general civil litigation practice.",
+      "bbox": [
+        86,
+        237,
+        624,
+        266
+      ],
+      "confidence": 0.9851846098899841
+    },
+    {
+      "text": "Experience: Mr. Danelo is an experienced trial attorney, emphasizing complex civil",
+      "bbox": [
+        85,
+        284,
+        641,
+        311
+      ],
+      "confidence": 0.9917817711830139
+    },
+    {
+      "text": "cases and appellate matters. He has been the lead attorney responsible for numerous",
+      "bbox": [
+        83,
+        305,
+        647,
+        332
+      ],
+      "confidence": 0.989224374294281
+    },
+    {
+      "text": "class actions, contract disputes, construction cases, product liability claims, fraud",
+      "bbox": [
+        82,
+        326,
+        618,
+        353
+      ],
+      "confidence": 0.9934169054031372
+    },
+    {
+      "text": "actions, environmental suits, and bankruptcy-related litigation. In his 24-year career, he",
+      "bbox": [
+        81,
+        346,
+        662,
+        375
+      ],
+      "confidence": 0.997367262840271
+    },
+    {
+      "text": "has spent approximately 3 1/2 years in trial, including several arbitrations and jury and",
+      "bbox": [
+        80,
+        368,
+        657,
+        396
+      ],
+      "confidence": 0.9819704294204712
+    },
+    {
+      "text": "non-jury trials in federal and state courts.",
+      "bbox": [
+        80,
+        390,
+        353,
+        410
+      ],
+      "confidence": 0.9948972463607788
+    },
+    {
+      "text": "Attached is a description of Mr. Danelo's most significant trials. All but two of the eight",
+      "bbox": [
+        78,
+        431,
+        657,
+        461
+      ],
+      "confidence": 0.9697697162628174
+    },
+    {
+      "text": "involved the direct and cross-examination by Mr. Danelo of significant technical,",
+      "bbox": [
+        77,
+        453,
+        608,
+        482
+      ],
+      "confidence": 0.9897221922874451
+    },
+    {
+      "text": "scientific, or engineering experts. Economic or accounting experts also testified in most",
+      "bbox": [
+        76,
+        475,
+        652,
+        503
+      ],
+      "confidence": 0.9921978116035461
+    },
+    {
+      "text": "of these trials. One of these suits (Asarco adv. Louisiana-Pacific, et al.) was a four-month",
+      "bbox": [
+        76,
+        495,
+        641,
+        523
+      ],
+      "confidence": 0.9817835688591003
+    },
+    {
+      "text": "jury trial of a products liability case. Mr. Danelo has other products liability experience,",
+      "bbox": [
+        76,
+        516,
+        653,
+        544
+      ],
+      "confidence": 0.9817079305648804
+    },
+    {
+      "text": "primarily for Cincinnati Milacron, a manufacturer of machine tools. He has represented",
+      "bbox": [
+        75,
+        537,
+        656,
+        565
+      ],
+      "confidence": 0.9846063852310181
+    },
+    {
+      "text": "it in three actions in the last several years, all of which were successfully disposed of",
+      "bbox": [
+        75,
+        557,
+        630,
+        586
+      ],
+      "confidence": 0.971759557723999
+    },
+    {
+      "text": "before trial.",
+      "bbox": [
+        76,
+        581,
+        156,
+        599
+      ],
+      "confidence": 0.9609963297843933
+    },
+    {
+      "text": "Mr. Danelo is a frequent speaker at legal seminars, addressing such topics as federal and",
+      "bbox": [
+        74,
+        626,
+        657,
+        651
+      ],
+      "confidence": 0.992978572845459
+    },
+    {
+      "text": "state RICO claims, the use of economic experts in commercial litigation, and seeking or",
+      "bbox": [
+        72,
+        645,
+        648,
+        673
+      ],
+      "confidence": 0.9779350757598877
+    },
+    {
+      "text": "opposing injunctive relief. He has chaired several legal seminars, including one at",
+      "bbox": [
+        72,
+        668,
+        620,
+        695
+      ],
+      "confidence": 0.9947545528411865
+    },
+    {
+      "text": "which most of Seattle's trial and appellate federal judges spoke. He served on the King",
+      "bbox": [
+        71,
+        688,
+        652,
+        716
+      ],
+      "confidence": 0.9771947860717773
+    },
+    {
+      "text": "County Bar Association's Judicial Screening Committee and the Federal Bar",
+      "bbox": [
+        71,
+        711,
+        576,
+        735
+      ],
+      "confidence": 0.9787846207618713
+    },
+    {
+      "text": "Association's Continuing Legal Education Committee, and has been a faculty member",
+      "bbox": [
+        71,
+        732,
+        647,
+        758
+      ],
+      "confidence": 0.9862377047538757
+    },
+    {
+      "text": "of the National Institute for Trial Advocacy.",
+      "bbox": [
+        73,
+        756,
+        362,
+        773
+      ],
+      "confidence": 0.9812294244766235
+    },
+    {
+      "text": "Education: Harvard College (B.A., niagna cum laude, 1972); Harvard Law School (J.D.,",
+      "bbox": [
+        69,
+        797,
+        648,
+        828
+      ],
+      "confidence": 0.9780698418617249
+    },
+    {
+      "text": "1975); Comments Editor, Harvard Civil Rights/Civil Liberties Law Review.",
+      "bbox": [
+        70,
+        823,
+        547,
+        846
+      ],
+      "confidence": 0.9879065752029419
+    },
+    {
+      "text": "2073428633",
+      "bbox": [
+        711,
+        821,
+        737,
+        938
+      ],
+      "confidence": 0.9999822378158569
+    },
+    {
+      "text": "Memberships: King County, Washington State, California, and American Bar",
+      "bbox": [
+        70,
+        867,
+        606,
+        896
+      ],
+      "confidence": 0.9841946363449097
+    },
+    {
+      "text": "Associations.",
+      "bbox": [
+        73,
+        894,
+        164,
+        911
+      ],
+      "confidence": 0.964813232421875
+    }
+  ],
+  "full_text": "PETER A. DANELO\nShareholder, Seattle Office\nPhone: (206) 389-6008\nE-Mail: pdanelo@hewm.com\nPeter A. Danelo joined the firm in 1988 and has a general civil litigation practice.\nExperience: Mr. Danelo is an experienced trial attorney, emphasizing complex civil\ncases and appellate matters. He has been the lead attorney responsible for numerous\nclass actions, contract disputes, construction cases, product liability claims, fraud\nactions, environmental suits, and bankruptcy-related litigation. In his 24-year career, he\nhas spent approximately 3 1/2 years in trial, including several arbitrations and jury and\nnon-jury trials in federal and state courts.\nAttached is a description of Mr. Danelo's most significant trials. All but two of the eight\ninvolved the direct and cross-examination by Mr. Danelo of significant technical,\nscientific, or engineering experts. Economic or accounting experts also testified in most\nof these trials. One of these suits (Asarco adv. Louisiana-Pacific, et al.) was a four-month\njury trial of a products liability case. Mr. Danelo has other products liability experience,\nprimarily for Cincinnati Milacron, a manufacturer of machine tools. He has represented\nit in three actions in the last several years, all of which were successfully disposed of\nbefore trial.\nMr. Danelo is a frequent speaker at legal seminars, addressing such topics as federal and\nstate RICO claims, the use of economic experts in commercial litigation, and seeking or\nopposing injunctive relief. He has chaired several legal seminars, including one at\nwhich most of Seattle's trial and appellate federal judges spoke. He served on the King\nCounty Bar Association's Judicial Screening Committee and the Federal Bar\nAssociation's Continuing Legal Education Committee, and has been a faculty member\nof the National Institute for Trial Advocacy.\nEducation: Harvard College (B.A., niagna cum laude, 1972); Harvard Law School (J.D.,\n1975); Comments Editor, Harvard Civil Rights/Civil Liberties Law Review.\n2073428633\nMemberships: King County, Washington State, California, and American Bar\nAssociations."
+}

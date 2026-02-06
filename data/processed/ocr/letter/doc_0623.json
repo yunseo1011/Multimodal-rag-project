@@ -1,0 +1,231 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0623.png",
+    "image_width": 778,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "June 12, 1970",
+      "bbox": [
+        607,
+        153,
+        725,
+        177
+      ],
+      "confidence": 0.9980566501617432
+    },
+    {
+      "text": "Mise Janet C. Brown",
+      "bbox": [
+        73,
+        284,
+        248,
+        302
+      ],
+      "confidence": 0.9736096262931824
+    },
+    {
+      "text": "Chadbourne, Parke,",
+      "bbox": [
+        75,
+        301,
+        240,
+        319
+      ],
+      "confidence": 0.9920903444290161
+    },
+    {
+      "text": "Whiteside & Wolff",
+      "bbox": [
+        91,
+        316,
+        248,
+        337
+      ],
+      "confidence": 0.9956845641136169
+    },
+    {
+      "text": "25 Broadway",
+      "bbox": [
+        74,
+        334,
+        177,
+        354
+      ],
+      "confidence": 0.9731690883636475
+    },
+    {
+      "text": "New York, New York 10oo4",
+      "bbox": [
+        73,
+        347,
+        302,
+        373
+      ],
+      "confidence": 0.9195207953453064
+    },
+    {
+      "text": "Dear Janet:",
+      "bbox": [
+        75,
+        385,
+        176,
+        404
+      ],
+      "confidence": 0.9570801258087158
+    },
+    {
+      "text": "Please find enclosed a copy of my notes covering Oscer Auerbach's",
+      "bbox": [
+        74,
+        407,
+        659,
+        440
+      ],
+      "confidence": 0.9846116304397583
+    },
+    {
+      "text": "lecture at the Medicel College of Virginie on June 4, 1970, which",
+      "bbox": [
+        75,
+        424,
+        661,
+        456
+      ],
+      "confidence": 0.9647790193557739
+    },
+    {
+      "text": "was discussed with you. We are also enclosing a Xerox of the",
+      "bbox": [
+        74,
+        442,
+        625,
+        473
+      ],
+      "confidence": 0.935916006565094
+    },
+    {
+      "text": "local newepaper coverage which appeared in the morning edition",
+      "bbox": [
+        76,
+        460,
+        634,
+        490
+      ],
+      "confidence": 0.9905937910079956
+    },
+    {
+      "text": "before Auerbach'• lecture.",
+      "bbox": [
+        77,
+        484,
+        312,
+        504
+      ],
+      "confidence": 0.9812860488891602
+    },
+    {
+      "text": "Also enclosed ie a Xerox copy of an article on bronchogenic car-",
+      "bbox": [
+        76,
+        510,
+        654,
+        540
+      ],
+      "confidence": 0.9733929634094238
+    },
+    {
+      "text": "cinoma from the March iseue of the Johne Hopkins Medical Journal.",
+      "bbox": [
+        76,
+        527,
+        661,
+        558
+      ],
+      "confidence": 0.9556366205215454
+    },
+    {
+      "text": "You may not have seen the article in the FAA Aviation News, May",
+      "bbox": [
+        76,
+        544,
+        646,
+        575
+      ],
+      "confidence": 0.9651027917861938
+    },
+    {
+      "text": "197o, on regulations regarding smoking aboard aircraft (copy",
+      "bbox": [
+        78,
+        563,
+        619,
+        591
+      ],
+      "confidence": 0.9778852462768555
+    },
+    {
+      "text": "attached):",
+      "bbox": [
+        79,
+        587,
+        171,
+        606
+      ],
+      "confidence": 0.961065411567688
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        364,
+        616,
+        460,
+        637
+      ],
+      "confidence": 0.9882481694221497
+    },
+    {
+      "text": "Arthur W. Burke, Jr.",
+      "bbox": [
+        366,
+        682,
+        550,
+        705
+      ],
+      "confidence": 0.9951384663581848
+    },
+    {
+      "text": "ACS",
+      "bbox": [
+        86,
+        722,
+        120,
+        741
+      ],
+      "confidence": 0.9890737533569336
+    },
+    {
+      "text": "co: Mr. E. S. Harlow",
+      "bbox": [
+        75,
+        749,
+        278,
+        777
+      ],
+      "confidence": 0.9362932443618774
+    },
+    {
+      "text": "Enclosures 4",
+      "bbox": [
+        90,
+        785,
+        200,
+        808
+      ],
+      "confidence": 0.9554102420806885
+    }
+  ],
+  "full_text": "June 12, 1970\nMise Janet C. Brown\nChadbourne, Parke,\nWhiteside & Wolff\n25 Broadway\nNew York, New York 10oo4\nDear Janet:\nPlease find enclosed a copy of my notes covering Oscer Auerbach's\nlecture at the Medicel College of Virginie on June 4, 1970, which\nwas discussed with you. We are also enclosing a Xerox of the\nlocal newepaper coverage which appeared in the morning edition\nbefore Auerbach'• lecture.\nAlso enclosed ie a Xerox copy of an article on bronchogenic car-\ncinoma from the March iseue of the Johne Hopkins Medical Journal.\nYou may not have seen the article in the FAA Aviation News, May\n197o, on regulations regarding smoking aboard aircraft (copy\nattached):\nSincerely,\nArthur W. Burke, Jr.\nACS\nco: Mr. E. S. Harlow\nEnclosures 4"
+}

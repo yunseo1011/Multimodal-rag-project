@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0654.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "youe Customer mr Burhett",
+      "bbox": [
+        237,
+        206,
+        711,
+        282
+      ],
+      "confidence": 0.8421279788017273
+    },
+    {
+      "text": "I Sent you Some Seals",
+      "bbox": [
+        342,
+        321,
+        732,
+        356
+      ],
+      "confidence": 0.9048460125923157
+    },
+    {
+      "text": "and yall was Suppose To Send",
+      "bbox": [
+        222,
+        355,
+        698,
+        388
+      ],
+      "confidence": 0.9036617875099182
+    },
+    {
+      "text": "Me A CatalogBut I Never Recived",
+      "bbox": [
+        220,
+        385,
+        751,
+        421
+      ],
+      "confidence": 0.8616325259208679
+    },
+    {
+      "text": "it, I bake A Bunch of Seals",
+      "bbox": [
+        218,
+        416,
+        690,
+        452
+      ],
+      "confidence": 0.8762646317481995
+    },
+    {
+      "text": "and I would Like To order Some",
+      "bbox": [
+        216,
+        446,
+        725,
+        483
+      ],
+      "confidence": 0.928579568862915
+    },
+    {
+      "text": "of your Stuff  I would Realk",
+      "bbox": [
+        218,
+        477,
+        698,
+        516
+      ],
+      "confidence": 0.9067152142524719
+    },
+    {
+      "text": "Like To oRder Dne of your t",
+      "bbox": [
+        219,
+        508,
+        741,
+        545
+      ],
+      "confidence": 0.8363415598869324
+    },
+    {
+      "text": "Lighters, I inJoy get stuff in",
+      "bbox": [
+        220,
+        539,
+        720,
+        578
+      ],
+      "confidence": 0.9353550672531128
+    },
+    {
+      "text": "The Mail Froin  The DoRAl Co.",
+      "bbox": [
+        221,
+        571,
+        745,
+        609
+      ],
+      "confidence": 0.8661671280860901
+    },
+    {
+      "text": "When I Smoke A DoRAl itis",
+      "bbox": [
+        255,
+        604,
+        725,
+        638
+      ],
+      "confidence": 0.8870473504066467
+    },
+    {
+      "text": "Ahot Better Than my Second Choise.",
+      "bbox": [
+        229,
+        634,
+        750,
+        668
+      ],
+      "confidence": 0.9330350756645203
+    },
+    {
+      "text": "Please wright Me Back or Send",
+      "bbox": [
+        255,
+        664,
+        726,
+        700
+      ],
+      "confidence": 0.9258991479873657
+    },
+    {
+      "text": "Me Some of your good Deal's",
+      "bbox": [
+        222,
+        693,
+        683,
+        736
+      ],
+      "confidence": 0.8892146348953247
+    },
+    {
+      "text": "51761 5130",
+      "bbox": [
+        696,
+        814,
+        720,
+        915
+      ],
+      "confidence": 0.9827972650527954
+    }
+  ],
+  "full_text": "youe Customer mr Burhett\nI Sent you Some Seals\nand yall was Suppose To Send\nMe A CatalogBut I Never Recived\nit, I bake A Bunch of Seals\nand I would Like To order Some\nof your Stuff  I would Realk\nLike To oRder Dne of your t\nLighters, I inJoy get stuff in\nThe Mail Froin  The DoRAl Co.\nWhen I Smoke A DoRAl itis\nAhot Better Than my Second Choise.\nPlease wright Me Back or Send\nMe Some of your good Deal's\n51761 5130"
+}

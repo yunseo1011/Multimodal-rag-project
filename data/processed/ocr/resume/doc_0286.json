@@ -1,0 +1,611 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0286.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        289,
+        62,
+        420,
+        80
+      ],
+      "confidence": 0.9744261503219604
+    },
+    {
+      "text": "VICTOR SHENGKUEN FANG",
+      "bbox": [
+        281,
+        97,
+        450,
+        111
+      ],
+      "confidence": 0.9854453802108765
+    },
+    {
+      "text": "October 10, 1929, Chi-Kiang (Zhejiang), China",
+      "bbox": [
+        184,
+        141,
+        549,
+        165
+      ],
+      "confidence": 0.9889308214187622
+    },
+    {
+      "text": "Born:",
+      "bbox": [
+        36,
+        145,
+        85,
+        167
+      ],
+      "confidence": 0.9985584020614624
+    },
+    {
+      "text": "Citizenship:",
+      "bbox": [
+        36,
+        177,
+        139,
+        202
+      ],
+      "confidence": 0.9792665839195251
+    },
+    {
+      "text": "U.S.",
+      "bbox": [
+        182,
+        179,
+        219,
+        199
+      ],
+      "confidence": 0.986880362033844
+    },
+    {
+      "text": "Marital Status:",
+      "bbox": [
+        37,
+        211,
+        162,
+        230
+      ],
+      "confidence": 0.988101065158844
+    },
+    {
+      "text": "Married",
+      "bbox": [
+        179,
+        209,
+        244,
+        230
+      ],
+      "confidence": 0.9997228980064392
+    },
+    {
+      "text": "No. of Children:",
+      "bbox": [
+        37,
+        242,
+        170,
+        261
+      ],
+      "confidence": 0.9975306987762451
+    },
+    {
+      "text": "2",
+      "bbox": [
+        181,
+        245,
+        195,
+        260
+      ],
+      "confidence": 0.9999258518218994
+    },
+    {
+      "text": "Home Address:",
+      "bbox": [
+        35,
+        272,
+        146,
+        293
+      ],
+      "confidence": 0.9988424777984619
+    },
+    {
+      "text": "118 Surrey Lane, Burr Ridge, IL 60521",
+      "bbox": [
+        181,
+        269,
+        489,
+        292
+      ],
+      "confidence": 0.9986684918403625
+    },
+    {
+      "text": "Telephone:",
+      "bbox": [
+        76,
+        289,
+        161,
+        310
+      ],
+      "confidence": 0.9994041323661804
+    },
+    {
+      "text": "(312) 789-8524",
+      "bbox": [
+        182,
+        288,
+        296,
+        309
+      ],
+      "confidence": 0.951689600944519
+    },
+    {
+      "text": "Business Address:",
+      "bbox": [
+        35,
+        321,
+        180,
+        339
+      ],
+      "confidence": 0.9994364380836487
+    },
+    {
+      "text": ": 5841 S. Maryland Avenue, Box 85, Chicago, IL 60637",
+      "bbox": [
+        172,
+        319,
+        596,
+        339
+      ],
+      "confidence": 0.9910478591918945
+    },
+    {
+      "text": "(312) 962-1055",
+      "bbox": [
+        182,
+        336,
+        296,
+        356
+      ],
+      "confidence": 0.9938493371009827
+    },
+    {
+      "text": "Telephone:",
+      "bbox": [
+        75,
+        338,
+        160,
+        358
+      ],
+      "confidence": 0.9998661279678345
+    },
+    {
+      "text": "Educational Background:",
+      "bbox": [
+        34,
+        370,
+        223,
+        390
+      ],
+      "confidence": 0.9979261159896851
+    },
+    {
+      "text": "1946-47",
+      "bbox": [
+        76,
+        404,
+        136,
+        421
+      ],
+      "confidence": 0.9997649192810059
+    },
+    {
+      "text": "National Chekiang University",
+      "bbox": [
+        178,
+        400,
+        408,
+        421
+      ],
+      "confidence": 0.9998003244400024
+    },
+    {
+      "text": "1947-51",
+      "bbox": [
+        76,
+        422,
+        135,
+        436
+      ],
+      "confidence": 0.9998443722724915
+    },
+    {
+      "text": "B.S. National Defense Medical Center, Taiwan",
+      "bbox": [
+        180,
+        419,
+        538,
+        436
+      ],
+      "confidence": 0.9966390132904053
+    },
+    {
+      "text": "1963-64",
+      "bbox": [
+        75,
+        438,
+        135,
+        456
+      ],
+      "confidence": 0.9969794154167175
+    },
+    {
+      "text": "M.S. (Pharmaceutical Chemistry and Pharmacology)",
+      "bbox": [
+        178,
+        433,
+        568,
+        455
+      ],
+      "confidence": 0.9899649620056152
+    },
+    {
+      "text": "Massachusetts College of Pharmacy",
+      "bbox": [
+        177,
+        450,
+        450,
+        471
+      ],
+      "confidence": 0.9994432926177979
+    },
+    {
+      "text": "1964-67",
+      "bbox": [
+        74,
+        470,
+        135,
+        487
+      ],
+      "confidence": 0.9999668002128601
+    },
+    {
+      "text": "Ph.D. (Pharmacology)",
+      "bbox": [
+        178,
+        467,
+        341,
+        486
+      ],
+      "confidence": 0.9816934466362
+    },
+    {
+      "text": "Massachusetts College of Pharmacy",
+      "bbox": [
+        177,
+        482,
+        450,
+        504
+      ],
+      "confidence": 0.9993544816970825
+    },
+    {
+      "text": "Work Experience:",
+      "bbox": [
+        28,
+        515,
+        165,
+        538
+      ],
+      "confidence": 0.9933751821517944
+    },
+    {
+      "text": "1954-56",
+      "bbox": [
+        73,
+        550,
+        133,
+        568
+      ],
+      "confidence": 0.9999316930770874
+    },
+    {
+      "text": "Instructor, National Taiwan University",
+      "bbox": [
+        178,
+        550,
+        491,
+        568
+      ],
+      "confidence": 0.9915403127670288
+    },
+    {
+      "text": "Medical School, Taiwan",
+      "bbox": [
+        178,
+        567,
+        359,
+        581
+      ],
+      "confidence": 0.999204695224762
+    },
+    {
+      "text": "1956-62",
+      "bbox": [
+        70,
+        581,
+        132,
+        600
+      ],
+      "confidence": 0.999791145324707
+    },
+    {
+      "text": "Manager, Product Development, Sine Laboratories, Taiwan",
+      "bbox": [
+        174,
+        580,
+        628,
+        601
+      ],
+      "confidence": 0.9831730127334595
+    },
+    {
+      "text": "1963-67",
+      "bbox": [
+        69,
+        597,
+        132,
+        616
+      ],
+      "confidence": 0.9995647072792053
+    },
+    {
+      "text": "Medical Research Associate (Part-time)",
+      "bbox": [
+        175,
+        595,
+        489,
+        616
+      ],
+      "confidence": 0.9904875755310059
+    },
+    {
+      "text": "Peter Bent Brigham Hospital, Thyroid Laboratory,",
+      "bbox": [
+        175,
+        612,
+        569,
+        633
+      ],
+      "confidence": 0.9986863136291504
+    },
+    {
+      "text": "Boston, MA",
+      "bbox": [
+        177,
+        631,
+        261,
+        645
+      ],
+      "confidence": 0.9986521601676941
+    },
+    {
+      "text": "1967-70",
+      "bbox": [
+        68,
+        645,
+        131,
+        666
+      ],
+      "confidence": 0.9998860955238342
+    },
+    {
+      "text": "USPHS Post-doctoral Research Fellow in Pharmacology,",
+      "bbox": [
+        174,
+        644,
+        600,
+        664
+      ],
+      "confidence": 0.9903589487075806
+    },
+    {
+      "text": "Harvard Medical School.",
+      "bbox": [
+        176,
+        663,
+        364,
+        677
+      ],
+      "confidence": 0.9825133681297302
+    },
+    {
+      "text": "1970-71",
+      "bbox": [
+        70,
+        678,
+        129,
+        696
+      ],
+      "confidence": 0.9999333024024963
+    },
+    {
+      "text": "Associate in Anatomy, Harvard Medical School",
+      "bbox": [
+        176,
+        680,
+        536,
+        695
+      ],
+      "confidence": 0.9926595687866211
+    },
+    {
+      "text": "1971-77",
+      "bbox": [
+        69,
+        696,
+        130,
+        713
+      ],
+      "confidence": 0.9999399185180664
+    },
+    {
+      "text": "Assistant Professor of Medicine,",
+      "bbox": [
+        174,
+        695,
+        439,
+        713
+      ],
+      "confidence": 0.9959039688110352
+    },
+    {
+      "text": "Associate Professor of Medicine,",
+      "bbox": [
+        174,
+        727,
+        437,
+        745
+      ],
+      "confidence": 0.9984794855117798
+    },
+    {
+      "text": "University of Chicago",
+      "bbox": [
+        176,
+        714,
+        349,
+        728
+      ],
+      "confidence": 0.9994425177574158
+    },
+    {
+      "text": "1977-",
+      "bbox": [
+        69,
+        729,
+        112,
+        744
+      ],
+      "confidence": 0.9999121427536011
+    },
+    {
+      "text": "University of Chicago",
+      "bbox": [
+        174,
+        744,
+        349,
+        762
+      ],
+      "confidence": 0.9883698225021362
+    },
+    {
+      "text": "1978-",
+      "bbox": [
+        67,
+        760,
+        113,
+        778
+      ],
+      "confidence": 0.9999228715896606
+    },
+    {
+      "text": "Associate Professor of Psychiatry,",
+      "bbox": [
+        172,
+        758,
+        454,
+        780
+      ],
+      "confidence": 0.9905995726585388
+    },
+    {
+      "text": "University of Chicago",
+      "bbox": [
+        174,
+        777,
+        348,
+        796
+      ],
+      "confidence": 0.975287139415741
+    },
+    {
+      "text": "Honors:",
+      "bbox": [
+        21,
+        808,
+        86,
+        829
+      ],
+      "confidence": 0.9995027184486389
+    },
+    {
+      "text": "1980-",
+      "bbox": [
+        63,
+        842,
+        110,
+        864
+      ],
+      "confidence": 0.999550461769104
+    },
+    {
+      "text": "Adjunct Professor of Medicine, Shanghai Second Medical",
+      "bbox": [
+        171,
+        839,
+        616,
+        864
+      ],
+      "confidence": 0.9900979399681091
+    },
+    {
+      "text": "School, Shanghai, People's Republic of China.",
+      "bbox": [
+        171,
+        855,
+        542,
+        881
+      ],
+      "confidence": 0.9906288385391235
+    },
+    {
+      "text": "1980-",
+      "bbox": [
+        61,
+        877,
+        109,
+        899
+      ],
+      "confidence": 0.9997143745422363
+    },
+    {
+      "text": "Adviser of Endocrinology, Shanghai Endocrine Research",
+      "bbox": [
+        171,
+        871,
+        608,
+        897
+      ],
+      "confidence": 0.996319591999054
+    },
+    {
+      "text": "Institute, Shanghai, People's Republic of China.",
+      "bbox": [
+        172,
+        888,
+        564,
+        913
+      ],
+      "confidence": 0.9968712329864502
+    }
+  ],
+  "full_text": "CURRICULUM VITAE\nVICTOR SHENGKUEN FANG\nOctober 10, 1929, Chi-Kiang (Zhejiang), China\nBorn:\nCitizenship:\nU.S.\nMarital Status:\nMarried\nNo. of Children:\n2\nHome Address:\n118 Surrey Lane, Burr Ridge, IL 60521\nTelephone:\n(312) 789-8524\nBusiness Address:\n: 5841 S. Maryland Avenue, Box 85, Chicago, IL 60637\n(312) 962-1055\nTelephone:\nEducational Background:\n1946-47\nNational Chekiang University\n1947-51\nB.S. National Defense Medical Center, Taiwan\n1963-64\nM.S. (Pharmaceutical Chemistry and Pharmacology)\nMassachusetts College of Pharmacy\n1964-67\nPh.D. (Pharmacology)\nMassachusetts College of Pharmacy\nWork Experience:\n1954-56\nInstructor, National Taiwan University\nMedical School, Taiwan\n1956-62\nManager, Product Development, Sine Laboratories, Taiwan\n1963-67\nMedical Research Associate (Part-time)\nPeter Bent Brigham Hospital, Thyroid Laboratory,\nBoston, MA\n1967-70\nUSPHS Post-doctoral Research Fellow in Pharmacology,\nHarvard Medical School.\n1970-71\nAssociate in Anatomy, Harvard Medical School\n1971-77\nAssistant Professor of Medicine,\nAssociate Professor of Medicine,\nUniversity of Chicago\n1977-\nUniversity of Chicago\n1978-\nAssociate Professor of Psychiatry,\nUniversity of Chicago\nHonors:\n1980-\nAdjunct Professor of Medicine, Shanghai Second Medical\nSchool, Shanghai, People's Republic of China.\n1980-\nAdviser of Endocrinology, Shanghai Endocrine Research\nInstitute, Shanghai, People's Republic of China."
+}

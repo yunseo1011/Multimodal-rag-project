@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0709.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "U.S.A.",
+      "bbox": [
+        444,
+        104,
+        568,
+        150
+      ],
+      "confidence": 0.9999381899833679
+    },
+    {
+      "text": "2041485076",
+      "bbox": [
+        79,
+        705,
+        190,
+        728
+      ],
+      "confidence": 0.9990574717521667
+    }
+  ],
+  "full_text": "U.S.A.\n2041485076"
+}

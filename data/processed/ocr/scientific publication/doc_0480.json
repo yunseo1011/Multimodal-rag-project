@@ -1,0 +1,1171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0480.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": ".",
+      "bbox": [
+        377,
+        6,
+        387,
+        15
+      ],
+      "confidence": 0.6714751124382019
+    },
+    {
+      "text": "FILE COPY",
+      "bbox": [
+        334,
+        20,
+        494,
+        70
+      ],
+      "confidence": 0.998938798904419
+    },
+    {
+      "text": "377",
+      "bbox": [
+        586,
+        12,
+        692,
+        66
+      ],
+      "confidence": 0.9854127764701843
+    },
+    {
+      "text": "Human Platelet-Derived Mitogens. I. Identification of Insulinlike Growth",
+      "bbox": [
+        79,
+        71,
+        657,
+        93
+      ],
+      "confidence": 0.9804028272628784
+    },
+    {
+      "text": "Factors I nnd Il by Purification and N Amino Acid Sequence Analysis",
+      "bbox": [
+        94,
+        88,
+        639,
+        106
+      ],
+      "confidence": 0.9446219205856323
+    },
+    {
+      "text": "By Kenneth P. Kerey, Hans Marquardt, and David A. Sirbasku",
+      "bbox": [
+        205,
+        112,
+        530,
+        131
+      ],
+      "confidence": 0.9644656181335449
+    },
+    {
+      "text": "Human piateter tysates conteined potent mitogenic sotivi-",
+      "bbox": [
+        50,
+        141,
+        357,
+        154
+      ],
+      "confidence": 0.9483797550201416
+    },
+    {
+      "text": "wt 7,4o0 products that wers homogtneous as determined",
+      "bbox": [
+        379,
+        137,
+        689,
+        153
+      ],
+      "confidence": 0.9759331941604614
+    },
+    {
+      "text": "ties for McF-7 human breast-cancer celle in serum-free-",
+      "bbox": [
+        49,
+        151,
+        357,
+        166
+      ],
+      "confidence": 0.959309995174408
+    },
+    {
+      "text": "by lodination, sodium dodecyl sutfete-polyecrylamide gst",
+      "bbox": [
+        378,
+        148,
+        690,
+        166
+      ],
+      "confidence": 0.9389411211013794
+    },
+    {
+      "text": "defined medie. Becauee these activities were not replnced",
+      "bbox": [
+        50,
+        164,
+        358,
+        177
+      ],
+      "confidence": 0.9556421637535095
+    },
+    {
+      "text": "electrophoresis (SDS-PAGE). end sutoredlogrephy. The",
+      "bbox": [
+        378,
+        159,
+        690,
+        177
+      ],
+      "confidence": 0.8777570128440857
+    },
+    {
+      "text": "fectore were identified as Insutinlike growth feotor I (IGF-3)",
+      "bbox": [
+        379,
+        171,
+        688,
+        188
+      ],
+      "confidence": 0.9319981336593628
+    },
+    {
+      "text": "by known platelet mitogens, such as plsteiet-derived",
+      "bbox": [
+        49,
+        174,
+        358,
+        190
+      ],
+      "confidence": 0.9376925826072693
+    },
+    {
+      "text": "growth fector or transforming growth feotor df. we sought",
+      "bbox": [
+        49,
+        185,
+        357,
+        201
+      ],
+      "confidence": 0.9708953499794006
+    },
+    {
+      "text": "and B (IGF-I) end truncated IGF-I by N\" emino acid miorose-",
+      "bbox": [
+        378,
+        181,
+        688,
+        201
+      ],
+      "confidence": 0.8143700957298279
+    },
+    {
+      "text": "to identity the breast cancer cetl mitogens by purificetion",
+      "bbox": [
+        49,
+        199,
+        357,
+        212
+      ],
+      "confidence": 0.9773795008659363
+    },
+    {
+      "text": "quencing. In dose-response enperiments. pletetet-derived",
+      "bbox": [
+        378,
+        194,
+        689,
+        213
+      ],
+      "confidence": 0.9554117918014526
+    },
+    {
+      "text": "and N\" amino-acid eequenaing. Acetie ecid extrects of",
+      "bbox": [
+        48,
+        208,
+        357,
+        223
+      ],
+      "confidence": 0.9429389238357544
+    },
+    {
+      "text": "IGF-I and IGF-8 promoted miultiple divielone of the MCF-7",
+      "bbox": [
+        378,
+        206,
+        687,
+        222
+      ],
+      "confidence": 0.9123934507369995
+    },
+    {
+      "text": "nlum sulfete precipitetion end fractionated on Sepheder",
+      "bbox": [
+        48,
+        231,
+        356,
+        246
+      ],
+      "confidence": 0.9495732188224792
+    },
+    {
+      "text": "outdated humen platelets were concentrated by ammo-",
+      "bbox": [
+        49,
+        221,
+        356,
+        235
+      ],
+      "confidence": 0.9616755247116089
+    },
+    {
+      "text": "cells wish ED_ velues of 12 and 100 pg/mL, respectively.",
+      "bbox": [
+        378,
+        218,
+        687,
+        234
+      ],
+      "confidence": 0.9340581297874451
+    },
+    {
+      "text": "The specific ectiuhies und ather bloassay charecterietics of",
+      "bbox": [
+        378,
+        229,
+        687,
+        245
+      ],
+      "confidence": 0.9308433532714844
+    },
+    {
+      "text": "G-50 und Blo-Gel P-10 columns In 0.5 mol/L scetic acid.",
+      "bbox": [
+        48,
+        242,
+        356,
+        257
+      ],
+      "confidence": 0.94230055809021
+    },
+    {
+      "text": "platelet-derived IGF-1 end IGF- were simitar to thoss of",
+      "bbox": [
+        377,
+        239,
+        688,
+        258
+      ],
+      "confidence": 0.8962475657463074
+    },
+    {
+      "text": "Two major ectivities were resolved by moteculer sleve",
+      "bbox": [
+        49,
+        253,
+        357,
+        268
+      ],
+      "confidence": 0.9597987532615662
+    },
+    {
+      "text": "recombinant-produced bumen growth fectors. Thls is the",
+      "bbox": [
+        377,
+        251,
+        686,
+        268
+      ],
+      "confidence": 0.9641073942184448
+    },
+    {
+      "text": "performance liquid chromatography (HPLC). Purificetions",
+      "bbox": [
+        49,
+        275,
+        357,
+        292
+      ],
+      "confidence": 0.9515497088432312
+    },
+    {
+      "text": "methods and frectioneted further by reverse-phase high-",
+      "bbox": [
+        50,
+        265,
+        356,
+        279
+      ],
+      "confidence": 0.9706652760505676
+    },
+    {
+      "text": "firet report of the purification of insulinlke growth fectars",
+      "bbox": [
+        377,
+        263,
+        686,
+        279
+      ],
+      "confidence": 0.9617041349411011
+    },
+    {
+      "text": "from humen platelet lysates.",
+      "bbox": [
+        377,
+        275,
+        527,
+        290
+      ],
+      "confidence": 0.9372605085372925
+    },
+    {
+      "text": "(70,000 to 870,000-fold) were sccomplished yielding mal",
+      "bbox": [
+        49,
+        287,
+        357,
+        302
+      ],
+      "confidence": 0.9675718545913696
+    },
+    {
+      "text": " 1989 by Grune & Straiten, tno.",
+      "bbox": [
+        378,
+        285,
+        547,
+        303
+      ],
+      "confidence": 0.915149986743927
+    },
+    {
+      "text": "REViOUSl. Y this laburatory demonstrated that lysates",
+      "bbox": [
+        71,
+        312,
+        356,
+        331
+      ],
+      "confidence": 0.9605958461761475
+    },
+    {
+      "text": "growth factor & (TGF).This dimeric mol w 25.000 factar",
+      "bbox": [
+        376,
+        321,
+        685,
+        344
+      ],
+      "confidence": 0.8555595278739929
+    },
+    {
+      "text": "Platcicts are also an importent source of transforming",
+      "bbox": [
+        390,
+        312,
+        684,
+        329
+      ],
+      "confidence": 0.9713740348815918
+    },
+    {
+      "text": "of outdated human platcicts containcd growih-factor",
+      "bbox": [
+        78,
+        328,
+        355,
+        342
+      ],
+      "confidence": 0.9731944799423218
+    },
+    {
+      "text": "has been identified in both TGF1\" and TGFβ2 forns and",
+      "bbox": [
+        376,
+        335,
+        684,
+        354
+      ],
+      "confidence": 0.9412028193473816
+    },
+    {
+      "text": "activities for rat' and human' breast-cancer cells in culture.",
+      "bbox": [
+        48,
+        338,
+        355,
+        356
+      ],
+      "confidence": 0.9695165157318115
+    },
+    {
+      "text": "Microgram/milliliter concentrations of neutral pH extracts",
+      "bbox": [
+        50,
+        350,
+        355,
+        369
+      ],
+      "confidence": 0.9827556610107422
+    },
+    {
+      "text": "has been shown to influence mesenchymal cell growth posi-",
+      "bbox": [
+        376,
+        348,
+        683,
+        367
+      ],
+      "confidence": 0.9733482003211975
+    },
+    {
+      "text": "promoted continuous division of MTW9/PL. rat and MCF-7",
+      "bbox": [
+        49,
+        363,
+        354,
+        381
+      ],
+      "confidence": 0.9738494157791138
+    },
+    {
+      "text": "tively and epithelial cells negatively.\" Other studies con-",
+      "bbox": [
+        376,
+        360,
+        683,
+        380
+      ],
+      "confidence": 0.9761185646057129
+    },
+    {
+      "text": "buman cells under serum-free conditions. Lysates were",
+      "bbox": [
+        50,
+        378,
+        355,
+        392
+      ],
+      "confidence": 0.9712254405021667
+    },
+    {
+      "text": "firmed that epidermal growth factor (EGF)/urogastrone\"",
+      "bbox": [
+        375,
+        373,
+        683,
+        392
+      ],
+      "confidence": 0.9759673476219177
+    },
+    {
+      "text": "shown also to be mitogenic for a wide variety of cstablishcd",
+      "bbox": [
+        50,
+        391,
+        354,
+        405
+      ],
+      "confidence": 0.9784426093101501
+    },
+    {
+      "text": "was present in the platelet structure. as was a mol wl 45.000",
+      "bbox": [
+        374,
+        385,
+        683,
+        405
+      ],
+      "confidence": 0.9586988091468811
+    },
+    {
+      "text": "endothelial-cell growth factor.",
+      "bbox": [
+        374,
+        397,
+        539,
+        419
+      ],
+      "confidence": 0.8690470457077026
+    },
+    {
+      "text": "epithelial and mesenchymal origin cell lines as well as",
+      "bbox": [
+        50,
+        402,
+        354,
+        417
+      ],
+      "confidence": 0.9753880500793457
+    },
+    {
+      "text": "To determine which mitogens in platelets promoted",
+      "bbox": [
+        388,
+        412,
+        680,
+        427
+      ],
+      "confidence": 0.9851247668266296
+    },
+    {
+      "text": "containing growth factors for short-term culturcs of humnan",
+      "bbox": [
+        49,
+        414,
+        354,
+        430
+      ],
+      "confidence": 0.9806981682777405
+    },
+    {
+      "text": "diploid fibroblasts. Because of the diversity of cell sypes",
+      "bbox": [
+        50,
+        427,
+        353,
+        442
+      ],
+      "confidence": 0.9736725687980652
+    },
+    {
+      "text": "growth of buman breast-cancer cels, we used reverse phase",
+      "bbox": [
+        374,
+        423,
+        681,
+        443
+      ],
+      "confidence": 0.9678106307983398
+    },
+    {
+      "text": "stimulated, we proposed that platelcts contained many",
+      "bbox": [
+        49,
+        439,
+        353,
+        455
+      ],
+      "confidence": 0.9546549320220947
+    },
+    {
+      "text": "high performance liquid chromatography (RP-HPLC) and a",
+      "bbox": [
+        374,
+        435,
+        680,
+        455
+      ],
+      "confidence": 0.9603295922279358
+    },
+    {
+      "text": "growth factor activities.",
+      "bbox": [
+        49,
+        450,
+        178,
+        469
+      ],
+      "confidence": 0.9961899518966675
+    },
+    {
+      "text": "newly developed serum-free cell-culture bioassay method to",
+      "bbox": [
+        374,
+        448,
+        680,
+        468
+      ],
+      "confidence": 0.9728901982307434
+    },
+    {
+      "text": "Earlier reports had shown thet platclets contained a potent",
+      "bbox": [
+        62,
+        463,
+        353,
+        480
+      ],
+      "confidence": 0.9803926944732666
+    },
+    {
+      "text": "purify the activities. The bioassay with MCF-7 and T47D",
+      "bbox": [
+        374,
+        460,
+        679,
+        480
+      ],
+      "confidence": 0.955112099647522
+    },
+    {
+      "text": "mitogen'* that was later purified to homogentity by several",
+      "bbox": [
+        48,
+        474,
+        355,
+        494
+      ],
+      "confidence": 0.9472636580467224
+    },
+    {
+      "text": "methods*\" and that was established to be an A:B hctero-",
+      "bbox": [
+        48,
+        486,
+        354,
+        507
+      ],
+      "confidence": 0.9288528561592102
+    },
+    {
+      "text": "potencies of five major functional fomilies of nonlymphoid",
+      "bbox": [
+        374,
+        485,
+        679,
+        504
+      ],
+      "confidence": 0.9379734396934509
+    },
+    {
+      "text": "human breast-cancer cefls alloived a direct comparison of thc",
+      "bbox": [
+        375,
+        475,
+        678,
+        490
+      ],
+      "confidence": 0.9749173521995544
+    },
+    {
+      "text": "dimer with B-chain amino scid soquence homology to the",
+      "bbox": [
+        48,
+        498,
+        355,
+        519
+      ],
+      "confidence": 0.9593856930732727
+    },
+    {
+      "text": "growth factors. The heterodimer form of PDGF. TOFβ1.",
+      "bbox": [
+        372,
+        496,
+        679,
+        518
+      ],
+      "confidence": 0.8516396284103394
+    },
+    {
+      "text": "and TGFβ2 were not mitogenic for these cell lines, whereas",
+      "bbox": [
+        373,
+        510,
+        677,
+        528
+      ],
+      "confidence": 0.9619102478027344
+    },
+    {
+      "text": "factor. known as platetet-derived growth factor (PDGF). has",
+      "bbox": [
+        48,
+        521,
+        356,
+        544
+      ],
+      "confidence": 0.8908706903457642
+    },
+    {
+      "text": "insulinlikc growth fnctors I (IGF-I) and 11 (IGF-II). EGF.",
+      "bbox": [
+        375,
+        523,
+        675,
+        538
+      ],
+      "confidence": 0.9430328011512756
+    },
+    {
+      "text": "transforming growth-factor a (TGFa). and besic fibroblast",
+      "bbox": [
+        374,
+        533,
+        676,
+        552
+      ],
+      "confidence": 0.9543169140815735
+    },
+    {
+      "text": "growth factor (bFGF) promoted continuous cell divisions at",
+      "bbox": [
+        374,
+        544,
+        676,
+        566
+      ],
+      "confidence": 0.8783222436904907
+    },
+    {
+      "text": "picomotar to nanomolar concenerations.Thcrefore plate-",
+      "bbox": [
+        374,
+        557,
+        676,
+        577
+      ],
+      "confidence": 0.9211366176605225
+    },
+    {
+      "text": "I.00o PDGF usually was considered a mitogen for mesen.",
+      "bbox": [
+        46,
+        570,
+        355,
+        593
+      ],
+      "confidence": 0.9351696372032166
+    },
+    {
+      "text": "lel-derived breast-cancer cell growth fsctor(s) might have",
+      "bbox": [
+        376,
+        573,
+        673,
+        587
+      ],
+      "confidence": 0.9628989696502686
+    },
+    {
+      "text": "chymal cells.\" our previous study' showed platelets con-",
+      "bbox": [
+        45,
+        582,
+        356,
+        607
+      ],
+      "confidence": 0.9288824796676636
+    },
+    {
+      "text": "been relotcd functionalty or structurally to a homodimer",
+      "bbox": [
+        375,
+        584,
+        674,
+        600
+      ],
+      "confidence": 0.9690272212028503
+    },
+    {
+      "text": "ained a mammary epithelial cell activity of approximately",
+      "bbox": [
+        44,
+        594,
+        356,
+        619
+      ],
+      "confidence": 0.9009551405906677
+    },
+    {
+      "text": "mol wt 38,ooo. which might have been one of the forms of",
+      "bbox": [
+        45,
+        607,
+        356,
+        631
+      ],
+      "confidence": 0.9307743310928345
+    },
+    {
+      "text": "form of PDGF or to any of the other mitogen groups that",
+      "bbox": [
+        375,
+        596,
+        673,
+        612
+      ],
+      "confidence": 0.9834006428718567
+    },
+    {
+      "text": "were active in this assay. Another possibility wus a novel",
+      "bbox": [
+        375,
+        608,
+        672,
+        625
+      ],
+      "confidence": 0.9843156933784485
+    },
+    {
+      "text": "mitogen not previously characierizcd. To establish identity",
+      "bbox": [
+        375,
+        619,
+        671,
+        638
+      ],
+      "confidence": 0.9790176749229431
+    },
+    {
+      "text": "PDGF.",
+      "bbox": [
+        46,
+        624,
+        91,
+        641
+      ],
+      "confidence": 0.937920868396759
+    },
+    {
+      "text": "conclusively, we undertook thc complete purification and",
+      "bbox": [
+        375,
+        632,
+        671,
+        650
+      ],
+      "confidence": 0.9774388074874878
+    },
+    {
+      "text": "identibcation by N° amino-acid scquencing. A preliminary",
+      "bbox": [
+        374,
+        643,
+        670,
+        663
+      ],
+      "confidence": 0.9429932832717896
+    },
+    {
+      "text": "The Universiy of Texas Medical Schoal. Houston; and ONCo-",
+      "bbox": [
+        47,
+        665,
+        352,
+        680
+      ],
+      "confidence": 0.8900602459907532
+    },
+    {
+      "text": "From the Depariment of Biochemistry and Molecular Biology.",
+      "bbox": [
+        60,
+        655,
+        353,
+        669
+      ],
+      "confidence": 0.9679434299468994
+    },
+    {
+      "text": "report of these results has been presented.\"",
+      "bbox": [
+        375,
+        655,
+        587,
+        677
+      ],
+      "confidence": 0.9561662077903748
+    },
+    {
+      "text": "GEN. Seatth, WA.",
+      "bbox": [
+        47,
+        677,
+        137,
+        691
+      ],
+      "confidence": 0.8127837181091309
+    },
+    {
+      "text": "MATERIALS AND METHODS",
+      "bbox": [
+        451,
+        678,
+        589,
+        694
+      ],
+      "confidence": 0.9974097013473511
+    },
+    {
+      "text": "Submited Sepiember 6. 1988:accepied Aprit 17. 1989.",
+      "bbox": [
+        58,
+        687,
+        311,
+        703
+      ],
+      "confidence": 0.9310963749885559
+    },
+    {
+      "text": "Celf culture. Steck cultures of MCF.7 cells\" (Amcrican Type",
+      "bbox": [
+        384,
+        692,
+        664,
+        711
+      ],
+      "confidence": 0.9543642401695251
+    },
+    {
+      "text": "fran Cancer Society Groni BC-255. and Grant No. 2225 from The",
+      "bbox": [
+        47,
+        711,
+        353,
+        724
+      ],
+      "confidence": 0.9320533275604248
+    },
+    {
+      "text": "Supported by Narional Concer Institute Grani CA-J8o24. Amer-",
+      "bbox": [
+        58,
+        699,
+        352,
+        714
+      ],
+      "confidence": 0.9337822198867798
+    },
+    {
+      "text": "Cuhture Collection, Rockville, MD) were maintained in a 1:1",
+      "bbox": [
+        371,
+        704,
+        664,
+        722
+      ],
+      "confidence": 0.9372470378875732
+    },
+    {
+      "text": "Council for Tobacco Research, USA. Int.., New York.",
+      "bbox": [
+        48,
+        722,
+        293,
+        735
+      ],
+      "confidence": 0.9311009049415588
+    },
+    {
+      "text": "(vol/vol) mixture of Ham's F12 and Dulbecco's Modified Eagle's",
+      "bbox": [
+        370,
+        713,
+        664,
+        734
+      ],
+      "confidence": 0.9656620621681213
+    },
+    {
+      "text": "medio (DMEM. high-glucosc formulation) supplemented with 2.2",
+      "bbox": [
+        370,
+        724,
+        663,
+        744
+      ],
+      "confidence": 0.949779212474823
+    },
+    {
+      "text": "Address reprint requests to Dr David A. Sirbask u, Depariment of",
+      "bbox": [
+        60,
+        733,
+        353,
+        746
+      ],
+      "confidence": 0.974856972694397
+    },
+    {
+      "text": "B/L. sodium bicarbonate (F12/DMEM). 15 mmol/L. HEPES. pH",
+      "bbox": [
+        369,
+        734,
+        664,
+        756
+      ],
+      "confidence": 0.9251265525817871
+    },
+    {
+      "text": "Medical School, PO Box 20708, Houston, TX 77225.",
+      "bbox": [
+        47,
+        755,
+        290,
+        768
+      ],
+      "confidence": 0.9510733485221863
+    },
+    {
+      "text": "Biochemistry and Moleculor Biology. The University of Texas",
+      "bbox": [
+        48,
+        743,
+        352,
+        756
+      ],
+      "confidence": 0.9527032375335693
+    },
+    {
+      "text": "tmosphere of 95% (vol/vol) air and 5% (vol/vol) CO, at 37°C.",
+      "bbox": [
+        368,
+        754,
+        662,
+        778
+      ],
+      "confidence": 0.8666530847549438
+    },
+    {
+      "text": "7.2. and 10% (vol/wl) fetal bovine serum (FBS) In  humidifled",
+      "bbox": [
+        369,
+        744,
+        663,
+        766
+      ],
+      "confidence": 0.9149981141090393
+    },
+    {
+      "text": "The publicetion costs of this arstele were defrayed in part by page",
+      "bbox": [
+        59,
+        764,
+        352,
+        779
+      ],
+      "confidence": 0.9475926160812378
+    },
+    {
+      "text": "Cultures were passed every four to six days and scodod at 1.75x",
+      "bbox": [
+        368,
+        765,
+        661,
+        788
+      ],
+      "confidence": 0.9486320614814758
+    },
+    {
+      "text": "\"advenisemen\" in avcordance with 18 U.S.C. secalon 1734 solely to",
+      "bbox": [
+        43,
+        784,
+        352,
+        803
+      ],
+      "confidence": 0.8007514476776123
+    },
+    {
+      "text": "charge paymemi. This articte must therefore be hereby marked",
+      "bbox": [
+        44,
+        774,
+        353,
+        792
+      ],
+      "confidence": 0.8896297216415405
+    },
+    {
+      "text": "10°/10-cm diameter plastic culiure dish in 20 mL. of medium. Siock",
+      "bbox": [
+        368,
+        775,
+        661,
+        801
+      ],
+      "confidence": 0.8168583512306213
+    },
+    {
+      "text": "indicate this faer.",
+      "bbox": [
+        44,
+        796,
+        128,
+        812
+      ],
+      "confidence": 0.9370610117912292
+    },
+    {
+      "text": "e i9so by Grune 4 Srration. Inc.",
+      "bbox": [
+        54,
+        808,
+        207,
+        825
+      ],
+      "confidence": 0.8789594173431396
+    },
+    {
+      "text": "NV). the teats were negative throughour this invesigetion.",
+      "bbox": [
+        368,
+        807,
+        623,
+        834
+      ],
+      "confidence": 0.9103463888168335
+    },
+    {
+      "text": "0006-4971/89/7403-002433.0010",
+      "bbox": [
+        54,
+        819,
+        206,
+        837
+      ],
+      "confidence": 0.9718761444091797
+    },
+    {
+      "text": "1084",
+      "bbox": [
+        41,
+        844,
+        71,
+        862
+      ],
+      "confidence": 0.9974024295806885
+    },
+    {
+      "text": "Glood Voi 74, No 3 (August 18), 1989: pp 1084-1092",
+      "bbox": [
+        436,
+        835,
+        659,
+        855
+      ],
+      "confidence": 0.9177921414375305
+    },
+    {
+      "text": "PUBLICATIONS",
+      "bbox": [
+        364,
+        875,
+        526,
+        914
+      ],
+      "confidence": 0.9880816340446472
+    },
+    {
+      "text": "035409",
+      "bbox": [
+        650,
+        875,
+        727,
+        900
+      ],
+      "confidence": 0.9999430775642395
+    }
+  ],
+  "full_text": ".\nFILE COPY\n377\nHuman Platelet-Derived Mitogens. I. Identification of Insulinlike Growth\nFactors I nnd Il by Purification and N Amino Acid Sequence Analysis\nBy Kenneth P. Kerey, Hans Marquardt, and David A. Sirbasku\nHuman piateter tysates conteined potent mitogenic sotivi-\nwt 7,4o0 products that wers homogtneous as determined\nties for McF-7 human breast-cancer celle in serum-free-\nby lodination, sodium dodecyl sutfete-polyecrylamide gst\ndefined medie. Becauee these activities were not replnced\nelectrophoresis (SDS-PAGE). end sutoredlogrephy. The\nfectore were identified as Insutinlike growth feotor I (IGF-3)\nby known platelet mitogens, such as plsteiet-derived\ngrowth fector or transforming growth feotor df. we sought\nand B (IGF-I) end truncated IGF-I by N\" emino acid miorose-\nto identity the breast cancer cetl mitogens by purificetion\nquencing. In dose-response enperiments. pletetet-derived\nand N\" amino-acid eequenaing. Acetie ecid extrects of\nIGF-I and IGF-8 promoted miultiple divielone of the MCF-7\nnlum sulfete precipitetion end fractionated on Sepheder\noutdated humen platelets were concentrated by ammo-\ncells wish ED_ velues of 12 and 100 pg/mL, respectively.\nThe specific ectiuhies und ather bloassay charecterietics of\nG-50 und Blo-Gel P-10 columns In 0.5 mol/L scetic acid.\nplatelet-derived IGF-1 end IGF- were simitar to thoss of\nTwo major ectivities were resolved by moteculer sleve\nrecombinant-produced bumen growth fectors. Thls is the\nperformance liquid chromatography (HPLC). Purificetions\nmethods and frectioneted further by reverse-phase high-\nfiret report of the purification of insulinlke growth fectars\nfrom humen platelet lysates.\n(70,000 to 870,000-fold) were sccomplished yielding mal\n 1989 by Grune & Straiten, tno.\nREViOUSl. Y this laburatory demonstrated that lysates\ngrowth factor & (TGF).This dimeric mol w 25.000 factar\nPlatcicts are also an importent source of transforming\nof outdated human platcicts containcd growih-factor\nhas been identified in both TGF1\" and TGFβ2 forns and\nactivities for rat' and human' breast-cancer cells in culture.\nMicrogram/milliliter concentrations of neutral pH extracts\nhas been shown to influence mesenchymal cell growth posi-\npromoted continuous division of MTW9/PL. rat and MCF-7\ntively and epithelial cells negatively.\" Other studies con-\nbuman cells under serum-free conditions. Lysates were\nfirmed that epidermal growth factor (EGF)/urogastrone\"\nshown also to be mitogenic for a wide variety of cstablishcd\nwas present in the platelet structure. as was a mol wl 45.000\nendothelial-cell growth factor.\nepithelial and mesenchymal origin cell lines as well as\nTo determine which mitogens in platelets promoted\ncontaining growth factors for short-term culturcs of humnan\ndiploid fibroblasts. Because of the diversity of cell sypes\ngrowth of buman breast-cancer cels, we used reverse phase\nstimulated, we proposed that platelcts contained many\nhigh performance liquid chromatography (RP-HPLC) and a\ngrowth factor activities.\nnewly developed serum-free cell-culture bioassay method to\nEarlier reports had shown thet platclets contained a potent\npurify the activities. The bioassay with MCF-7 and T47D\nmitogen'* that was later purified to homogentity by several\nmethods*\" and that was established to be an A:B hctero-\npotencies of five major functional fomilies of nonlymphoid\nhuman breast-cancer cefls alloived a direct comparison of thc\ndimer with B-chain amino scid soquence homology to the\ngrowth factors. The heterodimer form of PDGF. TOFβ1.\nand TGFβ2 were not mitogenic for these cell lines, whereas\nfactor. known as platetet-derived growth factor (PDGF). has\ninsulinlikc growth fnctors I (IGF-I) and 11 (IGF-II). EGF.\ntransforming growth-factor a (TGFa). and besic fibroblast\ngrowth factor (bFGF) promoted continuous cell divisions at\npicomotar to nanomolar concenerations.Thcrefore plate-\nI.00o PDGF usually was considered a mitogen for mesen.\nlel-derived breast-cancer cell growth fsctor(s) might have\nchymal cells.\" our previous study' showed platelets con-\nbeen relotcd functionalty or structurally to a homodimer\nained a mammary epithelial cell activity of approximately\nmol wt 38,ooo. which might have been one of the forms of\nform of PDGF or to any of the other mitogen groups that\nwere active in this assay. Another possibility wus a novel\nmitogen not previously characierizcd. To establish identity\nPDGF.\nconclusively, we undertook thc complete purification and\nidentibcation by N° amino-acid scquencing. A preliminary\nThe Universiy of Texas Medical Schoal. Houston; and ONCo-\nFrom the Depariment of Biochemistry and Molecular Biology.\nreport of these results has been presented.\"\nGEN. Seatth, WA.\nMATERIALS AND METHODS\nSubmited Sepiember 6. 1988:accepied Aprit 17. 1989.\nCelf culture. Steck cultures of MCF.7 cells\" (Amcrican Type\nfran Cancer Society Groni BC-255. and Grant No. 2225 from The\nSupported by Narional Concer Institute Grani CA-J8o24. Amer-\nCuhture Collection, Rockville, MD) were maintained in a 1:1\nCouncil for Tobacco Research, USA. Int.., New York.\n(vol/vol) mixture of Ham's F12 and Dulbecco's Modified Eagle's\nmedio (DMEM. high-glucosc formulation) supplemented with 2.2\nAddress reprint requests to Dr David A. Sirbask u, Depariment of\nB/L. sodium bicarbonate (F12/DMEM). 15 mmol/L. HEPES. pH\nMedical School, PO Box 20708, Houston, TX 77225.\nBiochemistry and Moleculor Biology. The University of Texas\ntmosphere of 95% (vol/vol) air and 5% (vol/vol) CO, at 37°C.\n7.2. and 10% (vol/wl) fetal bovine serum (FBS) In  humidifled\nThe publicetion costs of this arstele were defrayed in part by page\nCultures were passed every four to six days and scodod at 1.75x\n\"advenisemen\" in avcordance with 18 U.S.C. secalon 1734 solely to\ncharge paymemi. This articte must therefore be hereby marked\n10°/10-cm diameter plastic culiure dish in 20 mL. of medium. Siock\nindicate this faer.\ne i9so by Grune 4 Srration. Inc.\nNV). the teats were negative throughour this invesigetion.\n0006-4971/89/7403-002433.0010\n1084\nGlood Voi 74, No 3 (August 18), 1989: pp 1084-1092\nPUBLICATIONS\n035409"
+}

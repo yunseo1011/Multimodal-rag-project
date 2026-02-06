@@ -1,0 +1,961 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0438.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FUNDAMENTAL AND APPLIED TOXICOLOGY 24. :6-$5 (1993)",
+      "bbox": [
+        71,
+        0,
+        339,
+        23
+      ],
+      "confidence": 0.9721847176551819
+    },
+    {
+      "text": "B DVE",
+      "bbox": [
+        665,
+        10,
+        744,
+        34
+      ],
+      "confidence": 0.8577163815498352
+    },
+    {
+      "text": "WST",
+      "bbox": [
+        694,
+        32,
+        739,
+        56
+      ],
+      "confidence": 0.9940945506095886
+    },
+    {
+      "text": "ATE",
+      "bbox": [
+        690,
+        51,
+        739,
+        74
+      ],
+      "confidence": 0.9978750348091125
+    },
+    {
+      "text": "μIC",
+      "bbox": [
+        689,
+        69,
+        733,
+        94
+      ],
+      "confidence": 0.9104350209236145
+    },
+    {
+      "text": "Effect of Chronic Cigarette Smoke Exposure on Lung Clearance",
+      "bbox": [
+        109,
+        90,
+        699,
+        130
+      ],
+      "confidence": 0.9979070425033569
+    },
+    {
+      "text": "of Tracer Particles Inhaled by Rats1",
+      "bbox": [
+        241,
+        118,
+        565,
+        148
+      ],
+      "confidence": 0.9885681867599487
+    },
+    {
+      "text": "G. L. FINCH, K. J. NIKULA, B. T. CHEN, E. B. BARR, I.-Y. CHANG, AND C. H. HOBBS",
+      "bbox": [
+        166,
+        155,
+        642,
+        181
+      ],
+      "confidence": 0.9396276473999023
+    },
+    {
+      "text": "InalatinToxicolgy Research Instine, LordoBiomedicalndEnvirnmentl Research Insie, P.O.Box5890, Abuurque,NewMexi7185",
+      "bbox": [
+        71,
+        172,
+        738,
+        204
+      ],
+      "confidence": 0.7985416054725647
+    },
+    {
+      "text": "Received November 3, 1993; accepted April 28, 1994",
+      "bbox": [
+        279,
+        209,
+        520,
+        226
+      ],
+      "confidence": 0.990536093711853
+    },
+    {
+      "text": "Cigarette smoking induces a variety of carcinogenic and",
+      "bbox": [
+        417,
+        229,
+        736,
+        249
+      ],
+      "confidence": 0.993523895740509
+    },
+    {
+      "text": "Effect of Chronic Cigarette Smoke Exposure on Lung Clear-",
+      "bbox": [
+        83,
+        235,
+        393,
+        256
+      ],
+      "confidence": 0.9872406125068665
+    },
+    {
+      "text": "noncarcinogenic effects in humans and laboratory animals.",
+      "bbox": [
+        403,
+        243,
+        735,
+        264
+      ],
+      "confidence": 0.9899768233299255
+    },
+    {
+      "text": "K. J., CHEN, B. T., BARR, E. B., CHANG, I.-Y., AND HOBBS,",
+      "bbox": [
+        70,
+        262,
+        393,
+        284
+      ],
+      "confidence": 0.9688929319381714
+    },
+    {
+      "text": "ance of Tracer Particles Inhaled by Rats. FiNcH, G. L., NiKULA,",
+      "bbox": [
+        71,
+        249,
+        393,
+        270
+      ],
+      "confidence": 0.960460901260376
+    },
+    {
+      "text": "One issue of concern is the extent to which smoking might",
+      "bbox": [
+        403,
+        257,
+        734,
+        279
+      ],
+      "confidence": 0.9895440936088562
+    },
+    {
+      "text": "C. H. (1995). Fundam. Appl. Toxicol. 24, 76-85.",
+      "bbox": [
+        70,
+        276,
+        319,
+        296
+      ],
+      "confidence": 0.9754761457443237
+    },
+    {
+      "text": "influence pulmonary responses to other inhaled toxic mate-",
+      "bbox": [
+        403,
+        272,
+        734,
+        294
+      ],
+      "confidence": 0.9969239234924316
+    },
+    {
+      "text": "rials. This influence could take the form of a direct alter-",
+      "bbox": [
+        403,
+        287,
+        733,
+        310
+      ],
+      "confidence": 0.9830605387687683
+    },
+    {
+      "text": "Cigarette smoking can influence the pulmonary disposition of",
+      "bbox": [
+        81,
+        297,
+        394,
+        319
+      ],
+      "confidence": 0.986683189868927
+    },
+    {
+      "text": "ation of the disposition of another inhaled agent; for exam-",
+      "bbox": [
+        403,
+        302,
+        733,
+        325
+      ],
+      "confidence": 0.9817867279052734
+    },
+    {
+      "text": "other inhaled materials in humans and laboratory animals. This",
+      "bbox": [
+        70,
+        311,
+        393,
+        333
+      ],
+      "confidence": 0.974399209022522
+    },
+    {
+      "text": "ple, it has been reported that cigarette smoking delays the",
+      "bbox": [
+        402,
+        318,
+        733,
+        339
+      ],
+      "confidence": 0.9871597290039062
+    },
+    {
+      "text": "study was undertaken to investigate the influence of cigarette",
+      "bbox": [
+        71,
+        327,
+        392,
+        345
+      ],
+      "confidence": 0.986031174659729
+    },
+    {
+      "text": "pulmonary clearance of inhaled, insoluble particles in hu-",
+      "bbox": [
+        402,
+        333,
+        732,
+        353
+      ],
+      "confidence": 0.9930049777030945
+    },
+    {
+      "text": "smoke exposures of rats on the pulmonary clearance of inhaled,",
+      "bbox": [
+        69,
+        339,
+        393,
+        360
+      ],
+      "confidence": 0.988798975944519
+    },
+    {
+      "text": "mans (Bohning et al., 1982) and in laboratory animals",
+      "bbox": [
+        402,
+        347,
+        732,
+        368
+      ],
+      "confidence": 0.9773129820823669
+    },
+    {
+      "text": "relatively insoluble radioactive tracer particles. Following 13",
+      "bbox": [
+        70,
+        354,
+        391,
+        371
+      ],
+      "confidence": 0.9984361529350281
+    },
+    {
+      "text": "weeks of whole-body exposure to air or mainstream cigarette",
+      "bbox": [
+        70,
+        367,
+        391,
+        387
+      ],
+      "confidence": 0.9947643876075745
+    },
+    {
+      "text": "(Mauderly et al., 1989a). In cases in which the relatively",
+      "bbox": [
+        402,
+        362,
+        731,
+        382
+      ],
+      "confidence": 0.9786948561668396
+    },
+    {
+      "text": "smoke for 6 hr/day, 5 days/week at concentrations of 0, 100, or",
+      "bbox": [
+        70,
+        382,
+        391,
+        399
+      ],
+      "confidence": 0.986014723777771
+    },
+    {
+      "text": "insoluble particles contain radionuclides, retarded clear-",
+      "bbox": [
+        403,
+        379,
+        729,
+        395
+      ],
+      "confidence": 0.9942854642868042
+    },
+    {
+      "text": "250 mg total particulate matter (TPM)/m', rats were acutely",
+      "bbox": [
+        70,
+        394,
+        391,
+        413
+      ],
+      "confidence": 0.9711660742759705
+    },
+    {
+      "text": "ance would increase the radiation dose and could poten-",
+      "bbox": [
+        402,
+        394,
+        729,
+        410
+      ],
+      "confidence": 0.98827064037323
+    },
+    {
+      "text": "exposed pernasally to *5Sr-labeled fused aluminosilicate (\"Sr-",
+      "bbox": [
+        68,
+        410,
+        391,
+        425
+      ],
+      "confidence": 0.9728188514709473
+    },
+    {
+      "text": "tially modify the resulting biological effects.",
+      "bbox": [
+        403,
+        408,
+        647,
+        424
+      ],
+      "confidence": 0.9863604307174683
+    },
+    {
+      "text": "2",
+      "bbox": [
+        60,
+        424,
+        69,
+        433
+      ],
+      "confidence": 0.6261863112449646
+    },
+    {
+      "text": "FAP) tracer particles, then air or smoke exposures were re-",
+      "bbox": [
+        68,
+        421,
+        392,
+        443
+      ],
+      "confidence": 0.9903087019920349
+    },
+    {
+      "text": "Our laboratory is currently studying potential interac-",
+      "bbox": [
+        416,
+        423,
+        728,
+        440
+      ],
+      "confidence": 0.9932198524475098
+    },
+    {
+      "text": "sumed. A separate group of rats was exposed to the *\"Sr-FAP",
+      "bbox": [
+        68,
+        437,
+        390,
+        453
+      ],
+      "confidence": 0.9718004465103149
+    },
+    {
+      "text": "tions between chronic cigarette smoke exposure and in-",
+      "bbox": [
+        402,
+        437,
+        729,
+        454
+      ],
+      "confidence": 0.9909531474113464
+    },
+    {
+      "text": "then serially euthanized through 6 months after exposure to",
+      "bbox": [
+        68,
+        451,
+        390,
+        466
+      ],
+      "confidence": 0.9898625016212463
+    },
+    {
+      "text": "haled 2>9PuO, in producing lung cancer in rats. As a part of",
+      "bbox": [
+        402,
+        451,
+        730,
+        469
+      ],
+      "confidence": 0.9566600918769836
+    },
+    {
+      "text": "confirm the relative insolubility of the tracer particles. We ob-",
+      "bbox": [
+        67,
+        465,
+        391,
+        480
+      ],
+      "confidence": 0.9843990206718445
+    },
+    {
+      "text": "this study, we used relatively insoluble *'Sr-labeled fused",
+      "bbox": [
+        403,
+        467,
+        728,
+        483
+      ],
+      "confidence": 0.9796000719070435
+    },
+    {
+      "text": "served decreased tracer particle clearance from the lungs that",
+      "bbox": [
+        66,
+        479,
+        391,
+        494
+      ],
+      "confidence": 0.9948889017105103
+    },
+    {
+      "text": "aluminosilicate tracer particles (*Sr-FAP) to investigate",
+      "bbox": [
+        401,
+        480,
+        730,
+        500
+      ],
+      "confidence": 0.9840772747993469
+    },
+    {
+      "text": "was smoke concentration-dependent. By 180 days after expo-",
+      "bbox": [
+        64,
+        493,
+        391,
+        508
+      ],
+      "confidence": 0.9920347929000854
+    },
+    {
+      "text": "how an initial subchronic (3 months) whole-body exposure",
+      "bbox": [
+        402,
+        495,
+        727,
+        514
+      ],
+      "confidence": 0.9934143424034119
+    },
+    {
+      "text": "sure to the tracer aerosol, about 14, 20, and 40% of the initial",
+      "bbox": [
+        64,
+        506,
+        390,
+        521
+      ],
+      "confidence": 0.9628908038139343
+    },
+    {
+      "text": "to smoke might influence the ability of the lungs to clear",
+      "bbox": [
+        400,
+        510,
+        729,
+        529
+      ],
+      "confidence": 0.9850593209266663
+    },
+    {
+      "text": "activity of tracer was present in control, 100 mg TPM1/m', and",
+      "bbox": [
+        64,
+        521,
+        390,
+        534
+      ],
+      "confidence": 0.9726142287254333
+    },
+    {
+      "text": "deposited particles under conditions of continued smoke",
+      "bbox": [
+        402,
+        526,
+        728,
+        541
+      ],
+      "confidence": 0.9773516654968262
+    },
+    {
+      "text": "less in smoke-exposed rats than in controls. Smoke exposure",
+      "bbox": [
+        63,
+        544,
+        390,
+        558
+      ],
+      "confidence": 0.9927009344100952
+    },
+    {
+      "text": "250 mg TPM/m' groups, respectively. Body weight gains were",
+      "bbox": [
+        64,
+        533,
+        390,
+        546
+      ],
+      "confidence": 0.9883514642715454
+    },
+    {
+      "text": "exposure. We performed the present study to determine if",
+      "bbox": [
+        402,
+        539,
+        728,
+        553
+      ],
+      "confidence": 0.9914707541465759
+    },
+    {
+      "text": "produced lung lesions which inciuded increased numbers of pig-",
+      "bbox": [
+        63,
+        557,
+        388,
+        572
+      ],
+      "confidence": 0.9820290207862854
+    },
+    {
+      "text": "cigareite smoke-induced decreased particle clearance",
+      "bbox": [
+        401,
+        551,
+        729,
+        570
+      ],
+      "confidence": 0.9655904769897461
+    },
+    {
+      "text": "mented alveolar macrophages distributed throughout the paren-",
+      "bbox": [
+        62,
+        572,
+        390,
+        585
+      ],
+      "confidence": 0.9945790767669678
+    },
+    {
+      "text": "would be observed in the rats and, if so, the extent to which",
+      "bbox": [
+        401,
+        568,
+        727,
+        583
+      ],
+      "confidence": 0.9771439433097839
+    },
+    {
+      "text": "chyma and focal collections of enlarged alveolar macrophages",
+      "bbox": [
+        61,
+        584,
+        390,
+        599
+      ],
+      "confidence": 0.9753540754318237
+    },
+    {
+      "text": "decreased clearance was (1) quantitatively similar to previ-",
+      "bbox": [
+        402,
+        584,
+        727,
+        597
+      ],
+      "confidence": 0.9937312006950378
+    },
+    {
+      "text": "with concomitant alveolar epithelial hyperplasia and neutro-",
+      "bbox": [
+        62,
+        598,
+        388,
+        611
+      ],
+      "confidence": 0.9911820888519287
+    },
+    {
+      "text": "ously reported values for rats exposed pernasally to ciga-",
+      "bbox": [
+        402,
+        598,
+        727,
+        611
+      ],
+      "confidence": 0.9924542903900146
+    },
+    {
+      "text": "philic alveolitis. The severity of the lesions increased with",
+      "bbox": [
+        62,
+        611,
+        388,
+        624
+      ],
+      "confidence": 0.9847478270530701
+    },
+    {
+      "text": "rette smoke, (2) dependent on the exposure concentration",
+      "bbox": [
+        402,
+        612,
+        727,
+        625
+      ],
+      "confidence": 0.9973692297935486
+    },
+    {
+      "text": "smoke exposure duration and concentration to include intersti-",
+      "bbox": [
+        61,
+        625,
+        388,
+        638
+      ],
+      "confidence": 0.980370044708252
+    },
+    {
+      "text": "of smoke, and (3) correlated with histological changes in the",
+      "bbox": [
+        402,
+        627,
+        726,
+        640
+      ],
+      "confidence": 0.9887902736663818
+    },
+    {
+      "text": "tial aggregates of pigmented macrophages and interstitial fibro-",
+      "bbox": [
+        61,
+        639,
+        388,
+        652
+      ],
+      "confidence": 0.9749016761779785
+    },
+    {
+      "text": "lungs.",
+      "bbox": [
+        398,
+        640,
+        437,
+        658
+      ],
+      "confidence": 0.9984851479530334
+    },
+    {
+      "text": "rette smoke decreases the ability of the lungs to clear inhaled",
+      "bbox": [
+        59,
+        664,
+        388,
+        680
+      ],
+      "confidence": 0.9792401194572449
+    },
+    {
+      "text": "sis. Our data confirm previous findings that exposure to ciga-",
+      "bbox": [
+        61,
+        653,
+        388,
+        666
+      ],
+      "confidence": 0.9978222846984863
+    },
+    {
+      "text": "materials. We further demonstrate an exposure-concentration",
+      "bbox": [
+        60,
+        679,
+        387,
+        693
+      ],
+      "confidence": 0.9946390390396118
+    },
+    {
+      "text": "MATERIALS AND METHODS",
+      "bbox": [
+        475,
+        668,
+        654,
+        688
+      ],
+      "confidence": 0.9892110228538513
+    },
+    {
+      "text": "related magnitude of effect, suggesting that the cigarette smoke-",
+      "bbox": [
+        59,
+        692,
+        388,
+        707
+      ],
+      "confidence": 0.9893817901611328
+    },
+    {
+      "text": "Animals. We used 126 male and female F344 rats [CDF (F344)",
+      "bbox": [
+        410,
+        695,
+        725,
+        712
+      ],
+      "confidence": 0.9701959490776062
+    },
+    {
+      "text": "exposed rat constitutes a usefu! model for studies of the effects",
+      "bbox": [
+        58,
+        705,
+        388,
+        721
+      ],
+      "confidence": 0.9808757305145264
+    },
+    {
+      "text": "CrlBR; Charles River Laboratories, Raleigh, NC] 28 ± 3 days of age at",
+      "bbox": [
+        401,
+        710,
+        726,
+        723
+      ],
+      "confidence": 0.9818540811538696
+    },
+    {
+      "text": "of cigarette smoke on the disposition of inhaled particles.",
+      "bbox": [
+        58,
+        718,
+        388,
+        734
+      ],
+      "confidence": 0.9930769801139832
+    },
+    {
+      "text": "receipt. The rats were quarantined and conditioned to the whole-body",
+      "bbox": [
+        399,
+        721,
+        726,
+        736
+      ],
+      "confidence": 0.9798476099967957
+    },
+    {
+      "text": "© 199s Society of Tmsieaingy.",
+      "bbox": [
+        58,
+        737,
+        167,
+        747
+      ],
+      "confidence": 0.8448529243469238
+    },
+    {
+      "text": "exposure chambers (H20oo; Lab Products, Ine., Maywood, NJ; 12 ± 2áir",
+      "bbox": [
+        399,
+        733,
+        728,
+        749
+      ],
+      "confidence": 0.9537070989608765
+    },
+    {
+      "text": "changes per hour) for 2 weeks after receipt. Food (Wayne Lab Blox. Allied",
+      "bbox": [
+        399,
+        745,
+        726,
+        762
+      ],
+      "confidence": 0.976624071598053
+    },
+    {
+      "text": "Mills, Chicago, IL.)and water were available ad libirwmi. Chamber tempera-",
+      "bbox": [
+        399,
+        757,
+        726,
+        774
+      ],
+      "confidence": 0.9368253350257874
+    },
+    {
+      "text": "tures were maintained ot 24 ± 2*C, humidity at 40 to 70%, and lights on s",
+      "bbox": [
+        398,
+        769,
+        726,
+        786
+      ],
+      "confidence": 0.9511083364486694
+    },
+    {
+      "text": " The U.S. Government's right to retain a nonesclusive roy alty-free fi-",
+      "bbox": [
+        66,
+        783,
+        387,
+        799
+      ],
+      "confidence": 0.972594141960144
+    },
+    {
+      "text": "12-hr on/off cycle.",
+      "bbox": [
+        400,
+        784,
+        486,
+        797
+      ],
+      "confidence": 0.9166339039802551
+    },
+    {
+      "text": "cense in and to the copyright covering this paper. for governmental pur-",
+      "bbox": [
+        54,
+        795,
+        387,
+        814
+      ],
+      "confidence": 0.9689976572990417
+    },
+    {
+      "text": "During the second week of conditioning, the rats were weighed and",
+      "bbox": [
+        409,
+        794,
+        726,
+        811
+      ],
+      "confidence": 0.9706313014030457
+    },
+    {
+      "text": "poses, is acknowledged.",
+      "bbox": [
+        53,
+        810,
+        165,
+        827
+      ],
+      "confidence": 0.9981057643890381
+    },
+    {
+      "text": "randomly assigned to groups by weight (Path-Tox System, Xy bion. Cedar",
+      "bbox": [
+        399,
+        806,
+        726,
+        823
+      ],
+      "confidence": 0.9685616493225098
+    },
+    {
+      "text": "0272-0590/95$6.00",
+      "bbox": [
+        54,
+        844,
+        139,
+        854
+      ],
+      "confidence": 0.9928607940673828
+    },
+    {
+      "text": "76",
+      "bbox": [
+        385,
+        834,
+        401,
+        847
+      ],
+      "confidence": 0.99986732006073
+    },
+    {
+      "text": "Copyright © 1995 by she Society of Texicology.",
+      "bbox": [
+        52,
+        853,
+        248,
+        866
+      ],
+      "confidence": 0.93048495054245
+    },
+    {
+      "text": "Alt rights of reproduclion in any form seserved.",
+      "bbox": [
+        52,
+        861,
+        246,
+        875
+      ],
+      "confidence": 0.9522624611854553
+    }
+  ],
+  "full_text": "FUNDAMENTAL AND APPLIED TOXICOLOGY 24. :6-$5 (1993)\nB DVE\nWST\nATE\nμIC\nEffect of Chronic Cigarette Smoke Exposure on Lung Clearance\nof Tracer Particles Inhaled by Rats1\nG. L. FINCH, K. J. NIKULA, B. T. CHEN, E. B. BARR, I.-Y. CHANG, AND C. H. HOBBS\nInalatinToxicolgy Research Instine, LordoBiomedicalndEnvirnmentl Research Insie, P.O.Box5890, Abuurque,NewMexi7185\nReceived November 3, 1993; accepted April 28, 1994\nCigarette smoking induces a variety of carcinogenic and\nEffect of Chronic Cigarette Smoke Exposure on Lung Clear-\nnoncarcinogenic effects in humans and laboratory animals.\nK. J., CHEN, B. T., BARR, E. B., CHANG, I.-Y., AND HOBBS,\nance of Tracer Particles Inhaled by Rats. FiNcH, G. L., NiKULA,\nOne issue of concern is the extent to which smoking might\nC. H. (1995). Fundam. Appl. Toxicol. 24, 76-85.\ninfluence pulmonary responses to other inhaled toxic mate-\nrials. This influence could take the form of a direct alter-\nCigarette smoking can influence the pulmonary disposition of\nation of the disposition of another inhaled agent; for exam-\nother inhaled materials in humans and laboratory animals. This\nple, it has been reported that cigarette smoking delays the\nstudy was undertaken to investigate the influence of cigarette\npulmonary clearance of inhaled, insoluble particles in hu-\nsmoke exposures of rats on the pulmonary clearance of inhaled,\nmans (Bohning et al., 1982) and in laboratory animals\nrelatively insoluble radioactive tracer particles. Following 13\nweeks of whole-body exposure to air or mainstream cigarette\n(Mauderly et al., 1989a). In cases in which the relatively\nsmoke for 6 hr/day, 5 days/week at concentrations of 0, 100, or\ninsoluble particles contain radionuclides, retarded clear-\n250 mg total particulate matter (TPM)/m', rats were acutely\nance would increase the radiation dose and could poten-\nexposed pernasally to *5Sr-labeled fused aluminosilicate (\"Sr-\ntially modify the resulting biological effects.\n2\nFAP) tracer particles, then air or smoke exposures were re-\nOur laboratory is currently studying potential interac-\nsumed. A separate group of rats was exposed to the *\"Sr-FAP\ntions between chronic cigarette smoke exposure and in-\nthen serially euthanized through 6 months after exposure to\nhaled 2>9PuO, in producing lung cancer in rats. As a part of\nconfirm the relative insolubility of the tracer particles. We ob-\nthis study, we used relatively insoluble *'Sr-labeled fused\nserved decreased tracer particle clearance from the lungs that\naluminosilicate tracer particles (*Sr-FAP) to investigate\nwas smoke concentration-dependent. By 180 days after expo-\nhow an initial subchronic (3 months) whole-body exposure\nsure to the tracer aerosol, about 14, 20, and 40% of the initial\nto smoke might influence the ability of the lungs to clear\nactivity of tracer was present in control, 100 mg TPM1/m', and\ndeposited particles under conditions of continued smoke\nless in smoke-exposed rats than in controls. Smoke exposure\n250 mg TPM/m' groups, respectively. Body weight gains were\nexposure. We performed the present study to determine if\nproduced lung lesions which inciuded increased numbers of pig-\ncigareite smoke-induced decreased particle clearance\nmented alveolar macrophages distributed throughout the paren-\nwould be observed in the rats and, if so, the extent to which\nchyma and focal collections of enlarged alveolar macrophages\ndecreased clearance was (1) quantitatively similar to previ-\nwith concomitant alveolar epithelial hyperplasia and neutro-\nously reported values for rats exposed pernasally to ciga-\nphilic alveolitis. The severity of the lesions increased with\nrette smoke, (2) dependent on the exposure concentration\nsmoke exposure duration and concentration to include intersti-\nof smoke, and (3) correlated with histological changes in the\ntial aggregates of pigmented macrophages and interstitial fibro-\nlungs.\nrette smoke decreases the ability of the lungs to clear inhaled\nsis. Our data confirm previous findings that exposure to ciga-\nmaterials. We further demonstrate an exposure-concentration\nMATERIALS AND METHODS\nrelated magnitude of effect, suggesting that the cigarette smoke-\nAnimals. We used 126 male and female F344 rats [CDF (F344)\nexposed rat constitutes a usefu! model for studies of the effects\nCrlBR; Charles River Laboratories, Raleigh, NC] 28 ± 3 days of age at\nof cigarette smoke on the disposition of inhaled particles.\nreceipt. The rats were quarantined and conditioned to the whole-body\n© 199s Society of Tmsieaingy.\nexposure chambers (H20oo; Lab Products, Ine., Maywood, NJ; 12 ± 2áir\nchanges per hour) for 2 weeks after receipt. Food (Wayne Lab Blox. Allied\nMills, Chicago, IL.)and water were available ad libirwmi. Chamber tempera-\ntures were maintained ot 24 ± 2*C, humidity at 40 to 70%, and lights on s\n The U.S. Government's right to retain a nonesclusive roy alty-free fi-\n12-hr on/off cycle.\ncense in and to the copyright covering this paper. for governmental pur-\nDuring the second week of conditioning, the rats were weighed and\nposes, is acknowledged.\nrandomly assigned to groups by weight (Path-Tox System, Xy bion. Cedar\n0272-0590/95$6.00\n76\nCopyright © 1995 by she Society of Texicology.\nAlt rights of reproduclion in any form seserved."
+}

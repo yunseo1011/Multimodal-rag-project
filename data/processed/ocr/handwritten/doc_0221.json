@@ -1,0 +1,131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0221.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Mrs. Jean Kimball",
+      "bbox": [
+        273,
+        625,
+        388,
+        645
+      ],
+      "confidence": 0.9916507601737976
+    },
+    {
+      "text": "Waterville, NY 13480",
+      "bbox": [
+        257,
+        651,
+        402,
+        674
+      ],
+      "confidence": 0.8498237729072571
+    },
+    {
+      "text": "Osborne Ave.",
+      "bbox": [
+        287,
+        640,
+        372,
+        659
+      ],
+      "confidence": 0.9153006672859192
+    },
+    {
+      "text": "PM",
+      "bbox": [
+        431,
+        661,
+        457,
+        681
+      ],
+      "confidence": 0.974199652671814
+    },
+    {
+      "text": "110An",
+      "bbox": [
+        422,
+        690,
+        475,
+        713
+      ],
+      "confidence": 0.6365436911582947
+    },
+    {
+      "text": "1996",
+      "bbox": [
+        427,
+        711,
+        464,
+        729
+      ],
+      "confidence": 0.9248428344726562
+    },
+    {
+      "text": "Doral acs.",
+      "bbox": [
+        291,
+        742,
+        523,
+        829
+      ],
+      "confidence": 0.749089241027832
+    },
+    {
+      "text": "51754 4828",
+      "bbox": [
+        723,
+        762,
+        743,
+        865
+      ],
+      "confidence": 0.9995883703231812
+    },
+    {
+      "text": "F.0.B0P3200",
+      "bbox": [
+        306,
+        795,
+        547,
+        864
+      ],
+      "confidence": 0.801465630531311
+    },
+    {
+      "text": "WepstonSalem",
+      "bbox": [
+        298,
+        829,
+        589,
+        907
+      ],
+      "confidence": 0.7907145023345947
+    },
+    {
+      "text": "p.027102",
+      "bbox": [
+        521,
+        860,
+        728,
+        948
+      ],
+      "confidence": 0.7535512447357178
+    },
+    {
+      "text": "…lwllwll..ll!",
+      "bbox": [
+        525,
+        976,
+        631,
+        1000
+      ],
+      "confidence": 0.6559734344482422
+    }
+  ],
+  "full_text": "Mrs. Jean Kimball\nWaterville, NY 13480\nOsborne Ave.\nPM\n110An\n1996\nDoral acs.\n51754 4828\nF.0.B0P3200\nWepstonSalem\np.027102\n…lwllwll..ll!"
+}

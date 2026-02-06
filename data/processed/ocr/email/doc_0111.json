@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0111.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From:",
+      "bbox": [
+        60,
+        93,
+        97,
+        112
+      ],
+      "confidence": 0.9969828724861145
+    },
+    {
+      "text": "-Original Message-",
+      "bbox": [
+        78,
+        85,
+        172,
+        101
+      ],
+      "confidence": 0.9685023427009583
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        60,
+        107,
+        94,
+        124
+      ],
+      "confidence": 0.9987155795097351
+    },
+    {
+      "text": "Wednesday, June 30, 1999 9:14 AM",
+      "bbox": [
+        108,
+        110,
+        275,
+        123
+      ],
+      "confidence": 0.989177405834198
+    },
+    {
+      "text": "Chaikin, Karen",
+      "bbox": [
+        109,
+        98,
+        179,
+        112
+      ],
+      "confidence": 0.9885768294334412
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        62,
+        120,
+        84,
+        135
+      ],
+      "confidence": 0.9993156790733337
+    },
+    {
+      "text": "Hanson, Terry D.",
+      "bbox": [
+        108,
+        121,
+        188,
+        135
+      ],
+      "confidence": 0.9834432601928711
+    },
+    {
+      "text": "Subject: FW: Speclal Markets",
+      "bbox": [
+        60,
+        130,
+        205,
+        148
+      ],
+      "confidence": 0.9769001007080078
+    },
+    {
+      "text": "Importance:",
+      "bbox": [
+        62,
+        143,
+        125,
+        160
+      ],
+      "confidence": 0.9987073540687561
+    },
+    {
+      "text": "High",
+      "bbox": [
+        152,
+        143,
+        179,
+        159
+      ],
+      "confidence": 0.9989035725593567
+    },
+    {
+      "text": "Terry,",
+      "bbox": [
+        58,
+        169,
+        108,
+        196
+      ],
+      "confidence": 0.9984833598136902
+    },
+    {
+      "text": "Per below, I know we need to add Hanover, but do we also want to add Petersburg, Colonial",
+      "bbox": [
+        62,
+        204,
+        690,
+        231
+      ],
+      "confidence": 0.979073166847229
+    },
+    {
+      "text": "Heights and Hopewell?",
+      "bbox": [
+        63,
+        223,
+        219,
+        243
+      ],
+      "confidence": 0.9780831933021545
+    },
+    {
+      "text": "In NC, do we want to add Raleigh and Union?",
+      "bbox": [
+        61,
+        253,
+        367,
+        274
+      ],
+      "confidence": 0.9887299537658691
+    },
+    {
+      "text": "2072356310 D",
+      "bbox": [
+        573,
+        959,
+        701,
+        983
+      ],
+      "confidence": 0.9727866053581238
+    }
+  ],
+  "full_text": "From:\n-Original Message-\nSent:\nWednesday, June 30, 1999 9:14 AM\nChaikin, Karen\nTo:\nHanson, Terry D.\nSubject: FW: Speclal Markets\nImportance:\nHigh\nTerry,\nPer below, I know we need to add Hanover, but do we also want to add Petersburg, Colonial\nHeights and Hopewell?\nIn NC, do we want to add Raleigh and Union?\n2072356310 D"
+}

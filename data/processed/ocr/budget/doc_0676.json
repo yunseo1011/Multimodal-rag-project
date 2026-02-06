@@ -1,0 +1,511 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0676.png",
+    "image_width": 796,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "EStimate No.",
+      "bbox": [
+        468,
+        0,
+        552,
+        9
+      ],
+      "confidence": 0.9595559239387512
+    },
+    {
+      "text": "Bepteaber 6, 1984",
+      "bbox": [
+        563,
+        14,
+        712,
+        45
+      ],
+      "confidence": 0.932255208492279
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        516,
+        23,
+        557,
+        45
+      ],
+      "confidence": 0.9999322891235352
+    },
+    {
+      "text": "Cellateral",
+      "bbox": [
+        559,
+        49,
+        653,
+        73
+      ],
+      "confidence": 0.967595100402832
+    },
+    {
+      "text": "LEO BURNETT U.S.A.",
+      "bbox": [
+        121,
+        55,
+        356,
+        80
+      ],
+      "confidence": 0.9855522513389587
+    },
+    {
+      "text": "Media",
+      "bbox": [
+        498,
+        54,
+        556,
+        76
+      ],
+      "confidence": 0.9997073411941528
+    },
+    {
+      "text": "A DIVISION OF LEO BURNETT COMPANY, INC.",
+      "bbox": [
+        122,
+        77,
+        354,
+        96
+      ],
+      "confidence": 0.9739765524864197
+    },
+    {
+      "text": "1984",
+      "bbox": [
+        557,
+        79,
+        604,
+        105
+      ],
+      "confidence": 0.8539133667945862
+    },
+    {
+      "text": "Budget Year",
+      "bbox": [
+        467,
+        86,
+        556,
+        107
+      ],
+      "confidence": 0.954708993434906
+    },
+    {
+      "text": "Job Number",
+      "bbox": [
+        465,
+        116,
+        555,
+        139
+      ],
+      "confidence": 0.9983747601509094
+    },
+    {
+      "text": "62070",
+      "bbox": [
+        560,
+        113,
+        612,
+        136
+      ],
+      "confidence": 0.8679107427597046
+    },
+    {
+      "text": "Estimate of Art & Production Cost",
+      "bbox": [
+        120,
+        136,
+        347,
+        153
+      ],
+      "confidence": 0.9984419941902161
+    },
+    {
+      "text": "Print Advertisements and Outdoor",
+      "bbox": [
+        119,
+        154,
+        350,
+        171
+      ],
+      "confidence": 0.9968222379684448
+    },
+    {
+      "text": "Client No.",
+      "bbox": [
+        481,
+        149,
+        564,
+        170
+      ],
+      "confidence": 0.9701520204544067
+    },
+    {
+      "text": "PHILIP MORRIS INC.",
+      "bbox": [
+        119,
+        172,
+        268,
+        186
+      ],
+      "confidence": 0.963576078414917
+    },
+    {
+      "text": "Brand",
+      "bbox": [
+        506,
+        181,
+        555,
+        204
+      ],
+      "confidence": 0.9999610781669617
+    },
+    {
+      "text": "Merit",
+      "bbox": [
+        549,
+        175,
+        612,
+        204
+      ],
+      "confidence": 0.978860080242157
+    },
+    {
+      "text": "Starting Date:",
+      "bbox": [
+        114,
+        201,
+        241,
+        221
+      ],
+      "confidence": 0.9549283981323242
+    },
+    {
+      "text": "August 1984",
+      "bbox": [
+        244,
+        197,
+        345,
+        221
+      ],
+      "confidence": 0.983856737613678
+    },
+    {
+      "text": "Color",
+      "bbox": [
+        341,
+        247,
+        390,
+        273
+      ],
+      "confidence": 0.9997893571853638
+    },
+    {
+      "text": "Space",
+      "bbox": [
+        151,
+        252,
+        201,
+        275
+      ],
+      "confidence": 0.9996963739395142
+    },
+    {
+      "text": "AdNo.",
+      "bbox": [
+        553,
+        249,
+        608,
+        270
+      ],
+      "confidence": 0.9980222582817078
+    },
+    {
+      "text": "Heading Autwn Fest/Virevorka/8ea Fair/artor Lights",
+      "bbox": [
+        147,
+        266,
+        594,
+        310
+      ],
+      "confidence": 0.9341515898704529
+    },
+    {
+      "text": "Publications Poaters, sasple pack carriers, btpners, letterhead, ate.",
+      "bbox": [
+        150,
+        335,
+        718,
+        369
+      ],
+      "confidence": 0.9419640898704529
+    },
+    {
+      "text": "ART (including photography, drawings,",
+      "bbox": [
+        179,
+        522,
+        452,
+        544
+      ],
+      "confidence": 0.9858337640762329
+    },
+    {
+      "text": "9,003.00",
+      "bbox": [
+        609,
+        522,
+        690,
+        551
+      ],
+      "confidence": 0.9939197301864624
+    },
+    {
+      "text": "lettering, retouching, keyline, etc.).",
+      "bbox": [
+        223,
+        540,
+        458,
+        557
+      ],
+      "confidence": 0.9749603271484375
+    },
+    {
+      "text": "$",
+      "bbox": [
+        566,
+        535,
+        579,
+        552
+      ],
+      "confidence": 0.9999046325683594
+    },
+    {
+      "text": "PRODUCTION",
+      "bbox": [
+        179,
+        566,
+        307,
+        590
+      ],
+      "confidence": 0.9999144673347473
+    },
+    {
+      "text": "$1,900.00",
+      "bbox": [
+        487,
+        592,
+        579,
+        617
+      ],
+      "confidence": 0.9887834191322327
+    },
+    {
+      "text": "Composition..",
+      "bbox": [
+        179,
+        604,
+        274,
+        621
+      ],
+      "confidence": 0.9372910261154175
+    },
+    {
+      "text": "Engraving ..",
+      "bbox": [
+        178,
+        634,
+        263,
+        655
+      ],
+      "confidence": 0.9218392968177795
+    },
+    {
+      "text": "Duplicate Plates.",
+      "bbox": [
+        178,
+        666,
+        298,
+        686
+      ],
+      "confidence": 0.9851510524749756
+    },
+    {
+      "text": "Photostats .",
+      "bbox": [
+        178,
+        700,
+        260,
+        717
+      ],
+      "confidence": 0.9919041991233826
+    },
+    {
+      "text": "Misc.",
+      "bbox": [
+        177,
+        731,
+        220,
+        749
+      ],
+      "confidence": 0.9906821250915527
+    },
+    {
+      "text": "10,000,00",
+      "bbox": [
+        606,
+        754,
+        693,
+        775
+      ],
+      "confidence": 0.9845882058143616
+    },
+    {
+      "text": "ART and PRODUCTION",
+      "bbox": [
+        177,
+        761,
+        385,
+        784
+      ],
+      "confidence": 0.9665935039520264
+    },
+    {
+      "text": ".. SUBTOTAL $",
+      "bbox": [
+        476,
+        760,
+        583,
+        780
+      ],
+      "confidence": 0.9584552049636841
+    },
+    {
+      "text": "Agency Commission",
+      "bbox": [
+        177,
+        789,
+        320,
+        813
+      ],
+      "confidence": 0.9710270166397095
+    },
+    {
+      "text": "1,300.00",
+      "bbox": [
+        616,
+        788,
+        694,
+        809
+      ],
+      "confidence": 0.9573827981948853
+    },
+    {
+      "text": "Packing/Shipping ..",
+      "bbox": [
+        177,
+        821,
+        314,
+        845
+      ],
+      "confidence": 0.9631178975105286
+    },
+    {
+      "text": "2045468111",
+      "bbox": [
+        747,
+        845,
+        787,
+        980
+      ],
+      "confidence": 0.9999564290046692
+    },
+    {
+      "text": "Taxes",
+      "bbox": [
+        178,
+        857,
+        225,
+        875
+      ],
+      "confidence": 0.9999011158943176
+    },
+    {
+      "text": "Date 7/1/1",
+      "bbox": [
+        326,
+        891,
+        496,
+        953
+      ],
+      "confidence": 0.7257317900657654
+    },
+    {
+      "text": "TOTAL $_",
+      "bbox": [
+        509,
+        890,
+        588,
+        914
+      ],
+      "confidence": 0.9593374729156494
+    },
+    {
+      "text": "11,500.00",
+      "bbox": [
+        596,
+        886,
+        684,
+        910
+      ],
+      "confidence": 0.9743333458900452
+    },
+    {
+      "text": "55",
+      "bbox": [
+        171,
+        894,
+        254,
+        937
+      ],
+      "confidence": 0.7417148351669312
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        51,
+        919,
+        128,
+        944
+      ],
+      "confidence": 0.9998158812522888
+    },
+    {
+      "text": "(Client)",
+      "bbox": [
+        211,
+        934,
+        255,
+        954
+      ],
+      "confidence": 0.9370889067649841
+    },
+    {
+      "text": "Remarks:",
+      "bbox": [
+        54,
+        952,
+        123,
+        973
+      ],
+      "confidence": 0.999695897102356
+    }
+  ],
+  "full_text": "EStimate No.\nBepteaber 6, 1984\nDate\nCellateral\nLEO BURNETT U.S.A.\nMedia\nA DIVISION OF LEO BURNETT COMPANY, INC.\n1984\nBudget Year\nJob Number\n62070\nEstimate of Art & Production Cost\nPrint Advertisements and Outdoor\nClient No.\nPHILIP MORRIS INC.\nBrand\nMerit\nStarting Date:\nAugust 1984\nColor\nSpace\nAdNo.\nHeading Autwn Fest/Virevorka/8ea Fair/artor Lights\nPublications Poaters, sasple pack carriers, btpners, letterhead, ate.\nART (including photography, drawings,\n9,003.00\nlettering, retouching, keyline, etc.).\n$\nPRODUCTION\n$1,900.00\nComposition..\nEngraving ..\nDuplicate Plates.\nPhotostats .\nMisc.\n10,000,00\nART and PRODUCTION\n.. SUBTOTAL $\nAgency Commission\n1,300.00\nPacking/Shipping ..\n2045468111\nTaxes\nDate 7/1/1\nTOTAL $_\n11,500.00\n55\nApproved\n(Client)\nRemarks:"
+}

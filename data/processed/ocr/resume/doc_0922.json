@@ -1,0 +1,461 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0922.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Dr. Richard G. Lynch",
+      "bbox": [
+        143,
+        107,
+        262,
+        126
+      ],
+      "confidence": 0.9948062896728516
+    },
+    {
+      "text": "Dr. Richard Lynch rccuived his B.A. degree in Zoology.",
+      "bbox": [
+        146,
+        226,
+        442,
+        245
+      ],
+      "confidence": 0.9711481928825378
+    },
+    {
+      "text": "University of Missouri, and his M.D. degree from the",
+      "bbox": [
+        147,
+        241,
+        426,
+        257
+      ],
+      "confidence": 0.9850620627403259
+    },
+    {
+      "text": "University of Rochester  1966. Fallowing graduation",
+      "bbox": [
+        147,
+        253,
+        437,
+        272
+      ],
+      "confidence": 0.9784964919090271
+    },
+    {
+      "text": "from medical school, Dick joincd cur training program",
+      "bbox": [
+        146,
+        267,
+        435,
+        286
+      ],
+      "confidence": 0.9881688952445984
+    },
+    {
+      "text": "in anatomic and experimenta! pathology. During this",
+      "bbox": [
+        145,
+        283,
+        426,
+        301
+      ],
+      "confidence": 0.996026873588562
+    },
+    {
+      "text": "period of training. Dic became interestd in te fld",
+      "bbox": [
+        144,
+        295,
+        432,
+        318
+      ],
+      "confidence": 0.7185984253883362
+    },
+    {
+      "text": "of cancer immunology. In order to obtair the basic",
+      "bbox": [
+        144,
+        311,
+        414,
+        330
+      ],
+      "confidence": 0.978108823299408
+    },
+    {
+      "text": "expertise required to work in this field, he crained for",
+      "bbox": [
+        143,
+        327,
+        427,
+        345
+      ],
+      "confidence": 0.9835165143013
+    },
+    {
+      "text": "two years under the direction of one of the mosl out-",
+      "bbox": [
+        142,
+        341,
+        425,
+        359
+      ],
+      "confidence": 0.9916713833808899
+    },
+    {
+      "text": "standing immunochemists in the worid—Dr. Herman",
+      "bbox": [
+        142,
+        354,
+        422,
+        374
+      ],
+      "confidence": 0.9552819132804871
+    },
+    {
+      "text": "Eisen. previous Chairman. Deparrment of Microbiology.",
+      "bbox": [
+        143,
+        370,
+        441,
+        390
+      ],
+      "confidence": 0.9734652042388916
+    },
+    {
+      "text": "Washington University Medical School.",
+      "bbox": [
+        142,
+        384,
+        344,
+        402
+      ],
+      "confidence": 0.9611847400665283
+    },
+    {
+      "text": "that immunization of animals with specific myeloma",
+      "bbox": [
+        142,
+        412,
+        415,
+        433
+      ],
+      "confidence": 0.9682267904281616
+    },
+    {
+      "text": "While working with Dr. Eisen, Dick discovered",
+      "bbox": [
+        177,
+        400,
+        420,
+        415
+      ],
+      "confidence": 0.9898666143417358
+    },
+    {
+      "text": "proteins would inhibi: the growth of myelora tumor",
+      "bbox": [
+        142,
+        426,
+        415,
+        448
+      ],
+      "confidence": 0.9504805207252502
+    },
+    {
+      "text": "led to a continuing series of .nvestigations on the",
+      "bbox": [
+        141,
+        456,
+        399,
+        477
+      ],
+      "confidence": 0.9835217595100403
+    },
+    {
+      "text": "mechanism of innibition of growth of the neoplasms in",
+      "bbox": [
+        140,
+        470,
+        427,
+        492
+      ],
+      "confidence": 0.9907194972038269
+    },
+    {
+      "text": "the immunizea animals.",
+      "bbox": [
+        141,
+        488,
+        265,
+        505
+      ],
+      "confidence": 0.9173445105552673
+    },
+    {
+      "text": "In collaborative studies with Dr. Gerald Medoff,",
+      "bbox": [
+        172,
+        500,
+        420,
+        520
+      ],
+      "confidence": 0.9677022099494934
+    },
+    {
+      "text": "Department of Mecicine, Washington University School",
+      "bbox": [
+        139,
+        515,
+        433,
+        534
+      ],
+      "confidence": 0.9714673757553101
+    },
+    {
+      "text": "of Medicine. Dick demons:rated that the antitumor",
+      "bbox": [
+        140,
+        531,
+        402,
+        547
+      ],
+      "confidence": 0.9692550897598267
+    },
+    {
+      "text": "effects of amphotericin B were in part cue to the",
+      "bbox": [
+        139,
+        546,
+        391,
+        562
+      ],
+      "confidence": 0.9888557195663452
+    },
+    {
+      "text": "production of antibodies to the tumor ir the treated",
+      "bbox": [
+        138,
+        557,
+        406,
+        578
+      ],
+      "confidence": 0.9819670915603638
+    },
+    {
+      "text": "animals. These investigations demonstrated that",
+      "bbox": [
+        138,
+        572,
+        389,
+        591
+      ],
+      "confidence": 0.9761009812355042
+    },
+    {
+      "text": "leukemic cells wouid survive in the central nervous",
+      "bbox": [
+        138,
+        585,
+        405,
+        605
+      ],
+      "confidence": 0.9918273687362671
+    },
+    {
+      "text": "system of those animals since tho antibodics could not",
+      "bbox": [
+        137,
+        601,
+        424,
+        619
+      ],
+      "confidence": 0.9653787016868591
+    },
+    {
+      "text": "destroy the tumor cells in this privileged site. This",
+      "bbox": [
+        137,
+        615,
+        397,
+        633
+      ],
+      "confidence": 0.9906395077705383
+    },
+    {
+      "text": "animal model is directly appticable to human leukemias",
+      "bbox": [
+        137,
+        630,
+        426,
+        648
+      ],
+      "confidence": 0.9875754117965698
+    },
+    {
+      "text": "and provides an cxolanatior of this phenomoron in man",
+      "bbox": [
+        138,
+        646,
+        429,
+        661
+      ],
+      "confidence": 0.9705052375793457
+    },
+    {
+      "text": "as well as providing a model to devise a means of",
+      "bbox": [
+        138,
+        660,
+        393,
+        675
+      ],
+      "confidence": 0.9855220317840576
+    },
+    {
+      "text": "eradicatung the necplastic cells remaining in the central",
+      "bbox": [
+        138,
+        674,
+        424,
+        690
+      ],
+      "confidence": 0.9721418619155884
+    },
+    {
+      "text": "nervous system.",
+      "bbox": [
+        139,
+        690,
+        224,
+        706
+      ],
+      "confidence": 0.999474823474884
+    },
+    {
+      "text": "In recent studies. Dick has devekoped techniques",
+      "bbox": [
+        171,
+        704,
+        424,
+        719
+      ],
+      "confidence": 0.9848479628562927
+    },
+    {
+      "text": "which indicate that myeloma tumor cells may uncergo",
+      "bbox": [
+        140,
+        718,
+        415,
+        734
+      ],
+      "confidence": 0.9827420115470886
+    },
+    {
+      "text": "ditferentiation from primitive ce Is to mature cells which",
+      "bbox": [
+        140,
+        731,
+        425,
+        748
+      ],
+      "confidence": 0.9923407435417175
+    },
+    {
+      "text": "produce specific immunoglob lins. These fundarrontal",
+      "bbox": [
+        140,
+        745,
+        420,
+        763
+      ],
+      "confidence": 0.9645957946777344
+    },
+    {
+      "text": "findings are of direct importance in unde'standing the",
+      "bbox": [
+        140,
+        760,
+        414,
+        777
+      ],
+      "confidence": 0.9713507294654846
+    },
+    {
+      "text": "680146140",
+      "bbox": [
+        652,
+        768,
+        687,
+        899
+      ],
+      "confidence": 0.9989479780197144
+    },
+    {
+      "text": "as provic ng animal models tor evaluat ng chemo-",
+      "bbox": [
+        139,
+        787,
+        393,
+        807
+      ],
+      "confidence": 0.9825108051300049
+    },
+    {
+      "text": "growth and development ot human neoplasnns as welt",
+      "bbox": [
+        140,
+        773,
+        413,
+        792
+      ],
+      "confidence": 0.9710598587989807
+    },
+    {
+      "text": "therapeulic agents used in the trealrnent of certa ",
+      "bbox": [
+        138,
+        800,
+        398,
+        821
+      ],
+      "confidence": 0.9708113074302673
+    },
+    {
+      "text": "tumors. Dick is not only an cutstanding scientist. but",
+      "bbox": [
+        138,
+        814,
+        402,
+        836
+      ],
+      "confidence": 0.9768956303596497
+    },
+    {
+      "text": "he is a compassionate teacher who crovides inspiration",
+      "bbox": [
+        138,
+        827,
+        421,
+        850
+      ],
+      "confidence": 0.9875050783157349
+    },
+    {
+      "text": "and leadership for the stucents.",
+      "bbox": [
+        138,
+        846,
+        300,
+        864
+      ],
+      "confidence": 0.9951707124710083
+    }
+  ],
+  "full_text": "Dr. Richard G. Lynch\nDr. Richard Lynch rccuived his B.A. degree in Zoology.\nUniversity of Missouri, and his M.D. degree from the\nUniversity of Rochester  1966. Fallowing graduation\nfrom medical school, Dick joincd cur training program\nin anatomic and experimenta! pathology. During this\nperiod of training. Dic became interestd in te fld\nof cancer immunology. In order to obtair the basic\nexpertise required to work in this field, he crained for\ntwo years under the direction of one of the mosl out-\nstanding immunochemists in the worid—Dr. Herman\nEisen. previous Chairman. Deparrment of Microbiology.\nWashington University Medical School.\nthat immunization of animals with specific myeloma\nWhile working with Dr. Eisen, Dick discovered\nproteins would inhibi: the growth of myelora tumor\nled to a continuing series of .nvestigations on the\nmechanism of innibition of growth of the neoplasms in\nthe immunizea animals.\nIn collaborative studies with Dr. Gerald Medoff,\nDepartment of Mecicine, Washington University School\nof Medicine. Dick demons:rated that the antitumor\neffects of amphotericin B were in part cue to the\nproduction of antibodies to the tumor ir the treated\nanimals. These investigations demonstrated that\nleukemic cells wouid survive in the central nervous\nsystem of those animals since tho antibodics could not\ndestroy the tumor cells in this privileged site. This\nanimal model is directly appticable to human leukemias\nand provides an cxolanatior of this phenomoron in man\nas well as providing a model to devise a means of\neradicatung the necplastic cells remaining in the central\nnervous system.\nIn recent studies. Dick has devekoped techniques\nwhich indicate that myeloma tumor cells may uncergo\nditferentiation from primitive ce Is to mature cells which\nproduce specific immunoglob lins. These fundarrontal\nfindings are of direct importance in unde'standing the\n680146140\nas provic ng animal models tor evaluat ng chemo-\ngrowth and development ot human neoplasnns as welt\ntherapeulic agents used in the trealrnent of certa \ntumors. Dick is not only an cutstanding scientist. but\nhe is a compassionate teacher who crovides inspiration\nand leadership for the stucents."
+}

@@ -1,0 +1,261 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0780.png",
+    "image_width": 781,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard",
+      "bbox": [
+        77,
+        7,
+        345,
+        110
+      ],
+      "confidence": 0.9734885692596436
+    },
+    {
+      "text": "M. A. PETERSON, JR.",
+      "bbox": [
+        82,
+        124,
+        190,
+        142
+      ],
+      "confidence": 0.9608370065689087
+    },
+    {
+      "text": "SENIOR IVICE PRESIDENT. FINANCE",
+      "bbox": [
+        82,
+        135,
+        229,
+        153
+      ],
+      "confidence": 0.954939067363739
+    },
+    {
+      "text": "1212)841-8710",
+      "bbox": [
+        82,
+        146,
+        143,
+        159
+      ],
+      "confidence": 0.915364146232605
+    },
+    {
+      "text": "April 17, 1984",
+      "bbox": [
+        454,
+        210,
+        599,
+        231
+      ],
+      "confidence": 0.9941486120223999
+    },
+    {
+      "text": "Mr. Hans G. Storr",
+      "bbox": [
+        80,
+        331,
+        254,
+        345
+      ],
+      "confidence": 0.9987815618515015
+    },
+    {
+      "text": "Treasurer",
+      "bbox": [
+        80,
+        347,
+        174,
+        361
+      ],
+      "confidence": 0.9998648762702942
+    },
+    {
+      "text": "The Council For Tobacco Research - U.S.A., Inc.",
+      "bbox": [
+        77,
+        357,
+        556,
+        384
+      ],
+      "confidence": 0.9789073467254639
+    },
+    {
+      "text": "900 Third Avenue",
+      "bbox": [
+        78,
+        376,
+        244,
+        394
+      ],
+      "confidence": 0.9991604685783386
+    },
+    {
+      "text": "New York, New York loo22",
+      "bbox": [
+        79,
+        395,
+        323,
+        409
+      ],
+      "confidence": 0.9604477286338806
+    },
+    {
+      "text": "Dear Mr. Storr:",
+      "bbox": [
+        76,
+        424,
+        231,
+        443
+      ],
+      "confidence": 0.9779050946235657
+    },
+    {
+      "text": "In accordance with your letter of April 9, l984, we",
+      "bbox": [
+        127,
+        455,
+        647,
+        479
+      ],
+      "confidence": 0.9907868504524231
+    },
+    {
+      "text": "are enclosing our check in the amount of $75,387.00, payable",
+      "bbox": [
+        76,
+        472,
+        686,
+        496
+      ],
+      "confidence": 0.99434894323349
+    },
+    {
+      "text": "to The Council For Tobacco Research - U.S.A., Inc.",
+      "bbox": [
+        76,
+        488,
+        587,
+        512
+      ],
+      "confidence": 0.9858629107475281
+    },
+    {
+      "text": "This check represents our company's tenth installment",
+      "bbox": [
+        126,
+        523,
+        666,
+        541
+      ],
+      "confidence": 0.9968792200088501
+    },
+    {
+      "text": "of 1983 dues.",
+      "bbox": [
+        78,
+        541,
+        208,
+        554
+      ],
+      "confidence": 0.9592437744140625
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        452,
+        567,
+        559,
+        590
+      ],
+      "confidence": 0.9996392130851746
+    },
+    {
+      "text": "M. A. Peterson, Jr.",
+      "bbox": [
+        452,
+        662,
+        649,
+        680
+      ],
+      "confidence": 0.955028235912323
+    },
+    {
+      "text": "MAP:bd",
+      "bbox": [
+        77,
+        677,
+        140,
+        695
+      ],
+      "confidence": 0.9848368763923645
+    },
+    {
+      "text": "enc. Check #4378",
+      "bbox": [
+        78,
+        695,
+        242,
+        709
+      ],
+      "confidence": 0.9906774759292603
+    },
+    {
+      "text": "cc: Mr. A. J. Stevens",
+      "bbox": [
+        78,
+        723,
+        296,
+        741
+      ],
+      "confidence": 0.988165020942688
+    },
+    {
+      "text": "Mr. P. J. Marzullo",
+      "bbox": [
+        116,
+        738,
+        304,
+        756
+      ],
+      "confidence": 0.9680197238922119
+    },
+    {
+      "text": "86016374",
+      "bbox": [
+        731,
+        772,
+        768,
+        881
+      ],
+      "confidence": 0.9998245239257812
+    },
+    {
+      "text": "A DIVISION OF LOEW'S THEATRES. INC.",
+      "bbox": [
+        64,
+        931,
+        247,
+        952
+      ],
+      "confidence": 0.9628839492797852
+    },
+    {
+      "text": "666 Filth Avenue, Neew York, New York 10019",
+      "bbox": [
+        64,
+        946,
+        265,
+        969
+      ],
+      "confidence": 0.933978259563446
+    }
+  ],
+  "full_text": "Lorillard\nM. A. PETERSON, JR.\nSENIOR IVICE PRESIDENT. FINANCE\n1212)841-8710\nApril 17, 1984\nMr. Hans G. Storr\nTreasurer\nThe Council For Tobacco Research - U.S.A., Inc.\n900 Third Avenue\nNew York, New York loo22\nDear Mr. Storr:\nIn accordance with your letter of April 9, l984, we\nare enclosing our check in the amount of $75,387.00, payable\nto The Council For Tobacco Research - U.S.A., Inc.\nThis check represents our company's tenth installment\nof 1983 dues.\nSincerely,\nM. A. Peterson, Jr.\nMAP:bd\nenc. Check #4378\ncc: Mr. A. J. Stevens\nMr. P. J. Marzullo\n86016374\nA DIVISION OF LOEW'S THEATRES. INC.\n666 Filth Avenue, Neew York, New York 10019"
+}

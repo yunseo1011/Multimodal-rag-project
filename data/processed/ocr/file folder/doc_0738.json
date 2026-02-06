@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0738.png",
+    "image_width": 795,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2044686286",
+      "bbox": [
+        76,
+        636,
+        177,
+        653
+      ],
+      "confidence": 0.99982088804245
+    },
+    {
+      "text": "Labils",
+      "bbox": [
+        585,
+        703,
+        707,
+        751
+      ],
+      "confidence": 0.894027054309845
+    }
+  ],
+  "full_text": "2044686286\nLabils"
+}

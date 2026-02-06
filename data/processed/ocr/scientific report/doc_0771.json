@@ -1,0 +1,561 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0771.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PROJECT NUMBER:",
+      "bbox": [
+        94,
+        92,
+        222,
+        110
+      ],
+      "confidence": 0.928582489490509
+    },
+    {
+      "text": "1101",
+      "bbox": [
+        249,
+        89,
+        288,
+        107
+      ],
+      "confidence": 0.99858558177948
+    },
+    {
+      "text": "PROJECT TITLE:",
+      "bbox": [
+        95,
+        110,
+        213,
+        124
+      ],
+      "confidence": 0.9949202537536621
+    },
+    {
+      "text": "Entomological Research",
+      "bbox": [
+        249,
+        105,
+        430,
+        123
+      ],
+      "confidence": 0.9992859363555908
+    },
+    {
+      "text": "PROJECT LEADER:",
+      "bbox": [
+        93,
+        123,
+        222,
+        141
+      ],
+      "confidence": 0.9600820541381836
+    },
+    {
+      "text": "D. L. Faustini",
+      "bbox": [
+        249,
+        121,
+        364,
+        137
+      ],
+      "confidence": 0.9982821345329285
+    },
+    {
+      "text": "WRITTEN BY:",
+      "bbox": [
+        95,
+        140,
+        188,
+        154
+      ],
+      "confidence": 0.9966316223144531
+    },
+    {
+      "text": "L. Ryan",
+      "bbox": [
+        249,
+        138,
+        312,
+        155
+      ],
+      "confidence": 0.9994698762893677
+    },
+    {
+      "text": "PERIOD COVERED:",
+      "bbox": [
+        93,
+        154,
+        221,
+        172
+      ],
+      "confidence": 0.9981449246406555
+    },
+    {
+      "text": "March, 1989",
+      "bbox": [
+        248,
+        150,
+        342,
+        171
+      ],
+      "confidence": 0.9964215755462646
+    },
+    {
+      "text": "I.",
+      "bbox": [
+        110,
+        205,
+        132,
+        219
+      ],
+      "confidence": 0.9897024035453796
+    },
+    {
+      "text": "ECOLOGX",
+      "bbox": [
+        139,
+        203,
+        204,
+        220
+      ],
+      "confidence": 0.8599687814712524
+    },
+    {
+      "text": "Obiective: Relate cigarette beetle (CB) ecology to the tobacco",
+      "bbox": [
+        170,
+        229,
+        684,
+        250
+      ],
+      "confidence": 0.9764717221260071
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        143,
+        235,
+        161,
+        246
+      ],
+      "confidence": 0.833907425403595
+    },
+    {
+      "text": "process and CB control.",
+      "bbox": [
+        172,
+        244,
+        362,
+        265
+      ],
+      "confidence": 0.9898044466972351
+    },
+    {
+      "text": ":Ragulta: The installation of a CB monitoring program in Brazil",
+      "bbox": [
+        150,
+        274,
+        683,
+        295
+      ],
+      "confidence": 0.9703424572944641
+    },
+    {
+      "text": "'under the auspices of Tobaccos Brasileiros and PM Brazil was",
+      "bbox": [
+        159,
+        289,
+        659,
+        312
+      ],
+      "confidence": 0.9844187498092651
+    },
+    {
+      "text": "reported (1).",
+      "bbox": [
+        173,
+        307,
+        282,
+        325
+      ],
+      "confidence": 0.9954100847244263
+    },
+    {
+      "text": "Plana: Continue studies, submit a proposal for the 1989 season,",
+      "bbox": [
+        167,
+        335,
+        684,
+        358
+      ],
+      "confidence": 0.9857602715492249
+    },
+    {
+      "text": "c.",
+      "bbox": [
+        140,
+        339,
+        160,
+        355
+      ],
+      "confidence": 0.997780978679657
+    },
+    {
+      "text": "and relate results from ongoing studies to current CB control",
+      "bbox": [
+        170,
+        352,
+        663,
+        372
+      ],
+      "confidence": 0.9776857495307922
+    },
+    {
+      "text": "programs",
+      "bbox": [
+        170,
+        364,
+        269,
+        388
+      ],
+      "confidence": 0.998664140701294
+    },
+    {
+      "text": "F",
+      "bbox": [
+        276,
+        379,
+        313,
+        417
+      ],
+      "confidence": 0.9973247051239014
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        139,
+        400,
+        162,
+        416
+      ],
+      "confidence": 0.9978892803192139
+    },
+    {
+      "text": "Baferencas:",
+      "bbox": [
+        168,
+        398,
+        266,
+        417
+      ],
+      "confidence": 0.843245267868042
+    },
+    {
+      "text": "1. Ryan, L. Report!on Visit to Brazil, January 8-14, 1989. Memo",
+      "bbox": [
+        170,
+        428,
+        699,
+        450
+      ],
+      "confidence": 0.9720262289047241
+    },
+    {
+      "text": "to F. Johnson; 1989 February 14.",
+      "bbox": [
+        204,
+        446,
+        461,
+        463
+      ],
+      "confidence": 0.9783859252929688
+    },
+    {
+      "text": "II.",
+      "bbox": [
+        97,
+        493,
+        126,
+        508
+      ],
+      "confidence": 0.9858309626579285
+    },
+    {
+      "text": "PURIGATION",
+      "bbox": [
+        134,
+        490,
+        225,
+        509
+      ],
+      "confidence": 0.916237473487854
+    },
+    {
+      "text": "\"mive",
+      "bbox": [
+        425,
+        491,
+        449,
+        506
+      ],
+      "confidence": 0.6918291449546814
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        139,
+        525,
+        157,
+        537
+      ],
+      "confidence": 0.7797749638557434
+    },
+    {
+      "text": "Obiective: Investigate the use of controlled atmospheres to",
+      "bbox": [
+        169,
+        521,
+        652,
+        538
+      ],
+      "confidence": 0.9712799787521362
+    },
+    {
+      "text": "fumigate tobacco.",
+      "bbox": [
+        172,
+        538,
+        310,
+        552
+      ],
+      "confidence": 0.9988014101982117
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        138,
+        569,
+        157,
+        582
+      ],
+      "confidence": 0.95186448097229
+    },
+    {
+      "text": "Regultz: The third field trial where 7 warehôuses were treated",
+      "bbox": [
+        168,
+        566,
+        677,
+        583
+      ],
+      "confidence": 0.949566125869751
+    },
+    {
+      "text": "with 4o% Co, for 8 days were reported. These fumigation param-",
+      "bbox": [
+        169,
+        579,
+        675,
+        600
+      ],
+      "confidence": 0.9699739217758179
+    },
+    {
+      "text": "eters with a tobacco temperature >80° resulted in l0os CB",
+      "bbox": [
+        169,
+        596,
+        637,
+        613
+      ],
+      "confidence": 0.9717780947685242
+    },
+    {
+      "text": "mortality (l,2).",
+      "bbox": [
+        169,
+        612,
+        300,
+        626
+      ],
+      "confidence": 0.95382159948349
+    },
+    {
+      "text": "Potential alternatives for methyl bromide fumigation to obtain",
+      "bbox": [
+        170,
+        641,
+        666,
+        655
+      ],
+      "confidence": 0.9900239109992981
+    },
+    {
+      "text": "phytosanitary certification for export cut filler were addressed",
+      "bbox": [
+        168,
+        655,
+        683,
+        673
+      ],
+      "confidence": 0.9883089661598206
+    },
+    {
+      "text": "(3).",
+      "bbox": [
+        170,
+        671,
+        207,
+        690
+      ],
+      "confidence": 0.867129385471344
+    },
+    {
+      "text": "c.",
+      "bbox": [
+        137,
+        703,
+        155,
+        716
+      ],
+      "confidence": 0.9993389844894409
+    },
+    {
+      "text": "Plang: Replace methyl bromide with an acceptable alternative and",
+      "bbox": [
+        167,
+        701,
+        691,
+        718
+      ],
+      "confidence": 0.9819785356521606
+    },
+    {
+      "text": "investigate the use of cO, on a small-scale.",
+      "bbox": [
+        170,
+        717,
+        521,
+        731
+      ],
+      "confidence": 0.9882622361183167
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        135,
+        745,
+        157,
+        761
+      ],
+      "confidence": 0.9988921284675598
+    },
+    {
+      "text": "References:",
+      "bbox": [
+        169,
+        747,
+        260,
+        761
+      ],
+      "confidence": 0.8921123147010803
+    },
+    {
+      "text": "2022172413",
+      "bbox": [
+        756,
+        754,
+        776,
+        904
+      ],
+      "confidence": 0.9957118034362793
+    },
+    {
+      "text": "Ryan, L., Lehman, R. and Faustini, D. L. 1989. The Applica-",
+      "bbox": [
+        198,
+        772,
+        691,
+        790
+      ],
+      "confidence": 0.9956793785095215
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        169,
+        776,
+        189,
+        788
+      ],
+      "confidence": 0.9562918543815613
+    },
+    {
+      "text": "tion of Carbon Dioxide to Control Cigarette Beetles in Bulk",
+      "bbox": [
+        201,
+        787,
+        676,
+        805
+      ],
+      "confidence": 0.9946936964988708
+    },
+    {
+      "text": "Storage Warehouses - Third Trials. Completion Report 89-0l5.",
+      "bbox": [
+        201,
+        803,
+        689,
+        820
+      ],
+      "confidence": 0.9723911285400391
+    },
+    {
+      "text": "2. Ryan, L. and Faustini, D. L. CO, Fumigation of Tobacco",
+      "bbox": [
+        169,
+        836,
+        643,
+        850
+      ],
+      "confidence": 0.9908697605133057
+    },
+    {
+      "text": "Warehouses - USDa's Acknowledgment of PM's Priority. Memo to",
+      "bbox": [
+        201,
+        851,
+        690,
+        864
+      ],
+      "confidence": 0.9819440841674805
+    },
+    {
+      "text": "C. K. Ellis; 1989 February 28.",
+      "bbox": [
+        201,
+        865,
+        443,
+        879
+      ],
+      "confidence": 0.981866180896759
+    },
+    {
+      "text": "39",
+      "bbox": [
+        382,
+        942,
+        405,
+        959
+      ],
+      "confidence": 0.9999380707740784
+    }
+  ],
+  "full_text": "PROJECT NUMBER:\n1101\nPROJECT TITLE:\nEntomological Research\nPROJECT LEADER:\nD. L. Faustini\nWRITTEN BY:\nL. Ryan\nPERIOD COVERED:\nMarch, 1989\nI.\nECOLOGX\nObiective: Relate cigarette beetle (CB) ecology to the tobacco\nA.\nprocess and CB control.\n:Ragulta: The installation of a CB monitoring program in Brazil\n'under the auspices of Tobaccos Brasileiros and PM Brazil was\nreported (1).\nPlana: Continue studies, submit a proposal for the 1989 season,\nc.\nand relate results from ongoing studies to current CB control\nprograms\nF\nD.\nBaferencas:\n1. Ryan, L. Report!on Visit to Brazil, January 8-14, 1989. Memo\nto F. Johnson; 1989 February 14.\nII.\nPURIGATION\n\"mive\nA.\nObiective: Investigate the use of controlled atmospheres to\nfumigate tobacco.\nB.\nRegultz: The third field trial where 7 warehôuses were treated\nwith 4o% Co, for 8 days were reported. These fumigation param-\neters with a tobacco temperature >80° resulted in l0os CB\nmortality (l,2).\nPotential alternatives for methyl bromide fumigation to obtain\nphytosanitary certification for export cut filler were addressed\n(3).\nc.\nPlang: Replace methyl bromide with an acceptable alternative and\ninvestigate the use of cO, on a small-scale.\nD.\nReferences:\n2022172413\nRyan, L., Lehman, R. and Faustini, D. L. 1989. The Applica-\n1.\ntion of Carbon Dioxide to Control Cigarette Beetles in Bulk\nStorage Warehouses - Third Trials. Completion Report 89-0l5.\n2. Ryan, L. and Faustini, D. L. CO, Fumigation of Tobacco\nWarehouses - USDa's Acknowledgment of PM's Priority. Memo to\nC. K. Ellis; 1989 February 28.\n39"
+}

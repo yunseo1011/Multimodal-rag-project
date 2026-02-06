@@ -1,0 +1,1331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0606.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "23-AUG-1995 13:14",
+      "bbox": [
+        3,
+        10,
+        146,
+        34
+      ],
+      "confidence": 0.9955511689186096
+    },
+    {
+      "text": "P.017/018",
+      "bbox": [
+        624,
+        31,
+        712,
+        55
+      ],
+      "confidence": 0.9990168809890747
+    },
+    {
+      "text": "The Times, 18th August 1995, Page 15, Editorial",
+      "bbox": [
+        59,
+        102,
+        371,
+        126
+      ],
+      "confidence": 0.9915747046470642
+    },
+    {
+      "text": "FAG END",
+      "bbox": [
+        214,
+        132,
+        339,
+        159
+      ],
+      "confidence": 0.9974218010902405
+    },
+    {
+      "text": "Cigarettes attack the hearts of the young",
+      "bbox": [
+        135,
+        167,
+        416,
+        191
+      ],
+      "confidence": 0.9845564365386963
+    },
+    {
+      "text": "Even the mostdedicated-libertarian is",
+      "bbox": [
+        42,
+        196,
+        286,
+        216
+      ],
+      "confidence": 0.9677658081054688
+    },
+    {
+      "text": "proved. banning",
+      "bbox": [
+        279,
+        199,
+        369,
+        213
+      ],
+      "confidence": 0.9699267745018005
+    },
+    {
+      "text": "substince enjoyed by",
+      "bbox": [
+        377,
+        195,
+        501,
+        212
+      ],
+      "confidence": 0.9492295384407043
+    },
+    {
+      "text": "fndnincreasingy dificul to fnd  good",
+      "bbox": [
+        41,
+        206,
+        273,
+        229
+      ],
+      "confidence": 0.6286244988441467
+    },
+    {
+      "text": "i millions is simply a method for multiplying",
+      "bbox": [
+        263,
+        207,
+        502,
+        226
+      ],
+      "confidence": 0.9637038111686707
+    },
+    {
+      "text": "word to",
+      "bbox": [
+        43,
+        220,
+        101,
+        238
+      ],
+      "confidence": 0.9805453419685364
+    },
+    {
+      "text": "say",
+      "bbox": [
+        97,
+        226,
+        124,
+        237
+      ],
+      "confidence": 0.9998865127563477
+    },
+    {
+      "text": "for cigaretids. Ihe",
+      "bbox": [
+        125,
+        223,
+        236,
+        238
+      ],
+      "confidence": 0.9409184455871582
+    },
+    {
+      "text": "\"latest",
+      "bbox": [
+        231,
+        224,
+        269,
+        235
+      ],
+      "confidence": 0.8477621674537659
+    },
+    {
+      "text": "the criminal classes",
+      "bbox": [
+        280,
+        221,
+        383,
+        236
+      ],
+      "confidence": 0.9946807622909546
+    },
+    {
+      "text": "and prbviding a source",
+      "bbox": [
+        376,
+        218,
+        501,
+        235
+      ],
+      "confidence": 0.9868353009223938
+    },
+    {
+      "text": "attack survivors ever carried out in Britain,.",
+      "bbox": [
+        43,
+        245,
+        285,
+        262
+      ],
+      "confidence": 0.9741883277893066
+    },
+    {
+      "text": "habit",
+      "bbox": [
+        280,
+        247,
+        310,
+        258
+      ],
+      "confidence": 0.9952863454818726
+    },
+    {
+      "text": "as smdiing may be. there are no",
+      "bbox": [
+        308,
+        241,
+        503,
+        261
+      ],
+      "confidence": 0.9228123426437378
+    },
+    {
+      "text": "shows that the middle aged multiply",
+      "bbox": [
+        42,
+        255,
+        244,
+        273
+      ],
+      "confidence": 0.9792463183403015
+    },
+    {
+      "text": "their",
+      "bbox": [
+        238,
+        256,
+        285,
+        272
+      ],
+      "confidence": 0.940508246421814
+    },
+    {
+      "text": "grounds for making it a crimkinal",
+      "bbox": [
+        279,
+        253,
+        463,
+        273
+      ],
+      "confidence": 0.9507561922073364
+    },
+    {
+      "text": "offence.",
+      "bbox": [
+        458,
+        255,
+        500,
+        266
+      ],
+      "confidence": 0.9932805299758911
+    },
+    {
+      "text": "risks five-fold by smoking. Add",
+      "bbox": [
+        42,
+        266,
+        213,
+        287
+      ],
+      "confidence": 0.9898665547370911
+    },
+    {
+      "text": "with lungpersuasive evidence thas smoking damages",
+      "bbox": [
+        209,
+        275,
+        503,
+        297
+      ],
+      "confidence": 0.9646265506744385
+    },
+    {
+      "text": "to that",
+      "bbox": [
+        211,
+        271,
+        253,
+        282
+      ],
+      "confidence": 0.9644494652748108
+    },
+    {
+      "text": "the",
+      "bbox": [
+        248,
+        269,
+        288,
+        283
+      ],
+      "confidence": 0.8911121487617493
+    },
+    {
+      "text": "The!only possible justification would",
+      "bbox": [
+        280,
+        263,
+        485,
+        284
+      ],
+      "confidence": 0.9438305497169495
+    },
+    {
+      "text": "be",
+      "bbox": [
+        486,
+        266,
+        501,
+        278
+      ],
+      "confidence": 0.9999070763587952
+    },
+    {
+      "text": "cancer, and the increased",
+      "bbox": [
+        41,
+        290,
+        202,
+        311
+      ],
+      "confidence": 0.9648841619491577
+    },
+    {
+      "text": "iready well-established links",
+      "bbox": [
+        42,
+        278,
+        213,
+        297
+      ],
+      "confidence": 0.8544355034828186
+    },
+    {
+      "text": "thet health",
+      "bbox": [
+        281,
+        292,
+        339,
+        306
+      ],
+      "confidence": 0.914292573928833
+    },
+    {
+      "text": "of-innocent bystanders. So.far.",
+      "bbox": [
+        335,
+        288,
+        502,
+        306
+      ],
+      "confidence": 0.9817926287651062
+    },
+    {
+      "text": "respiratory disease among the, children",
+      "bbox": [
+        44,
+        305,
+        256,
+        320
+      ],
+      "confidence": 0.9813975691795349
+    },
+    {
+      "text": "of",
+      "bbox": [
+        257,
+        295,
+        268,
+        305
+      ],
+      "confidence": 0.9994717836380005
+    },
+    {
+      "text": "studies",
+      "bbox": [
+        284,
+        306,
+        319,
+        318
+      ],
+      "confidence": 0.9992545247077942
+    },
+    {
+      "text": "of",
+      "bbox": [
+        323,
+        307,
+        336,
+        317
+      ],
+      "confidence": 0.9979390501976013
+    },
+    {
+      "text": "passive",
+      "bbox": [
+        338,
+        305,
+        376,
+        317
+      ],
+      "confidence": 0.9981812238693237
+    },
+    {
+      "text": "smioking",
+      "bbox": [
+        376,
+        304,
+        424,
+        316
+      ],
+      "confidence": 0.9600339531898499
+    },
+    {
+      "text": "have-failed.to",
+      "bbox": [
+        423,
+        299,
+        503,
+        317
+      ],
+      "confidence": 0.9952594637870789
+    },
+    {
+      "text": "smokers, and it becomes",
+      "bbox": [
+        43,
+        314,
+        174,
+        333
+      ],
+      "confidence": 0.9431244134902954
+    },
+    {
+      "text": "diticult to produce",
+      "bbox": [
+        170,
+        316,
+        269,
+        332
+      ],
+      "confidence": 0.9489299654960632
+    },
+    {
+      "text": "ol",
+      "bbox": [
+        257,
+        308,
+        267,
+        317
+      ],
+      "confidence": 0.733551561832428
+    },
+    {
+      "text": "provide that evidence. Wives. husbands, and",
+      "bbox": [
+        281,
+        311,
+        504,
+        331
+      ],
+      "confidence": 0.9763215780258179
+    },
+    {
+      "text": "be injured by the activities of a",
+      "bbox": [
+        346,
+        321,
+        506,
+        344
+      ],
+      "confidence": 0.987523078918457
+    },
+    {
+      "text": "any worthwtile defence for the practice.",
+      "bbox": [
+        44,
+        329,
+        250,
+        343
+      ],
+      "confidence": 0.9662493467330933
+    },
+    {
+      "text": "children may",
+      "bbox": [
+        283,
+        328,
+        351,
+        342
+      ],
+      "confidence": 0.9704184532165527
+    },
+    {
+      "text": "home, but emoiing",
+      "bbox": [
+        349,
+        337,
+        457,
+        352
+      ],
+      "confidence": 0.8867339491844177
+    },
+    {
+      "text": "inr public:",
+      "bbox": [
+        453,
+        334,
+        507,
+        350
+      ],
+      "confidence": 0.8828109502792358
+    },
+    {
+      "text": "Yet sixtteen million",
+      "bbox": [
+        56,
+        338,
+        174,
+        354
+      ],
+      "confidence": 0.970721423625946
+    },
+    {
+      "text": "people. in'",
+      "bbox": [
+        171,
+        342,
+        234,
+        353
+      ],
+      "confidence": 0.9124048352241516
+    },
+    {
+      "text": "Britain",
+      "bbox": [
+        232,
+        341,
+        269,
+        352
+      ],
+      "confidence": 0.9964599013328552
+    },
+    {
+      "text": "heaith",
+      "bbox": [
+        233,
+        351,
+        269,
+        365
+      ],
+      "confidence": 0.9728827476501465
+    },
+    {
+      "text": "smoker",
+      "bbox": [
+        283,
+        341,
+        322,
+        352
+      ],
+      "confidence": 0.9458922743797302
+    },
+    {
+      "text": "in the",
+      "bbox": [
+        323,
+        340,
+        353,
+        351
+      ],
+      "confidence": 0.9969552159309387
+    },
+    {
+      "text": "the",
+      "bbox": [
+        365,
+        351,
+        385,
+        362
+      ],
+      "confidence": 0.9996013641357422
+    },
+    {
+      "text": "wotkplace has not been",
+      "bbox": [
+        381,
+        346,
+        505,
+        363
+      ],
+      "confidence": 0.9827257394790649
+    },
+    {
+      "text": "warnings nor the-high",
+      "bbox": [
+        44,
+        362,
+        177,
+        378
+      ],
+      "confidence": 0.9879581928253174
+    },
+    {
+      "text": "continue-to'",
+      "bbox": [
+        46,
+        353,
+        112,
+        364
+      ],
+      "confidence": 0.9748900532722473
+    },
+    {
+      "text": "sracke. and",
+      "bbox": [
+        108,
+        354,
+        175,
+        365
+      ],
+      "confidence": 0.933143675327301
+    },
+    {
+      "text": "price, of cigarettes",
+      "bbox": [
+        170,
+        363,
+        269,
+        378
+      ],
+      "confidence": 0.9660102725028992
+    },
+    {
+      "text": "neither",
+      "bbox": [
+        173,
+        354,
+        215,
+        364
+      ],
+      "confidence": 0.998455822467804
+    },
+    {
+      "text": "the",
+      "bbox": [
+        215,
+        355,
+        234,
+        363
+      ],
+      "confidence": 0.9999105334281921
+    },
+    {
+      "text": "shown",
+      "bbox": [
+        284,
+        365,
+        318,
+        376
+      ],
+      "confidence": 0.9950428009033203
+    },
+    {
+      "text": "i unequivocally",
+      "bbox": [
+        314,
+        361,
+        392,
+        376
+      ],
+      "confidence": 0.9444633722305298
+    },
+    {
+      "text": "dangerous.",
+      "bbox": [
+        417,
+        362,
+        478,
+        373
+      ],
+      "confidence": 0.9660214185714722
+    },
+    {
+      "text": "save",
+      "bbox": [
+        479,
+        361,
+        505,
+        372
+      ],
+      "confidence": 0.9993011355400085
+    },
+    {
+      "text": "seem to deter the young. who are taking",
+      "bbox": [
+        44,
+        375,
+        258,
+        392
+      ],
+      "confidence": 0.985348641872406
+    },
+    {
+      "text": "to",
+      "bbox": [
+        257,
+        378,
+        267,
+        387
+      ],
+      "confidence": 0.959206759929657
+    },
+    {
+      "text": "to the smoker. I",
+      "bbox": [
+        281,
+        373,
+        362,
+        390
+      ],
+      "confidence": 0.9626593589782715
+    },
+    {
+      "text": "Ifsmoking",
+      "bbox": [
+        357,
+        373,
+        419,
+        387
+      ],
+      "confidence": 0.9918244481086731
+    },
+    {
+      "text": "legal. banning",
+      "bbox": [
+        426,
+        372,
+        505,
+        386
+      ],
+      "confidence": 0.9544767141342163
+    },
+    {
+      "text": "tobacco in increasing numbers. If the facts",
+      "bbox": [
+        44,
+        385,
+        271,
+        403
+      ],
+      "confidence": 0.9485703110694885
+    },
+    {
+      "text": "the advertising ofc",
+      "bbox": [
+        281,
+        385,
+        388,
+        401
+      ],
+      "confidence": 0.9405510425567627
+    },
+    {
+      "text": "infringement off",
+      "bbox": [
+        352,
+        396,
+        442,
+        411
+      ],
+      "confidence": 0.978370726108551
+    },
+    {
+      "text": "be speech",
+      "bbox": [
+        448,
+        397,
+        495,
+        408
+      ],
+      "confidence": 0.9023082256317139
+    },
+    {
+      "text": "be",
+      "bbox": [
+        471,
+        386,
+        488,
+        397
+      ],
+      "confidence": 0.9998387098312378
+    },
+    {
+      "text": "an",
+      "bbox": [
+        492,
+        387,
+        504,
+        396
+      ],
+      "confidence": 0.99535071849823
+    },
+    {
+      "text": "alone had the",
+      "bbox": [
+        44,
+        398,
+        129,
+        413
+      ],
+      "confidence": 0.9973404407501221
+    },
+    {
+      "text": "from their habit. we might.by now have",
+      "bbox": [
+        44,
+        408,
+        272,
+        427
+      ],
+      "confidence": 0.9783425331115723
+    },
+    {
+      "text": "power to liberate-smokers",
+      "bbox": [
+        126,
+        399,
+        270,
+        414
+      ],
+      "confidence": 0.9643229842185974
+    },
+    {
+      "text": "insupportable",
+      "bbox": [
+        285,
+        400,
+        357,
+        411
+      ],
+      "confidence": 0.9976306557655334
+    },
+    {
+      "text": "Unpalatable as it-may",
+      "bbox": [
+        293,
+        408,
+        415,
+        424
+      ],
+      "confidence": 0.9742417335510254
+    },
+    {
+      "text": "the Health",
+      "bbox": [
+        448,
+        406,
+        508,
+        423
+      ],
+      "confidence": 0.9761274456977844
+    },
+    {
+      "text": "expected to see more impresiive results. The",
+      "bbox": [
+        46,
+        423,
+        272,
+        438
+      ],
+      "confidence": 0.9653748869895935
+    },
+    {
+      "text": ". Education Authority and other campaigners",
+      "bbox": [
+        279,
+        419,
+        508,
+        436
+      ],
+      "confidence": 0.9593616127967834
+    },
+    {
+      "text": ";",
+      "bbox": [
+        280,
+        414,
+        292,
+        422
+      ],
+      "confidence": 0.7110006809234619
+    },
+    {
+      "text": "temptation ' of. government",
+      "bbox": [
+        46,
+        435,
+        199,
+        449
+      ],
+      "confidence": 0.9259728193283081
+    },
+    {
+      "text": "is to move",
+      "bbox": [
+        198,
+        433,
+        273,
+        449
+      ],
+      "confidence": 0.9518235921859741
+    },
+    {
+      "text": "for",
+      "bbox": [
+        285,
+        435,
+        306,
+        447
+      ],
+      "confidence": 0.9998753070831299
+    },
+    {
+      "text": "healthy.livingsmoiking:",
+      "bbox": [
+        301,
+        430,
+        440,
+        449
+      ],
+      "confidence": 0.9341990351676941
+    },
+    {
+      "text": "discretion: Non-smokers",
+      "bbox": [
+        373,
+        441,
+        510,
+        458
+      ],
+      "confidence": 0.9654611349105835
+    },
+    {
+      "text": "falls",
+      "bbox": [
+        436,
+        433,
+        463,
+        445
+      ],
+      "confidence": 0.945147693157196
+    },
+    {
+      "text": "ino the",
+      "bbox": [
+        461,
+        432,
+        508,
+        444
+      ],
+      "confidence": 0.9732943177223206
+    },
+    {
+      "text": "smoking in public places and forbidding",
+      "bbox": [
+        43,
+        456,
+        254,
+        474
+      ],
+      "confidence": 0.9794010519981384
+    },
+    {
+      "text": "towards more decisive action:",
+      "bbox": [
+        46,
+        447,
+        221,
+        461
+      ],
+      "confidence": 0.9758384227752686
+    },
+    {
+      "text": "baruning",
+      "bbox": [
+        227,
+        448,
+        270,
+        459
+      ],
+      "confidence": 0.9615910053253174
+    },
+    {
+      "text": "may",
+      "bbox": [
+        284,
+        457,
+        309,
+        472
+      ],
+      "confidence": 0.999833345413208
+    },
+    {
+      "text": "area",
+      "bbox": [
+        285,
+        447,
+        310,
+        458
+      ],
+      "confidence": 0.9993276596069336
+    },
+    {
+      "text": "deem the habit dirty. dangerous: and.",
+      "bbox": [
+        311,
+        454,
+        511,
+        472
+      ],
+      "confidence": 0.9794296026229858
+    },
+    {
+      "text": "of",
+      "bbox": [
+        313,
+        448,
+        325,
+        457
+      ],
+      "confidence": 0.9976347088813782
+    },
+    {
+      "text": "personal",
+      "bbox": [
+        328,
+        443,
+        380,
+        460
+      ],
+      "confidence": 0.9979766607284546
+    },
+    {
+      "text": "advertising of cigareties, for exartiple",
+      "bbox": [
+        45,
+        470,
+        251,
+        484
+      ],
+      "confidence": 0.9801343679428101
+    },
+    {
+      "text": "expensive.",
+      "bbox": [
+        287,
+        471,
+        340,
+        482
+      ],
+      "confidence": 0.9994862675666809
+    },
+    {
+      "text": "but smokers have the right to live",
+      "bbox": [
+        333,
+        464,
+        513,
+        484
+      ],
+      "confidence": 0.9901028871536255
+    },
+    {
+      "text": "In the United, States, President Clinton",
+      "bbox": [
+        57,
+        480,
+        272,
+        495
+      ],
+      "confidence": 0.9747887849807739
+    },
+    {
+      "text": "their",
+      "bbox": [
+        286,
+        482,
+        312,
+        493
+      ],
+      "confidence": 0.9996551275253296
+    },
+    {
+      "text": "own",
+      "bbox": [
+        313,
+        483,
+        338,
+        492
+      ],
+      "confidence": 0.9917492866516113
+    },
+    {
+      "text": "lives, and hasten their deaths, in",
+      "bbox": [
+        332,
+        475,
+        513,
+        495
+      ],
+      "confidence": 0.9630804657936096
+    },
+    {
+      "text": "has followed a 'different tack declaring",
+      "bbox": [
+        42,
+        491,
+        273,
+        509
+      ],
+      "confidence": 0.97967129945755
+    },
+    {
+      "text": "-may be consoled by the thought that while",
+      "bbox": [
+        283,
+        499,
+        514,
+        519
+      ],
+      "confidence": 0.9855222105979919
+    },
+    {
+      "text": "whatever way they choose. In doing so. they",
+      "bbox": [
+        284,
+        488,
+        513,
+        507
+      ],
+      "confidence": 0.9802243709564209
+    },
+    {
+      "text": "nicotine to be a drug and thereby bringing it",
+      "bbox": [
+        43,
+        503,
+        274,
+        521
+      ],
+      "confidence": 0.9954665303230286
+    },
+    {
+      "text": "within the authority of the Food wand Drug",
+      "bbox": [
+        43,
+        514,
+        275,
+        533
+      ],
+      "confidence": 0.9625487327575684
+    },
+    {
+      "text": "-the tax on tobacco contributes. £9 billonto.",
+      "bbox": [
+        282,
+        511,
+        515,
+        531
+      ],
+      "confidence": 0.8372154831886292
+    },
+    {
+      "text": "Administration. The FDA is to stop the sale-",
+      "bbox": [
+        43,
+        527,
+        275,
+        543
+      ],
+      "confidence": 0.9664728045463562
+    },
+    {
+      "text": "the Treasury. the cost of treating smoiing",
+      "bbox": [
+        283,
+        522,
+        514,
+        542
+      ],
+      "confidence": 0.9517836570739746
+    },
+    {
+      "text": "of cigaretes from vending machines:tighten",
+      "bbox": [
+        42,
+        537,
+        276,
+        557
+      ],
+      "confidence": 0.9575956463813782
+    },
+    {
+      "text": "related diseases is a mere £610 million. We",
+      "bbox": [
+        284,
+        534,
+        516,
+        555
+      ],
+      "confidence": 0.9508127570152283
+    },
+    {
+      "text": "may hope that the power of eviderice such as",
+      "bbox": [
+        287,
+        546,
+        516,
+        567
+      ],
+      "confidence": 0.9821775555610657
+    },
+    {
+      "text": "rules governing sales to teenngers. and ban",
+      "bbox": [
+        41,
+        549,
+        275,
+        569
+      ],
+      "confidence": 0.9394386410713196
+    },
+    {
+      "text": "advertisements designed to be attractive to",
+      "bbox": [
+        41,
+        561,
+        275,
+        580
+      ],
+      "confidence": 0.9799363017082214
+    },
+    {
+      "text": "todayys report will ultimately",
+      "bbox": [
+        288,
+        560,
+        464,
+        577
+      ],
+      "confidence": 0.9666502475738525
+    },
+    {
+      "text": "rconvince",
+      "bbox": [
+        457,
+        559,
+        516,
+        576
+      ],
+      "confidence": 0.9385430812835693
+    },
+    {
+      "text": "chuldren. Even if implemented. it is difficult",
+      "bbox": [
+        41,
+        573,
+        276,
+        592
+      ],
+      "confidence": 0.9657861590385437
+    },
+    {
+      "text": "smokers of their unwisdom: but we have no",
+      "bbox": [
+        289,
+        569,
+        516,
+        590
+      ],
+      "confidence": 0.9456028938293457
+    },
+    {
+      "text": "to see these changes having much effect.",
+      "bbox": [
+        40,
+        584,
+        258,
+        605
+      ],
+      "confidence": 0.9881668090820312
+    },
+    {
+      "text": "right to use the overbearing power of ",
+      "bbox": [
+        288,
+        583,
+        503,
+        602
+      ],
+      "confidence": 0.9789808392524719
+    },
+    {
+      "text": "the",
+      "bbox": [
+        498,
+        585,
+        516,
+        597
+      ],
+      "confidence": 0.9979171752929688
+    },
+    {
+      "text": "What else can be'done? As Prohibition",
+      "bbox": [
+        57,
+        600,
+        275,
+        614
+      ],
+      "confidence": 0.9871755242347717
+    },
+    {
+      "text": "State to insist upon it.",
+      "bbox": [
+        289,
+        597,
+        404,
+        613
+      ],
+      "confidence": 0.9851117730140686
+    },
+    {
+      "text": "2048282698",
+      "bbox": [
+        727,
+        892,
+        747,
+        986
+      ],
+      "confidence": 0.9997884035110474
+    }
+  ],
+  "full_text": "23-AUG-1995 13:14\nP.017/018\nThe Times, 18th August 1995, Page 15, Editorial\nFAG END\nCigarettes attack the hearts of the young\nEven the mostdedicated-libertarian is\nproved. banning\nsubstince enjoyed by\nfndnincreasingy dificul to fnd  good\ni millions is simply a method for multiplying\nword to\nsay\nfor cigaretids. Ihe\n\"latest\nthe criminal classes\nand prbviding a source\nattack survivors ever carried out in Britain,.\nhabit\nas smdiing may be. there are no\nshows that the middle aged multiply\ntheir\ngrounds for making it a crimkinal\noffence.\nrisks five-fold by smoking. Add\nwith lungpersuasive evidence thas smoking damages\nto that\nthe\nThe!only possible justification would\nbe\ncancer, and the increased\niready well-established links\nthet health\nof-innocent bystanders. So.far.\nrespiratory disease among the, children\nof\nstudies\nof\npassive\nsmioking\nhave-failed.to\nsmokers, and it becomes\nditicult to produce\nol\nprovide that evidence. Wives. husbands, and\nbe injured by the activities of a\nany worthwtile defence for the practice.\nchildren may\nhome, but emoiing\ninr public:\nYet sixtteen million\npeople. in'\nBritain\nheaith\nsmoker\nin the\nthe\nwotkplace has not been\nwarnings nor the-high\ncontinue-to'\nsracke. and\nprice, of cigarettes\nneither\nthe\nshown\ni unequivocally\ndangerous.\nsave\nseem to deter the young. who are taking\nto\nto the smoker. I\nIfsmoking\nlegal. banning\ntobacco in increasing numbers. If the facts\nthe advertising ofc\ninfringement off\nbe speech\nbe\nan\nalone had the\nfrom their habit. we might.by now have\npower to liberate-smokers\ninsupportable\nUnpalatable as it-may\nthe Health\nexpected to see more impresiive results. The\n. Education Authority and other campaigners\n;\ntemptation ' of. government\nis to move\nfor\nhealthy.livingsmoiking:\ndiscretion: Non-smokers\nfalls\nino the\nsmoking in public places and forbidding\ntowards more decisive action:\nbaruning\nmay\narea\ndeem the habit dirty. dangerous: and.\nof\npersonal\nadvertising of cigareties, for exartiple\nexpensive.\nbut smokers have the right to live\nIn the United, States, President Clinton\ntheir\nown\nlives, and hasten their deaths, in\nhas followed a 'different tack declaring\n-may be consoled by the thought that while\nwhatever way they choose. In doing so. they\nnicotine to be a drug and thereby bringing it\nwithin the authority of the Food wand Drug\n-the tax on tobacco contributes. £9 billonto.\nAdministration. The FDA is to stop the sale-\nthe Treasury. the cost of treating smoiing\nof cigaretes from vending machines:tighten\nrelated diseases is a mere £610 million. We\nmay hope that the power of eviderice such as\nrules governing sales to teenngers. and ban\nadvertisements designed to be attractive to\ntodayys report will ultimately\nrconvince\nchuldren. Even if implemented. it is difficult\nsmokers of their unwisdom: but we have no\nto see these changes having much effect.\nright to use the overbearing power of \nthe\nWhat else can be'done? As Prohibition\nState to insist upon it.\n2048282698"
+}

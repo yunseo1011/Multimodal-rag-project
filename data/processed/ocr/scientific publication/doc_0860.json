@@ -1,0 +1,691 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0860.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Use of monoclonal anti-light subunit antibodies to study",
+      "bbox": [
+        21,
+        60,
+        577,
+        101
+      ],
+      "confidence": 0.9855390191078186
+    },
+    {
+      "text": "the structure and function of the Entamoeba histolytica",
+      "bbox": [
+        22,
+        96,
+        567,
+        131
+      ],
+      "confidence": 0.9973073601722717
+    },
+    {
+      "text": "Gal/GalNAc adherence lectin",
+      "bbox": [
+        23,
+        129,
+        319,
+        160
+      ],
+      "confidence": 0.9957628846168518
+    },
+    {
+      "text": "JAMES J. McCOY, ALISSA M. WEAVER and WILLIAM A. PETRI, JR*",
+      "bbox": [
+        22,
+        187,
+        597,
+        216
+      ],
+      "confidence": 0.9804826974868774
+    },
+    {
+      "text": "From the Departments of Medicine, Microbiology and Pathology. Unirersity of Virginia School of Medicine,",
+      "bbox": [
+        23,
+        205,
+        576,
+        234
+      ],
+      "confidence": 0.9730412364006042
+    },
+    {
+      "text": "Charlotteswille VA 22908, USA",
+      "bbox": [
+        25,
+        223,
+        190,
+        241
+      ],
+      "confidence": 0.9749577641487122
+    },
+    {
+      "text": "Received 19 April 1994, revised 17 June 1994",
+      "bbox": [
+        25,
+        244,
+        263,
+        261
+      ],
+      "confidence": 0.9952850341796875
+    },
+    {
+      "text": "Adherence of Entamoeba histolytica trophozoites to host cells is mediated by a galactose (Gal) and",
+      "bbox": [
+        24,
+        311,
+        597,
+        335
+      ],
+      "confidence": 0.9864965677261353
+    },
+    {
+      "text": "N-acetylgalactosamine (Ga!NAc)-specific surlace lectin. The lectin is a heterodimeric protein composed of heavy",
+      "bbox": [
+        24,
+        327,
+        596,
+        350
+      ],
+      "confidence": 0.9883003830909729
+    },
+    {
+      "text": "(170 kDa) and light (35- 3t kDa) subunits lnked by disulfide bonds. Polyclonal and monoclonal antibodies",
+      "bbox": [
+        24,
+        342,
+        597,
+        365
+      ],
+      "confidence": 0.9785875678062439
+    },
+    {
+      "text": "(mAb) raised against a light subunit-glutath-one-S-transferase fusion protcin were used to probe its structure",
+      "bbox": [
+        24,
+        357,
+        597,
+        380
+      ],
+      "confidence": 0.9821093678474426
+    },
+    {
+      "text": "and function. Four light subunit-specific mAb were produced which recognized distinct epitopes on five different",
+      "bbox": [
+        24,
+        372,
+        596,
+        395
+      ],
+      "confidence": 0.9774712920188904
+    },
+    {
+      "text": "light subunit isoforms. Immunoblots with these mAb demonstrated co-migration of light and heavy subunits",
+      "bbox": [
+        24,
+        387,
+        597,
+        410
+      ],
+      "confidence": 0.9922284483909607
+    },
+    {
+      "text": "when nonreduced trophozoite proteins were analysed by SDS.PAGE, indicating that thc subunits do not exist",
+      "bbox": [
+        25,
+        401,
+        596,
+        423
+      ],
+      "confidence": 0.9747151136398315
+    },
+    {
+      "text": "free of the heterodimer in significant quantitics. While anti-heavy subunit antibodies had previously been shown",
+      "bbox": [
+        25,
+        416,
+        596,
+        438
+      ],
+      "confidence": 0.9877548813819885
+    },
+    {
+      "text": "to alter adherence, anti-light subunit antibodies did not, suggesting that the heavy subunit contains the",
+      "bbox": [
+        25,
+        431,
+        595,
+        452
+      ],
+      "confidence": 0.9862580895423889
+    },
+    {
+      "text": "carbohydrate recognition domain.",
+      "bbox": [
+        27,
+        449,
+        208,
+        462
+      ],
+      "confidence": 0.9936878681182861
+    },
+    {
+      "text": "Keywords: lectin; Entamoeba histolytica; Entumoeba dispar; adherence; galactose; amebiasis.",
+      "bbox": [
+        27,
+        463,
+        496,
+        482
+      ],
+      "confidence": 0.9794487357139587
+    },
+    {
+      "text": "Introduction",
+      "bbox": [
+        29,
+        516,
+        104,
+        530
+      ],
+      "confidence": 0.9935140609741211
+    },
+    {
+      "text": "survival of the extracellular trophozoite. Entamoeba histo-",
+      "bbox": [
+        385,
+        515,
+        708,
+        532
+      ],
+      "confidence": 0.9751275181770325
+    },
+    {
+      "text": "lytica trophozoites are resistant to the complement C5b-9",
+      "bbox": [
+        384,
+        530,
+        708,
+        548
+      ],
+      "confidence": 0.9644672870635986
+    },
+    {
+      "text": "Glvcoconjugate-lectin interactions play an important role",
+      "bbox": [
+        30,
+        539,
+        363,
+        553
+      ],
+      "confidence": 0.9938958287239075
+    },
+    {
+      "text": "complexes which form thc membrane attack complex.",
+      "bbox": [
+        384,
+        545,
+        708,
+        564
+      ],
+      "confidence": 0.9927205443382263
+    },
+    {
+      "text": "in the pathogenesis of amebiasis. Amebiasis is a common",
+      "bbox": [
+        29,
+        553,
+        364,
+        571
+      ],
+      "confidence": 0.9834781885147095
+    },
+    {
+      "text": "Monoclonal antibodies directed against amino acids 895",
+      "bbox": [
+        386,
+        562,
+        699,
+        577
+      ],
+      "confidence": 0.9901549816131592
+    },
+    {
+      "text": "worldwide parasitic infection that results annually in 40 to",
+      "bbox": [
+        28,
+        569,
+        365,
+        587
+      ],
+      "confidence": 0.9799765944480896
+    },
+    {
+      "text": "50 million cases of amebic colitis and liver abscess.",
+      "bbox": [
+        30,
+        586,
+        363,
+        601
+      ],
+      "confidence": 0.9785433411598206
+    },
+    {
+      "text": "1082 of the cysteine-rich domain (cpitopcs 6 and 7) of the",
+      "bbox": [
+        387,
+        579,
+        706,
+        593
+      ],
+      "confidence": 0.9776238799095154
+    },
+    {
+      "text": "Trophozoites adhere to human colonic niucins and colonic",
+      "bbox": [
+        29,
+        599,
+        364,
+        618
+      ],
+      "confidence": 0.9871193766593933
+    },
+    {
+      "text": "lectin heavy subunit greatly increase the sensitivity of E.",
+      "bbox": [
+        386,
+        594,
+        706,
+        608
+      ],
+      "confidence": 0.9848836064338684
+    },
+    {
+      "text": "cpithclial cells to initiate colonization and invasion of",
+      "bbox": [
+        28,
+        615,
+        365,
+        634
+      ],
+      "confidence": 0.9885706305503845
+    },
+    {
+      "text": "histolytica to lysis by human sera and by purified human",
+      "bbox": [
+        386,
+        609,
+        706,
+        623
+      ],
+      "confidence": 0.9855040907859802
+    },
+    {
+      "text": "humans. Adherence in vitro is mediated by a surface lcctin",
+      "bbox": [
+        28,
+        631,
+        364,
+        649
+      ],
+      "confidence": 0.9676751494407654
+    },
+    {
+      "text": "C5b-9. Thc lectin binds to purified human C8 and C9, and",
+      "bbox": [
+        385,
+        624,
+        706,
+        639
+      ],
+      "confidence": 0.9957671761512756
+    },
+    {
+      "text": "that binds to tcrminal galactose (Gal) and N-acctylgalactos-",
+      "bbox": [
+        29,
+        648,
+        363,
+        663
+      ],
+      "confidence": 0.9780985713005066
+    },
+    {
+      "text": "serum resistance. The purificd lectin confers C5b-9 resistance",
+      "bbox": [
+        383,
+        652,
+        707,
+        671
+      ],
+      "confidence": 0.9855561256408691
+    },
+    {
+      "text": "the binding is inhibited by anti-lectin mAb which block",
+      "bbox": [
+        384,
+        639,
+        706,
+        654
+      ],
+      "confidence": 0.993065595626831
+    },
+    {
+      "text": "amine (GalNAc) [1, 2]. Entamoeba histolytica kills human",
+      "bbox": [
+        29,
+        662,
+        363,
+        680
+      ],
+      "confidence": 0.9908867478370667
+    },
+    {
+      "text": "macrophages, monocytes, neutrophils and T lymphocytes",
+      "bbox": [
+        29,
+        678,
+        364,
+        697
+      ],
+      "confidence": 0.9859189987182617
+    },
+    {
+      "text": "when reconstituted into C5b-9 scnsitive amebae, a direct",
+      "bbox": [
+        385,
+        669,
+        706,
+        686
+      ],
+      "confidence": 0.9775794148445129
+    },
+    {
+      "text": "in a contact-dependent process that also requires the",
+      "bbox": [
+        30,
+        695,
+        363,
+        711
+      ],
+      "confidence": 0.9795824289321899
+    },
+    {
+      "text": "demonstration of its C5b-9 inhibitory activity [3, 4].",
+      "bbox": [
+        384,
+        685,
+        674,
+        701
+      ],
+      "confidence": 0.9824469089508057
+    },
+    {
+      "text": "activity of this lectin. Mcrc apposition of amebic and targct",
+      "bbox": [
+        32,
+        712,
+        363,
+        726
+      ],
+      "confidence": 0.9673393368721008
+    },
+    {
+      "text": "The amebic Gal/GalNAc lectin is a 260 k1Da hetero-",
+      "bbox": [
+        397,
+        701,
+        707,
+        716
+      ],
+      "confidence": 0.9588034152984619
+    },
+    {
+      "text": "cell plasma membranes, as can be achieved by centrifuging",
+      "bbox": [
+        32,
+        726,
+        362,
+        740
+      ],
+      "confidence": 0.9716281294822693
+    },
+    {
+      "text": "dimeric glycoprotcin consisting of heavy (170 kDa) and",
+      "bbox": [
+        384,
+        714,
+        708,
+        733
+      ],
+      "confidence": 0.9732464551925659
+    },
+    {
+      "text": "target cells and amcbac togcther into a pellct, will not lcad",
+      "bbox": [
+        32,
+        742,
+        362,
+        755
+      ],
+      "confidence": 0.9751564264297485
+    },
+    {
+      "text": "light (35 and 31 kDa) subunits linked by disulfide bonds",
+      "bbox": [
+        383,
+        729,
+        708,
+        748
+      ],
+      "confidence": 0.976170003414154
+    },
+    {
+      "text": "to cytolysis if the amebic lectin is inhibited with Gal or",
+      "bbox": [
+        31,
+        756,
+        363,
+        771
+      ],
+      "confidence": 0.9845264554023743
+    },
+    {
+      "text": "[5]. The 170 kDa subunit is encoded by a gene family of",
+      "bbox": [
+        383,
+        744,
+        708,
+        764
+      ],
+      "confidence": 0.9753540754318237
+    },
+    {
+      "text": "GalNAc, indicating that the lectin cither signals the",
+      "bbox": [
+        31,
+        770,
+        362,
+        786
+      ],
+      "confidence": 0.9787139892578125
+    },
+    {
+      "text": "which thrce members (89- 95% identical) from E. histolytica",
+      "bbox": [
+        382,
+        760,
+        708,
+        779
+      ],
+      "confidence": 0.9676005244255066
+    },
+    {
+      "text": "initiation of cytolysis or dircctly participates in the cytolytic",
+      "bbox": [
+        31,
+        785,
+        362,
+        802
+      ],
+      "confidence": 0.9834004640579224
+    },
+    {
+      "text": "strain HM1:IMSS have been sequenced [6]. The 170 kDa",
+      "bbox": [
+        382,
+        774,
+        708,
+        794
+      ],
+      "confidence": 0.9693411588668823
+    },
+    {
+      "text": "event.",
+      "bbox": [
+        31,
+        801,
+        69,
+        816
+      ],
+      "confidence": 0.9993082880973816
+    },
+    {
+      "text": "subunit sequcnces contain a carboxy-terminal putative",
+      "bbox": [
+        383,
+        791,
+        707,
+        807
+      ],
+      "confidence": 0.983177125453949
+    },
+    {
+      "text": "Evasion of serum lysis also involves thc Gal/GalNAc",
+      "bbox": [
+        45,
+        814,
+        363,
+        833
+      ],
+      "confidence": 0.9739094972610474
+    },
+    {
+      "text": "cytoplasmic and transmembrane domain followcd by an",
+      "bbox": [
+        382,
+        803,
+        708,
+        826
+      ],
+      "confidence": 0.9793283939361572
+    },
+    {
+      "text": "lectin: evasion of thc host complement sy stem is critical for",
+      "bbox": [
+        30,
+        830,
+        363,
+        849
+      ],
+      "confidence": 0.9754274487495422
+    },
+    {
+      "text": "extensive extracellular cysteine-rich domain. This cystcinc-",
+      "bbox": [
+        383,
+        821,
+        706,
+        840
+      ],
+      "confidence": 0.9787730574607849
+    },
+    {
+      "text": "rich domain is recognized by adhcrence-inhibitory anti-",
+      "bbox": [
+        383,
+        838,
+        706,
+        853
+      ],
+      "confidence": 0.9882545471191406
+    },
+    {
+      "text": "•To whom correspondence should be addressed at Room 2115 MR4",
+      "bbox": [
+        30,
+        858,
+        363,
+        877
+      ],
+      "confidence": 0.9636428356170654
+    },
+    {
+      "text": "lectin monoclonal antibodics (mAb) [4].",
+      "bbox": [
+        383,
+        854,
+        608,
+        869
+      ],
+      "confidence": 0.9801684617996216
+    },
+    {
+      "text": "Building. University of Virginia Hcalth Scicnces Center, Charlottesville",
+      "bbox": [
+        28,
+        871,
+        363,
+        890
+      ],
+      "confidence": 0.9511921405792236
+    },
+    {
+      "text": "The light subunit has been resolved into 35 and 31 kDa",
+      "bbox": [
+        396,
+        868,
+        707,
+        884
+      ],
+      "confidence": 0.9938402771949768
+    },
+    {
+      "text": "VA 22908, USA.",
+      "bbox": [
+        31,
+        888,
+        108,
+        898
+      ],
+      "confidence": 0.9728938341140747
+    },
+    {
+      "text": "isoforms by SDS-PAGF., The 35 and 31 kIDa isoforms have",
+      "bbox": [
+        384,
+        883,
+        707,
+        899
+      ],
+      "confidence": 0.9625117778778076
+    },
+    {
+      "text": "0282-0080 @) 1994 Chapman & Hall",
+      "bbox": [
+        29,
+        905,
+        202,
+        921
+      ],
+      "confidence": 0.9551132917404175
+    }
+  ],
+  "full_text": "Use of monoclonal anti-light subunit antibodies to study\nthe structure and function of the Entamoeba histolytica\nGal/GalNAc adherence lectin\nJAMES J. McCOY, ALISSA M. WEAVER and WILLIAM A. PETRI, JR*\nFrom the Departments of Medicine, Microbiology and Pathology. Unirersity of Virginia School of Medicine,\nCharlotteswille VA 22908, USA\nReceived 19 April 1994, revised 17 June 1994\nAdherence of Entamoeba histolytica trophozoites to host cells is mediated by a galactose (Gal) and\nN-acetylgalactosamine (Ga!NAc)-specific surlace lectin. The lectin is a heterodimeric protein composed of heavy\n(170 kDa) and light (35- 3t kDa) subunits lnked by disulfide bonds. Polyclonal and monoclonal antibodies\n(mAb) raised against a light subunit-glutath-one-S-transferase fusion protcin were used to probe its structure\nand function. Four light subunit-specific mAb were produced which recognized distinct epitopes on five different\nlight subunit isoforms. Immunoblots with these mAb demonstrated co-migration of light and heavy subunits\nwhen nonreduced trophozoite proteins were analysed by SDS.PAGE, indicating that thc subunits do not exist\nfree of the heterodimer in significant quantitics. While anti-heavy subunit antibodies had previously been shown\nto alter adherence, anti-light subunit antibodies did not, suggesting that the heavy subunit contains the\ncarbohydrate recognition domain.\nKeywords: lectin; Entamoeba histolytica; Entumoeba dispar; adherence; galactose; amebiasis.\nIntroduction\nsurvival of the extracellular trophozoite. Entamoeba histo-\nlytica trophozoites are resistant to the complement C5b-9\nGlvcoconjugate-lectin interactions play an important role\ncomplexes which form thc membrane attack complex.\nin the pathogenesis of amebiasis. Amebiasis is a common\nMonoclonal antibodies directed against amino acids 895\nworldwide parasitic infection that results annually in 40 to\n50 million cases of amebic colitis and liver abscess.\n1082 of the cysteine-rich domain (cpitopcs 6 and 7) of the\nTrophozoites adhere to human colonic niucins and colonic\nlectin heavy subunit greatly increase the sensitivity of E.\ncpithclial cells to initiate colonization and invasion of\nhistolytica to lysis by human sera and by purified human\nhumans. Adherence in vitro is mediated by a surface lcctin\nC5b-9. Thc lectin binds to purified human C8 and C9, and\nthat binds to tcrminal galactose (Gal) and N-acctylgalactos-\nserum resistance. The purificd lectin confers C5b-9 resistance\nthe binding is inhibited by anti-lectin mAb which block\namine (GalNAc) [1, 2]. Entamoeba histolytica kills human\nmacrophages, monocytes, neutrophils and T lymphocytes\nwhen reconstituted into C5b-9 scnsitive amebae, a direct\nin a contact-dependent process that also requires the\ndemonstration of its C5b-9 inhibitory activity [3, 4].\nactivity of this lectin. Mcrc apposition of amebic and targct\nThe amebic Gal/GalNAc lectin is a 260 k1Da hetero-\ncell plasma membranes, as can be achieved by centrifuging\ndimeric glycoprotcin consisting of heavy (170 kDa) and\ntarget cells and amcbac togcther into a pellct, will not lcad\nlight (35 and 31 kDa) subunits linked by disulfide bonds\nto cytolysis if the amebic lectin is inhibited with Gal or\n[5]. The 170 kDa subunit is encoded by a gene family of\nGalNAc, indicating that the lectin cither signals the\nwhich thrce members (89- 95% identical) from E. histolytica\ninitiation of cytolysis or dircctly participates in the cytolytic\nstrain HM1:IMSS have been sequenced [6]. The 170 kDa\nevent.\nsubunit sequcnces contain a carboxy-terminal putative\nEvasion of serum lysis also involves thc Gal/GalNAc\ncytoplasmic and transmembrane domain followcd by an\nlectin: evasion of thc host complement sy stem is critical for\nextensive extracellular cysteine-rich domain. This cystcinc-\nrich domain is recognized by adhcrence-inhibitory anti-\n•To whom correspondence should be addressed at Room 2115 MR4\nlectin monoclonal antibodics (mAb) [4].\nBuilding. University of Virginia Hcalth Scicnces Center, Charlottesville\nThe light subunit has been resolved into 35 and 31 kDa\nVA 22908, USA.\nisoforms by SDS-PAGF., The 35 and 31 kIDa isoforms have\n0282-0080 @) 1994 Chapman & Hall"
+}

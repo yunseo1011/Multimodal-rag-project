@@ -1,0 +1,671 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0879.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SAN FRANCISCO EXAMINER",
+      "bbox": [
+        189,
+        252,
+        420,
+        281
+      ],
+      "confidence": 0.9850395321846008
+    },
+    {
+      "text": "AUG 1 1 1995",
+      "bbox": [
+        448,
+        257,
+        556,
+        286
+      ],
+      "confidence": 0.9774230122566223
+    },
+    {
+      "text": "Clinton vs. teen smoking",
+      "bbox": [
+        153,
+        347,
+        561,
+        407
+      ],
+      "confidence": 0.9945523142814636
+    },
+    {
+      "text": "RASTICALLY CUTTING the sense, but might incur First Amendment",
+      "bbox": [
+        130,
+        401,
+        644,
+        441
+      ],
+      "confidence": 0.9601616859436035
+    },
+    {
+      "text": "rate at which adolescents take. challenge by advertisers and promoters.",
+      "bbox": [
+        132,
+        420,
+        627,
+        457
+      ],
+      "confidence": 0.9847752451896667
+    },
+    {
+      "text": "up the health-sapping addiction.",
+      "bbox": [
+        134,
+        438,
+        390,
+        465
+      ],
+      "confidence": 0.9479914903640747
+    },
+    {
+      "text": "of tobacco smoke is a clearly",
+      "bbox": [
+        128,
+        454,
+        350,
+        481
+      ],
+      "confidence": 0.9886513352394104
+    },
+    {
+      "text": "Sales of tobacco products to adults would",
+      "bbox": [
+        379,
+        444,
+        642,
+        475
+      ],
+      "confidence": 0.9776579737663269
+    },
+    {
+      "text": "worthwhile goal of public policy. So Preni.",
+      "bbox": [
+        61,
+        470,
+        347,
+        498
+      ],
+      "confidence": 0.9660829305648804
+    },
+    {
+      "text": ":remain legal, however unwise from a",
+      "bbox": [
+        356,
+        464,
+        642,
+        489
+      ],
+      "confidence": 0.9705126881599426
+    },
+    {
+      "text": "dent Clinton's plan for the Food and Drug",
+      "bbox": [
+        62,
+        486,
+        348,
+        515
+      ],
+      "confidence": 0.9964537024497986
+    },
+    {
+      "text": "health standpoint. So distinctions as to who",
+      "bbox": [
+        360,
+        481,
+        641,
+        504
+      ],
+      "confidence": 0.9741166830062866
+    },
+    {
+      "text": "is addressed by an ad campaign - even if it",
+      "bbox": [
+        360,
+        496,
+        641,
+        523
+      ],
+      "confidence": 0.9562904834747314
+    },
+    {
+      "text": "Administration to act aggressively on this",
+      "bbox": [
+        63,
+        503,
+        346,
+        531
+      ],
+      "confidence": 0.9980597496032715
+    },
+    {
+      "text": "is cartoon-character cute or focused on",
+      "bbox": [
+        359,
+        513,
+        642,
+        539
+      ],
+      "confidence": 0.9807299971580505
+    },
+    {
+      "text": "front cannot be faulted for its benign intent.",
+      "bbox": [
+        64,
+        520,
+        345,
+        548
+      ],
+      "confidence": 0.9782439470291138
+    },
+    {
+      "text": "youthful (over 18) activities - will be hard",
+      "bbox": [
+        358,
+        530,
+        640,
+        556
+      ],
+      "confidence": 0.9687942266464233
+    },
+    {
+      "text": "Few will argue with his observaticn that it",
+      "bbox": [
+        63,
+        537,
+        345,
+        564
+      ],
+      "confidence": 0.9694938063621521
+    },
+    {
+      "text": "is \"wrong as well as illogal to hook i mil-",
+      "bbox": [
+        63,
+        553,
+        343,
+        580
+      ],
+      "confidence": 0.9623164534568787
+    },
+    {
+      "text": "to draw.",
+      "bbox": [
+        360,
+        548,
+        418,
+        569
+      ],
+      "confidence": 0.9966877102851868
+    },
+    {
+      "text": "lion children a year on tobacco.\"",
+      "bbox": [
+        64,
+        569,
+        275,
+        596
+      ],
+      "confidence": 0.9682312607765198
+    },
+    {
+      "text": "Requiring the tobacco industry to fund",
+      "bbox": [
+        371,
+        564,
+        639,
+        589
+      ],
+      "confidence": 0.9980368614196777
+    },
+    {
+      "text": "Success in keeping more teenagers from.",
+      "bbox": [
+        77,
+        587,
+        344,
+        611
+      ],
+      "confidence": 0.9788293242454529
+    },
+    {
+      "text": "a $150 million·a-year educational cam-",
+      "bbox": [
+        360,
+        582,
+        641,
+        605
+      ],
+      "confidence": 0.952601969242096
+    },
+    {
+      "text": "becoming smokers would save millions of",
+      "bbox": [
+        66,
+        603,
+        344,
+        625
+      ],
+      "confidence": 0.9764792323112488
+    },
+    {
+      "text": "paign against teen smoking evokes Cali-",
+      "bbox": [
+        359,
+        599,
+        636,
+        621
+      ],
+      "confidence": 0.9906541109085083
+    },
+    {
+      "text": "lives in decades to come, and spare the na-",
+      "bbox": [
+        65,
+        618,
+        342,
+        643
+      ],
+      "confidence": 0.9804021120071411
+    },
+    {
+      "text": "fornia's tax on cigarette sales for tobacco ed-",
+      "bbox": [
+        358,
+        615,
+        635,
+        638
+      ],
+      "confidence": 0.970237135887146
+    },
+    {
+      "text": "tion some of the massive medical costs as-",
+      "bbox": [
+        66,
+        636,
+        341,
+        659
+      ],
+      "confidence": 0.9797789454460144
+    },
+    {
+      "text": "ucation and other purposes. Perhaps the",
+      "bbox": [
+        359,
+        631,
+        634,
+        657
+      ],
+      "confidence": 0.9975639581680298
+    },
+    {
+      "text": "administration can require such an cutlay",
+      "bbox": [
+        358,
+        649,
+        633,
+        674
+      ],
+      "confidence": 0.992207944393158
+    },
+    {
+      "text": "sociated with long-term tobacco use.",
+      "bbox": [
+        66,
+        653,
+        299,
+        674
+      ],
+      "confidence": 0.9948852062225342
+    },
+    {
+      "text": "without legislation,'or shame the tobacco",
+      "bbox": [
+        358,
+        666,
+        632,
+        690
+      ],
+      "confidence": 0.9746319651603699
+    },
+    {
+      "text": "Specific steps contemplated by the preo-",
+      "bbox": [
+        80,
+        669,
+        339,
+        692
+      ],
+      "confidence": 0.97393798828125
+    },
+    {
+      "text": "companies into contributing. Clinton offers",
+      "bbox": [
+        356,
+        682,
+        633,
+        707
+      ],
+      "confidence": 0.988677442073822
+    },
+    {
+      "text": "ident, however, raise questions of practi-",
+      "bbox": [
+        65,
+        683,
+        340,
+        708
+      ],
+      "confidence": 0.9687222242355347
+    },
+    {
+      "text": "cality, and could be vulnerable to legal chial-",
+      "bbox": [
+        65,
+        700,
+        339,
+        722
+      ],
+      "confidence": 0.9943744540214539
+    },
+    {
+      "text": "to withdraw his conterplated regulations",
+      "bbox": [
+        355,
+        699,
+        632,
+        721
+      ],
+      "confidence": 0.9860135912895203
+    },
+    {
+      "text": "Ienge. For instance, preventing sales of cig-",
+      "bbox": [
+        65,
+        716,
+        340,
+        738
+      ],
+      "confidence": 0.9722887873649597
+    },
+    {
+      "text": "if Congress passes laws against teen smok-",
+      "bbox": [
+        354,
+        714,
+        630,
+        738
+      ],
+      "confidence": 0.972793459892273
+    },
+    {
+      "text": "arettes to miniora is a good objective. But",
+      "bbox": [
+        65,
+        732,
+        338,
+        753
+      ],
+      "confidence": 0.9393846392631531
+    },
+    {
+      "text": "ing. That would take the heat off federal",
+      "bbox": [
+        353,
+        731,
+        629,
+        752
+      ],
+      "confidence": 0.9712684154510498
+    },
+    {
+      "text": "how much the teenagers'supply of contra-",
+      "bbox": [
+        64,
+        747,
+        337,
+        769
+      ],
+      "confidence": 0.9818683862686157
+    },
+    {
+      "text": "regulators.",
+      "bbox": [
+        353,
+        748,
+        429,
+        765
+      ],
+      "confidence": 0.9996612668037415
+    },
+    {
+      "text": "band tobacco can be piniched by requiring",
+      "bbox": [
+        65,
+        762,
+        337,
+        785
+      ],
+      "confidence": 0.9871622323989868
+    },
+    {
+      "text": "We are convinced that the salvation of",
+      "bbox": [
+        371,
+        762,
+        628,
+        784
+      ],
+      "confidence": 0.9882146716117859
+    },
+    {
+      "text": "them to show ID cards in stores, and by out-",
+      "bbox": [
+        64,
+        778,
+        336,
+        800
+      ],
+      "confidence": 0.9840273261070251
+    },
+    {
+      "text": "young Americans from the dangers of to-",
+      "bbox": [
+        352,
+        779,
+        627,
+        802
+      ],
+      "confidence": 0.9759408235549927
+    },
+    {
+      "text": "2046406869",
+      "bbox": [
+        688,
+        774,
+        722,
+        907
+      ],
+      "confidence": 0.9746052026748657
+    },
+    {
+      "text": "lawing vending machines, is another mat-",
+      "bbox": [
+        64,
+        794,
+        336,
+        817
+      ],
+      "confidence": 0.9952172040939331
+    },
+    {
+      "text": "bacco addiction depends primarily on the",
+      "bbox": [
+        353,
+        796,
+        625,
+        818
+      ],
+      "confidence": 0.9903210401535034
+    },
+    {
+      "text": "ter. We are pessimistic on that point, con-",
+      "bbox": [
+        62,
+        810,
+        335,
+        834
+      ],
+      "confidence": 0.9836801290512085
+    },
+    {
+      "text": "teens' voluntary response to effective edu-",
+      "bbox": [
+        352,
+        812,
+        627,
+        834
+      ],
+      "confidence": 0.9940623641014099
+    },
+    {
+      "text": "sidering how rampant the distribution of",
+      "bbox": [
+        63,
+        828,
+        336,
+        849
+      ],
+      "confidence": 0.9959741830825806
+    },
+    {
+      "text": "cation on the question. Some will not get",
+      "bbox": [
+        351,
+        830,
+        624,
+        851
+      ],
+      "confidence": 0.9848085641860962
+    },
+    {
+      "text": "wholly illegal drugs is among youths.",
+      "bbox": [
+        63,
+        843,
+        300,
+        865
+      ],
+      "confidence": 0.9702634215354919
+    },
+    {
+      "text": "the message, or will be guided instead by",
+      "bbox": [
+        351,
+        846,
+        624,
+        867
+      ],
+      "confidence": 0.9905964136123657
+    },
+    {
+      "text": "The targeting of cigarette advertising",
+      "bbox": [
+        78,
+        859,
+        335,
+        882
+      ],
+      "confidence": 0.9989239573478699
+    },
+    {
+      "text": "and other promotions aimed at recruiting",
+      "bbox": [
+        63,
+        876,
+        335,
+        896
+      ],
+      "confidence": 0.9770246744155884
+    },
+    {
+      "text": "peer pressure to smoke and look like adult",
+      "bbox": [
+        350,
+        865,
+        622,
+        882
+      ],
+      "confidence": 0.9899876117706299
+    },
+    {
+      "text": "new young smiokers (e.g., banning bill..",
+      "bbox": [
+        62,
+        891,
+        345,
+        912
+      ],
+      "confidence": 0.9574555158615112
+    },
+    {
+      "text": "addicts of the weed. The truth sbout smok-",
+      "bbox": [
+        349,
+        879,
+        622,
+        899
+      ],
+      "confidence": 0.9824298620223999
+    },
+    {
+      "text": "boards near schools and brand names on",
+      "bbox": [
+        62,
+        906,
+        338,
+        928
+      ],
+      "confidence": 0.9843745231628418
+    },
+    {
+      "text": "ing and health must eventually save them",
+      "bbox": [
+        348,
+        894,
+        621,
+        915
+      ],
+      "confidence": 0.985073447227478
+    },
+    {
+      "text": "_T-shirts and gym bags) seems to make Camel and vending machines.",
+      "bbox": [
+        57,
+        922,
+        540,
+        949
+      ],
+      "confidence": 0.9754196405410767
+    },
+    {
+      "text": "- rather than a ban on billboards, Joe",
+      "bbox": [
+        343,
+        910,
+        619,
+        933
+      ],
+      "confidence": 0.9826179146766663
+    }
+  ],
+  "full_text": "SAN FRANCISCO EXAMINER\nAUG 1 1 1995\nClinton vs. teen smoking\nRASTICALLY CUTTING the sense, but might incur First Amendment\nrate at which adolescents take. challenge by advertisers and promoters.\nup the health-sapping addiction.\nof tobacco smoke is a clearly\nSales of tobacco products to adults would\nworthwhile goal of public policy. So Preni.\n:remain legal, however unwise from a\ndent Clinton's plan for the Food and Drug\nhealth standpoint. So distinctions as to who\nis addressed by an ad campaign - even if it\nAdministration to act aggressively on this\nis cartoon-character cute or focused on\nfront cannot be faulted for its benign intent.\nyouthful (over 18) activities - will be hard\nFew will argue with his observaticn that it\nis \"wrong as well as illogal to hook i mil-\nto draw.\nlion children a year on tobacco.\"\nRequiring the tobacco industry to fund\nSuccess in keeping more teenagers from.\na $150 million·a-year educational cam-\nbecoming smokers would save millions of\npaign against teen smoking evokes Cali-\nlives in decades to come, and spare the na-\nfornia's tax on cigarette sales for tobacco ed-\ntion some of the massive medical costs as-\nucation and other purposes. Perhaps the\nadministration can require such an cutlay\nsociated with long-term tobacco use.\nwithout legislation,'or shame the tobacco\nSpecific steps contemplated by the preo-\ncompanies into contributing. Clinton offers\nident, however, raise questions of practi-\ncality, and could be vulnerable to legal chial-\nto withdraw his conterplated regulations\nIenge. For instance, preventing sales of cig-\nif Congress passes laws against teen smok-\narettes to miniora is a good objective. But\ning. That would take the heat off federal\nhow much the teenagers'supply of contra-\nregulators.\nband tobacco can be piniched by requiring\nWe are convinced that the salvation of\nthem to show ID cards in stores, and by out-\nyoung Americans from the dangers of to-\n2046406869\nlawing vending machines, is another mat-\nbacco addiction depends primarily on the\nter. We are pessimistic on that point, con-\nteens' voluntary response to effective edu-\nsidering how rampant the distribution of\ncation on the question. Some will not get\nwholly illegal drugs is among youths.\nthe message, or will be guided instead by\nThe targeting of cigarette advertising\nand other promotions aimed at recruiting\npeer pressure to smoke and look like adult\nnew young smiokers (e.g., banning bill..\naddicts of the weed. The truth sbout smok-\nboards near schools and brand names on\ning and health must eventually save them\n_T-shirts and gym bags) seems to make Camel and vending machines.\n- rather than a ban on billboards, Joe"
+}

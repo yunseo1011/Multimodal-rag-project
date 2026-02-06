@@ -1,0 +1,491 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0040.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ASH",
+      "bbox": [
+        306,
+        42,
+        453,
+        101
+      ],
+      "confidence": 0.8633877635002136
+    },
+    {
+      "text": "ADVERTISING AGENCIES SERVICE D.NC. & HEADUNERS · 21 EAST 45 STREET, N.YC.10017 - 687-0590",
+      "bbox": [
+        145,
+        93,
+        614,
+        115
+      ],
+      "confidence": 0.85579913854599
+    },
+    {
+      "text": "OGRAPHY - PROCESS LETTERING · IDENTICOLOR PRINTING",
+      "bbox": [
+        261,
+        112,
+        522,
+        128
+      ],
+      "confidence": 0.9490391612052917
+    },
+    {
+      "text": "INVOICED",
+      "bbox": [
+        23,
+        155,
+        74,
+        169
+      ],
+      "confidence": 0.9827151298522949
+    },
+    {
+      "text": "ACCOUNTNO.000141",
+      "bbox": [
+        487,
+        152,
+        625,
+        170
+      ],
+      "confidence": 0.917408287525177
+    },
+    {
+      "text": "SOLDTO",
+      "bbox": [
+        23,
+        168,
+        71,
+        189
+      ],
+      "confidence": 0.7413967251777649
+    },
+    {
+      "text": "ORDERED BY",
+      "bbox": [
+        487,
+        167,
+        544,
+        185
+      ],
+      "confidence": 0.9622839093208313
+    },
+    {
+      "text": "J.. Li",
+      "bbox": [
+        564,
+        171,
+        616,
+        185
+      ],
+      "confidence": 0.8711887001991272
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        19,
+        183,
+        59,
+        205
+      ],
+      "confidence": 0.9751654863357544
+    },
+    {
+      "text": "LAURENCE,CHARLES,FREE",
+      "bbox": [
+        96,
+        184,
+        329,
+        205
+      ],
+      "confidence": 0.9689036011695862
+    },
+    {
+      "text": "INVOICE NO",
+      "bbox": [
+        474,
+        184,
+        573,
+        202
+      ],
+      "confidence": 0.9942431449890137
+    },
+    {
+      "text": "19639",
+      "bbox": [
+        590,
+        184,
+        645,
+        202
+      ],
+      "confidence": 0.9959509968757629
+    },
+    {
+      "text": "ADDRESS",
+      "bbox": [
+        21,
+        200,
+        68,
+        219
+      ],
+      "confidence": 0.9859412312507629
+    },
+    {
+      "text": "260 Madivon Avenue",
+      "bbox": [
+        97,
+        202,
+        270,
+        220
+      ],
+      "confidence": 0.948948323726654
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        473,
+        200,
+        517,
+        218
+      ],
+      "confidence": 0.9987810850143433
+    },
+    {
+      "text": "07/18/89",
+      "bbox": [
+        563,
+        200,
+        645,
+        218
+      ],
+      "confidence": 0.9976189136505127
+    },
+    {
+      "text": "New York NY $0016",
+      "bbox": [
+        96,
+        214,
+        278,
+        239
+      ],
+      "confidence": 0.9849300384521484
+    },
+    {
+      "text": "OB TITLE/DE",
+      "bbox": [
+        343,
+        270,
+        386,
+        281
+      ],
+      "confidence": 0.9275257587432861
+    },
+    {
+      "text": "Am.",
+      "bbox": [
+        321,
+        281,
+        348,
+        292
+      ],
+      "confidence": 0.9187137484550476
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        356,
+        279,
+        423,
+        296
+      ],
+      "confidence": 0.9699007868766785
+    },
+    {
+      "text": "AVHJOB",
+      "bbox": [
+        25,
+        316,
+        78,
+        333
+      ],
+      "confidence": 0.8938755393028259
+    },
+    {
+      "text": "CUPNT JOB",
+      "bbox": [
+        313,
+        312,
+        369,
+        330
+      ],
+      "confidence": 0.6664695739746094
+    },
+    {
+      "text": "8297",
+      "bbox": [
+        39,
+        342,
+        86,
+        365
+      ],
+      "confidence": 0.9908428192138672
+    },
+    {
+      "text": "ATC-UL7-09-56",
+      "bbox": [
+        313,
+        343,
+        434,
+        364
+      ],
+      "confidence": 0.8797636032104492
+    },
+    {
+      "text": "9673",
+      "bbox": [
+        600,
+        344,
+        643,
+        362
+      ],
+      "confidence": 0.9639600515365601
+    },
+    {
+      "text": "MAL",
+      "bbox": [
+        344,
+        360,
+        382,
+        379
+      ],
+      "confidence": 0.9923648238182068
+    },
+    {
+      "text": "502",
+      "bbox": [
+        451,
+        354,
+        527,
+        387
+      ],
+      "confidence": 0.9866026043891907
+    },
+    {
+      "text": "COMPOSITION",
+      "bbox": [
+        176,
+        391,
+        282,
+        411
+      ],
+      "confidence": 0.9992403388023376
+    },
+    {
+      "text": "157.50",
+      "bbox": [
+        513,
+        391,
+        580,
+        411
+      ],
+      "confidence": 0.99858158826828
+    },
+    {
+      "text": "2 CAMERA",
+      "bbox": [
+        176,
+        408,
+        257,
+        426
+      ],
+      "confidence": 0.9233525991439819
+    },
+    {
+      "text": "86.50",
+      "bbox": [
+        527,
+        406,
+        581,
+        428
+      ],
+      "confidence": 0.9977534413337708
+    },
+    {
+      "text": "6PRINTS 4 OZALIDS",
+      "bbox": [
+        175,
+        423,
+        345,
+        441
+      ],
+      "confidence": 0.9606413841247559
+    },
+    {
+      "text": "139.90",
+      "bbox": [
+        521,
+        421,
+        580,
+        441
+      ],
+      "confidence": 0.9977547526359558
+    },
+    {
+      "text": "PICK UPRE-AS RESIZE",
+      "bbox": [
+        177,
+        440,
+        364,
+        457
+      ],
+      "confidence": 0.9780263304710388
+    },
+    {
+      "text": "165.00",
+      "bbox": [
+        520,
+        436,
+        581,
+        457
+      ],
+      "confidence": 0.9376096725463867
+    },
+    {
+      "text": "SUBTOTAL",
+      "bbox": [
+        277,
+        469,
+        356,
+        489
+      ],
+      "confidence": 0.9997426271438599
+    },
+    {
+      "text": "548.90",
+      "bbox": [
+        519,
+        468,
+        582,
+        487
+      ],
+      "confidence": 0.9972177147865295
+    },
+    {
+      "text": "SALES TAX",
+      "bbox": [
+        276,
+        484,
+        365,
+        504
+      ],
+      "confidence": 0.9860942363739014
+    },
+    {
+      "text": "45.28",
+      "bbox": [
+        529,
+        483,
+        583,
+        502
+      ],
+      "confidence": 0.9908427000045776
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        278,
+        502,
+        328,
+        518
+      ],
+      "confidence": 0.9991146326065063
+    },
+    {
+      "text": "594.18",
+      "bbox": [
+        521,
+        498,
+        584,
+        518
+      ],
+      "confidence": 0.9948441386222839
+    },
+    {
+      "text": "JOB ENVELOPE COPY",
+      "bbox": [
+        555,
+        639,
+        697,
+        672
+      ],
+      "confidence": 0.9935312867164612
+    },
+    {
+      "text": "Ju",
+      "bbox": [
+        314,
+        710,
+        446,
+        757
+      ],
+      "confidence": 0.6233116984367371
+    },
+    {
+      "text": "7i918s",
+      "bbox": [
+        353,
+        735,
+        448,
+        771
+      ],
+      "confidence": 0.688833475112915
+    },
+    {
+      "text": "ArC-MAZ095",
+      "bbox": [
+        319,
+        753,
+        539,
+        797
+      ],
+      "confidence": 0.7435704469680786
+    },
+    {
+      "text": "UY.",
+      "bbox": [
+        350,
+        787,
+        392,
+        813
+      ],
+      "confidence": 0.6418165564537048
+    },
+    {
+      "text": "AASH",
+      "bbox": [
+        345,
+        871,
+        449,
+        915
+      ],
+      "confidence": 0.8198617696762085
+    },
+    {
+      "text": "AD AGENCIES'/HEADLINERS · 216 EAST 45 STREET · MU 7-0590",
+      "bbox": [
+        188,
+        907,
+        602,
+        928
+      ],
+      "confidence": 0.9688408970832825
+    }
+  ],
+  "full_text": "ASH\nADVERTISING AGENCIES SERVICE D.NC. & HEADUNERS · 21 EAST 45 STREET, N.YC.10017 - 687-0590\nOGRAPHY - PROCESS LETTERING · IDENTICOLOR PRINTING\nINVOICED\nACCOUNTNO.000141\nSOLDTO\nORDERED BY\nJ.. Li\nNAME\nLAURENCE,CHARLES,FREE\nINVOICE NO\n19639\nADDRESS\n260 Madivon Avenue\nDATE\n07/18/89\nNew York NY $0016\nOB TITLE/DE\nAm.\nTobacco\nAVHJOB\nCUPNT JOB\n8297\nATC-UL7-09-56\n9673\nMAL\n502\nCOMPOSITION\n157.50\n2 CAMERA\n86.50\n6PRINTS 4 OZALIDS\n139.90\nPICK UPRE-AS RESIZE\n165.00\nSUBTOTAL\n548.90\nSALES TAX\n45.28\nTOTAL\n594.18\nJOB ENVELOPE COPY\nJu\n7i918s\nArC-MAZ095\nUY.\nAASH\nAD AGENCIES'/HEADLINERS · 216 EAST 45 STREET · MU 7-0590"
+}

@@ -1,0 +1,411 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0303.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Ameriean Tobaceo Company",
+      "bbox": [
+        343,
+        0,
+        664,
+        34
+      ],
+      "confidence": 0.9315890669822693
+    },
+    {
+      "text": "bood Menthe",
+      "bbox": [
+        528,
+        20,
+        730,
+        87
+      ],
+      "confidence": 0.7168620228767395
+    },
+    {
+      "text": "June 26, 1985",
+      "bbox": [
+        50,
+        27,
+        178,
+        56
+      ],
+      "confidence": 0.9992538690567017
+    },
+    {
+      "text": "o",
+      "bbox": [
+        1,
+        55,
+        17,
+        86
+      ],
+      "confidence": 0.7478611469268799
+    },
+    {
+      "text": "Mr. T. C. Hays, Executive Vice President",
+      "bbox": [
+        49,
+        72,
+        420,
+        104
+      ],
+      "confidence": 0.9741451144218445
+    },
+    {
+      "text": "R",
+      "bbox": [
+        3,
+        146,
+        17,
+        183
+      ],
+      "confidence": 0.9646574258804321
+    },
+    {
+      "text": "LUCKY STRIKE Menthol 100's",
+      "bbox": [
+        55,
+        171,
+        291,
+        189
+      ],
+      "confidence": 0.9775922298431396
+    },
+    {
+      "text": "We are submitting for Managcmont consideration and approval our recom-",
+      "bbox": [
+        50,
+        226,
+        697,
+        255
+      ],
+      "confidence": 0.9872666597366333
+    },
+    {
+      "text": "ignated \"LsL-Menthol\" are being supplied along with analytical Labora-",
+      "bbox": [
+        51,
+        271,
+        697,
+        301
+      ],
+      "confidence": 0.9867150187492371
+    },
+    {
+      "text": "tory data for the product.",
+      "bbox": [
+        53,
+        291,
+        287,
+        308
+      ],
+      "confidence": 0.9984411597251892
+    },
+    {
+      "text": "Modcl LSL-Menthol cigarettes are constructed to be a full 10o mm in",
+      "bbox": [
+        50,
+        316,
+        668,
+        344
+      ],
+      "confidence": 0.9495595097541809
+    },
+    {
+      "text": "length and dcliver 12-mg \"tar\" and 1.0-mg nicotine per cigarette. The",
+      "bbox": [
+        49,
+        330,
+        698,
+        361
+      ],
+      "confidence": 0.9613553285598755
+    },
+    {
+      "text": "cigarette is 24.4 mm in circumference and contains a 27-mun filter, over-",
+      "bbox": [
+        50,
+        346,
+        714,
+        376
+      ],
+      "confidence": 0.96116703748703
+    },
+    {
+      "text": "wrapped with 32-nm tipping containing one row of perforations designed",
+      "bbox": [
+        49,
+        362,
+        696,
+        390
+      ],
+      "confidence": 0.9808103442192078
+    },
+    {
+      "text": "to ventilate smoke delivery by approximately 30s.' The leaf blend and",
+      "bbox": [
+        51,
+        379,
+        686,
+        403
+      ],
+      "confidence": 0.9748526215553284
+    },
+    {
+      "text": "casing are identical in formulation to LSA-62 (modified LUCky STRIKE Low",
+      "bbox": [
+        49,
+        393,
+        705,
+        419
+      ],
+      "confidence": 0.9423694610595703
+    },
+    {
+      "text": "Tar Filter). Flavoring consists of a mcnthol formulation which has",
+      "bbox": [
+        49,
+        409,
+        667,
+        433
+      ],
+      "confidence": 0.978251576423645
+    },
+    {
+      "text": "been under development for some time and designed to impart menthol",
+      "bbox": [
+        49,
+        422,
+        666,
+        449
+      ],
+      "confidence": 0.9830749034881592
+    },
+    {
+      "text": "taste characteristics similar to that of Newport menthol cigarettes.",
+      "bbox": [
+        50,
+        439,
+        672,
+        463
+      ],
+      "confidence": 0.9872267246246338
+    },
+    {
+      "text": "Menthol delivery for LSL-Menthol cigarettes is targeted at O.o7 mg per",
+      "bbox": [
+        48,
+        453,
+        694,
+        480
+      ],
+      "confidence": 0.9592247009277344
+    },
+    {
+      "text": "puff.",
+      "bbox": [
+        48,
+        468,
+        99,
+        489
+      ],
+      "confidence": 0.9985705614089966
+    },
+    {
+      "text": "while no consumer testing has been conducted, wc fcel, based on Labora-",
+      "bbox": [
+        50,
+        500,
+        700,
+        523
+      ],
+      "confidence": 0.966890811920166
+    },
+    {
+      "text": "tory smoker evaluations and limited evaluations conducted by Charles and",
+      "bbox": [
+        49,
+        514,
+        709,
+        540
+      ],
+      "confidence": 0.9858195185661316
+    },
+    {
+      "text": "Free among three Nowport smokers and one smoker each of Kool, Sterling,",
+      "bbox": [
+        52,
+        528,
+        697,
+        557
+      ],
+      "confidence": 0.9692651629447937
+    },
+    {
+      "text": "Salem Iights and Bonson and lledges Lights menthol cigarettes, that model",
+      "bbox": [
+        51,
+        544,
+        707,
+        570
+      ],
+      "confidence": 0.9816714525222778
+    },
+    {
+      "text": "LSL-Menthol delivers taste and flavor to be competitive in the markct-",
+      "bbox": [
+        50,
+        559,
+        687,
+        586
+      ],
+      "confidence": 0.982969343662262
+    },
+    {
+      "text": "place with major low \"tar\" menthol loo's products.",
+      "bbox": [
+        51,
+        576,
+        499,
+        599
+      ],
+      "confidence": 0.9801945686340332
+    },
+    {
+      "text": "We consider Lsl-Menthol to be a mild, good-tasting cigarette with men-",
+      "bbox": [
+        50,
+        604,
+        684,
+        630
+      ],
+      "confidence": 0.9890648126602173
+    },
+    {
+      "text": "thol taste and delivery midway between the Jight taste of Salem and heavy",
+      "bbox": [
+        49,
+        616,
+        714,
+        648
+      ],
+      "confidence": 0.9761854410171509
+    },
+    {
+      "text": "taste of Kool. We reconmend LsI-Menthol as our candidate product for",
+      "bbox": [
+        51,
+        633,
+        675,
+        661
+      ],
+      "confidence": 0.9716000556945801
+    },
+    {
+      "text": "test market introduction in Birmingham, Alabama, and two selected commis-",
+      "bbox": [
+        51,
+        649,
+        712,
+        677
+      ],
+      "confidence": 0.9930421113967896
+    },
+    {
+      "text": "saries, with first shipments to the trade on August 5.",
+      "bbox": [
+        50,
+        663,
+        532,
+        690
+      ],
+      "confidence": 0.9936158061027527
+    },
+    {
+      "text": "we have discussed this project with all concerned departmcnts and, with",
+      "bbox": [
+        49,
+        691,
+        698,
+        722
+      ],
+      "confidence": 0.9849939346313477
+    },
+    {
+      "text": "timcly Management approval, are prepared to initiate tobacco prefabrica-",
+      "bbox": [
+        50,
+        707,
+        708,
+        738
+      ],
+      "confidence": 0.9912344813346863
+    },
+    {
+      "text": "tion on Juiy ll, followed by cigarette production on July i5.",
+      "bbox": [
+        50,
+        723,
+        600,
+        750
+      ],
+      "confidence": 0.9743762612342834
+    },
+    {
+      "text": "May we have your approval?",
+      "bbox": [
+        49,
+        752,
+        282,
+        772
+      ],
+      "confidence": 0.9818057417869568
+    },
+    {
+      "text": "nwt",
+      "bbox": [
+        46,
+        796,
+        80,
+        815
+      ],
+      "confidence": 0.8550312519073486
+    },
+    {
+      "text": "Attachment",
+      "bbox": [
+        46,
+        810,
+        141,
+        830
+      ],
+      "confidence": 0.9995170831680298
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        47,
+        858,
+        84,
+        872
+      ],
+      "confidence": 0.8844639658927917
+    },
+    {
+      "text": "(Please see Page 2.)",
+      "bbox": [
+        81,
+        856,
+        269,
+        878
+      ],
+      "confidence": 0.9368703961372375
+    }
+  ],
+  "full_text": "The Ameriean Tobaceo Company\nbood Menthe\nJune 26, 1985\no\nMr. T. C. Hays, Executive Vice President\nR\nLUCKY STRIKE Menthol 100's\nWe are submitting for Managcmont consideration and approval our recom-\nignated \"LsL-Menthol\" are being supplied along with analytical Labora-\ntory data for the product.\nModcl LSL-Menthol cigarettes are constructed to be a full 10o mm in\nlength and dcliver 12-mg \"tar\" and 1.0-mg nicotine per cigarette. The\ncigarette is 24.4 mm in circumference and contains a 27-mun filter, over-\nwrapped with 32-nm tipping containing one row of perforations designed\nto ventilate smoke delivery by approximately 30s.' The leaf blend and\ncasing are identical in formulation to LSA-62 (modified LUCky STRIKE Low\nTar Filter). Flavoring consists of a mcnthol formulation which has\nbeen under development for some time and designed to impart menthol\ntaste characteristics similar to that of Newport menthol cigarettes.\nMenthol delivery for LSL-Menthol cigarettes is targeted at O.o7 mg per\npuff.\nwhile no consumer testing has been conducted, wc fcel, based on Labora-\ntory smoker evaluations and limited evaluations conducted by Charles and\nFree among three Nowport smokers and one smoker each of Kool, Sterling,\nSalem Iights and Bonson and lledges Lights menthol cigarettes, that model\nLSL-Menthol delivers taste and flavor to be competitive in the markct-\nplace with major low \"tar\" menthol loo's products.\nWe consider Lsl-Menthol to be a mild, good-tasting cigarette with men-\nthol taste and delivery midway between the Jight taste of Salem and heavy\ntaste of Kool. We reconmend LsI-Menthol as our candidate product for\ntest market introduction in Birmingham, Alabama, and two selected commis-\nsaries, with first shipments to the trade on August 5.\nwe have discussed this project with all concerned departmcnts and, with\ntimcly Management approval, are prepared to initiate tobacco prefabrica-\ntion on Juiy ll, followed by cigarette production on July i5.\nMay we have your approval?\nnwt\nAttachment\ncc:\n(Please see Page 2.)"
+}

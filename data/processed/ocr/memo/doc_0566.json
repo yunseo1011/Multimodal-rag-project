@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0566.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FOR YOUR INFORMATION",
+      "bbox": [
+        461,
+        97,
+        705,
+        123
+      ],
+      "confidence": 0.9997743368148804
+    },
+    {
+      "text": "KAREN MARRYSHOW",
+      "bbox": [
+        525,
+        125,
+        706,
+        146
+      ],
+      "confidence": 0.9872375726699829
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        55,
+        152,
+        92,
+        167
+      ],
+      "confidence": 0.9994484782218933
+    },
+    {
+      "text": "July 16, 1999",
+      "bbox": [
+        135,
+        147,
+        226,
+        172
+      ],
+      "confidence": 0.9614372849464417
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        54,
+        182,
+        81,
+        201
+      ],
+      "confidence": 0.9928023219108582
+    },
+    {
+      "text": "Ken Smikle, Target Market News",
+      "bbox": [
+        136,
+        180,
+        344,
+        202
+      ],
+      "confidence": 0.9936081767082214
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        54,
+        212,
+        112,
+        232
+      ],
+      "confidence": 0.9997332096099854
+    },
+    {
+      "text": "Revised Timetable for Circulation Study",
+      "bbox": [
+        135,
+        212,
+        382,
+        233
+      ],
+      "confidence": 0.9980419874191284
+    },
+    {
+      "text": "Please forward a revised proposal to reflect the following:",
+      "bbox": [
+        136,
+        243,
+        486,
+        263
+      ],
+      "confidence": 0.9856656789779663
+    },
+    {
+      "text": "tolegal review",
+      "bbox": [
+        525,
+        238,
+        700,
+        368
+      ],
+      "confidence": 0.897631824016571
+    },
+    {
+      "text": "misseddue",
+      "bbox": [
+        486,
+        255,
+        622,
+        350
+      ],
+      "confidence": 0.9797894954681396
+    },
+    {
+      "text": "Send Verification Letter & Circulation",
+      "bbox": [
+        135,
+        273,
+        365,
+        293
+      ],
+      "confidence": 0.9849071502685547
+    },
+    {
+      "text": "Study Purpose Letter to Publishers",
+      "bbox": [
+        142,
+        289,
+        355,
+        310
+      ],
+      "confidence": 0.9848557710647583
+    },
+    {
+      "text": "July 19",
+      "bbox": [
+        419,
+        290,
+        485,
+        312
+      ],
+      "confidence": 0.9891990423202515
+    },
+    {
+      "text": "of letter",
+      "bbox": [
+        560,
+        288,
+        673,
+        387
+      ],
+      "confidence": 0.9395046234130859
+    },
+    {
+      "text": "Signed verification letter (by publishers)",
+      "bbox": [
+        134,
+        320,
+        377,
+        340
+      ],
+      "confidence": 0.9707363843917847
+    },
+    {
+      "text": "and copy of newspaper directly",
+      "bbox": [
+        143,
+        335,
+        337,
+        357
+      ],
+      "confidence": 0.9925830960273743
+    },
+    {
+      "text": "July 23",
+      "bbox": [
+        417,
+        351,
+        472,
+        376
+      ],
+      "confidence": 0.9996026158332825
+    },
+    {
+      "text": "to Philip Morris",
+      "bbox": [
+        134,
+        353,
+        232,
+        370
+      ],
+      "confidence": 0.987920880317688
+    },
+    {
+      "text": "Addendum to Contract to NNPA",
+      "bbox": [
+        133,
+        382,
+        334,
+        400
+      ],
+      "confidence": 0.9972105026245117
+    },
+    {
+      "text": "July 26*",
+      "bbox": [
+        418,
+        384,
+        478,
+        406
+      ],
+      "confidence": 0.999034583568573
+    },
+    {
+      "text": "Printing of FSI",
+      "bbox": [
+        129,
+        411,
+        228,
+        435
+      ],
+      "confidence": 0.9667918086051941
+    },
+    {
+      "text": "July 30",
+      "bbox": [
+        416,
+        413,
+        471,
+        439
+      ],
+      "confidence": 0.9975987672805786
+    },
+    {
+      "text": "Mailing of FSI",
+      "bbox": [
+        128,
+        442,
+        225,
+        466
+      ],
+      "confidence": 0.9455992579460144
+    },
+    {
+      "text": "August 2",
+      "bbox": [
+        415,
+        445,
+        479,
+        470
+      ],
+      "confidence": 0.9971641302108765
+    },
+    {
+      "text": "FSI inserted into ncwspapers",
+      "bbox": [
+        128,
+        476,
+        307,
+        495
+      ],
+      "confidence": 0.9740577936172485
+    },
+    {
+      "text": "August 9",
+      "bbox": [
+        414,
+        477,
+        480,
+        501
+      ],
+      "confidence": 0.9970622062683105
+    },
+    {
+      "text": "Postmark deadline for entry form",
+      "bbox": [
+        126,
+        506,
+        332,
+        526
+      ],
+      "confidence": 0.9803633689880371
+    },
+    {
+      "text": "August 23",
+      "bbox": [
+        415,
+        509,
+        487,
+        530
+      ],
+      "confidence": 0.9990538358688354
+    },
+    {
+      "text": "Tabulation of data by Target Market News",
+      "bbox": [
+        125,
+        537,
+        386,
+        559
+      ],
+      "confidence": 0.9886128306388855
+    },
+    {
+      "text": "August 24-26",
+      "bbox": [
+        416,
+        542,
+        509,
+        560
+      ],
+      "confidence": 0.9994975924491882
+    },
+    {
+      "text": "Final report due to Philip Morris",
+      "bbox": [
+        123,
+        567,
+        325,
+        589
+      ],
+      "confidence": 0.9901695251464844
+    },
+    {
+      "text": "August 30**",
+      "bbox": [
+        414,
+        569,
+        503,
+        593
+      ],
+      "confidence": 0.9996756911277771
+    },
+    {
+      "text": "(by overnight mail)",
+      "bbox": [
+        134,
+        584,
+        255,
+        604
+      ],
+      "confidence": 0.9946014881134033
+    },
+    {
+      "text": "Contest Winners Selected",
+      "bbox": [
+        120,
+        615,
+        283,
+        637
+      ],
+      "confidence": 0.9848321080207825
+    },
+    {
+      "text": "August 31",
+      "bbox": [
+        415,
+        622,
+        484,
+        640
+      ],
+      "confidence": 0.9990861415863037
+    },
+    {
+      "text": "Prizes distributed",
+      "bbox": [
+        117,
+        647,
+        230,
+        669
+      ],
+      "confidence": 0.9927086234092712
+    },
+    {
+      "text": "September 3",
+      "bbox": [
+        415,
+        653,
+        499,
+        671
+      ],
+      "confidence": 0.9998457431793213
+    },
+    {
+      "text": "Please note:",
+      "bbox": [
+        115,
+        679,
+        195,
+        702
+      ],
+      "confidence": 0.9996666312217712
+    },
+    {
+      "text": "* Addendum request is being forward to PM Legal - 7/16",
+      "bbox": [
+        112,
+        693,
+        482,
+        722
+      ],
+      "confidence": 0.9770969748497009
+    },
+    {
+      "text": "** This is a drop dead date",
+      "bbox": [
+        114,
+        711,
+        318,
+        737
+      ],
+      "confidence": 0.9832733273506165
+    },
+    {
+      "text": "Please call on receipt of this correspondence. 917-663-3516.",
+      "bbox": [
+        110,
+        745,
+        501,
+        767
+      ],
+      "confidence": 0.9897192716598511
+    },
+    {
+      "text": "Thank you.",
+      "bbox": [
+        108,
+        778,
+        187,
+        799
+      ],
+      "confidence": 0.9878076314926147
+    },
+    {
+      "text": "2071506341",
+      "bbox": [
+        734,
+        839,
+        754,
+        948
+      ],
+      "confidence": 0.9999569058418274
+    }
+  ],
+  "full_text": "FOR YOUR INFORMATION\nKAREN MARRYSHOW\nDATE:\nJuly 16, 1999\nTO:\nKen Smikle, Target Market News\nSUBJECT:\nRevised Timetable for Circulation Study\nPlease forward a revised proposal to reflect the following:\ntolegal review\nmisseddue\nSend Verification Letter & Circulation\nStudy Purpose Letter to Publishers\nJuly 19\nof letter\nSigned verification letter (by publishers)\nand copy of newspaper directly\nJuly 23\nto Philip Morris\nAddendum to Contract to NNPA\nJuly 26*\nPrinting of FSI\nJuly 30\nMailing of FSI\nAugust 2\nFSI inserted into ncwspapers\nAugust 9\nPostmark deadline for entry form\nAugust 23\nTabulation of data by Target Market News\nAugust 24-26\nFinal report due to Philip Morris\nAugust 30**\n(by overnight mail)\nContest Winners Selected\nAugust 31\nPrizes distributed\nSeptember 3\nPlease note:\n* Addendum request is being forward to PM Legal - 7/16\n** This is a drop dead date\nPlease call on receipt of this correspondence. 917-663-3516.\nThank you.\n2071506341"
+}

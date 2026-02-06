@@ -1,0 +1,291 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0648.png",
+    "image_width": 778,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        336,
+        69,
+        473,
+        89
+      ],
+      "confidence": 0.9999297857284546
+    },
+    {
+      "text": "Ron Morris",
+      "bbox": [
+        182,
+        169,
+        272,
+        196
+      ],
+      "confidence": 0.9976248741149902
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        83,
+        175,
+        121,
+        199
+      ],
+      "confidence": 0.9976957440376282
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        84,
+        215,
+        147,
+        236
+      ],
+      "confidence": 0.9997766613960266
+    },
+    {
+      "text": "Ruth Billings",
+      "bbox": [
+        182,
+        208,
+        281,
+        236
+      ],
+      "confidence": 0.9727408289909363
+    },
+    {
+      "text": "January 19, 1993",
+      "bbox": [
+        180,
+        246,
+        307,
+        274
+      ],
+      "confidence": 0.9875507950782776
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        83,
+        250,
+        143,
+        274
+      ],
+      "confidence": 0.9995880126953125
+    },
+    {
+      "text": "RE:",
+      "bbox": [
+        82,
+        287,
+        121,
+        310
+      ],
+      "confidence": 0.9997444152832031
+    },
+    {
+      "text": "Kentucky Governor's Proposed Smoking Regulation",
+      "bbox": [
+        183,
+        284,
+        555,
+        309
+      ],
+      "confidence": 0.9824782013893127
+    },
+    {
+      "text": "On Friday, January 15, I met with Pat Mulloy (Secretary, Finance & Administration",
+      "bbox": [
+        83,
+        342,
+        720,
+        365
+      ],
+      "confidence": 0.9903209209442139
+    },
+    {
+      "text": "Cabinet), John Fritz (Council for Burley Tobacco), Ed Logsdon (Commissioner of Ag.) and",
+      "bbox": [
+        83,
+        361,
+        719,
+        384
+      ],
+      "confidence": 0.99109947681427
+    },
+    {
+      "text": "Bonnie Howell (Mulloy's office) to discuss the Governor's proposed smoking regulation. .",
+      "bbox": [
+        83,
+        382,
+        718,
+        403
+      ],
+      "confidence": 0.9889722466468811
+    },
+    {
+      "text": "Mulloy presented us with the attached draft, and assured us that every branch would have",
+      "bbox": [
+        83,
+        417,
+        719,
+        442
+      ],
+      "confidence": 0.9924827814102173
+    },
+    {
+      "text": "smoking and nonsmoking areas other than outside and in the basement. The regulation only",
+      "bbox": [
+        83,
+        437,
+        719,
+        461
+      ],
+      "confidence": 0.9822795391082764
+    },
+    {
+      "text": "affects the executive branch, not judicial or legislative.",
+      "bbox": [
+        83,
+        458,
+        474,
+        479
+      ],
+      "confidence": 0.9951364398002625
+    },
+    {
+      "text": "The governor has stated that the regulation will be issued as an emergency regulation. He",
+      "bbox": [
+        82,
+        495,
+        719,
+        518
+      ],
+      "confidence": 0.9954996705055237
+    },
+    {
+      "text": "hopes to meet with Representative Donnie Gedling and Senator Rick Rand this week to",
+      "bbox": [
+        82,
+        514,
+        719,
+        537
+      ],
+      "confidence": 0.9888787269592285
+    },
+    {
+      "text": "obtain their approval. If they do approve the regulation the governor wants to make an",
+      "bbox": [
+        77,
+        534,
+        719,
+        556
+      ],
+      "confidence": 0.9850472807884216
+    },
+    {
+      "text": "announcement next week, and have all those who agree with the regulation present at that",
+      "bbox": [
+        84,
+        554,
+        718,
+        575
+      ],
+      "confidence": 0.9984300136566162
+    },
+    {
+      "text": "announcement.",
+      "bbox": [
+        83,
+        574,
+        197,
+        594
+      ],
+      "confidence": 0.9999668598175049
+    },
+    {
+      "text": "Please take a look at the draft and let me know, as soon as possible, if you feel this is",
+      "bbox": [
+        82,
+        608,
+        719,
+        634
+      ],
+      "confidence": 0.982496440410614
+    },
+    {
+      "text": "something TI can live with.",
+      "bbox": [
+        83,
+        631,
+        282,
+        651
+      ],
+      "confidence": 0.994636595249176
+    },
+    {
+      "text": "R.A.B.",
+      "bbox": [
+        376,
+        669,
+        432,
+        692
+      ],
+      "confidence": 0.9996822476387024
+    },
+    {
+      "text": "RAB/sfd",
+      "bbox": [
+        82,
+        707,
+        153,
+        729
+      ],
+      "confidence": 0.9997233748435974
+    },
+    {
+      "text": "Attachment",
+      "bbox": [
+        84,
+        748,
+        171,
+        766
+      ],
+      "confidence": 0.9998771548271179
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        83,
+        786,
+        108,
+        803
+      ],
+      "confidence": 0.9879827499389648
+    },
+    {
+      "text": "Cathey Yoe",
+      "bbox": [
+        129,
+        781,
+        223,
+        809
+      ],
+      "confidence": 0.964332103729248
+    },
+    {
+      "text": "TKYL 0000078",
+      "bbox": [
+        637,
+        978,
+        737,
+        1000
+      ],
+      "confidence": 0.9991791248321533
+    }
+  ],
+  "full_text": "MEMORANDUM\nRon Morris\nTO:\nFROM:\nRuth Billings\nJanuary 19, 1993\nDATE:\nRE:\nKentucky Governor's Proposed Smoking Regulation\nOn Friday, January 15, I met with Pat Mulloy (Secretary, Finance & Administration\nCabinet), John Fritz (Council for Burley Tobacco), Ed Logsdon (Commissioner of Ag.) and\nBonnie Howell (Mulloy's office) to discuss the Governor's proposed smoking regulation. .\nMulloy presented us with the attached draft, and assured us that every branch would have\nsmoking and nonsmoking areas other than outside and in the basement. The regulation only\naffects the executive branch, not judicial or legislative.\nThe governor has stated that the regulation will be issued as an emergency regulation. He\nhopes to meet with Representative Donnie Gedling and Senator Rick Rand this week to\nobtain their approval. If they do approve the regulation the governor wants to make an\nannouncement next week, and have all those who agree with the regulation present at that\nannouncement.\nPlease take a look at the draft and let me know, as soon as possible, if you feel this is\nsomething TI can live with.\nR.A.B.\nRAB/sfd\nAttachment\ncc:\nCathey Yoe\nTKYL 0000078"
+}

@@ -1,0 +1,541 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0457.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Council For Tobacco ResearcH-U.S.A., Inc.",
+      "bbox": [
+        207,
+        31,
+        637,
+        67
+      ],
+      "confidence": 0.9189992547035217
+    },
+    {
+      "text": "110 ZAST SOTH STREET",
+      "bbox": [
+        353,
+        59,
+        491,
+        79
+      ],
+      "confidence": 0.9569504857063293
+    },
+    {
+      "text": "NEW YORK. N. Y. 10022",
+      "bbox": [
+        353,
+        75,
+        490,
+        95
+      ],
+      "confidence": 0.9693806767463684
+    },
+    {
+      "text": "ROBERT 7. GERTENBACH",
+      "bbox": [
+        108,
+        132,
+        238,
+        150
+      ],
+      "confidence": 0.8946042060852051
+    },
+    {
+      "text": "BLECVTITE TICS PENIDEIT",
+      "bbox": [
+        110,
+        144,
+        231,
+        160
+      ],
+      "confidence": 0.8176788091659546
+    },
+    {
+      "text": "AND OBCRBTABT",
+      "bbox": [
+        125,
+        153,
+        196,
+        169
+      ],
+      "confidence": 0.7066494822502136
+    },
+    {
+      "text": "December 8, 1983",
+      "bbox": [
+        430,
+        213,
+        557,
+        232
+      ],
+      "confidence": 0.9866578578948975
+    },
+    {
+      "text": "Mr. Frederic L. Voorhees",
+      "bbox": [
+        193,
+        286,
+        379,
+        306
+      ],
+      "confidence": 0.991007387638092
+    },
+    {
+      "text": "Senior Trust Officer",
+      "bbox": [
+        193,
+        301,
+        349,
+        322
+      ],
+      "confidence": 0.9989020228385925
+    },
+    {
+      "text": "Citibank, N.A.",
+      "bbox": [
+        193,
+        321,
+        300,
+        335
+      ],
+      "confidence": 0.986627459526062
+    },
+    {
+      "text": "One Citicorp Center",
+      "bbox": [
+        190,
+        334,
+        340,
+        352
+      ],
+      "confidence": 0.9618006348609924
+    },
+    {
+      "text": "153 East 53rd Street",
+      "bbox": [
+        189,
+        348,
+        346,
+        366
+      ],
+      "confidence": 0.9898093342781067
+    },
+    {
+      "text": "New York, New York 1oo43",
+      "bbox": [
+        188,
+        363,
+        376,
+        381
+      ],
+      "confidence": 0.9677526354789734
+    },
+    {
+      "text": "Re: 296079 Ttee, The Council for Tobacco Research-",
+      "bbox": [
+        291,
+        390,
+        684,
+        411
+      ],
+      "confidence": 0.9688772559165955
+    },
+    {
+      "text": "U.S.A., Inc. Employees Retirement Plan",
+      "bbox": [
+        332,
+        409,
+        624,
+        426
+      ],
+      "confidence": 0.9853577613830566
+    },
+    {
+      "text": "Dear Fred:",
+      "bbox": [
+        185,
+        439,
+        264,
+        456
+      ],
+      "confidence": 0.9934017062187195
+    },
+    {
+      "text": "Reference is made to your letter to me of June 6,",
+      "bbox": [
+        275,
+        469,
+        652,
+        486
+      ],
+      "confidence": 0.9880585074424744
+    },
+    {
+      "text": "1983 relating to the transfer of a portion of the assets of",
+      "bbox": [
+        184,
+        484,
+        637,
+        501
+      ],
+      "confidence": 0.9704461097717285
+    },
+    {
+      "text": "The Council for Tobacco Research-U.S.A., Inc. Employees Retire-",
+      "bbox": [
+        184,
+        500,
+        665,
+        517
+      ],
+      "confidence": 0.9731900691986084
+    },
+    {
+      "text": "ment Plan (\"CTR Plan\"). As we had previously discussed, same",
+      "bbox": [
+        182,
+        516,
+        652,
+        533
+      ],
+      "confidence": 0.9682958722114563
+    },
+    {
+      "text": "of the former participants of the cTR Plan are now covered",
+      "bbox": [
+        182,
+        529,
+        628,
+        548
+      ],
+      "confidence": 0.9691312909126282
+    },
+    {
+      "text": "under the Retirement Plan for Employees of IS, Inc. (\"LS Plan\").",
+      "bbox": [
+        181,
+        542,
+        672,
+        566
+      ],
+      "confidence": 0.9795704483985901
+    },
+    {
+      "text": "It is desired to transfer to the trustees of the Is Plan the",
+      "bbox": [
+        181,
+        558,
+        643,
+        581
+      ],
+      "confidence": 0.9795128107070923
+    },
+    {
+      "text": "portion of the assets of the CTR Plan allocable to participants",
+      "bbox": [
+        180,
+        575,
+        666,
+        596
+      ],
+      "confidence": 0.9895995259284973
+    },
+    {
+      "text": "who have transferred fram the CTR Plan to the Is Plan. A list",
+      "bbox": [
+        180,
+        589,
+        658,
+        611
+      ],
+      "confidence": 0.9664100408554077
+    },
+    {
+      "text": "of these participants is attached. You will note fram such",
+      "bbox": [
+        179,
+        604,
+        636,
+        627
+      ],
+      "confidence": 0.9798564910888672
+    },
+    {
+      "text": "list that there were two Literature Retrieval Division ter-",
+      "bbox": [
+        180,
+        621,
+        634,
+        641
+      ],
+      "confidence": 0.9925368428230286
+    },
+    {
+      "text": "Details are as follows:",
+      "bbox": [
+        450,
+        636,
+        633,
+        655
+      ],
+      "confidence": 0.9830030202865601
+    },
+    {
+      "text": "minations prior to April 15, 1983. ",
+      "bbox": [
+        179,
+        638,
+        459,
+        656
+      ],
+      "confidence": 0.9652168154716492
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        178,
+        662,
+        218,
+        681
+      ],
+      "confidence": 0.9996507167816162
+    },
+    {
+      "text": "Termination Date",
+      "bbox": [
+        294,
+        661,
+        420,
+        678
+      ],
+      "confidence": 0.9980037212371826
+    },
+    {
+      "text": " Forfeited",
+      "bbox": [
+        438,
+        661,
+        529,
+        678
+      ],
+      "confidence": 0.9527697563171387
+    },
+    {
+      "text": "Amount of Forfeiture",
+      "bbox": [
+        534,
+        658,
+        693,
+        677
+      ],
+      "confidence": 0.983733057975769
+    },
+    {
+      "text": "$4,849.18",
+      "bbox": [
+        559,
+        680,
+        635,
+        700
+      ],
+      "confidence": 0.9997860789299011
+    },
+    {
+      "text": "V.P. Saxena",
+      "bbox": [
+        180,
+        686,
+        268,
+        701
+      ],
+      "confidence": 0.978502094745636
+    },
+    {
+      "text": "2/15/83",
+      "bbox": [
+        301,
+        683,
+        360,
+        701
+      ],
+      "confidence": 0.9996857047080994
+    },
+    {
+      "text": "108",
+      "bbox": [
+        460,
+        684,
+        490,
+        701
+      ],
+      "confidence": 0.9089236259460449
+    },
+    {
+      "text": "$5,859.65",
+      "bbox": [
+        558,
+        694,
+        635,
+        715
+      ],
+      "confidence": 0.9934710264205933
+    },
+    {
+      "text": "L.A. Drummond",
+      "bbox": [
+        180,
+        701,
+        283,
+        715
+      ],
+      "confidence": 0.9433985948562622
+    },
+    {
+      "text": "3/17/83",
+      "bbox": [
+        301,
+        699,
+        359,
+        716
+      ],
+      "confidence": 0.99916011095047
+    },
+    {
+      "text": "308",
+      "bbox": [
+        460,
+        698,
+        490,
+        717
+      ],
+      "confidence": 0.9629254937171936
+    },
+    {
+      "text": "$10,700.£3",
+      "bbox": [
+        550,
+        726,
+        633,
+        745
+      ],
+      "confidence": 0.9252142906188965
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        376,
+        730,
+        419,
+        745
+      ],
+      "confidence": 0.9996894598007202
+    },
+    {
+      "text": "We believe the above forfeited total should be a part of the",
+      "bbox": [
+        179,
+        751,
+        640,
+        770
+      ],
+      "confidence": 0.9880363941192627
+    },
+    {
+      "text": "assets to be transferred to Is, Inc. (see Citibank statemen'ts",
+      "bbox": [
+        180,
+        766,
+        647,
+        785
+      ],
+      "confidence": 0.9843833446502686
+    },
+    {
+      "text": "of 6/3o/83 for details, attached).",
+      "bbox": [
+        182,
+        784,
+        437,
+        798
+      ],
+      "confidence": 0.9726277589797974
+    },
+    {
+      "text": "This transfer should be made as of December 31, 1983",
+      "bbox": [
+        272,
+        812,
+        668,
+        827
+      ],
+      "confidence": 0.9597575068473816
+    },
+    {
+      "text": "and as soon as possible in early 1984. I understand that this",
+      "bbox": [
+        182,
+        827,
+        654,
+        844
+      ],
+      "confidence": 0.9927513599395752
+    },
+    {
+      "text": "THES OCCUKEST SUSIECT TO AUG.",
+      "bbox": [
+        469,
+        856,
+        656,
+        877
+      ],
+      "confidence": 0.9304305911064148
+    },
+    {
+      "text": "6951",
+      "bbox": [
+        390,
+        877,
+        453,
+        903
+      ],
+      "confidence": 0.7552875876426697
+    },
+    {
+      "text": "IRSS NODISSEINATION ORDER",
+      "bbox": [
+        467,
+        868,
+        658,
+        894
+      ],
+      "confidence": 0.81879723072052
+    },
+    {
+      "text": "CTP",
+      "bbox": [
+        304,
+        878,
+        355,
+        911
+      ],
+      "confidence": 0.8874486088752747
+    },
+    {
+      "text": "IWN AGSERS AND CUKE CASES.",
+      "bbox": [
+        467,
+        887,
+        611,
+        907
+      ],
+      "confidence": 0.8014255166053772
+    }
+  ],
+  "full_text": "The Council For Tobacco ResearcH-U.S.A., Inc.\n110 ZAST SOTH STREET\nNEW YORK. N. Y. 10022\nROBERT 7. GERTENBACH\nBLECVTITE TICS PENIDEIT\nAND OBCRBTABT\nDecember 8, 1983\nMr. Frederic L. Voorhees\nSenior Trust Officer\nCitibank, N.A.\nOne Citicorp Center\n153 East 53rd Street\nNew York, New York 1oo43\nRe: 296079 Ttee, The Council for Tobacco Research-\nU.S.A., Inc. Employees Retirement Plan\nDear Fred:\nReference is made to your letter to me of June 6,\n1983 relating to the transfer of a portion of the assets of\nThe Council for Tobacco Research-U.S.A., Inc. Employees Retire-\nment Plan (\"CTR Plan\"). As we had previously discussed, same\nof the former participants of the cTR Plan are now covered\nunder the Retirement Plan for Employees of IS, Inc. (\"LS Plan\").\nIt is desired to transfer to the trustees of the Is Plan the\nportion of the assets of the CTR Plan allocable to participants\nwho have transferred fram the CTR Plan to the Is Plan. A list\nof these participants is attached. You will note fram such\nlist that there were two Literature Retrieval Division ter-\nDetails are as follows:\nminations prior to April 15, 1983. \nName\nTermination Date\n Forfeited\nAmount of Forfeiture\n$4,849.18\nV.P. Saxena\n2/15/83\n108\n$5,859.65\nL.A. Drummond\n3/17/83\n308\n$10,700.£3\nTOTAL\nWe believe the above forfeited total should be a part of the\nassets to be transferred to Is, Inc. (see Citibank statemen'ts\nof 6/3o/83 for details, attached).\nThis transfer should be made as of December 31, 1983\nand as soon as possible in early 1984. I understand that this\nTHES OCCUKEST SUSIECT TO AUG.\n6951\nIRSS NODISSEINATION ORDER\nCTP\nIWN AGSERS AND CUKE CASES."
+}

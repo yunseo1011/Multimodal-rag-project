@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0589.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Kyle Brozda",
+      "bbox": [
+        356,
+        255,
+        480,
+        297
+      ],
+      "confidence": 0.8155658841133118
+    },
+    {
+      "text": "76 Madison. st.",
+      "bbox": [
+        379,
+        293,
+        520,
+        321
+      ],
+      "confidence": 0.9030182361602783
+    },
+    {
+      "text": "Geneva, 0.4.18456",
+      "bbox": [
+        370,
+        322,
+        612,
+        357
+      ],
+      "confidence": 0.8416164517402649
+    },
+    {
+      "text": "I.called. the:8oo.number",
+      "bbox": [
+        454,
+        390,
+        695,
+        418
+      ],
+      "confidence": 0.8542208075523376
+    },
+    {
+      "text": "from the side of theyipack and was",
+      "bbox": [
+        376,
+        419,
+        729,
+        455
+      ],
+      "confidence": 0.9351468682289124
+    },
+    {
+      "text": "told thiey would send ime a container.",
+      "bbox": [
+        380,
+        454,
+        727,
+        484
+      ],
+      "confidence": 0.9230996966362
+    },
+    {
+      "text": "to put. the cigarettes in and send thei",
+      "bbox": [
+        381,
+        486,
+        731,
+        516
+      ],
+      "confidence": 0.92048579454422
+    },
+    {
+      "text": "back to you. this neverthappened so..",
+      "bbox": [
+        384,
+        515,
+        715,
+        549
+      ],
+      "confidence": 0.8987132906913757
+    },
+    {
+      "text": "I'n Sending them on ay.awa..",
+      "bbox": [
+        387,
+        551,
+        662,
+        580
+      ],
+      "confidence": 0.8904972672462463
+    },
+    {
+      "text": "orce again. Thanks,.",
+      "bbox": [
+        378,
+        582,
+        617,
+        612
+      ],
+      "confidence": 0.9061039090156555
+    },
+    {
+      "text": "Kilibada.",
+      "bbox": [
+        527,
+        643,
+        698,
+        685
+      ],
+      "confidence": 0.6716423630714417
+    },
+    {
+      "text": "51820 9722",
+      "bbox": [
+        719,
+        675,
+        747,
+        773
+      ],
+      "confidence": 0.9979848861694336
+    },
+    {
+      "text": "3",
+      "bbox": [
+        64,
+        981,
+        87,
+        1000
+      ],
+      "confidence": 0.6627101898193359
+    }
+  ],
+  "full_text": "Kyle Brozda\n76 Madison. st.\nGeneva, 0.4.18456\nI.called. the:8oo.number\nfrom the side of theyipack and was\ntold thiey would send ime a container.\nto put. the cigarettes in and send thei\nback to you. this neverthappened so..\nI'n Sending them on ay.awa..\norce again. Thanks,.\nKilibada.\n51820 9722\n3"
+}

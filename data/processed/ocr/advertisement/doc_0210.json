@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0210.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THEREVE BEEN 24 CHARCOAL FILITER CIGARETTES, BUT",
+      "bbox": [
+        32,
+        19,
+        701,
+        60
+      ],
+      "confidence": 0.9642727971076965
+    },
+    {
+      "text": "THERE'S ONLY ONE",
+      "bbox": [
+        94,
+        51,
+        633,
+        99
+      ],
+      "confidence": 0.9968677759170532
+    },
+    {
+      "text": "NUMBER ONE.",
+      "bbox": [
+        168,
+        99,
+        566,
+        148
+      ],
+      "confidence": 0.9646146297454834
+    },
+    {
+      "text": "A",
+      "bbox": [
+        263,
+        260,
+        374,
+        303
+      ],
+      "confidence": 0.9925063252449036
+    },
+    {
+      "text": "CIGAREETES",
+      "bbox": [
+        289,
+        291,
+        369,
+        312
+      ],
+      "confidence": 0.834328293800354
+    },
+    {
+      "text": "Tareyton",
+      "bbox": [
+        187,
+        317,
+        457,
+        411
+      ],
+      "confidence": 0.9489566087722778
+    },
+    {
+      "text": "ALTERS",
+      "bbox": [
+        214,
+        598,
+        297,
+        625
+      ],
+      "confidence": 0.8547016978263855
+    },
+    {
+      "text": "THIS ONE",
+      "bbox": [
+        234,
+        674,
+        501,
+        723
+      ],
+      "confidence": 0.9371711015701294
+    }
+  ],
+  "full_text": "THEREVE BEEN 24 CHARCOAL FILITER CIGARETTES, BUT\nTHERE'S ONLY ONE\nNUMBER ONE.\nA\nCIGAREETES\nTareyton\nALTERS\nTHIS ONE"
+}

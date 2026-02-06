@@ -1,0 +1,681 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0484.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Pulmonary Reactive Uptake of Inhaled Toxic Contaminants",
+      "bbox": [
+        100,
+        57,
+        546,
+        83
+      ],
+      "confidence": 0.994455873966217
+    },
+    {
+      "text": "PI: Edward K. Postlethwait, Ph.D. ",
+      "bbox": [
+        100,
+        77,
+        393,
+        100
+      ],
+      "confidence": 0.9441022276878357
+    },
+    {
+      "text": "University of Texas Medical Branch",
+      "bbox": [
+        141,
+        93,
+        417,
+        113
+      ],
+      "confidence": 0.994705319404602
+    },
+    {
+      "text": "Pulmonary Division",
+      "bbox": [
+        142,
+        111,
+        291,
+        129
+      ],
+      "confidence": 0.998429536819458
+    },
+    {
+      "text": "The proposed project is designed to characterize and compare across",
+      "bbox": [
+        102,
+        136,
+        643,
+        161
+      ],
+      "confidence": 0.9948589205741882
+    },
+    {
+      "text": "species (including man) the kinetics of interaction and the predominant",
+      "bbox": [
+        103,
+        150,
+        675,
+        178
+      ],
+      "confidence": 0.9866830706596375
+    },
+    {
+      "text": "substrates involved during the pulmonary airspace absorption of NO",
+      "bbox": [
+        102,
+        166,
+        645,
+        194
+      ],
+      "confidence": 0.9900909066200256
+    },
+    {
+      "text": "and",
+      "bbox": [
+        642,
+        168,
+        675,
+        183
+      ],
+      "confidence": 0.9997200965881348
+    },
+    {
+      "text": "O with the goal of establishing a model for evaluating relative",
+      "bbox": [
+        101,
+        181,
+        619,
+        210
+      ],
+      "confidence": 0.9772636890411377
+    },
+    {
+      "text": "dosimetry. The researchers will delineate the absorption determinants of",
+      "bbox": [
+        101,
+        195,
+        691,
+        225
+      ],
+      "confidence": 0.976374089717865
+    },
+    {
+      "text": "NO, and O, within the intact, isolated lung, followed by the",
+      "bbox": [
+        101,
+        213,
+        585,
+        240
+      ],
+      "confidence": 0.9735026955604553
+    },
+    {
+      "text": "determination of the extent to which uptake is localized to within the",
+      "bbox": [
+        102,
+        227,
+        665,
+        255
+      ],
+      "confidence": 0.9920145273208618
+    },
+    {
+      "text": "epithelial lining fluid (ELF).",
+      "bbox": [
+        104,
+        248,
+        343,
+        271
+      ],
+      "confidence": 0.9975596070289612
+    },
+    {
+      "text": "90-23A",
+      "bbox": [
+        397,
+        277,
+        450,
+        295
+      ],
+      "confidence": 0.9993885159492493
+    },
+    {
+      "text": "90-23B",
+      "bbox": [
+        515,
+        275,
+        567,
+        293
+      ],
+      "confidence": 0.9996716380119324
+    },
+    {
+      "text": "90-23C",
+      "bbox": [
+        594,
+        275,
+        650,
+        293
+      ],
+      "confidence": 0.9874961376190186
+    },
+    {
+      "text": "Contract No.",
+      "bbox": [
+        105,
+        282,
+        203,
+        299
+      ],
+      "confidence": 0.9830589890480042
+    },
+    {
+      "text": "90-23",
+      "bbox": [
+        279,
+        278,
+        324,
+        297
+      ],
+      "confidence": 0.9996377229690552
+    },
+    {
+      "text": "7/1/90",
+      "bbox": [
+        279,
+        307,
+        334,
+        329
+      ],
+      "confidence": 0.9999392032623291
+    },
+    {
+      "text": "7/1/91",
+      "bbox": [
+        397,
+        306,
+        450,
+        328
+      ],
+      "confidence": 0.9998957514762878
+    },
+    {
+      "text": "7/1/92",
+      "bbox": [
+        514,
+        304,
+        570,
+        328
+      ],
+      "confidence": 0.9998025894165039
+    },
+    {
+      "text": "7/1/93",
+      "bbox": [
+        593,
+        302,
+        650,
+        327
+      ],
+      "confidence": 0.9999005198478699
+    },
+    {
+      "text": "Contract Exec Date",
+      "bbox": [
+        105,
+        309,
+        253,
+        330
+      ],
+      "confidence": 0.9891194105148315
+    },
+    {
+      "text": "(fax 6/24/91)",
+      "bbox": [
+        398,
+        322,
+        503,
+        342
+      ],
+      "confidence": 0.9760571718215942
+    },
+    {
+      "text": "7/1/91",
+      "bbox": [
+        278,
+        335,
+        334,
+        360
+      ],
+      "confidence": 0.999855101108551
+    },
+    {
+      "text": "7/1/92",
+      "bbox": [
+        395,
+        335,
+        451,
+        360
+      ],
+      "confidence": 0.8777710795402527
+    },
+    {
+      "text": "7/1/93",
+      "bbox": [
+        514,
+        333,
+        570,
+        358
+      ],
+      "confidence": 0.9997428059577942
+    },
+    {
+      "text": "7/1/94",
+      "bbox": [
+        594,
+        335,
+        650,
+        356
+      ],
+      "confidence": 0.9999380707740784
+    },
+    {
+      "text": "Contract End Date",
+      "bbox": [
+        105,
+        340,
+        246,
+        360
+      ],
+      "confidence": 0.9996981620788574
+    },
+    {
+      "text": "No Cost Extension",
+      "bbox": [
+        105,
+        369,
+        246,
+        389
+      ],
+      "confidence": 0.9930259585380554
+    },
+    {
+      "text": "$126,158",
+      "bbox": [
+        278,
+        410,
+        350,
+        434
+      ],
+      "confidence": 0.9990478754043579
+    },
+    {
+      "text": "$119,788",
+      "bbox": [
+        399,
+        412,
+        466,
+        430
+      ],
+      "confidence": 0.9998778104782104
+    },
+    {
+      "text": "$131,306",
+      "bbox": [
+        516,
+        410,
+        584,
+        431
+      ],
+      "confidence": 0.9995801448822021
+    },
+    {
+      "text": "$99,986",
+      "bbox": [
+        592,
+        409,
+        656,
+        430
+      ],
+      "confidence": 0.9789767265319824
+    },
+    {
+      "text": "Budget",
+      "bbox": [
+        106,
+        415,
+        161,
+        433
+      ],
+      "confidence": 0.9988104701042175
+    },
+    {
+      "text": "Budget Amendment",
+      "bbox": [
+        106,
+        443,
+        239,
+        464
+      ],
+      "confidence": 0.9974758625030518
+    },
+    {
+      "text": "12/1/90",
+      "bbox": [
+        280,
+        486,
+        342,
+        507
+      ],
+      "confidence": 0.999946653842926
+    },
+    {
+      "text": "12/1/91",
+      "bbox": [
+        398,
+        486,
+        460,
+        507
+      ],
+      "confidence": 0.9999627470970154
+    },
+    {
+      "text": "12/1/92",
+      "bbox": [
+        516,
+        487,
+        576,
+        505
+      ],
+      "confidence": 0.9999708533287048
+    },
+    {
+      "text": "12/1/93",
+      "bbox": [
+        592,
+        485,
+        658,
+        506
+      ],
+      "confidence": 0.9998143315315247
+    },
+    {
+      "text": "Five mos report due",
+      "bbox": [
+        105,
+        488,
+        262,
+        508
+      ],
+      "confidence": 0.999499499797821
+    },
+    {
+      "text": "1/24/91",
+      "bbox": [
+        279,
+        514,
+        342,
+        539
+      ],
+      "confidence": 0.9998793005943298
+    },
+    {
+      "text": "12/26/91",
+      "bbox": [
+        399,
+        516,
+        467,
+        537
+      ],
+      "confidence": 0.9999804496765137
+    },
+    {
+      "text": "12/15/92",
+      "bbox": [
+        516,
+        515,
+        585,
+        536
+      ],
+      "confidence": 0.999958872795105
+    },
+    {
+      "text": "3/31/94",
+      "bbox": [
+        593,
+        517,
+        656,
+        535
+      ],
+      "confidence": 0.9999735951423645
+    },
+    {
+      "text": "Five mos report rec",
+      "bbox": [
+        105,
+        518,
+        263,
+        538
+      ],
+      "confidence": 0.9772120118141174
+    },
+    {
+      "text": "Site visit (anticipated)",
+      "bbox": [
+        105,
+        560,
+        299,
+        580
+      ],
+      "confidence": 0.9880681037902832
+    },
+    {
+      "text": "Site visit (conducted)",
+      "bbox": [
+        105,
+        592,
+        284,
+        609
+      ],
+      "confidence": 0.9831123948097229
+    },
+    {
+      "text": "3/15/91",
+      "bbox": [
+        318,
+        588,
+        380,
+        609
+      ],
+      "confidence": 0.9999562501907349
+    },
+    {
+      "text": "4/28/93",
+      "bbox": [
+        555,
+        588,
+        618,
+        610
+      ],
+      "confidence": 0.9999890923500061
+    },
+    {
+      "text": "Ten month report due",
+      "bbox": [
+        103,
+        636,
+        269,
+        653
+      ],
+      "confidence": 0.986479640007019
+    },
+    {
+      "text": "5/1/91",
+      "bbox": [
+        318,
+        634,
+        373,
+        655
+      ],
+      "confidence": 0.9999051094055176
+    },
+    {
+      "text": "5/1/92",
+      "bbox": [
+        436,
+        632,
+        492,
+        658
+      ],
+      "confidence": 0.999800443649292
+    },
+    {
+      "text": "5/1/93",
+      "bbox": [
+        516,
+        632,
+        571,
+        654
+      ],
+      "confidence": 0.9998920559883118
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        594,
+        632,
+        621,
+        653
+      ],
+      "confidence": 0.9998947381973267
+    },
+    {
+      "text": "Ten month report rec",
+      "bbox": [
+        102,
+        666,
+        270,
+        683
+      ],
+      "confidence": 0.9991503953933716
+    },
+    {
+      "text": "6/6/91",
+      "bbox": [
+        318,
+        664,
+        372,
+        685
+      ],
+      "confidence": 0.9999266266822815
+    },
+    {
+      "text": "6/1/92",
+      "bbox": [
+        438,
+        663,
+        493,
+        685
+      ],
+      "confidence": 0.999914824962616
+    },
+    {
+      "text": "5/28/93",
+      "bbox": [
+        517,
+        662,
+        579,
+        683
+      ],
+      "confidence": 0.9999663233757019
+    },
+    {
+      "text": "Continuation approved",
+      "bbox": [
+        102,
+        698,
+        276,
+        715
+      ],
+      "confidence": 0.987660825252533
+    },
+    {
+      "text": "Final report due",
+      "bbox": [
+        100,
+        742,
+        234,
+        759
+      ],
+      "confidence": 0.9695846438407898
+    },
+    {
+      "text": "7/1/94",
+      "bbox": [
+        598,
+        738,
+        655,
+        760
+      ],
+      "confidence": 0.9998299479484558
+    },
+    {
+      "text": "Final report rec",
+      "bbox": [
+        99,
+        771,
+        234,
+        788
+      ],
+      "confidence": 0.9678189754486084
+    },
+    {
+      "text": "STATUS:",
+      "bbox": [
+        98,
+        816,
+        162,
+        834
+      ],
+      "confidence": 0.999150276184082
+    },
+    {
+      "text": "August 1991",
+      "bbox": [
+        179,
+        812,
+        273,
+        835
+      ],
+      "confidence": 0.9993831515312195
+    },
+    {
+      "text": "Several studies related to nitrogen dioxide reactive uptake by the",
+      "bbox": [
+        96,
+        843,
+        639,
+        866
+      ],
+      "confidence": 0.9859718680381775
+    },
+    {
+      "text": "pulmonary airspace surface were completed. A comparison between bulk",
+      "bbox": [
+        96,
+        859,
+        667,
+        883
+      ],
+      "confidence": 0.985781729221344
+    }
+  ],
+  "full_text": "Pulmonary Reactive Uptake of Inhaled Toxic Contaminants\nPI: Edward K. Postlethwait, Ph.D. \nUniversity of Texas Medical Branch\nPulmonary Division\nThe proposed project is designed to characterize and compare across\nspecies (including man) the kinetics of interaction and the predominant\nsubstrates involved during the pulmonary airspace absorption of NO\nand\nO with the goal of establishing a model for evaluating relative\ndosimetry. The researchers will delineate the absorption determinants of\nNO, and O, within the intact, isolated lung, followed by the\ndetermination of the extent to which uptake is localized to within the\nepithelial lining fluid (ELF).\n90-23A\n90-23B\n90-23C\nContract No.\n90-23\n7/1/90\n7/1/91\n7/1/92\n7/1/93\nContract Exec Date\n(fax 6/24/91)\n7/1/91\n7/1/92\n7/1/93\n7/1/94\nContract End Date\nNo Cost Extension\n$126,158\n$119,788\n$131,306\n$99,986\nBudget\nBudget Amendment\n12/1/90\n12/1/91\n12/1/92\n12/1/93\nFive mos report due\n1/24/91\n12/26/91\n12/15/92\n3/31/94\nFive mos report rec\nSite visit (anticipated)\nSite visit (conducted)\n3/15/91\n4/28/93\nTen month report due\n5/1/91\n5/1/92\n5/1/93\nNA\nTen month report rec\n6/6/91\n6/1/92\n5/28/93\nContinuation approved\nFinal report due\n7/1/94\nFinal report rec\nSTATUS:\nAugust 1991\nSeveral studies related to nitrogen dioxide reactive uptake by the\npulmonary airspace surface were completed. A comparison between bulk"
+}

@@ -1,0 +1,201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0387.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Council For Tobacco Research-U.S.A., Inc.",
+      "bbox": [
+        128,
+        55,
+        582,
+        85
+      ],
+      "confidence": 0.9640194177627563
+    },
+    {
+      "text": "900'THIRD AVENUE",
+      "bbox": [
+        296,
+        85,
+        419,
+        99
+      ],
+      "confidence": 0.9628543853759766
+    },
+    {
+      "text": "NEW YORK. N.Y. 10022",
+      "bbox": [
+        283,
+        101,
+        427,
+        114
+      ],
+      "confidence": 0.9582076072692871
+    },
+    {
+      "text": "TO: Ms. Jean Salg, Director",
+      "bbox": [
+        5,
+        169,
+        228,
+        194
+      ],
+      "confidence": 0.9420861601829529
+    },
+    {
+      "text": "Date: APR 5 - 1988'",
+      "bbox": [
+        501,
+        166,
+        655,
+        195
+      ],
+      "confidence": 0.9184165596961975
+    },
+    {
+      "text": "Indirect Costs/Sponsored Projects Accounting",
+      "bbox": [
+        40,
+        186,
+        391,
+        210
+      ],
+      "confidence": 0.9963436722755432
+    },
+    {
+      "text": "Washington University",
+      "bbox": [
+        40,
+        202,
+        211,
+        225
+      ],
+      "confidence": 0.9995052814483643
+    },
+    {
+      "text": "Grant No.:",
+      "bbox": [
+        502,
+        202,
+        575,
+        219
+      ],
+      "confidence": 0.9991315007209778
+    },
+    {
+      "text": "2144",
+      "bbox": [
+        574,
+        203,
+        615,
+        221
+      ],
+      "confidence": 0.9999444484710693
+    },
+    {
+      "text": "Lindeli & Skinker Blvds. - Box 1147",
+      "bbox": [
+        38,
+        219,
+        320,
+        239
+      ],
+      "confidence": 0.9485799670219421
+    },
+    {
+      "text": "St. Louis, M 63130",
+      "bbox": [
+        37,
+        237,
+        201,
+        254
+      ],
+      "confidence": 0.9771751761436462
+    },
+    {
+      "text": "Grantee:",
+      "bbox": [
+        120,
+        447,
+        174,
+        464
+      ],
+      "confidence": 0.9998290538787842
+    },
+    {
+      "text": "Susan E. Cullen, Ph.D.",
+      "bbox": [
+        209,
+        445,
+        396,
+        470
+      ],
+      "confidence": 0.9953916668891907
+    },
+    {
+      "text": "Check Amount:",
+      "bbox": [
+        121,
+        481,
+        212,
+        498
+      ],
+      "confidence": 0.9994179010391235
+    },
+    {
+      "text": "$18,.750.",
+      "bbox": [
+        244,
+        482,
+        310,
+        503
+      ],
+      "confidence": 0.8902773261070251
+    },
+    {
+      "text": "For:",
+      "bbox": [
+        120,
+        513,
+        152,
+        532
+      ],
+      "confidence": 0.9992333650588989
+    },
+    {
+      "text": "Activation Date of Current Grant:",
+      "bbox": [
+        123,
+        545,
+        315,
+        569
+      ],
+      "confidence": 0.9735137224197388
+    },
+    {
+      "text": "7/1/87",
+      "bbox": [
+        335,
+        550,
+        392,
+        575
+      ],
+      "confidence": 0.999889075756073
+    },
+    {
+      "text": "cc: Grantee",
+      "bbox": [
+        127,
+        696,
+        194,
+        714
+      ],
+      "confidence": 0.9786857962608337
+    }
+  ],
+  "full_text": "The Council For Tobacco Research-U.S.A., Inc.\n900'THIRD AVENUE\nNEW YORK. N.Y. 10022\nTO: Ms. Jean Salg, Director\nDate: APR 5 - 1988'\nIndirect Costs/Sponsored Projects Accounting\nWashington University\nGrant No.:\n2144\nLindeli & Skinker Blvds. - Box 1147\nSt. Louis, M 63130\nGrantee:\nSusan E. Cullen, Ph.D.\nCheck Amount:\n$18,.750.\nFor:\nActivation Date of Current Grant:\n7/1/87\ncc: Grantee"
+}

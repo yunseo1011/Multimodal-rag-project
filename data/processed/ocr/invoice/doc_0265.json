@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0265.png",
+    "image_width": 784,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "..",
+      "bbox": [
+        207,
+        51,
+        217,
+        59
+      ],
+      "confidence": 0.852039098739624
+    },
+    {
+      "text": "10",
+      "bbox": [
+        228,
+        50,
+        247,
+        63
+      ],
+      "confidence": 0.9994271993637085
+    },
+    {
+      "text": "LEU BURNETT U.S.A.",
+      "bbox": [
+        33,
+        53,
+        160,
+        66
+      ],
+      "confidence": 0.9544237852096558
+    },
+    {
+      "text": "NEWSPAPER",
+      "bbox": [
+        356,
+        81,
+        480,
+        91
+      ],
+      "confidence": 0.9979538321495056
+    },
+    {
+      "text": "SUMMARY",
+      "bbox": [
+        499,
+        79,
+        605,
+        94
+      ],
+      "confidence": 0.998194694519043
+    },
+    {
+      "text": "0 F",
+      "bbox": [
+        613,
+        82,
+        641,
+        95
+      ],
+      "confidence": 0.9672861695289612
+    },
+    {
+      "text": "CHANGE",
+      "bbox": [
+        656,
+        81,
+        742,
+        96
+      ],
+      "confidence": 0.9987762570381165
+    },
+    {
+      "text": "PRORODUCT",
+      "bbox": [
+        33,
+        111,
+        85,
+        126
+      ],
+      "confidence": 0.6855511665344238
+    },
+    {
+      "text": "CLIENT",
+      "bbox": [
+        34,
+        101,
+        79,
+        115
+      ],
+      "confidence": 0.9988660216331482
+    },
+    {
+      "text": "MEIT",
+      "bbox": [
+        93,
+        108,
+        133,
+        126
+      ],
+      "confidence": 0.7473222017288208
+    },
+    {
+      "text": "P.M. INC.",
+      "bbox": [
+        97,
+        102,
+        158,
+        113
+      ],
+      "confidence": 0.9919500350952148
+    },
+    {
+      "text": "PERIOD",
+      "bbox": [
+        311,
+        98,
+        357,
+        112
+      ],
+      "confidence": 0.9843177795410156
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        312,
+        109,
+        394,
+        124
+      ],
+      "confidence": 0.9973625540733337
+    },
+    {
+      "text": "MERIT ROP-703",
+      "bbox": [
+        401,
+        109,
+        499,
+        122
+      ],
+      "confidence": 0.9216122031211853
+    },
+    {
+      "text": "01/01/78 10",
+      "bbox": [
+        404,
+        98,
+        497,
+        111
+      ],
+      "confidence": 0.9964506030082703
+    },
+    {
+      "text": "12/31/78",
+      "bbox": [
+        504,
+        98,
+        566,
+        112
+      ],
+      "confidence": 0.9993519186973572
+    },
+    {
+      "text": "EST NO",
+      "bbox": [
+        35,
+        121,
+        79,
+        133
+      ],
+      "confidence": 0.8993990421295166
+    },
+    {
+      "text": "8C03",
+      "bbox": [
+        95,
+        120,
+        128,
+        135
+      ],
+      "confidence": 0.6238791942596436
+    },
+    {
+      "text": "REASON FOR CHANGE",
+      "bbox": [
+        452,
+        137,
+        578,
+        150
+      ],
+      "confidence": 0.9862433075904846
+    },
+    {
+      "text": "GROSS",
+      "bbox": [
+        727,
+        140,
+        767,
+        154
+      ],
+      "confidence": 0.9987489581108093
+    },
+    {
+      "text": "PU",
+      "bbox": [
+        103,
+        157,
+        120,
+        170
+      ],
+      "confidence": 0.9325973391532898
+    },
+    {
+      "text": "PRESS",
+      "bbox": [
+        241,
+        157,
+        281,
+        172
+      ],
+      "confidence": 0.9982689023017883
+    },
+    {
+      "text": "37.84",
+      "bbox": [
+        734,
+        157,
+        773,
+        174
+      ],
+      "confidence": 0.9962239265441895
+    },
+    {
+      "text": "NJ",
+      "bbox": [
+        102,
+        167,
+        120,
+        180
+      ],
+      "confidence": 0.9770681262016296
+    },
+    {
+      "text": "FARMINGTON",
+      "bbox": [
+        131,
+        159,
+        202,
+        170
+      ],
+      "confidence": 0.9983908534049988
+    },
+    {
+      "text": "DRUKKER",
+      "bbox": [
+        131,
+        168,
+        180,
+        180
+      ],
+      "confidence": 0.9995635747909546
+    },
+    {
+      "text": "NEWSPAPERS INC",
+      "bbox": [
+        240,
+        165,
+        342,
+        181
+      ],
+      "confidence": 0.8835877776145935
+    },
+    {
+      "text": ".OOCR",
+      "bbox": [
+        751,
+        169,
+        784,
+        181
+      ],
+      "confidence": 0.8819760084152222
+    },
+    {
+      "text": "81.0OCR",
+      "bbox": [
+        732,
+        186,
+        784,
+        200
+      ],
+      "confidence": 0.8396128416061401
+    },
+    {
+      "text": "81.00CR",
+      "bbox": [
+        734,
+        179,
+        784,
+        190
+      ],
+      "confidence": 0.9158080220222473
+    },
+    {
+      "text": "81.00CR",
+      "bbox": [
+        733,
+        199,
+        784,
+        209
+      ],
+      "confidence": 0.9739727973937988
+    },
+    {
+      "text": "CINCINNATI",
+      "bbox": [
+        132,
+        206,
+        200,
+        217
+      ],
+      "confidence": 0.9938732981681824
+    },
+    {
+      "text": "AREA NWSPR GRP",
+      "bbox": [
+        239,
+        212,
+        342,
+        228
+      ],
+      "confidence": 0.6693347096443176
+    },
+    {
+      "text": "ENQUIRER",
+      "bbox": [
+        240,
+        203,
+        302,
+        220
+      ],
+      "confidence": 0.9970735311508179
+    },
+    {
+      "text": "2",
+      "bbox": [
+        735,
+        209,
+        744,
+        217
+      ],
+      "confidence": 0.7664676308631897
+    },
+    {
+      "text": "OCR",
+      "bbox": [
+        762,
+        208,
+        784,
+        219
+      ],
+      "confidence": 0.9793767929077148
+    },
+    {
+      "text": "NEWARK",
+      "bbox": [
+        128,
+        223,
+        173,
+        237
+      ],
+      "confidence": 0.849616527557373
+    },
+    {
+      "text": "NEWS JOURNAL",
+      "bbox": [
+        239,
+        232,
+        327,
+        247
+      ],
+      "confidence": 0.810732901096344
+    },
+    {
+      "text": "ADVOCATE",
+      "bbox": [
+        240,
+        223,
+        301,
+        237
+      ],
+      "confidence": 0.7683907747268677
+    },
+    {
+      "text": "776.16CR",
+      "bbox": [
+        725,
+        223,
+        784,
+        240
+      ],
+      "confidence": 0.9564846754074097
+    },
+    {
+      "text": "6CP",
+      "bbox": [
+        763,
+        218,
+        784,
+        227
+      ],
+      "confidence": 0.8180055618286133
+    },
+    {
+      "text": "RDFORD",
+      "bbox": [
+        128,
+        233,
+        180,
+        247
+      ],
+      "confidence": 0.833014965057373
+    },
+    {
+      "text": "A",
+      "bbox": [
+        425,
+        238,
+        432,
+        245
+      ],
+      "confidence": 0.9991410970687866
+    },
+    {
+      "text": "ION",
+      "bbox": [
+        544,
+        235,
+        568,
+        246
+      ],
+      "confidence": 0.9651000499725342
+    },
+    {
+      "text": "305.76CR",
+      "bbox": [
+        725,
+        233,
+        784,
+        249
+      ],
+      "confidence": 0.9558116793632507
+    },
+    {
+      "text": "TOTAL DECREASE",
+      "bbox": [
+        524,
+        252,
+        627,
+        265
+      ],
+      "confidence": 0.9869336485862732
+    },
+    {
+      "text": "1,599.74CR ,-",
+      "bbox": [
+        713,
+        253,
+        784,
+        267
+      ],
+      "confidence": 0.862250566482544
+    },
+    {
+      "text": "NO Sum.ofch.",
+      "bbox": [
+        275,
+        355,
+        552,
+        407
+      ],
+      "confidence": 0.867535412311554
+    },
+    {
+      "text": "APR 1980",
+      "bbox": [
+        716,
+        399,
+        784,
+        440
+      ],
+      "confidence": 0.9359597563743591
+    },
+    {
+      "text": "WAS ReCEIVED",
+      "bbox": [
+        293,
+        417,
+        540,
+        464
+      ],
+      "confidence": 0.8414599299430847
+    },
+    {
+      "text": "FOR S-09-80",
+      "bbox": [
+        307,
+        468,
+        604,
+        524
+      ],
+      "confidence": 0.9139032959938049
+    },
+    {
+      "text": "2049431653",
+      "bbox": [
+        48,
+        760,
+        168,
+        784
+      ],
+      "confidence": 0.9997779130935669
+    }
+  ],
+  "full_text": "..\n10\nLEU BURNETT U.S.A.\nNEWSPAPER\nSUMMARY\n0 F\nCHANGE\nPRORODUCT\nCLIENT\nMEIT\nP.M. INC.\nPERIOD\nDESCRIPTION\nMERIT ROP-703\n01/01/78 10\n12/31/78\nEST NO\n8C03\nREASON FOR CHANGE\nGROSS\nPU\nPRESS\n37.84\nNJ\nFARMINGTON\nDRUKKER\nNEWSPAPERS INC\n.OOCR\n81.0OCR\n81.00CR\n81.00CR\nCINCINNATI\nAREA NWSPR GRP\nENQUIRER\n2\nOCR\nNEWARK\nNEWS JOURNAL\nADVOCATE\n776.16CR\n6CP\nRDFORD\nA\nION\n305.76CR\nTOTAL DECREASE\n1,599.74CR ,-\nNO Sum.ofch.\nAPR 1980\nWAS ReCEIVED\nFOR S-09-80\n2049431653"
+}

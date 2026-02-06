@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0944.png",
+    "image_width": 976,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2057999108",
+      "bbox": [
+        81,
+        15,
+        120,
+        195
+      ],
+      "confidence": 0.9995379447937012
+    },
+    {
+      "text": "Mr. L. W. Zinski",
+      "bbox": [
+        578,
+        61,
+        761,
+        82
+      ],
+      "confidence": 0.9539780616760254
+    },
+    {
+      "text": "Soyars",
+      "bbox": [
+        576,
+        78,
+        651,
+        99
+      ],
+      "confidence": 0.9994003772735596
+    },
+    {
+      "text": "Mr. B.$",
+      "bbox": [
+        687,
+        79,
+        761,
+        100
+      ],
+      "confidence": 0.756290853023529
+    },
+    {
+      "text": "Seligman",
+      "bbox": [
+        555,
+        96,
+        651,
+        116
+      ],
+      "confidence": 0.9988811016082764
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        659,
+        85,
+        681,
+        97
+      ],
+      "confidence": 0.9950640201568604
+    },
+    {
+      "text": "Dr. R.",
+      "bbox": [
+        688,
+        97,
+        760,
+        117
+      ],
+      "confidence": 0.9391202926635742
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        655,
+        101,
+        680,
+        116
+      ],
+      "confidence": 0.9775586128234863
+    },
+    {
+      "text": "Schaaf",
+      "bbox": [
+        576,
+        113,
+        652,
+        134
+      ],
+      "confidence": 0.9992292523384094
+    },
+    {
+      "text": "*W",
+      "bbox": [
+        658,
+        118,
+        681,
+        133
+      ],
+      "confidence": 0.8624637126922607
+    },
+    {
+      "text": "Resnik",
+      "bbox": [
+        575,
+        132,
+        651,
+        149
+      ],
+      "confidence": 0.9991113543510437
+    },
+    {
+      "text": "3",
+      "bbox": [
+        662,
+        136,
+        680,
+        148
+      ],
+      "confidence": 0.9750458598136902
+    },
+    {
+      "text": "Mr. R.",
+      "bbox": [
+        691,
+        133,
+        761,
+        150
+      ],
+      "confidence": 0.9529092907905579
+    },
+    {
+      "text": "Lloyd",
+      "bbox": [
+        585,
+        145,
+        652,
+        169
+      ],
+      "confidence": 0.9986085891723633
+    },
+    {
+      "text": "Mr. W.",
+      "bbox": [
+        691,
+        148,
+        762,
+        168
+      ],
+      "confidence": 0.819041907787323
+    },
+    {
+      "text": "Kirby",
+      "bbox": [
+        587,
+        162,
+        652,
+        185
+      ],
+      "confidence": 0.9995301365852356
+    },
+    {
+      "text": "Mr. M.",
+      "bbox": [
+        692,
+        166,
+        762,
+        183
+      ],
+      "confidence": 0.9702981114387512
+    },
+    {
+      "text": "Kelly",
+      "bbox": [
+        587,
+        179,
+        652,
+        202
+      ],
+      "confidence": 0.9994918704032898
+    },
+    {
+      "text": "H",
+      "bbox": [
+        663,
+        185,
+        682,
+        199
+      ],
+      "confidence": 0.9994120597839355
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        694,
+        184,
+        718,
+        200
+      ],
+      "confidence": 0.9709296226501465
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        723,
+        183,
+        761,
+        199
+      ],
+      "confidence": 0.9840677380561829
+    },
+    {
+      "text": "Gilman",
+      "bbox": [
+        575,
+        196,
+        651,
+        218
+      ],
+      "confidence": 0.9990965723991394
+    },
+    {
+      "text": "W",
+      "bbox": [
+        663,
+        202,
+        680,
+        214
+      ],
+      "confidence": 0.8918370604515076
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        694,
+        200,
+        718,
+        215
+      ],
+      "confidence": 0.992489755153656
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        724,
+        200,
+        761,
+        215
+      ],
+      "confidence": 0.9972720146179199
+    },
+    {
+      "text": "Fowler",
+      "bbox": [
+        574,
+        214,
+        651,
+        234
+      ],
+      "confidence": 0.9994864463806152
+    },
+    {
+      "text": "*N",
+      "bbox": [
+        692,
+        216,
+        718,
+        231
+      ],
+      "confidence": 0.7034066915512085
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        724,
+        216,
+        761,
+        231
+      ],
+      "confidence": 0.9959214329719543
+    },
+    {
+      "text": "Crichton",
+      "bbox": [
+        554,
+        232,
+        649,
+        249
+      ],
+      "confidence": 0.9998883605003357
+    },
+    {
+      "text": "Christopher",
+      "bbox": [
+        521,
+        246,
+        649,
+        266
+      ],
+      "confidence": 0.9967241883277893
+    },
+    {
+      "text": "f",
+      "bbox": [
+        695,
+        234,
+        715,
+        246
+      ],
+      "confidence": 0.9560957551002502
+    },
+    {
+      "text": "E.",
+      "bbox": [
+        693,
+        249,
+        717,
+        264
+      ],
+      "confidence": 0.9973245859146118
+    },
+    {
+      "text": "STOCKTON STREET",
+      "bbox": [
+        429,
+        536,
+        604,
+        556
+      ],
+      "confidence": 0.9862919449806213
+    },
+    {
+      "text": "PARLIAMENT 100'S \"H!\"",
+      "bbox": [
+        406,
+        571,
+        641,
+        594
+      ],
+      "confidence": 0.9358978271484375
+    },
+    {
+      "text": "10/19/76",
+      "bbox": [
+        74,
+        967,
+        186,
+        997
+      ],
+      "confidence": 0.9994372129440308
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        181,
+        967,
+        256,
+        996
+      ],
+      "confidence": 0.9988359212875366
+    }
+  ],
+  "full_text": "2057999108\nMr. L. W. Zinski\nSoyars\nMr. B.$\nSeligman\nA.\nDr. R.\nB.\nSchaaf\n*W\nResnik\n3\nMr. R.\nLloyd\nMr. W.\nKirby\nMr. M.\nKelly\nH\nR.\nMr.\nGilman\nW\nR.\nMr.\nFowler\n*N\nMr.\nCrichton\nChristopher\nf\nE.\nSTOCKTON STREET\nPARLIAMENT 100'S \"H!\"\n10/19/76\nDate:"
+}

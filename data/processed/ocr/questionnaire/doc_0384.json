@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0384.png",
+    "image_width": 775,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MARKETING RESEARCH SERVICES, INC.",
+      "bbox": [
+        44,
+        66,
+        324,
+        90
+      ],
+      "confidence": 0.9995859265327454
+    },
+    {
+      "text": "1989 CONTINUOUS TRACKING STUDY",
+      "bbox": [
+        448,
+        72,
+        695,
+        95
+      ],
+      "confidence": 0.9962928295135498
+    },
+    {
+      "text": "15 EAST EIGHTH STREET",
+      "bbox": [
+        44,
+        84,
+        227,
+        105
+      ],
+      "confidence": 0.9832223057746887
+    },
+    {
+      "text": "OCTOBER, 1989",
+      "bbox": [
+        585,
+        92,
+        695,
+        109
+      ],
+      "confidence": 0.98801589012146
+    },
+    {
+      "text": "CINCINNATI, OHIO",
+      "bbox": [
+        43,
+        100,
+        188,
+        122
+      ],
+      "confidence": 0.9941006898880005
+    },
+    {
+      "text": "45202",
+      "bbox": [
+        193,
+        105,
+        242,
+        120
+      ],
+      "confidence": 0.9990197420120239
+    },
+    {
+      "text": "MRS #6270",
+      "bbox": [
+        616,
+        105,
+        696,
+        125
+      ],
+      "confidence": 0.94737309217453
+    },
+    {
+      "text": "(513) 579-1555",
+      "bbox": [
+        43,
+        116,
+        167,
+        138
+      ],
+      "confidence": 0.9590606093406677
+    },
+    {
+      "text": "(10/1/89)",
+      "bbox": [
+        620,
+        123,
+        694,
+        141
+      ],
+      "confidence": 0.9999654293060303
+    },
+    {
+      "text": "QUITTER - NON-SMOKING HOUSEHOLD",
+      "bbox": [
+        254,
+        164,
+        514,
+        186
+      ],
+      "confidence": 0.9804427623748779
+    },
+    {
+      "text": "1A.",
+      "bbox": [
+        50,
+        213,
+        97,
+        231
+      ],
+      "confidence": 0.9779572486877441
+    },
+    {
+      "text": "Hello, I'm",
+      "bbox": [
+        90,
+        215,
+        186,
+        232
+      ],
+      "confidence": 0.9974948167800903
+    },
+    {
+      "text": "of Marketing Research Services, a",
+      "bbox": [
+        357,
+        214,
+        638,
+        234
+      ],
+      "confidence": 0.9734995365142822
+    },
+    {
+      "text": "national public opinion firm calling long distance from Cincinnati,",
+      "bbox": [
+        91,
+        228,
+        653,
+        251
+      ],
+      "confidence": 0.9864645600318909
+    },
+    {
+      "text": "Ohio. I'd like to ask you a few questions, and your answers, of course,",
+      "bbox": [
+        91,
+        244,
+        693,
+        266
+      ],
+      "confidence": 0.9932732582092285
+    },
+    {
+      "text": "will be kept entirely confidential. We're talking to people 18 years of",
+      "bbox": [
+        92,
+        261,
+        694,
+        281
+      ],
+      "confidence": 0.9719618558883667
+    },
+    {
+      "text": "age and over, so first of all, are you 18 or over?",
+      "bbox": [
+        91,
+        276,
+        512,
+        297
+      ],
+      "confidence": 0.9792031645774841
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        209,
+        309,
+        240,
+        326
+      ],
+      "confidence": 0.99982088804245
+    },
+    {
+      "text": "- 1",
+      "bbox": [
+        250,
+        309,
+        282,
+        325
+      ],
+      "confidence": 0.8806788325309753
+    },
+    {
+      "text": "ASK Q.1B",
+      "bbox": [
+        316,
+        309,
+        389,
+        327
+      ],
+      "confidence": 0.9882321357727051
+    },
+    {
+      "text": "No",
+      "bbox": [
+        208,
+        326,
+        231,
+        343
+      ],
+      "confidence": 0.9981682300567627
+    },
+    {
+      "text": "2",
+      "bbox": [
+        261,
+        324,
+        284,
+        345
+      ],
+      "confidence": 0.9997015595436096
+    },
+    {
+      "text": "ASK:",
+      "bbox": [
+        317,
+        327,
+        354,
+        342
+      ],
+      "confidence": 0.9998692870140076
+    },
+    {
+      "text": "May I speak to someone",
+      "bbox": [
+        361,
+        327,
+        552,
+        344
+      ],
+      "confidence": 0.9911403656005859
+    },
+    {
+      "text": "who is 18 or over?",
+      "bbox": [
+        374,
+        342,
+        527,
+        359
+      ],
+      "confidence": 0.952010452747345
+    },
+    {
+      "text": "IF NO ONE 18 OR OVER IS AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND",
+      "bbox": [
+        70,
+        387,
+        653,
+        408
+      ],
+      "confidence": 0.9793671369552612
+    },
+    {
+      "text": "I ARRANGE TO CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.",
+      "bbox": [
+        55,
+        403,
+        667,
+        425
+      ],
+      "confidence": 0.985986053943634
+    },
+    {
+      "text": "I IF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY.",
+      "bbox": [
+        53,
+        453,
+        542,
+        476
+      ],
+      "confidence": 0.9794287085533142
+    },
+    {
+      "text": "1B. And since we are talking to a cross-section of people all over the United",
+      "bbox": [
+        45,
+        501,
+        704,
+        525
+      ],
+      "confidence": 0.9917164444923401
+    },
+    {
+      "text": "States, could you tell me, do you live in a...(READ LIST)",
+      "bbox": [
+        91,
+        517,
+        568,
+        543
+      ],
+      "confidence": 0.9761468172073364
+    },
+    {
+      "text": "Big city",
+      "bbox": [
+        272,
+        553,
+        345,
+        575
+      ],
+      "confidence": 0.9975460171699524
+    },
+    {
+      "text": "-",
+      "bbox": [
+        449,
+        555,
+        464,
+        569
+      ],
+      "confidence": 0.9172605276107788
+    },
+    {
+      "text": "1",
+      "bbox": [
+        464,
+        554,
+        478,
+        570
+      ],
+      "confidence": 0.9989282488822937
+    },
+    {
+      "text": "Small city",
+      "bbox": [
+        272,
+        567,
+        362,
+        592
+      ],
+      "confidence": 0.9932550191879272
+    },
+    {
+      "text": "-",
+      "bbox": [
+        451,
+        574,
+        462,
+        584
+      ],
+      "confidence": 0.7846125960350037
+    },
+    {
+      "text": "2",
+      "bbox": [
+        465,
+        571,
+        478,
+        587
+      ],
+      "confidence": 0.9999707937240601
+    },
+    {
+      "text": "Town",
+      "bbox": [
+        273,
+        587,
+        314,
+        606
+      ],
+      "confidence": 0.9996967911720276
+    },
+    {
+      "text": "-",
+      "bbox": [
+        449,
+        589,
+        463,
+        602
+      ],
+      "confidence": 0.6587945222854614
+    },
+    {
+      "text": "3",
+      "bbox": [
+        465,
+        587,
+        478,
+        603
+      ],
+      "confidence": 0.9999626874923706
+    },
+    {
+      "text": "Suburb",
+      "bbox": [
+        274,
+        604,
+        331,
+        622
+      ],
+      "confidence": 0.9997661113739014
+    },
+    {
+      "text": "4",
+      "bbox": [
+        466,
+        604,
+        479,
+        619
+      ],
+      "confidence": 0.9999901056289673
+    },
+    {
+      "text": "Out in the country",
+      "bbox": [
+        273,
+        620,
+        428,
+        639
+      ],
+      "confidence": 0.9656972885131836
+    },
+    {
+      "text": "-",
+      "bbox": [
+        347,
+        611,
+        354,
+        616
+      ],
+      "confidence": 0.98987877368927
+    },
+    {
+      "text": "5",
+      "bbox": [
+        465,
+        620,
+        479,
+        636
+      ],
+      "confidence": 0.9999569654464722
+    },
+    {
+      "text": "Or what? (SPECIFY)",
+      "bbox": [
+        273,
+        637,
+        436,
+        657
+      ],
+      "confidence": 0.9805934429168701
+    },
+    {
+      "text": "-",
+      "bbox": [
+        451,
+        625,
+        462,
+        634
+      ],
+      "confidence": 0.9212504625320435
+    },
+    {
+      "text": "DO NOT READ - IDK",
+      "bbox": [
+        139,
+        666,
+        298,
+        691
+      ],
+      "confidence": 0.9826398491859436
+    },
+    {
+      "text": "-",
+      "bbox": [
+        451,
+        659,
+        462,
+        668
+      ],
+      "confidence": 0.8263599276542664
+    },
+    {
+      "text": "6",
+      "bbox": [
+        466,
+        655,
+        479,
+        669
+      ],
+      "confidence": 0.9999501705169678
+    },
+    {
+      "text": "-",
+      "bbox": [
+        452,
+        675,
+        462,
+        684
+      ],
+      "confidence": 0.9897977113723755
+    },
+    {
+      "text": "7",
+      "bbox": [
+        466,
+        672,
+        479,
+        685
+      ],
+      "confidence": 0.9995027780532837
+    },
+    {
+      "text": "Refused",
+      "bbox": [
+        265,
+        686,
+        338,
+        708
+      ],
+      "confidence": 0.9995979070663452
+    },
+    {
+      "text": "-",
+      "bbox": [
+        452,
+        692,
+        464,
+        701
+      ],
+      "confidence": 0.9040824770927429
+    },
+    {
+      "text": "8",
+      "bbox": [
+        465,
+        689,
+        479,
+        704
+      ],
+      "confidence": 0.9999767541885376
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        47,
+        722,
+        70,
+        739
+      ],
+      "confidence": 0.9994567632675171
+    },
+    {
+      "text": "Are there any people in this household, including yourself, who are 18",
+      "bbox": [
+        88,
+        716,
+        683,
+        741
+      ],
+      "confidence": 0.9933896660804749
+    },
+    {
+      "text": "years of age or over and smoke cigarettes?",
+      "bbox": [
+        90,
+        736,
+        445,
+        757
+      ],
+      "confidence": 0.9742440581321716
+    },
+    {
+      "text": "Yes - 1 - ASK Q.3",
+      "bbox": [
+        228,
+        768,
+        406,
+        788
+      ],
+      "confidence": 0.9699654579162598
+    },
+    {
+      "text": "NO - 2 - GO TO Q.48",
+      "bbox": [
+        224,
+        784,
+        429,
+        804
+      ],
+      "confidence": 0.9131669402122498
+    },
+    {
+      "text": "CALLBACK DATE:",
+      "bbox": [
+        52,
+        854,
+        178,
+        871
+      ],
+      "confidence": 0.9996747970581055
+    },
+    {
+      "text": "CALLBACK TIME:",
+      "bbox": [
+        381,
+        849,
+        506,
+        869
+      ],
+      "confidence": 0.9948668479919434
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        49,
+        886,
+        101,
+        904
+      ],
+      "confidence": 0.9992536306381226
+    },
+    {
+      "text": "AGE:",
+      "bbox": [
+        379,
+        880,
+        424,
+        905
+      ],
+      "confidence": 0.9986914396286011
+    },
+    {
+      "text": "TELEPHONE:",
+      "bbox": [
+        50,
+        917,
+        144,
+        938
+      ],
+      "confidence": 0.9995824098587036
+    },
+    {
+      "text": "TIME ZONE:",
+      "bbox": [
+        380,
+        913,
+        473,
+        937
+      ],
+      "confidence": 0.9988389015197754
+    },
+    {
+      "text": "E",
+      "bbox": [
+        510,
+        914,
+        527,
+        933
+      ],
+      "confidence": 0.8644850254058838
+    },
+    {
+      "text": "C",
+      "bbox": [
+        561,
+        913,
+        578,
+        932
+      ],
+      "confidence": 0.9271578192710876
+    },
+    {
+      "text": "M",
+      "bbox": [
+        611,
+        912,
+        629,
+        930
+      ],
+      "confidence": 0.9966118931770325
+    },
+    {
+      "text": "P",
+      "bbox": [
+        663,
+        912,
+        677,
+        928
+      ],
+      "confidence": 0.9992356300354004
+    },
+    {
+      "text": "STATE CODE:",
+      "bbox": [
+        49,
+        951,
+        153,
+        971
+      ],
+      "confidence": 0.9842668175697327
+    },
+    {
+      "text": "COUNTY CODE:",
+      "bbox": [
+        382,
+        944,
+        492,
+        969
+      ],
+      "confidence": 0.9769809246063232
+    }
+  ],
+  "full_text": "MARKETING RESEARCH SERVICES, INC.\n1989 CONTINUOUS TRACKING STUDY\n15 EAST EIGHTH STREET\nOCTOBER, 1989\nCINCINNATI, OHIO\n45202\nMRS #6270\n(513) 579-1555\n(10/1/89)\nQUITTER - NON-SMOKING HOUSEHOLD\n1A.\nHello, I'm\nof Marketing Research Services, a\nnational public opinion firm calling long distance from Cincinnati,\nOhio. I'd like to ask you a few questions, and your answers, of course,\nwill be kept entirely confidential. We're talking to people 18 years of\nage and over, so first of all, are you 18 or over?\nYes\n- 1\nASK Q.1B\nNo\n2\nASK:\nMay I speak to someone\nwho is 18 or over?\nIF NO ONE 18 OR OVER IS AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND\nI ARRANGE TO CALL BACK. IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED.\nI IF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY.\n1B. And since we are talking to a cross-section of people all over the United\nStates, could you tell me, do you live in a...(READ LIST)\nBig city\n-\n1\nSmall city\n-\n2\nTown\n-\n3\nSuburb\n4\nOut in the country\n-\n5\nOr what? (SPECIFY)\n-\nDO NOT READ - IDK\n-\n6\n-\n7\nRefused\n-\n8\n2.\nAre there any people in this household, including yourself, who are 18\nyears of age or over and smoke cigarettes?\nYes - 1 - ASK Q.3\nNO - 2 - GO TO Q.48\nCALLBACK DATE:\nCALLBACK TIME:\nNAME:\nAGE:\nTELEPHONE:\nTIME ZONE:\nE\nC\nM\nP\nSTATE CODE:\nCOUNTY CODE:"
+}

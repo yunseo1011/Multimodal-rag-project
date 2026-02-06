@@ -1,0 +1,381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0297.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Robinson, John",
+      "bbox": [
+        71,
+        68,
+        267,
+        90
+      ],
+      "confidence": 0.9946571588516235
+    },
+    {
+      "text": "To: Coggins, Chris",
+      "bbox": [
+        71,
+        88,
+        248,
+        108
+      ],
+      "confidence": 0.9951121211051941
+    },
+    {
+      "text": "cC: Townsend, David",
+      "bbox": [
+        70,
+        106,
+        258,
+        126
+      ],
+      "confidence": 0.9609135985374451
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        70,
+        125,
+        113,
+        143
+      ],
+      "confidence": 0.9990383386611938
+    },
+    {
+      "text": "Subject: US VISIT{F}",
+      "bbox": [
+        71,
+        144,
+        265,
+        163
+      ],
+      "confidence": 0.9855729341506958
+    },
+    {
+      "text": "Primary Date: 9/25/1996 10:52:05 AM",
+      "bbox": [
+        71,
+        162,
+        410,
+        182
+      ],
+      "confidence": 0.9982652068138123
+    },
+    {
+      "text": "Last Modified Date: 2001-Nov-20 12:07:28",
+      "bbox": [
+        70,
+        179,
+        456,
+        201
+      ],
+      "confidence": 0.9859102368354797
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        70,
+        201,
+        247,
+        219
+      ],
+      "confidence": 0.9995728731155396
+    },
+    {
+      "text": "Sent Date: 1996-Sep-25 10:52:05",
+      "bbox": [
+        72,
+        218,
+        370,
+        238
+      ],
+      "confidence": 0.9959274530410767
+    },
+    {
+      "text": "Received DateDate: 1996-Sep-25 10:52:05",
+      "bbox": [
+        71,
+        236,
+        447,
+        256
+      ],
+      "confidence": 0.9912554621696472
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        74,
+        277,
+        188,
+        291
+      ],
+      "confidence": 0.9998108744621277
+    },
+    {
+      "text": "Sounds great to me. I think alot of people would be",
+      "bbox": [
+        74,
+        327,
+        561,
+        350
+      ],
+      "confidence": 0.9844291806221008
+    },
+    {
+      "text": "interested, esecially Dave Townsend's folks working on the",
+      "bbox": [
+        75,
+        345,
+        627,
+        369
+      ],
+      "confidence": 0.9945641756057739
+    },
+    {
+      "text": "FTc issue. I'll copy Dave on this reply and maybe he'll",
+      "bbox": [
+        73,
+        364,
+        598,
+        387
+      ],
+      "confidence": 0.9837323427200317
+    },
+    {
+      "text": "have an opinion/suggestion.",
+      "bbox": [
+        74,
+        385,
+        334,
+        406
+      ],
+      "confidence": 0.9951688051223755
+    },
+    {
+      "text": "JR",
+      "bbox": [
+        75,
+        424,
+        101,
+        445
+      ],
+      "confidence": 0.9996562600135803
+    },
+    {
+      "text": "From: Coggins, Chris",
+      "bbox": [
+        75,
+        458,
+        270,
+        481
+      ],
+      "confidence": 0.9772536158561707
+    },
+    {
+      "text": "To: Robinson, John",
+      "bbox": [
+        76,
+        477,
+        252,
+        499
+      ],
+      "confidence": 0.974299430847168
+    },
+    {
+      "text": "SubjeCt: FW: US VISIT",
+      "bbox": [
+        77,
+        494,
+        280,
+        518
+      ],
+      "confidence": 0.9633545875549316
+    },
+    {
+      "text": "Date: Wednesday, September 25, 1996 9:43AM",
+      "bbox": [
+        76,
+        508,
+        480,
+        537
+      ],
+      "confidence": 0.9784058928489685
+    },
+    {
+      "text": "Galoot: what do you think of this ?",
+      "bbox": [
+        79,
+        546,
+        412,
+        572
+      ],
+      "confidence": 0.9976865649223328
+    },
+    {
+      "text": "From: john.mcaughey@aeat.co.uk",
+      "bbox": [
+        80,
+        584,
+        366,
+        608
+      ],
+      "confidence": 0.9918208718299866
+    },
+    {
+      "text": "To: Coggins, Chris",
+      "bbox": [
+        81,
+        604,
+        255,
+        625
+      ],
+      "confidence": 0.958668053150177
+    },
+    {
+      "text": "Subject: US VISIT",
+      "bbox": [
+        82,
+        622,
+        247,
+        643
+      ],
+      "confidence": 0.982097864151001
+    },
+    {
+      "text": "Date: Monday, September 23, 1996 11:02AM",
+      "bbox": [
+        82,
+        635,
+        462,
+        662
+      ],
+      "confidence": 0.9899469614028931
+    },
+    {
+      "text": "Chris",
+      "bbox": [
+        82,
+        674,
+        138,
+        700
+      ],
+      "confidence": 0.9998323321342468
+    },
+    {
+      "text": "Thanks for your e-mails and faxes re TcRC and possibly",
+      "bbox": [
+        85,
+        704,
+        594,
+        733
+      ],
+      "confidence": 0.9830788969993591
+    },
+    {
+      "text": "visiting RJR.",
+      "bbox": [
+        86,
+        730,
+        210,
+        750
+      ],
+      "confidence": 0.9996868968009949
+    },
+    {
+      "text": "As I'm also planning to visit friends for a week, my boss",
+      "bbox": [
+        85,
+        756,
+        624,
+        786
+      ],
+      "confidence": 0.9863942265510559
+    },
+    {
+      "text": "is a bit",
+      "bbox": [
+        87,
+        784,
+        167,
+        804
+      ],
+      "confidence": 0.9977166652679443
+    },
+    {
+      "text": "twitchy about me being away 3 full weeks and it Jooks as if",
+      "bbox": [
+        87,
+        789,
+        643,
+        823
+      ],
+      "confidence": 0.9714975953102112
+    },
+    {
+      "text": "I may have",
+      "bbox": [
+        88,
+        819,
+        187,
+        839
+      ],
+      "confidence": 0.999710738658905
+    },
+    {
+      "text": "to give TCRC a miss.",
+      "bbox": [
+        89,
+        833,
+        277,
+        858
+      ],
+      "confidence": 0.9838150143623352
+    },
+    {
+      "text": "However, I'd be happy to visit RJR and giv a talk on",
+      "bbox": [
+        91,
+        861,
+        577,
+        893
+      ],
+      "confidence": 0.9868042469024658
+    },
+    {
+      "text": "compensation - I",
+      "bbox": [
+        92,
+        889,
+        245,
+        910
+      ],
+      "confidence": 0.9823671579360962
+    },
+    {
+      "text": "53097 8630",
+      "bbox": [
+        718,
+        880,
+        742,
+        977
+      ],
+      "confidence": 0.9996172785758972
+    },
+    {
+      "text": "could add a bit to what I presented in Cambridge to expand",
+      "bbox": [
+        91,
+        893,
+        637,
+        931
+      ],
+      "confidence": 0.9878906607627869
+    }
+  ],
+  "full_text": "From: Robinson, John\nTo: Coggins, Chris\ncC: Townsend, David\nBCC:\nSubject: US VISIT{F}\nPrimary Date: 9/25/1996 10:52:05 AM\nLast Modified Date: 2001-Nov-20 12:07:28\nLast Touched Date:\nSent Date: 1996-Sep-25 10:52:05\nReceived DateDate: 1996-Sep-25 10:52:05\nAttachments:\nSounds great to me. I think alot of people would be\ninterested, esecially Dave Townsend's folks working on the\nFTc issue. I'll copy Dave on this reply and maybe he'll\nhave an opinion/suggestion.\nJR\nFrom: Coggins, Chris\nTo: Robinson, John\nSubjeCt: FW: US VISIT\nDate: Wednesday, September 25, 1996 9:43AM\nGaloot: what do you think of this ?\nFrom: john.mcaughey@aeat.co.uk\nTo: Coggins, Chris\nSubject: US VISIT\nDate: Monday, September 23, 1996 11:02AM\nChris\nThanks for your e-mails and faxes re TcRC and possibly\nvisiting RJR.\nAs I'm also planning to visit friends for a week, my boss\nis a bit\ntwitchy about me being away 3 full weeks and it Jooks as if\nI may have\nto give TCRC a miss.\nHowever, I'd be happy to visit RJR and giv a talk on\ncompensation - I\n53097 8630\ncould add a bit to what I presented in Cambridge to expand"
+}

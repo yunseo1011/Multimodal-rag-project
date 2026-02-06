@@ -1,0 +1,241 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0263.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WREGISTE",
+      "bbox": [
+        551,
+        1,
+        676,
+        34
+      ],
+      "confidence": 0.900245726108551
+    },
+    {
+      "text": "414",
+      "bbox": [
+        249,
+        45,
+        271,
+        53
+      ],
+      "confidence": 0.635916531085968
+    },
+    {
+      "text": "2093.",
+      "bbox": [
+        28,
+        91,
+        65,
+        102
+      ],
+      "confidence": 0.6207453608512878
+    },
+    {
+      "text": "e:",
+      "bbox": [
+        0,
+        119,
+        29,
+        135
+      ],
+      "confidence": 0.8632626533508301
+    },
+    {
+      "text": "10",
+      "bbox": [
+        317,
+        132,
+        329,
+        140
+      ],
+      "confidence": 0.8191317319869995
+    },
+    {
+      "text": "74.m7",
+      "bbox": [
+        370,
+        132,
+        404,
+        142
+      ],
+      "confidence": 0.6927655935287476
+    },
+    {
+      "text": "430",
+      "bbox": [
+        445,
+        142,
+        470,
+        157
+      ],
+      "confidence": 0.8273609280586243
+    },
+    {
+      "text": "e:",
+      "bbox": [
+        0,
+        151,
+        29,
+        167
+      ],
+      "confidence": 0.9309514760971069
+    },
+    {
+      "text": ".",
+      "bbox": [
+        213,
+        150,
+        235,
+        157
+      ],
+      "confidence": 0.7029241919517517
+    },
+    {
+      "text": "'we.\"",
+      "bbox": [
+        257,
+        148,
+        293,
+        161
+      ],
+      "confidence": 0.6118043661117554
+    },
+    {
+      "text": "FEN?4010rA",
+      "bbox": [
+        207,
+        169,
+        293,
+        179
+      ],
+      "confidence": 0.6331861019134521
+    },
+    {
+      "text": "2472",
+      "bbox": [
+        184,
+        488,
+        212,
+        501
+      ],
+      "confidence": 0.9861078262329102
+    },
+    {
+      "text": "47e",
+      "bbox": [
+        274,
+        489,
+        293,
+        497
+      ],
+      "confidence": 0.7585206031799316
+    },
+    {
+      "text": "BBL",
+      "bbox": [
+        438,
+        666,
+        492,
+        689
+      ],
+      "confidence": 0.7635696530342102
+    },
+    {
+      "text": "318-0630333-23",
+      "bbox": [
+        320,
+        710,
+        386,
+        721
+      ],
+      "confidence": 0.9225659966468811
+    },
+    {
+      "text": "2942",
+      "bbox": [
+        452,
+        709,
+        486,
+        726
+      ],
+      "confidence": 0.997067928314209
+    },
+    {
+      "text": "CONTRACT RESEARCH CENTEL",
+      "bbox": [
+        177,
+        735,
+        329,
+        750
+      ],
+      "confidence": 0.9599175453186035
+    },
+    {
+      "text": "NOBAL",
+      "bbox": [
+        349,
+        738,
+        384,
+        749
+      ],
+      "confidence": 0.8586872220039368
+    },
+    {
+      "text": "TOLL AAN, 10I C",
+      "bbox": [
+        146,
+        756,
+        237,
+        770
+      ],
+      "confidence": 0.8467651605606079
+    },
+    {
+      "text": "RUCE LAME W S03",
+      "bbox": [
+        348,
+        750,
+        412,
+        760
+      ],
+      "confidence": 0.7253152132034302
+    },
+    {
+      "text": "LANE ALISTRAAT IO3",
+      "bbox": [
+        347,
+        758,
+        422,
+        770
+      ],
+      "confidence": 0.8487944602966309
+    },
+    {
+      "text": "193R WOLUWE ST ETIENNE",
+      "bbox": [
+        153,
+        777,
+        292,
+        787
+      ],
+      "confidence": 0.8472700715065002
+    },
+    {
+      "text": "SGJU SUSEILESBUSSEL",
+      "bbox": [
+        348,
+        778,
+        447,
+        790
+      ],
+      "confidence": 0.7412768006324768
+    }
+  ],
+  "full_text": "WREGISTE\n414\n2093.\ne:\n10\n74.m7\n430\ne:\n.\n'we.\"\nFEN?4010rA\n2472\n47e\nBBL\n318-0630333-23\n2942\nCONTRACT RESEARCH CENTEL\nNOBAL\nTOLL AAN, 10I C\nRUCE LAME W S03\nLANE ALISTRAAT IO3\n193R WOLUWE ST ETIENNE\nSGJU SUSEILESBUSSEL"
+}

@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0852.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "8501",
+      "bbox": [
+        651,
+        19,
+        702,
+        46
+      ],
+      "confidence": 0.99992835521698
+    },
+    {
+      "text": "C79- 009C2",
+      "bbox": [
+        439,
+        31,
+        589,
+        61
+      ],
+      "confidence": 0.8811041712760925
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        289,
+        136,
+        453,
+        156
+      ],
+      "confidence": 0.9996998906135559
+    },
+    {
+      "text": "RESEARCH AND DEVELOPMENT DEPARTMENT",
+      "bbox": [
+        205,
+        162,
+        540,
+        189
+      ],
+      "confidence": 0.995638906955719
+    },
+    {
+      "text": "AUSTRIA TEST #162",
+      "bbox": [
+        286,
+        349,
+        456,
+        373
+      ],
+      "confidence": 0.999346137046814
+    },
+    {
+      "text": "MR4-09AL",
+      "bbox": [
+        327,
+        385,
+        409,
+        402
+      ],
+      "confidence": 0.9999387860298157
+    },
+    {
+      "text": "DISTRIBUTION",
+      "bbox": [
+        316,
+        603,
+        437,
+        626
+      ],
+      "confidence": 0.9999284744262695
+    },
+    {
+      "text": "Mr. W. G. Longest",
+      "bbox": [
+        433,
+        629,
+        609,
+        655
+      ],
+      "confidence": 0.9977608919143677
+    },
+    {
+      "text": "Mr. E. A. Christopher",
+      "bbox": [
+        168,
+        638,
+        380,
+        658
+      ],
+      "confidence": 0.9862557649612427
+    },
+    {
+      "text": "Mr. F. A. Lowman",
+      "bbox": [
+        435,
+        647,
+        600,
+        669
+      ],
+      "confidence": 0.9889959096908569
+    },
+    {
+      "text": "Mr. M. Hausermann (3)",
+      "bbox": [
+        168,
+        666,
+        380,
+        694
+      ],
+      "confidence": 0.9853562712669373
+    },
+    {
+      "text": "Mr. J. Gibson",
+      "bbox": [
+        169,
+        655,
+        302,
+        675
+      ],
+      "confidence": 0.9865143299102783
+    },
+    {
+      "text": "Mr. H. Maxwell",
+      "bbox": [
+        436,
+        663,
+        578,
+        687
+      ],
+      "confidence": 0.9653034210205078
+    },
+    {
+      "text": "Mr. F. E. Resnik",
+      "bbox": [
+        437,
+        677,
+        602,
+        704
+      ],
+      "confidence": 0.913394033908844
+    },
+    {
+      "text": "Mr. W. G. Lloyd",
+      "bbox": [
+        169,
+        684,
+        324,
+        710
+      ],
+      "confidence": 0.9483931064605713
+    },
+    {
+      "text": "Ciptlia Bright.",
+      "bbox": [
+        264,
+        715,
+        501,
+        776
+      ],
+      "confidence": 0.7745092511177063
+    },
+    {
+      "text": "WRITTEN BY:",
+      "bbox": [
+        53,
+        750,
+        167,
+        775
+      ],
+      "confidence": 0.9803860187530518
+    },
+    {
+      "text": "1000766586",
+      "bbox": [
+        725,
+        783,
+        752,
+        938
+      ],
+      "confidence": 0.9998472332954407
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        55,
+        799,
+        179,
+        823
+      ],
+      "confidence": 0.9954767227172852
+    },
+    {
+      "text": "February 14, 1979",
+      "bbox": [
+        292,
+        838,
+        470,
+        866
+      ],
+      "confidence": 0.9812148809432983
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        57,
+        849,
+        113,
+        870
+      ],
+      "confidence": 0.9977327585220337
+    }
+  ],
+  "full_text": "8501\nC79- 009C2\nPHILIP MORRIS USA\nRESEARCH AND DEVELOPMENT DEPARTMENT\nAUSTRIA TEST #162\nMR4-09AL\nDISTRIBUTION\nMr. W. G. Longest\nMr. E. A. Christopher\nMr. F. A. Lowman\nMr. M. Hausermann (3)\nMr. J. Gibson\nMr. H. Maxwell\nMr. F. E. Resnik\nMr. W. G. Lloyd\nCiptlia Bright.\nWRITTEN BY:\n1000766586\nAPPROVED BY:\nFebruary 14, 1979\nDATE:"
+}

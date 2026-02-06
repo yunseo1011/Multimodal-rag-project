@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0056.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS U. S. A.",
+      "bbox": [
+        290,
+        7,
+        507,
+        30
+      ],
+      "confidence": 0.9816524982452393
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        50,
+        27,
+        192,
+        55
+      ],
+      "confidence": 0.9990707635879517
+    },
+    {
+      "text": "INTER-OFFICECORRESPONDENCE",
+      "bbox": [
+        227,
+        33,
+        584,
+        58
+      ],
+      "confidence": 0.998938262462616
+    },
+    {
+      "text": "DEC 1 1975",
+      "bbox": [
+        66,
+        64,
+        170,
+        92
+      ],
+      "confidence": 0.9516798257827759
+    },
+    {
+      "text": "RICHHOND, VIRGINIA",
+      "bbox": [
+        328,
+        65,
+        475,
+        84
+      ],
+      "confidence": 0.9870374202728271
+    },
+    {
+      "text": "W. F. GANNON",
+      "bbox": [
+        70,
+        105,
+        170,
+        128
+      ],
+      "confidence": 0.9765310883522034
+    },
+    {
+      "text": "Dr. R. B. Seligman",
+      "bbox": [
+        115,
+        124,
+        294,
+        144
+      ],
+      "confidence": 0.9689493179321289
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        469,
+        120,
+        513,
+        139
+      ],
+      "confidence": 0.9978560209274292
+    },
+    {
+      "text": "November 20, 1975",
+      "bbox": [
+        527,
+        119,
+        712,
+        140
+      ],
+      "confidence": 0.986383318901062
+    },
+    {
+      "text": "L. F. Meyer",
+      "bbox": [
+        114,
+        158,
+        229,
+        179
+      ],
+      "confidence": 0.998436689376831
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        13,
+        188,
+        74,
+        206
+      ],
+      "confidence": 0.9982317090034485
+    },
+    {
+      "text": "Low Delivery Cigarettes",
+      "bbox": [
+        113,
+        189,
+        341,
+        212
+      ],
+      "confidence": 0.9965803623199463
+    },
+    {
+      "text": "On the attached table are data on two cigarette samples",
+      "bbox": [
+        162,
+        235,
+        701,
+        260
+      ],
+      "confidence": 0.989460289478302
+    },
+    {
+      "text": "prepared in an effort to achieve a 4 to 5 mg. tar cigarette",
+      "bbox": [
+        111,
+        250,
+        694,
+        279
+      ],
+      "confidence": 0.9854880571365356
+    },
+    {
+      "text": "with a plastic filter using the improved Multifilter blend.",
+      "bbox": [
+        112,
+        268,
+        692,
+        293
+      ],
+      "confidence": 0.9905731081962585
+    },
+    {
+      "text": "Note the difference in filter configuration and the dilution",
+      "bbox": [
+        113,
+        285,
+        702,
+        310
+      ],
+      "confidence": 0.9918903708457947
+    },
+    {
+      "text": "levels. We have cleverly named these cigarettes HALF-TIMER.",
+      "bbox": [
+        113,
+        301,
+        701,
+        327
+      ],
+      "confidence": 0.9875979423522949
+    },
+    {
+      "text": "Your comments on direction of our continued effort are",
+      "bbox": [
+        162,
+        336,
+        692,
+        359
+      ],
+      "confidence": 0.9645699262619019
+    },
+    {
+      "text": "invited.",
+      "bbox": [
+        114,
+        354,
+        195,
+        377
+      ],
+      "confidence": 0.9993120431900024
+    },
+    {
+      "text": "Meyel",
+      "bbox": [
+        455,
+        442,
+        506,
+        460
+      ],
+      "confidence": 0.894445538520813
+    },
+    {
+      "text": "LFM/hws",
+      "bbox": [
+        112,
+        473,
+        184,
+        491
+      ],
+      "confidence": 0.9974252581596375
+    },
+    {
+      "text": "Attachment",
+      "bbox": [
+        111,
+        488,
+        213,
+        508
+      ],
+      "confidence": 0.9967582821846008
+    },
+    {
+      "text": "cc: Mp. F. E. Resnik",
+      "bbox": [
+        110,
+        521,
+        309,
+        541
+      ],
+      "confidence": 0.9744987487792969
+    },
+    {
+      "text": "Dr. W. F. Gannon",
+      "bbox": [
+        135,
+        535,
+        309,
+        559
+      ],
+      "confidence": 0.9454109072685242
+    },
+    {
+      "text": "Mr. P. N. Gauvin",
+      "bbox": [
+        148,
+        553,
+        309,
+        575
+      ],
+      "confidence": 0.9757492542266846
+    },
+    {
+      "text": "1003373263",
+      "bbox": [
+        697,
+        813,
+        739,
+        974
+      ],
+      "confidence": 0.9999358057975769
+    }
+  ],
+  "full_text": "PHILIP MORRIS U. S. A.\nRECEIVED\nINTER-OFFICECORRESPONDENCE\nDEC 1 1975\nRICHHOND, VIRGINIA\nW. F. GANNON\nDr. R. B. Seligman\nDate:\nNovember 20, 1975\nL. F. Meyer\nSubject:\nLow Delivery Cigarettes\nOn the attached table are data on two cigarette samples\nprepared in an effort to achieve a 4 to 5 mg. tar cigarette\nwith a plastic filter using the improved Multifilter blend.\nNote the difference in filter configuration and the dilution\nlevels. We have cleverly named these cigarettes HALF-TIMER.\nYour comments on direction of our continued effort are\ninvited.\nMeyel\nLFM/hws\nAttachment\ncc: Mp. F. E. Resnik\nDr. W. F. Gannon\nMr. P. N. Gauvin\n1003373263"
+}

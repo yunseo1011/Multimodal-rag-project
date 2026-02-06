@@ -1,0 +1,971 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0756.png",
+    "image_width": 768,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The New England",
+      "bbox": [
+        206,
+        0,
+        501,
+        37
+      ],
+      "confidence": 0.9896252751350403
+    },
+    {
+      "text": "Journal of Medicine",
+      "bbox": [
+        128,
+        42,
+        583,
+        102
+      ],
+      "confidence": 0.9772117137908936
+    },
+    {
+      "text": "Copyrighi. 1979, by the Massachusetts Medical Society",
+      "bbox": [
+        210,
+        106,
+        505,
+        131
+      ],
+      "confidence": 0.9296862483024597
+    },
+    {
+      "text": "olume 300",
+      "bbox": [
+        6,
+        135,
+        85,
+        155
+      ],
+      "confidence": 0.992041289806366
+    },
+    {
+      "text": "FEBRUARY 22, 1979",
+      "bbox": [
+        284,
+        141,
+        426,
+        158
+      ],
+      "confidence": 0.993267834186554
+    },
+    {
+      "text": "Number 8",
+      "bbox": [
+        588,
+        145,
+        696,
+        162
+      ],
+      "confidence": 0.9739832878112793
+    },
+    {
+      "text": "1955-1960 VS.1970-1977",
+      "bbox": [
+        256,
+        197,
+        444,
+        211
+      ],
+      "confidence": 0.9937717318534851
+    },
+    {
+      "text": "OSCAR AUERBaCH, M.D., E. CUYLER HAMMOND, Sc.D., AND LAWRENCE GARFInKEL, M.A.",
+      "bbox": [
+        58,
+        214,
+        634,
+        241
+      ],
+      "confidence": 0.8195357918739319
+    },
+    {
+      "text": "etract.\" To test the hypothesis that the reduction in periods studied these histologic changes occurred far",
+      "bbox": [
+        0,
+        240,
+        692,
+        268
+      ],
+      "confidence": 0.980000376701355
+    },
+    {
+      "text": "and nicotine content of cigarette smoke that began. iess frequently in nonsmokers than in cigarette smok-",
+      "bbox": [
+        0,
+        254,
+        691,
+        282
+      ],
+      "confidence": 0.9389379024505615
+    },
+    {
+      "text": "the 1950's should. be reflected by the histologic",
+      "bbox": [
+        0,
+        269,
+        342,
+        291
+      ],
+      "confidence": 0.9681752324104309
+    },
+    {
+      "text": "ers and increased in frequency with smount of smok-",
+      "bbox": [
+        361,
+        272,
+        693,
+        295
+      ],
+      "confidence": 0.9698987603187561
+    },
+    {
+      "text": "snges in the bronchial epithelium of cigarette",
+      "bbox": [
+        0,
+        284,
+        341,
+        304
+      ],
+      "confidence": 0.9544349312782288
+    },
+    {
+      "text": "Ing. adjusted for age. Sections with advanced histo-",
+      "bbox": [
+        356,
+        287,
+        689,
+        310
+      ],
+      "confidence": 0.9701805114746094
+    },
+    {
+      "text": "Okers, 20.424 sections taken at autopsy from the",
+      "bbox": [
+        0,
+        297,
+        342,
+        319
+      ],
+      "confidence": 0.9886507391929626
+    },
+    {
+      "text": "logic changes in those dying in 1955-1960 oc-",
+      "bbox": [
+        360,
+        302,
+        692,
+        324
+      ],
+      "confidence": 0.9647735357284546
+    },
+    {
+      "text": "onchial tubes of 445 men (non-iung-cancer deaths)",
+      "bbox": [
+        0,
+        311,
+        341,
+        334
+      ],
+      "confidence": 0.972560703754425
+    },
+    {
+      "text": "curred in 0 per cent of nonsmokers, in 2.6 per cent of",
+      "bbox": [
+        360,
+        315,
+        693,
+        339
+      ],
+      "confidence": 0.98832768201828
+    },
+    {
+      "text": "re examined microscopically in random order.",
+      "bbox": [
+        0,
+        327,
+        342,
+        347
+      ],
+      "confidence": 0.9758888483047485
+    },
+    {
+      "text": "those srnoking one to 19 cigarettes a day. in 13.2 per",
+      "bbox": [
+        360,
+        330,
+        688,
+        353
+      ],
+      "confidence": 0.9589491486549377
+    },
+    {
+      "text": "ere were 211 men who died in 1955-1960. of whom",
+      "bbox": [
+        0,
+        340,
+        340,
+        361
+      ],
+      "confidence": 0.9632680416107178
+    },
+    {
+      "text": "cent of those smoking 20 to 39 and in 22.5 per cent",
+      "bbox": [
+        359,
+        342,
+        689,
+        368
+      ],
+      "confidence": 0.9792616367340088
+    },
+    {
+      "text": "smoked regularty. and 234 men whe died in 1970-",
+      "bbox": [
+        0,
+        354,
+        340,
+        375
+      ],
+      "confidence": 0.976081907749176
+    },
+    {
+      "text": "of those smoking 40+ cigarettes a day. In those who",
+      "bbox": [
+        359,
+        358,
+        686,
+        380
+      ],
+      "confidence": 0.969831645488739
+    },
+    {
+      "text": "7. of whom 181 were regular smokers. Changes",
+      "bbox": [
+        0,
+        369,
+        341,
+        389
+      ],
+      "confidence": 0.949922502040863
+    },
+    {
+      "text": "died in.1970-1977 the percentages were 0. 0.1, 0.8.",
+      "bbox": [
+        359,
+        371,
+        686,
+        394
+      ],
+      "confidence": 0.9431004524230957
+    },
+    {
+      "text": "died included besal-cell nyperplasia. loss of cilla",
+      "bbox": [
+        0,
+        383,
+        340,
+        402
+      ],
+      "confidence": 0.9462558031082153
+    },
+    {
+      "text": "1979)",
+      "bbox": [
+        354,
+        397,
+        399,
+        420
+      ],
+      "confidence": 0.9531551599502563
+    },
+    {
+      "text": "and 2.2. respectively. (N Engl J Med 300:381-386.",
+      "bbox": [
+        359,
+        385,
+        685,
+        408
+      ],
+      "confidence": 0.9647895693778992
+    },
+    {
+      "text": "a occurrence of cells with atypical nuctei. In both",
+      "bbox": [
+        0,
+        398,
+        340,
+        417
+      ],
+      "confidence": 0.9572526812553406
+    },
+    {
+      "text": " a set of studies published some years ago.'\" we",
+      "bbox": [
+        0,
+        427,
+        342,
+        450
+      ],
+      "confidence": 0.9596440196037292
+    },
+    {
+      "text": "of these were early squamous-cell bronchial car.",
+      "bbox": [
+        359,
+        429,
+        686,
+        450
+      ],
+      "confidence": 0.982100248336792
+    },
+    {
+      "text": "Sound that several types of histologic changes in",
+      "bbox": [
+        0,
+        445,
+        340,
+        464
+      ],
+      "confidence": 0.9719708561897278
+    },
+    {
+      "text": "cinomas, the others being invasive bronchioloalveolar",
+      "bbox": [
+        357,
+        446,
+        685,
+        466
+      ],
+      "confidence": 0.9890284538269043
+    },
+    {
+      "text": "nchial epithelium occurred far more frequently in",
+      "bbox": [
+        0,
+        460,
+        340,
+        479
+      ],
+      "confidence": 0.987359881401062
+    },
+    {
+      "text": "tumors.",
+      "bbox": [
+        358,
+        464,
+        409,
+        478
+      ],
+      "confidence": 0.9997967481613159
+    },
+    {
+      "text": ".",
+      "bbox": [
+        671,
+        469,
+        681,
+        477
+      ],
+      "confidence": 0.9460673332214355
+    },
+    {
+      "text": "arette smokers than in nonsmokers. increased with",
+      "bbox": [
+        0,
+        478,
+        338,
+        492
+      ],
+      "confidence": 0.9673275947570801
+    },
+    {
+      "text": "In a retrospective epidemiologic study, it was found",
+      "bbox": [
+        371,
+        474,
+        686,
+        497
+      ],
+      "confidence": 0.9799891710281372
+    },
+    {
+      "text": "ount of cigärette smoking and. among cigarette",
+      "bbox": [
+        0,
+        494,
+        339,
+        508
+      ],
+      "confidence": 0.9780955910682678
+    },
+    {
+      "text": "that lung cancer occurred less frequently in men who",
+      "bbox": [
+        359,
+        491,
+        685,
+        511
+      ],
+      "confidence": 0.9925730228424072
+    },
+    {
+      "text": "okers. increased with advancing age. The same",
+      "bbox": [
+        0,
+        507,
+        339,
+        525
+      ],
+      "confidence": 0.9840681552886963
+    },
+    {
+      "text": "smoked filter-tip cigarettes than in those who smoked",
+      "bbox": [
+        359,
+        507,
+        686,
+        526
+      ],
+      "confidence": 0.9955539107322693
+    },
+    {
+      "text": "nges: were found less frequently in former than in",
+      "bbox": [
+        1,
+        524,
+        337,
+        538
+      ],
+      "confidence": 0.9901869297027588
+    },
+    {
+      "text": "noin-filter cigarettes.' In a prospective epidemiologic",
+      "bbox": [
+        358,
+        522,
+        684,
+        542
+      ],
+      "confidence": 0.9594413042068481
+    },
+    {
+      "text": "tinuing cigarette smokers. The changes studied in-",
+      "bbox": [
+        0,
+        538,
+        337,
+        555
+      ],
+      "confidence": 0.9885098338127136
+    },
+    {
+      "text": "study. three groups of cigarette smokers were matched",
+      "bbox": [
+        357,
+        536,
+        686,
+        559
+      ],
+      "confidence": 0.9775290489196777
+    },
+    {
+      "text": "ded basal-cell hyperplasia, loss of cilia in some",
+      "bbox": [
+        0,
+        551,
+        337,
+        572
+      ],
+      "confidence": 0.9669831991195679
+    },
+    {
+      "text": "on the basis of age, current number of cigarettes",
+      "bbox": [
+        358,
+        551,
+        685,
+        573
+      ],
+      "confidence": 0.9856420755386353
+    },
+    {
+      "text": "as and occurrence of ceils with atypical nuclei.",
+      "bbox": [
+        0,
+        563,
+        324,
+        587
+      ],
+      "confidence": 0.94780033826828
+    },
+    {
+      "text": "smoked per day. age at which they began smoking,",
+      "bbox": [
+        356,
+        565,
+        684,
+        590
+      ],
+      "confidence": 0.9618427157402039
+    },
+    {
+      "text": "hese histologic findings paralleled epidemiologic",
+      "bbox": [
+        0,
+        580,
+        337,
+        602
+      ],
+      "confidence": 0.9904095530509949
+    },
+    {
+      "text": "race. education. residence (urban vs. rural). oc-",
+      "bbox": [
+        356,
+        581,
+        686,
+        604
+      ],
+      "confidence": 0.9509100914001465
+    },
+    {
+      "text": "dings that rares of death from lung cancer are many",
+      "bbox": [
+        0,
+        593,
+        337,
+        618
+      ],
+      "confidence": 0.9171866774559021
+    },
+    {
+      "text": "cupational exposure or non-exposure to dust. fumes",
+      "bbox": [
+        357,
+        597,
+        685,
+        617
+      ],
+      "confidence": 0.979440450668335
+    },
+    {
+      "text": "s higher among cigarette smokers than among",
+      "bbox": [
+        0,
+        608,
+        338,
+        633
+      ],
+      "confidence": 0.9592241644859314
+    },
+    {
+      "text": "smokers. increase with amount of cigarette smok-",
+      "bbox": [
+        0,
+        622,
+        336,
+        649
+      ],
+      "confidence": 0.9505471587181091
+    },
+    {
+      "text": "and chemicals. and past history of heart disease and",
+      "bbox": [
+        356,
+        612,
+        684,
+        632
+      ],
+      "confidence": 0.9807606935501099
+    },
+    {
+      "text": "and. among persons with the same smoking",
+      "bbox": [
+        0,
+        637,
+        336,
+        665
+      ],
+      "confidence": 0.9402948617935181
+    },
+    {
+      "text": "lung cancer. The three groups were as follows: (A).",
+      "bbox": [
+        356,
+        626,
+        682,
+        647
+      ],
+      "confidence": 0.958663284778595
+    },
+    {
+      "text": "men who smoked high tar'nicotine cigarettes: (B).",
+      "bbox": [
+        355,
+        642,
+        683,
+        662
+      ],
+      "confidence": 0.9701176285743713
+    },
+    {
+      "text": "tories. increase with advancing age  Among",
+      "bbox": [
+        0,
+        653,
+        336,
+        682
+      ],
+      "confidence": 0.899340033531189
+    },
+    {
+      "text": "men who smoked mecium tar/nicotine cigarettes; and",
+      "bbox": [
+        357,
+        658,
+        684,
+        677
+      ],
+      "confidence": 0.9565882682800293
+    },
+    {
+      "text": "mer cigarette smokers. the rates decline with the",
+      "bbox": [
+        0,
+        669,
+        336,
+        696
+      ],
+      "confidence": 0.9630073308944702
+    },
+    {
+      "text": ".C. men who smoked relatively .low tar/nicotine",
+      "bbox": [
+        356,
+        671,
+        684,
+        693
+      ],
+      "confidence": 0.9760915040969849
+    },
+    {
+      "text": "gth of time since giving up the habir.\".\"",
+      "bbox": [
+        0,
+        684,
+        270,
+        712
+      ],
+      "confidence": 0.9413943290710449
+    },
+    {
+      "text": "cigarettes. In subsequent years, death rates from lung",
+      "bbox": [
+        355,
+        686,
+        684,
+        709
+      ],
+      "confidence": 0.9778432250022888
+    },
+    {
+      "text": "In a later study. we had beagle dogs inhale the",
+      "bbox": [
+        0,
+        700,
+        336,
+        726
+      ],
+      "confidence": 0.9652554988861084
+    },
+    {
+      "text": "cancer were highest in Croup A and lowest in",
+      "bbox": [
+        355,
+        702,
+        684,
+        722
+      ],
+      "confidence": 0.9855445623397827
+    },
+    {
+      "text": "oke rom filter-tip cigarettes and from cigarettes of",
+      "bbox": [
+        0,
+        715,
+        335,
+        741
+      ],
+      "confidence": 0.9713374376296997
+    },
+    {
+      "text": "Group C.",
+      "bbox": [
+        357,
+        718,
+        419,
+        735
+      ],
+      "confidence": 0.9132902026176453
+    },
+    {
+      "text": "03007479",
+      "bbox": [
+        543,
+        721,
+        647,
+        738
+      ],
+      "confidence": 0.9997881650924683
+    },
+    {
+      "text": "saine brand but without the filter.' The firer",
+      "bbox": [
+        0,
+        729,
+        336,
+        757
+      ],
+      "confidence": 0.9399153590202332
+    },
+    {
+      "text": "Since 1954, when effective filters were Tirst in-",
+      "bbox": [
+        360,
+        729,
+        686,
+        753
+      ],
+      "confidence": 0.9539947509765625
+    },
+    {
+      "text": "noved about half of the total rar and somewhat less",
+      "bbox": [
+        0,
+        744,
+        335,
+        771
+      ],
+      "confidence": 0.9808827638626099
+    },
+    {
+      "text": "n half of the nicotine contained in the smoke.",
+      "bbox": [
+        0,
+        757,
+        335,
+        787
+      ],
+      "confidence": 0.9491604566574097
+    },
+    {
+      "text": "troduced. there has been a large and continuing drop",
+      "bbox": [
+        351,
+        745,
+        684,
+        768
+      ],
+      "confidence": 0.9758641123771667
+    },
+    {
+      "text": "ver pulmonary neoplasms were found in dogs that",
+      "bbox": [
+        0,
+        772,
+        335,
+        804
+      ],
+      "confidence": 0.9607258439064026
+    },
+    {
+      "text": "in the tar and-nicotine content of the mainstream",
+      "bbox": [
+        356,
+        761,
+        684,
+        782
+      ],
+      "confidence": 0.9772143959999084
+    },
+    {
+      "text": "smoke of cigarettes consumed in the United States.\"",
+      "bbox": [
+        354,
+        777,
+        684,
+        797
+      ],
+      "confidence": 0.9645295143127441
+    },
+    {
+      "text": "okec filter-tip cigarettes than in those that smoked",
+      "bbox": [
+        0,
+        789,
+        334,
+        817
+      ],
+      "confidence": 0.9575357437133789
+    },
+    {
+      "text": "Even non-filter cigarettes deliver considerably less tar",
+      "bbox": [
+        355,
+        792,
+        684,
+        814
+      ],
+      "confidence": 0.9870007634162903
+    },
+    {
+      "text": "filter-tip cigarettes. Invasive pulmonary tumors",
+      "bbox": [
+        0,
+        805,
+        333,
+        832
+      ],
+      "confidence": 0.9446949362754822
+    },
+    {
+      "text": "and nicotine than those sold in previous years - this",
+      "bbox": [
+        354,
+        807,
+        683,
+        830
+      ],
+      "confidence": 0.9742215275764465
+    },
+    {
+      "text": "e found only in non-filter cigarette smokers. Two",
+      "bbox": [
+        0,
+        821,
+        333,
+        846
+      ],
+      "confidence": 0.9836921095848083
+    },
+    {
+      "text": "reduction being achieved by selection of tobacco. the",
+      "bbox": [
+        354,
+        823,
+        683,
+        845
+      ],
+      "confidence": 0.984223484992981
+    },
+    {
+      "text": "use of homogenized tobacco and various other means.",
+      "bbox": [
+        354,
+        839,
+        684,
+        862
+      ],
+      "confidence": 0.9876776337623596
+    },
+    {
+      "text": "rom the Veterses Adminasiraboa Medical Center. Eas Orange. NJ. the",
+      "bbox": [
+        0,
+        861,
+        333,
+        882
+      ],
+      "confidence": 0.9323635101318359
+    },
+    {
+      "text": "Indeed, the highest tar/nicotine brands on the market",
+      "bbox": [
+        353,
+        855,
+        683,
+        877
+      ],
+      "confidence": 0.9899947643280029
+    },
+    {
+      "text": "e or Medicane and Denusiry of New Jersary. New Jersey Medical",
+      "bbox": [
+        4,
+        874,
+        333,
+        892
+      ],
+      "confidence": 0.876927375793457
+    },
+    {
+      "text": "today deliver less tar than the lowest iar brand of",
+      "bbox": [
+        352,
+        870,
+        683,
+        893
+      ],
+      "confidence": 0.9611280560493469
+    },
+    {
+      "text": "American cigarettes on the market before 1954. Thus,",
+      "bbox": [
+        353,
+        885,
+        681,
+        909
+      ],
+      "confidence": 0.9777727127075195
+    },
+    {
+      "text": "rican Cancer Socety. inc., New York. NY (address repnnt requsus to",
+      "bbox": [
+        1,
+        896,
+        333,
+        916
+      ],
+      "confidence": 0.8862030506134033
+    },
+    {
+      "text": "everyone who has been a habitual cigarette smoker for",
+      "bbox": [
+        352,
+        901,
+        682,
+        927
+      ],
+      "confidence": 0.9918798208236694
+    },
+    {
+      "text": "25 years or longer must be smoking cigarettes with",
+      "bbox": [
+        352,
+        916,
+        682,
+        945
+      ],
+      "confidence": 0.9955193400382996
+    },
+    {
+      "text": "07019",
+      "bbox": [
+        37,
+        924,
+        77,
+        934
+      ],
+      "confidence": 0.9561389088630676
+    }
+  ],
+  "full_text": "The New England\nJournal of Medicine\nCopyrighi. 1979, by the Massachusetts Medical Society\nolume 300\nFEBRUARY 22, 1979\nNumber 8\n1955-1960 VS.1970-1977\nOSCAR AUERBaCH, M.D., E. CUYLER HAMMOND, Sc.D., AND LAWRENCE GARFInKEL, M.A.\netract.\" To test the hypothesis that the reduction in periods studied these histologic changes occurred far\nand nicotine content of cigarette smoke that began. iess frequently in nonsmokers than in cigarette smok-\nthe 1950's should. be reflected by the histologic\ners and increased in frequency with smount of smok-\nsnges in the bronchial epithelium of cigarette\nIng. adjusted for age. Sections with advanced histo-\nOkers, 20.424 sections taken at autopsy from the\nlogic changes in those dying in 1955-1960 oc-\nonchial tubes of 445 men (non-iung-cancer deaths)\ncurred in 0 per cent of nonsmokers, in 2.6 per cent of\nre examined microscopically in random order.\nthose srnoking one to 19 cigarettes a day. in 13.2 per\nere were 211 men who died in 1955-1960. of whom\ncent of those smoking 20 to 39 and in 22.5 per cent\nsmoked regularty. and 234 men whe died in 1970-\nof those smoking 40+ cigarettes a day. In those who\n7. of whom 181 were regular smokers. Changes\ndied in.1970-1977 the percentages were 0. 0.1, 0.8.\ndied included besal-cell nyperplasia. loss of cilla\n1979)\nand 2.2. respectively. (N Engl J Med 300:381-386.\na occurrence of cells with atypical nuctei. In both\n a set of studies published some years ago.'\" we\nof these were early squamous-cell bronchial car.\nSound that several types of histologic changes in\ncinomas, the others being invasive bronchioloalveolar\nnchial epithelium occurred far more frequently in\ntumors.\n.\narette smokers than in nonsmokers. increased with\nIn a retrospective epidemiologic study, it was found\nount of cigärette smoking and. among cigarette\nthat lung cancer occurred less frequently in men who\nokers. increased with advancing age. The same\nsmoked filter-tip cigarettes than in those who smoked\nnges: were found less frequently in former than in\nnoin-filter cigarettes.' In a prospective epidemiologic\ntinuing cigarette smokers. The changes studied in-\nstudy. three groups of cigarette smokers were matched\nded basal-cell hyperplasia, loss of cilia in some\non the basis of age, current number of cigarettes\nas and occurrence of ceils with atypical nuclei.\nsmoked per day. age at which they began smoking,\nhese histologic findings paralleled epidemiologic\nrace. education. residence (urban vs. rural). oc-\ndings that rares of death from lung cancer are many\ncupational exposure or non-exposure to dust. fumes\ns higher among cigarette smokers than among\nsmokers. increase with amount of cigarette smok-\nand chemicals. and past history of heart disease and\nand. among persons with the same smoking\nlung cancer. The three groups were as follows: (A).\nmen who smoked high tar'nicotine cigarettes: (B).\ntories. increase with advancing age  Among\nmen who smoked mecium tar/nicotine cigarettes; and\nmer cigarette smokers. the rates decline with the\n.C. men who smoked relatively .low tar/nicotine\ngth of time since giving up the habir.\".\"\ncigarettes. In subsequent years, death rates from lung\nIn a later study. we had beagle dogs inhale the\ncancer were highest in Croup A and lowest in\noke rom filter-tip cigarettes and from cigarettes of\nGroup C.\n03007479\nsaine brand but without the filter.' The firer\nSince 1954, when effective filters were Tirst in-\nnoved about half of the total rar and somewhat less\nn half of the nicotine contained in the smoke.\ntroduced. there has been a large and continuing drop\nver pulmonary neoplasms were found in dogs that\nin the tar and-nicotine content of the mainstream\nsmoke of cigarettes consumed in the United States.\"\nokec filter-tip cigarettes than in those that smoked\nEven non-filter cigarettes deliver considerably less tar\nfilter-tip cigarettes. Invasive pulmonary tumors\nand nicotine than those sold in previous years - this\ne found only in non-filter cigarette smokers. Two\nreduction being achieved by selection of tobacco. the\nuse of homogenized tobacco and various other means.\nrom the Veterses Adminasiraboa Medical Center. Eas Orange. NJ. the\nIndeed, the highest tar/nicotine brands on the market\ne or Medicane and Denusiry of New Jersary. New Jersey Medical\ntoday deliver less tar than the lowest iar brand of\nAmerican cigarettes on the market before 1954. Thus,\nrican Cancer Socety. inc., New York. NY (address repnnt requsus to\neveryone who has been a habitual cigarette smoker for\n25 years or longer must be smoking cigarettes with\n07019"
+}

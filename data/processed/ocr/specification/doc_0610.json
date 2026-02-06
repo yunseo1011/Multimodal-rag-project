@@ -1,0 +1,411 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0610.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+      "bbox": [
+        227,
+        3,
+        489,
+        22
+      ],
+      "confidence": 0.9859089851379395
+    },
+    {
+      "text": "DEVELOPMENT CENTER WORK REQUEST",
+      "bbox": [
+        212,
+        21,
+        511,
+        42
+      ],
+      "confidence": 0.9886937737464905
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        3,
+        64,
+        52,
+        85
+      ],
+      "confidence": 0.9988473653793335
+    },
+    {
+      "text": "REQUESTED BY",
+      "bbox": [
+        3,
+        81,
+        131,
+        104
+      ],
+      "confidence": 0.9969091415405273
+    },
+    {
+      "text": "May 24,,1978",
+      "bbox": [
+        164,
+        69,
+        281,
+        86
+      ],
+      "confidence": 0.9412387013435364
+    },
+    {
+      "text": "C. V. Cantrell",
+      "bbox": [
+        163,
+        83,
+        299,
+        102
+      ],
+      "confidence": 0.987008273601532
+    },
+    {
+      "text": "PROJECT NO.",
+      "bbox": [
+        4,
+        98,
+        118,
+        120
+      ],
+      "confidence": 0.9765031933784485
+    },
+    {
+      "text": "B229-78-1",
+      "bbox": [
+        163,
+        98,
+        252,
+        117
+      ],
+      "confidence": 0.9994710087776184
+    },
+    {
+      "text": "COPIES: NEPCXXXCXEEO(S)",
+      "bbox": [
+        7,
+        146,
+        280,
+        166
+      ],
+      "confidence": 0.8136749863624573
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        96,
+        166,
+        130,
+        180
+      ],
+      "confidence": 0.9981226325035095
+    },
+    {
+      "text": "P. E. ATKINS",
+      "bbox": [
+        144,
+        162,
+        259,
+        181
+      ],
+      "confidence": 0.9638826847076416
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        96,
+        181,
+        140,
+        197
+      ],
+      "confidence": 0.9928653836250305
+    },
+    {
+      "text": "D. V. CANTREIL,",
+      "bbox": [
+        136,
+        175,
+        280,
+        197
+      ],
+      "confidence": 0.9109096527099609
+    },
+    {
+      "text": "P. F. WAGNER",
+      "bbox": [
+        144,
+        191,
+        264,
+        213
+      ],
+      "confidence": 0.9277462363243103
+    },
+    {
+      "text": "PURPOSE:",
+      "bbox": [
+        10,
+        226,
+        92,
+        244
+      ],
+      "confidence": 0.9816957712173462
+    },
+    {
+      "text": "Sample Manufacture of Expcrimental Raleigh Long Lights",
+      "bbox": [
+        8,
+        250,
+        520,
+        274
+      ],
+      "confidence": 0.9872829914093018
+    },
+    {
+      "text": "DESCRIpTIon (test outline end/or special instructions):",
+      "bbox": [
+        11,
+        293,
+        530,
+        321
+      ],
+      "confidence": 0.9439760446548462
+    },
+    {
+      "text": "Reference: D. v. Cantrell's memorandum to B. A. Bandy dated May 22, 1978.",
+      "bbox": [
+        9,
+        322,
+        706,
+        349
+      ],
+      "confidence": 0.9719932079315186
+    },
+    {
+      "text": "Cigarette Sample_229ool wil1 use the XLF-259 blend, casing XCF-215, XCF-",
+      "bbox": [
+        10,
+        350,
+        688,
+        378
+      ],
+      "confidence": 0.9627187252044678
+    },
+    {
+      "text": "222; C.36 and XFF-175 flavor. The filter will use 3.3-40,0o0 filter tow,",
+      "bbox": [
+        10,
+        368,
+        693,
+        392
+      ],
+      "confidence": 0.9219879508018494
+    },
+    {
+      "text": "S-95-Mi plug wrap and be made to a tip pressure drop of 2.9\". It will use",
+      "bbox": [
+        10,
+        383,
+        705,
+        407
+      ],
+      "confidence": 0.9660362601280212
+    },
+    {
+      "text": "36 mm. cork on white tipping with one line of perforation, Ecusta 753",
+      "bbox": [
+        13,
+        399,
+        656,
+        419
+      ],
+      "confidence": 0.9706757068634033
+    },
+    {
+      "text": "cigarette paper and be made to a density of 268 mm/cc.",
+      "bbox": [
+        13,
+        413,
+        516,
+        435
+      ],
+      "confidence": 0.9828784465789795
+    },
+    {
+      "text": "Cigarette Sample 2290o2 will be identical to 229ool except it will use",
+      "bbox": [
+        12,
+        442,
+        663,
+        464
+      ],
+      "confidence": 0.9829489588737488
+    },
+    {
+      "text": "XFF-177 flavor.",
+      "bbox": [
+        15,
+        462,
+        157,
+        476
+      ],
+      "confidence": 0.9833430647850037
+    },
+    {
+      "text": "Cigarette Sample 229oo3 will be identical to 229ool except it will use",
+      "bbox": [
+        11,
+        483,
+        660,
+        509
+      ],
+      "confidence": 0.9775604009628296
+    },
+    {
+      "text": "XFF-173 flavor.",
+      "bbox": [
+        15,
+        504,
+        156,
+        518
+      ],
+      "confidence": 0.9870052933692932
+    },
+    {
+      "text": "XLF-266 blend, casing XCF-215, xCF-216, C.36 and XFF-178 flavor.",
+      "bbox": [
+        12,
+        540,
+        600,
+        566
+      ],
+      "confidence": 0.9564424753189087
+    },
+    {
+      "text": "Cigarette Sample 229005 will be identical to 229004 except it will use",
+      "bbox": [
+        13,
+        566,
+        653,
+        595
+      ],
+      "confidence": 0.9788987040519714
+    },
+    {
+      "text": "XFF-176 flavor.",
+      "bbox": [
+        15,
+        586,
+        156,
+        605
+      ],
+      "confidence": 0.9634203314781189
+    },
+    {
+      "text": "XFF-173 flavor.",
+      "bbox": [
+        15,
+        628,
+        158,
+        648
+      ],
+      "confidence": 0.9736089110374451
+    },
+    {
+      "text": "Selected filter rods and cigarette papcr will be used.",
+      "bbox": [
+        15,
+        654,
+        506,
+        677
+      ],
+      "confidence": 0.9782959818840027
+    },
+    {
+      "text": "650509541",
+      "bbox": [
+        656,
+        676,
+        690,
+        794
+      ],
+      "confidence": 0.99991375207901
+    },
+    {
+      "text": "R & p will require 30 cartons of each sample for their evaluaticns.",
+      "bbox": [
+        14,
+        683,
+        619,
+        707
+      ],
+      "confidence": 0.9771373271942139
+    },
+    {
+      "text": "All expenses incurred should be charged to B-569.",
+      "bbox": [
+        15,
+        711,
+        458,
+        734
+      ],
+      "confidence": 0.976671040058136
+    },
+    {
+      "text": "BO.Bny",
+      "bbox": [
+        14,
+        755,
+        176,
+        798
+      ],
+      "confidence": 0.6238637566566467
+    },
+    {
+      "text": "B. A. BANDY/kEb",
+      "bbox": [
+        15,
+        792,
+        156,
+        813
+      ],
+      "confidence": 0.8819178342819214
+    },
+    {
+      "text": "DEVELOPMENT CENTER PROJECT NO. B-569-694",
+      "bbox": [
+        17,
+        847,
+        381,
+        867
+      ],
+      "confidence": 0.9588643908500671
+    },
+    {
+      "text": "SCHEDULED",
+      "bbox": [
+        21,
+        866,
+        106,
+        879
+      ],
+      "confidence": 0.9999033808708191
+    },
+    {
+      "text": "COMPLETED",
+      "bbox": [
+        21,
+        879,
+        106,
+        892
+      ],
+      "confidence": 0.9996238350868225
+    }
+  ],
+  "full_text": "BROWN & WILLIAMSON TOBACCO CORPORATION\nDEVELOPMENT CENTER WORK REQUEST\nDATE\nREQUESTED BY\nMay 24,,1978\nC. V. Cantrell\nPROJECT NO.\nB229-78-1\nCOPIES: NEPCXXXCXEEO(S)\nTO:\nP. E. ATKINS\nCC:\nD. V. CANTREIL,\nP. F. WAGNER\nPURPOSE:\nSample Manufacture of Expcrimental Raleigh Long Lights\nDESCRIpTIon (test outline end/or special instructions):\nReference: D. v. Cantrell's memorandum to B. A. Bandy dated May 22, 1978.\nCigarette Sample_229ool wil1 use the XLF-259 blend, casing XCF-215, XCF-\n222; C.36 and XFF-175 flavor. The filter will use 3.3-40,0o0 filter tow,\nS-95-Mi plug wrap and be made to a tip pressure drop of 2.9\". It will use\n36 mm. cork on white tipping with one line of perforation, Ecusta 753\ncigarette paper and be made to a density of 268 mm/cc.\nCigarette Sample 2290o2 will be identical to 229ool except it will use\nXFF-177 flavor.\nCigarette Sample 229oo3 will be identical to 229ool except it will use\nXFF-173 flavor.\nXLF-266 blend, casing XCF-215, xCF-216, C.36 and XFF-178 flavor.\nCigarette Sample 229005 will be identical to 229004 except it will use\nXFF-176 flavor.\nXFF-173 flavor.\nSelected filter rods and cigarette papcr will be used.\n650509541\nR & p will require 30 cartons of each sample for their evaluaticns.\nAll expenses incurred should be charged to B-569.\nBO.Bny\nB. A. BANDY/kEb\nDEVELOPMENT CENTER PROJECT NO. B-569-694\nSCHEDULED\nCOMPLETED"
+}

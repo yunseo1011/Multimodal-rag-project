@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0489.png",
+    "image_width": 788,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Invoice for Services",
+      "bbox": [
+        275,
+        99,
+        513,
+        123
+      ],
+      "confidence": 0.9995836019515991
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        88,
+        140,
+        147,
+        162
+      ],
+      "confidence": 0.9991461634635925
+    },
+    {
+      "text": "October 29, 1993",
+      "bbox": [
+        191,
+        140,
+        339,
+        161
+      ],
+      "confidence": 0.9710757732391357
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        84,
+        177,
+        121,
+        202
+      ],
+      "confidence": 0.9996027946472168
+    },
+    {
+      "text": "Peter Sparber, Pres.",
+      "bbox": [
+        187,
+        179,
+        361,
+        202
+      ],
+      "confidence": 0.9957424402236938
+    },
+    {
+      "text": "Family",
+      "bbox": [
+        418,
+        174,
+        514,
+        199
+      ],
+      "confidence": 0.9978753924369812
+    },
+    {
+      "text": "Cout unsortion",
+      "bbox": [
+        422,
+        173,
+        656,
+        225
+      ],
+      "confidence": 0.7704969048500061
+    },
+    {
+      "text": "Sparber and Associates",
+      "bbox": [
+        188,
+        199,
+        391,
+        225
+      ],
+      "confidence": 0.9937772750854492
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        80,
+        234,
+        145,
+        261
+      ],
+      "confidence": 0.9996312856674194
+    },
+    {
+      "text": "Clifford L. Freeman",
+      "bbox": [
+        185,
+        237,
+        362,
+        261
+      ],
+      "confidence": 0.9988642334938049
+    },
+    {
+      "text": "RE",
+      "bbox": [
+        77,
+        273,
+        116,
+        300
+      ],
+      "confidence": 0.9993294477462769
+    },
+    {
+      "text": "Emergency Committee to Save Drug Treatment",
+      "bbox": [
+        183,
+        275,
+        600,
+        301
+      ],
+      "confidence": 0.9957791566848755
+    },
+    {
+      "text": "Block Grants",
+      "bbox": [
+        182,
+        297,
+        298,
+        321
+      ],
+      "confidence": 0.979287326335907
+    },
+    {
+      "text": "1.5hrs",
+      "bbox": [
+        377,
+        335,
+        453,
+        360
+      ],
+      "confidence": 0.9997763633728027
+    },
+    {
+      "text": "10/12..",
+      "bbox": [
+        182,
+        338,
+        236,
+        360
+      ],
+      "confidence": 0.9936099052429199
+    },
+    {
+      "text": "10/13...",
+      "bbox": [
+        182,
+        360,
+        244,
+        381
+      ],
+      "confidence": 0.9804408550262451
+    },
+    {
+      "text": "6.5hrs",
+      "bbox": [
+        383,
+        358,
+        452,
+        380
+      ],
+      "confidence": 0.999239981174469
+    },
+    {
+      "text": "8.0hrs",
+      "bbox": [
+        384,
+        379,
+        452,
+        400
+      ],
+      "confidence": 0.9772167205810547
+    },
+    {
+      "text": "10/15...",
+      "bbox": [
+        181,
+        402,
+        241,
+        423
+      ],
+      "confidence": 0.9853818416595459
+    },
+    {
+      "text": "3.0hrs",
+      "bbox": [
+        384,
+        400,
+        452,
+        421
+      ],
+      "confidence": 0.9907364249229431
+    },
+    {
+      "text": "10/18...",
+      "bbox": [
+        180,
+        422,
+        250,
+        444
+      ],
+      "confidence": 0.9727728962898254
+    },
+    {
+      "text": ".5hrs",
+      "bbox": [
+        403,
+        420,
+        453,
+        443
+      ],
+      "confidence": 0.9965626001358032
+    },
+    {
+      "text": "10/19...",
+      "bbox": [
+        178,
+        442,
+        272,
+        466
+      ],
+      "confidence": 0.8251725435256958
+    },
+    {
+      "text": "5hrs",
+      "bbox": [
+        388,
+        442,
+        453,
+        464
+      ],
+      "confidence": 0.9918453693389893
+    },
+    {
+      "text": "20hrs",
+      "bbox": [
+        398,
+        464,
+        453,
+        486
+      ],
+      "confidence": 0.9998986124992371
+    },
+    {
+      "text": "20 + 8 = 2.5 days @ $500/day = $1250.00",
+      "bbox": [
+        179,
+        502,
+        561,
+        528
+      ],
+      "confidence": 0.9795623421669006
+    },
+    {
+      "text": "Pete - Thank you for the opportunity to do this work. I",
+      "bbox": [
+        179,
+        563,
+        683,
+        590
+      ],
+      "confidence": 0.9697141647338867
+    },
+    {
+      "text": "think we had a very positive response. After my report",
+      "bbox": [
+        179,
+        584,
+        690,
+        612
+      ],
+      "confidence": 0.9838227033615112
+    },
+    {
+      "text": "to Phyllis I received a copy of a letter sent by Multnomah",
+      "bbox": [
+        177,
+        605,
+        703,
+        633
+      ],
+      "confidence": 0.9772770404815674
+    },
+    {
+      "text": "County District Attorney, Mike Schrunk. He is a leading",
+      "bbox": [
+        178,
+        628,
+        679,
+        652
+      ],
+      "confidence": 0.990142822265625
+    },
+    {
+      "text": "figure with a regional anti-drug initiative and powerful",
+      "bbox": [
+        177,
+        649,
+        680,
+        673
+      ],
+      "confidence": 0.9873466491699219
+    },
+    {
+      "text": "Politician.",
+      "bbox": [
+        178,
+        671,
+        273,
+        696
+      ],
+      "confidence": 0.9991117119789124
+    },
+    {
+      "text": "FCC",
+      "bbox": [
+        604,
+        712,
+        679,
+        753
+      ],
+      "confidence": 0.8861482739448547
+    },
+    {
+      "text": "check",
+      "bbox": [
+        618,
+        737,
+        716,
+        778
+      ],
+      "confidence": 0.6158905029296875
+    },
+    {
+      "text": "ACCO LITIGATION",
+      "bbox": [
+        144,
+        744,
+        306,
+        875
+      ],
+      "confidence": 0.9999120831489563
+    },
+    {
+      "text": "APPROVED FOR PAYMENT",
+      "bbox": [
+        340,
+        766,
+        599,
+        795
+      ],
+      "confidence": 0.999584972858429
+    },
+    {
+      "text": "BY.",
+      "bbox": [
+        337,
+        795,
+        375,
+        825
+      ],
+      "confidence": 0.8963077068328857
+    },
+    {
+      "text": "BY.",
+      "bbox": [
+        336,
+        830,
+        371,
+        855
+      ],
+      "confidence": 0.9807548522949219
+    },
+    {
+      "text": "BY.",
+      "bbox": [
+        336,
+        861,
+        371,
+        886
+      ],
+      "confidence": 0.9820723533630371
+    },
+    {
+      "text": "A/C1305-7501",
+      "bbox": [
+        337,
+        881,
+        556,
+        920
+      ],
+      "confidence": 0.8750684857368469
+    },
+    {
+      "text": "DATE ↓",
+      "bbox": [
+        338,
+        916,
+        438,
+        948
+      ],
+      "confidence": 0.8657967448234558
+    },
+    {
+      "text": "1353",
+      "bbox": [
+        450,
+        912,
+        536,
+        945
+      ],
+      "confidence": 0.7058483958244324
+    },
+    {
+      "text": "TIMN 189282",
+      "bbox": [
+        619,
+        959,
+        776,
+        990
+      ],
+      "confidence": 0.9997639060020447
+    }
+  ],
+  "full_text": "Invoice for Services\nDATE:\nOctober 29, 1993\nTO:\nPeter Sparber, Pres.\nFamily\nCout unsortion\nSparber and Associates\nFROM:\nClifford L. Freeman\nRE\nEmergency Committee to Save Drug Treatment\nBlock Grants\n1.5hrs\n10/12..\n10/13...\n6.5hrs\n8.0hrs\n10/15...\n3.0hrs\n10/18...\n.5hrs\n10/19...\n5hrs\n20hrs\n20 + 8 = 2.5 days @ $500/day = $1250.00\nPete - Thank you for the opportunity to do this work. I\nthink we had a very positive response. After my report\nto Phyllis I received a copy of a letter sent by Multnomah\nCounty District Attorney, Mike Schrunk. He is a leading\nfigure with a regional anti-drug initiative and powerful\nPolitician.\nFCC\ncheck\nACCO LITIGATION\nAPPROVED FOR PAYMENT\nBY.\nBY.\nBY.\nA/C1305-7501\nDATE ↓\n1353\nTIMN 189282"
+}

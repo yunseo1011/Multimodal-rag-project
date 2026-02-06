@@ -1,0 +1,511 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0340.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RALPH L. WENTWORTH",
+      "bbox": [
+        84,
+        68,
+        268,
+        85
+      ],
+      "confidence": 0.9845778346061707
+    },
+    {
+      "text": "Dynatech Corporation",
+      "bbox": [
+        85,
+        119,
+        241,
+        136
+      ],
+      "confidence": 0.9924642443656921
+    },
+    {
+      "text": "EDUCATION:",
+      "bbox": [
+        85,
+        151,
+        185,
+        170
+      ],
+      "confidence": 0.9940641522407532
+    },
+    {
+      "text": "M.S.; Chemical Engineering, Massa-",
+      "bbox": [
+        234,
+        150,
+        504,
+        167
+      ],
+      "confidence": 0.9769120216369629
+    },
+    {
+      "text": "chusetts Institute of Technology.",
+      "bbox": [
+        247,
+        164,
+        478,
+        184
+      ],
+      "confidence": 0.9977886080741882
+    },
+    {
+      "text": "B.S., Chemistry, Harvard University.",
+      "bbox": [
+        233,
+        181,
+        510,
+        200
+      ],
+      "confidence": 0.9775573015213013
+    },
+    {
+      "text": "Research Manager, Dewey & Almy",
+      "bbox": [
+        232,
+        214,
+        483,
+        232
+      ],
+      "confidence": 0.9885224103927612
+    },
+    {
+      "text": "BACKGROUND:",
+      "bbox": [
+        86,
+        218,
+        198,
+        235
+      ],
+      "confidence": 0.9993650913238525
+    },
+    {
+      "text": "Chemical Division, W. R. Grace & Co.",
+      "bbox": [
+        234,
+        228,
+        528,
+        247
+      ],
+      "confidence": 0.9805059432983398
+    },
+    {
+      "text": "Industrial Liaison Officer, MIT.",
+      "bbox": [
+        232,
+        245,
+        461,
+        263
+      ],
+      "confidence": 0.9917117357254028
+    },
+    {
+      "text": "Staff Member, Division of Industrial",
+      "bbox": [
+        231,
+        261,
+        492,
+        279
+      ],
+      "confidence": 0.9874159693717957
+    },
+    {
+      "text": "Cooperation,MIT.",
+      "bbox": [
+        230,
+        276,
+        401,
+        294
+      ],
+      "confidence": 0.9926192760467529
+    },
+    {
+      "text": "Member: American Institute of Chemical",
+      "bbox": [
+        234,
+        295,
+        527,
+        309
+      ],
+      "confidence": 0.9974978566169739
+    },
+    {
+      "text": ".Engineers, American Chemical Society,",
+      "bbox": [
+        244,
+        309,
+        532,
+        328
+      ],
+      "confidence": 0.9729771018028259
+    },
+    {
+      "text": "Sigma Xi, TAPPI, The Chemists Club.",
+      "bbox": [
+        245,
+        328,
+        525,
+        342
+      ],
+      "confidence": 0.996947169303894
+    },
+    {
+      "text": "Massachusetts Professional Engineer.",
+      "bbox": [
+        230,
+        342,
+        507,
+        360
+      ],
+      "confidence": 0.9975256323814392
+    },
+    {
+      "text": "EXPERIENCE:",
+      "bbox": [
+        86,
+        378,
+        193,
+        392
+      ],
+      "confidence": 0.9995678067207336
+    },
+    {
+      "text": "At Dynatech Mr. Wentworth has been responsible for projects",
+      "bbox": [
+        232,
+        373,
+        679,
+        392
+      ],
+      "confidence": 0.9930422902107239
+    },
+    {
+      "text": "\"",
+      "bbox": [
+        474,
+        369,
+        490,
+        376
+      ],
+      "confidence": 0.8040222525596619
+    },
+    {
+      "text": "dealing with transport processes in fuel cells, industrial waste",
+      "bbox": [
+        232,
+        389,
+        686,
+        408
+      ],
+      "confidence": 0.9953858852386475
+    },
+    {
+      "text": "recovery, polymer chemistry, metal-to-polymer adhesive",
+      "bbox": [
+        230,
+        404,
+        656,
+        426
+      ],
+      "confidence": 0.9960124492645264
+    },
+    {
+      "text": "bonding, determination of mass transfer coefficients in high-",
+      "bbox": [
+        233,
+        423,
+        672,
+        441
+      ],
+      "confidence": 0.9937165975570679
+    },
+    {
+      "text": "energy fuel systems, the manufacture of filter materials, and",
+      "bbox": [
+        232,
+        437,
+        679,
+        457
+      ],
+      "confidence": 0.9913646578788757
+    },
+    {
+      "text": "glass fiber papers. An important program carried out at Dyna-",
+      "bbox": [
+        231,
+        453,
+        694,
+        474
+      ],
+      "confidence": 0.9935041069984436
+    },
+    {
+      "text": "tech under Mr. Wentworth's direction has been the development",
+      "bbox": [
+        230,
+        469,
+        693,
+        490
+      ],
+      "confidence": 0.9961121082305908
+    },
+    {
+      "text": "of a practical process for drying paper by radio frequency heat-",
+      "bbox": [
+        233,
+        488,
+        693,
+        505
+      ],
+      "confidence": 0.9810082912445068
+    },
+    {
+      "text": "ing. In these projects, Mr. Wentworth has applfed previous ex-",
+      "bbox": [
+        232,
+        503,
+        699,
+        521
+      ],
+      "confidence": 0.9824764728546143
+    },
+    {
+      "text": "perience in applied chemistry and product development. At Dewey",
+      "bbox": [
+        232,
+        519,
+        703,
+        537
+      ],
+      "confidence": 0.9894908666610718
+    },
+    {
+      "text": "& Almy Mr. Wentworth supervised papermaking and polymer re-",
+      "bbox": [
+        233,
+        534,
+        701,
+        552
+      ],
+      "confidence": 0.9887396693229675
+    },
+    {
+      "text": "search and development for battery separators and latex-saturated",
+      "bbox": [
+        232,
+        549,
+        711,
+        569
+      ],
+      "confidence": 0.9882521629333496
+    },
+    {
+      "text": "specialty paper products. He was responsible for the design and",
+      "bbox": [
+        232,
+        565,
+        699,
+        584
+      ],
+      "confidence": 0.9902637600898743
+    },
+    {
+      "text": "building of a pilot papermaking laboratory which included complete",
+      "bbox": [
+        233,
+        582,
+        711,
+        599
+      ],
+      "confidence": 0.991866946220398
+    },
+    {
+      "text": "facilities for pulp preparation, papermaking with a 27\"\" Rotoformer",
+      "bbox": [
+        233,
+        598,
+        714,
+        615
+      ],
+      "confidence": 0.9805238842964172
+    },
+    {
+      "text": "saturation by several processes, coating and drying. Under his",
+      "bbox": [
+        233,
+        612,
+        694,
+        630
+      ],
+      "confidence": 0.9958207011222839
+    },
+    {
+      "text": "direction specialty paper products based on new concepts of porous",
+      "bbox": [
+        232,
+        626,
+        714,
+        647
+      ],
+      "confidence": 0.9878832697868347
+    },
+    {
+      "text": "web structure and fiber treatment processes were developed. He",
+      "bbox": [
+        231,
+        642,
+        703,
+        662
+      ],
+      "confidence": 0.9881044030189514
+    },
+    {
+      "text": "was manager of a laboratory devoted to the testing and evaluation",
+      "bbox": [
+        231,
+        656,
+        701,
+        679
+      ],
+      "confidence": 0.9938146471977234
+    },
+    {
+      "text": "of batteries",
+      "bbox": [
+        234,
+        678,
+        316,
+        693
+      ],
+      "confidence": 0.9964990615844727
+    },
+    {
+      "text": "As a member of the Administration at MIT, Mr. Wentworth served",
+      "bbox": [
+        230,
+        703,
+        714,
+        726
+      ],
+      "confidence": 0.9822829365730286
+    },
+    {
+      "text": "as technical liaison representative with the directors of research",
+      "bbox": [
+        230,
+        719,
+        700,
+        742
+      ],
+      "confidence": 0.9873689413070679
+    },
+    {
+      "text": "at a country-wide group of 25 chemical, petroleum and other com-",
+      "bbox": [
+        233,
+        735,
+        712,
+        757
+      ],
+      "confidence": 0.9834905862808228
+    },
+    {
+      "text": "panies, relating company research with activity in all departments",
+      "bbox": [
+        233,
+        750,
+        711,
+        773
+      ],
+      "confidence": 0.9968743920326233
+    },
+    {
+      "text": "at MIT. For the Office of Naval Research, Mr. Wentworth carried",
+      "bbox": [
+        233,
+        766,
+        718,
+        788
+      ],
+      "confidence": 0.978227972984314
+    },
+    {
+      "text": "out at MIT a long-term project to establish fundamental knowledge",
+      "bbox": [
+        233,
+        782,
+        708,
+        803
+      ],
+      "confidence": 0.984017014503479
+    },
+    {
+      "text": "of hydrogen peroxide. This experience ranged over studies of cata-",
+      "bbox": [
+        235,
+        800,
+        720,
+        818
+      ],
+      "confidence": 0.9912214279174805
+    },
+    {
+      "text": "lytic decomposition mechanisms, investigation of basic chemistry",
+      "bbox": [
+        233,
+        813,
+        707,
+        836
+      ],
+      "confidence": 0.9877088069915771
+    },
+    {
+      "text": "of H2O2, engineering design of catalytic decomposers, and measure-",
+      "bbox": [
+        233,
+        830,
+        726,
+        851
+      ],
+      "confidence": 0.9889547228813171
+    },
+    {
+      "text": "ments of physical properties. For the OSRD Mr. Wentworth took",
+      "bbox": [
+        234,
+        848,
+        704,
+        865
+      ],
+      "confidence": 0.9826309084892273
+    },
+    {
+      "text": "part in the development of a high pressure hydrogen generator.",
+      "bbox": [
+        236,
+        864,
+        685,
+        881
+      ],
+      "confidence": 0.9923511743545532
+    },
+    {
+      "text": "1000710179",
+      "bbox": [
+        544,
+        928,
+        693,
+        958
+      ],
+      "confidence": 0.9999474287033081
+    }
+  ],
+  "full_text": "RALPH L. WENTWORTH\nDynatech Corporation\nEDUCATION:\nM.S.; Chemical Engineering, Massa-\nchusetts Institute of Technology.\nB.S., Chemistry, Harvard University.\nResearch Manager, Dewey & Almy\nBACKGROUND:\nChemical Division, W. R. Grace & Co.\nIndustrial Liaison Officer, MIT.\nStaff Member, Division of Industrial\nCooperation,MIT.\nMember: American Institute of Chemical\n.Engineers, American Chemical Society,\nSigma Xi, TAPPI, The Chemists Club.\nMassachusetts Professional Engineer.\nEXPERIENCE:\nAt Dynatech Mr. Wentworth has been responsible for projects\n\"\ndealing with transport processes in fuel cells, industrial waste\nrecovery, polymer chemistry, metal-to-polymer adhesive\nbonding, determination of mass transfer coefficients in high-\nenergy fuel systems, the manufacture of filter materials, and\nglass fiber papers. An important program carried out at Dyna-\ntech under Mr. Wentworth's direction has been the development\nof a practical process for drying paper by radio frequency heat-\ning. In these projects, Mr. Wentworth has applfed previous ex-\nperience in applied chemistry and product development. At Dewey\n& Almy Mr. Wentworth supervised papermaking and polymer re-\nsearch and development for battery separators and latex-saturated\nspecialty paper products. He was responsible for the design and\nbuilding of a pilot papermaking laboratory which included complete\nfacilities for pulp preparation, papermaking with a 27\"\" Rotoformer\nsaturation by several processes, coating and drying. Under his\ndirection specialty paper products based on new concepts of porous\nweb structure and fiber treatment processes were developed. He\nwas manager of a laboratory devoted to the testing and evaluation\nof batteries\nAs a member of the Administration at MIT, Mr. Wentworth served\nas technical liaison representative with the directors of research\nat a country-wide group of 25 chemical, petroleum and other com-\npanies, relating company research with activity in all departments\nat MIT. For the Office of Naval Research, Mr. Wentworth carried\nout at MIT a long-term project to establish fundamental knowledge\nof hydrogen peroxide. This experience ranged over studies of cata-\nlytic decomposition mechanisms, investigation of basic chemistry\nof H2O2, engineering design of catalytic decomposers, and measure-\nments of physical properties. For the OSRD Mr. Wentworth took\npart in the development of a high pressure hydrogen generator.\n1000710179"
+}

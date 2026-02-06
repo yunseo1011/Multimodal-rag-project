@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0959.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2070713526",
+      "bbox": [
+        7,
+        54,
+        45,
+        171
+      ],
+      "confidence": 0.999915599822998
+    },
+    {
+      "text": "Injury, Premature Birth, And Low Birth Weight.",
+      "bbox": [
+        376,
+        68,
+        648,
+        101
+      ],
+      "confidence": 0.9873818755149841
+    },
+    {
+      "text": "By Pregnant Women May Result in Fetal",
+      "bbox": [
+        376,
+        90,
+        647,
+        118
+      ],
+      "confidence": 0.9687050580978394
+    },
+    {
+      "text": "SURGEON GENERAL'S WARNING: Smoking",
+      "bbox": [
+        376,
+        107,
+        649,
+        141
+      ],
+      "confidence": 0.9703851342201233
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        133,
+        139,
+        204,
+        163
+      ],
+      "confidence": 0.9993782043457031
+    },
+    {
+      "text": "LUCKY",
+      "bbox": [
+        137,
+        211,
+        200,
+        233
+      ],
+      "confidence": 0.9997765421867371
+    },
+    {
+      "text": "Light my Lucky.",
+      "bbox": [
+        96,
+        629,
+        412,
+        689
+      ],
+      "confidence": 0.9925090074539185
+    }
+  ],
+  "full_text": "2070713526\nInjury, Premature Birth, And Low Birth Weight.\nBy Pregnant Women May Result in Fetal\nSURGEON GENERAL'S WARNING: Smoking\nLIGHTS\nLUCKY\nLight my Lucky."
+}

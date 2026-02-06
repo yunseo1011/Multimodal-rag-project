@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0618.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FILL-IN RELEASE #4",
+      "bbox": [
+        8,
+        0,
+        185,
+        21
+      ],
+      "confidence": 0.9861065745353699
+    },
+    {
+      "text": "C",
+      "bbox": [
+        230,
+        0,
+        257,
+        25
+      ],
+      "confidence": 0.9726472496986389
+    },
+    {
+      "text": "NoTE: This jlease must be copied fill-",
+      "bbox": [
+        375,
+        0,
+        755,
+        15
+      ],
+      "confidence": 0.9634763598442078
+    },
+    {
+      "text": "Service Packet",
+      "bbox": [
+        6,
+        18,
+        147,
+        35
+      ],
+      "confidence": 0.9644819498062134
+    },
+    {
+      "text": "ing in the required information before",
+      "bbox": [
+        376,
+        13,
+        737,
+        33
+      ],
+      "confidence": 0.9864808917045593
+    },
+    {
+      "text": "SUGGESTED TEAT FOR EDITORIAL",
+      "bbox": [
+        0,
+        31,
+        278,
+        53
+      ],
+      "confidence": 0.9887014627456665
+    },
+    {
+      "text": "being released to local newspapers.",
+      "bbox": [
+        375,
+        29,
+        708,
+        50
+      ],
+      "confidence": 0.9962983131408691
+    },
+    {
+      "text": "It has been announced that the American Cancer Society organization",
+      "bbox": [
+        103,
+        77,
+        740,
+        100
+      ],
+      "confidence": 0.9846946597099304
+    },
+    {
+      "text": "in this community is about to activate a cancer patient service project here.",
+      "bbox": [
+        1,
+        110,
+        739,
+        133
+      ],
+      "confidence": 0.9981549978256226
+    },
+    {
+      "text": "This is a very worthy endeavor and it receives our whole-hearted endorsement.",
+      "bbox": [
+        0,
+        141,
+        741,
+        166
+      ],
+      "confidence": 0.9868761301040649
+    },
+    {
+      "text": "The aCS officials say that they will need a lot of volunteers and",
+      "bbox": [
+        100,
+        175,
+        724,
+        200
+      ],
+      "confidence": 0.9881802797317505
+    },
+    {
+      "text": "it is possible they will have trouble in finding all the hands they need to",
+      "bbox": [
+        0,
+        208,
+        725,
+        234
+      ],
+      "confidence": 0.9892480373382568
+    },
+    {
+      "text": "do the many chores planned.",
+      "bbox": [
+        0,
+        243,
+        265,
+        266
+      ],
+      "confidence": 0.9812667965888977
+    },
+    {
+      "text": "Most everybody is interested in the cancer control program. Here",
+      "bbox": [
+        100,
+        277,
+        723,
+        300
+      ],
+      "confidence": 0.9809978008270264
+    },
+    {
+      "text": "as in most every other",
+      "bbox": [
+        0,
+        311,
+        222,
+        334
+      ],
+      "confidence": 0.9940547943115234
+    },
+    {
+      "text": "in the country, our people",
+      "bbox": [
+        481,
+        310,
+        730,
+        331
+      ],
+      "confidence": 0.9892275333404541
+    },
+    {
+      "text": "(town, cityor county",
+      "bbox": [
+        236,
+        328,
+        473,
+        348
+      ],
+      "confidence": 0.9648953676223755
+    },
+    {
+      "text": "have supported the ACS Cancer Crusade with funds and most of us feel we are a",
+      "bbox": [
+        0,
+        359,
+        743,
+        383
+      ],
+      "confidence": 0.9962164163589478
+    },
+    {
+      "text": "direct part of the vast research program that our money has gone to support.",
+      "bbox": [
+        0,
+        393,
+        734,
+        417
+      ],
+      "confidence": 0.9986410737037659
+    },
+    {
+      "text": "There certainly is something thrilling and dramatic about the scientists'",
+      "bbox": [
+        0,
+        426,
+        707,
+        451
+      ],
+      "confidence": 0.9893235564231873
+    },
+    {
+      "text": "^",
+      "bbox": [
+        701,
+        455,
+        707,
+        460
+      ],
+      "confidence": 0.722282886505127
+    },
+    {
+      "text": "vital race with time in their quest for the secrets of cancer -- secrets",
+      "bbox": [
+        0,
+        459,
+        706,
+        486
+      ],
+      "confidence": 0.989050567150116
+    },
+    {
+      "text": "that eventually will lead to complete conquest over this fearful disease.",
+      "bbox": [
+        0,
+        493,
+        712,
+        522
+      ],
+      "confidence": 0.9953246712684631
+    },
+    {
+      "text": "There is great satisfaction too to know that our money has helped to pay",
+      "bbox": [
+        0,
+        527,
+        704,
+        556
+      ],
+      "confidence": 0.9843368530273438
+    },
+    {
+      "text": "for educational programs that actually are saving lives -- at least 7o,00o",
+      "bbox": [
+        0,
+        561,
+        722,
+        591
+      ],
+      "confidence": 0.9843561053276062
+    },
+    {
+      "text": "of them throughout the U.S. in 195l -- by alerting people to cancer's early",
+      "bbox": [
+        0,
+        594,
+        728,
+        624
+      ],
+      "confidence": 0.978342592716217
+    },
+    {
+      "text": "symptoms.",
+      "bbox": [
+        0,
+        632,
+        92,
+        656
+      ],
+      "confidence": 0.999680757522583
+    },
+    {
+      "text": "But in the meantime, many others are critically ill -- some beyond",
+      "bbox": [
+        99,
+        663,
+        733,
+        683
+      ],
+      "confidence": 0.9696671366691589
+    },
+    {
+      "text": "hope. It is with these people that the ACS service program is concerned.",
+      "bbox": [
+        0,
+        696,
+        705,
+        721
+      ],
+      "confidence": 0.9853456020355225
+    },
+    {
+      "text": "is no exception. The ACS service program",
+      "bbox": [
+        327,
+        728,
+        729,
+        752
+      ],
+      "confidence": 0.9852113723754883
+    },
+    {
+      "text": "(Name of community)",
+      "bbox": [
+        122,
+        745,
+        310,
+        765
+      ],
+      "confidence": 0.9925332069396973
+    },
+    {
+      "text": "in this",
+      "bbox": [
+        0,
+        775,
+        76,
+        800
+      ],
+      "confidence": 0.9991316199302673
+    },
+    {
+      "text": "can do much to alleviate the suffering of cancer",
+      "bbox": [
+        298,
+        778,
+        770,
+        805
+      ],
+      "confidence": 0.9887587428092957
+    },
+    {
+      "text": "(city, town, county).",
+      "bbox": [
+        87,
+        793,
+        292,
+        814
+      ],
+      "confidence": 0.9653167724609375
+    },
+    {
+      "text": "patients, particularly those at home. It requires brave, sincere people to",
+      "bbox": [
+        0,
+        821,
+        734,
+        859
+      ],
+      "confidence": 0.9893413186073303
+    },
+    {
+      "text": "volunteer for this work. There is nothing glamorous about sitting up with",
+      "bbox": [
+        0,
+        853,
+        724,
+        891
+      ],
+      "confidence": 0.9884302020072937
+    },
+    {
+      "text": "a patient while the wife or mother takes an evening off -- or using your car",
+      "bbox": [
+        0,
+        884,
+        743,
+        927
+      ],
+      "confidence": 0.9828864932060242
+    },
+    {
+      "text": "to drive a cancer patient to the hospital for treatment - or delivering to",
+      "bbox": [
+        0,
+        917,
+        732,
+        958
+      ],
+      "confidence": 0.989820122718811
+    },
+    {
+      "text": "the home some of the 25o odd items that the ACS lends or gives to help make",
+      "bbox": [
+        0,
+        948,
+        730,
+        995
+      ],
+      "confidence": 0.9616736769676208
+    }
+  ],
+  "full_text": "FILL-IN RELEASE #4\nC\nNoTE: This jlease must be copied fill-\nService Packet\ning in the required information before\nSUGGESTED TEAT FOR EDITORIAL\nbeing released to local newspapers.\nIt has been announced that the American Cancer Society organization\nin this community is about to activate a cancer patient service project here.\nThis is a very worthy endeavor and it receives our whole-hearted endorsement.\nThe aCS officials say that they will need a lot of volunteers and\nit is possible they will have trouble in finding all the hands they need to\ndo the many chores planned.\nMost everybody is interested in the cancer control program. Here\nas in most every other\nin the country, our people\n(town, cityor county\nhave supported the ACS Cancer Crusade with funds and most of us feel we are a\ndirect part of the vast research program that our money has gone to support.\nThere certainly is something thrilling and dramatic about the scientists'\n^\nvital race with time in their quest for the secrets of cancer -- secrets\nthat eventually will lead to complete conquest over this fearful disease.\nThere is great satisfaction too to know that our money has helped to pay\nfor educational programs that actually are saving lives -- at least 7o,00o\nof them throughout the U.S. in 195l -- by alerting people to cancer's early\nsymptoms.\nBut in the meantime, many others are critically ill -- some beyond\nhope. It is with these people that the ACS service program is concerned.\nis no exception. The ACS service program\n(Name of community)\nin this\ncan do much to alleviate the suffering of cancer\n(city, town, county).\npatients, particularly those at home. It requires brave, sincere people to\nvolunteer for this work. There is nothing glamorous about sitting up with\na patient while the wife or mother takes an evening off -- or using your car\nto drive a cancer patient to the hospital for treatment - or delivering to\nthe home some of the 25o odd items that the ACS lends or gives to help make"
+}

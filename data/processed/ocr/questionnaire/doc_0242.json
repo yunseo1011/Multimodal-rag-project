@@ -1,0 +1,511 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0242.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Instructions",
+      "bbox": [
+        321,
+        87,
+        424,
+        110
+      ],
+      "confidence": 0.9999644756317139
+    },
+    {
+      "text": "Employee Research Survey - Pilot Questionnaire",
+      "bbox": [
+        45,
+        134,
+        376,
+        157
+      ],
+      "confidence": 0.9820266962051392
+    },
+    {
+      "text": "Thank you for volunteering to complete the pilot survey. Your suggestions and opinions on",
+      "bbox": [
+        42,
+        165,
+        675,
+        197
+      ],
+      "confidence": 0.9795579314231873
+    },
+    {
+      "text": "this survey will be truly appreciated. We ask you to answer all the questions with much",
+      "bbox": [
+        42,
+        184,
+        649,
+        217
+      ],
+      "confidence": 0.9799684286117554
+    },
+    {
+      "text": "thought and to review this entire document. The objective of this pilot survey is to assess every",
+      "bbox": [
+        44,
+        205,
+        695,
+        233
+      ],
+      "confidence": 0.9864585399627686
+    },
+    {
+      "text": "aspect of the survey and to provide as much feed back as possible.",
+      "bbox": [
+        46,
+        227,
+        497,
+        252
+      ],
+      "confidence": 0.9902563095092773
+    },
+    {
+      "text": "While taking the survey, please look for any errors or points of confusion. If there are words",
+      "bbox": [
+        45,
+        262,
+        680,
+        289
+      ],
+      "confidence": 0.9748901128768921
+    },
+    {
+      "text": "that you do not understand or a statement that is confusing then please circle the word(s)",
+      "bbox": [
+        45,
+        282,
+        657,
+        309
+      ],
+      "confidence": 0.9816384315490723
+    },
+    {
+      "text": "and/or statement(s). If there is a question which is unclear then please circle the question",
+      "bbox": [
+        46,
+        301,
+        658,
+        329
+      ],
+      "confidence": 0.9897716641426086
+    },
+    {
+      "text": "number.",
+      "bbox": [
+        45,
+        326,
+        109,
+        348
+      ],
+      "confidence": 0.9999663233757019
+    },
+    {
+      "text": "1Read each instruction thoroughly. Each section has the instructions and scale above the",
+      "bbox": [
+        47,
+        358,
+        668,
+        387
+      ],
+      "confidence": 0.992496132850647
+    },
+    {
+      "text": "questions. Some sections have different instructions then the previous one. Some scales are",
+      "bbox": [
+        71,
+        376,
+        701,
+        408
+      ],
+      "confidence": 0.9904309511184692
+    },
+    {
+      "text": "different: one scale may be \"1\" to \"5\" and the next \"1\" to \"9\".\" Please complete the survey",
+      "bbox": [
+        72,
+        396,
+        686,
+        427
+      ],
+      "confidence": 0.9799650311470032
+    },
+    {
+      "text": "by yourself. The amount of time it takes to complete the survey is a concern so therefore do",
+      "bbox": [
+        73,
+        414,
+        700,
+        447
+      ],
+      "confidence": 0.9932639002799988
+    },
+    {
+      "text": "not take any extended breaks while completing the survey.",
+      "bbox": [
+        74,
+        438,
+        474,
+        465
+      ],
+      "confidence": 0.9797062277793884
+    },
+    {
+      "text": "2)Each question should be answered twice unless otherwise noted in the instructions. In the",
+      "bbox": [
+        48,
+        471,
+        692,
+        507
+      ],
+      "confidence": 0.9728832840919495
+    },
+    {
+      "text": "left column, you should put your response for PMMC and on the right column, you should",
+      "bbox": [
+        75,
+        493,
+        696,
+        523
+      ],
+      "confidence": 0.9711349010467529
+    },
+    {
+      "text": "put your response for Philip Morris Companies. Below is a sample question:",
+      "bbox": [
+        75,
+        512,
+        595,
+        545
+      ],
+      "confidence": 0.9880731701850891
+    },
+    {
+      "text": "PMMC",
+      "bbox": [
+        122,
+        559,
+        190,
+        584
+      ],
+      "confidence": 0.9997578859329224
+    },
+    {
+      "text": "Philip Morris Companies",
+      "bbox": [
+        498,
+        552,
+        713,
+        578
+      ],
+      "confidence": 0.971217930316925
+    },
+    {
+      "text": "Not at all",
+      "bbox": [
+        494,
+        577,
+        559,
+        597
+      ],
+      "confidence": 0.9992820620536804
+    },
+    {
+      "text": "←→",
+      "bbox": [
+        584,
+        577,
+        617,
+        594
+      ],
+      "confidence": 0.9757263660430908
+    },
+    {
+      "text": "Extremely",
+      "bbox": [
+        645,
+        573,
+        717,
+        594
+      ],
+      "confidence": 0.9999001026153564
+    },
+    {
+      "text": "Not at all",
+      "bbox": [
+        60,
+        583,
+        126,
+        604
+      ],
+      "confidence": 0.9850957989692688
+    },
+    {
+      "text": "←—→",
+      "bbox": [
+        141,
+        585,
+        171,
+        599
+      ],
+      "confidence": 0.8421729207038879
+    },
+    {
+      "text": "Extremely",
+      "bbox": [
+        179,
+        578,
+        253,
+        602
+      ],
+      "confidence": 0.9999222159385681
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        652,
+        590,
+        718,
+        614
+      ],
+      "confidence": 0.9999028444290161
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        60,
+        602,
+        124,
+        622
+      ],
+      "confidence": 0.9997814893722534
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        188,
+        598,
+        253,
+        621
+      ],
+      "confidence": 0.9998692274093628
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        493,
+        595,
+        558,
+        618
+      ],
+      "confidence": 0.9990853071212769
+    },
+    {
+      "text": "2",
+      "bbox": [
+        543,
+        637,
+        561,
+        657
+      ],
+      "confidence": 0.999906063079834
+    },
+    {
+      "text": "3",
+      "bbox": [
+        590,
+        635,
+        607,
+        655
+      ],
+      "confidence": 0.9999597072601318
+    },
+    {
+      "text": "4",
+      "bbox": [
+        641,
+        636,
+        655,
+        653
+      ],
+      "confidence": 0.9999396800994873
+    },
+    {
+      "text": "5",
+      "bbox": [
+        687,
+        631,
+        706,
+        654
+      ],
+      "confidence": 0.999933123588562
+    },
+    {
+      "text": "1",
+      "bbox": [
+        67,
+        644,
+        83,
+        662
+      ],
+      "confidence": 0.9999922513961792
+    },
+    {
+      "text": "2",
+      "bbox": [
+        108,
+        644,
+        122,
+        661
+      ],
+      "confidence": 0.9999868869781494
+    },
+    {
+      "text": "3",
+      "bbox": [
+        148,
+        642,
+        166,
+        661
+      ],
+      "confidence": 0.9998623132705688
+    },
+    {
+      "text": "4",
+      "bbox": [
+        191,
+        641,
+        209,
+        660
+      ],
+      "confidence": 0.9998779296875
+    },
+    {
+      "text": "5",
+      "bbox": [
+        231,
+        640,
+        248,
+        660
+      ],
+      "confidence": 0.9998922348022461
+    },
+    {
+      "text": "1. Producing quality products",
+      "bbox": [
+        260,
+        638,
+        480,
+        660
+      ],
+      "confidence": 0.9692348837852478
+    },
+    {
+      "text": "1",
+      "bbox": [
+        504,
+        638,
+        521,
+        657
+      ],
+      "confidence": 0.9999873638153076
+    },
+    {
+      "text": "Please do not leave after you have finished the survey. You will be asked to complete a",
+      "bbox": [
+        54,
+        693,
+        677,
+        723
+      ],
+      "confidence": 0.9902029037475586
+    },
+    {
+      "text": "questionnaire about the pilot survey. We value your comments on the pilot survey and your",
+      "bbox": [
+        76,
+        712,
+        717,
+        744
+      ],
+      "confidence": 0.9858325719833374
+    },
+    {
+      "text": "opinion/suggestions will be used to enhance the survey. There will be a group discussion of",
+      "bbox": [
+        77,
+        732,
+        718,
+        763
+      ],
+      "confidence": 0.9805720448493958
+    },
+    {
+      "text": "the entire pilot survey after everyone has completed the pilot survey. Please give the survey",
+      "bbox": [
+        77,
+        753,
+        717,
+        781
+      ],
+      "confidence": 0.9894167184829712
+    },
+    {
+      "text": "and questionnaire in a sealed envelope to the proctor after the group discussion is over.",
+      "bbox": [
+        78,
+        774,
+        682,
+        799
+      ],
+      "confidence": 0.9875913262367249
+    },
+    {
+      "text": "4) Your responses to the survey questions will be kept confidential.",
+      "bbox": [
+        56,
+        813,
+        516,
+        840
+      ],
+      "confidence": 0.9763807654380798
+    },
+    {
+      "text": "**Thank you for your time and effort.",
+      "bbox": [
+        55,
+        855,
+        321,
+        876
+      ],
+      "confidence": 0.9955315589904785
+    },
+    {
+      "text": "Employee Research Survey - Pilot Questionnaire",
+      "bbox": [
+        57,
+        981,
+        341,
+        1000
+      ],
+      "confidence": 0.9898703098297119
+    },
+    {
+      "text": "Page 1",
+      "bbox": [
+        660,
+        978,
+        705,
+        999
+      ],
+      "confidence": 0.9211161136627197
+    }
+  ],
+  "full_text": "Instructions\nEmployee Research Survey - Pilot Questionnaire\nThank you for volunteering to complete the pilot survey. Your suggestions and opinions on\nthis survey will be truly appreciated. We ask you to answer all the questions with much\nthought and to review this entire document. The objective of this pilot survey is to assess every\naspect of the survey and to provide as much feed back as possible.\nWhile taking the survey, please look for any errors or points of confusion. If there are words\nthat you do not understand or a statement that is confusing then please circle the word(s)\nand/or statement(s). If there is a question which is unclear then please circle the question\nnumber.\n1Read each instruction thoroughly. Each section has the instructions and scale above the\nquestions. Some sections have different instructions then the previous one. Some scales are\ndifferent: one scale may be \"1\" to \"5\" and the next \"1\" to \"9\".\" Please complete the survey\nby yourself. The amount of time it takes to complete the survey is a concern so therefore do\nnot take any extended breaks while completing the survey.\n2)Each question should be answered twice unless otherwise noted in the instructions. In the\nleft column, you should put your response for PMMC and on the right column, you should\nput your response for Philip Morris Companies. Below is a sample question:\nPMMC\nPhilip Morris Companies\nNot at all\n←→\nExtremely\nNot at all\n←—→\nExtremely\nSatisfied\nSatisfied\nSatisfied\nSatisfied\n2\n3\n4\n5\n1\n2\n3\n4\n5\n1. Producing quality products\n1\nPlease do not leave after you have finished the survey. You will be asked to complete a\nquestionnaire about the pilot survey. We value your comments on the pilot survey and your\nopinion/suggestions will be used to enhance the survey. There will be a group discussion of\nthe entire pilot survey after everyone has completed the pilot survey. Please give the survey\nand questionnaire in a sealed envelope to the proctor after the group discussion is over.\n4) Your responses to the survey questions will be kept confidential.\n**Thank you for your time and effort.\nEmployee Research Survey - Pilot Questionnaire\nPage 1"
+}

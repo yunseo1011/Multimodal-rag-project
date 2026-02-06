@@ -1,0 +1,61 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0974.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Now Greatly Reduces Serious Risks to Your Health.",
+      "bbox": [
+        387,
+        84,
+        702,
+        152
+      ],
+      "confidence": 0.9658393859863281
+    },
+    {
+      "text": "SURGEON GeNERAL'S WARNING: Quitting Smoking",
+      "bbox": [
+        387,
+        109,
+        702,
+        174
+      ],
+      "confidence": 0.9351283311843872
+    },
+    {
+      "text": "KO",
+      "bbox": [
+        107,
+        449,
+        745,
+        724
+      ],
+      "confidence": 0.7820619344711304
+    },
+    {
+      "text": "S6/S1/T",
+      "bbox": [
+        150,
+        857,
+        217,
+        875
+      ],
+      "confidence": 0.8122991323471069
+    },
+    {
+      "text": "Stateside Family",
+      "bbox": [
+        65,
+        867,
+        216,
+        887
+      ],
+      "confidence": 0.9505558013916016
+    }
+  ],
+  "full_text": "Now Greatly Reduces Serious Risks to Your Health.\nSURGEON GeNERAL'S WARNING: Quitting Smoking\nKO\nS6/S1/T\nStateside Family"
+}

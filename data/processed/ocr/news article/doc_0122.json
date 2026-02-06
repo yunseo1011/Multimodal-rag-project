@@ -1,0 +1,821 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0122.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": ": T1",
+      "bbox": [
+        0,
+        3,
+        24,
+        26
+      ],
+      "confidence": 0.8249433636665344
+    },
+    {
+      "text": "ott P.M.",
+      "bbox": [
+        61,
+        11,
+        107,
+        32
+      ],
+      "confidence": 0.8412250876426697
+    },
+    {
+      "text": "From' Frank Bickford 907-561-1947",
+      "bbox": [
+        263,
+        13,
+        453,
+        38
+      ],
+      "confidence": 0.9663097262382507
+    },
+    {
+      "text": "1/13/98",
+      "bbox": [
+        558,
+        22,
+        599,
+        36
+      ],
+      "confidence": 0.9997614622116089
+    },
+    {
+      "text": "18 13.46",
+      "bbox": [
+        607,
+        22,
+        657,
+        36
+      ],
+      "confidence": 0.9914703369140625
+    },
+    {
+      "text": "3/98",
+      "bbox": [
+        66,
+        27,
+        102,
+        42
+      ],
+      "confidence": 0.9885637760162354
+    },
+    {
+      "text": "06:18",
+      "bbox": [
+        110,
+        29,
+        152,
+        44
+      ],
+      "confidence": 0.9667258262634277
+    },
+    {
+      "text": "FAX 99999399999",
+      "bbox": [
+        161,
+        30,
+        273,
+        43
+      ],
+      "confidence": 0.9714688062667847
+    },
+    {
+      "text": "0",
+      "bbox": [
+        357,
+        34,
+        365,
+        44
+      ],
+      "confidence": 0.9622577428817749
+    },
+    {
+      "text": "Page 2 of 5",
+      "bbox": [
+        665,
+        23,
+        727,
+        37
+      ],
+      "confidence": 0.9846974015235901
+    },
+    {
+      "text": "01",
+      "bbox": [
+        670,
+        34,
+        700,
+        50
+      ],
+      "confidence": 0.9995324611663818
+    },
+    {
+      "text": "Legislature lacks key parts",
+      "bbox": [
+        429,
+        74,
+        677,
+        99
+      ],
+      "confidence": 0.998439371585846
+    },
+    {
+      "text": "B-4",
+      "bbox": [
+        25,
+        83,
+        68,
+        110
+      ],
+      "confidence": 0.9975745677947998
+    },
+    {
+      "text": "Tuesday, January 13, 1998",
+      "bbox": [
+        92,
+        90,
+        269,
+        113
+      ],
+      "confidence": 0.9988261461257935
+    },
+    {
+      "text": "As the Alaska state Legislature assembles",
+      "bbox": [
+        443,
+        94,
+        703,
+        114
+      ],
+      "confidence": 0.9886960983276367
+    },
+    {
+      "text": "for the 1998 session down in \"can't get there",
+      "bbox": [
+        427,
+        107,
+        702,
+        128
+      ],
+      "confidence": 0.974810779094696
+    },
+    {
+      "text": "from here\" Juneau, isn't it comforting to con-",
+      "bbox": [
+        428,
+        121,
+        700,
+        141
+      ],
+      "confidence": 0.973239541053772
+    },
+    {
+      "text": "Anchorage Daily News",
+      "bbox": [
+        33,
+        137,
+        387,
+        188
+      ],
+      "confidence": 0.9947163462638855
+    },
+    {
+      "text": "template that the important business of our",
+      "bbox": [
+        426,
+        135,
+        700,
+        152
+      ],
+      "confidence": 0.9959695339202881
+    },
+    {
+      "text": "state is in the hands of such astute thinkers",
+      "bbox": [
+        426,
+        148,
+        700,
+        165
+      ],
+      "confidence": 0.9732041358947754
+    },
+    {
+      "text": "and statespersons who:",
+      "bbox": [
+        425,
+        160,
+        568,
+        180
+      ],
+      "confidence": 0.99930340051651
+    },
+    {
+      "text": "Cheers & jeers",
+      "bbox": [
+        20,
+        185,
+        345,
+        242
+      ],
+      "confidence": 0.9997785687446594
+    },
+    {
+      "text": "burus\" on the subsistence hunting and fishing",
+      "bbox": [
+        423,
+        185,
+        699,
+        208
+      ],
+      "confidence": 0.9621965885162354
+    },
+    {
+      "text": "Year after year, \"fiddle while Rome",
+      "bbox": [
+        450,
+        173,
+        699,
+        194
+      ],
+      "confidence": 0.9732930064201355
+    },
+    {
+      "text": "issue until, by default, the feds take it over.",
+      "bbox": [
+        422,
+        198,
+        688,
+        221
+      ],
+      "confidence": 0.9954155683517456
+    },
+    {
+      "text": "Waste supposediy precious taxpayers'",
+      "bbox": [
+        449,
+        215,
+        697,
+        232
+      ],
+      "confidence": 0.9889320731163025
+    },
+    {
+      "text": "money on futile legal battles with the federal",
+      "bbox": [
+        420,
+        225,
+        697,
+        247
+      ],
+      "confidence": 0.9648668766021729
+    },
+    {
+      "text": ".",
+      "bbox": [
+        440,
+        218,
+        454,
+        225
+      ],
+      "confidence": 0.8195275664329529
+    },
+    {
+      "text": "SMOKE-FREE: A cheer to local merchants",
+      "bbox": [
+        115,
+        236,
+        392,
+        258
+      ],
+      "confidence": 0.9895482063293457
+    },
+    {
+      "text": "government.",
+      "bbox": [
+        422,
+        241,
+        498,
+        255
+      ],
+      "confidence": 0.9923515915870667
+    },
+    {
+      "text": "who refuse to sell cigarettes and other tobacco",
+      "bbox": [
+        98,
+        251,
+        392,
+        273
+      ],
+      "confidence": 0.9814354777336121
+    },
+    {
+      "text": "Alaska's education system from the Bush to",
+      "bbox": [
+        420,
+        262,
+        697,
+        285
+      ],
+      "confidence": 0.9939337372779846
+    },
+    {
+      "text": " Supervise the steady deterioration of",
+      "bbox": [
+        436,
+        252,
+        697,
+        270
+      ],
+      "confidence": 0.9901189208030701
+    },
+    {
+      "text": "products to underage customers. The",
+      "bbox": [
+        97,
+        267,
+        391,
+        288
+      ],
+      "confidence": 0.9872140288352966
+    },
+    {
+      "text": "Anchorage and from kindergarten through",
+      "bbox": [
+        419,
+        276,
+        697,
+        298
+      ],
+      "confidence": 0.9955084323883057
+    },
+    {
+      "text": "teenagers who write for the Daily News' Per-",
+      "bbox": [
+        97,
+        282,
+        391,
+        302
+      ],
+      "confidence": 0.9909010529518127
+    },
+    {
+      "text": "the University of Alaska.",
+      "bbox": [
+        419,
+        289,
+        574,
+        309
+      ],
+      "confidence": 0.9597189426422119
+    },
+    {
+      "text": "fect World section tried to purchase cigarettes",
+      "bbox": [
+        97,
+        297,
+        391,
+        319
+      ],
+      "confidence": 0.9958717823028564
+    },
+    {
+      "text": "Can't devise any plan of any sort, short or",
+      "bbox": [
+        435,
+        302,
+        698,
+        324
+      ],
+      "confidence": 0.9846576452255249
+    },
+    {
+      "text": "at seven different stores and struck out at all",
+      "bbox": [
+        97,
+        313,
+        390,
+        333
+      ],
+      "confidence": 0.9976879954338074
+    },
+    {
+      "text": "_long range, for any element of the Alaska Per-",
+      "bbox": [
+        415,
+        315,
+        698,
+        337
+      ],
+      "confidence": 0.9783260226249695
+    },
+    {
+      "text": "seven. If every retailer were so responsible, there'd be far",
+      "bbox": [
+        17,
+        325,
+        390,
+        350
+      ],
+      "confidence": 0.9892420172691345
+    },
+    {
+      "text": "manent Fund.",
+      "bbox": [
+        418,
+        330,
+        506,
+        347
+      ],
+      "confidence": 0.9611677527427673
+    },
+    {
+      "text": "fewer adult tobacco addicts trying to quit smoking.",
+      "bbox": [
+        18,
+        339,
+        347,
+        365
+      ],
+      "confidence": 0.9932860732078552
+    },
+    {
+      "text": "Are so centered on partisan bickerig",
+      "bbox": [
+        433,
+        342,
+        699,
+        362
+      ],
+      "confidence": 0.9938856959342957
+    },
+    {
+      "text": "Both youthful smokers and store owners are under in-",
+      "bbox": [
+        34,
+        356,
+        388,
+        380
+      ],
+      "confidence": 0.9872097373008728
+    },
+    {
+      "text": "and special interest politics thst the essential",
+      "bbox": [
+        416,
+        355,
+        699,
+        376
+      ],
+      "confidence": 0.984595775604248
+    },
+    {
+      "text": "creased scrutiny from state and municipal enforcers. In",
+      "bbox": [
+        17,
+        371,
+        389,
+        395
+      ],
+      "confidence": 0.9790979623794556
+    },
+    {
+      "text": "business of the peaple, in general, goes beg-",
+      "bbox": [
+        416,
+        375,
+        699,
+        396
+      ],
+      "confidence": 0.9803969264030457
+    },
+    {
+      "text": "June, seven Anchorage businesses were cited for selling",
+      "bbox": [
+        17,
+        387,
+        388,
+        410
+      ],
+      "confidence": 0.9955295920372009
+    },
+    {
+      "text": "ging.",
+      "bbox": [
+        417,
+        393,
+        451,
+        408
+      ],
+      "confidence": 0.9972149729728699
+    },
+    {
+      "text": "cigarettes to minors. State Attorney General Bruce Botel-",
+      "bbox": [
+        18,
+        403,
+        388,
+        424
+      ],
+      "confidence": 0.997118353843689
+    },
+    {
+      "text": "We can see it already as the \"lawmakers\"",
+      "bbox": [
+        432,
+        401,
+        698,
+        420
+      ],
+      "confidence": 0.9651147723197937
+    },
+    {
+      "text": "ho promised that the sting operation was part of a larger",
+      "bbox": [
+        17,
+        418,
+        388,
+        442
+      ],
+      "confidence": 0.9885493516921997
+    },
+    {
+      "text": "posture and gear up to squabble over such",
+      "bbox": [
+        416,
+        414,
+        699,
+        435
+      ],
+      "confidence": 0.9962493181228638
+    },
+    {
+      "text": "monumental issues as excluding \"good cigars",
+      "bbox": [
+        416,
+        427,
+        700,
+        448
+      ],
+      "confidence": 0.9844694137573242
+    },
+    {
+      "text": "effort to slow teenagers' use of tobacco and that the state",
+      "bbox": [
+        19,
+        434,
+        387,
+        457
+      ],
+      "confidence": 0.9837446212768555
+    },
+    {
+      "text": "and pipe tobacco\" from the new tax enacted",
+      "bbox": [
+        416,
+        440,
+        699,
+        461
+      ],
+      "confidence": 0.9907772541046143
+    },
+    {
+      "text": "would continue to push for police checks of businesses",
+      "bbox": [
+        18,
+        451,
+        388,
+        473
+      ],
+      "confidence": 0.992533266544342
+    },
+    {
+      "text": "last year. Should happen, says House Speaker",
+      "bbox": [
+        416,
+        454,
+        699,
+        474
+      ],
+      "confidence": 0.9807632565498352
+    },
+    {
+      "text": "that sell cigarettes illegally. It looks as if incrcased en-",
+      "bbox": [
+        18,
+        467,
+        386,
+        488
+      ],
+      "confidence": 0.9838011860847473
+    },
+    {
+      "text": "Gail Phillips ,R-Homer. \"It's a no brainer.\"",
+      "bbox": [
+        417,
+        467,
+        682,
+        486
+      ],
+      "confidence": 0.9442050457000732
+    },
+    {
+      "text": "forcement efforts are working.",
+      "bbox": [
+        20,
+        484,
+        221,
+        502
+      ],
+      "confidence": 0.998551070690155
+    },
+    {
+      "text": "No brainer, indeed....",
+      "bbox": [
+        433,
+        484,
+        573,
+        498
+      ],
+      "confidence": 0.9233915209770203
+    },
+    {
+      "text": "As Anchorage Police Officer Mike Livingston said, \". I",
+      "bbox": [
+        36,
+        498,
+        388,
+        520
+      ],
+      "confidence": 0.9790125489234924
+    },
+    {
+      "text": "— Leroy Jeffery",
+      "bbox": [
+        598,
+        497,
+        700,
+        517
+      ],
+      "confidence": 0.9721421003341675
+    },
+    {
+      "text": "feel, and the general feeling is now, that if we can keep",
+      "bbox": [
+        21,
+        514,
+        385,
+        535
+      ],
+      "confidence": 0.9892947673797607
+    },
+    {
+      "text": "Anchorage",
+      "bbox": [
+        628,
+        511,
+        700,
+        530
+      ],
+      "confidence": 0.9534956812858582
+    },
+    {
+      "text": "kids from getting addicted to cigarettes, we can keep them",
+      "bbox": [
+        22,
+        530,
+        385,
+        550
+      ],
+      "confidence": 0.9904239177703857
+    },
+    {
+      "text": "from getting addicted to other drugs. Smoking should not",
+      "bbox": [
+        23,
+        545,
+        386,
+        567
+      ],
+      "confidence": 0.9806655049324036
+    },
+    {
+      "text": "be part of the educational process.\"",
+      "bbox": [
+        23,
+        561,
+        247,
+        580
+      ],
+      "confidence": 0.9950554966926575
+    },
+    {
+      "text": "To: K. Chaikin vic overnight.",
+      "bbox": [
+        98,
+        618,
+        470,
+        656
+      ],
+      "confidence": 0.9123165607452393
+    },
+    {
+      "text": "FR: TS",
+      "bbox": [
+        102,
+        648,
+        209,
+        679
+      ],
+      "confidence": 0.8239266276359558
+    },
+    {
+      "text": "Is AK qiving you Mis inp?",
+      "bbox": [
+        139,
+        683,
+        491,
+        720
+      ],
+      "confidence": 0.7965625524520874
+    },
+    {
+      "text": "TS: No 9 Fwther,I carit \"find\"anyare",
+      "bbox": [
+        54,
+        732,
+        717,
+        777
+      ],
+      "confidence": 0.8419849276542664
+    },
+    {
+      "text": "in Ah who will anower ny letters o7",
+      "bbox": [
+        132,
+        779,
+        676,
+        822
+      ],
+      "confidence": 0.8767610192298889
+    },
+    {
+      "text": "unguiry. Can\"you' ask the AG or",
+      "bbox": [
+        126,
+        808,
+        679,
+        874
+      ],
+      "confidence": 0.8405518531799316
+    },
+    {
+      "text": "proride Tme woth tG's add ress and",
+      "bbox": [
+        125,
+        850,
+        716,
+        917
+      ],
+      "confidence": 0.8265933394432068
+    },
+    {
+      "text": "I'll wnte to him 2",
+      "bbox": [
+        154,
+        901,
+        457,
+        945
+      ],
+      "confidence": 0.7841206192970276
+    },
+    {
+      "text": "2064865049",
+      "bbox": [
+        556,
+        902,
+        657,
+        927
+      ],
+      "confidence": 0.9997595548629761
+    },
+    {
+      "text": "Thanks.",
+      "bbox": [
+        469,
+        930,
+        599,
+        971
+      ],
+      "confidence": 0.9833816885948181
+    }
+  ],
+  "full_text": ": T1\nott P.M.\nFrom' Frank Bickford 907-561-1947\n1/13/98\n18 13.46\n3/98\n06:18\nFAX 99999399999\n0\nPage 2 of 5\n01\nLegislature lacks key parts\nB-4\nTuesday, January 13, 1998\nAs the Alaska state Legislature assembles\nfor the 1998 session down in \"can't get there\nfrom here\" Juneau, isn't it comforting to con-\nAnchorage Daily News\ntemplate that the important business of our\nstate is in the hands of such astute thinkers\nand statespersons who:\nCheers & jeers\nburus\" on the subsistence hunting and fishing\nYear after year, \"fiddle while Rome\nissue until, by default, the feds take it over.\nWaste supposediy precious taxpayers'\nmoney on futile legal battles with the federal\n.\nSMOKE-FREE: A cheer to local merchants\ngovernment.\nwho refuse to sell cigarettes and other tobacco\nAlaska's education system from the Bush to\n Supervise the steady deterioration of\nproducts to underage customers. The\nAnchorage and from kindergarten through\nteenagers who write for the Daily News' Per-\nthe University of Alaska.\nfect World section tried to purchase cigarettes\nCan't devise any plan of any sort, short or\nat seven different stores and struck out at all\n_long range, for any element of the Alaska Per-\nseven. If every retailer were so responsible, there'd be far\nmanent Fund.\nfewer adult tobacco addicts trying to quit smoking.\nAre so centered on partisan bickerig\nBoth youthful smokers and store owners are under in-\nand special interest politics thst the essential\ncreased scrutiny from state and municipal enforcers. In\nbusiness of the peaple, in general, goes beg-\nJune, seven Anchorage businesses were cited for selling\nging.\ncigarettes to minors. State Attorney General Bruce Botel-\nWe can see it already as the \"lawmakers\"\nho promised that the sting operation was part of a larger\nposture and gear up to squabble over such\nmonumental issues as excluding \"good cigars\neffort to slow teenagers' use of tobacco and that the state\nand pipe tobacco\" from the new tax enacted\nwould continue to push for police checks of businesses\nlast year. Should happen, says House Speaker\nthat sell cigarettes illegally. It looks as if incrcased en-\nGail Phillips ,R-Homer. \"It's a no brainer.\"\nforcement efforts are working.\nNo brainer, indeed....\nAs Anchorage Police Officer Mike Livingston said, \". I\n— Leroy Jeffery\nfeel, and the general feeling is now, that if we can keep\nAnchorage\nkids from getting addicted to cigarettes, we can keep them\nfrom getting addicted to other drugs. Smoking should not\nbe part of the educational process.\"\nTo: K. Chaikin vic overnight.\nFR: TS\nIs AK qiving you Mis inp?\nTS: No 9 Fwther,I carit \"find\"anyare\nin Ah who will anower ny letters o7\nunguiry. Can\"you' ask the AG or\nproride Tme woth tG's add ress and\nI'll wnte to him 2\n2064865049\nThanks."
+}

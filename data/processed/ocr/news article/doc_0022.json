@@ -1,0 +1,1231 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0022.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Vendor says",
+      "bbox": [
+        300,
+        59,
+        680,
+        126
+      ],
+      "confidence": 0.9999198913574219
+    },
+    {
+      "text": "CAILY SENTINEL",
+      "bbox": [
+        91,
+        95,
+        198,
+        119
+      ],
+      "confidence": 0.8594745993614197
+    },
+    {
+      "text": "\"RANU JUNCTION, CO",
+      "bbox": [
+        82,
+        124,
+        216,
+        148
+      ],
+      "confidence": 0.8923237323760986
+    },
+    {
+      "text": "smoking ban",
+      "bbox": [
+        299,
+        127,
+        699,
+        193
+      ],
+      "confidence": 0.9996053576469421
+    },
+    {
+      "text": "ALLY SUNUAY",
+      "bbox": [
+        69,
+        137,
+        176,
+        161
+      ],
+      "confidence": 0.7521284222602844
+    },
+    {
+      "text": "-:,Quu",
+      "bbox": [
+        194,
+        146,
+        239,
+        160
+      ],
+      "confidence": 0.6770008206367493
+    },
+    {
+      "text": "\"HURSOAY",
+      "bbox": [
+        125,
+        168,
+        185,
+        186
+      ],
+      "confidence": 0.9289883971214294
+    },
+    {
+      "text": "JUN 9 1994",
+      "bbox": [
+        103,
+        181,
+        218,
+        206
+      ],
+      "confidence": 0.9579480886459351
+    },
+    {
+      "text": "has hurt sales",
+      "bbox": [
+        297,
+        192,
+        696,
+        250
+      ],
+      "confidence": 0.9990140795707703
+    },
+    {
+      "text": "BUrrelle's",
+      "bbox": [
+        122,
+        207,
+        211,
+        227
+      ],
+      "confidence": 0.7997658848762512
+    },
+    {
+      "text": "74",
+      "bbox": [
+        81,
+        220,
+        98,
+        232
+      ],
+      "confidence": 0.9979878664016724
+    },
+    {
+      "text": "x.",
+      "bbox": [
+        88,
+        228,
+        121,
+        243
+      ],
+      "confidence": 0.894187867641449
+    },
+    {
+      "text": "4314",
+      "bbox": [
+        313,
+        239,
+        387,
+        258
+      ],
+      "confidence": 0.9579082727432251
+    },
+    {
+      "text": "Gingor Aice",
+      "bbox": [
+        300,
+        252,
+        362,
+        268
+      ],
+      "confidence": 0.890868604183197
+    },
+    {
+      "text": "saies in April. May sales reports",
+      "bbox": [
+        501,
+        256,
+        695,
+        271
+      ],
+      "confidence": 0.962450385093689
+    },
+    {
+      "text": "Daily Sentinel",
+      "bbox": [
+        300,
+        264,
+        367,
+        278
+      ],
+      "confidence": 0.944126546382904
+    },
+    {
+      "text": "Two months into Mesa Mall's no-",
+      "bbox": [
+        310,
+        276,
+        489,
+        294
+      ],
+      "confidence": 0.9976052641868591
+    },
+    {
+      "text": "are due on-Friday but won't be",
+      "bbox": [
+        501,
+        268,
+        694,
+        282
+      ],
+      "confidence": 0.9944702982902527
+    },
+    {
+      "text": "smoking poliey, some food vendors",
+      "bbox": [
+        298,
+        288,
+        489,
+        307
+      ],
+      "confidence": 0.985489010810852
+    },
+    {
+      "text": "available until next week, she",
+      "bbox": [
+        501,
+        282,
+        696,
+        296
+      ],
+      "confidence": 0.9841763377189636
+    },
+    {
+      "text": "say it has driven business away,",
+      "bbox": [
+        297,
+        300,
+        488,
+        319
+      ],
+      "confidence": 0.9853144884109497
+    },
+    {
+      "text": "said.",
+      "bbox": [
+        500,
+        293,
+        530,
+        307
+      ],
+      "confidence": 0.9996037483215332
+    },
+    {
+      "text": "One of A Kind Pizza Manager",
+      "bbox": [
+        510,
+        301,
+        696,
+        323
+      ],
+      "confidence": 0.9887282848358154
+    },
+    {
+      "text": "while other mall merchants praise",
+      "bbox": [
+        297,
+        311,
+        487,
+        330
+      ],
+      "confidence": 0.9751573204994202
+    },
+    {
+      "text": "Richard Rulf is using coupons to",
+      "bbox": [
+        500,
+        315,
+        696,
+        333
+      ],
+      "confidence": 0.9857706427574158
+    },
+    {
+      "text": "the smoke-free policy.",
+      "bbox": [
+        296,
+        323,
+        418,
+        341
+      ],
+      "confidence": 0.9893776178359985
+    },
+    {
+      "text": "The mail's ban on smoking has",
+      "bbox": [
+        308,
+        336,
+        487,
+        353
+      ],
+      "confidence": 0.9736477136611938
+    },
+    {
+      "text": "combat a 10 percent year-to-year",
+      "bbox": [
+        500,
+        329,
+        697,
+        345
+      ],
+      "confidence": 0.9898672103881836
+    },
+    {
+      "text": "hurt business \"tremendously,\"",
+      "bbox": [
+        295,
+        347,
+        478,
+        366
+      ],
+      "confidence": 0.9692223072052002
+    },
+    {
+      "text": "drop in sales and is distributing",
+      "bbox": [
+        498,
+        338,
+        698,
+        359
+      ],
+      "confidence": 0.9781362414360046
+    },
+    {
+      "text": "fliers to remind defeeting custom-",
+      "bbox": [
+        499,
+        351,
+        697,
+        370
+      ],
+      "confidence": 0.9862779974937439
+    },
+    {
+      "text": "said Jonnie C. Keagle, owner of",
+      "bbox": [
+        293,
+        360,
+        488,
+        378
+      ],
+      "confidence": 0.991610586643219
+    },
+    {
+      "text": "ers that he can package \"anything",
+      "bbox": [
+        498,
+        364,
+        697,
+        383
+      ],
+      "confidence": 0.9881952404975891
+    },
+    {
+      "text": "the Orange Julius stand at the",
+      "bbox": [
+        292,
+        371,
+        487,
+        391
+      ],
+      "confidence": 0.9846773743629456
+    },
+    {
+      "text": "to go.\"",
+      "bbox": [
+        498,
+        377,
+        539,
+        392
+      ],
+      "confidence": 0.9395929574966431
+    },
+    {
+      "text": "west end of Cafe Court.",
+      "bbox": [
+        294,
+        385,
+        421,
+        400
+      ],
+      "confidence": 0.9877938628196716
+    },
+    {
+      "text": "I can document and prove that",
+      "bbox": [
+        303,
+        395,
+        487,
+        415
+      ],
+      "confidence": 0.9753381609916687
+    },
+    {
+      "text": "But, vendors complain, there's",
+      "bbox": [
+        510,
+        388,
+        698,
+        405
+      ],
+      "confidence": 0.9933504462242126
+    },
+    {
+      "text": "I've lost more money than when",
+      "bbox": [
+        290,
+        407,
+        487,
+        429
+      ],
+      "confidence": 0.9721001982688904
+    },
+    {
+      "text": "no place to go. The mall entrance",
+      "bbox": [
+        498,
+        399,
+        698,
+        419
+      ],
+      "confidence": 0.9792478084564209
+    },
+    {
+      "text": "closest to Cafe Court has a single",
+      "bbox": [
+        498,
+        412,
+        698,
+        430
+      ],
+      "confidence": 0.9867215156555176
+    },
+    {
+      "text": "Exxon pulled out of here,\" she",
+      "bbox": [
+        290,
+        419,
+        486,
+        441
+      ],
+      "confidence": 0.9626495838165283
+    },
+    {
+      "text": "bench but.no table and no shade.",
+      "bbox": [
+        498,
+        424,
+        687,
+        441
+      ],
+      "confidence": 0.9847439527511597
+    },
+    {
+      "text": "said.",
+      "bbox": [
+        291,
+        434,
+        321,
+        450
+      ],
+      "confidence": 0.9994505643844604
+    },
+    {
+      "text": "Most of the other stores and all",
+      "bbox": [
+        510,
+        437,
+        699,
+        454
+      ],
+      "confidence": 0.9938927888870239
+    },
+    {
+      "text": "Up and down Cafe Court, she",
+      "bbox": [
+        302,
+        446,
+        486,
+        464
+      ],
+      "confidence": 0.9815075397491455
+    },
+    {
+      "text": "of the anchor stores have long",
+      "bbox": [
+        497,
+        447,
+        701,
+        469
+      ],
+      "confidence": 0.9741788506507874
+    },
+    {
+      "text": "morning waikers are buying fewer",
+      "bbox": [
+        288,
+        471,
+        487,
+        489
+      ],
+      "confidence": 0.9908416271209717
+    },
+    {
+      "text": "said, it's the same story. Early-",
+      "bbox": [
+        290,
+        460,
+        486,
+        475
+      ],
+      "confidence": 0.9963681697845459
+    },
+    {
+      "text": "been smoke-free and managers",
+      "bbox": [
+        498,
+        462,
+        700,
+        480
+      ],
+      "confidence": 0.9976087212562561
+    },
+    {
+      "text": "pastries. High school students quit",
+      "bbox": [
+        287,
+        483,
+        487,
+        501
+      ],
+      "confidence": 0.996825098991394
+    },
+    {
+      "text": "generally say they haven't noticed",
+      "bbox": [
+        499,
+        477,
+        700,
+        490
+      ],
+      "confidence": 0.9965299963951111
+    },
+    {
+      "text": "showing up for lunch. And mail",
+      "bbox": [
+        288,
+        498,
+        485,
+        512
+      ],
+      "confidence": 0.9486258625984192
+    },
+    {
+      "text": "since the April 1 policy change in",
+      "bbox": [
+        497,
+        498,
+        703,
+        517
+      ],
+      "confidence": 0.9823312163352966
+    },
+    {
+      "text": "any change in business volume.",
+      "bbox": [
+        498,
+        488,
+        705,
+        503
+      ],
+      "confidence": 0.9737662076950073
+    },
+    {
+      "text": "employees who smoke now kead",
+      "bbox": [
+        288,
+        510,
+        486,
+        525
+      ],
+      "confidence": 0.9475042223930359
+    },
+    {
+      "text": "the common areas.",
+      "bbox": [
+        498,
+        511,
+        610,
+        528
+      ],
+      "confidence": 0.9756350517272949
+    },
+    {
+      "text": "for Chelsea's, which has a smoking",
+      "bbox": [
+        286,
+        520,
+        488,
+        539
+      ],
+      "confidence": 0.985428512096405
+    },
+    {
+      "text": "People don't stay as long.\" said",
+      "bbox": [
+        510,
+        522,
+        705,
+        541
+      ],
+      "confidence": 0.963435173034668
+    },
+    {
+      "text": "provided by Herbergers.",
+      "bbox": [
+        285,
+        545,
+        429,
+        564
+      ],
+      "confidence": 0.9900423884391785
+    },
+    {
+      "text": "area, or an outdoor picnic area",
+      "bbox": [
+        287,
+        535,
+        487,
+        549
+      ],
+      "confidence": 0.9872581362724304
+    },
+    {
+      "text": "Stacy Williains, assistant manager.",
+      "bbox": [
+        498,
+        534,
+        706,
+        555
+      ],
+      "confidence": 0.967088520526886
+    },
+    {
+      "text": "at Disc Jockey. \"A lot of people",
+      "bbox": [
+        498,
+        547,
+        703,
+        566
+      ],
+      "confidence": 0.9735665917396545
+    },
+    {
+      "text": "Even nonsmokers who sympa-",
+      "bbox": [
+        299,
+        559,
+        486,
+        575
+      ],
+      "confidence": 0.99582439661026
+    },
+    {
+      "text": "can't go a half-hour without a",
+      "bbox": [
+        500,
+        562,
+        703,
+        577
+      ],
+      "confidence": 0.9780763387680054
+    },
+    {
+      "text": "thize with the now-unweicome",
+      "bbox": [
+        286,
+        570,
+        488,
+        588
+      ],
+      "confidence": 0.976398766040802
+    },
+    {
+      "text": "cigarette.\"",
+      "bbox": [
+        500,
+        575,
+        565,
+        589
+      ],
+      "confidence": 0.9929615259170532
+    },
+    {
+      "text": "smokers are staying away from the",
+      "bbox": [
+        287,
+        586,
+        487,
+        600
+      ],
+      "confidence": 0.9934489130973816
+    },
+    {
+      "text": "\"People who shop here from out",
+      "bbox": [
+        514,
+        587,
+        703,
+        601
+      ],
+      "confidence": 0.9921456575393677
+    },
+    {
+      "text": "mall, said Keagie's manager",
+      "bbox": [
+        286,
+        597,
+        486,
+        613
+      ],
+      "confidence": 0.9859598875045776
+    },
+    {
+      "text": "of town on weekends say they'll",
+      "bbox": [
+        498,
+        597,
+        703,
+        615
+      ],
+      "confidence": 0.9926988482475281
+    },
+    {
+      "text": "Catherine Baskett. As a result, she",
+      "bbox": [
+        286,
+        609,
+        486,
+        625
+      ],
+      "confidence": 0.9912691116333008
+    },
+    {
+      "text": "oniy buy necessities and leave,\"",
+      "bbox": [
+        500,
+        612,
+        702,
+        626
+      ],
+      "confidence": 0.9884137511253357
+    },
+    {
+      "text": "said, Orange Julius revenues are",
+      "bbox": [
+        285,
+        623,
+        486,
+        638
+      ],
+      "confidence": 0.9870645999908447
+    },
+    {
+      "text": "off by half from last year.",
+      "bbox": [
+        287,
+        636,
+        430,
+        650
+      ],
+      "confidence": 0.9481827020645142
+    },
+    {
+      "text": "said Phyllis Wood, a manager at",
+      "bbox": [
+        499,
+        625,
+        703,
+        638
+      ],
+      "confidence": 0.9824208617210388
+    },
+    {
+      "text": "Fashion Bar. \"So you're missing",
+      "bbox": [
+        500,
+        637,
+        703,
+        651
+      ],
+      "confidence": 0.967424750328064
+    },
+    {
+      "text": "Mall Manager Laurie Paquette",
+      "bbox": [
+        299,
+        648,
+        485,
+        662
+      ],
+      "confidence": 0.991731584072113
+    },
+    {
+      "text": "the impulse buyer.\"",
+      "bbox": [
+        500,
+        650,
+        616,
+        664
+      ],
+      "confidence": 0.9906885027885437
+    },
+    {
+      "text": "said that sales reports from mail",
+      "bbox": [
+        286,
+        660,
+        484,
+        673
+      ],
+      "confidence": 0.9818560481071472
+    },
+    {
+      "text": "Paquette, though, said her com-",
+      "bbox": [
+        512,
+        662,
+        703,
+        676
+      ],
+      "confidence": 0.9917320609092712
+    },
+    {
+      "text": "tenants indicate that oniy two ven-",
+      "bbox": [
+        286,
+        673,
+        484,
+        686
+      ],
+      "confidence": 0.9803121089935303
+    },
+    {
+      "text": "ments are running 3-1 in favor of",
+      "bbox": [
+        498,
+        673,
+        704,
+        690
+      ],
+      "confidence": 0.95023512840271
+    },
+    {
+      "text": "dors, both in Food Court but not",
+      "bbox": [
+        287,
+        686,
+        486,
+        701
+      ],
+      "confidence": 0.9948364496231079
+    },
+    {
+      "text": "the ban and merchants say most",
+      "bbox": [
+        499,
+        688,
+        703,
+        702
+      ],
+      "confidence": 0.9828581213951111
+    },
+    {
+      "text": "including Keagte, reported lower",
+      "bbox": [
+        287,
+        700,
+        485,
+        714
+      ],
+      "confidence": 0.9771100282669067
+    },
+    {
+      "text": " See Smoking, page 2B",
+      "bbox": [
+        560,
+        700,
+        704,
+        717
+      ],
+      "confidence": 0.9717212915420532
+    },
+    {
+      "text": "2070109606",
+      "bbox": [
+        730,
+        716,
+        754,
+        808
+      ],
+      "confidence": 0.9996240735054016
+    },
+    {
+      "text": "Smoking",
+      "bbox": [
+        73,
+        793,
+        207,
+        827
+      ],
+      "confidence": 0.9999485611915588
+    },
+    {
+      "text": "From page 1B",
+      "bbox": [
+        75,
+        832,
+        158,
+        849
+      ],
+      "confidence": 0.996648371219635
+    },
+    {
+      "text": "were in here smoking are not",
+      "bbox": [
+        294,
+        831,
+        498,
+        850
+      ],
+      "confidence": 0.9837571978569031
+    },
+    {
+      "text": "smoking now. They're still here,",
+      "bbox": [
+        293,
+        844,
+        496,
+        864
+      ],
+      "confidence": 0.9891053438186646
+    },
+    {
+      "text": "Paquette said, \"I'm'not looking at",
+      "bbox": [
+        507,
+        833,
+        713,
+        853
+      ],
+      "confidence": 0.9458680152893066
+    },
+    {
+      "text": "altering the situation.\"",
+      "bbox": [
+        507,
+        847,
+        644,
+        866
+      ],
+      "confidence": 0.9877464175224304
+    },
+    {
+      "text": "cleaner air.",
+      "bbox": [
+        73,
+        859,
+        146,
+        876
+      ],
+      "confidence": 0.9934565424919128
+    },
+    {
+      "text": "people seem",
+      "bbox": [
+        75,
+        848,
+        160,
+        862
+      ],
+      "confidence": 0.9751821160316467
+    },
+    {
+      "text": "to appreciate the",
+      "bbox": [
+        162,
+        848,
+        281,
+        862
+      ],
+      "confidence": 0.9988363981246948
+    },
+    {
+      "text": "but they're not smoking.",
+      "bbox": [
+        296,
+        859,
+        434,
+        873
+      ],
+      "confidence": 0.9880452752113342
+    },
+    {
+      "text": "That leaves people like Dan",
+      "bbox": [
+        521,
+        862,
+        711,
+        881
+      ],
+      "confidence": 0.9824126958847046
+    },
+    {
+      "text": "\"My business is up,\" said Vern",
+      "bbox": [
+        87,
+        870,
+        282,
+        888
+      ],
+      "confidence": 0.9783714413642883
+    },
+    {
+      "text": "In other towns where malls have",
+      "bbox": [
+        306,
+        869,
+        496,
+        888
+      ],
+      "confidence": 0.988520085811615
+    },
+    {
+      "text": "Austin out — in the hot sun, the",
+      "bbox": [
+        507,
+        875,
+        712,
+        895
+      ],
+      "confidence": 0.9827572703361511
+    },
+    {
+      "text": "Thompson, manager at Gordon's",
+      "bbox": [
+        73,
+        883,
+        282,
+        901
+      ],
+      "confidence": 0.983687698841095
+    },
+    {
+      "text": "gone cold turkey, she said, some",
+      "bbox": [
+        293,
+        883,
+        496,
+        901
+      ],
+      "confidence": 0.9966621398925781
+    },
+    {
+      "text": "rain, the wind, or, ini winter;.the",
+      "bbox": [
+        506,
+        889,
+        712,
+        909
+      ],
+      "confidence": 0.9549610614776611
+    },
+    {
+      "text": "Jewelry store. \"We had a fantastic",
+      "bbox": [
+        73,
+        896,
+        280,
+        911
+      ],
+      "confidence": 0.9735652804374695
+    },
+    {
+      "text": "merchants have gone offsite and",
+      "bbox": [
+        294,
+        896,
+        495,
+        911
+      ],
+      "confidence": 0.9934583306312561
+    },
+    {
+      "text": "cold.",
+      "bbox": [
+        507,
+        905,
+        539,
+        920
+      ],
+      "confidence": 0.9850127100944519
+    },
+    {
+      "text": "increase last month.\"",
+      "bbox": [
+        74,
+        908,
+        203,
+        923
+      ],
+      "confidence": 0.9713427424430847
+    },
+    {
+      "text": "From his vantage point over-",
+      "bbox": [
+        87,
+        919,
+        281,
+        939
+      ],
+      "confidence": 0.9723491072654724
+    },
+    {
+      "text": "offered smoking \"and they're mak-",
+      "bbox": [
+        294,
+        909,
+        494,
+        923
+      ],
+      "confidence": 0.9938384294509888
+    },
+    {
+      "text": "ing a killing.\"",
+      "bbox": [
+        294,
+        921,
+        370,
+        935
+      ],
+      "confidence": 0.9923439025878906
+    },
+    {
+      "text": "\"I hate it,\" he said. Instead of",
+      "bbox": [
+        519,
+        917,
+        711,
+        937
+      ],
+      "confidence": 0.9706652760505676
+    },
+    {
+      "text": "looking the mall's main drag.",
+      "bbox": [
+        73,
+        933,
+        280,
+        950
+      ],
+      "confidence": 0.9748890399932861
+    },
+    {
+      "text": "Keagle thinks the mall should",
+      "bbox": [
+        305,
+        933,
+        493,
+        949
+      ],
+      "confidence": 0.9883164763450623
+    },
+    {
+      "text": "reiaxing in the mall during",
+      "bbox": [
+        506,
+        931,
+        709,
+        951
+      ],
+      "confidence": 0.9544865489006042
+    },
+    {
+      "text": "Thompson sees lots of people.",
+      "bbox": [
+        74,
+        948,
+        280,
+        962
+      ],
+      "confidence": 0.9593311548233032
+    },
+    {
+      "text": "designate a vacant merchant",
+      "bbox": [
+        293,
+        946,
+        493,
+        962
+      ],
+      "confidence": 0.9812867045402527
+    },
+    {
+      "text": "breaks, he finds himseif,Jeaning",
+      "bbox": [
+        505,
+        944,
+        707,
+        966
+      ],
+      "confidence": 0.9581809639930725
+    },
+    {
+      "text": "And, he said, \"Teen-agers that",
+      "bbox": [
+        75,
+        960,
+        280,
+        973
+      ],
+      "confidence": 0.979931652545929
+    },
+    {
+      "text": "space as a smoking area. But,",
+      "bbox": [
+        291,
+        958,
+        494,
+        976
+      ],
+      "confidence": 0.9973590970039368
+    },
+    {
+      "text": "against a brick wall outside.\"",
+      "bbox": [
+        505,
+        960,
+        672,
+        980
+      ],
+      "confidence": 0.968176007270813
+    }
+  ],
+  "full_text": "Vendor says\nCAILY SENTINEL\n\"RANU JUNCTION, CO\nsmoking ban\nALLY SUNUAY\n-:,Quu\n\"HURSOAY\nJUN 9 1994\nhas hurt sales\nBUrrelle's\n74\nx.\n4314\nGingor Aice\nsaies in April. May sales reports\nDaily Sentinel\nTwo months into Mesa Mall's no-\nare due on-Friday but won't be\nsmoking poliey, some food vendors\navailable until next week, she\nsay it has driven business away,\nsaid.\nOne of A Kind Pizza Manager\nwhile other mall merchants praise\nRichard Rulf is using coupons to\nthe smoke-free policy.\nThe mail's ban on smoking has\ncombat a 10 percent year-to-year\nhurt business \"tremendously,\"\ndrop in sales and is distributing\nfliers to remind defeeting custom-\nsaid Jonnie C. Keagle, owner of\ners that he can package \"anything\nthe Orange Julius stand at the\nto go.\"\nwest end of Cafe Court.\nI can document and prove that\nBut, vendors complain, there's\nI've lost more money than when\nno place to go. The mall entrance\nclosest to Cafe Court has a single\nExxon pulled out of here,\" she\nbench but.no table and no shade.\nsaid.\nMost of the other stores and all\nUp and down Cafe Court, she\nof the anchor stores have long\nmorning waikers are buying fewer\nsaid, it's the same story. Early-\nbeen smoke-free and managers\npastries. High school students quit\ngenerally say they haven't noticed\nshowing up for lunch. And mail\nsince the April 1 policy change in\nany change in business volume.\nemployees who smoke now kead\nthe common areas.\nfor Chelsea's, which has a smoking\nPeople don't stay as long.\" said\nprovided by Herbergers.\narea, or an outdoor picnic area\nStacy Williains, assistant manager.\nat Disc Jockey. \"A lot of people\nEven nonsmokers who sympa-\ncan't go a half-hour without a\nthize with the now-unweicome\ncigarette.\"\nsmokers are staying away from the\n\"People who shop here from out\nmall, said Keagie's manager\nof town on weekends say they'll\nCatherine Baskett. As a result, she\noniy buy necessities and leave,\"\nsaid, Orange Julius revenues are\noff by half from last year.\nsaid Phyllis Wood, a manager at\nFashion Bar. \"So you're missing\nMall Manager Laurie Paquette\nthe impulse buyer.\"\nsaid that sales reports from mail\nPaquette, though, said her com-\ntenants indicate that oniy two ven-\nments are running 3-1 in favor of\ndors, both in Food Court but not\nthe ban and merchants say most\nincluding Keagte, reported lower\n See Smoking, page 2B\n2070109606\nSmoking\nFrom page 1B\nwere in here smoking are not\nsmoking now. They're still here,\nPaquette said, \"I'm'not looking at\naltering the situation.\"\ncleaner air.\npeople seem\nto appreciate the\nbut they're not smoking.\nThat leaves people like Dan\n\"My business is up,\" said Vern\nIn other towns where malls have\nAustin out — in the hot sun, the\nThompson, manager at Gordon's\ngone cold turkey, she said, some\nrain, the wind, or, ini winter;.the\nJewelry store. \"We had a fantastic\nmerchants have gone offsite and\ncold.\nincrease last month.\"\nFrom his vantage point over-\noffered smoking \"and they're mak-\ning a killing.\"\n\"I hate it,\" he said. Instead of\nlooking the mall's main drag.\nKeagle thinks the mall should\nreiaxing in the mall during\nThompson sees lots of people.\ndesignate a vacant merchant\nbreaks, he finds himseif,Jeaning\nAnd, he said, \"Teen-agers that\nspace as a smoking area. But,\nagainst a brick wall outside.\""
+}

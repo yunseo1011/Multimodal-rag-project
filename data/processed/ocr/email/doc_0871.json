@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0871.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From:",
+      "bbox": [
+        56,
+        81,
+        93,
+        98
+      ],
+      "confidence": 0.9981555938720703
+    },
+    {
+      "text": "--Original Message-",
+      "bbox": [
+        58,
+        71,
+        175,
+        88
+      ],
+      "confidence": 0.9320722818374634
+    },
+    {
+      "text": "Anderegg. Nicolas",
+      "bbox": [
+        151,
+        82,
+        241,
+        97
+      ],
+      "confidence": 0.9877389073371887
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        57,
+        93,
+        88,
+        108
+      ],
+      "confidence": 0.9959033727645874
+    },
+    {
+      "text": "Wednesday, Decernber 22, 1999 4:56 PM",
+      "bbox": [
+        150,
+        90,
+        352,
+        109
+      ],
+      "confidence": 0.9663667678833008
+    },
+    {
+      "text": "Cc: Chan, Koon Wai; Kirk, Joe; Chow, Frankie; Enders, Grant; Wong. Gary; Garrett, Ian",
+      "bbox": [
+        55,
+        109,
+        477,
+        130
+      ],
+      "confidence": 0.9813807010650635
+    },
+    {
+      "text": "To: Voong, Che Yee",
+      "bbox": [
+        57,
+        105,
+        161,
+        118
+      ],
+      "confidence": 0.9711300730705261
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        55,
+        124,
+        102,
+        141
+      ],
+      "confidence": 0.9566195607185364
+    },
+    {
+      "text": "RE: Thai Duty Free Cigarettes",
+      "bbox": [
+        150,
+        123,
+        294,
+        139
+      ],
+      "confidence": 0.9436876177787781
+    },
+    {
+      "text": "As far as I know, the resourcing concerns the Thai domestic business only since this is where savings on duty",
+      "bbox": [
+        54,
+        137,
+        719,
+        166
+      ],
+      "confidence": 0.9844696521759033
+    },
+    {
+      "text": "and tax can be made. I don't know if Marketing has any concerns if the duty free and the domestic products",
+      "bbox": [
+        55,
+        152,
+        700,
+        177
+      ],
+      "confidence": 0.9833738803863525
+    },
+    {
+      "text": "come from different manufacturers, but it may complicate the malter (from an administrative and logistics point",
+      "bbox": [
+        55,
+        164,
+        720,
+        190
+      ],
+      "confidence": 0.9858734011650085
+    },
+    {
+      "text": "of view) for PTPMl if they also have to produce for the duty free business. Maybe Joe and lan can comment?",
+      "bbox": [
+        55,
+        177,
+        711,
+        203
+      ],
+      "confidence": 0.9703248739242554
+    },
+    {
+      "text": "Regards,",
+      "bbox": [
+        54,
+        208,
+        111,
+        229
+      ],
+      "confidence": 0.9999086856842041
+    },
+    {
+      "text": "2",
+      "bbox": [
+        337,
+        228,
+        347,
+        239
+      ],
+      "confidence": 0.9999134540557861
+    }
+  ],
+  "full_text": "From:\n--Original Message-\nAnderegg. Nicolas\nSent:\nWednesday, Decernber 22, 1999 4:56 PM\nCc: Chan, Koon Wai; Kirk, Joe; Chow, Frankie; Enders, Grant; Wong. Gary; Garrett, Ian\nTo: Voong, Che Yee\nSubject:\nRE: Thai Duty Free Cigarettes\nAs far as I know, the resourcing concerns the Thai domestic business only since this is where savings on duty\nand tax can be made. I don't know if Marketing has any concerns if the duty free and the domestic products\ncome from different manufacturers, but it may complicate the malter (from an administrative and logistics point\nof view) for PTPMl if they also have to produce for the duty free business. Maybe Joe and lan can comment?\nRegards,\n2"
+}

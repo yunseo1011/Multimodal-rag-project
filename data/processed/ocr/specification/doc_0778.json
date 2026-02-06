@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0778.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "11",
+      "bbox": [
+        68,
+        4,
+        90,
+        11
+      ],
+      "confidence": 0.7420639991760254
+    },
+    {
+      "text": "Analytical information (detailed)",
+      "bbox": [
+        2,
+        13,
+        276,
+        36
+      ],
+      "confidence": 0.9837201237678528
+    },
+    {
+      "text": "Smoke",
+      "bbox": [
+        350,
+        15,
+        398,
+        34
+      ],
+      "confidence": 0.9991204142570496
+    },
+    {
+      "text": "Green",
+      "bbox": [
+        444,
+        14,
+        490,
+        33
+      ],
+      "confidence": 0.9998723864555359
+    },
+    {
+      "text": "Cured_ i Non-Leaf",
+      "bbox": [
+        520,
+        13,
+        665,
+        33
+      ],
+      "confidence": 0.93903648853302
+    },
+    {
+      "text": "Itemize:",
+      "bbox": [
+        608,
+        32,
+        673,
+        49
+      ],
+      "confidence": 0.999060869216919
+    },
+    {
+      "text": "Quantitative (all figures)",
+      "bbox": [
+        3,
+        139,
+        219,
+        162
+      ],
+      "confidence": 0.9737427830696106
+    },
+    {
+      "text": "Qualitative only",
+      "bbox": [
+        568,
+        133,
+        699,
+        153
+      ],
+      "confidence": 0.9998132586479187
+    },
+    {
+      "text": "Quoteints or Semi-quant.",
+      "bbox": [
+        499,
+        147,
+        689,
+        172
+      ],
+      "confidence": 0.9763374328613281
+    },
+    {
+      "text": "Mol. Form",
+      "bbox": [
+        306,
+        259,
+        387,
+        284
+      ],
+      "confidence": 0.9952300190925598
+    },
+    {
+      "text": "Structural Formula",
+      "bbox": [
+        7,
+        267,
+        158,
+        286
+      ],
+      "confidence": 0.976343035697937
+    },
+    {
+      "text": "Mol. Weight",
+      "bbox": [
+        307,
+        292,
+        401,
+        318
+      ],
+      "confidence": 0.9923345446586609
+    },
+    {
+      "text": "M.P.",
+      "bbox": [
+        512,
+        288,
+        555,
+        314
+      ],
+      "confidence": 0.9586271047592163
+    },
+    {
+      "text": "B.P.",
+      "bbox": [
+        701,
+        283,
+        740,
+        305
+      ],
+      "confidence": 0.9967724084854126
+    },
+    {
+      "text": "Chem. Groups",
+      "bbox": [
+        308,
+        327,
+        410,
+        351
+      ],
+      "confidence": 0.9840366244316101
+    },
+    {
+      "text": "Derivatives",
+      "bbox": [
+        515,
+        323,
+        609,
+        348
+      ],
+      "confidence": 0.9999009966850281
+    },
+    {
+      "text": "Types of Tobacco (all details)",
+      "bbox": [
+        8,
+        417,
+        251,
+        441
+      ],
+      "confidence": 0.9929715394973755
+    },
+    {
+      "text": "Tox.-Pharm. Inform. and other Notes",
+      "bbox": [
+        5,
+        502,
+        291,
+        526
+      ],
+      "confidence": 0.9962037205696106
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        1,
+        622,
+        80,
+        640
+      ],
+      "confidence": 0.9999269843101501
+    },
+    {
+      "text": "1158",
+      "bbox": [
+        84,
+        618,
+        155,
+        654
+      ],
+      "confidence": 0.7222131490707397
+    },
+    {
+      "text": "1973#20",
+      "bbox": [
+        9,
+        660,
+        119,
+        693
+      ],
+      "confidence": 0.9473569989204407
+    },
+    {
+      "text": "w9019",
+      "bbox": [
+        14,
+        691,
+        99,
+        724
+      ],
+      "confidence": 0.904543399810791
+    },
+    {
+      "text": "Kakie, T.",
+      "bbox": [
+        150,
+        694,
+        227,
+        711
+      ],
+      "confidence": 0.9748483300209045
+    },
+    {
+      "text": "(Japar Monop. Corp., Utsonomiy;",
+      "bbox": [
+        150,
+        709,
+        403,
+        730
+      ],
+      "confidence": 0.9520159363746643
+    },
+    {
+      "text": "Tochigi-ken, Jap.)",
+      "bbox": [
+        38,
+        726,
+        195,
+        749
+      ],
+      "confidence": 0.997664213180542
+    },
+    {
+      "text": "THE EFFECTS OF METHOD OF CURIN(",
+      "bbox": [
+        151,
+        746,
+        401,
+        763
+      ],
+      "confidence": 0.9742680788040161
+    },
+    {
+      "text": "CORESTA/TCRC Joint Conf.,",
+      "bbox": [
+        148,
+        766,
+        354,
+        787
+      ],
+      "confidence": 0.9931476712226868
+    },
+    {
+      "text": "1972) (in English)",
+      "bbox": [
+        36,
+        780,
+        193,
+        804
+      ],
+      "confidence": 0.9186737537384033
+    },
+    {
+      "text": "*Abstr. in: CORESTA Inform. Bu",
+      "bbox": [
+        151,
+        799,
+        399,
+        817
+      ],
+      "confidence": 0.9831153750419617
+    },
+    {
+      "text": "ibliography:",
+      "bbox": [
+        0,
+        902,
+        108,
+        926
+      ],
+      "confidence": 0.9893551468849182
+    },
+    {
+      "text": "f there is not sufficient space available for any of the categories, use reverse side,",
+      "bbox": [
+        0,
+        918,
+        729,
+        947
+      ],
+      "confidence": 0.9764983654022217
+    },
+    {
+      "text": "dentifying category(ies), and write \"over\" on this side. List all answerable information",
+      "bbox": [
+        0,
+        938,
+        755,
+        965
+      ],
+      "confidence": 0.9541307687759399
+    },
+    {
+      "text": "or cach constituent and do so in in index style.",
+      "bbox": [
+        0,
+        957,
+        403,
+        981
+      ],
+      "confidence": 0.9749209880828857
+    }
+  ],
+  "full_text": "11\nAnalytical information (detailed)\nSmoke\nGreen\nCured_ i Non-Leaf\nItemize:\nQuantitative (all figures)\nQualitative only\nQuoteints or Semi-quant.\nMol. Form\nStructural Formula\nMol. Weight\nM.P.\nB.P.\nChem. Groups\nDerivatives\nTypes of Tobacco (all details)\nTox.-Pharm. Inform. and other Notes\nReference\n1158\n1973#20\nw9019\nKakie, T.\n(Japar Monop. Corp., Utsonomiy;\nTochigi-ken, Jap.)\nTHE EFFECTS OF METHOD OF CURIN(\nCORESTA/TCRC Joint Conf.,\n1972) (in English)\n*Abstr. in: CORESTA Inform. Bu\nibliography:\nf there is not sufficient space available for any of the categories, use reverse side,\ndentifying category(ies), and write \"over\" on this side. List all answerable information\nor cach constituent and do so in in index style."
+}

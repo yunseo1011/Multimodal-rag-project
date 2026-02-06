@@ -1,0 +1,491 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0889.png",
+    "image_width": 805,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "JUN",
+      "bbox": [
+        131,
+        166,
+        187,
+        198
+      ],
+      "confidence": 0.9898762702941895
+    },
+    {
+      "text": "1984",
+      "bbox": [
+        218,
+        160,
+        270,
+        194
+      ],
+      "confidence": 0.9998487234115601
+    },
+    {
+      "text": "7",
+      "bbox": [
+        185,
+        174,
+        199,
+        191
+      ],
+      "confidence": 0.9978668093681335
+    },
+    {
+      "text": "PLAYBILL",
+      "bbox": [
+        77,
+        196,
+        519,
+        271
+      ],
+      "confidence": 0.999756395816803
+    },
+    {
+      "text": "2% 10 DAYS OF 06/01/84",
+      "bbox": [
+        528,
+        243,
+        758,
+        267
+      ],
+      "confidence": 0.9853818416595459
+    },
+    {
+      "text": "100 Avenue Of The Americas, New York, N.Y.",
+      "bbox": [
+        77,
+        276,
+        347,
+        302
+      ],
+      "confidence": 0.9523645043373108
+    },
+    {
+      "text": "Accounting Office:",
+      "bbox": [
+        78,
+        263,
+        187,
+        285
+      ],
+      "confidence": 0.9236165285110474
+    },
+    {
+      "text": "000333",
+      "bbox": [
+        633,
+        263,
+        697,
+        280
+      ],
+      "confidence": 0.9989427924156189
+    },
+    {
+      "text": "10013",
+      "bbox": [
+        358,
+        282,
+        399,
+        300
+      ],
+      "confidence": 0.999963641166687
+    },
+    {
+      "text": "(212) 966-5052",
+      "bbox": [
+        411,
+        282,
+        506,
+        299
+      ],
+      "confidence": 0.915133535861969
+    },
+    {
+      "text": "AGENCY NAME",
+      "bbox": [
+        58,
+        309,
+        139,
+        328
+      ],
+      "confidence": 0.9995825290679932
+    },
+    {
+      "text": "ADVERTISER",
+      "bbox": [
+        436,
+        316,
+        504,
+        330
+      ],
+      "confidence": 0.9996093511581421
+    },
+    {
+      "text": "ALOR",
+      "bbox": [
+        166,
+        325,
+        210,
+        343
+      ],
+      "confidence": 0.999800443649292
+    },
+    {
+      "text": "7",
+      "bbox": [
+        401,
+        329,
+        423,
+        345
+      ],
+      "confidence": 0.9983435869216919
+    },
+    {
+      "text": "ALORS",
+      "bbox": [
+        530,
+        326,
+        587,
+        344
+      ],
+      "confidence": 0.9989491701126099
+    },
+    {
+      "text": "L",
+      "bbox": [
+        773,
+        332,
+        791,
+        349
+      ],
+      "confidence": 0.9997220635414124
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        69,
+        353,
+        168,
+        374
+      ],
+      "confidence": 0.9996246695518494
+    },
+    {
+      "text": "LORILLARD-SATIN",
+      "bbox": [
+        456,
+        358,
+        617,
+        377
+      ],
+      "confidence": 0.9994102716445923
+    },
+    {
+      "text": "666 STH AVENUE",
+      "bbox": [
+        68,
+        371,
+        219,
+        392
+      ],
+      "confidence": 0.9906805753707886
+    },
+    {
+      "text": "NEW YORK, N.Y.",
+      "bbox": [
+        67,
+        386,
+        217,
+        411
+      ],
+      "confidence": 0.992127537727356
+    },
+    {
+      "text": "ATT S MOLLOY",
+      "bbox": [
+        66,
+        403,
+        198,
+        428
+      ],
+      "confidence": 0.964373767375946
+    },
+    {
+      "text": "10103",
+      "bbox": [
+        236,
+        408,
+        293,
+        426
+      ],
+      "confidence": 0.9998014569282532
+    },
+    {
+      "text": "L",
+      "bbox": [
+        401,
+        421,
+        424,
+        438
+      ],
+      "confidence": 0.9726874232292175
+    },
+    {
+      "text": "L",
+      "bbox": [
+        431,
+        421,
+        453,
+        438
+      ],
+      "confidence": 0.9640369415283203
+    },
+    {
+      "text": "L",
+      "bbox": [
+        775,
+        419,
+        790,
+        434
+      ],
+      "confidence": 0.6240204572677612
+    },
+    {
+      "text": "NYC THEATRE MARKET",
+      "bbox": [
+        65,
+        438,
+        260,
+        460
+      ],
+      "confidence": 0.9971941709518433
+    },
+    {
+      "text": "ISSUE OF",
+      "bbox": [
+        55,
+        458,
+        107,
+        469
+      ],
+      "confidence": 0.9971358180046082
+    },
+    {
+      "text": "JUNE 1984",
+      "bbox": [
+        140,
+        460,
+        238,
+        477
+      ],
+      "confidence": 0.9872771501541138
+    },
+    {
+      "text": "FOR ADVERTISING",
+      "bbox": [
+        437,
+        458,
+        531,
+        471
+      ],
+      "confidence": 0.9935896396636963
+    },
+    {
+      "text": "1 PAGE 4/C BLEED",
+      "bbox": [
+        580,
+        462,
+        749,
+        479
+      ],
+      "confidence": 0.998848557472229
+    },
+    {
+      "text": "SPACE CHARGE",
+      "bbox": [
+        52,
+        490,
+        144,
+        504
+      ],
+      "confidence": 0.9998645186424255
+    },
+    {
+      "text": "BLEED",
+      "bbox": [
+        175,
+        490,
+        219,
+        504
+      ],
+      "confidence": 0.9998372197151184
+    },
+    {
+      "text": "GROSS",
+      "bbox": [
+        284,
+        489,
+        324,
+        503
+      ],
+      "confidence": 0.9992200136184692
+    },
+    {
+      "text": "15% AGY. COMM.",
+      "bbox": [
+        367,
+        491,
+        461,
+        505
+      ],
+      "confidence": 0.9761338829994202
+    },
+    {
+      "text": "NET DUE",
+      "bbox": [
+        498,
+        491,
+        553,
+        505
+      ],
+      "confidence": 0.9992018342018127
+    },
+    {
+      "text": "COMMENCEMENT",
+      "bbox": [
+        604,
+        496,
+        684,
+        509
+      ],
+      "confidence": 0.9766282439231873
+    },
+    {
+      "text": "CONTRACT",
+      "bbox": [
+        618,
+        490,
+        666,
+        500
+      ],
+      "confidence": 0.9989184737205505
+    },
+    {
+      "text": "SLS.#",
+      "bbox": [
+        732,
+        491,
+        771,
+        506
+      ],
+      "confidence": 0.9755759239196777
+    },
+    {
+      "text": "1636.087",
+      "bbox": [
+        63,
+        527,
+        151,
+        548
+      ],
+      "confidence": 0.9069188833236694
+    },
+    {
+      "text": ".oo",
+      "bbox": [
+        212,
+        527,
+        248,
+        547
+      ],
+      "confidence": 0.8900905251502991
+    },
+    {
+      "text": "1636.08t",
+      "bbox": [
+        277,
+        528,
+        363,
+        545
+      ],
+      "confidence": 0.9515249133110046
+    },
+    {
+      "text": "245.41+",
+      "bbox": [
+        404,
+        530,
+        478,
+        544
+      ],
+      "confidence": 0.9695025086402893
+    },
+    {
+      "text": "1390.67+",
+      "bbox": [
+        495,
+        526,
+        582,
+        547
+      ],
+      "confidence": 0.9455035924911499
+    },
+    {
+      "text": "01/84",
+      "bbox": [
+        641,
+        529,
+        697,
+        547
+      ],
+      "confidence": 0.9981142282485962
+    },
+    {
+      "text": "000001",
+      "bbox": [
+        734,
+        529,
+        797,
+        547
+      ],
+      "confidence": 0.9632059931755066
+    },
+    {
+      "text": "91660774",
+      "bbox": [
+        97,
+        718,
+        184,
+        739
+      ],
+      "confidence": 0.9997773170471191
+    },
+    {
+      "text": "1390.67-",
+      "bbox": [
+        496,
+        727,
+        583,
+        746
+      ],
+      "confidence": 0.995907187461853
+    },
+    {
+      "text": "TOTAL CREDIT",
+      "bbox": [
+        329,
+        729,
+        458,
+        749
+      ],
+      "confidence": 0.9804273247718811
+    }
+  ],
+  "full_text": "JUN\n1984\n7\nPLAYBILL\n2% 10 DAYS OF 06/01/84\n100 Avenue Of The Americas, New York, N.Y.\nAccounting Office:\n000333\n10013\n(212) 966-5052\nAGENCY NAME\nADVERTISER\nALOR\n7\nALORS\nL\nLORILLARD\nLORILLARD-SATIN\n666 STH AVENUE\nNEW YORK, N.Y.\nATT S MOLLOY\n10103\nL\nL\nL\nNYC THEATRE MARKET\nISSUE OF\nJUNE 1984\nFOR ADVERTISING\n1 PAGE 4/C BLEED\nSPACE CHARGE\nBLEED\nGROSS\n15% AGY. COMM.\nNET DUE\nCOMMENCEMENT\nCONTRACT\nSLS.#\n1636.087\n.oo\n1636.08t\n245.41+\n1390.67+\n01/84\n000001\n91660774\n1390.67-\nTOTAL CREDIT"
+}

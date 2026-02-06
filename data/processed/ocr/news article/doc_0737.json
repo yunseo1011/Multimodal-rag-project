@@ -1,0 +1,1421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0737.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PALLAOIUM-ITEH",
+      "bbox": [
+        182,
+        48,
+        265,
+        69
+      ],
+      "confidence": 0.9146820902824402
+    },
+    {
+      "text": "RICHMOND, IN",
+      "bbox": [
+        188,
+        74,
+        258,
+        92
+      ],
+      "confidence": 0.929404079914093
+    },
+    {
+      "text": "DAILY",
+      "bbox": [
+        175,
+        84,
+        211,
+        103
+      ],
+      "confidence": 0.9521484375
+    },
+    {
+      "text": "20.100",
+      "bbox": [
+        236,
+        87,
+        276,
+        104
+      ],
+      "confidence": 0.9991087913513184
+    },
+    {
+      "text": "SATURDAY",
+      "bbox": [
+        199,
+        111,
+        246,
+        125
+      ],
+      "confidence": 0.9393330812454224
+    },
+    {
+      "text": "FEB 6 1993",
+      "bbox": [
+        180,
+        120,
+        263,
+        145
+      ],
+      "confidence": 0.9693666696548462
+    },
+    {
+      "text": "BURBELLE's",
+      "bbox": [
+        195,
+        143,
+        264,
+        164
+      ],
+      "confidence": 0.8198187947273254
+    },
+    {
+      "text": "Smoking ban too much;",
+      "bbox": [
+        151,
+        170,
+        510,
+        211
+      ],
+      "confidence": 0.9959831237792969
+    },
+    {
+      "text": "RE",
+      "bbox": [
+        275,
+        158,
+        291,
+        171
+      ],
+      "confidence": 0.9986786842346191
+    },
+    {
+      "text": "signs would be better",
+      "bbox": [
+        150,
+        209,
+        479,
+        247
+      ],
+      "confidence": 0.9762881398200989
+    },
+    {
+      "text": "E-4314C",
+      "bbox": [
+        195,
+        238,
+        272,
+        258
+      ],
+      "confidence": 0.8727250099182129
+    },
+    {
+      "text": "post signs on their doors if they per-",
+      "bbox": [
+        148,
+        261,
+        326,
+        281
+      ],
+      "confidence": 0.9807645678520203
+    },
+    {
+      "text": "Businesses shouid be required to",
+      "bbox": [
+        160,
+        251,
+        326,
+        268
+      ],
+      "confidence": 0.9788069725036621
+    },
+    {
+      "text": "mit smoking. but a proposed city",
+      "bbox": [
+        149,
+        274,
+        324,
+        292
+      ],
+      "confidence": 0.976464033126831
+    },
+    {
+      "text": "What do",
+      "bbox": [
+        340,
+        264,
+        460,
+        292
+      ],
+      "confidence": 0.9998857378959656
+    },
+    {
+      "text": "ban on smoking goes too far.",
+      "bbox": [
+        148,
+        286,
+        297,
+        302
+      ],
+      "confidence": 0.9931319952011108
+    },
+    {
+      "text": "you think?",
+      "bbox": [
+        338,
+        290,
+        493,
+        323
+      ],
+      "confidence": 0.9475181698799133
+    },
+    {
+      "text": "The ordinance sets out to ban",
+      "bbox": [
+        157,
+        297,
+        323,
+        315
+      ],
+      "confidence": 0.9924953579902649
+    },
+    {
+      "text": "with the exception of bars, restao-",
+      "bbox": [
+        142,
+        318,
+        323,
+        340
+      ],
+      "confidence": 0.9551603198051453
+    },
+    {
+      "text": "smoking in most public places.",
+      "bbox": [
+        143,
+        308,
+        323,
+        327
+      ],
+      "confidence": 0.9659863710403442
+    },
+    {
+      "text": "rants when used for private func-",
+      "bbox": [
+        146,
+        333,
+        322,
+        350
+      ],
+      "confidence": 0.9511147737503052
+    },
+    {
+      "text": "Do you agree with the Palla-",
+      "bbox": [
+        346,
+        329,
+        497,
+        343
+      ],
+      "confidence": 0.9893336296081543
+    },
+    {
+      "text": "tions and retall tobacco stores.",
+      "bbox": [
+        145,
+        343,
+        307,
+        362
+      ],
+      "confidence": 0.9752151966094971
+    },
+    {
+      "text": "dium-Item's",
+      "bbox": [
+        336,
+        341,
+        409,
+        355
+      ],
+      "confidence": 0.9759874939918518
+    },
+    {
+      "text": "ides of the",
+      "bbox": [
+        406,
+        341,
+        476,
+        355
+      ],
+      "confidence": 0.9652603268623352
+    },
+    {
+      "text": "city",
+      "bbox": [
+        470,
+        343,
+        496,
+        355
+      ],
+      "confidence": 0.9984664916992188
+    },
+    {
+      "text": ": Although well-intentioned, the",
+      "bbox": [
+        142,
+        355,
+        322,
+        374
+      ],
+      "confidence": 0.9143319129943848
+    },
+    {
+      "text": "ordinance would. be-an enforce-",
+      "bbox": [
+        144,
+        367,
+        322,
+        386
+      ],
+      "confidence": 0.9235291481018066
+    },
+    {
+      "text": "smoking signs",
+      "bbox": [
+        337,
+        363,
+        413,
+        379
+      ],
+      "confidence": 0.9441033601760864
+    },
+    {
+      "text": "requiring",
+      "bbox": [
+        338,
+        353,
+        400,
+        367
+      ],
+      "confidence": 0.9990663528442383
+    },
+    {
+      "text": "smoking",
+      "bbox": [
+        397,
+        355,
+        456,
+        366
+      ],
+      "confidence": 0.9993078112602234
+    },
+    {
+      "text": "busines",
+      "bbox": [
+        433,
+        367,
+        468,
+        378
+      ],
+      "confidence": 0.9841586351394653
+    },
+    {
+      "text": "or",
+      "bbox": [
+        458,
+        357,
+        474,
+        365
+      ],
+      "confidence": 0.9990712404251099
+    },
+    {
+      "text": "no",
+      "bbox": [
+        474,
+        356,
+        497,
+        367
+      ],
+      "confidence": 0.9987926483154297
+    },
+    {
+      "text": "De you support",
+      "bbox": [
+        334,
+        374,
+        438,
+        395
+      ],
+      "confidence": 0.9632509350776672
+    },
+    {
+      "text": "the ban of",
+      "bbox": [
+        436,
+        379,
+        496,
+        390
+      ],
+      "confidence": 0.9843243360519409
+    },
+    {
+      "text": "ment nightmare.",
+      "bbox": [
+        148,
+        384,
+        233,
+        394
+      ],
+      "confidence": 0.9896778464317322
+    },
+    {
+      "text": "For example, a bar is defined as",
+      "bbox": [
+        155,
+        392,
+        320,
+        408
+      ],
+      "confidence": 0.9600441455841064
+    },
+    {
+      "text": "smoking in, most",
+      "bbox": [
+        336,
+        388,
+        436,
+        403
+      ],
+      "confidence": 0.9121754765510559
+    },
+    {
+      "text": "busincsses",
+      "bbox": [
+        438,
+        391,
+        494,
+        402
+      ],
+      "confidence": 0.959467887878418
+    },
+    {
+      "text": "a place \"used primarily for the sale",
+      "bbox": [
+        148,
+        405,
+        320,
+        419
+      ],
+      "confidence": 0.9838201999664307
+    },
+    {
+      "text": "proposed city ordinance?",
+      "bbox": [
+        336,
+        411,
+        470,
+        426
+      ],
+      "confidence": 0.9988274574279785
+    },
+    {
+      "text": "except bars",
+      "bbox": [
+        337,
+        399,
+        406,
+        415
+      ],
+      "confidence": 0.9963977336883545
+    },
+    {
+      "text": "as cutlined in a",
+      "bbox": [
+        404,
+        401,
+        495,
+        414
+      ],
+      "confidence": 0.9420558214187622
+    },
+    {
+      "text": "of alcoholic beverages for con-",
+      "bbox": [
+        147,
+        415,
+        320,
+        433
+      ],
+      "confidence": 0.9943721294403076
+    },
+    {
+      "text": "Or do you think city councif",
+      "bbox": [
+        337,
+        421,
+        495,
+        440
+      ],
+      "confidence": 0.9793658256530762
+    },
+    {
+      "text": "ises and in which the saie of food",
+      "bbox": [
+        146,
+        438,
+        321,
+        457
+      ],
+      "confidence": 0.9649302363395691
+    },
+    {
+      "text": "sumption by guests on the prem-",
+      "bbox": [
+        148,
+        429,
+        320,
+        444
+      ],
+      "confidence": 0.9993099570274353
+    },
+    {
+      "text": "should leave the issue alone?",
+      "bbox": [
+        337,
+        433,
+        491,
+        451
+      ],
+      "confidence": 0.9879110455513
+    },
+    {
+      "text": "and the provision of entertainment",
+      "bbox": [
+        147,
+        452,
+        320,
+        468
+      ],
+      "confidence": 0.9977279901504517
+    },
+    {
+      "text": "Please send your thoughts",
+      "bbox": [
+        344,
+        443,
+        495,
+        465
+      ],
+      "confidence": 0.997986912727356
+    },
+    {
+      "text": "is merely incidental to the sale of",
+      "bbox": [
+        147,
+        466,
+        319,
+        479
+      ],
+      "confidence": 0.9956232309341431
+    },
+    {
+      "text": "to:",
+      "bbox": [
+        337,
+        459,
+        354,
+        471
+      ],
+      "confidence": 0.9992967247962952
+    },
+    {
+      "text": "Letters to the editor",
+      "bbox": [
+        345,
+        469,
+        452,
+        484
+      ],
+      "confidence": 0.9382794499397278
+    },
+    {
+      "text": "alcobolic beverages.",
+      "bbox": [
+        147,
+        477,
+        251,
+        491
+      ],
+      "confidence": 0.9969943165779114
+    },
+    {
+      "text": "Palladium-Item",
+      "bbox": [
+        345,
+        480,
+        431,
+        497
+      ],
+      "confidence": 0.9633804559707642
+    },
+    {
+      "text": "the entertainment is?",
+      "bbox": [
+        146,
+        499,
+        256,
+        514
+      ],
+      "confidence": 0.9991067051887512
+    },
+    {
+      "text": "Who would decide how inci",
+      "bbox": [
+        157,
+        489,
+        288,
+        502
+      ],
+      "confidence": 0.981229841709137
+    },
+    {
+      "text": "Bex 388, Richmond, IN 47375",
+      "bbox": [
+        345,
+        492,
+        492,
+        510
+      ],
+      "confidence": 0.9786255955696106
+    },
+    {
+      "text": "A restaurant",
+      "bbox": [
+        156,
+        513,
+        226,
+        524
+      ],
+      "confidence": 0.970019519329071
+    },
+    {
+      "text": "identified",
+      "bbox": [
+        239,
+        512,
+        293,
+        526
+      ],
+      "confidence": 0.9412822723388672
+    },
+    {
+      "text": "Or fax to 966-6377.",
+      "bbox": [
+        346,
+        511,
+        442,
+        527
+      ],
+      "confidence": 0.9953101277351379
+    },
+    {
+      "text": "place \"having",
+      "bbox": [
+        147,
+        525,
+        223,
+        536
+      ],
+      "confidence": 0.962020754814148
+    },
+    {
+      "text": "food",
+      "bbox": [
+        226,
+        525,
+        251,
+        536
+      ],
+      "confidence": 0.9999061226844788
+    },
+    {
+      "text": "available for",
+      "bbox": [
+        251,
+        526,
+        318,
+        537
+      ],
+      "confidence": 0.9942223429679871
+    },
+    {
+      "text": "payment to",
+      "bbox": [
+        145,
+        534,
+        212,
+        551
+      ],
+      "confidence": 0.9988473653793335
+    },
+    {
+      "text": "be",
+      "bbox": [
+        211,
+        539,
+        226,
+        547
+      ],
+      "confidence": 0.9986749887466431
+    },
+    {
+      "text": "consumed on the",
+      "bbox": [
+        227,
+        536,
+        319,
+        550
+      ],
+      "confidence": 0.9769860506057739
+    },
+    {
+      "text": "post one of three signs at the en-",
+      "bbox": [
+        327,
+        535,
+        505,
+        554
+      ],
+      "confidence": 0.9591341614723206
+    },
+    {
+      "text": "rance which says:",
+      "bbox": [
+        333,
+        546,
+        425,
+        564
+      ],
+      "confidence": 0.9852921962738037
+    },
+    {
+      "text": "cafeterias,",
+      "bbox": [
+        144,
+        557,
+        209,
+        574
+      ],
+      "confidence": 0.9637212157249451
+    },
+    {
+      "text": "premises,",
+      "bbox": [
+        147,
+        549,
+        204,
+        560
+      ],
+      "confidence": 0.9995343685150146
+    },
+    {
+      "text": "including",
+      "bbox": [
+        202,
+        548,
+        252,
+        559
+      ],
+      "confidence": 0.9960779547691345
+    },
+    {
+      "text": "cafes, luncheonettes",
+      "bbox": [
+        205,
+        558,
+        319,
+        574
+      ],
+      "confidence": 0.9925996661186218
+    },
+    {
+      "text": "coffeeshops,",
+      "bbox": [
+        256,
+        549,
+        318,
+        560
+      ],
+      "confidence": 0.9893495440483093
+    },
+    {
+      "text": "\"Smoking",
+      "bbox": [
+        334,
+        557,
+        391,
+        574
+      ],
+      "confidence": 0.9620401263237
+    },
+    {
+      "text": "prohibited.*",
+      "bbox": [
+        385,
+        561,
+        456,
+        573
+      ],
+      "confidence": 0.9508858323097229
+    },
+    {
+      "text": "Smoking",
+      "bbox": [
+        334,
+        568,
+        391,
+        585
+      ],
+      "confidence": 0.8765700459480286
+    },
+    {
+      "text": "permitted.\"",
+      "bbox": [
+        384,
+        569,
+        455,
+        587
+      ],
+      "confidence": 0.9355078339576721
+    },
+    {
+      "text": "As far as the danger of smoke is",
+      "bbox": [
+        155,
+        591,
+        320,
+        606
+      ],
+      "confidence": 0.9857175350189209
+    },
+    {
+      "text": "This is clear, but is it fair?",
+      "bbox": [
+        156,
+        580,
+        289,
+        593
+      ],
+      "confidence": 0.9753323793411255
+    },
+    {
+      "text": "\"No-emoking section.",
+      "bbox": [
+        336,
+        578,
+        447,
+        600
+      ],
+      "confidence": 0.9372886419296265
+    },
+    {
+      "text": "concerned, what is the difference",
+      "bbox": [
+        147,
+        603,
+        323,
+        618
+      ],
+      "confidence": 0.9819466471672058
+    },
+    {
+      "text": "only from a smoke-tree environ-",
+      "bbox": [
+        323,
+        604,
+        503,
+        624
+      ],
+      "confidence": 0.9839462637901306
+    },
+    {
+      "text": "Those who",
+      "bbox": [
+        335,
+        595,
+        397,
+        606
+      ],
+      "confidence": 0.9985011219978333
+    },
+    {
+      "text": "want to breath air",
+      "bbox": [
+        391,
+        594,
+        504,
+        611
+      ],
+      "confidence": 0.9699692130088806
+    },
+    {
+      "text": "between a small restaurant or col-",
+      "bbox": [
+        147,
+        615,
+        320,
+        631
+      ],
+      "confidence": 0.9886267185211182
+    },
+    {
+      "text": "ment will stay away from places",
+      "bbox": [
+        324,
+        617,
+        503,
+        636
+      ],
+      "confidence": 0.9682304859161377
+    },
+    {
+      "text": "fee shop and a bar? As far as we",
+      "bbox": [
+        147,
+        627,
+        320,
+        643
+      ],
+      "confidence": 0.9936792850494385
+    },
+    {
+      "text": "with either of the last two signs.",
+      "bbox": [
+        324,
+        628,
+        488,
+        647
+      ],
+      "confidence": 0.9730678796768188
+    },
+    {
+      "text": "know",
+      "bbox": [
+        149,
+        641,
+        177,
+        654
+      ],
+      "confidence": 0.9990012645721436
+    },
+    {
+      "text": "secondhand",
+      "bbox": [
+        183,
+        642,
+        247,
+        653
+      ],
+      "confidence": 0.9995194673538208
+    },
+    {
+      "text": "smoke is_no",
+      "bbox": [
+        242,
+        640,
+        320,
+        655
+      ],
+      "confidence": 0.9592810273170471
+    },
+    {
+      "text": "risk of secondhand smoke and",
+      "bbox": [
+        323,
+        651,
+        503,
+        671
+      ],
+      "confidence": 0.9899582862854004
+    },
+    {
+      "text": "As more peopie understand the",
+      "bbox": [
+        332,
+        640,
+        503,
+        659
+      ],
+      "confidence": 0.9830425977706909
+    },
+    {
+      "text": "with alcohol than",
+      "bbox": [
+        147,
+        662,
+        238,
+        679
+      ],
+      "confidence": 0.993563175201416
+    },
+    {
+      "text": "more or less dangerous when taken",
+      "bbox": [
+        149,
+        653,
+        319,
+        666
+      ],
+      "confidence": 0.9787842631340027
+    },
+    {
+      "text": "when",
+      "bbox": [
+        238,
+        667,
+        263,
+        676
+      ],
+      "confidence": 0.9998223781585693
+    },
+    {
+      "text": "taken with",
+      "bbox": [
+        264,
+        665,
+        317,
+        676
+      ],
+      "confidence": 0.9989522695541382
+    },
+    {
+      "text": "more businesses understand the",
+      "bbox": [
+        324,
+        663,
+        503,
+        683
+      ],
+      "confidence": 0.9929813742637634
+    },
+    {
+      "text": "cofee.",
+      "bbox": [
+        146,
+        672,
+        185,
+        691
+      ],
+      "confidence": 0.9005419611930847
+    },
+    {
+      "text": "potential liability, more places wrill",
+      "bbox": [
+        324,
+        675,
+        502,
+        694
+      ],
+      "confidence": 0.9652397632598877
+    },
+    {
+      "text": "a bowling alley which serves alco-",
+      "bbox": [
+        144,
+        697,
+        319,
+        715
+      ],
+      "confidence": 0.972845733165741
+    },
+    {
+      "text": "And what about other places? Is",
+      "bbox": [
+        157,
+        685,
+        318,
+        702
+      ],
+      "confidence": 0.987866997718811
+    },
+    {
+      "text": "become smoke-free.",
+      "bbox": [
+        323,
+        687,
+        427,
+        704
+      ],
+      "confidence": 0.9955975413322449
+    },
+    {
+      "text": "holic beverages a",
+      "bbox": [
+        148,
+        708,
+        240,
+        726
+      ],
+      "confidence": 0.9969870448112488
+    },
+    {
+      "text": "a bar? Would hav-",
+      "bbox": [
+        233,
+        712,
+        319,
+        725
+      ],
+      "confidence": 0.9879549741744995
+    },
+    {
+      "text": "want to eat in places where smok-",
+      "bbox": [
+        322,
+        711,
+        502,
+        729
+      ],
+      "confidence": 0.9934276342391968
+    },
+    {
+      "text": "Those who, for example, do no!",
+      "bbox": [
+        332,
+        698,
+        502,
+        717
+      ],
+      "confidence": 0.9834860563278198
+    },
+    {
+      "text": "ing a smoke with a beer be banned s ing is permitted di even only in no-",
+      "bbox": [
+        148,
+        720,
+        503,
+        740
+      ],
+      "confidence": 0.9783202409744263
+    },
+    {
+      "text": "in the bowling area, but OK in an  srmoking sections",
+      "bbox": [
+        149,
+        732,
+        415,
+        749
+      ],
+      "confidence": 0.9784495830535889
+    },
+    {
+      "text": "can vote with",
+      "bbox": [
+        425,
+        736,
+        502,
+        751
+      ],
+      "confidence": 0.9972977042198181
+    },
+    {
+      "text": "enclosed bar area?",
+      "bbox": [
+        151,
+        745,
+        246,
+        758
+      ],
+      "confidence": 0.9926574230194092
+    },
+    {
+      "text": "We do believe the public has a",
+      "bbox": [
+        158,
+        753,
+        320,
+        772
+      ],
+      "confidence": 0.9876299500465393
+    },
+    {
+      "text": "their dollars.",
+      "bbox": [
+        322,
+        743,
+        391,
+        759
+      ],
+      "confidence": 0.9885548949241638
+    },
+    {
+      "text": "Those who want to smoke and eat",
+      "bbox": [
+        330,
+        755,
+        502,
+        774
+      ],
+      "confidence": 0.9960228204727173
+    },
+    {
+      "text": "right to be protected from second-",
+      "bbox": [
+        150,
+        765,
+        318,
+        782
+      ],
+      "confidence": 0.9978524446487427
+    },
+    {
+      "text": "also will vote with patronage.",
+      "bbox": [
+        321,
+        766,
+        474,
+        785
+      ],
+      "confidence": 0.9966719150543213
+    },
+    {
+      "text": "hand smoke. The federal govern-",
+      "bbox": [
+        150,
+        777,
+        318,
+        794
+      ],
+      "confidence": 0.9727208018302917
+    },
+    {
+      "text": "people for whom even a sniff of",
+      "bbox": [
+        322,
+        787,
+        501,
+        811
+      ],
+      "confidence": 0.9543672800064087
+    },
+    {
+      "text": "The signs also will protect those",
+      "bbox": [
+        329,
+        776,
+        502,
+        800
+      ],
+      "confidence": 0.9702255725860596
+    },
+    {
+      "text": "ment and others warn it can cause",
+      "bbox": [
+        150,
+        788,
+        318,
+        806
+      ],
+      "confidence": 0.9836305379867554
+    },
+    {
+      "text": "cancer.",
+      "bbox": [
+        151,
+        802,
+        190,
+        814
+      ],
+      "confidence": 0.9998434782028198
+    },
+    {
+      "text": "smoke is dangerous. They will",
+      "bbox": [
+        320,
+        798,
+        504,
+        823
+      ],
+      "confidence": 0.9427124261856079
+    },
+    {
+      "text": "Smoking should be banned in all",
+      "bbox": [
+        158,
+        809,
+        319,
+        829
+      ],
+      "confidence": 0.991798460483551
+    },
+    {
+      "text": "know before they enter, what to ex-",
+      "bbox": [
+        321,
+        809,
+        501,
+        835
+      ],
+      "confidence": 0.9582752585411072
+    },
+    {
+      "text": "2023334083",
+      "bbox": [
+        724,
+        814,
+        759,
+        974
+      ],
+      "confidence": 0.9999553561210632
+    },
+    {
+      "text": "publicly-owned buildings and in",
+      "bbox": [
+        150,
+        823,
+        319,
+        839
+      ],
+      "confidence": 0.9932615756988525
+    },
+    {
+      "text": "pect inside.",
+      "bbox": [
+        323,
+        826,
+        383,
+        840
+      ],
+      "confidence": 0.9981423020362854
+    },
+    {
+      "text": "such small, public places as eleva-",
+      "bbox": [
+        149,
+        834,
+        319,
+        851
+      ],
+      "confidence": 0.9823036193847656
+    },
+    {
+      "text": "tors, buses and taxi cabs.",
+      "bbox": [
+        149,
+        845,
+        276,
+        861
+      ],
+      "confidence": 0.987240731716156
+    },
+    {
+      "text": "ing public would be served by the",
+      "bbox": [
+        320,
+        844,
+        501,
+        870
+      ],
+      "confidence": 0.9863134622573853
+    },
+    {
+      "text": "Both the smoking and non-smok-",
+      "bbox": [
+        330,
+        833,
+        502,
+        858
+      ],
+      "confidence": 0.965627908706665
+    },
+    {
+      "text": "Smoking is banned in many",
+      "bbox": [
+        159,
+        855,
+        319,
+        872
+      ],
+      "confidence": 0.9841250777244568
+    },
+    {
+      "text": "signs.",
+      "bbox": [
+        324,
+        861,
+        353,
+        872
+      ],
+      "confidence": 0.997805118560791
+    },
+    {
+      "text": "places which serve the public by",
+      "bbox": [
+        149,
+        866,
+        321,
+        883
+      ],
+      "confidence": 0.9871658682823181
+    },
+    {
+      "text": "\"We believe the signs are all that",
+      "bbox": [
+        321,
+        867,
+        502,
+        891
+      ],
+      "confidence": 0.9865010380744934
+    },
+    {
+      "text": "to be permitted.",
+      "bbox": [
+        148,
+        899,
+        233,
+        914
+      ],
+      "confidence": 0.9992808103561401
+    },
+    {
+      "text": "We suggest that all businesses trance signs still should be re-",
+      "bbox": [
+        158,
+        906,
+        503,
+        940
+      ],
+      "confidence": 0.9563025236129761
+    },
+    {
+      "text": "smoking in some places, the en-",
+      "bbox": [
+        323,
+        902,
+        504,
+        927
+      ],
+      "confidence": 0.9851744771003723
+    },
+    {
+      "text": "serving the public be required to quired.",
+      "bbox": [
+        149,
+        919,
+        362,
+        942
+      ],
+      "confidence": 0.9647789001464844
+    }
+  ],
+  "full_text": "PALLAOIUM-ITEH\nRICHMOND, IN\nDAILY\n20.100\nSATURDAY\nFEB 6 1993\nBURBELLE's\nSmoking ban too much;\nRE\nsigns would be better\nE-4314C\npost signs on their doors if they per-\nBusinesses shouid be required to\nmit smoking. but a proposed city\nWhat do\nban on smoking goes too far.\nyou think?\nThe ordinance sets out to ban\nwith the exception of bars, restao-\nsmoking in most public places.\nrants when used for private func-\nDo you agree with the Palla-\ntions and retall tobacco stores.\ndium-Item's\nides of the\ncity\n: Although well-intentioned, the\nordinance would. be-an enforce-\nsmoking signs\nrequiring\nsmoking\nbusines\nor\nno\nDe you support\nthe ban of\nment nightmare.\nFor example, a bar is defined as\nsmoking in, most\nbusincsses\na place \"used primarily for the sale\nproposed city ordinance?\nexcept bars\nas cutlined in a\nof alcoholic beverages for con-\nOr do you think city councif\nises and in which the saie of food\nsumption by guests on the prem-\nshould leave the issue alone?\nand the provision of entertainment\nPlease send your thoughts\nis merely incidental to the sale of\nto:\nLetters to the editor\nalcobolic beverages.\nPalladium-Item\nthe entertainment is?\nWho would decide how inci\nBex 388, Richmond, IN 47375\nA restaurant\nidentified\nOr fax to 966-6377.\nplace \"having\nfood\navailable for\npayment to\nbe\nconsumed on the\npost one of three signs at the en-\nrance which says:\ncafeterias,\npremises,\nincluding\ncafes, luncheonettes\ncoffeeshops,\n\"Smoking\nprohibited.*\nSmoking\npermitted.\"\nAs far as the danger of smoke is\nThis is clear, but is it fair?\n\"No-emoking section.\nconcerned, what is the difference\nonly from a smoke-tree environ-\nThose who\nwant to breath air\nbetween a small restaurant or col-\nment will stay away from places\nfee shop and a bar? As far as we\nwith either of the last two signs.\nknow\nsecondhand\nsmoke is_no\nrisk of secondhand smoke and\nAs more peopie understand the\nwith alcohol than\nmore or less dangerous when taken\nwhen\ntaken with\nmore businesses understand the\ncofee.\npotential liability, more places wrill\na bowling alley which serves alco-\nAnd what about other places? Is\nbecome smoke-free.\nholic beverages a\na bar? Would hav-\nwant to eat in places where smok-\nThose who, for example, do no!\ning a smoke with a beer be banned s ing is permitted di even only in no-\nin the bowling area, but OK in an  srmoking sections\ncan vote with\nenclosed bar area?\nWe do believe the public has a\ntheir dollars.\nThose who want to smoke and eat\nright to be protected from second-\nalso will vote with patronage.\nhand smoke. The federal govern-\npeople for whom even a sniff of\nThe signs also will protect those\nment and others warn it can cause\ncancer.\nsmoke is dangerous. They will\nSmoking should be banned in all\nknow before they enter, what to ex-\n2023334083\npublicly-owned buildings and in\npect inside.\nsuch small, public places as eleva-\ntors, buses and taxi cabs.\ning public would be served by the\nBoth the smoking and non-smok-\nSmoking is banned in many\nsigns.\nplaces which serve the public by\n\"We believe the signs are all that\nto be permitted.\nWe suggest that all businesses trance signs still should be re-\nsmoking in some places, the en-\nserving the public be required to quired."
+}

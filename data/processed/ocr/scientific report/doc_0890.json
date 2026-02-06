@@ -1,0 +1,541 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0890.png",
+    "image_width": 769,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Dog 5094",
+      "bbox": [
+        648,
+        22,
+        725,
+        49
+      ],
+      "confidence": 0.9803729057312012
+    },
+    {
+      "text": "CLINICAL RECORD",
+      "bbox": [
+        99,
+        29,
+        228,
+        53
+      ],
+      "confidence": 0.9997735619544983
+    },
+    {
+      "text": "NARRATIVE SUMMARY",
+      "bbox": [
+        414,
+        27,
+        581,
+        44
+      ],
+      "confidence": 0.9933454990386963
+    },
+    {
+      "text": "DATC OF OISCHARGE",
+      "bbox": [
+        256,
+        52,
+        368,
+        70
+      ],
+      "confidence": 0.9110676050186157
+    },
+    {
+      "text": "NUMBER OF DAYS HOSIIALIZED",
+      "bbox": [
+        551,
+        46,
+        733,
+        66
+      ],
+      "confidence": 0.9477043151855469
+    },
+    {
+      "text": "DATE OF ADMISSION",
+      "bbox": [
+        71,
+        54,
+        183,
+        72
+      ],
+      "confidence": 0.9771806001663208
+    },
+    {
+      "text": "Page 22",
+      "bbox": [
+        649,
+        58,
+        714,
+        83
+      ],
+      "confidence": 0.9987136721611023
+    },
+    {
+      "text": "(Sign and date at end uf nurrative)",
+      "bbox": [
+        324,
+        91,
+        490,
+        104
+      ],
+      "confidence": 0.9389612674713135
+    },
+    {
+      "text": "intermediate and right diaphragmatic lobes",
+      "bbox": [
+        72,
+        116,
+        411,
+        138
+      ],
+      "confidence": 0.9980190992355347
+    },
+    {
+      "text": "4. Edema and congestion of the lungs",
+      "bbox": [
+        72,
+        148,
+        371,
+        171
+      ],
+      "confidence": 0.9490780234336853
+    },
+    {
+      "text": "5. Acute bronchitis, all lobes of the lungs",
+      "bbox": [
+        72,
+        181,
+        426,
+        206
+      ],
+      "confidence": 0.9817705154418945
+    },
+    {
+      "text": "6. Bronchopneumonia, recent, all lobes of the lungs",
+      "bbox": [
+        72,
+        213,
+        490,
+        238
+      ],
+      "confidence": 0.9835795164108276
+    },
+    {
+      "text": "7. Basal cell hyperplasia, slight to moderate, with sliqht to moderate atypism",
+      "bbox": [
+        73,
+        243,
+        710,
+        268
+      ],
+      "confidence": 0.996164858341217
+    },
+    {
+      "text": "8. Brown pigment and fat granulomata, all lobes of the lung",
+      "bbox": [
+        75,
+        278,
+        551,
+        299
+      ],
+      "confidence": 0.992950439453125
+    },
+    {
+      "text": "9. Fibrous thickening of the pleura, slight, bilateral",
+      "bbox": [
+        76,
+        310,
+        514,
+        331
+      ],
+      "confidence": 0.9726181030273438
+    },
+    {
+      "text": "10. Squamous metaplasia of the trachea and tracheostomy site with slight atypism",
+      "bbox": [
+        77,
+        341,
+        716,
+        364
+      ],
+      "confidence": 0.9951661825180054
+    },
+    {
+      "text": "11. Brown pigmentation and fatty infiltration of the tracheobronchial lymph nodes",
+      "bbox": [
+        76,
+        371,
+        724,
+        397
+      ],
+      "confidence": 0.9897045493125916
+    },
+    {
+      "text": "12. Lymphoid and reticulum cell hyperplasia of the tracheobronchial 1ymph noees",
+      "bbox": [
+        77,
+        403,
+        707,
+        429
+      ],
+      "confidence": 0.9943026900291443
+    },
+    {
+      "text": "13. Coronary arteriolosclerosis, slight",
+      "bbox": [
+        77,
+        437,
+        389,
+        461
+      ],
+      "confidence": 0.9984654188156128
+    },
+    {
+      "text": "14. Fatty infilitration of the myocardium",
+      "bbox": [
+        79,
+        469,
+        397,
+        493
+      ],
+      "confidence": 0.9837626814842224
+    },
+    {
+      "text": "COMMENT",
+      "bbox": [
+        77,
+        502,
+        140,
+        526
+      ],
+      "confidence": 0.9994015693664551
+    },
+    {
+      "text": "This is a dog of the Enviro Control Series. (Code 67-Plo). The dog had smoked for a",
+      "bbox": [
+        79,
+        531,
+        757,
+        555
+      ],
+      "confidence": 0.9820100665092468
+    },
+    {
+      "text": "period of 418 days during which time he had smoked 5,853 ciqarettes. The dog was",
+      "bbox": [
+        79,
+        548,
+        725,
+        571
+      ],
+      "confidence": 0.974448025226593
+    },
+    {
+      "text": "found dead in his cage on October 5, 1978. The interesting findings in this case are",
+      "bbox": [
+        80,
+        563,
+        749,
+        586
+      ],
+      "confidence": 0.9790304899215698
+    },
+    {
+      "text": "those of thrombi of recent origin in the right and left auricular appendages with show",
+      "bbox": [
+        79,
+        578,
+        769,
+        603
+      ],
+      "confidence": 0.9884438514709473
+    },
+    {
+      "text": "of emboli to all lobes of the lungs. Seconday to the emboli, pulmonary infarcts were",
+      "bbox": [
+        79,
+        594,
+        759,
+        619
+      ],
+      "confidence": 0.9850670695304871
+    },
+    {
+      "text": "present in the different lobes of the lung. The other findings which are related to",
+      "bbox": [
+        79,
+        609,
+        752,
+        635
+      ],
+      "confidence": 0.9807177782058716
+    },
+    {
+      "text": "cigarette smoking are those of pulmonary fibrosis and emphysema as well as hasal cell",
+      "bbox": [
+        79,
+        623,
+        760,
+        651
+      ],
+      "confidence": 0.9869306683540344
+    },
+    {
+      "text": "hyperplasia of a slight to moderate degree with slight to moderate atypism. The",
+      "bbox": [
+        80,
+        642,
+        719,
+        666
+      ],
+      "confidence": 0.989340603351593
+    },
+    {
+      "text": "pulmonary infarction was occurred predominately in the dogs which belonged to",
+      "bbox": [
+        80,
+        658,
+        695,
+        681
+      ],
+      "confidence": 0.9831112027168274
+    },
+    {
+      "text": "Code 67. It will be determined whether there are extraor dinary factors to expl ain",
+      "bbox": [
+        79,
+        672,
+        735,
+        699
+      ],
+      "confidence": 0.9516738653182983
+    },
+    {
+      "text": "the preponderance of pulmonary embolism and infarction in this group of dogs.",
+      "bbox": [
+        81,
+        692,
+        694,
+        713
+      ],
+      "confidence": 0.9914088249206543
+    },
+    {
+      "text": "As far as the relationship to cigarette smoking is concerned the changes of pulmonary",
+      "bbox": [
+        80,
+        721,
+        763,
+        747
+      ],
+      "confidence": 0.9966368079185486
+    },
+    {
+      "text": "fibrosis and emphysema and basal cell hyperpl asia are of a slight to moderate degree.",
+      "bbox": [
+        80,
+        737,
+        763,
+        765
+      ],
+      "confidence": 0.9925468564033508
+    },
+    {
+      "text": "(Use additional sheets of this form (Standard Form 502) if more space is required)",
+      "bbox": [
+        175,
+        755,
+        654,
+        776
+      ],
+      "confidence": 0.9785230755805969
+    },
+    {
+      "text": "BIGNATUNE OF PHYSICIAN",
+      "bbox": [
+        85,
+        773,
+        221,
+        786
+      ],
+      "confidence": 0.9762362837791443
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        342,
+        777,
+        373,
+        788
+      ],
+      "confidence": 0.9993094205856323
+    },
+    {
+      "text": "IDENTIFICATION NO.",
+      "bbox": [
+        429,
+        778,
+        537,
+        788
+      ],
+      "confidence": 0.9771878123283386
+    },
+    {
+      "text": "ORGANIZATION",
+      "bbox": [
+        540,
+        778,
+        619,
+        788
+      ],
+      "confidence": 0.9995911121368408
+    },
+    {
+      "text": "PATIENT'S IDENTIFICATION (Fur typed or wriEten entries give:NaGe-Jas., frat.",
+      "bbox": [
+        83,
+        803,
+        465,
+        823
+      ],
+      "confidence": 0.8029661774635315
+    },
+    {
+      "text": "niddie grade; dale:hoapital or medical lacility",
+      "bbox": [
+        158,
+        812,
+        388,
+        830
+      ],
+      "confidence": 0.8086528182029724
+    },
+    {
+      "text": "REGISTER NO.",
+      "bbox": [
+        505,
+        809,
+        578,
+        822
+      ],
+      "confidence": 0.9962470531463623
+    },
+    {
+      "text": "WARD NO.",
+      "bbox": [
+        660,
+        811,
+        715,
+        823
+      ],
+      "confidence": 0.9925417304039001
+    },
+    {
+      "text": "NARRATIVE SUMMARY",
+      "bbox": [
+        640,
+        847,
+        752,
+        862
+      ],
+      "confidence": 0.9816102385520935
+    },
+    {
+      "text": "01396823",
+      "bbox": [
+        509,
+        854,
+        539,
+        952
+      ],
+      "confidence": 0.9998781085014343
+    },
+    {
+      "text": "Stacdard Form 502",
+      "bbox": [
+        642,
+        862,
+        752,
+        877
+      ],
+      "confidence": 0.973127007484436
+    },
+    {
+      "text": "General Servcs Admisustratian-and",
+      "bbox": [
+        576,
+        872,
+        724,
+        888
+      ],
+      "confidence": 0.9442430138587952
+    },
+    {
+      "text": "FPMA 101-11.806-8",
+      "bbox": [
+        575,
+        892,
+        661,
+        906
+      ],
+      "confidence": 0.9115641713142395
+    },
+    {
+      "text": "Interagencr Commattee on Medicat Retords",
+      "bbox": [
+        576,
+        882,
+        751,
+        899
+      ],
+      "confidence": 0.9167096018791199
+    },
+    {
+      "text": "OCTO.1R 1975",
+      "bbox": [
+        574,
+        903,
+        639,
+        916
+      ],
+      "confidence": 0.8638308644294739
+    },
+    {
+      "text": "5c2-111",
+      "bbox": [
+        654,
+        904,
+        692,
+        921
+      ],
+      "confidence": 0.9485974311828613
+    },
+    {
+      "text": "443-1-51045-7",
+      "bbox": [
+        646,
+        920,
+        717,
+        934
+      ],
+      "confidence": 0.7511415481567383
+    },
+    {
+      "text": "CPO",
+      "bbox": [
+        729,
+        925,
+        750,
+        933
+      ],
+      "confidence": 0.8591864705085754
+    }
+  ],
+  "full_text": "Dog 5094\nCLINICAL RECORD\nNARRATIVE SUMMARY\nDATC OF OISCHARGE\nNUMBER OF DAYS HOSIIALIZED\nDATE OF ADMISSION\nPage 22\n(Sign and date at end uf nurrative)\nintermediate and right diaphragmatic lobes\n4. Edema and congestion of the lungs\n5. Acute bronchitis, all lobes of the lungs\n6. Bronchopneumonia, recent, all lobes of the lungs\n7. Basal cell hyperplasia, slight to moderate, with sliqht to moderate atypism\n8. Brown pigment and fat granulomata, all lobes of the lung\n9. Fibrous thickening of the pleura, slight, bilateral\n10. Squamous metaplasia of the trachea and tracheostomy site with slight atypism\n11. Brown pigmentation and fatty infiltration of the tracheobronchial lymph nodes\n12. Lymphoid and reticulum cell hyperplasia of the tracheobronchial 1ymph noees\n13. Coronary arteriolosclerosis, slight\n14. Fatty infilitration of the myocardium\nCOMMENT\nThis is a dog of the Enviro Control Series. (Code 67-Plo). The dog had smoked for a\nperiod of 418 days during which time he had smoked 5,853 ciqarettes. The dog was\nfound dead in his cage on October 5, 1978. The interesting findings in this case are\nthose of thrombi of recent origin in the right and left auricular appendages with show\nof emboli to all lobes of the lungs. Seconday to the emboli, pulmonary infarcts were\npresent in the different lobes of the lung. The other findings which are related to\ncigarette smoking are those of pulmonary fibrosis and emphysema as well as hasal cell\nhyperplasia of a slight to moderate degree with slight to moderate atypism. The\npulmonary infarction was occurred predominately in the dogs which belonged to\nCode 67. It will be determined whether there are extraor dinary factors to expl ain\nthe preponderance of pulmonary embolism and infarction in this group of dogs.\nAs far as the relationship to cigarette smoking is concerned the changes of pulmonary\nfibrosis and emphysema and basal cell hyperpl asia are of a slight to moderate degree.\n(Use additional sheets of this form (Standard Form 502) if more space is required)\nBIGNATUNE OF PHYSICIAN\nDATE\nIDENTIFICATION NO.\nORGANIZATION\nPATIENT'S IDENTIFICATION (Fur typed or wriEten entries give:NaGe-Jas., frat.\nniddie grade; dale:hoapital or medical lacility\nREGISTER NO.\nWARD NO.\nNARRATIVE SUMMARY\n01396823\nStacdard Form 502\nGeneral Servcs Admisustratian-and\nFPMA 101-11.806-8\nInteragencr Commattee on Medicat Retords\nOCTO.1R 1975\n5c2-111\n443-1-51045-7\nCPO"
+}

@@ -1,0 +1,1061 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0916.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "*** Forwarding note from TKOBAYAS--VAU0002A 09/22/97 16:36 ***",
+      "bbox": [
+        61,
+        61,
+        548,
+        84
+      ],
+      "confidence": 0.9734576344490051
+    },
+    {
+      "text": "To: EESCALER--VUSO212A Gembler, \"Andreas",
+      "bbox": [
+        62,
+        81,
+        371,
+        100
+      ],
+      "confidence": 0.9505122900009155
+    },
+    {
+      "text": "DDAVIES --VCH0021A Davies, David",
+      "bbox": [
+        389,
+        97,
+        639,
+        118
+      ],
+      "confidence": 0.9597195386886597
+    },
+    {
+      "text": "cc: DDANGOOR--VUS0212A Dangoor, David",
+      "bbox": [
+        62,
+        99,
+        356,
+        117
+      ],
+      "confidence": 0.9310750961303711
+    },
+    {
+      "text": "EISCOMM --VUS0212A Eis",
+      "bbox": [
+        95,
+        117,
+        272,
+        132
+      ],
+      "confidence": 0.9976139068603516
+    },
+    {
+      "text": "GBIBLE",
+      "bbox": [
+        391,
+        118,
+        442,
+        129
+      ],
+      "confidence": 0.9961843490600586
+    },
+    {
+      "text": "--VUS0212A",
+      "bbox": [
+        452,
+        117,
+        535,
+        130
+      ],
+      "confidence": 0.9994505643844604
+    },
+    {
+      "text": "Bible,Geoffrey",
+      "bbox": [
+        531,
+        116,
+        646,
+        134
+      ],
+      "confidence": 0.9992868304252625
+    },
+    {
+      "text": "HGOLDBER--VAU0002A Goldberg, Henry",
+      "bbox": [
+        96,
+        133,
+        362,
+        149
+      ],
+      "confidence": 0.9792290925979614
+    },
+    {
+      "text": "JKUNZ",
+      "bbox": [
+        390,
+        133,
+        432,
+        147
+      ],
+      "confidence": 0.9997602701187134
+    },
+    {
+      "text": "--VCH0021A",
+      "bbox": [
+        453,
+        133,
+        533,
+        146
+      ],
+      "confidence": 0.9994214773178101
+    },
+    {
+      "text": "Kunz, Jean-Claude",
+      "bbox": [
+        533,
+        133,
+        669,
+        150
+      ],
+      "confidence": 0.9965941309928894
+    },
+    {
+      "text": "LCAMILLE--VUS0212A Camilleri,Louis",
+      "bbox": [
+        97,
+        149,
+        361,
+        166
+      ],
+      "confidence": 0.962293267250061
+    },
+    {
+      "text": "PEUCKERL--PMCUSNY",
+      "bbox": [
+        390,
+        149,
+        524,
+        163
+      ],
+      "confidence": 0.9983843564987183
+    },
+    {
+      "text": "Peuckert, Lauro",
+      "bbox": [
+        535,
+        149,
+        654,
+        166
+      ],
+      "confidence": 0.9962341785430908
+    },
+    {
+      "text": "PHENDRYS--VCH0021A Hendrys, Paul",
+      "bbox": [
+        98,
+        166,
+        347,
+        183
+      ],
+      "confidence": 0.9819695949554443
+    },
+    {
+      "text": "MCVICKER--PMCUSNY",
+      "bbox": [
+        389,
+        164,
+        524,
+        179
+      ],
+      "confidence": 0.9992323517799377
+    },
+    {
+      "text": "McVicker, Robert",
+      "bbox": [
+        535,
+        164,
+        663,
+        183
+      ],
+      "confidence": 0.9949119687080383
+    },
+    {
+      "text": "--VUS0212A Snow, Ray",
+      "bbox": [
+        148,
+        184,
+        317,
+        200
+      ],
+      "confidence": 0.9536484479904175
+    },
+    {
+      "text": "TKEARNS --VUS0212A",
+      "bbox": [
+        389,
+        181,
+        532,
+        197
+      ],
+      "confidence": 0.9912912845611572
+    },
+    {
+      "text": "Kearns, Thomas",
+      "bbox": [
+        535,
+        181,
+        647,
+        198
+      ],
+      "confidence": 0.9949832558631897
+    },
+    {
+      "text": "TLINDON --VUS0212A Lindon,Tim",
+      "bbox": [
+        98,
+        199,
+        325,
+        219
+      ],
+      "confidence": 0.9900228381156921
+    },
+    {
+      "text": "ABAIRD",
+      "bbox": [
+        99,
+        189,
+        150,
+        200
+      ],
+      "confidence": 0.9995039105415344
+    },
+    {
+      "text": "DSTARK",
+      "bbox": [
+        390,
+        200,
+        441,
+        214
+      ],
+      "confidence": 0.9999534487724304
+    },
+    {
+      "text": "--VUS0212A",
+      "bbox": [
+        452,
+        200,
+        533,
+        213
+      ],
+      "confidence": 0.9988721609115601
+    },
+    {
+      "text": "Webb, William H.",
+      "bbox": [
+        535,
+        200,
+        661,
+        214
+      ],
+      "confidence": 0.9722336530685425
+    },
+    {
+      "text": "DCUMMING--VUS0212A Cummings, Don",
+      "bbox": [
+        98,
+        215,
+        348,
+        235
+      ],
+      "confidence": 0.9803847074508667
+    },
+    {
+      "text": "DDEVITRE--VUS0212A",
+      "bbox": [
+        389,
+        215,
+        533,
+        230
+      ],
+      "confidence": 0.9990351796150208
+    },
+    {
+      "text": "DEVITRE,DINYAR",
+      "bbox": [
+        536,
+        217,
+        647,
+        230
+      ],
+      "confidence": 0.9996413588523865
+    },
+    {
+      "text": "JMUNRO2 --VUS0212A MunrO, Juan",
+      "bbox": [
+        98,
+        233,
+        333,
+        252
+      ],
+      "confidence": 0.9853277206420898
+    },
+    {
+      "text": "MGOLDBER--VUS0212A",
+      "bbox": [
+        390,
+        233,
+        533,
+        247
+      ],
+      "confidence": 0.9933712482452393
+    },
+    {
+      "text": "Goldberg,Marc",
+      "bbox": [
+        536,
+        234,
+        639,
+        248
+      ],
+      "confidence": 0.9921633005142212
+    },
+    {
+      "text": "PBARNES --VAUO002A Peter Barnes",
+      "bbox": [
+        100,
+        251,
+        339,
+        267
+      ],
+      "confidence": 0.9337081909179688
+    },
+    {
+      "text": "PSCHREER--VUS0212A",
+      "bbox": [
+        390,
+        249,
+        534,
+        264
+      ],
+      "confidence": 0.9985833764076233
+    },
+    {
+      "text": "Schreer, Peter",
+      "bbox": [
+        533,
+        250,
+        647,
+        265
+      ],
+      "confidence": 0.9992770552635193
+    },
+    {
+      "text": "SPARRISH--VUS0212A Parrish,Steven",
+      "bbox": [
+        101,
+        267,
+        354,
+        283
+      ],
+      "confidence": 0.9756463766098022
+    },
+    {
+      "text": "From: TKOBAYAS",
+      "bbox": [
+        70,
+        302,
+        183,
+        318
+      ],
+      "confidence": 0.9556475281715393
+    },
+    {
+      "text": "Subject: JAPAN WEEKLY HIGHLIGHTS - W/E SEPTEMBER 17, 1997",
+      "bbox": [
+        70,
+        315,
+        510,
+        335
+      ],
+      "confidence": 0.9889509081840515
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        71,
+        352,
+        99,
+        367
+      ],
+      "confidence": 0.9696604609489441
+    },
+    {
+      "text": "A. Gembler",
+      "bbox": [
+        126,
+        353,
+        206,
+        367
+      ],
+      "confidence": 0.9990922212600708
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        72,
+        384,
+        118,
+        401
+      ],
+      "confidence": 0.997698187828064
+    },
+    {
+      "text": "J. A. Scully",
+      "bbox": [
+        121,
+        387,
+        222,
+        401
+      ],
+      "confidence": 0.9788073897361755
+    },
+    {
+      "text": "Re:",
+      "bbox": [
+        72,
+        416,
+        103,
+        435
+      ],
+      "confidence": 0.998903214931488
+    },
+    {
+      "text": "Japan Weekly Highlights - W/E September 17, 1997",
+      "bbox": [
+        128,
+        415,
+        495,
+        435
+      ],
+      "confidence": 0.987743079662323
+    },
+    {
+      "text": "In-market sales (units in millions):",
+      "bbox": [
+        76,
+        465,
+        350,
+        485
+      ],
+      "confidence": 0.9876013994216919
+    },
+    {
+      "text": "MTD",
+      "bbox": [
+        195,
+        499,
+        226,
+        515
+      ],
+      "confidence": 0.999247133731842
+    },
+    {
+      "text": "Proj.",
+      "bbox": [
+        266,
+        499,
+        306,
+        514
+      ],
+      "confidence": 0.9982474446296692
+    },
+    {
+      "text": "97 2RF",
+      "bbox": [
+        325,
+        498,
+        375,
+        514
+      ],
+      "confidence": 0.9522637724876404
+    },
+    {
+      "text": "% Chg.",
+      "bbox": [
+        392,
+        497,
+        448,
+        514
+      ],
+      "confidence": 0.9415464997291565
+    },
+    {
+      "text": "NetEffct",
+      "bbox": [
+        448,
+        496,
+        520,
+        512
+      ],
+      "confidence": 0.9982403516769409
+    },
+    {
+      "text": "Adjt'd",
+      "bbox": [
+        527,
+        494,
+        578,
+        510
+      ],
+      "confidence": 0.9240140914916992
+    },
+    {
+      "text": "Sep.17",
+      "bbox": [
+        188,
+        513,
+        241,
+        534
+      ],
+      "confidence": 0.9994776844978333
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        266,
+        514,
+        307,
+        529
+      ],
+      "confidence": 0.9993644952774048
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        333,
+        514,
+        375,
+        529
+      ],
+      "confidence": 0.999925971031189
+    },
+    {
+      "text": "Prj.vs.",
+      "bbox": [
+        391,
+        511,
+        451,
+        531
+      ],
+      "confidence": 0.9298559427261353
+    },
+    {
+      "text": "Dir.Prch.",
+      "bbox": [
+        449,
+        510,
+        525,
+        530
+      ],
+      "confidence": 0.948309600353241
+    },
+    {
+      "text": "8 Chg",
+      "bbox": [
+        536,
+        511,
+        579,
+        526
+      ],
+      "confidence": 0.9489607810974121
+    },
+    {
+      "text": "Sales*",
+      "bbox": [
+        190,
+        531,
+        241,
+        547
+      ],
+      "confidence": 0.9998564124107361
+    },
+    {
+      "text": "Sep. **",
+      "bbox": [
+        256,
+        528,
+        308,
+        548
+      ],
+      "confidence": 0.9907154440879822
+    },
+    {
+      "text": "Sep.**",
+      "bbox": [
+        324,
+        528,
+        376,
+        548
+      ],
+      "confidence": 0.9993382096290588
+    },
+    {
+      "text": "Sep.96",
+      "bbox": [
+        390,
+        527,
+        444,
+        548
+      ],
+      "confidence": 0.99864262342453
+    },
+    {
+      "text": "Fav/(Unf)",
+      "bbox": [
+        450,
+        526,
+        526,
+        547
+      ],
+      "confidence": 0.9826571345329285
+    },
+    {
+      "text": "VS. LY",
+      "bbox": [
+        524,
+        524,
+        580,
+        544
+      ],
+      "confidence": 0.8829321265220642
+    },
+    {
+      "text": "Lark",
+      "bbox": [
+        74,
+        562,
+        112,
+        581
+      ],
+      "confidence": 0.9942207932472229
+    },
+    {
+      "text": "628",
+      "bbox": [
+        213,
+        560,
+        242,
+        577
+      ],
+      "confidence": 0.9999618530273438
+    },
+    {
+      "text": "1,076",
+      "bbox": [
+        265,
+        559,
+        309,
+        578
+      ],
+      "confidence": 0.9992181062698364
+    },
+    {
+      "text": "1,176",
+      "bbox": [
+        333,
+        559,
+        376,
+        578
+      ],
+      "confidence": 0.9998359680175781
+    },
+    {
+      "text": "(4.4)|",
+      "bbox": [
+        407,
+        557,
+        457,
+        578
+      ],
+      "confidence": 0.9208125472068787
+    },
+    {
+      "text": "23",
+      "bbox": [
+        482,
+        558,
+        504,
+        576
+      ],
+      "confidence": 0.999951183795929
+    },
+    {
+      "text": "(12.0)",
+      "bbox": [
+        537,
+        554,
+        586,
+        576
+      ],
+      "confidence": 0.9975832104682922
+    },
+    {
+      "text": "Parliament",
+      "bbox": [
+        73,
+        576,
+        156,
+        596
+      ],
+      "confidence": 0.9985233545303345
+    },
+    {
+      "text": "453",
+      "bbox": [
+        213,
+        577,
+        241,
+        593
+      ],
+      "confidence": 0.9999418258666992
+    },
+    {
+      "text": "766",
+      "bbox": [
+        281,
+        577,
+        310,
+        593
+      ],
+      "confidence": 0.9996483325958252
+    },
+    {
+      "text": "842",
+      "bbox": [
+        349,
+        577,
+        376,
+        593
+      ],
+      "confidence": 0.9999553561210632
+    },
+    {
+      "text": "5.4",
+      "bbox": [
+        414,
+        576,
+        444,
+        592
+      ],
+      "confidence": 0.9996592402458191
+    },
+    {
+      "text": "30",
+      "bbox": [
+        482,
+        575,
+        505,
+        592
+      ],
+      "confidence": 0.9998857975006104
+    },
+    {
+      "text": "(4.9)",
+      "bbox": [
+        545,
+        570,
+        586,
+        591
+      ],
+      "confidence": 0.9948744773864746
+    },
+    {
+      "text": "1,015",
+      "bbox": [
+        265,
+        592,
+        309,
+        610
+      ],
+      "confidence": 0.999112606048584
+    },
+    {
+      "text": "(7)",
+      "bbox": [
+        484,
+        591,
+        511,
+        609
+      ],
+      "confidence": 0.986297607421875
+    },
+    {
+      "text": "4.9",
+      "bbox": [
+        552,
+        589,
+        579,
+        605
+      ],
+      "confidence": 0.9995858073234558
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        74,
+        594,
+        179,
+        613
+      ],
+      "confidence": 0.9994716048240662
+    },
+    {
+      "text": "582",
+      "bbox": [
+        213,
+        594,
+        241,
+        610
+      ],
+      "confidence": 0.9999315142631531
+    },
+    {
+      "text": "1,096",
+      "bbox": [
+        334,
+        593,
+        376,
+        608
+      ],
+      "confidence": 0.997294545173645
+    },
+    {
+      "text": "10.5",
+      "bbox": [
+        407,
+        593,
+        444,
+        608
+      ],
+      "confidence": 0.9998633861541748
+    },
+    {
+      "text": "(10)",
+      "bbox": [
+        475,
+        604,
+        511,
+        626
+      ],
+      "confidence": 0.9410251379013062
+    },
+    {
+      "text": "3.4",
+      "bbox": [
+        552,
+        605,
+        579,
+        621
+      ],
+      "confidence": 0.9996604919433594
+    },
+    {
+      "text": "Next",
+      "bbox": [
+        74,
+        614,
+        110,
+        628
+      ],
+      "confidence": 0.9995520114898682
+    },
+    {
+      "text": "178",
+      "bbox": [
+        212,
+        610,
+        241,
+        626
+      ],
+      "confidence": 0.9996845126152039
+    },
+    {
+      "text": "305",
+      "bbox": [
+        281,
+        609,
+        311,
+        625
+      ],
+      "confidence": 0.9999558329582214
+    },
+    {
+      "text": "314",
+      "bbox": [
+        348,
+        609,
+        376,
+        625
+      ],
+      "confidence": 0.9999591708183289
+    },
+    {
+      "text": "7.0",
+      "bbox": [
+        414,
+        608,
+        445,
+        624
+      ],
+      "confidence": 0.9996085166931152
+    },
+    {
+      "text": "11.9",
+      "bbox": [
+        543,
+        620,
+        580,
+        638
+      ],
+      "confidence": 0.999938428401947
+    },
+    {
+      "text": "Virginia Slims",
+      "bbox": [
+        72,
+        628,
+        186,
+        646
+      ],
+      "confidence": 0.9886946678161621
+    },
+    {
+      "text": "248",
+      "bbox": [
+        212,
+        627,
+        241,
+        643
+      ],
+      "confidence": 0.9998500943183899
+    },
+    {
+      "text": "429",
+      "bbox": [
+        281,
+        626,
+        309,
+        642
+      ],
+      "confidence": 0.9998149275779724
+    },
+    {
+      "text": "491",
+      "bbox": [
+        349,
+        625,
+        376,
+        641
+      ],
+      "confidence": 0.9998650550842285
+    },
+    {
+      "text": "8.6",
+      "bbox": [
+        415,
+        625,
+        446,
+        640
+      ],
+      "confidence": 0.9991216659545898
+    },
+    {
+      "text": "(37)",
+      "bbox": [
+        476,
+        623,
+        511,
+        641
+      ],
+      "confidence": 0.9989273548126221
+    },
+    {
+      "text": "(27.4)",
+      "bbox": [
+        538,
+        635,
+        586,
+        655
+      ],
+      "confidence": 0.9729022979736328
+    },
+    {
+      "text": "Merit",
+      "bbox": [
+        71,
+        643,
+        118,
+        664
+      ],
+      "confidence": 0.9996234178543091
+    },
+    {
+      "text": "72",
+      "bbox": [
+        219,
+        644,
+        241,
+        660
+      ],
+      "confidence": 0.9999639987945557
+    },
+    {
+      "text": "123",
+      "bbox": [
+        281,
+        643,
+        309,
+        658
+      ],
+      "confidence": 0.9756660461425781
+    },
+    {
+      "text": "108",
+      "bbox": [
+        347,
+        642,
+        376,
+        657
+      ],
+      "confidence": 0.9999334216117859
+    },
+    {
+      "text": "(22.0)|",
+      "bbox": [
+        403,
+        640,
+        457,
+        657
+      ],
+      "confidence": 0.9065336585044861
+    },
+    {
+      "text": "-",
+      "bbox": [
+        492,
+        644,
+        503,
+        654
+      ],
+      "confidence": 0.8841463327407837
+    }
+  ],
+  "full_text": "*** Forwarding note from TKOBAYAS--VAU0002A 09/22/97 16:36 ***\nTo: EESCALER--VUSO212A Gembler, \"Andreas\nDDAVIES --VCH0021A Davies, David\ncc: DDANGOOR--VUS0212A Dangoor, David\nEISCOMM --VUS0212A Eis\nGBIBLE\n--VUS0212A\nBible,Geoffrey\nHGOLDBER--VAU0002A Goldberg, Henry\nJKUNZ\n--VCH0021A\nKunz, Jean-Claude\nLCAMILLE--VUS0212A Camilleri,Louis\nPEUCKERL--PMCUSNY\nPeuckert, Lauro\nPHENDRYS--VCH0021A Hendrys, Paul\nMCVICKER--PMCUSNY\nMcVicker, Robert\n--VUS0212A Snow, Ray\nTKEARNS --VUS0212A\nKearns, Thomas\nTLINDON --VUS0212A Lindon,Tim\nABAIRD\nDSTARK\n--VUS0212A\nWebb, William H.\nDCUMMING--VUS0212A Cummings, Don\nDDEVITRE--VUS0212A\nDEVITRE,DINYAR\nJMUNRO2 --VUS0212A MunrO, Juan\nMGOLDBER--VUS0212A\nGoldberg,Marc\nPBARNES --VAUO002A Peter Barnes\nPSCHREER--VUS0212A\nSchreer, Peter\nSPARRISH--VUS0212A Parrish,Steven\nFrom: TKOBAYAS\nSubject: JAPAN WEEKLY HIGHLIGHTS - W/E SEPTEMBER 17, 1997\nTo:\nA. Gembler\nFrom:\nJ. A. Scully\nRe:\nJapan Weekly Highlights - W/E September 17, 1997\nIn-market sales (units in millions):\nMTD\nProj.\n97 2RF\n% Chg.\nNetEffct\nAdjt'd\nSep.17\nSales\nSales\nPrj.vs.\nDir.Prch.\n8 Chg\nSales*\nSep. **\nSep.**\nSep.96\nFav/(Unf)\nVS. LY\nLark\n628\n1,076\n1,176\n(4.4)|\n23\n(12.0)\nParliament\n453\n766\n842\n5.4\n30\n(4.9)\n1,015\n(7)\n4.9\nPhilip Morris\n582\n1,096\n10.5\n(10)\n3.4\nNext\n178\n305\n314\n7.0\n11.9\nVirginia Slims\n248\n429\n491\n8.6\n(37)\n(27.4)\nMerit\n72\n123\n108\n(22.0)|\n-"
+}

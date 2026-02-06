@@ -1,0 +1,1761 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0665.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "GUARDLAN",
+      "bbox": [
+        187,
+        162,
+        250,
+        180
+      ],
+      "confidence": 0.9716882705688477
+    },
+    {
+      "text": "Great Britain",
+      "bbox": [
+        187,
+        175,
+        284,
+        194
+      ],
+      "confidence": 0.9896388649940491
+    },
+    {
+      "text": "1005150848",
+      "bbox": [
+        99,
+        198,
+        157,
+        385
+      ],
+      "confidence": 0.9932010769844055
+    },
+    {
+      "text": "May 30, 1964",
+      "bbox": [
+        185,
+        188,
+        276,
+        208
+      ],
+      "confidence": 0.9820831418037415
+    },
+    {
+      "text": "15-a-day",
+      "bbox": [
+        185,
+        212,
+        296,
+        250
+      ],
+      "confidence": 0.9999417066574097
+    },
+    {
+      "text": "Great Britain",
+      "bbox": [
+        461,
+        217,
+        556,
+        230
+      ],
+      "confidence": 0.9992169737815857
+    },
+    {
+      "text": "TIMES",
+      "bbox": [
+        462,
+        206,
+        500,
+        217
+      ],
+      "confidence": 0.9997509121894836
+    },
+    {
+      "text": "May 30, 1964",
+      "bbox": [
+        460,
+        227,
+        549,
+        244
+      ],
+      "confidence": 0.989646852016449
+    },
+    {
+      "text": "does not",
+      "bbox": [
+        180,
+        245,
+        306,
+        279
+      ],
+      "confidence": 0.9977685213088989
+    },
+    {
+      "text": "give cancer",
+      "bbox": [
+        185,
+        277,
+        337,
+        312
+      ],
+      "confidence": 0.9939467906951904
+    },
+    {
+      "text": "AIR POLLUTION",
+      "bbox": [
+        465,
+        272,
+        636,
+        292
+      ],
+      "confidence": 0.9618739485740662
+    },
+    {
+      "text": "WORSE THAN",
+      "bbox": [
+        476,
+        291,
+        624,
+        315
+      ],
+      "confidence": 0.9869157075881958
+    },
+    {
+      "text": "By our own Reporter",
+      "bbox": [
+        205,
+        316,
+        321,
+        333
+      ],
+      "confidence": 0.9974278807640076
+    },
+    {
+      "text": "SMOXING",
+      "bbox": [
+        500,
+        316,
+        597,
+        334
+      ],
+      "confidence": 0.983971893787384
+    },
+    {
+      "text": "People who smoke 10 to 15",
+      "bbox": [
+        192,
+        331,
+        342,
+        348
+      ],
+      "confidence": 0.9898106455802917
+    },
+    {
+      "text": "elgarettes a day are no more",
+      "bbox": [
+        182,
+        340,
+        341,
+        357
+      ],
+      "confidence": 0.8981820344924927
+    },
+    {
+      "text": "likely to get lung canrer than",
+      "bbox": [
+        182,
+        350,
+        340,
+        365
+      ],
+      "confidence": 0.9629830718040466
+    },
+    {
+      "text": "those who do not smoke at all.",
+      "bbox": [
+        181,
+        359,
+        340,
+        374
+      ],
+      "confidence": 0.9772394299507141
+    },
+    {
+      "text": "CANCER EXPFRT'S",
+      "bbox": [
+        472,
+        353,
+        624,
+        370
+      ],
+      "confidence": 0.9707338809967041
+    },
+    {
+      "text": "said Sir Cecdl Wakeley. chair-",
+      "bbox": [
+        181,
+        368,
+        340,
+        383
+      ],
+      "confidence": 0.866052508354187
+    },
+    {
+      "text": "OPINION",
+      "bbox": [
+        512,
+        370,
+        583,
+        384
+      ],
+      "confidence": 0.9921122789382935
+    },
+    {
+      "text": "Imperial",
+      "bbox": [
+        182,
+        387,
+        231,
+        400
+      ],
+      "confidence": 0.9984177947044373
+    },
+    {
+      "text": "Fund, in London yesterday.",
+      "bbox": [
+        182,
+        395,
+        329,
+        411
+      ],
+      "confidence": 0.9683203101158142
+    },
+    {
+      "text": "Cancer",
+      "bbox": [
+        243,
+        389,
+        281,
+        399
+      ],
+      "confidence": 0.9998341202735901
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        291,
+        388,
+        339,
+        401
+      ],
+      "confidence": 0.9984475374221802
+    },
+    {
+      "text": "more werlous buunes than wmoking at",
+      "bbox": [
+        452,
+        393,
+        643,
+        409
+      ],
+      "confidence": 0.7435638308525085
+    },
+    {
+      "text": "Almosphern poilution: s a much",
+      "bbox": [
+        464,
+        384,
+        642,
+        400
+      ],
+      "confidence": 0.8877119421958923
+    },
+    {
+      "text": "Cancer, he said, developed in",
+      "bbox": [
+        191,
+        405,
+        340,
+        421
+      ],
+      "confidence": 0.9354345798492432
+    },
+    {
+      "text": "Wakeley. chamn of the couscil of the",
+      "bbox": [
+        452,
+        410,
+        642,
+        429
+      ],
+      "confidence": 0.7844896912574768
+    },
+    {
+      "text": "far as lung cancer ivconcerned. Sir Cecil",
+      "bbox": [
+        454,
+        403,
+        642,
+        418
+      ],
+      "confidence": 0.9385231733322144
+    },
+    {
+      "text": "such snjury a person would have",
+      "bbox": [
+        180,
+        423,
+        339,
+        436
+      ],
+      "confidence": 0.9539602398872375
+    },
+    {
+      "text": "Injuired lung tissue, and to cause",
+      "bbox": [
+        181,
+        415,
+        339,
+        428
+      ],
+      "confidence": 0.9188593029975891
+    },
+    {
+      "text": "Imperial Cancu.",
+      "bbox": [
+        453,
+        420,
+        533,
+        434
+      ],
+      "confidence": 0.8844106793403625
+    },
+    {
+      "text": "..search Fund. wid",
+      "bbox": [
+        538,
+        423,
+        641,
+        437
+      ],
+      "confidence": 0.8922293186187744
+    },
+    {
+      "text": "to smoke excessively-more than",
+      "bbox": [
+        180,
+        431,
+        340,
+        444
+      ],
+      "confidence": 0.920223593711853
+    },
+    {
+      "text": "20 a day.",
+      "bbox": [
+        181,
+        441,
+        242,
+        451
+      ],
+      "confidence": 0.9708616733551025
+    },
+    {
+      "text": "The biggest singie",
+      "bbox": [
+        242,
+        439,
+        337,
+        453
+      ],
+      "confidence": 0.9214598536491394
+    },
+    {
+      "text": "yeverday.",
+      "bbox": [
+        452,
+        429,
+        501,
+        443
+      ],
+      "confidence": 0.9694716930389404
+    },
+    {
+      "text": "He was",
+      "bbox": [
+        463,
+        440,
+        505,
+        450
+      ],
+      "confidence": 0.9891472458839417
+    },
+    {
+      "text": "meeting at",
+      "bbox": [
+        581,
+        441,
+        640,
+        455
+      ],
+      "confidence": 0.9901705980300903
+    },
+    {
+      "text": "Cause of lung cancer was the",
+      "bbox": [
+        180,
+        447,
+        338,
+        461
+      ],
+      "confidence": 0.9166467785835266
+    },
+    {
+      "text": "appeal to be hcld ic. I ondon from june",
+      "bbox": [
+        450,
+        455,
+        641,
+        474
+      ],
+      "confidence": 0.9476507902145386
+    },
+    {
+      "text": "which plans for their \"cancer week",
+      "bbox": [
+        452,
+        445,
+        632,
+        464
+      ],
+      "confidence": 0.9500338435173035
+    },
+    {
+      "text": "speat-..",
+      "bbox": [
+        508,
+        443,
+        547,
+        450
+      ],
+      "confidence": 0.889350414276123
+    },
+    {
+      "text": "pollution of the air by diesel",
+      "bbox": [
+        181,
+        458,
+        340,
+        468
+      ],
+      "confidence": 0.9481627345085144
+    },
+    {
+      "text": "exhausts and sulg-hurous fumes.",
+      "bbox": [
+        181,
+        466,
+        337,
+        476
+      ],
+      "confidence": 0.9683858156204224
+    },
+    {
+      "text": "10 to 16 were annc. \"ced.",
+      "bbox": [
+        452,
+        465,
+        577,
+        480
+      ],
+      "confidence": 0.9029614925384521
+    },
+    {
+      "text": "virus divisson of e fund. said",
+      "bbox": [
+        180,
+        481,
+        337,
+        493
+      ],
+      "confidence": 0.8496313691139221
+    },
+    {
+      "text": "Dr R. J. Harris head of the",
+      "bbox": [
+        190,
+        475,
+        335,
+        485
+      ],
+      "confidence": 0.9683329463005066
+    },
+    {
+      "text": "£750,000 a_year.",
+      "bbox": [
+        450,
+        481,
+        533,
+        499
+      ],
+      "confidence": 0.9094583988189697
+    },
+    {
+      "text": "Cos of revearen. is estirnated at",
+      "bbox": [
+        459,
+        473,
+        640,
+        492
+      ],
+      "confidence": 0.9125477075576782
+    },
+    {
+      "text": " furd hupes.10",
+      "bbox": [
+        553,
+        487,
+        641,
+        500
+      ],
+      "confidence": 0.8697403073310852
+    },
+    {
+      "text": "that aithough it was trur that if",
+      "bbox": [
+        180,
+        490,
+        337,
+        500
+      ],
+      "confidence": 0.9463696479797363
+    },
+    {
+      "text": "people _gave up smoking",
+      "bbox": [
+        180,
+        498,
+        307,
+        508
+      ],
+      "confidence": 0.9554576873779297
+    },
+    {
+      "text": "cigar",
+      "bbox": [
+        305,
+        500,
+        335,
+        507
+      ],
+      "confidence": 0.8161819577217102
+    },
+    {
+      "text": "rais £40.000 ",
+      "bbox": [
+        449,
+        491,
+        533,
+        506
+      ],
+      "confidence": 0.7661476135253906
+    },
+    {
+      "text": "Sir Cecil Wake.",
+      "bbox": [
+        458,
+        501,
+        541,
+        518
+      ],
+      "confidence": 0.9395157694816589
+    },
+    {
+      "text": "by the appeal",
+      "bbox": [
+        553,
+        496,
+        640,
+        509
+      ],
+      "confidence": 0.9052280783653259
+    },
+    {
+      "text": "would dissppear. it could not be",
+      "bbox": [
+        179,
+        514,
+        336,
+        524
+      ],
+      "confidence": 0.9505597352981567
+    },
+    {
+      "text": "ettes 85 per cent of luny cancer",
+      "bbox": [
+        180,
+        506,
+        336,
+        516
+      ],
+      "confidence": 0.9713411331176758
+    },
+    {
+      "text": "ditt.cullies was shat",
+      "bbox": [
+        449,
+        511,
+        545,
+        526
+      ],
+      "confidence": 0.8768071532249451
+    },
+    {
+      "text": "alike many oher",
+      "bbox": [
+        548,
+        515,
+        638,
+        528
+      ],
+      "confidence": 0.9355625510215759
+    },
+    {
+      "text": "aid one of the",
+      "bbox": [
+        554,
+        506,
+        637,
+        519
+      ],
+      "confidence": 0.9555202126502991
+    },
+    {
+      "text": "said in any particular case that",
+      "bbox": [
+        177,
+        520,
+        336,
+        532
+      ],
+      "confidence": 0.9275121688842773
+    },
+    {
+      "text": "smoking alone was the rause of",
+      "bbox": [
+        178,
+        529,
+        336,
+        539
+      ],
+      "confidence": 0.9708302021026611
+    },
+    {
+      "text": "many different thing.",
+      "bbox": [
+        448,
+        529,
+        550,
+        544
+      ],
+      "confidence": 0.963119387626648
+    },
+    {
+      "text": "dive_ws, canver c",
+      "bbox": [
+        448,
+        520,
+        548,
+        535
+      ],
+      "confidence": 0.7228406071662903
+    },
+    {
+      "text": "be cxuved by",
+      "bbox": [
+        549,
+        524,
+        637,
+        537
+      ],
+      "confidence": 0.8541479110717773
+    },
+    {
+      "text": "tors.",
+      "bbox": [
+        178,
+        544,
+        206,
+        551
+      ],
+      "confidence": 0.9072961807250977
+    },
+    {
+      "text": "discase.",
+      "bbox": [
+        179,
+        537,
+        217,
+        544
+      ],
+      "confidence": 0.9856756925582886
+    },
+    {
+      "text": "It dodt mot seer possible",
+      "bbox": [
+        206,
+        542,
+        335,
+        555
+      ],
+      "confidence": 0.9093763828277588
+    },
+    {
+      "text": "There were othcr fac",
+      "bbox": [
+        223,
+        535,
+        335,
+        547
+      ],
+      "confidence": 0.9274932146072388
+    },
+    {
+      "text": "fseet \" diseave. Tak.  his pipe out of",
+      "bbox": [
+        447,
+        537,
+        639,
+        557
+      ],
+      "confidence": 0.7855766415596008
+    },
+    {
+      "text": "nis mouth. he said",
+      "bbox": [
+        448,
+        547,
+        549,
+        561
+      ],
+      "confidence": 0.9146592617034912
+    },
+    {
+      "text": "It Was  \" muito-",
+      "bbox": [
+        557,
+        533,
+        637,
+        546
+      ],
+      "confidence": 0.7729899883270264
+    },
+    {
+      "text": "to persuade people not to smoke",
+      "bbox": [
+        176,
+        549,
+        335,
+        563
+      ],
+      "confidence": 0.9700976610183716
+    },
+    {
+      "text": "clgarestes-but the problein",
+      "bbox": [
+        176,
+        557,
+        320,
+        570
+      ],
+      "confidence": 0.7935172915458679
+    },
+    {
+      "text": "of",
+      "bbox": [
+        319,
+        561,
+        334,
+        569
+      ],
+      "confidence": 0.9983079433441162
+    },
+    {
+      "text": "wculd injure Iung i.",
+      "bbox": [
+        448,
+        555,
+        545,
+        570
+      ],
+      "confidence": 0.8608257174491882
+    },
+    {
+      "text": "cewi smoking",
+      "bbox": [
+        545,
+        549,
+        637,
+        566
+      ],
+      "confidence": 0.7797344326972961
+    },
+    {
+      "text": "ab..",
+      "bbox": [
+        555,
+        560,
+        593,
+        571
+      ],
+      "confidence": 0.6709094643592834
+    },
+    {
+      "text": "-Smnok-",
+      "bbox": [
+        593,
+        559,
+        636,
+        573
+      ],
+      "confidence": 0.8010973930358887
+    },
+    {
+      "text": "air pollutinn cauid be tackied..",
+      "bbox": [
+        178,
+        567,
+        326,
+        577
+      ],
+      "confidence": 0.939628005027771
+    },
+    {
+      "text": "Sir Cecal and Dr Harris were",
+      "bbox": [
+        186,
+        574,
+        334,
+        587
+      ],
+      "confidence": 0.9551830887794495
+    },
+    {
+      "text": "Sikely to give ys i catue: th. if you did",
+      "bbox": [
+        446,
+        571,
+        637,
+        591
+      ],
+      "confidence": 0.7747732996940613
+    },
+    {
+      "text": ".n2101o 15cigred",
+      "bbox": [
+        447,
+        563,
+        554,
+        579
+      ],
+      "confidence": 0.7170565724372864
+    },
+    {
+      "text": "das. ·no more",
+      "bbox": [
+        560,
+        568,
+        635,
+        581
+      ],
+      "confidence": 0.8667546510696411
+    },
+    {
+      "text": "fund's researeh centre in Lin-",
+      "bbox": [
+        176,
+        590,
+        334,
+        602
+      ],
+      "confidence": 0.9078512787818909
+    },
+    {
+      "text": "speaking at a",
+      "bbox": [
+        178,
+        583,
+        253,
+        593
+      ],
+      "confidence": 0.9852339625358582
+    },
+    {
+      "text": "m.zeting in the",
+      "bbox": [
+        254,
+        584,
+        334,
+        594
+      ],
+      "confidence": 0.9475224614143372
+    },
+    {
+      "text": "not moke at al",
+      "bbox": [
+        446,
+        582,
+        529,
+        595
+      ],
+      "confidence": 0.9105237722396851
+    },
+    {
+      "text": "tion. he wgsest.i",
+      "bbox": [
+        446,
+        590,
+        536,
+        605
+      ],
+      "confidence": 0.7998604774475098
+    },
+    {
+      "text": ". w pollu-",
+      "bbox": [
+        584,
+        587,
+        634,
+        597
+      ],
+      "confidence": 0.9349619150161743
+    },
+    {
+      "text": "cein's Enn Fielits so announce the",
+      "bbox": [
+        176,
+        598,
+        333,
+        610
+      ],
+      "confidence": 0.9082604646682739
+    },
+    {
+      "text": "Cancer Week\"",
+      "bbox": [
+        183,
+        605,
+        257,
+        617
+      ],
+      "confidence": 0.9874163269996643
+    },
+    {
+      "text": "serious busines",
+      "bbox": [
+        445,
+        600,
+        523,
+        612
+      ],
+      "confidence": 0.8901134729385376
+    },
+    {
+      "text": ".h more",
+      "bbox": [
+        591,
+        596,
+        635,
+        606
+      ],
+      "confidence": 0.8475880026817322
+    },
+    {
+      "text": "to be heid from June 10 u i6",
+      "bbox": [
+        176,
+        613,
+        332,
+        626
+      ],
+      "confidence": 0.9052419066429138
+    },
+    {
+      "text": "The centre. which was completec",
+      "bbox": [
+        180,
+        621,
+        333,
+        634
+      ],
+      "confidence": 0.9427231550216675
+    },
+    {
+      "text": "appeal wharh is",
+      "bbox": [
+        255,
+        608,
+        333,
+        618
+      ],
+      "confidence": 0.9465186595916748
+    },
+    {
+      "text": "NO SINGLL CAUSE",
+      "bbox": [
+        473,
+        612,
+        603,
+        629
+      ],
+      "confidence": 0.970319390296936
+    },
+    {
+      "text": "in 1962. c0st £25",
+      "bbox": [
+        176,
+        628,
+        275,
+        641
+      ],
+      "confidence": 0.8892849683761597
+    },
+    {
+      "text": "build. and the fund needs about",
+      "bbox": [
+        176,
+        636,
+        332,
+        649
+      ],
+      "confidence": 0.9297577738761902
+    },
+    {
+      "text": "millicss to",
+      "bbox": [
+        274,
+        631,
+        332,
+        641
+      ],
+      "confidence": 0.8505966067314148
+    },
+    {
+      "text": "head of the vrusdivnion. sa d \"There",
+      "bbox": [
+        443,
+        633,
+        631,
+        651
+      ],
+      "confidence": 0.7281090617179871
+    },
+    {
+      "text": "On the uther hand. Dr. X. J. Harras",
+      "bbox": [
+        454,
+        625,
+        630,
+        642
+      ],
+      "confidence": 0.9348030090332031
+    },
+    {
+      "text": "£750,b00 a year to carry on its",
+      "bbox": [
+        176,
+        644,
+        332,
+        657
+      ],
+      "confidence": 0.9058803915977478
+    },
+    {
+      "text": "reesearch.",
+      "bbox": [
+        176,
+        652,
+        220,
+        666
+      ],
+      "confidence": 0.7767959833145142
+    },
+    {
+      "text": "gave up smoking cung cauncer wJuid fall",
+      "bbox": [
+        443,
+        652,
+        631,
+        668
+      ],
+      "confidence": 0.9041528701782227
+    },
+    {
+      "text": "is not a shaduw ot douhe that of people",
+      "bbox": [
+        444,
+        644,
+        630,
+        658
+      ],
+      "confidence": 0.8925150632858276
+    },
+    {
+      "text": "No interference",
+      "bbox": [
+        175,
+        664,
+        264,
+        680
+      ],
+      "confidence": 0.9996172785758972
+    },
+    {
+      "text": "by 85 per cent. If you cannos get people",
+      "bbox": [
+        443,
+        660,
+        629,
+        678
+      ],
+      "confidence": 0.9432982206344604
+    },
+    {
+      "text": "The fund receives no grant",
+      "bbox": [
+        186,
+        676,
+        332,
+        689
+      ],
+      "confidence": 0.9955624938011169
+    },
+    {
+      "text": "to give up cigarctces. you can help by",
+      "bbox": [
+        442,
+        669,
+        631,
+        687
+      ],
+      "confidence": 0.9460625052452087
+    },
+    {
+      "text": "cleaning the air. Cigurcties d.r .he chiet",
+      "bbox": [
+        443,
+        678,
+        629,
+        694
+      ],
+      "confidence": 0.8437349200248718
+    },
+    {
+      "text": "srom the state and does not want",
+      "bbox": [
+        176,
+        686,
+        333,
+        697
+      ],
+      "confidence": 0.9804608821868896
+    },
+    {
+      "text": "Sir Ceci said be felz Lhere",
+      "bbox": [
+        200,
+        693,
+        332,
+        705
+      ],
+      "confidence": 0.8516886830329895
+    },
+    {
+      "text": "canve. but we do not oelie. there it",
+      "bbox": [
+        442,
+        687,
+        630,
+        703
+      ],
+      "confidence": 0.8919627070426941
+    },
+    {
+      "text": ".. single cause.",
+      "bbox": [
+        443,
+        697,
+        512,
+        709
+      ],
+      "confidence": 0.9558534622192383
+    },
+    {
+      "text": "ould",
+      "bbox": [
+        177,
+        702,
+        205,
+        712
+      ],
+      "confidence": 0.9506348967552185
+    },
+    {
+      "text": "without strings, aud the fund's",
+      "bbox": [
+        177,
+        710,
+        331,
+        720
+      ],
+      "confidence": 0.9462506771087646
+    },
+    {
+      "text": "no Government",
+      "bbox": [
+        225,
+        702,
+        310,
+        712
+      ],
+      "confidence": 0.9496175050735474
+    },
+    {
+      "text": "ald",
+      "bbox": [
+        315,
+        703,
+        330,
+        711
+      ],
+      "confidence": 0.9742888808250427
+    },
+    {
+      "text": "The iund recently announce. in im-",
+      "bbox": [
+        450,
+        705,
+        629,
+        722
+      ],
+      "confidence": 0.9497458338737488
+    },
+    {
+      "text": "researchers\"",
+      "bbox": [
+        176,
+        717,
+        237,
+        727
+      ],
+      "confidence": 0.956852912902832
+    },
+    {
+      "text": "without interfcrence from",
+      "bbox": [
+        177,
+        725,
+        309,
+        735
+      ],
+      "confidence": 0.9898163676261902
+    },
+    {
+      "text": "could work",
+      "bbox": [
+        232,
+        716,
+        299,
+        728
+      ],
+      "confidence": 0.9401415586471558
+    },
+    {
+      "text": "hettter",
+      "bbox": [
+        300,
+        717,
+        331,
+        727
+      ],
+      "confidence": 0.9039676785469055
+    },
+    {
+      "text": "out-",
+      "bbox": [
+        311,
+        726,
+        330,
+        733
+      ],
+      "confidence": 0.9861837029457092
+    },
+    {
+      "text": "seukacmia.",
+      "bbox": [
+        442,
+        725,
+        493,
+        735
+      ],
+      "confidence": 0.9475095868110657
+    },
+    {
+      "text": "sartane step furward in sis recarch on",
+      "bbox": [
+        444,
+        715,
+        628,
+        730
+      ],
+      "confidence": 0.8541670441627502
+    },
+    {
+      "text": "Askedl tu commen n the",
+      "bbox": [
+        497,
+        724,
+        628,
+        738
+      ],
+      "confidence": 0.8881658315658569
+    },
+    {
+      "text": "side.",
+      "bbox": [
+        177,
+        733,
+        198,
+        741
+      ],
+      "confidence": 0.8185949325561523
+    },
+    {
+      "text": "Dr Harris sald the funs",
+      "bbox": [
+        186,
+        739,
+        310,
+        751
+      ],
+      "confidence": 0.9173310399055481
+    },
+    {
+      "text": "was",
+      "bbox": [
+        312,
+        742,
+        330,
+        749
+      ],
+      "confidence": 0.9204166531562805
+    },
+    {
+      "text": "claims of M. Gaston Naes es. the",
+      "bbox": [
+        439,
+        730,
+        628,
+        748
+      ],
+      "confidence": 0.7829971313476562
+    },
+    {
+      "text": "French buigist Dr. Harris sa.1",
+      "bbox": [
+        439,
+        739,
+        600,
+        756
+      ],
+      "confidence": 0.8712195754051208
+    },
+    {
+      "text": "4s.ng important",
+      "bbox": [
+        176,
+        748,
+        260,
+        758
+      ],
+      "confidence": 0.8514528870582581
+    },
+    {
+      "text": "work 9t",
+      "bbox": [
+        260,
+        748,
+        309,
+        758
+      ],
+      "confidence": 0.8512868285179138
+    },
+    {
+      "text": "ne",
+      "bbox": [
+        313,
+        749,
+        330,
+        756
+      ],
+      "confidence": 0.6087403297424316
+    },
+    {
+      "text": "-I was ape-..d that anyone should",
+      "bbox": [
+        449,
+        749,
+        630,
+        766
+      ],
+      "confidence": 0.913955807685852
+    },
+    {
+      "text": "mone excretions.",
+      "bbox": [
+        175,
+        770,
+        258,
+        781
+      ],
+      "confidence": 0.8900868892669678
+    },
+    {
+      "text": "was carrying out studies of",
+      "bbox": [
+        176,
+        762,
+        308,
+        772
+      ],
+      "confidence": 0.9636229872703552
+    },
+    {
+      "text": "Asked",
+      "bbox": [
+        268,
+        772,
+        297,
+        779
+      ],
+      "confidence": 0.9117051362991333
+    },
+    {
+      "text": "will be examincd properly. I think we",
+      "bbox": [
+        439,
+        767,
+        626,
+        784
+      ],
+      "confidence": 0.9111821055412292
+    },
+    {
+      "text": "want to provecu  him. I hope his claims",
+      "bbox": [
+        440,
+        758,
+        626,
+        775
+      ],
+      "confidence": 0.9509037733078003
+    },
+    {
+      "text": "the clasms for a leukaemia cur",
+      "bbox": [
+        177,
+        778,
+        324,
+        788
+      ],
+      "confidence": 0.9739617705345154
+    },
+    {
+      "text": "French",
+      "bbox": [
+        294,
+        785,
+        329,
+        795
+      ],
+      "confidence": 0.8800857663154602
+    },
+    {
+      "text": "curuelves kncw he lines on. which",
+      "bbox": [
+        439,
+        777,
+        626,
+        791
+      ],
+      "confidence": 0.9040647745132446
+    },
+    {
+      "text": "research should go, but I de nst think",
+      "bbox": [
+        439,
+        785,
+        625,
+        799
+      ],
+      "confidence": 0.9050447344779968
+    },
+    {
+      "text": "hinlogist, M. Caston Naessens, Dr",
+      "bbox": [
+        176,
+        793,
+        329,
+        803
+      ],
+      "confidence": 0.9327889084815979
+    },
+    {
+      "text": "Harris",
+      "bbox": [
+        176,
+        800,
+        210,
+        810
+      ],
+      "confidence": 0.8878105282783508
+    },
+    {
+      "text": "replied",
+      "bbox": [
+        213,
+        800,
+        252,
+        813
+      ],
+      "confidence": 0.9983197450637817
+    },
+    {
+      "text": "that",
+      "bbox": [
+        258,
+        801,
+        285,
+        811
+      ],
+      "confidence": 0.9990577697753906
+    },
+    {
+      "text": "was",
+      "bbox": [
+        311,
+        802,
+        328,
+        809
+      ],
+      "confidence": 0.9998398423194885
+    },
+    {
+      "text": "-ggestd by M. Nassens The hislory",
+      "bbox": [
+        440,
+        802,
+        625,
+        820
+      ],
+      "confidence": 0.7249471545219421
+    },
+    {
+      "text": "v would conduct il aivnk thuse",
+      "bbox": [
+        445,
+        793,
+        626,
+        811
+      ],
+      "confidence": 0.9144384860992432
+    },
+    {
+      "text": "to prosecute him.",
+      "bbox": [
+        175,
+        817,
+        263,
+        827
+      ],
+      "confidence": 0.9886833429336548
+    },
+    {
+      "text": "appailed that anwone should want",
+      "bbox": [
+        176,
+        810,
+        328,
+        818
+      ],
+      "confidence": 0.9341673851013184
+    },
+    {
+      "text": "anse- cures'decs not picdixpose",
+      "bbox": [
+        455,
+        812,
+        623,
+        828
+      ],
+      "confidence": 0.8081634044647217
+    },
+    {
+      "text": "should be_cxarmined, and should",
+      "bbox": [
+        175,
+        825,
+        329,
+        835
+      ],
+      "confidence": 0.9360010027885437
+    },
+    {
+      "text": "The claims",
+      "bbox": [
+        274,
+        819,
+        328,
+        826
+      ],
+      "confidence": 0.9430692791938782
+    },
+    {
+      "text": "w wake these clain weriously.",
+      "bbox": [
+        458,
+        821,
+        594,
+        836
+      ],
+      "confidence": 0.8248221278190613
+    },
+    {
+      "text": "the same time.",
+      "bbox": [
+        174,
+        838,
+        254,
+        852
+      ],
+      "confidence": 0.9344248175621033
+    },
+    {
+      "text": "not be written ofl as phoney. At",
+      "bbox": [
+        175,
+        833,
+        328,
+        843
+      ],
+      "confidence": 0.9554957151412964
+    },
+    {
+      "text": "cancer \"cures",
+      "bbox": [
+        175,
+        847,
+        247,
+        857
+      ],
+      "confidence": 0.9502230286598206
+    },
+    {
+      "text": "the history of",
+      "bbox": [
+        254,
+        839,
+        328,
+        850
+      ],
+      "confidence": 0.9248751997947693
+    },
+    {
+      "text": "suggested that",
+      "bbox": [
+        257,
+        846,
+        328,
+        858
+      ],
+      "confidence": 0.9586949944496155
+    },
+    {
+      "text": "any claim should be regarded",
+      "bbox": [
+        175,
+        855,
+        328,
+        865
+      ],
+      "confidence": 0.9931243062019348
+    },
+    {
+      "text": "with cautiom.",
+      "bbox": [
+        175,
+        861,
+        237,
+        872
+      ],
+      "confidence": 0.9626649618148804
+    },
+    {
+      "text": "appeal. collectsons willhe nuade",
+      "bbox": [
+        176,
+        877,
+        328,
+        888
+      ],
+      "confidence": 0.9245249032974243
+    },
+    {
+      "text": "During the -Cancer Week\"",
+      "bbox": [
+        185,
+        869,
+        328,
+        881
+      ],
+      "confidence": 0.9743043780326843
+    },
+    {
+      "text": "from housc te bouse in the Len-",
+      "bbox": [
+        176,
+        884,
+        328,
+        896
+      ],
+      "confidence": 0.9278931617736816
+    },
+    {
+      "text": "held in Londen an June 16.",
+      "bbox": [
+        175,
+        899,
+        303,
+        910
+      ],
+      "confidence": 0.9501907825469971
+    },
+    {
+      "text": "don area, and a flag day wil. be",
+      "bbox": [
+        177,
+        893,
+        327,
+        903
+      ],
+      "confidence": 0.9653912782669067
+    }
+  ],
+  "full_text": "GUARDLAN\nGreat Britain\n1005150848\nMay 30, 1964\n15-a-day\nGreat Britain\nTIMES\nMay 30, 1964\ndoes not\ngive cancer\nAIR POLLUTION\nWORSE THAN\nBy our own Reporter\nSMOXING\nPeople who smoke 10 to 15\nelgarettes a day are no more\nlikely to get lung canrer than\nthose who do not smoke at all.\nCANCER EXPFRT'S\nsaid Sir Cecdl Wakeley. chair-\nOPINION\nImperial\nFund, in London yesterday.\nCancer\nResearch\nmore werlous buunes than wmoking at\nAlmosphern poilution: s a much\nCancer, he said, developed in\nWakeley. chamn of the couscil of the\nfar as lung cancer ivconcerned. Sir Cecil\nsuch snjury a person would have\nInjuired lung tissue, and to cause\nImperial Cancu.\n..search Fund. wid\nto smoke excessively-more than\n20 a day.\nThe biggest singie\nyeverday.\nHe was\nmeeting at\nCause of lung cancer was the\nappeal to be hcld ic. I ondon from june\nwhich plans for their \"cancer week\nspeat-..\npollution of the air by diesel\nexhausts and sulg-hurous fumes.\n10 to 16 were annc. \"ced.\nvirus divisson of e fund. said\nDr R. J. Harris head of the\n£750,000 a_year.\nCos of revearen. is estirnated at\n furd hupes.10\nthat aithough it was trur that if\npeople _gave up smoking\ncigar\nrais £40.000 \nSir Cecil Wake.\nby the appeal\nwould dissppear. it could not be\nettes 85 per cent of luny cancer\nditt.cullies was shat\nalike many oher\naid one of the\nsaid in any particular case that\nsmoking alone was the rause of\nmany different thing.\ndive_ws, canver c\nbe cxuved by\ntors.\ndiscase.\nIt dodt mot seer possible\nThere were othcr fac\nfseet \" diseave. Tak.  his pipe out of\nnis mouth. he said\nIt Was  \" muito-\nto persuade people not to smoke\nclgarestes-but the problein\nof\nwculd injure Iung i.\ncewi smoking\nab..\n-Smnok-\nair pollutinn cauid be tackied..\nSir Cecal and Dr Harris were\nSikely to give ys i catue: th. if you did\n.n2101o 15cigred\ndas. ·no more\nfund's researeh centre in Lin-\nspeaking at a\nm.zeting in the\nnot moke at al\ntion. he wgsest.i\n. w pollu-\ncein's Enn Fielits so announce the\nCancer Week\"\nserious busines\n.h more\nto be heid from June 10 u i6\nThe centre. which was completec\nappeal wharh is\nNO SINGLL CAUSE\nin 1962. c0st £25\nbuild. and the fund needs about\nmillicss to\nhead of the vrusdivnion. sa d \"There\nOn the uther hand. Dr. X. J. Harras\n£750,b00 a year to carry on its\nreesearch.\ngave up smoking cung cauncer wJuid fall\nis not a shaduw ot douhe that of people\nNo interference\nby 85 per cent. If you cannos get people\nThe fund receives no grant\nto give up cigarctces. you can help by\ncleaning the air. Cigurcties d.r .he chiet\nsrom the state and does not want\nSir Ceci said be felz Lhere\ncanve. but we do not oelie. there it\n.. single cause.\nould\nwithout strings, aud the fund's\nno Government\nald\nThe iund recently announce. in im-\nresearchers\"\nwithout interfcrence from\ncould work\nhettter\nout-\nseukacmia.\nsartane step furward in sis recarch on\nAskedl tu commen n the\nside.\nDr Harris sald the funs\nwas\nclaims of M. Gaston Naes es. the\nFrench buigist Dr. Harris sa.1\n4s.ng important\nwork 9t\nne\n-I was ape-..d that anyone should\nmone excretions.\nwas carrying out studies of\nAsked\nwill be examincd properly. I think we\nwant to provecu  him. I hope his claims\nthe clasms for a leukaemia cur\nFrench\ncuruelves kncw he lines on. which\nresearch should go, but I de nst think\nhinlogist, M. Caston Naessens, Dr\nHarris\nreplied\nthat\nwas\n-ggestd by M. Nassens The hislory\nv would conduct il aivnk thuse\nto prosecute him.\nappailed that anwone should want\nanse- cures'decs not picdixpose\nshould be_cxarmined, and should\nThe claims\nw wake these clain weriously.\nthe same time.\nnot be written ofl as phoney. At\ncancer \"cures\nthe history of\nsuggested that\nany claim should be regarded\nwith cautiom.\nappeal. collectsons willhe nuade\nDuring the -Cancer Week\"\nfrom housc te bouse in the Len-\nheld in Londen an June 16.\ndon area, and a flag day wil. be"
+}

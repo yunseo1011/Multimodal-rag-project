@@ -1,0 +1,1381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0414.png",
+    "image_width": 767,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "776",
+      "bbox": [
+        67,
+        7,
+        92,
+        24
+      ],
+      "confidence": 0.9999198913574219
+    },
+    {
+      "text": "OCTOBER 13, 1962",
+      "bbox": [
+        110,
+        7,
+        214,
+        24
+      ],
+      "confidence": 0.9935188889503479
+    },
+    {
+      "text": "THE WIDER WORLD—IN ENGLAND NOW",
+      "bbox": [
+        259,
+        7,
+        518,
+        32
+      ],
+      "confidence": 0.995471715927124
+    },
+    {
+      "text": "THE LANCET",
+      "bbox": [
+        640,
+        22,
+        708,
+        41
+      ],
+      "confidence": 0.9907611012458801
+    },
+    {
+      "text": "The Wider World",
+      "bbox": [
+        157,
+        39,
+        292,
+        59
+      ],
+      "confidence": 0.9971281886100769
+    },
+    {
+      "text": "In England Now",
+      "bbox": [
+        489,
+        47,
+        616,
+        73
+      ],
+      "confidence": 0.9994850158691406
+    },
+    {
+      "text": "A Rumming Commentary by Peripatetic Correspondents",
+      "bbox": [
+        412,
+        82,
+        690,
+        109
+      ],
+      "confidence": 0.9748875498771667
+    },
+    {
+      "text": "DIABETES IN GREECE",
+      "bbox": [
+        142,
+        86,
+        309,
+        105
+      ],
+      "confidence": 0.9981276392936707
+    },
+    {
+      "text": "R. D. LawREnce",
+      "bbox": [
+        177,
+        108,
+        277,
+        122
+      ],
+      "confidence": 0.8078009486198425
+    },
+    {
+      "text": "Can I offer you the Moulin Rouge or would you rather have",
+      "bbox": [
+        406,
+        101,
+        708,
+        129
+      ],
+      "confidence": 0.9793866276741028
+    },
+    {
+      "text": "M.A., M.D. Aberd., F.R.C.P.",
+      "bbox": [
+        155,
+        118,
+        296,
+        136
+      ],
+      "confidence": 0.972409188747406
+    },
+    {
+      "text": "the Y.M.C.A. ? The Ministry of Health want to put us off",
+      "bbox": [
+        393,
+        114,
+        708,
+        141
+      ],
+      "confidence": 0.9832950234413147
+    },
+    {
+      "text": "smoking cigarettes. The first issue of discouraging posters has",
+      "bbox": [
+        394,
+        127,
+        707,
+        151
+      ],
+      "confidence": 0.9786424040794373
+    },
+    {
+      "text": "For the first time since the Ancient Greeks named and",
+      "bbox": [
+        81,
+        133,
+        385,
+        154
+      ],
+      "confidence": 0.9938189387321472
+    },
+    {
+      "text": "been followed by a second, less gloomy, but even the sheep",
+      "bbox": [
+        393,
+        138,
+        708,
+        164
+      ],
+      "confidence": 0.9952356219291687
+    },
+    {
+      "text": "described diabetes, the discovery of insulin made the",
+      "bbox": [
+        68,
+        147,
+        385,
+        168
+      ],
+      "confidence": 0.9933859705924988
+    },
+    {
+      "text": "smoking cigarettes ignore the positive appeal. If you have",
+      "bbox": [
+        393,
+        151,
+        708,
+        177
+      ],
+      "confidence": 0.9347177147865295
+    },
+    {
+      "text": "disease worth treating. But special facilities (e.g., for",
+      "bbox": [
+        67,
+        160,
+        385,
+        183
+      ],
+      "confidence": 0.957038402557373
+    },
+    {
+      "text": "children it is always better to say \"Let's\" than \"Don't\".",
+      "bbox": [
+        393,
+        162,
+        708,
+        188
+      ],
+      "confidence": 0.9319692254066467
+    },
+    {
+      "text": "blood-tests) were soon found to be necessary, and in all",
+      "bbox": [
+        67,
+        174,
+        385,
+        196
+      ],
+      "confidence": 0.9924585223197937
+    },
+    {
+      "text": "Have they never seen how you sell cars, corsets, cosmetics, or",
+      "bbox": [
+        394,
+        174,
+        708,
+        201
+      ],
+      "confidence": 0.9930790662765503
+    },
+    {
+      "text": "even cigarettes?",
+      "bbox": [
+        394,
+        187,
+        480,
+        204
+      ],
+      "confidence": 0.9734832048416138
+    },
+    {
+      "text": "medically progressive countries diabetic clinics were set",
+      "bbox": [
+        66,
+        188,
+        385,
+        209
+      ],
+      "confidence": 0.9945111870765686
+    },
+    {
+      "text": "Look now on this picture and on this. That nasty, long-",
+      "bbox": [
+        403,
+        197,
+        709,
+        223
+      ],
+      "confidence": 0.9660183191299438
+    },
+    {
+      "text": "up to provide expert knowledge. So, when I went not",
+      "bbox": [
+        66,
+        203,
+        384,
+        222
+      ],
+      "confidence": 0.9760857224464417
+    },
+    {
+      "text": "long ago to the splendid and modern city of Athens, to",
+      "bbox": [
+        66,
+        216,
+        384,
+        235
+      ],
+      "confidence": 0.9885848164558411
+    },
+    {
+      "text": "haired, tight-trousered young man whose yellow malodorous",
+      "bbox": [
+        392,
+        210,
+        710,
+        235
+      ],
+      "confidence": 0.9942039251327515
+    },
+    {
+      "text": "seek winter sun and ancient art, I was not surprised to",
+      "bbox": [
+        66,
+        229,
+        385,
+        249
+      ],
+      "confidence": 0.9870336651802063
+    },
+    {
+      "text": "fingers we know. That revolting young woman whose unap-",
+      "bbox": [
+        392,
+        221,
+        710,
+        246
+      ],
+      "confidence": 0.9962279796600342
+    },
+    {
+      "text": "find, and to be asked to inspect, the \" Diabetic Centre of",
+      "bbox": [
+        66,
+        242,
+        386,
+        262
+      ],
+      "confidence": 0.9749045968055725
+    },
+    {
+      "text": "petising undergarments hide even more negative charms.",
+      "bbox": [
+        392,
+        234,
+        710,
+        257
+      ],
+      "confidence": 0.9870343208312988
+    },
+    {
+      "text": "Both obviously smoking reefers and probably picking their",
+      "bbox": [
+        393,
+        245,
+        710,
+        269
+      ],
+      "confidence": 0.996030330657959
+    },
+    {
+      "text": "Athens \". This was recently built by the Institute of",
+      "bbox": [
+        67,
+        257,
+        384,
+        274
+      ],
+      "confidence": 0.9773046970367432
+    },
+    {
+      "text": "noses. No romance, no snob value, no careersmanship.",
+      "bbox": [
+        393,
+        258,
+        675,
+        280
+      ],
+      "confidence": 0.996932864189148
+    },
+    {
+      "text": "National Insurance, which corresponds to our National",
+      "bbox": [
+        67,
+        269,
+        383,
+        288
+      ],
+      "confidence": 0.9928880929946899
+    },
+    {
+      "text": "Can no-one in Savile Row of all places plagiarise the idyllic",
+      "bbox": [
+        404,
+        270,
+        711,
+        293
+      ],
+      "confidence": 0.9828003644943237
+    },
+    {
+      "text": "Health scheme. The centre seemed to have been set up",
+      "bbox": [
+        66,
+        283,
+        383,
+        302
+      ],
+      "confidence": 0.9745563864707947
+    },
+    {
+      "text": "scene of clean and manly young man with damsel pure and",
+      "bbox": [
+        392,
+        283,
+        711,
+        305
+      ],
+      "confidence": 0.9759561419487
+    },
+    {
+      "text": "almost regardless of expense; but financed by contri-",
+      "bbox": [
+        66,
+        296,
+        384,
+        316
+      ],
+      "confidence": 0.9855059385299683
+    },
+    {
+      "text": "beautiful, apple blossom overhead. \"Darling, you smell so",
+      "bbox": [
+        393,
+        294,
+        710,
+        317
+      ],
+      "confidence": 0.9876971244812012
+    },
+    {
+      "text": "nice, I'm so glad you gave up smoking.\" Or, against his",
+      "bbox": [
+        393,
+        307,
+        711,
+        329
+      ],
+      "confidence": 0.9738088846206665
+    },
+    {
+      "text": "butions at 10% of salaries or income-tax, the Greek",
+      "bbox": [
+        68,
+        311,
+        384,
+        328
+      ],
+      "confidence": 0.9845821857452393
+    },
+    {
+      "text": "expensive car, \" I could never have fallen for a girl who",
+      "bbox": [
+        393,
+        318,
+        711,
+        340
+      ],
+      "confidence": 0.9378243684768677
+    },
+    {
+      "text": "scheme may have larger resources than ours. All Greek",
+      "bbox": [
+        67,
+        325,
+        384,
+        343
+      ],
+      "confidence": 0.9795636534690857
+    },
+    {
+      "text": "smoked.\"' Can't they pay a fee to a racing motorist, a hand-",
+      "bbox": [
+        394,
+        332,
+        710,
+        352
+      ],
+      "confidence": 0.97742760181427
+    },
+    {
+      "text": "diabetics are entitled to free treatment and drugs from the",
+      "bbox": [
+        68,
+        338,
+        384,
+        357
+      ],
+      "confidence": 0.9887303709983826
+    },
+    {
+      "text": "centre; but some prefer to pay their local doctors, at least",
+      "bbox": [
+        68,
+        352,
+        384,
+        370
+      ],
+      "confidence": 0.9833946228027344
+    },
+    {
+      "text": "some actor, or even a popsinger, whose photograph would say",
+      "bbox": [
+        392,
+        344,
+        711,
+        365
+      ],
+      "confidence": 0.9942775368690491
+    },
+    {
+      "text": "as long as everything goes well.",
+      "bbox": [
+        70,
+        367,
+        243,
+        381
+      ],
+      "confidence": 0.9662836194038391
+    },
+    {
+      "text": "with a smile, \" I never smoke not.\"",
+      "bbox": [
+        394,
+        357,
+        580,
+        373
+      ],
+      "confidence": 0.9720456004142761
+    },
+    {
+      "text": "has yawned for xeons and we have only yawned back.",
+      "bbox": [
+        394,
+        381,
+        667,
+        398
+      ],
+      "confidence": 0.9782676100730896
+    },
+    {
+      "text": "The Black Widow and her nasty brood are useless-hell",
+      "bbox": [
+        406,
+        369,
+        710,
+        386
+      ],
+      "confidence": 0.9922736883163452
+    },
+    {
+      "text": "now works under the direction, of Dr. N. S. Papaspyros who,",
+      "bbox": [
+        70,
+        397,
+        383,
+        412
+      ],
+      "confidence": 0.9752006530761719
+    },
+    {
+      "text": "The diabetic centre was planned and built on the advice, and",
+      "bbox": [
+        81,
+        384,
+        383,
+        400
+      ],
+      "confidence": 0.9982995986938477
+    },
+    {
+      "text": "I am proud to say, studied at my London clinic, King's College",
+      "bbox": [
+        69,
+        407,
+        384,
+        426
+      ],
+      "confidence": 0.9863263368606567
+    },
+    {
+      "text": "Hospital. He also visited all the principal clinics in Europe and",
+      "bbox": [
+        70,
+        421,
+        384,
+        437
+      ],
+      "confidence": 0.9934989213943481
+    },
+    {
+      "text": "Jane cruises successfully through the classroom without cither",
+      "bbox": [
+        404,
+        415,
+        711,
+        433
+      ],
+      "confidence": 0.9829673171043396
+    },
+    {
+      "text": "America so as to incorporate their best features in the Greek",
+      "bbox": [
+        71,
+        434,
+        384,
+        448
+      ],
+      "confidence": 0.9921196103096008
+    },
+    {
+      "text": "effort or interest, to the despair of her teachers. After her casual",
+      "bbox": [
+        394,
+        428,
+        710,
+        445
+      ],
+      "confidence": 0.980099618434906
+    },
+    {
+      "text": "negotiation of the 11 + we looked for a school only to find many",
+      "bbox": [
+        394,
+        440,
+        710,
+        457
+      ],
+      "confidence": 0.9702041745185852
+    },
+    {
+      "text": "organisation.",
+      "bbox": [
+        71,
+        448,
+        137,
+        462
+      ],
+      "confidence": 0.9999404549598694
+    },
+    {
+      "text": "which wanted Jane but few her pony. In one school, however,",
+      "bbox": [
+        393,
+        452,
+        711,
+        471
+      ],
+      "confidence": 0.9971952438354492
+    },
+    {
+      "text": "general or teaching hospital as it would be in Britain (sharing",
+      "bbox": [
+        70,
+        472,
+        385,
+        490
+      ],
+      "confidence": 0.9683748483657837
+    },
+    {
+      "text": "The centre is a creation on its own and is not attached to any",
+      "bbox": [
+        83,
+        460,
+        384,
+        477
+      ],
+      "confidence": 0.9973547458648682
+    },
+    {
+      "text": "there were daily lessons in show-jumping and, implicitly,",
+      "bbox": [
+        394,
+        465,
+        710,
+        482
+      ],
+      "confidence": 0.9831281304359436
+    },
+    {
+      "text": "in its ancillary services and consultants): under its own experts",
+      "bbox": [
+        70,
+        485,
+        384,
+        500
+      ],
+      "confidence": 0.9785817861557007
+    },
+    {
+      "text": "\"G.C.E. not objected to.",
+      "bbox": [
+        394,
+        476,
+        526,
+        491
+      ],
+      "confidence": 0.958366870880127
+    },
+    {
+      "text": "it has set up pathology and X-ray services and even a cobalt",
+      "bbox": [
+        70,
+        497,
+        384,
+        512
+      ],
+      "confidence": 0.9897527694702148
+    },
+    {
+      "text": "we all have to face newly cleaned \" tack \" strewn about the",
+      "bbox": [
+        394,
+        501,
+        711,
+        517
+      ],
+      "confidence": 0.9521844983100891
+    },
+    {
+      "text": "Although the rest of the family is not particularly horsey,",
+      "bbox": [
+        405,
+        488,
+        710,
+        505
+      ],
+      "confidence": 0.9844525456428528
+    },
+    {
+      "text": "bomb. The outpatients are mostly the working population of",
+      "bbox": [
+        70,
+        509,
+        385,
+        524
+      ],
+      "confidence": 0.9885066747665405
+    },
+    {
+      "text": "living-space; and the other day, while Jane's dam was out",
+      "bbox": [
+        394,
+        512,
+        711,
+        528
+      ],
+      "confidence": 0.9878113865852356
+    },
+    {
+      "text": "Athens, of which the estimated diabetic population is 20,000-",
+      "bbox": [
+        70,
+        521,
+        384,
+        536
+      ],
+      "confidence": 0.9812244176864624
+    },
+    {
+      "text": "shopping, her sire found himself watching a telly programme",
+      "bbox": [
+        394,
+        524,
+        711,
+        540
+      ],
+      "confidence": 0.9691246747970581
+    },
+    {
+      "text": "25,000.",
+      "bbox": [
+        71,
+        535,
+        110,
+        549
+      ],
+      "confidence": 0.9993208646774292
+    },
+    {
+      "text": "I believe it took a long time to convince the Institute of",
+      "bbox": [
+        82,
+        546,
+        385,
+        563
+      ],
+      "confidence": 0.9945060610771179
+    },
+    {
+      "text": "about the horse. He learned that the horse is descended from",
+      "bbox": [
+        394,
+        536,
+        711,
+        551
+      ],
+      "confidence": 0.9909078478813171
+    },
+    {
+      "text": "the tapir and that someone is trying to breed horses back to",
+      "bbox": [
+        394,
+        547,
+        711,
+        565
+      ],
+      "confidence": 0.9961235523223877
+    },
+    {
+      "text": "National Insurance to spend this considerable sum of money;",
+      "bbox": [
+        71,
+        560,
+        384,
+        574
+      ],
+      "confidence": 0.9787846803665161
+    },
+    {
+      "text": "tapirs, on the thesis that intelligence has been bred out of them",
+      "bbox": [
+        394,
+        560,
+        710,
+        576
+      ],
+      "confidence": 0.9876420497894287
+    },
+    {
+      "text": "but by doing so they will not only improve and maintain the",
+      "bbox": [
+        70,
+        571,
+        384,
+        586
+      ],
+      "confidence": 0.9886540770530701
+    },
+    {
+      "text": "at the cost of ability to jump or run. The breeding-back has",
+      "bbox": [
+        394,
+        572,
+        711,
+        587
+      ],
+      "confidence": 0.9987491369247437
+    },
+    {
+      "text": "immediate working health, but also (by continuous good con-",
+      "bbox": [
+        70,
+        583,
+        384,
+        598
+      ],
+      "confidence": 0.994497537612915
+    },
+    {
+      "text": "apparently met with some success, and horses are beginning to",
+      "bbox": [
+        395,
+        585,
+        711,
+        599
+      ],
+      "confidence": 0.9786943197250366
+    },
+    {
+      "text": "trol and supervision) achieve a long-term economy by prevent-",
+      "bbox": [
+        70,
+        595,
+        384,
+        610
+      ],
+      "confidence": 0.9842422604560852
+    },
+    {
+      "text": "this and spoke to a colleague about it. The colleague is an",
+      "bbox": [
+        394,
+        607,
+        711,
+        622
+      ],
+      "confidence": 0.9858711957931519
+    },
+    {
+      "text": "look like tapirs again. Jane's sire got quite enthusiastic about",
+      "bbox": [
+        395,
+        597,
+        711,
+        610
+      ],
+      "confidence": 0.9843152761459351
+    },
+    {
+      "text": "as blindness or loss of limbs from gangrene, necessitating a",
+      "bbox": [
+        69,
+        619,
+        384,
+        634
+      ],
+      "confidence": 0.9884766936302185
+    },
+    {
+      "text": "ing or minimising the common complications of diabetes, such",
+      "bbox": [
+        70,
+        608,
+        384,
+        621
+      ],
+      "confidence": 0.9978793263435364
+    },
+    {
+      "text": "Ulsterman and characteristically has a fewness of fine words.",
+      "bbox": [
+        394,
+        619,
+        710,
+        634
+      ],
+      "confidence": 0.9914559125900269
+    },
+    {
+      "text": "permanent and high disability pension.",
+      "bbox": [
+        68,
+        629,
+        266,
+        648
+      ],
+      "confidence": 0.9876868724822998
+    },
+    {
+      "text": "\"Who,\" he asked, \" wants to ride round the countryside on an",
+      "bbox": [
+        393,
+        630,
+        710,
+        646
+      ],
+      "confidence": 0.9753755331039429
+    },
+    {
+      "text": "The inpatient block consists of 120 beds in 45-bed wards,",
+      "bbox": [
+        81,
+        645,
+        383,
+        660
+      ],
+      "confidence": 0.9864608645439148
+    },
+    {
+      "text": "intelligent tapir?\"",
+      "bbox": [
+        393,
+        640,
+        493,
+        660
+      ],
+      "confidence": 0.9638168215751648
+    },
+    {
+      "text": "on seven floors, and a few sumptuous private suites. The",
+      "bbox": [
+        69,
+        657,
+        384,
+        673
+      ],
+      "confidence": 0.9871264696121216
+    },
+    {
+      "text": "inpatients come from all over Greece, which is believed to have",
+      "bbox": [
+        69,
+        669,
+        383,
+        684
+      ],
+      "confidence": 0.9983881711959839
+    },
+    {
+      "text": "90,000-100,000 diabetics.",
+      "bbox": [
+        69,
+        681,
+        200,
+        698
+      ],
+      "confidence": 0.9787229895591736
+    },
+    {
+      "text": "surgical operations on television, faint and crack their skulls on",
+      "bbox": [
+        394,
+        681,
+        710,
+        697
+      ],
+      "confidence": 0.9965577721595764
+    },
+    {
+      "text": "We have all heard of the people who, while watching",
+      "bbox": [
+        407,
+        669,
+        709,
+        684
+      ],
+      "confidence": 0.9841710925102234
+    },
+    {
+      "text": "The need for this centre is shown by the enrolment of 3000",
+      "bbox": [
+        81,
+        696,
+        384,
+        711
+      ],
+      "confidence": 0.9664782881736755
+    },
+    {
+      "text": "the floor or the fireplace, or who subsequently develop anxiety",
+      "bbox": [
+        395,
+        694,
+        710,
+        709
+      ],
+      "confidence": 0.9969587922096252
+    },
+    {
+      "text": "patients in the twelve months after it opened, and by the addi-",
+      "bbox": [
+        69,
+        708,
+        384,
+        724
+      ],
+      "confidence": 0.9907519221305847
+    },
+    {
+      "text": "states about themselves. Properly presented, however, these",
+      "bbox": [
+        395,
+        706,
+        711,
+        720
+      ],
+      "confidence": 0.9941504001617432
+    },
+    {
+      "text": "tion of 200 new patients a month (8-9 a day)--and all this in",
+      "bbox": [
+        69,
+        720,
+        384,
+        735
+      ],
+      "confidence": 0.965334951877594
+    },
+    {
+      "text": "programmes can do an immense amount of good. For instance,",
+      "bbox": [
+        393,
+        716,
+        711,
+        734
+      ],
+      "confidence": 0.9843795299530029
+    },
+    {
+      "text": "only the early days of the clinic.\" These numbers throw a",
+      "bbox": [
+        69,
+        732,
+        384,
+        747
+      ],
+      "confidence": 0.9893437027931213
+    },
+    {
+      "text": "an injection, and that she would feel a prick of the needle,",
+      "bbox": [
+        394,
+        741,
+        710,
+        756
+      ],
+      "confidence": 0.9811542630195618
+    },
+    {
+      "text": "I was explaining to a six-year-old that I was going to give her",
+      "bbox": [
+        395,
+        730,
+        711,
+        743
+      ],
+      "confidence": 0.9952622652053833
+    },
+    {
+      "text": "terrific strain on the medical staff, which consists of Dr.",
+      "bbox": [
+        69,
+        743,
+        384,
+        759
+      ],
+      "confidence": 0.9791373014450073
+    },
+    {
+      "text": "Papaspyros and two doctors skilled in cardiology and neuro-",
+      "bbox": [
+        69,
+        755,
+        384,
+        771
+      ],
+      "confidence": 0.9980226755142212
+    },
+    {
+      "text": "but nothing else. \" It's all right,\" she said, \" I know all about",
+      "bbox": [
+        395,
+        753,
+        711,
+        766
+      ],
+      "confidence": 0.9537674784660339
+    },
+    {
+      "text": "pathy who are receiving instruction in the treatment and",
+      "bbox": [
+        69,
+        767,
+        384,
+        784
+      ],
+      "confidence": 0.9813743233680725
+    },
+    {
+      "text": "it. I saw it being done on Emergency—Ward 10.\"",
+      "bbox": [
+        394,
+        764,
+        647,
+        779
+      ],
+      "confidence": 0.9810619354248047
+    },
+    {
+      "text": "management of diabetes. And so a strong team is being",
+      "bbox": [
+        69,
+        781,
+        383,
+        795
+      ],
+      "confidence": 0.9879857897758484
+    },
+    {
+      "text": "trained-quite necessary to cope with the heavy increase",
+      "bbox": [
+        68,
+        792,
+        384,
+        807
+      ],
+      "confidence": 0.9819854497909546
+    },
+    {
+      "text": "of work. There is adequate and specially trained nursing",
+      "bbox": [
+        68,
+        805,
+        384,
+        820
+      ],
+      "confidence": 0.9860787987709045
+    },
+    {
+      "text": "'s surprisin',",
+      "bbox": [
+        510,
+        816,
+        576,
+        833
+      ],
+      "confidence": 0.9809528589248657
+    },
+    {
+      "text": "Ol. Ricin.",
+      "bbox": [
+        512,
+        805,
+        563,
+        820
+      ],
+      "confidence": 0.9891751408576965
+    },
+    {
+      "text": "staff.",
+      "bbox": [
+        68,
+        819,
+        96,
+        832
+      ],
+      "confidence": 0.954166829586029
+    },
+    {
+      "text": "The centre is a fine building architecturally, as well as",
+      "bbox": [
+        81,
+        831,
+        383,
+        846
+      ],
+      "confidence": 0.9899815917015076
+    },
+    {
+      "text": "Par. Liq.",
+      "bbox": [
+        511,
+        830,
+        559,
+        844
+      ],
+      "confidence": 0.9974934458732605
+    },
+    {
+      "text": "01147856",
+      "bbox": [
+        676,
+        832,
+        705,
+        936
+      ],
+      "confidence": 0.9989869594573975
+    },
+    {
+      "text": "most efficient in functional equipment. It certainly",
+      "bbox": [
+        66,
+        845,
+        383,
+        860
+      ],
+      "confidence": 0.9869832992553711
+    },
+    {
+      "text": "Isn't quick",
+      "bbox": [
+        511,
+        842,
+        570,
+        856
+      ],
+      "confidence": 0.9996540546417236
+    },
+    {
+      "text": "aroused my envy by having enough beds always to",
+      "bbox": [
+        66,
+        858,
+        383,
+        873
+      ],
+      "confidence": 0.9943444132804871
+    },
+    {
+      "text": "And it's eashier",
+      "bbox": [
+        512,
+        854,
+        593,
+        867
+      ],
+      "confidence": 0.9976820349693298
+    },
+    {
+      "text": "admit at once patients who need urgent specialised",
+      "bbox": [
+        65,
+        870,
+        383,
+        886
+      ],
+      "confidence": 0.9943251013755798
+    },
+    {
+      "text": "And greashier",
+      "bbox": [
+        512,
+        865,
+        584,
+        879
+      ],
+      "confidence": 0.9921271800994873
+    },
+    {
+      "text": "treatment. Athens is much better off than London",
+      "bbox": [
+        65,
+        883,
+        383,
+        899
+      ],
+      "confidence": 0.9843478202819824
+    },
+    {
+      "text": "Than Magnesia.",
+      "bbox": [
+        511,
+        878,
+        595,
+        891
+      ],
+      "confidence": 0.9961150884628296
+    },
+    {
+      "text": "But wenna",
+      "bbox": [
+        511,
+        888,
+        569,
+        904
+      ],
+      "confidence": 0.9993622303009033
+    },
+    {
+      "text": "and other major centres in Great Britain, because a",
+      "bbox": [
+        66,
+        898,
+        382,
+        911
+      ],
+      "confidence": 0.9896135330200195
+    },
+    {
+      "text": "Take Senna",
+      "bbox": [
+        512,
+        901,
+        575,
+        915
+      ],
+      "confidence": 0.998735249042511
+    },
+    {
+      "text": "coma can hardly be adequately treated in a general",
+      "bbox": [
+        66,
+        911,
+        383,
+        924
+      ],
+      "confidence": 0.9917030930519104
+    },
+    {
+      "text": "Or Jalap . ..",
+      "bbox": [
+        511,
+        911,
+        579,
+        929
+      ],
+      "confidence": 0.8990011811256409
+    },
+    {
+      "text": "medical ward.",
+      "bbox": [
+        64,
+        923,
+        146,
+        939
+      ],
+      "confidence": 0.9997273087501526
+    },
+    {
+      "text": "O Halap!",
+      "bbox": [
+        513,
+        925,
+        564,
+        940
+      ],
+      "confidence": 0.9805753231048584
+    }
+  ],
+  "full_text": "776\nOCTOBER 13, 1962\nTHE WIDER WORLD—IN ENGLAND NOW\nTHE LANCET\nThe Wider World\nIn England Now\nA Rumming Commentary by Peripatetic Correspondents\nDIABETES IN GREECE\nR. D. LawREnce\nCan I offer you the Moulin Rouge or would you rather have\nM.A., M.D. Aberd., F.R.C.P.\nthe Y.M.C.A. ? The Ministry of Health want to put us off\nsmoking cigarettes. The first issue of discouraging posters has\nFor the first time since the Ancient Greeks named and\nbeen followed by a second, less gloomy, but even the sheep\ndescribed diabetes, the discovery of insulin made the\nsmoking cigarettes ignore the positive appeal. If you have\ndisease worth treating. But special facilities (e.g., for\nchildren it is always better to say \"Let's\" than \"Don't\".\nblood-tests) were soon found to be necessary, and in all\nHave they never seen how you sell cars, corsets, cosmetics, or\neven cigarettes?\nmedically progressive countries diabetic clinics were set\nLook now on this picture and on this. That nasty, long-\nup to provide expert knowledge. So, when I went not\nlong ago to the splendid and modern city of Athens, to\nhaired, tight-trousered young man whose yellow malodorous\nseek winter sun and ancient art, I was not surprised to\nfingers we know. That revolting young woman whose unap-\nfind, and to be asked to inspect, the \" Diabetic Centre of\npetising undergarments hide even more negative charms.\nBoth obviously smoking reefers and probably picking their\nAthens \". This was recently built by the Institute of\nnoses. No romance, no snob value, no careersmanship.\nNational Insurance, which corresponds to our National\nCan no-one in Savile Row of all places plagiarise the idyllic\nHealth scheme. The centre seemed to have been set up\nscene of clean and manly young man with damsel pure and\nalmost regardless of expense; but financed by contri-\nbeautiful, apple blossom overhead. \"Darling, you smell so\nnice, I'm so glad you gave up smoking.\" Or, against his\nbutions at 10% of salaries or income-tax, the Greek\nexpensive car, \" I could never have fallen for a girl who\nscheme may have larger resources than ours. All Greek\nsmoked.\"' Can't they pay a fee to a racing motorist, a hand-\ndiabetics are entitled to free treatment and drugs from the\ncentre; but some prefer to pay their local doctors, at least\nsome actor, or even a popsinger, whose photograph would say\nas long as everything goes well.\nwith a smile, \" I never smoke not.\"\nhas yawned for xeons and we have only yawned back.\nThe Black Widow and her nasty brood are useless-hell\nnow works under the direction, of Dr. N. S. Papaspyros who,\nThe diabetic centre was planned and built on the advice, and\nI am proud to say, studied at my London clinic, King's College\nHospital. He also visited all the principal clinics in Europe and\nJane cruises successfully through the classroom without cither\nAmerica so as to incorporate their best features in the Greek\neffort or interest, to the despair of her teachers. After her casual\nnegotiation of the 11 + we looked for a school only to find many\norganisation.\nwhich wanted Jane but few her pony. In one school, however,\ngeneral or teaching hospital as it would be in Britain (sharing\nThe centre is a creation on its own and is not attached to any\nthere were daily lessons in show-jumping and, implicitly,\nin its ancillary services and consultants): under its own experts\n\"G.C.E. not objected to.\nit has set up pathology and X-ray services and even a cobalt\nwe all have to face newly cleaned \" tack \" strewn about the\nAlthough the rest of the family is not particularly horsey,\nbomb. The outpatients are mostly the working population of\nliving-space; and the other day, while Jane's dam was out\nAthens, of which the estimated diabetic population is 20,000-\nshopping, her sire found himself watching a telly programme\n25,000.\nI believe it took a long time to convince the Institute of\nabout the horse. He learned that the horse is descended from\nthe tapir and that someone is trying to breed horses back to\nNational Insurance to spend this considerable sum of money;\ntapirs, on the thesis that intelligence has been bred out of them\nbut by doing so they will not only improve and maintain the\nat the cost of ability to jump or run. The breeding-back has\nimmediate working health, but also (by continuous good con-\napparently met with some success, and horses are beginning to\ntrol and supervision) achieve a long-term economy by prevent-\nthis and spoke to a colleague about it. The colleague is an\nlook like tapirs again. Jane's sire got quite enthusiastic about\nas blindness or loss of limbs from gangrene, necessitating a\ning or minimising the common complications of diabetes, such\nUlsterman and characteristically has a fewness of fine words.\npermanent and high disability pension.\n\"Who,\" he asked, \" wants to ride round the countryside on an\nThe inpatient block consists of 120 beds in 45-bed wards,\nintelligent tapir?\"\non seven floors, and a few sumptuous private suites. The\ninpatients come from all over Greece, which is believed to have\n90,000-100,000 diabetics.\nsurgical operations on television, faint and crack their skulls on\nWe have all heard of the people who, while watching\nThe need for this centre is shown by the enrolment of 3000\nthe floor or the fireplace, or who subsequently develop anxiety\npatients in the twelve months after it opened, and by the addi-\nstates about themselves. Properly presented, however, these\ntion of 200 new patients a month (8-9 a day)--and all this in\nprogrammes can do an immense amount of good. For instance,\nonly the early days of the clinic.\" These numbers throw a\nan injection, and that she would feel a prick of the needle,\nI was explaining to a six-year-old that I was going to give her\nterrific strain on the medical staff, which consists of Dr.\nPapaspyros and two doctors skilled in cardiology and neuro-\nbut nothing else. \" It's all right,\" she said, \" I know all about\npathy who are receiving instruction in the treatment and\nit. I saw it being done on Emergency—Ward 10.\"\nmanagement of diabetes. And so a strong team is being\ntrained-quite necessary to cope with the heavy increase\nof work. There is adequate and specially trained nursing\n's surprisin',\nOl. Ricin.\nstaff.\nThe centre is a fine building architecturally, as well as\nPar. Liq.\n01147856\nmost efficient in functional equipment. It certainly\nIsn't quick\naroused my envy by having enough beds always to\nAnd it's eashier\nadmit at once patients who need urgent specialised\nAnd greashier\ntreatment. Athens is much better off than London\nThan Magnesia.\nBut wenna\nand other major centres in Great Britain, because a\nTake Senna\ncoma can hardly be adequately treated in a general\nOr Jalap . ..\nmedical ward.\nO Halap!"
+}

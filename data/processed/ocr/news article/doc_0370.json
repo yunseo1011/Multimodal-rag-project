@@ -1,0 +1,741 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0370.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WABASH, IND.",
+      "bbox": [
+        147,
+        108,
+        259,
+        122
+      ],
+      "confidence": 0.9548887610435486
+    },
+    {
+      "text": "PLAIN DEALER",
+      "bbox": [
+        148,
+        123,
+        257,
+        137
+      ],
+      "confidence": 0.9985194802284241
+    },
+    {
+      "text": "D. 8.308",
+      "bbox": [
+        174,
+        136,
+        234,
+        150
+      ],
+      "confidence": 0.9211495518684387
+    },
+    {
+      "text": "July 18, 1968",
+      "bbox": [
+        141,
+        171,
+        272,
+        195
+      ],
+      "confidence": 0.9525837302207947
+    },
+    {
+      "text": "Stopping the Slow Burn",
+      "bbox": [
+        208,
+        201,
+        522,
+        244
+      ],
+      "confidence": 0.9946472644805908
+    },
+    {
+      "text": "The Federal Trade Commission.",
+      "bbox": [
+        115,
+        238,
+        367,
+        260
+      ],
+      "confidence": 0.9576587677001953
+    },
+    {
+      "text": "Public Health Service report citing",
+      "bbox": [
+        396,
+        244,
+        660,
+        267
+      ],
+      "confidence": 0.9946689009666443
+    },
+    {
+      "text": "in recommending to Congress that",
+      "bbox": [
+        98,
+        251,
+        369,
+        274
+      ],
+      "confidence": 0.953292727470398
+    },
+    {
+      "text": "further cause-effect evidence.",
+      "bbox": [
+        398,
+        259,
+        608,
+        277
+      ],
+      "confidence": 0.9814213514328003
+    },
+    {
+      "text": "cigaret advertising on radio and TV",
+      "bbox": [
+        97,
+        265,
+        367,
+        287
+      ],
+      "confidence": 0.9868594408035278
+    },
+    {
+      "text": "be stopped, has made a strong pro-",
+      "bbox": [
+        97,
+        279,
+        367,
+        302
+      ],
+      "confidence": 0.9796481132507324
+    },
+    {
+      "text": "A series of articles earlier tinis",
+      "bbox": [
+        412,
+        281,
+        660,
+        304
+      ],
+      "confidence": 0.9724450707435608
+    },
+    {
+      "text": "rosal - but one no stronger than",
+      "bbox": [
+        96,
+        293,
+        367,
+        316
+      ],
+      "confidence": 0.9693828225135803
+    },
+    {
+      "text": "the situation demands.",
+      "bbox": [
+        97,
+        306,
+        268,
+        327
+      ],
+      "confidence": 0.9765142798423767
+    },
+    {
+      "text": "year on the cigaret advertising issue",
+      "bbox": [
+        394,
+        295,
+        660,
+        317
+      ],
+      "confidence": 0.9971212148666382
+    },
+    {
+      "text": "pointed out that the tobacco and",
+      "bbox": [
+        395,
+        307,
+        658,
+        330
+      ],
+      "confidence": 0.9838107824325562
+    },
+    {
+      "text": "The FTC itself is not in a position",
+      "bbox": [
+        113,
+        320,
+        366,
+        341
+      ],
+      "confidence": 0.9635080695152283
+    },
+    {
+      "text": "broadcasting industries stand to lose",
+      "bbox": [
+        395,
+        320,
+        659,
+        343
+      ],
+      "confidence": 0.9907588362693787
+    },
+    {
+      "text": "fo enforce the ban. Already it is liv-",
+      "bbox": [
+        95,
+        334,
+        365,
+        355
+      ],
+      "confidence": 0.9581520557403564
+    },
+    {
+      "text": "great sums should the FTC recom-",
+      "bbox": [
+        394,
+        335,
+        658,
+        356
+      ],
+      "confidence": 0.9803783297538757
+    },
+    {
+      "text": "ing under the restriction imposed by",
+      "bbox": [
+        95,
+        348,
+        366,
+        369
+      ],
+      "confidence": 0.9903435111045837
+    },
+    {
+      "text": "mendation be enacted.",
+      "bbox": [
+        395,
+        349,
+        559,
+        366
+      ],
+      "confidence": 0.9782488942146301
+    },
+    {
+      "text": "Congress three years ago barring it",
+      "bbox": [
+        94,
+        362,
+        365,
+        383
+      ],
+      "confidence": 0.9743067026138306
+    },
+    {
+      "text": "from making cigaret advertisers in-",
+      "bbox": [
+        95,
+        376,
+        365,
+        397
+      ],
+      "confidence": 0.983142077922821
+    },
+    {
+      "text": "It should be clear that smoking is",
+      "bbox": [
+        410,
+        369,
+        658,
+        392
+      ],
+      "confidence": 0.9885488152503967
+    },
+    {
+      "text": "clude health warnings in all ads. The",
+      "bbox": [
+        95,
+        390,
+        364,
+        410
+      ],
+      "confidence": 0.9903491139411926
+    },
+    {
+      "text": "of approval. With half of American",
+      "bbox": [
+        392,
+        396,
+        657,
+        419
+      ],
+      "confidence": 0.9752384424209595
+    },
+    {
+      "text": "a habit that takes root in a climate",
+      "bbox": [
+        393,
+        383,
+        658,
+        405
+      ],
+      "confidence": 0.9963828325271606
+    },
+    {
+      "text": "restriction has another year before",
+      "bbox": [
+        95,
+        405,
+        363,
+        424
+      ],
+      "confidence": 0.9899194836616516
+    },
+    {
+      "text": "youngsters taking up smoking by the",
+      "bbox": [
+        393,
+        412,
+        656,
+        432
+      ],
+      "confidence": 0.9851866364479065
+    },
+    {
+      "text": "it expires. But the FTC's sister agen-",
+      "bbox": [
+        94,
+        418,
+        363,
+        438
+      ],
+      "confidence": 0.9765111207962036
+    },
+    {
+      "text": "age of 18, the need to alter the cli-",
+      "bbox": [
+        393,
+        424,
+        656,
+        446
+      ],
+      "confidence": 0.9630542397499084
+    },
+    {
+      "text": "cy.",
+      "bbox": [
+        96,
+        435,
+        130,
+        450
+      ],
+      "confidence": 0.9962313175201416
+    },
+    {
+      "text": "the Federal Communications",
+      "bbox": [
+        135,
+        435,
+        362,
+        450
+      ],
+      "confidence": 0.9920294284820557
+    },
+    {
+      "text": "mate is urgent. - Christian Science",
+      "bbox": [
+        391,
+        437,
+        656,
+        459
+      ],
+      "confidence": 0.966446578502655
+    },
+    {
+      "text": "Commission, could rule on the mat-",
+      "bbox": [
+        94,
+        447,
+        363,
+        465
+      ],
+      "confidence": 0.9935545921325684
+    },
+    {
+      "text": "Monitor.",
+      "bbox": [
+        391,
+        449,
+        457,
+        469
+      ],
+      "confidence": 0.996955156326294
+    },
+    {
+      "text": "ter. or Congress itself could empow-",
+      "bbox": [
+        93,
+        460,
+        363,
+        480
+      ],
+      "confidence": 0.9844543933868408
+    },
+    {
+      "text": "er the FCC to ban cigaret ads.",
+      "bbox": [
+        95,
+        476,
+        319,
+        491
+      ],
+      "confidence": 0.9953591227531433
+    },
+    {
+      "text": "BANNING THE ads would help",
+      "bbox": [
+        113,
+        493,
+        360,
+        506
+      ],
+      "confidence": 0.9647745490074158
+    },
+    {
+      "text": "dampen the appeal of smoking as a",
+      "bbox": [
+        96,
+        507,
+        362,
+        521
+      ],
+      "confidence": 0.985312819480896
+    },
+    {
+      "text": "among the young. It would also help",
+      "bbox": [
+        93,
+        531,
+        362,
+        549
+      ],
+      "confidence": 0.9867560267448425
+    },
+    {
+      "text": "socially \"in\" thing to do, particularly",
+      "bbox": [
+        95,
+        520,
+        361,
+        534
+      ],
+      "confidence": 0.9751543998718262
+    },
+    {
+      "text": "adults fi:d relief from the suggestions",
+      "bbox": [
+        94,
+        546,
+        361,
+        562
+      ],
+      "confidence": 0.9682793021202087
+    },
+    {
+      "text": "that snoking can give them peace",
+      "bbox": [
+        94,
+        560,
+        360,
+        575
+      ],
+      "confidence": 0.9790867567062378
+    },
+    {
+      "text": "of mind or make them more accept-",
+      "bbox": [
+        94,
+        574,
+        360,
+        588
+      ],
+      "confidence": 0.9866836071014404
+    },
+    {
+      "text": "able socially.",
+      "bbox": [
+        94,
+        587,
+        193,
+        601
+      ],
+      "confidence": 0.9768050312995911
+    },
+    {
+      "text": "The fight against smoking has been",
+      "bbox": [
+        110,
+        599,
+        360,
+        613
+      ],
+      "confidence": 0.9991782903671265
+    },
+    {
+      "text": "a tough one. It was in i964 that",
+      "bbox": [
+        93,
+        614,
+        359,
+        628
+      ],
+      "confidence": 0.9799847602844238
+    },
+    {
+      "text": "what should have been a strong blow",
+      "bbox": [
+        93,
+        628,
+        359,
+        642
+      ],
+      "confidence": 0.9979255795478821
+    },
+    {
+      "text": "to smoking was registered. Then the",
+      "bbox": [
+        91,
+        639,
+        359,
+        657
+      ],
+      "confidence": 0.9819633364677429
+    },
+    {
+      "text": "Service reported a casual link be.",
+      "bbox": [
+        91,
+        666,
+        359,
+        684
+      ],
+      "confidence": 0.9716471433639526
+    },
+    {
+      "text": "Surgeon General of the Public Health",
+      "bbox": [
+        93,
+        655,
+        358,
+        669
+      ],
+      "confidence": 0.990649938583374
+    },
+    {
+      "text": "tween smoking and respiratory di-",
+      "bbox": [
+        91,
+        680,
+        357,
+        698
+      ],
+      "confidence": 0.9790511727333069
+    },
+    {
+      "text": "seases. But both cigaret smoking and",
+      "bbox": [
+        92,
+        697,
+        356,
+        711
+      ],
+      "confidence": 0.983661413192749
+    },
+    {
+      "text": "the advertising that promotes it con-",
+      "bbox": [
+        92,
+        709,
+        357,
+        724
+      ],
+      "confidence": 0.9785362482070923
+    },
+    {
+      "text": "tinued their slow malevolent burn.",
+      "bbox": [
+        92,
+        722,
+        343,
+        737
+      ],
+      "confidence": 0.974938690662384
+    },
+    {
+      "text": "The evidence of smoking's relation-",
+      "bbox": [
+        109,
+        736,
+        356,
+        750
+      ],
+      "confidence": 0.9949420094490051
+    },
+    {
+      "text": "ship with health hazards has contin-",
+      "bbox": [
+        91,
+        747,
+        356,
+        762
+      ],
+      "confidence": 0.9766541719436646
+    },
+    {
+      "text": "ued to mount. Only this week the",
+      "bbox": [
+        90,
+        759,
+        356,
+        777
+      ],
+      "confidence": 0.9692562818527222
+    },
+    {
+      "text": "Wall Street Journal carried a feature",
+      "bbox": [
+        90,
+        772,
+        356,
+        790
+      ],
+      "confidence": 0.9947601556777954
+    },
+    {
+      "text": "story on the addictive nature of the",
+      "bbox": [
+        90,
+        787,
+        354,
+        802
+      ],
+      "confidence": 0.9540278315544128
+    },
+    {
+      "text": "2016003422",
+      "bbox": [
+        744,
+        782,
+        777,
+        932
+      ],
+      "confidence": 0.9998586773872375
+    },
+    {
+      "text": "smoking habit.",
+      "bbox": [
+        92,
+        802,
+        200,
+        817
+      ],
+      "confidence": 0.9765704274177551
+    },
+    {
+      "text": "the argument of the Tobacco Insti-",
+      "bbox": [
+        92,
+        829,
+        355,
+        847
+      ],
+      "confidence": 0.9783907532691956
+    },
+    {
+      "text": "THE JOURNAL rightly told how",
+      "bbox": [
+        109,
+        818,
+        354,
+        832
+      ],
+      "confidence": 0.9910708665847778
+    },
+    {
+      "text": "tute, Inc. - that no cause-effect re-",
+      "bbox": [
+        93,
+        845,
+        355,
+        858
+      ],
+      "confidence": 0.9945924878120422
+    },
+    {
+      "text": "lationship between smoking and",
+      "bbox": [
+        92,
+        857,
+        354,
+        871
+      ],
+      "confidence": 0.9920608401298523
+    },
+    {
+      "text": "health has been proved - has given",
+      "bbox": [
+        91,
+        870,
+        353,
+        884
+      ],
+      "confidence": 0.9881718754768372
+    },
+    {
+      "text": "smokers an out in justifying their",
+      "bbox": [
+        93,
+        883,
+        354,
+        897
+      ],
+      "confidence": 0.9773004055023193
+    },
+    {
+      "text": "habit. That the institute's head is",
+      "bbox": [
+        90,
+        893,
+        356,
+        911
+      ],
+      "confidence": 0.9786480665206909
+    },
+    {
+      "text": "thrust in the sand was shown by a",
+      "bbox": [
+        92,
+        907,
+        354,
+        924
+      ],
+      "confidence": 0.975851833820343
+    },
+    {
+      "text": "( Also appeared in Madison Herald )",
+      "bbox": [
+        98,
+        968,
+        425,
+        989
+      ],
+      "confidence": 0.9804264903068542
+    }
+  ],
+  "full_text": "WABASH, IND.\nPLAIN DEALER\nD. 8.308\nJuly 18, 1968\nStopping the Slow Burn\nThe Federal Trade Commission.\nPublic Health Service report citing\nin recommending to Congress that\nfurther cause-effect evidence.\ncigaret advertising on radio and TV\nbe stopped, has made a strong pro-\nA series of articles earlier tinis\nrosal - but one no stronger than\nthe situation demands.\nyear on the cigaret advertising issue\npointed out that the tobacco and\nThe FTC itself is not in a position\nbroadcasting industries stand to lose\nfo enforce the ban. Already it is liv-\ngreat sums should the FTC recom-\ning under the restriction imposed by\nmendation be enacted.\nCongress three years ago barring it\nfrom making cigaret advertisers in-\nIt should be clear that smoking is\nclude health warnings in all ads. The\nof approval. With half of American\na habit that takes root in a climate\nrestriction has another year before\nyoungsters taking up smoking by the\nit expires. But the FTC's sister agen-\nage of 18, the need to alter the cli-\ncy.\nthe Federal Communications\nmate is urgent. - Christian Science\nCommission, could rule on the mat-\nMonitor.\nter. or Congress itself could empow-\ner the FCC to ban cigaret ads.\nBANNING THE ads would help\ndampen the appeal of smoking as a\namong the young. It would also help\nsocially \"in\" thing to do, particularly\nadults fi:d relief from the suggestions\nthat snoking can give them peace\nof mind or make them more accept-\nable socially.\nThe fight against smoking has been\na tough one. It was in i964 that\nwhat should have been a strong blow\nto smoking was registered. Then the\nService reported a casual link be.\nSurgeon General of the Public Health\ntween smoking and respiratory di-\nseases. But both cigaret smoking and\nthe advertising that promotes it con-\ntinued their slow malevolent burn.\nThe evidence of smoking's relation-\nship with health hazards has contin-\nued to mount. Only this week the\nWall Street Journal carried a feature\nstory on the addictive nature of the\n2016003422\nsmoking habit.\nthe argument of the Tobacco Insti-\nTHE JOURNAL rightly told how\ntute, Inc. - that no cause-effect re-\nlationship between smoking and\nhealth has been proved - has given\nsmokers an out in justifying their\nhabit. That the institute's head is\nthrust in the sand was shown by a\n( Also appeared in Madison Herald )"
+}

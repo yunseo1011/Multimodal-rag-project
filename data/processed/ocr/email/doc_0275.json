@@ -1,0 +1,71 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0275.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "John.Hoel@PMMC.com on 01/04/2001 09:41:27 PM",
+      "bbox": [
+        38,
+        131,
+        359,
+        160
+      ],
+      "confidence": 0.9940414428710938
+    },
+    {
+      "text": "To: Kim Tucker/OAG@OAG",
+      "bbox": [
+        39,
+        169,
+        221,
+        193
+      ],
+      "confidence": 0.9733896255493164
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        37,
+        189,
+        63,
+        208
+      ],
+      "confidence": 0.9966845512390137
+    },
+    {
+      "text": "Subject: RE: Today's Roll Call",
+      "bbox": [
+        37,
+        203,
+        228,
+        225
+      ],
+      "confidence": 0.9947777986526489
+    },
+    {
+      "text": "I'm freezig my ss ofinFla and don'have tme o c tival Tom",
+      "bbox": [
+        31,
+        263,
+        482,
+        294
+      ],
+      "confidence": 0.6989628672599792
+    },
+    {
+      "text": "Foolery.",
+      "bbox": [
+        31,
+        285,
+        91,
+        310
+      ],
+      "confidence": 0.977234959602356
+    }
+  ],
+  "full_text": "John.Hoel@PMMC.com on 01/04/2001 09:41:27 PM\nTo: Kim Tucker/OAG@OAG\ncc:\nSubject: RE: Today's Roll Call\nI'm freezig my ss ofinFla and don'have tme o c tival Tom\nFoolery."
+}

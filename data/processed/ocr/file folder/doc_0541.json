@@ -1,0 +1,21 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0541.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FDA ARTICLES",
+      "bbox": [
+        222,
+        133,
+        346,
+        152
+      ],
+      "confidence": 0.9994047284126282
+    }
+  ],
+  "full_text": "FDA ARTICLES"
+}

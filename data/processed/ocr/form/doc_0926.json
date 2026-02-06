@@ -1,0 +1,391 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0926.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "JUL 02 '98 12:10PM C & M CONV FAX B11",
+      "bbox": [
+        47,
+        19,
+        335,
+        43
+      ],
+      "confidence": 0.986208438873291
+    },
+    {
+      "text": "P.1/12",
+      "bbox": [
+        630,
+        32,
+        682,
+        50
+      ],
+      "confidence": 0.9996506571769714
+    },
+    {
+      "text": "CroweLL & Moring LLP",
+      "bbox": [
+        280,
+        62,
+        504,
+        86
+      ],
+      "confidence": 0.8586176037788391
+    },
+    {
+      "text": "1001 PENNSYLVANIA AVENUE, N.W.",
+      "bbox": [
+        269,
+        82,
+        514,
+        106
+      ],
+      "confidence": 0.991705596446991
+    },
+    {
+      "text": "WASHINGTON, D.C. 20004-2595",
+      "bbox": [
+        288,
+        100,
+        496,
+        120
+      ],
+      "confidence": 0.9811743497848511
+    },
+    {
+      "text": "(202) 624-2500",
+      "bbox": [
+        347,
+        118,
+        438,
+        135
+      ],
+      "confidence": 0.9752128720283508
+    },
+    {
+      "text": "CABLE: CROMOR",
+      "bbox": [
+        345,
+        132,
+        440,
+        147
+      ],
+      "confidence": 0.9651178121566772
+    },
+    {
+      "text": "FACSIMILE (RAPICOM): (202) 628-5116",
+      "bbox": [
+        292,
+        144,
+        493,
+        163
+      ],
+      "confidence": 0.9664102792739868
+    },
+    {
+      "text": "W.U.L (INTERNATIONAL): 64344",
+      "bbox": [
+        307,
+        156,
+        478,
+        175
+      ],
+      "confidence": 0.9601764678955078
+    },
+    {
+      "text": "W.U. (DOMESTIC): 89-2446",
+      "bbox": [
+        326,
+        171,
+        461,
+        185
+      ],
+      "confidence": 0.913714587688446
+    },
+    {
+      "text": "THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL TO",
+      "bbox": [
+        58,
+        218,
+        696,
+        248
+      ],
+      "confidence": 0.9812800288200378
+    },
+    {
+      "text": "WHOM, OR ENTITY TO WHICH, IT IS ADDRESSED AND MAY CONTAIN",
+      "bbox": [
+        59,
+        239,
+        647,
+        264
+      ],
+      "confidence": 0.9913927316665649
+    },
+    {
+      "text": "INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM",
+      "bbox": [
+        59,
+        257,
+        698,
+        283
+      ],
+      "confidence": 0.9953769445419312
+    },
+    {
+      "text": "DISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not",
+      "bbox": [
+        59,
+        275,
+        694,
+        302
+      ],
+      "confidence": 0.9861003756523132
+    },
+    {
+      "text": "the intended recipient or the employee or agent responsible for delivering the",
+      "bbox": [
+        61,
+        295,
+        690,
+        321
+      ],
+      "confidence": 0.9855183362960815
+    },
+    {
+      "text": "message to the intended recipient, you are hereby notified that any",
+      "bbox": [
+        61,
+        314,
+        605,
+        340
+      ],
+      "confidence": 0.9959422945976257
+    },
+    {
+      "text": "dissemination, distribution, or copying of this communication is prohibited. If",
+      "bbox": [
+        62,
+        333,
+        698,
+        358
+      ],
+      "confidence": 0.9880515933036804
+    },
+    {
+      "text": "you have received this communication in error, please notify us immediately by",
+      "bbox": [
+        62,
+        352,
+        706,
+        376
+      ],
+      "confidence": 0.9888270497322083
+    },
+    {
+      "text": "telephone (collect), and return the original message to us at the above address",
+      "bbox": [
+        64,
+        373,
+        694,
+        393
+      ],
+      "confidence": 0.9945410490036011
+    },
+    {
+      "text": "via the U.S. Postal Service. Thank you.",
+      "bbox": [
+        65,
+        390,
+        386,
+        411
+      ],
+      "confidence": 0.9911240935325623
+    },
+    {
+      "text": "FACSIMILE COVER PAGE",
+      "bbox": [
+        292,
+        421,
+        494,
+        445
+      ],
+      "confidence": 0.9890950322151184
+    },
+    {
+      "text": "FAX TELEPHONE NUMBER: (202) 628-5116",
+      "bbox": [
+        220,
+        456,
+        560,
+        479
+      ],
+      "confidence": 0.9895133972167969
+    },
+    {
+      "text": "Date: July 2, 1998",
+      "bbox": [
+        527,
+        505,
+        677,
+        528
+      ],
+      "confidence": 0.9672219753265381
+    },
+    {
+      "text": "To: Virginia Murphy, Esquire",
+      "bbox": [
+        72,
+        543,
+        312,
+        560
+      ],
+      "confidence": 0.9969771504402161
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        100,
+        559,
+        218,
+        580
+      ],
+      "confidence": 0.9942753314971924
+    },
+    {
+      "text": "FAX Number: (212) 907-5473",
+      "bbox": [
+        73,
+        592,
+        290,
+        609
+      ],
+      "confidence": 0.9729166030883789
+    },
+    {
+      "text": "Phone Number: (212) 880-3666",
+      "bbox": [
+        370,
+        590,
+        606,
+        612
+      ],
+      "confidence": 0.971878170967102
+    },
+    {
+      "text": "From: Marc F.Efron (008)",
+      "bbox": [
+        76,
+        629,
+        282,
+        646
+      ],
+      "confidence": 0.9818595051765442
+    },
+    {
+      "text": "Originator's Phone Number: 202-624-2640",
+      "bbox": [
+        374,
+        630,
+        686,
+        647
+      ],
+      "confidence": 0.996263861656189
+    },
+    {
+      "text": "Number of Pages (including cover sheet):",
+      "bbox": [
+        75,
+        658,
+        370,
+        680
+      ],
+      "confidence": 0.984027087688446
+    },
+    {
+      "text": "Message:",
+      "bbox": [
+        73,
+        690,
+        148,
+        715
+      ],
+      "confidence": 0.9968205094337463
+    },
+    {
+      "text": "2084223292",
+      "bbox": [
+        710,
+        708,
+        741,
+        817
+      ],
+      "confidence": 0.9992497563362122
+    },
+    {
+      "text": "HARD COPY TO FOLLOW:",
+      "bbox": [
+        78,
+        811,
+        295,
+        834
+      ],
+      "confidence": 0.9832148551940918
+    },
+    {
+      "text": "YES",
+      "bbox": [
+        370,
+        815,
+        413,
+        837
+      ],
+      "confidence": 0.9993655681610107
+    },
+    {
+      "text": "_NO",
+      "bbox": [
+        490,
+        817,
+        527,
+        840
+      ],
+      "confidence": 0.8293097019195557
+    },
+    {
+      "text": "CAM#: 38151.011",
+      "bbox": [
+        80,
+        857,
+        214,
+        878
+      ],
+      "confidence": 0.990442156791687
+    },
+    {
+      "text": "ECEIVE",
+      "bbox": [
+        561,
+        868,
+        692,
+        896
+      ],
+      "confidence": 0.9995761513710022
+    },
+    {
+      "text": "JUL - 2 1998",
+      "bbox": [
+        578,
+        910,
+        673,
+        934
+      ],
+      "confidence": 0.9849674105644226
+    }
+  ],
+  "full_text": "JUL 02 '98 12:10PM C & M CONV FAX B11\nP.1/12\nCroweLL & Moring LLP\n1001 PENNSYLVANIA AVENUE, N.W.\nWASHINGTON, D.C. 20004-2595\n(202) 624-2500\nCABLE: CROMOR\nFACSIMILE (RAPICOM): (202) 628-5116\nW.U.L (INTERNATIONAL): 64344\nW.U. (DOMESTIC): 89-2446\nTHIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL TO\nWHOM, OR ENTITY TO WHICH, IT IS ADDRESSED AND MAY CONTAIN\nINFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM\nDISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not\nthe intended recipient or the employee or agent responsible for delivering the\nmessage to the intended recipient, you are hereby notified that any\ndissemination, distribution, or copying of this communication is prohibited. If\nyou have received this communication in error, please notify us immediately by\ntelephone (collect), and return the original message to us at the above address\nvia the U.S. Postal Service. Thank you.\nFACSIMILE COVER PAGE\nFAX TELEPHONE NUMBER: (202) 628-5116\nDate: July 2, 1998\nTo: Virginia Murphy, Esquire\nPhilip Morris\nFAX Number: (212) 907-5473\nPhone Number: (212) 880-3666\nFrom: Marc F.Efron (008)\nOriginator's Phone Number: 202-624-2640\nNumber of Pages (including cover sheet):\nMessage:\n2084223292\nHARD COPY TO FOLLOW:\nYES\n_NO\nCAM#: 38151.011\nECEIVE\nJUL - 2 1998"
+}

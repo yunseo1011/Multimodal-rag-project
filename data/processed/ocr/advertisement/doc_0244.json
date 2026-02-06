@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0244.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Wantthebesuta",
+      "bbox": [
+        149,
+        483,
+        599,
+        545
+      ],
+      "confidence": 0.8384885787963867
+    },
+    {
+      "text": "san",
+      "bbox": [
+        312,
+        554,
+        404,
+        591
+      ],
+      "confidence": 0.6864045262336731
+    },
+    {
+      "text": "getit/homWinston",
+      "bbox": [
+        88,
+        590,
+        702,
+        688
+      ],
+      "confidence": 0.9233801364898682
+    },
+    {
+      "text": "Winston",
+      "bbox": [
+        530,
+        792,
+        677,
+        863
+      ],
+      "confidence": 0.9777117371559143
+    },
+    {
+      "text": "2073405727",
+      "bbox": [
+        730,
+        833,
+        753,
+        936
+      ],
+      "confidence": 0.9999675750732422
+    },
+    {
+      "text": "FILTER-CIGARETTES",
+      "bbox": [
+        540,
+        863,
+        664,
+        876
+      ],
+      "confidence": 0.9908730983734131
+    },
+    {
+      "text": "Warning: The Surgeon General Has Determined",
+      "bbox": [
+        58,
+        945,
+        303,
+        968
+      ],
+      "confidence": 0.9675243496894836
+    },
+    {
+      "text": "That Cgarette Smoking Is Dangerous to Your Health.",
+      "bbox": [
+        59,
+        962,
+        304,
+        985
+      ],
+      "confidence": 0.9703055024147034
+    }
+  ],
+  "full_text": "Wantthebesuta\nsan\ngetit/homWinston\nWinston\n2073405727\nFILTER-CIGARETTES\nWarning: The Surgeon General Has Determined\nThat Cgarette Smoking Is Dangerous to Your Health."
+}

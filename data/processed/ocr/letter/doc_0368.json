@@ -1,0 +1,251 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0368.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "January 28, 1991",
+      "bbox": [
+        485,
+        53,
+        612,
+        80
+      ],
+      "confidence": 0.9693862795829773
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        48,
+        111,
+        80,
+        131
+      ],
+      "confidence": 0.9952176213264465
+    },
+    {
+      "text": "Amy Serwer",
+      "bbox": [
+        102,
+        109,
+        190,
+        132
+      ],
+      "confidence": 0.9994361996650696
+    },
+    {
+      "text": "Mark Bolger",
+      "bbox": [
+        103,
+        142,
+        199,
+        170
+      ],
+      "confidence": 0.9942185878753662
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        50,
+        143,
+        96,
+        165
+      ],
+      "confidence": 0.9994465112686157
+    },
+    {
+      "text": "RE:",
+      "bbox": [
+        52,
+        177,
+        82,
+        198
+      ],
+      "confidence": 0.9975645542144775
+    },
+    {
+      "text": "WINSTON ULTRA LIGHTS BOX T&N'S",
+      "bbox": [
+        107,
+        178,
+        349,
+        203
+      ],
+      "confidence": 0.9316312074661255
+    },
+    {
+      "text": "The tar and nicotine numbers for WINSTON ULTRA LIGHTS Box are as follows:",
+      "bbox": [
+        54,
+        240,
+        624,
+        269
+      ],
+      "confidence": 0.9766846895217896
+    },
+    {
+      "text": "Iar",
+      "bbox": [
+        361,
+        275,
+        397,
+        303
+      ],
+      "confidence": 0.9076616168022156
+    },
+    {
+      "text": "Nicotine",
+      "bbox": [
+        479,
+        277,
+        548,
+        302
+      ],
+      "confidence": 0.9995925426483154
+    },
+    {
+      "text": "WINSTON ULTRA LIGHTS 83MM BOX",
+      "bbox": [
+        53,
+        305,
+        295,
+        330
+      ],
+      "confidence": 0.9744483828544617
+    },
+    {
+      "text": "WINSTON ULTRA LIGHTS 10OMM BoX",
+      "bbox": [
+        52,
+        322,
+        294,
+        347
+      ],
+      "confidence": 0.946342408657074
+    },
+    {
+      "text": "6 mg.",
+      "bbox": [
+        354,
+        309,
+        402,
+        334
+      ],
+      "confidence": 0.9024981260299683
+    },
+    {
+      "text": ".53 mg.",
+      "bbox": [
+        487,
+        309,
+        547,
+        335
+      ],
+      "confidence": 0.996099054813385
+    },
+    {
+      "text": "6 mg.",
+      "bbox": [
+        355,
+        328,
+        403,
+        350
+      ],
+      "confidence": 0.9852220416069031
+    },
+    {
+      "text": ".60 mg.",
+      "bbox": [
+        487,
+        326,
+        547,
+        352
+      ],
+      "confidence": 0.9769781827926636
+    },
+    {
+      "text": "Please advise with questions.",
+      "bbox": [
+        53,
+        387,
+        283,
+        411
+      ],
+      "confidence": 0.9838473796844482
+    },
+    {
+      "text": "Mark",
+      "bbox": [
+        466,
+        403,
+        565,
+        463
+      ],
+      "confidence": 0.7525237202644348
+    },
+    {
+      "text": "Mark R. Bolger",
+      "bbox": [
+        479,
+        455,
+        592,
+        479
+      ],
+      "confidence": 0.9651851654052734
+    },
+    {
+      "text": "xc: Melinda Simmons",
+      "bbox": [
+        47,
+        518,
+        213,
+        541
+      ],
+      "confidence": 0.9906942248344421
+    },
+    {
+      "text": "Denny Potter",
+      "bbox": [
+        87,
+        535,
+        191,
+        560
+      ],
+      "confidence": 0.9821069836616516
+    },
+    {
+      "text": "Tom Rucker",
+      "bbox": [
+        87,
+        551,
+        175,
+        575
+      ],
+      "confidence": 0.8791016340255737
+    },
+    {
+      "text": "No.268.By",
+      "bbox": [
+        410,
+        844,
+        575,
+        889
+      ],
+      "confidence": 0.8676460385322571
+    },
+    {
+      "text": "50755 3690",
+      "bbox": [
+        709,
+        866,
+        732,
+        974
+      ],
+      "confidence": 0.9978504180908203
+    }
+  ],
+  "full_text": "January 28, 1991\nTO:\nAmy Serwer\nMark Bolger\nFROM:\nRE:\nWINSTON ULTRA LIGHTS BOX T&N'S\nThe tar and nicotine numbers for WINSTON ULTRA LIGHTS Box are as follows:\nIar\nNicotine\nWINSTON ULTRA LIGHTS 83MM BOX\nWINSTON ULTRA LIGHTS 10OMM BoX\n6 mg.\n.53 mg.\n6 mg.\n.60 mg.\nPlease advise with questions.\nMark\nMark R. Bolger\nxc: Melinda Simmons\nDenny Potter\nTom Rucker\nNo.268.By\n50755 3690"
+}

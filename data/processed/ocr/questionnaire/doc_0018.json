@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0018.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "KC",
+      "bbox": [
+        611,
+        12,
+        680,
+        51
+      ],
+      "confidence": 0.8274479508399963
+    },
+    {
+      "text": "SMOKER_STUDY",
+      "bbox": [
+        328,
+        57,
+        424,
+        75
+      ],
+      "confidence": 0.9934599995613098
+    },
+    {
+      "text": "Oct. 197.3",
+      "bbox": [
+        487,
+        56,
+        560,
+        74
+      ],
+      "confidence": 0.9571039080619812
+    },
+    {
+      "text": "Good morning/afternoon/evening. My name is",
+      "bbox": [
+        37,
+        84,
+        377,
+        112
+      ],
+      "confidence": 0.9835399389266968
+    },
+    {
+      "text": "from",
+      "bbox": [
+        538,
+        93,
+        578,
+        111
+      ],
+      "confidence": 0.9999524354934692
+    },
+    {
+      "text": "ask you a few questions.",
+      "bbox": [
+        36,
+        112,
+        231,
+        135
+      ],
+      "confidence": 0.9932315349578857
+    },
+    {
+      "text": "to",
+      "bbox": [
+        695,
+        107,
+        717,
+        118
+      ],
+      "confidence": 0.9999322891235352
+    },
+    {
+      "text": "1.' In the past week or two, have you spent any time looking through, or reading a",
+      "bbox": [
+        35,
+        134,
+        680,
+        164
+      ],
+      "confidence": 0.9824251532554626
+    },
+    {
+      "text": "magazine or newspaper at home?",
+      "bbox": [
+        71,
+        152,
+        307,
+        171
+      ],
+      "confidence": 0.9827267527580261
+    },
+    {
+      "text": "Yes___ (ASK Q.2)",
+      "bbox": [
+        153,
+        175,
+        292,
+        199
+      ],
+      "confidence": 0.8956128358840942
+    },
+    {
+      "text": "No _— (THANK AND TERMINATE)",
+      "bbox": [
+        369,
+        177,
+        593,
+        198
+      ],
+      "confidence": 0.8551262617111206
+    },
+    {
+      "text": "2. kDo you smoke cigarettes?",
+      "bbox": [
+        38,
+        200,
+        262,
+        223
+      ],
+      "confidence": 0.9619340300559998
+    },
+    {
+      "text": "(ASK Q.3)",
+      "bbox": [
+        213,
+        224,
+        291,
+        247
+      ],
+      "confidence": 0.9929797053337097
+    },
+    {
+      "text": "No __ (THANK AND TERMINATE)",
+      "bbox": [
+        367,
+        224,
+        594,
+        249
+      ],
+      "confidence": 0.9445782899856567
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        40,
+        253,
+        75,
+        268
+      ],
+      "confidence": 0.9973437190055847
+    },
+    {
+      "text": "What is your regular brand of cigarettes, the brand you smoke most often?",
+      "bbox": [
+        67,
+        252,
+        643,
+        270
+      ],
+      "confidence": 0.9963335990905762
+    },
+    {
+      "text": "(SHOW \"BRAND CARD\" TO RESPONDENT).",
+      "bbox": [
+        72,
+        264,
+        335,
+        282
+      ],
+      "confidence": 0.9289374947547913
+    },
+    {
+      "text": "Please read the name and the number. (IF NO NUMBER THANK AND TERMINATE)",
+      "bbox": [
+        72,
+        289,
+        626,
+        306
+      ],
+      "confidence": 0.960155189037323
+    },
+    {
+      "text": "Erand Name",
+      "bbox": [
+        83,
+        339,
+        168,
+        359
+      ],
+      "confidence": 0.9889513254165649
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        464,
+        339,
+        521,
+        361
+      ],
+      "confidence": 0.9998899102210999
+    },
+    {
+      "text": "(IF NO REGULAR BRAND, THANK AND TERMINATE)",
+      "bbox": [
+        247,
+        377,
+        581,
+        397
+      ],
+      "confidence": 0.9989438056945801
+    },
+    {
+      "text": "4. How long have you smoked it?",
+      "bbox": [
+        35,
+        404,
+        290,
+        421
+      ],
+      "confidence": 0.9795551896095276
+    },
+    {
+      "text": "ASK Q.5 AND 6 ONLY IF \"BASIC\" (#GB Or 69) REGULAR BRAND",
+      "bbox": [
+        143,
+        428,
+        617,
+        451
+      ],
+      "confidence": 0.9117764830589294
+    },
+    {
+      "text": "5. Before you started smoking Basic, what brand were you smoking?",
+      "bbox": [
+        33,
+        454,
+        559,
+        476
+      ],
+      "confidence": 0.9827266335487366
+    },
+    {
+      "text": "(SHOW \"BRAND CARD\" TO RESPONDENT)",
+      "bbox": [
+        244,
+        479,
+        512,
+        502
+      ],
+      "confidence": 0.9885060787200928
+    },
+    {
+      "text": "Brand Name",
+      "bbox": [
+        80,
+        520,
+        163,
+        537
+      ],
+      "confidence": 0.977517306804657
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        466,
+        521,
+        521,
+        539
+      ],
+      "confidence": 0.9999303221702576
+    },
+    {
+      "text": "-",
+      "bbox": [
+        320,
+        535,
+        329,
+        543
+      ],
+      "confidence": 0.786153256893158
+    },
+    {
+      "text": "6. And how long were you smoking that brand?",
+      "bbox": [
+        28,
+        557,
+        391,
+        576
+      ],
+      "confidence": 0.981846809387207
+    },
+    {
+      "text": "(TAKE BACK \"BRAND CARD\"),",
+      "bbox": [
+        243,
+        581,
+        443,
+        603
+      ],
+      "confidence": 0.9691250324249268
+    },
+    {
+      "text": "INVITE INTO ROOM. OFFER A \"SMALL CASH GIFT FOR COOPERATION\"",
+      "bbox": [
+        163,
+        608,
+        645,
+        626
+      ],
+      "confidence": 0.9751138687133789
+    },
+    {
+      "text": "7. Here's an easy way to tell more about what you think of your brand. Here are",
+      "bbox": [
+        23,
+        633,
+        676,
+        653
+      ],
+      "confidence": 0.98259437084198
+    },
+    {
+      "text": ".some descriptions that are opposites of one another. If you feel that your",
+      "bbox": [
+        43,
+        647,
+        662,
+        665
+      ],
+      "confidence": 0.9794999361038208
+    },
+    {
+      "text": "brand is like the words on the left, put an X in the box on the left (PoINT).",
+      "bbox": [
+        56,
+        661,
+        674,
+        678
+      ],
+      "confidence": 0.9426544904708862
+    },
+    {
+      "text": "If you feel it is most like the box on the right, put an X in the box on the",
+      "bbox": [
+        55,
+        673,
+        670,
+        692
+      ],
+      "confidence": 0.9748495817184448
+    },
+    {
+      "text": "right (PoiNt). Or you may feel it falls somewhere in between. In that case,",
+      "bbox": [
+        56,
+        689,
+        674,
+        703
+      ],
+      "confidence": 0.9410215020179749
+    },
+    {
+      "text": "put the X somewhere in between (PoINT)",
+      "bbox": [
+        54,
+        700,
+        362,
+        718
+      ],
+      "confidence": 0.9391689300537109
+    },
+    {
+      "text": "(GIVE RESPONDENT PAGE 7)",
+      "bbox": [
+        319,
+        717,
+        512,
+        734
+      ],
+      "confidence": 0.997330904006958
+    },
+    {
+      "text": "204251823",
+      "bbox": [
+        700,
+        912,
+        724,
+        1000
+      ],
+      "confidence": 0.999973714351654
+    }
+  ],
+  "full_text": "KC\nSMOKER_STUDY\nOct. 197.3\nGood morning/afternoon/evening. My name is\nfrom\nask you a few questions.\nto\n1.' In the past week or two, have you spent any time looking through, or reading a\nmagazine or newspaper at home?\nYes___ (ASK Q.2)\nNo _— (THANK AND TERMINATE)\n2. kDo you smoke cigarettes?\n(ASK Q.3)\nNo __ (THANK AND TERMINATE)\n3.\nWhat is your regular brand of cigarettes, the brand you smoke most often?\n(SHOW \"BRAND CARD\" TO RESPONDENT).\nPlease read the name and the number. (IF NO NUMBER THANK AND TERMINATE)\nErand Name\nNumber\n(IF NO REGULAR BRAND, THANK AND TERMINATE)\n4. How long have you smoked it?\nASK Q.5 AND 6 ONLY IF \"BASIC\" (#GB Or 69) REGULAR BRAND\n5. Before you started smoking Basic, what brand were you smoking?\n(SHOW \"BRAND CARD\" TO RESPONDENT)\nBrand Name\nNumber\n-\n6. And how long were you smoking that brand?\n(TAKE BACK \"BRAND CARD\"),\nINVITE INTO ROOM. OFFER A \"SMALL CASH GIFT FOR COOPERATION\"\n7. Here's an easy way to tell more about what you think of your brand. Here are\n.some descriptions that are opposites of one another. If you feel that your\nbrand is like the words on the left, put an X in the box on the left (PoINT).\nIf you feel it is most like the box on the right, put an X in the box on the\nright (PoiNt). Or you may feel it falls somewhere in between. In that case,\nput the X somewhere in between (PoINT)\n(GIVE RESPONDENT PAGE 7)\n204251823"
+}

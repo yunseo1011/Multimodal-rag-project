@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0546.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "087905",
+      "bbox": [
+        387,
+        17,
+        444,
+        39
+      ],
+      "confidence": 0.964637815952301
+    },
+    {
+      "text": "THE RIGGS NATIONAL BAAK",
+      "bbox": [
+        450,
+        18,
+        563,
+        35
+      ],
+      "confidence": 0.9575008153915405
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        68,
+        34,
+        375,
+        67
+      ],
+      "confidence": 0.9894259572029114
+    },
+    {
+      "text": "LINCCLN OPNCE",
+      "bbox": [
+        477,
+        26,
+        535,
+        44
+      ],
+      "confidence": 0.6282420754432678
+    },
+    {
+      "text": "CHECCNO.",
+      "bbox": [
+        401,
+        50,
+        449,
+        68
+      ],
+      "confidence": 0.8641334176063538
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        499,
+        52,
+        554,
+        69
+      ],
+      "confidence": 0.9786453247070312
+    },
+    {
+      "text": "1875 I STREET, NORTIWEST",
+      "bbox": [
+        233,
+        63,
+        375,
+        80
+      ],
+      "confidence": 0.9584166407585144
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        619,
+        58,
+        661,
+        73
+      ],
+      "confidence": 0.9962244033813477
+    },
+    {
+      "text": "WASHINOTON. DC PCOE",
+      "bbox": [
+        250,
+        76,
+        375,
+        92
+      ],
+      "confidence": 0.895879864692688
+    },
+    {
+      "text": "087905",
+      "bbox": [
+        390,
+        70,
+        461,
+        96
+      ],
+      "confidence": 0.9998361468315125
+    },
+    {
+      "text": "02/11/92",
+      "bbox": [
+        469,
+        78,
+        545,
+        102
+      ],
+      "confidence": 0.9923224449157715
+    },
+    {
+      "text": "$",
+      "bbox": [
+        585,
+        77,
+        598,
+        96
+      ],
+      "confidence": 0.9374082684516907
+    },
+    {
+      "text": "**2,000.80",
+      "bbox": [
+        607,
+        82,
+        697,
+        106
+      ],
+      "confidence": 0.8462194204330444
+    },
+    {
+      "text": "PAY IN DOLLARS",
+      "bbox": [
+        151,
+        112,
+        242,
+        130
+      ],
+      "confidence": 0.9979896545410156
+    },
+    {
+      "text": "TO THE ORDER OF",
+      "bbox": [
+        15,
+        123,
+        109,
+        142
+      ],
+      "confidence": 0.9594408273696899
+    },
+    {
+      "text": "**************ONE THOUSAND",
+      "bbox": [
+        265,
+        123,
+        490,
+        143
+      ],
+      "confidence": 0.9849380850791931
+    },
+    {
+      "text": "AND 00/1*0*************",
+      "bbox": [
+        502,
+        126,
+        702,
+        145
+      ],
+      "confidence": 0.9405547976493835
+    },
+    {
+      "text": "PRIENDS OF TOM BANE FOR",
+      "bbox": [
+        96,
+        183,
+        304,
+        200
+      ],
+      "confidence": 0.9637368321418762
+    },
+    {
+      "text": "ASSEMBLY",
+      "bbox": [
+        114,
+        198,
+        190,
+        216
+      ],
+      "confidence": 0.9996690154075623
+    },
+    {
+      "text": "1087905r",
+      "bbox": [
+        142,
+        276,
+        235,
+        293
+      ],
+      "confidence": 0.8618110418319702
+    },
+    {
+      "text": "1:0540000301",
+      "bbox": [
+        238,
+        275,
+        371,
+        294
+      ],
+      "confidence": 0.957897424697876
+    },
+    {
+      "text": "12m082197520",
+      "bbox": [
+        364,
+        279,
+        497,
+        293
+      ],
+      "confidence": 0.824839174747467
+    },
+    {
+      "text": "DETACH BEFORE DEPOSITING NO CTHERRECHIPT RECLIRED",
+      "bbox": [
+        212,
+        317,
+        512,
+        330
+      ],
+      "confidence": 0.9344528913497925
+    },
+    {
+      "text": "087905",
+      "bbox": [
+        608,
+        334,
+        680,
+        363
+      ],
+      "confidence": 0.9990851879119873
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        64,
+        341,
+        281,
+        362
+      ],
+      "confidence": 0.9662727117538452
+    },
+    {
+      "text": "IS'S : STREET, NORTHWEST",
+      "bbox": [
+        68,
+        362,
+        215,
+        377
+      ],
+      "confidence": 0.8319787979125977
+    },
+    {
+      "text": "808701",
+      "bbox": [
+        416,
+        355,
+        470,
+        373
+      ],
+      "confidence": 0.9706810116767883
+    },
+    {
+      "text": "02/21/92",
+      "bbox": [
+        515,
+        353,
+        590,
+        373
+      ],
+      "confidence": 0.9513729810714722
+    },
+    {
+      "text": "087905",
+      "bbox": [
+        627,
+        355,
+        680,
+        372
+      ],
+      "confidence": 0.9210516810417175
+    },
+    {
+      "text": "WASHINGTON.DC OOS",
+      "bbox": [
+        88,
+        374,
+        213,
+        387
+      ],
+      "confidence": 0.7828701138496399
+    },
+    {
+      "text": "FRIENDS OF TOM BANE FOR",
+      "bbox": [
+        422,
+        398,
+        622,
+        416
+      ],
+      "confidence": 0.9764166474342346
+    },
+    {
+      "text": "1888.00",
+      "bbox": [
+        624,
+        452,
+        686,
+        469
+      ],
+      "confidence": 0.7242119908332825
+    },
+    {
+      "text": "1491-7713-CA50",
+      "bbox": [
+        155,
+        470,
+        284,
+        489
+      ],
+      "confidence": 0.9926379919052124
+    },
+    {
+      "text": "1880.00",
+      "bbox": [
+        323,
+        470,
+        386,
+        487
+      ],
+      "confidence": 0.7991042733192444
+    },
+    {
+      "text": "1000.00",
+      "bbox": [
+        399,
+        458,
+        460,
+        472
+      ],
+      "confidence": 0.9874092936515808
+    },
+    {
+      "text": "1280.09",
+      "bbox": [
+        395,
+        749,
+        461,
+        770
+      ],
+      "confidence": 0.8009696006774902
+    },
+    {
+      "text": "1080.03",
+      "bbox": [
+        623,
+        748,
+        685,
+        766
+      ],
+      "confidence": 0.8326581120491028
+    },
+    {
+      "text": "THE TOBACCO :E**.*T, 'NC.",
+      "bbox": [
+        291,
+        910,
+        441,
+        931
+      ],
+      "confidence": 0.7402368783950806
+    },
+    {
+      "text": "TCAL0391910",
+      "bbox": [
+        504,
+        958,
+        608,
+        975
+      ],
+      "confidence": 0.999987006187439
+    }
+  ],
+  "full_text": "087905\nTHE RIGGS NATIONAL BAAK\nTHE TOBACCO INSTITUTE\nLINCCLN OPNCE\nCHECCNO.\nCHECK DATE\n1875 I STREET, NORTIWEST\nAMOUNT\nWASHINOTON. DC PCOE\n087905\n02/11/92\n$\n**2,000.80\nPAY IN DOLLARS\nTO THE ORDER OF\n**************ONE THOUSAND\nAND 00/1*0*************\nPRIENDS OF TOM BANE FOR\nASSEMBLY\n1087905r\n1:0540000301\n12m082197520\nDETACH BEFORE DEPOSITING NO CTHERRECHIPT RECLIRED\n087905\nTHE TOBACCO INSTITUTE\nIS'S : STREET, NORTHWEST\n808701\n02/21/92\n087905\nWASHINGTON.DC OOS\nFRIENDS OF TOM BANE FOR\n1888.00\n1491-7713-CA50\n1880.00\n1000.00\n1280.09\n1080.03\nTHE TOBACCO :E**.*T, 'NC.\nTCAL0391910"
+}

@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0066.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ehrhart-Babic Associates",
+      "bbox": [
+        135,
+        33,
+        561,
+        68
+      ],
+      "confidence": 0.9989528656005859
+    },
+    {
+      "text": "A Member of the Ehrhert-Bebic Group",
+      "bbox": [
+        219,
+        69,
+        480,
+        83
+      ],
+      "confidence": 0.981693685054779
+    },
+    {
+      "text": "September 17, 1993",
+      "bbox": [
+        499,
+        155,
+        667,
+        184
+      ],
+      "confidence": 0.9672512412071228
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        65,
+        226,
+        139,
+        247
+      ],
+      "confidence": 0.9956264495849609
+    },
+    {
+      "text": "One Park Avenue",
+      "bbox": [
+        65,
+        241,
+        211,
+        264
+      ],
+      "confidence": 0.9372753500938416
+    },
+    {
+      "text": "New York, NY 10016-5895",
+      "bbox": [
+        64,
+        257,
+        286,
+        279
+      ],
+      "confidence": 0.8857212662696838
+    },
+    {
+      "text": "INV. #1225",
+      "bbox": [
+        557,
+        271,
+        660,
+        295
+      ],
+      "confidence": 0.9846150279045105
+    },
+    {
+      "text": "ATTENTION: MR. PETER MC FADDEN",
+      "bbox": [
+        220,
+        356,
+        549,
+        373
+      ],
+      "confidence": 0.9928739666938782
+    },
+    {
+      "text": "RE: SALES MEASUREMENT STUDY - HARLEY DAVIDSON CIGARETTES",
+      "bbox": [
+        77,
+        384,
+        693,
+        408
+      ],
+      "confidence": 0.9794615507125854
+    },
+    {
+      "text": "SALES CHECK #12 (BI-WEEKLY)",
+      "bbox": [
+        245,
+        416,
+        522,
+        441
+      ],
+      "confidence": 0.9990341067314148
+    },
+    {
+      "text": "NO. OF",
+      "bbox": [
+        485,
+        499,
+        552,
+        520
+      ],
+      "confidence": 0.9794654250144958
+    },
+    {
+      "text": "JOB NO.",
+      "bbox": [
+        59,
+        511,
+        133,
+        536
+      ],
+      "confidence": 0.9994109272956848
+    },
+    {
+      "text": "AREA",
+      "bbox": [
+        188,
+        512,
+        245,
+        534
+      ],
+      "confidence": 0.9997109174728394
+    },
+    {
+      "text": "FIELD DATE",
+      "bbox": [
+        317,
+        512,
+        430,
+        538
+      ],
+      "confidence": 0.9990283846855164
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        481,
+        517,
+        551,
+        535
+      ],
+      "confidence": 0.9996861815452576
+    },
+    {
+      "text": "BILLING",
+      "bbox": [
+        612,
+        515,
+        689,
+        536
+      ],
+      "confidence": 0.9993883967399597
+    },
+    {
+      "text": "118-1225",
+      "bbox": [
+        60,
+        544,
+        128,
+        566
+      ],
+      "confidence": 0.93915855884552
+    },
+    {
+      "text": "Chattanooga",
+      "bbox": [
+        167,
+        543,
+        265,
+        569
+      ],
+      "confidence": 0.9999120235443115
+    },
+    {
+      "text": "08/16/93",
+      "bbox": [
+        337,
+        544,
+        403,
+        569
+      ],
+      "confidence": 0.9999473690986633
+    },
+    {
+      "text": "58",
+      "bbox": [
+        509,
+        547,
+        534,
+        569
+      ],
+      "confidence": 0.999971330165863
+    },
+    {
+      "text": "$13,552.00",
+      "bbox": [
+        607,
+        547,
+        689,
+        569
+      ],
+      "confidence": 0.9764456748962402
+    },
+    {
+      "text": "Chattanooga",
+      "bbox": [
+        167,
+        574,
+        264,
+        600
+      ],
+      "confidence": 0.9999233484268188
+    },
+    {
+      "text": "08/16/93",
+      "bbox": [
+        336,
+        576,
+        403,
+        601
+      ],
+      "confidence": 0.999955952167511
+    },
+    {
+      "text": "20",
+      "bbox": [
+        509,
+        580,
+        535,
+        601
+      ],
+      "confidence": 0.9999791979789734
+    },
+    {
+      "text": "300.00",
+      "bbox": [
+        636,
+        580,
+        691,
+        601
+      ],
+      "confidence": 0.9996402263641357
+    },
+    {
+      "text": "(PRICE CHECKS)",
+      "bbox": [
+        302,
+        641,
+        461,
+        674
+      ],
+      "confidence": 0.9890145659446716
+    },
+    {
+      "text": "5673/2693",
+      "bbox": [
+        7,
+        747,
+        237,
+        810
+      ],
+      "confidence": 0.9853108525276184
+    },
+    {
+      "text": "TOTAL BILLING",
+      "bbox": [
+        375,
+        757,
+        533,
+        780
+      ],
+      "confidence": 0.9901034235954285
+    },
+    {
+      "text": "$13,852.00",
+      "bbox": [
+        603,
+        759,
+        691,
+        780
+      ],
+      "confidence": 0.9993232488632202
+    },
+    {
+      "text": "FAX:(201)461-0435",
+      "bbox": [
+        535,
+        975,
+        675,
+        998
+      ],
+      "confidence": 0.9957707524299622
+    }
+  ],
+  "full_text": "Ehrhart-Babic Associates\nA Member of the Ehrhert-Bebic Group\nSeptember 17, 1993\nLorillard\nOne Park Avenue\nNew York, NY 10016-5895\nINV. #1225\nATTENTION: MR. PETER MC FADDEN\nRE: SALES MEASUREMENT STUDY - HARLEY DAVIDSON CIGARETTES\nSALES CHECK #12 (BI-WEEKLY)\nNO. OF\nJOB NO.\nAREA\nFIELD DATE\nSTORES\nBILLING\n118-1225\nChattanooga\n08/16/93\n58\n$13,552.00\nChattanooga\n08/16/93\n20\n300.00\n(PRICE CHECKS)\n5673/2693\nTOTAL BILLING\n$13,852.00\nFAX:(201)461-0435"
+}

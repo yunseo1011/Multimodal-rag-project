@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0073.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Slde",
+      "bbox": [
+        74,
+        139,
+        149,
+        191
+      ],
+      "confidence": 0.9292696714401245
+    },
+    {
+      "text": "Black, - Y-Hhiph Nitne Jhu-Cuked",
+      "bbox": [
+        78,
+        186,
+        506,
+        232
+      ],
+      "confidence": 0.7290136814117432
+    },
+    {
+      "text": "Blacks - Anomatie Ain Cused",
+      "bbox": [
+        77,
+        219,
+        424,
+        258
+      ],
+      "confidence": 0.7191617488861084
+    },
+    {
+      "text": "Ley Aging thud, Prountation -",
+      "bbox": [
+        175,
+        274,
+        531,
+        333
+      ],
+      "confidence": 0.6644871830940247
+    },
+    {
+      "text": "RB4-Cjpctive",
+      "bbox": [
+        86,
+        364,
+        270,
+        394
+      ],
+      "confidence": 0.6311937570571899
+    },
+    {
+      "text": "RpB-Rolommndatie",
+      "bbox": [
+        85,
+        411,
+        344,
+        439
+      ],
+      "confidence": 0.6986944675445557
+    },
+    {
+      "text": "4-Fest Desigr",
+      "bbox": [
+        289,
+        452,
+        492,
+        491
+      ],
+      "confidence": 0.7218049764633179
+    },
+    {
+      "text": "81o -Durations Campany",
+      "bbox": [
+        78,
+        472,
+        433,
+        515
+      ],
+      "confidence": 0.6148503422737122
+    },
+    {
+      "text": "XRB6 -",
+      "bbox": [
+        83,
+        462,
+        178,
+        483
+      ],
+      "confidence": 0.8620390892028809
+    },
+    {
+      "text": "RB7-",
+      "bbox": [
+        79,
+        527,
+        174,
+        560
+      ],
+      "confidence": 0.6942157745361328
+    },
+    {
+      "text": "Cod",
+      "bbox": [
+        434,
+        527,
+        513,
+        561
+      ],
+      "confidence": 0.826551616191864
+    },
+    {
+      "text": "- Sitiil",
+      "bbox": [
+        330,
+        533,
+        452,
+        557
+      ],
+      "confidence": 0.8532054424285889
+    },
+    {
+      "text": "361002709",
+      "bbox": [
+        573,
+        939,
+        707,
+        967
+      ],
+      "confidence": 0.9999626874923706
+    }
+  ],
+  "full_text": "Slde\nBlack, - Y-Hhiph Nitne Jhu-Cuked\nBlacks - Anomatie Ain Cused\nLey Aging thud, Prountation -\nRB4-Cjpctive\nRpB-Rolommndatie\n4-Fest Desigr\n81o -Durations Campany\nXRB6 -\nRB7-\nCod\n- Sitiil\n361002709"
+}

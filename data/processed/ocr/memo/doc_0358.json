@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0358.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "23:",
+      "bbox": [
+        497,
+        50,
+        523,
+        57
+      ],
+      "confidence": 0.7015575766563416
+    },
+    {
+      "text": "..",
+      "bbox": [
+        594,
+        48,
+        625,
+        62
+      ],
+      "confidence": 0.6358199119567871
+    },
+    {
+      "text": "=03E :",
+      "bbox": [
+        659,
+        48,
+        705,
+        62
+      ],
+      "confidence": 0.7026135921478271
+    },
+    {
+      "text": "PILLSBURY, MADISON & SUTRO",
+      "bbox": [
+        287,
+        90,
+        555,
+        115
+      ],
+      "confidence": 0.9986481070518494
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        351,
+        124,
+        488,
+        148
+      ],
+      "confidence": 0.9994753003120422
+    },
+    {
+      "text": "FOR FILE",
+      "bbox": [
+        380,
+        151,
+        454,
+        169
+      ],
+      "confidence": 0.9768038988113403
+    },
+    {
+      "text": "March 29, 1989",
+      "bbox": [
+        465,
+        180,
+        591,
+        202
+      ],
+      "confidence": 0.9965499043464661
+    },
+    {
+      "text": "California Proposition 65 -",
+      "bbox": [
+        421,
+        226,
+        666,
+        247
+      ],
+      "confidence": 0.9933512210845947
+    },
+    {
+      "text": "Aprif 1, l988 Tobacco Smoke",
+      "bbox": [
+        420,
+        241,
+        663,
+        263
+      ],
+      "confidence": 0.9404566287994385
+    },
+    {
+      "text": "Listings",
+      "bbox": [
+        419,
+        254,
+        495,
+        277
+      ],
+      "confidence": 0.9897717237472534
+    },
+    {
+      "text": "I spoke with T. E. Warriner in the afternoon on",
+      "bbox": [
+        243,
+        296,
+        661,
+        321
+      ],
+      "confidence": 0.9844851493835449
+    },
+    {
+      "text": "March 28, 1989. He had seen C. C. Thompson earlier that",
+      "bbox": [
+        152,
+        309,
+        652,
+        337
+      ],
+      "confidence": 0.961731493473053
+    },
+    {
+      "text": "day and, 'thus, had a general sense that the matter we raised",
+      "bbox": [
+        152,
+        326,
+        687,
+        352
+      ],
+      "confidence": 0.9813256859779358
+    },
+    {
+      "text": "will not be quickly resolved at the Attorney General's office.",
+      "bbox": [
+        151,
+        342,
+        702,
+        368
+      ],
+      "confidence": 0.9907254576683044
+    },
+    {
+      "text": "We discussed whether Mr. Warriner would consider",
+      "bbox": [
+        239,
+        373,
+        668,
+        398
+      ],
+      "confidence": 0.9941653609275818
+    },
+    {
+      "text": "proached the question from several perspectives, and the",
+      "bbox": [
+        147,
+        403,
+        649,
+        429
+      ],
+      "confidence": 0.9812213778495789
+    },
+    {
+      "text": "answer was that no inte-im guidance was possible. Mr. War-",
+      "bbox": [
+        147,
+        418,
+        675,
+        445
+      ],
+      "confidence": 0.9782131314277649
+    },
+    {
+      "text": "riner said he thought it would not be wise, and would be",
+      "bbox": [
+        147,
+        434,
+        648,
+        458
+      ],
+      "confidence": 0.9758039712905884
+    },
+    {
+      "text": "misleading, for him to advise tobacco manufacturers that they",
+      "bbox": [
+        146,
+        450,
+        681,
+        474
+      ],
+      "confidence": 0.9820630550384521
+    },
+    {
+      "text": "need not provide Proposition 65 secondary tobacco smoke warn-",
+      "bbox": [
+        146,
+        467,
+        691,
+        489
+      ],
+      "confidence": 0.9855421781539917
+    },
+    {
+      "text": "ings on April 1, 1989 since he knew that the \"chief enforcer'",
+      "bbox": [
+        147,
+        482,
+        686,
+        503
+      ],
+      "confidence": 0.9451970458030701
+    },
+    {
+      "text": "of Proposition 65, the Attorney General's office, had not set-",
+      "bbox": [
+        145,
+        497,
+        700,
+        519
+      ],
+      "confidence": 0.986345648765564
+    },
+    {
+      "text": "tled on a position.",
+      "bbox": [
+        147,
+        513,
+        317,
+        531
+      ],
+      "confidence": 0.9747362732887268
+    },
+    {
+      "text": "Mr. Warriner suggested that it is in the tobacco",
+      "bbox": [
+        234,
+        542,
+        665,
+        565
+      ],
+      "confidence": 0.9825971126556396
+    },
+    {
+      "text": "industry's interest to have the Attorney General's office",
+      "bbox": [
+        145,
+        556,
+        657,
+        580
+      ],
+      "confidence": 0.9811123013496399
+    },
+    {
+      "text": "settle the matter quickly. He believes Mr. Thompson is",
+      "bbox": [
+        146,
+        576,
+        639,
+        593
+      ],
+      "confidence": 0.9871150255203247
+    },
+    {
+      "text": "doing everything he can.\" To the extent the industry can in-",
+      "bbox": [
+        146,
+        591,
+        681,
+        608
+      ],
+      "confidence": 0.9822803139686584
+    },
+    {
+      "text": "fluence Ms. Andrea Orden, Mr. Thompson's superior, to address",
+      "bbox": [
+        146,
+        606,
+        690,
+        623
+      ],
+      "confidence": 0.9911366105079651
+    },
+    {
+      "text": "the question, it would move the project along. Should some",
+      "bbox": [
+        144,
+        620,
+        674,
+        641
+      ],
+      "confidence": 0.9936546087265015
+    },
+    {
+      "text": "manufacturer warnings appear, Mr. Warriner would still see a",
+      "bbox": [
+        143,
+        635,
+        682,
+        658
+      ],
+      "confidence": 0.9752418994903564
+    },
+    {
+      "text": "value to responding to cur question. He referred to instances",
+      "bbox": [
+        144,
+        652,
+        699,
+        672
+      ],
+      "confidence": 0.9834957718849182
+    },
+    {
+      "text": "where in other circumstances overwarning occurred at early",
+      "bbox": [
+        143,
+        666,
+        666,
+        690
+      ],
+      "confidence": 0.9933874011039734
+    },
+    {
+      "text": "stages and as the matter developed, the cases of overwarning",
+      "bbox": [
+        145,
+        681,
+        682,
+        706
+      ],
+      "confidence": 0.9928591847419739
+    },
+    {
+      "text": "were eliminated.",
+      "bbox": [
+        145,
+        699,
+        292,
+        720
+      ],
+      "confidence": 0.9990981817245483
+    },
+    {
+      "text": "JuligB. Epley",
+      "bbox": [
+        416,
+        741,
+        547,
+        762
+      ],
+      "confidence": 0.9370428323745728
+    },
+    {
+      "text": "Mr. E. C. McLean, Jr.",
+      "bbox": [
+        189,
+        772,
+        382,
+        792
+      ],
+      "confidence": 0.9600332975387573
+    },
+    {
+      "text": "cC:",
+      "bbox": [
+        146,
+        777,
+        179,
+        796
+      ],
+      "confidence": 0.6880477070808411
+    },
+    {
+      "text": "Mr. G. A. Sears",
+      "bbox": [
+        191,
+        787,
+        332,
+        808
+      ],
+      "confidence": 0.9661194682121277
+    },
+    {
+      "text": "2063783868",
+      "bbox": [
+        704,
+        888,
+        722,
+        977
+      ],
+      "confidence": 0.9998952150344849
+    }
+  ],
+  "full_text": "23:\n..\n=03E :\nPILLSBURY, MADISON & SUTRO\nMEMORANDUM\nFOR FILE\nMarch 29, 1989\nCalifornia Proposition 65 -\nAprif 1, l988 Tobacco Smoke\nListings\nI spoke with T. E. Warriner in the afternoon on\nMarch 28, 1989. He had seen C. C. Thompson earlier that\nday and, 'thus, had a general sense that the matter we raised\nwill not be quickly resolved at the Attorney General's office.\nWe discussed whether Mr. Warriner would consider\nproached the question from several perspectives, and the\nanswer was that no inte-im guidance was possible. Mr. War-\nriner said he thought it would not be wise, and would be\nmisleading, for him to advise tobacco manufacturers that they\nneed not provide Proposition 65 secondary tobacco smoke warn-\nings on April 1, 1989 since he knew that the \"chief enforcer'\nof Proposition 65, the Attorney General's office, had not set-\ntled on a position.\nMr. Warriner suggested that it is in the tobacco\nindustry's interest to have the Attorney General's office\nsettle the matter quickly. He believes Mr. Thompson is\ndoing everything he can.\" To the extent the industry can in-\nfluence Ms. Andrea Orden, Mr. Thompson's superior, to address\nthe question, it would move the project along. Should some\nmanufacturer warnings appear, Mr. Warriner would still see a\nvalue to responding to cur question. He referred to instances\nwhere in other circumstances overwarning occurred at early\nstages and as the matter developed, the cases of overwarning\nwere eliminated.\nJuligB. Epley\nMr. E. C. McLean, Jr.\ncC:\nMr. G. A. Sears\n2063783868"
+}

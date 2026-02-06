@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0321.png",
+    "image_width": 768,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PROJECT TITLE: MUTAGENIC ACTIVITY SCREEN",
+      "bbox": [
+        7,
+        17,
+        403,
+        34
+      ],
+      "confidence": 0.9936599731445312
+    },
+    {
+      "text": "DATE: 6/30/81",
+      "bbox": [
+        582,
+        27,
+        717,
+        47
+      ],
+      "confidence": 0.9633761644363403
+    },
+    {
+      "text": "BUDGET:",
+      "bbox": [
+        7,
+        38,
+        82,
+        55
+      ],
+      "confidence": 0.9990569949150085
+    },
+    {
+      "text": "$31,945",
+      "bbox": [
+        91,
+        39,
+        167,
+        56
+      ],
+      "confidence": 0.998688280582428
+    },
+    {
+      "text": "PROJECT DESCRIPTION:",
+      "bbox": [
+        5,
+        55,
+        207,
+        74
+      ],
+      "confidence": 0.9908336400985718
+    },
+    {
+      "text": "To maintain thc Ames Test operational in order to evaluate the",
+      "bbox": [
+        133,
+        91,
+        588,
+        110
+      ],
+      "confidence": 0.980715274810791
+    },
+    {
+      "text": "mutagenic potential of compounds requested by all Lorillard project",
+      "bbox": [
+        95,
+        104,
+        587,
+        123
+      ],
+      "confidence": 0.9918770790100098
+    },
+    {
+      "text": "leaders throughout 196l.",
+      "bbox": [
+        100,
+        119,
+        274,
+        133
+      ],
+      "confidence": 0.9832289814949036
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        125,
+        209,
+        169,
+        228
+      ],
+      "confidence": 0.9934318661689758
+    },
+    {
+      "text": "81",
+      "bbox": [
+        167,
+        210,
+        191,
+        229
+      ],
+      "confidence": 0.9998021125793457
+    },
+    {
+      "text": "TEAD AOD",
+      "bbox": [
+        170,
+        230,
+        316,
+        254
+      ],
+      "confidence": 0.6448909044265747
+    },
+    {
+      "text": "MONTH",
+      "bbox": [
+        114,
+        233,
+        169,
+        253
+      ],
+      "confidence": 0.9922654032707214
+    },
+    {
+      "text": "BUDGET VS ACTUAL K$",
+      "bbox": [
+        5,
+        321,
+        36,
+        510
+      ],
+      "confidence": 0.9990988373756409
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        69,
+        475,
+        87,
+        535
+      ],
+      "confidence": 0.9989223480224609
+    },
+    {
+      "text": "ACTUAL",
+      "bbox": [
+        84,
+        474,
+        105,
+        536
+      ],
+      "confidence": 0.9998478889465332
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        44,
+        577,
+        117,
+        594
+      ],
+      "confidence": 0.9990206360816956
+    },
+    {
+      "text": "COMPONENTS",
+      "bbox": [
+        32,
+        592,
+        136,
+        611
+      ],
+      "confidence": 0.9998424649238586
+    },
+    {
+      "text": "Mammalian Enzymes",
+      "bbox": [
+        2,
+        621,
+        135,
+        637
+      ],
+      "confidence": 0.9991177916526794
+    },
+    {
+      "text": "Tester Bacteria and",
+      "bbox": [
+        3,
+        608,
+        152,
+        625
+      ],
+      "confidence": 0.982245922088623
+    },
+    {
+      "text": "Maintenance",
+      "bbox": [
+        2,
+        632,
+        92,
+        649
+      ],
+      "confidence": 0.9996141791343689
+    },
+    {
+      "text": "Assay of Positive",
+      "bbox": [
+        4,
+        658,
+        136,
+        679
+      ],
+      "confidence": 0.9716518521308899
+    },
+    {
+      "text": "Controls and Project-",
+      "bbox": [
+        5,
+        671,
+        165,
+        689
+      ],
+      "confidence": 0.9932654500007629
+    },
+    {
+      "text": "less Compounds",
+      "bbox": [
+        5,
+        684,
+        115,
+        701
+      ],
+      "confidence": 0.9963245391845703
+    },
+    {
+      "text": "Reports",
+      "bbox": [
+        6,
+        700,
+        65,
+        717
+      ],
+      "confidence": 0.9998034834861755
+    },
+    {
+      "text": "Literature Reading",
+      "bbox": [
+        2,
+        718,
+        143,
+        736
+      ],
+      "confidence": 0.9985902309417725
+    },
+    {
+      "text": "During the month of June fourteen (l4) compounds were tested in the",
+      "bbox": [
+        66,
+        798,
+        734,
+        824
+      ],
+      "confidence": 0.9844298958778381
+    },
+    {
+      "text": "bacterial toxicity test prior to the Ames assay. Ten (lo) compounds were",
+      "bbox": [
+        14,
+        816,
+        746,
+        842
+      ],
+      "confidence": 0.9844162464141846
+    },
+    {
+      "text": "tested in the Ames assay and preliminary work was performed on two com-",
+      "bbox": [
+        15,
+        834,
+        726,
+        861
+      ],
+      "confidence": 0.9939860105514526
+    },
+    {
+      "text": "pounds for the Acute Toxicity Test.",
+      "bbox": [
+        17,
+        857,
+        366,
+        874
+      ],
+      "confidence": 0.9733121395111084
+    },
+    {
+      "text": "01391497",
+      "bbox": [
+        719,
+        856,
+        753,
+        961
+      ],
+      "confidence": 0.9999288320541382
+    },
+    {
+      "text": "H. S. Tong",
+      "bbox": [
+        44,
+        947,
+        154,
+        972
+      ],
+      "confidence": 0.9847230911254883
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        87,
+        971,
+        203,
+        991
+      ],
+      "confidence": 0.965645432472229
+    }
+  ],
+  "full_text": "PROJECT TITLE: MUTAGENIC ACTIVITY SCREEN\nDATE: 6/30/81\nBUDGET:\n$31,945\nPROJECT DESCRIPTION:\nTo maintain thc Ames Test operational in order to evaluate the\nmutagenic potential of compounds requested by all Lorillard project\nleaders throughout 196l.\nYEAR\n81\nTEAD AOD\nMONTH\nBUDGET VS ACTUAL K$\nBUDGET\nACTUAL\nPROJECT\nCOMPONENTS\nMammalian Enzymes\nTester Bacteria and\nMaintenance\nAssay of Positive\nControls and Project-\nless Compounds\nReports\nLiterature Reading\nDuring the month of June fourteen (l4) compounds were tested in the\nbacterial toxicity test prior to the Ames assay. Ten (lo) compounds were\ntested in the Ames assay and preliminary work was performed on two com-\npounds for the Acute Toxicity Test.\n01391497\nH. S. Tong\nPREPARED BY"
+}

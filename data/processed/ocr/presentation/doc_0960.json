@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0960.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PRoJECT #82-1671",
+      "bbox": [
+        716,
+        71,
+        762,
+        93
+      ],
+      "confidence": 0.8449466824531555
+    },
+    {
+      "text": "BARCLAY LAMARK",
+      "bbox": [
+        469,
+        273,
+        614,
+        301
+      ],
+      "confidence": 0.9254426956176758
+    },
+    {
+      "text": "PREseNTAtIon -",
+      "bbox": [
+        478,
+        300,
+        622,
+        319
+      ],
+      "confidence": 0.7195886969566345
+    },
+    {
+      "text": "PREPARED FOR",
+      "bbox": [
+        488,
+        500,
+        608,
+        520
+      ],
+      "confidence": 0.9483283162117004
+    },
+    {
+      "text": "Brown & Williamson TObacco Corporation",
+      "bbox": [
+        356,
+        520,
+        736,
+        543
+      ],
+      "confidence": 0.8440491557121277
+    },
+    {
+      "text": "NovemBer 29, 1982",
+      "bbox": [
+        461,
+        540,
+        632,
+        565
+      ],
+      "confidence": 0.8650325536727905
+    },
+    {
+      "text": "660117000",
+      "bbox": [
+        118,
+        651,
+        254,
+        675
+      ],
+      "confidence": 0.9998008012771606
+    }
+  ],
+  "full_text": "PRoJECT #82-1671\nBARCLAY LAMARK\nPREseNTAtIon -\nPREPARED FOR\nBrown & Williamson TObacco Corporation\nNovemBer 29, 1982\n660117000"
+}

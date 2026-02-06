@@ -1,0 +1,541 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0191.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        42,
+        10,
+        199,
+        41
+      ],
+      "confidence": 0.9961987733840942
+    },
+    {
+      "text": "MICHAEL E. SELSTED",
+      "bbox": [
+        319,
+        71,
+        458,
+        88
+      ],
+      "confidence": 0.9902282357215881
+    },
+    {
+      "text": "Assistant Professor",
+      "bbox": [
+        310,
+        87,
+        459,
+        105
+      ],
+      "confidence": 0.9990115761756897
+    },
+    {
+      "text": "EDUCATION:",
+      "bbox": [
+        47,
+        112,
+        132,
+        137
+      ],
+      "confidence": 0.995469868183136
+    },
+    {
+      "text": "Field of Study",
+      "bbox": [
+        561,
+        141,
+        681,
+        166
+      ],
+      "confidence": 0.9878141283988953
+    },
+    {
+      "text": "Institution and Location",
+      "bbox": [
+        50,
+        148,
+        241,
+        170
+      ],
+      "confidence": 0.9976819157600403
+    },
+    {
+      "text": "Degree",
+      "bbox": [
+        319,
+        153,
+        369,
+        169
+      ],
+      "confidence": 0.9796807765960693
+    },
+    {
+      "text": "Year Conferred",
+      "bbox": [
+        424,
+        147,
+        540,
+        167
+      ],
+      "confidence": 0.975802481174469
+    },
+    {
+      "text": "University of California, L.A.",
+      "bbox": [
+        49,
+        163,
+        284,
+        188
+      ],
+      "confidence": 0.9626187682151794
+    },
+    {
+      "text": "B.A.",
+      "bbox": [
+        318,
+        166,
+        352,
+        184
+      ],
+      "confidence": 0.9986437559127808
+    },
+    {
+      "text": "1974",
+      "bbox": [
+        463,
+        164,
+        500,
+        182
+      ],
+      "confidence": 0.9997982978820801
+    },
+    {
+      "text": "Bacteriology",
+      "bbox": [
+        564,
+        162,
+        664,
+        179
+      ],
+      "confidence": 0.9980518221855164
+    },
+    {
+      "text": "University of California, L.A.",
+      "bbox": [
+        50,
+        179,
+        284,
+        203
+      ],
+      "confidence": 0.9775517582893372
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        319,
+        182,
+        359,
+        198
+      ],
+      "confidence": 0.9982382655143738
+    },
+    {
+      "text": "1980",
+      "bbox": [
+        463,
+        179,
+        501,
+        198
+      ],
+      "confidence": 0.9994404315948486
+    },
+    {
+      "text": "Microbiology",
+      "bbox": [
+        562,
+        176,
+        664,
+        196
+      ],
+      "confidence": 0.9849876761436462
+    },
+    {
+      "text": "University of California, L.A.",
+      "bbox": [
+        52,
+        199,
+        283,
+        216
+      ],
+      "confidence": 0.9900842308998108
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        317,
+        196,
+        353,
+        214
+      ],
+      "confidence": 0.9992067813873291
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        463,
+        195,
+        500,
+        214
+      ],
+      "confidence": 0.9980959296226501
+    },
+    {
+      "text": "Medicine",
+      "bbox": [
+        564,
+        193,
+        631,
+        211
+      ],
+      "confidence": 0.9449791312217712
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE:",
+      "bbox": [
+        55,
+        257,
+        337,
+        277
+      ],
+      "confidence": 0.9740989208221436
+    },
+    {
+      "text": "Assistant Professor of Medicine (Adjunct), July 1985 to present.",
+      "bbox": [
+        54,
+        285,
+        543,
+        309
+      ],
+      "confidence": 0.9901247024536133
+    },
+    {
+      "text": "Graduate Student Colloquium Research Award, Southern California Branch",
+      "bbox": [
+        159,
+        331,
+        704,
+        355
+      ],
+      "confidence": 0.9883647561073303
+    },
+    {
+      "text": "HONORS:",
+      "bbox": [
+        56,
+        338,
+        112,
+        356
+      ],
+      "confidence": 0.9989665150642395
+    },
+    {
+      "text": "of the American Society for Microbiology. 1976.",
+      "bbox": [
+        159,
+        349,
+        523,
+        370
+      ],
+      "confidence": 0.9644914865493774
+    },
+    {
+      "text": "UCLA Alpha Omega Alpha Medical Student Research Award, 1982 and 1983",
+      "bbox": [
+        158,
+        360,
+        691,
+        389
+      ],
+      "confidence": 0.9803624749183655
+    },
+    {
+      "text": "Western Student Medical Research Committee Award for Meriotorious",
+      "bbox": [
+        159,
+        378,
+        666,
+        403
+      ],
+      "confidence": 0.9859505295753479
+    },
+    {
+      "text": "Research 1982 and 1984",
+      "bbox": [
+        160,
+        397,
+        330,
+        416
+      ],
+      "confidence": 0.9890603423118591
+    },
+    {
+      "text": "UCLA Alumni Association Award of Excellence -1985",
+      "bbox": [
+        160,
+        413,
+        539,
+        431
+      ],
+      "confidence": 0.9874789714813232
+    },
+    {
+      "text": "Emil Bogen Research Prize, UCLA School of Medicine -1985",
+      "bbox": [
+        161,
+        427,
+        595,
+        447
+      ],
+      "confidence": 0.9722475409507751
+    },
+    {
+      "text": "UCLA Chancellor's Marshal - 1985",
+      "bbox": [
+        160,
+        443,
+        407,
+        462
+      ],
+      "confidence": 0.9791576862335205
+    },
+    {
+      "text": "MEMBERSHIPS:",
+      "bbox": [
+        55,
+        477,
+        150,
+        496
+      ],
+      "confidence": 0.9974134564399719
+    },
+    {
+      "text": "American Society for Microbiology",
+      "bbox": [
+        159,
+        478,
+        415,
+        495
+      ],
+      "confidence": 0.9916858077049255
+    },
+    {
+      "text": "American Association for the Advancement of Science",
+      "bbox": [
+        160,
+        492,
+        556,
+        510
+      ],
+      "confidence": 0.9838353991508484
+    },
+    {
+      "text": "American Federation for Clinical Research",
+      "bbox": [
+        162,
+        510,
+        478,
+        524
+      ],
+      "confidence": 0.9874842762947083
+    },
+    {
+      "text": "College of American Pathologists",
+      "bbox": [
+        161,
+        524,
+        408,
+        542
+      ],
+      "confidence": 0.9977519512176514
+    },
+    {
+      "text": "American Society of Clinicai Pathologists",
+      "bbox": [
+        161,
+        540,
+        478,
+        558
+      ],
+      "confidence": 0.9784582853317261
+    },
+    {
+      "text": "UCLA Jonsson Comprehensive Cancer Center",
+      "bbox": [
+        161,
+        556,
+        471,
+        575
+      ],
+      "confidence": 0.9967571496963501
+    },
+    {
+      "text": "Collaborative California Universities - Mycology Research Unit",
+      "bbox": [
+        160,
+        570,
+        645,
+        592
+      ],
+      "confidence": 0.976712167263031
+    },
+    {
+      "text": "PUBLICATIONS:",
+      "bbox": [
+        53,
+        619,
+        155,
+        639
+      ],
+      "confidence": 0.9992662072181702
+    },
+    {
+      "text": "1. Selsted,ME, Szklarek D and Lehrer RI: Purification and antibacterial activity of",
+      "bbox": [
+        60,
+        649,
+        714,
+        670
+      ],
+      "confidence": 0.9949817657470703
+    },
+    {
+      "text": "antimicrobial peptides of rabbit granulocytes. Infect. Immun. 1984 Vol.45:150-154.",
+      "bbox": [
+        81,
+        664,
+        727,
+        688
+      ],
+      "confidence": 0.9741517305374146
+    },
+    {
+      "text": "2. Seisted, ME, Brown DM, DeLange RJ, and Lehrer RI: Primary sequences of six",
+      "bbox": [
+        58,
+        681,
+        669,
+        703
+      ],
+      "confidence": 0.9659183025360107
+    },
+    {
+      "text": "structurally-related,antimicrobial peptides from rabbit peritoneal granulocytes.",
+      "bbox": [
+        81,
+        698,
+        705,
+        719
+      ],
+      "confidence": 0.9867845773696899
+    },
+    {
+      "text": "J. Bi01.Chem. 1985 Vo1.260:4579-4584.",
+      "bbox": [
+        81,
+        715,
+        377,
+        733
+      ],
+      "confidence": 0.9419917464256287
+    },
+    {
+      "text": "3. Lehrer RI, Daher K, Ganz T, and Selsted ME: Direct inactivation of viruses by",
+      "bbox": [
+        58,
+        730,
+        691,
+        750
+      ],
+      "confidence": 0.9863559007644653
+    },
+    {
+      "text": "MCP-1 and MCP-2, natural peptide antibiotics from rabbit leukocytes. 2._Virol.",
+      "bbox": [
+        80,
+        744,
+        690,
+        765
+      ],
+      "confidence": 0.9585158228874207
+    },
+    {
+      "text": "1985 Vo1.54:467-472.",
+      "bbox": [
+        84,
+        764,
+        240,
+        778
+      ],
+      "confidence": 0.9757798314094543
+    },
+    {
+      "text": "4. Lehrer RI. Szklarek D. Ganz T. and Seisted ME: Correlation of bidning of rabbit",
+      "bbox": [
+        58,
+        775,
+        707,
+        794
+      ],
+      "confidence": 0.9659649133682251
+    },
+    {
+      "text": "granulocyte peptides to Candida albicans: correlation with candidacidal activity.",
+      "bbox": [
+        82,
+        791,
+        712,
+        811
+      ],
+      "confidence": 0.9882560968399048
+    },
+    {
+      "text": "Infect. Immun. 1985 Vol.49:2007-211.",
+      "bbox": [
+        83,
+        807,
+        363,
+        826
+      ],
+      "confidence": 0.9408576488494873
+    },
+    {
+      "text": "5. Selsted ME, Szklarek D, Ganz T and Lehrer RI:: Activity of rabbit. leukocyte",
+      "bbox": [
+        58,
+        820,
+        675,
+        843
+      ],
+      "confidence": 0.9758655428886414
+    },
+    {
+      "text": "peptides against Candida albicans. Infect. Immun. 1985 Vol.49:2o2-206.",
+      "bbox": [
+        82,
+        835,
+        636,
+        861
+      ],
+      "confidence": 0.9723420143127441
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nMICHAEL E. SELSTED\nAssistant Professor\nEDUCATION:\nField of Study\nInstitution and Location\nDegree\nYear Conferred\nUniversity of California, L.A.\nB.A.\n1974\nBacteriology\nUniversity of California, L.A.\nPh.D.\n1980\nMicrobiology\nUniversity of California, L.A.\nM.D.\n1985\nMedicine\nRESEARCH AND PROFESSIONAL EXPERIENCE:\nAssistant Professor of Medicine (Adjunct), July 1985 to present.\nGraduate Student Colloquium Research Award, Southern California Branch\nHONORS:\nof the American Society for Microbiology. 1976.\nUCLA Alpha Omega Alpha Medical Student Research Award, 1982 and 1983\nWestern Student Medical Research Committee Award for Meriotorious\nResearch 1982 and 1984\nUCLA Alumni Association Award of Excellence -1985\nEmil Bogen Research Prize, UCLA School of Medicine -1985\nUCLA Chancellor's Marshal - 1985\nMEMBERSHIPS:\nAmerican Society for Microbiology\nAmerican Association for the Advancement of Science\nAmerican Federation for Clinical Research\nCollege of American Pathologists\nAmerican Society of Clinicai Pathologists\nUCLA Jonsson Comprehensive Cancer Center\nCollaborative California Universities - Mycology Research Unit\nPUBLICATIONS:\n1. Selsted,ME, Szklarek D and Lehrer RI: Purification and antibacterial activity of\nantimicrobial peptides of rabbit granulocytes. Infect. Immun. 1984 Vol.45:150-154.\n2. Seisted, ME, Brown DM, DeLange RJ, and Lehrer RI: Primary sequences of six\nstructurally-related,antimicrobial peptides from rabbit peritoneal granulocytes.\nJ. Bi01.Chem. 1985 Vo1.260:4579-4584.\n3. Lehrer RI, Daher K, Ganz T, and Selsted ME: Direct inactivation of viruses by\nMCP-1 and MCP-2, natural peptide antibiotics from rabbit leukocytes. 2._Virol.\n1985 Vo1.54:467-472.\n4. Lehrer RI. Szklarek D. Ganz T. and Seisted ME: Correlation of bidning of rabbit\ngranulocyte peptides to Candida albicans: correlation with candidacidal activity.\nInfect. Immun. 1985 Vol.49:2007-211.\n5. Selsted ME, Szklarek D, Ganz T and Lehrer RI:: Activity of rabbit. leukocyte\npeptides against Candida albicans. Infect. Immun. 1985 Vol.49:2o2-206."
+}

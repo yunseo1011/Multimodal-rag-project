@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0825.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ERP Process Document",
+      "bbox": [
+        38,
+        16,
+        206,
+        35
+      ],
+      "confidence": 0.990439772605896
+    },
+    {
+      "text": "Copy",
+      "bbox": [
+        495,
+        16,
+        631,
+        96
+      ],
+      "confidence": 0.7291285991668701
+    },
+    {
+      "text": "Page 1 of 1",
+      "bbox": [
+        647,
+        24,
+        727,
+        42
+      ],
+      "confidence": 0.9862861633300781
+    },
+    {
+      "text": "|× ?",
+      "bbox": [
+        38,
+        71,
+        369,
+        99
+      ],
+      "confidence": 0.6246593594551086
+    },
+    {
+      "text": "2505398745",
+      "bbox": [
+        412,
+        82,
+        529,
+        106
+      ],
+      "confidence": 0.9999738931655884
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        41,
+        116,
+        84,
+        130
+      ],
+      "confidence": 0.9998361468315125
+    },
+    {
+      "text": "McAipin, Loreen",
+      "bbox": [
+        111,
+        116,
+        214,
+        130
+      ],
+      "confidence": 0.9818719625473022
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        39,
+        140,
+        67,
+        155
+      ],
+      "confidence": 0.9993873238563538
+    },
+    {
+      "text": "A. Lilly; Allen Kassman; Gregory Cummings; Hector Alonso; Richard Cox; Rick Solana; Urs Nyffeler;",
+      "bbox": [
+        109,
+        132,
+        711,
+        159
+      ],
+      "confidence": 0.9806542992591858
+    },
+    {
+      "text": "Wolf Reininghaus",
+      "bbox": [
+        111,
+        147,
+        220,
+        161
+      ],
+      "confidence": 0.9987936019897461
+    },
+    {
+      "text": "Ce:",
+      "bbox": [
+        38,
+        165,
+        66,
+        181
+      ],
+      "confidence": 0.9758184552192688
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        37,
+        185,
+        93,
+        203
+      ],
+      "confidence": 0.9975229501724243
+    },
+    {
+      "text": "ERP Process Document",
+      "bbox": [
+        109,
+        188,
+        250,
+        201
+      ],
+      "confidence": 0.9963741302490234
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        35,
+        203,
+        74,
+        222
+      ],
+      "confidence": 0.99933922290802
+    },
+    {
+      "text": "8/16/00 2:44 PM",
+      "bbox": [
+        108,
+        207,
+        210,
+        220
+      ],
+      "confidence": 0.9668166637420654
+    },
+    {
+      "text": "Importance:",
+      "bbox": [
+        565,
+        211,
+        648,
+        230
+      ],
+      "confidence": 0.9800692200660706
+    },
+    {
+      "text": "Normal",
+      "bbox": [
+        673,
+        213,
+        726,
+        230
+      ],
+      "confidence": 0.999923050403595
+    },
+    {
+      "text": "Below please find the verbage discussing the background of the External Research Program which will",
+      "bbox": [
+        41,
+        227,
+        705,
+        253
+      ],
+      "confidence": 0.984886884689331
+    },
+    {
+      "text": "be included in the Process Document for QS purposes. I would appreciate your reviewing this paragraph",
+      "bbox": [
+        40,
+        239,
+        721,
+        267
+      ],
+      "confidence": 0.9805362224578857
+    },
+    {
+      "text": "and let me know if you have any comments or suggestions for revision(s).",
+      "bbox": [
+        40,
+        253,
+        516,
+        276
+      ],
+      "confidence": 0.9849462509155273
+    },
+    {
+      "text": "II.",
+      "bbox": [
+        38,
+        281,
+        65,
+        301
+      ],
+      "confidence": 0.8330245018005371
+    },
+    {
+      "text": "Background:",
+      "bbox": [
+        77,
+        283,
+        173,
+        303
+      ],
+      "confidence": 0.999865710735321
+    },
+    {
+      "text": "The purpose of the Philip Morris External Research Program is to support the highest quality research that",
+      "bbox": [
+        36,
+        313,
+        668,
+        341
+      ],
+      "confidence": 0.9849563241004944
+    },
+    {
+      "text": "product design(s) that might reduce the health risk of smoking. Any ongoing research performed under contract in",
+      "bbox": [
+        34,
+        352,
+        716,
+        378
+      ],
+      "confidence": 0.9916195273399353
+    },
+    {
+      "text": "regarding cigarette smoking, and enables Philip Morris to continue its pursuit of product modification(s) or new",
+      "bbox": [
+        35,
+        339,
+        701,
+        366
+      ],
+      "confidence": 0.9893928170204163
+    },
+    {
+      "text": "support of Philip Morris RD&E projects which deals with proprietary information would not be included in this",
+      "bbox": [
+        33,
+        365,
+        699,
+        390
+      ],
+      "confidence": 0.9879223704338074
+    },
+    {
+      "text": "program. Philip Morris will only fund proposals submitted to the External Research Program that have been",
+      "bbox": [
+        32,
+        376,
+        677,
+        404
+      ],
+      "confidence": 0.9573017954826355
+    },
+    {
+      "text": "recommended by the Science Advisory Board",
+      "bbox": [
+        32,
+        389,
+        315,
+        411
+      ],
+      "confidence": 0.9728100299835205
+    },
+    {
+      "text": "Thank you for your help. We plan on finalizing this document early next week.",
+      "bbox": [
+        30,
+        435,
+        543,
+        460
+      ],
+      "confidence": 0.9686185121536255
+    },
+    {
+      "text": "-L",
+      "bbox": [
+        28,
+        469,
+        52,
+        488
+      ],
+      "confidence": 0.9985353946685791
+    }
+  ],
+  "full_text": "ERP Process Document\nCopy\nPage 1 of 1\n|× ?\n2505398745\nFrom:\nMcAipin, Loreen\nTo:\nA. Lilly; Allen Kassman; Gregory Cummings; Hector Alonso; Richard Cox; Rick Solana; Urs Nyffeler;\nWolf Reininghaus\nCe:\nSubject:\nERP Process Document\nSent:\n8/16/00 2:44 PM\nImportance:\nNormal\nBelow please find the verbage discussing the background of the External Research Program which will\nbe included in the Process Document for QS purposes. I would appreciate your reviewing this paragraph\nand let me know if you have any comments or suggestions for revision(s).\nII.\nBackground:\nThe purpose of the Philip Morris External Research Program is to support the highest quality research that\nproduct design(s) that might reduce the health risk of smoking. Any ongoing research performed under contract in\nregarding cigarette smoking, and enables Philip Morris to continue its pursuit of product modification(s) or new\nsupport of Philip Morris RD&E projects which deals with proprietary information would not be included in this\nprogram. Philip Morris will only fund proposals submitted to the External Research Program that have been\nrecommended by the Science Advisory Board\nThank you for your help. We plan on finalizing this document early next week.\n-L"
+}

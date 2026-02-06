@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0139.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "R9Reynolds",
+      "bbox": [
+        41,
+        4,
+        291,
+        56
+      ],
+      "confidence": 0.9172797203063965
+    },
+    {
+      "text": "Tobacoo Company",
+      "bbox": [
+        194,
+        51,
+        291,
+        66
+      ],
+      "confidence": 0.9047139286994934
+    },
+    {
+      "text": "J. Chase Hymas",
+      "bbox": [
+        437,
+        56,
+        519,
+        77
+      ],
+      "confidence": 0.959967315196991
+    },
+    {
+      "text": "Account Manager",
+      "bbox": [
+        438,
+        71,
+        515,
+        89
+      ],
+      "confidence": 0.9950457811355591
+    },
+    {
+      "text": "1546 E. Fairview Ave., Suite A",
+      "bbox": [
+        439,
+        94,
+        568,
+        111
+      ],
+      "confidence": 0.9762876033782959
+    },
+    {
+      "text": "Meridian, ID 83642",
+      "bbox": [
+        438,
+        107,
+        525,
+        124
+      ],
+      "confidence": 0.9967380166053772
+    },
+    {
+      "text": "(208) 888-3542 FAX (208) 888-2861",
+      "bbox": [
+        439,
+        117,
+        596,
+        136
+      ],
+      "confidence": 0.9474937915802002
+    },
+    {
+      "text": "June 27, 1996",
+      "bbox": [
+        31,
+        142,
+        111,
+        163
+      ],
+      "confidence": 0.9278598427772522
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        30,
+        186,
+        61,
+        207
+      ],
+      "confidence": 0.9992148280143738
+    },
+    {
+      "text": "D.J. Lawson",
+      "bbox": [
+        260,
+        182,
+        332,
+        204
+      ],
+      "confidence": 0.9861150979995728
+    },
+    {
+      "text": "R. M. Allen",
+      "bbox": [
+        125,
+        191,
+        192,
+        208
+      ],
+      "confidence": 0.9930145740509033
+    },
+    {
+      "text": "H. A. Norris",
+      "bbox": [
+        260,
+        197,
+        329,
+        218
+      ],
+      "confidence": 0.944044291973114
+    },
+    {
+      "text": "M. T. Anaya",
+      "bbox": [
+        125,
+        206,
+        196,
+        223
+      ],
+      "confidence": 0.9943687915802002
+    },
+    {
+      "text": "J. E. Riley",
+      "bbox": [
+        260,
+        214,
+        318,
+        233
+      ],
+      "confidence": 0.9365277886390686
+    },
+    {
+      "text": "C. A. Babyak",
+      "bbox": [
+        125,
+        218,
+        198,
+        238
+      ],
+      "confidence": 0.9932578206062317
+    },
+    {
+      "text": "D. J. Strong",
+      "bbox": [
+        261,
+        231,
+        327,
+        248
+      ],
+      "confidence": 0.9601319432258606
+    },
+    {
+      "text": "J. L. Bryant",
+      "bbox": [
+        125,
+        235,
+        191,
+        252
+      ],
+      "confidence": 0.9867660403251648
+    },
+    {
+      "text": "M. E. Sturm",
+      "bbox": [
+        260,
+        243,
+        329,
+        262
+      ],
+      "confidence": 0.9854379892349243
+    },
+    {
+      "text": "D. M. Cook",
+      "bbox": [
+        124,
+        249,
+        190,
+        266
+      ],
+      "confidence": 0.9649487733840942
+    },
+    {
+      "text": "S. Uribe",
+      "bbox": [
+        261,
+        259,
+        309,
+        277
+      ],
+      "confidence": 0.9954854846000671
+    },
+    {
+      "text": "H. J. Henitz",
+      "bbox": [
+        125,
+        264,
+        191,
+        280
+      ],
+      "confidence": 0.9766607880592346
+    },
+    {
+      "text": "C. S. Huff",
+      "bbox": [
+        125,
+        279,
+        184,
+        296
+      ],
+      "confidence": 0.9209141731262207
+    },
+    {
+      "text": "RE:",
+      "bbox": [
+        30,
+        315,
+        58,
+        331
+      ],
+      "confidence": 0.9991562962532043
+    },
+    {
+      "text": "Albertson's Contracts",
+      "bbox": [
+        77,
+        311,
+        219,
+        331
+      ],
+      "confidence": 0.9850676655769348
+    },
+    {
+      "text": "Dear Ladies and Gentlemen:",
+      "bbox": [
+        32,
+        350,
+        184,
+        364
+      ],
+      "confidence": 0.9531644582748413
+    },
+    {
+      "text": "Effective 3rd Quarter 1996 we will be converting to a more simplified contract designation system to reflect the various",
+      "bbox": [
+        29,
+        371,
+        652,
+        396
+      ],
+      "confidence": 0.9884090423583984
+    },
+    {
+      "text": "Albertson's contracts. Currently we have various ways to reflect what contracts are in each store. If a store changes one of",
+      "bbox": [
+        29,
+        386,
+        669,
+        411
+      ],
+      "confidence": 0.9770562648773193
+    },
+    {
+      "text": "their merchandising components we would have to end contracts and add others. To further complicate the issue it has",
+      "bbox": [
+        29,
+        402,
+        648,
+        426
+      ],
+      "confidence": 0.988618016242981
+    },
+    {
+      "text": "come to our attention that some of the Retail Reps have become confused with the current designations. There is very little",
+      "bbox": [
+        28,
+        417,
+        669,
+        442
+      ],
+      "confidence": 0.9772077202796936
+    },
+    {
+      "text": "differences between the current designations, but the requirements vary greatly. Some of the Retail Reps have issued non",
+      "bbox": [
+        28,
+        433,
+        659,
+        458
+      ],
+      "confidence": 0.9881359338760376
+    },
+    {
+      "text": "compliance for items that do not place the contract in that position.",
+      "bbox": [
+        29,
+        453,
+        380,
+        474
+      ],
+      "confidence": 0.9764494895935059
+    },
+    {
+      "text": "Thcre will be four contracts that could appcar in an Albertson's store depending on what pieces are in place. These",
+      "bbox": [
+        29,
+        481,
+        629,
+        504
+      ],
+      "confidence": 0.9781728386878967
+    },
+    {
+      "text": "contracts are:",
+      "bbox": [
+        30,
+        506,
+        107,
+        520
+      ],
+      "confidence": 0.9998483061790466
+    },
+    {
+      "text": "Plan",
+      "bbox": [
+        148,
+        532,
+        179,
+        552
+      ],
+      "confidence": 0.9994240403175354
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        282,
+        530,
+        348,
+        548
+      ],
+      "confidence": 0.9688577055931091
+    },
+    {
+      "text": "Requirements",
+      "bbox": [
+        473,
+        532,
+        548,
+        546
+      ],
+      "confidence": 0.9996921420097351
+    },
+    {
+      "text": "Type",
+      "bbox": [
+        28,
+        534,
+        66,
+        557
+      ],
+      "confidence": 0.9995175004005432
+    },
+    {
+      "text": "Rate",
+      "bbox": [
+        227,
+        533,
+        256,
+        549
+      ],
+      "confidence": 0.9994025230407715
+    },
+    {
+      "text": "SS or NSS RJR Carton Fixture w/",
+      "bbox": [
+        472,
+        546,
+        654,
+        565
+      ],
+      "confidence": 0.9620806574821472
+    },
+    {
+      "text": "CTN OUTLET",
+      "bbox": [
+        31,
+        551,
+        118,
+        572
+      ],
+      "confidence": 0.9955931901931763
+    },
+    {
+      "text": "NSL3E",
+      "bbox": [
+        149,
+        550,
+        192,
+        569
+      ],
+      "confidence": 0.9996395111083984
+    },
+    {
+      "text": "$ 242",
+      "bbox": [
+        226,
+        549,
+        265,
+        568
+      ],
+      "confidence": 0.9333928227424622
+    },
+    {
+      "text": "Standard Carton Contract",
+      "bbox": [
+        285,
+        549,
+        421,
+        567
+      ],
+      "confidence": 0.999621570110321
+    },
+    {
+      "text": "Canopy and NSS Package Display",
+      "bbox": [
+        471,
+        562,
+        655,
+        581
+      ],
+      "confidence": 0.9850841760635376
+    },
+    {
+      "text": "CTN OUTLET",
+      "bbox": [
+        31,
+        583,
+        119,
+        605
+      ],
+      "confidence": 0.9804012179374695
+    },
+    {
+      "text": "PKALB",
+      "bbox": [
+        149,
+        583,
+        196,
+        601
+      ],
+      "confidence": 0.9999116659164429
+    },
+    {
+      "text": "$ 207",
+      "bbox": [
+        225,
+        582,
+        265,
+        601
+      ],
+      "confidence": 0.9342654943466187
+    },
+    {
+      "text": "Self Service Package Contact",
+      "bbox": [
+        285,
+        583,
+        439,
+        600
+      ],
+      "confidence": 0.9960457682609558
+    },
+    {
+      "text": "SS Package Fixture (various option",
+      "bbox": [
+        471,
+        580,
+        661,
+        598
+      ],
+      "confidence": 0.997921884059906
+    },
+    {
+      "text": "available)",
+      "bbox": [
+        470,
+        597,
+        527,
+        615
+      ],
+      "confidence": 0.98820960521698
+    },
+    {
+      "text": "CTN OUTLET",
+      "bbox": [
+        32,
+        616,
+        119,
+        636
+      ],
+      "confidence": 0.9854803085327148
+    },
+    {
+      "text": "ALBERT",
+      "bbox": [
+        150,
+        615,
+        204,
+        632
+      ],
+      "confidence": 0.9996380805969238
+    },
+    {
+      "text": "$ 124",
+      "bbox": [
+        224,
+        613,
+        265,
+        634
+      ],
+      "confidence": 0.9348107576370239
+    },
+    {
+      "text": "Savings Enhancement Program",
+      "bbox": [
+        285,
+        615,
+        450,
+        632
+      ],
+      "confidence": 0.9966027736663818
+    },
+    {
+      "text": "SS Savings Center and Divisional",
+      "bbox": [
+        472,
+        615,
+        652,
+        629
+      ],
+      "confidence": 0.9838753938674927
+    },
+    {
+      "text": "Share of Savings Objective",
+      "bbox": [
+        472,
+        629,
+        617,
+        646
+      ],
+      "confidence": 0.9834941625595093
+    },
+    {
+      "text": "CTN AC MAT",
+      "bbox": [
+        32,
+        664,
+        118,
+        684
+      ],
+      "confidence": 0.995387077331543
+    },
+    {
+      "text": "L3E",
+      "bbox": [
+        150,
+        664,
+        177,
+        680
+      ],
+      "confidence": 0.9993564486503601
+    },
+    {
+      "text": "$ 324",
+      "bbox": [
+        227,
+        663,
+        265,
+        681
+      ],
+      "confidence": 0.9764984250068665
+    },
+    {
+      "text": "Retail Accrual Contract",
+      "bbox": [
+        286,
+        665,
+        409,
+        679
+      ],
+      "confidence": 0.9989439249038696
+    },
+    {
+      "text": "Maintain the CTN OUTLET",
+      "bbox": [
+        472,
+        663,
+        625,
+        677
+      ],
+      "confidence": 0.9893561601638794
+    },
+    {
+      "text": "NSL3E",
+      "bbox": [
+        470,
+        676,
+        515,
+        696
+      ],
+      "confidence": 0.9992591738700867
+    },
+    {
+      "text": "If a store has a specific merchandising piece they will also have a specific contract. The Retail Reps will no longer have to",
+      "bbox": [
+        32,
+        727,
+        665,
+        746
+      ],
+      "confidence": 0.9791005849838257
+    },
+    {
+      "text": "refer back to a shcet to figure out if a store is compliant or not. If they have the picce they have the contract, if the piece is",
+      "bbox": [
+        32,
+        744,
+        664,
+        762
+      ],
+      "confidence": 0.9835066199302673
+    },
+    {
+      "text": "gone so goes the contract.",
+      "bbox": [
+        32,
+        761,
+        170,
+        778
+      ],
+      "confidence": 0.9955117702484131
+    },
+    {
+      "text": "51867 5743",
+      "bbox": [
+        706,
+        776,
+        726,
+        877
+      ],
+      "confidence": 0.9998191595077515
+    },
+    {
+      "text": "Hopefully these changes will simplify the contract compliance issues in the stores. I know it will make Ginger and my life a",
+      "bbox": [
+        34,
+        793,
+        672,
+        807
+      ],
+      "confidence": 0.9796807169914246
+    },
+    {
+      "text": "little easier when it comes to pay register time. Winston-Salem did have some concern that it appears we have developed a",
+      "bbox": [
+        31,
+        805,
+        667,
+        826
+      ],
+      "confidence": 0.9793474078178406
+    },
+    {
+      "text": "\"component\" contract system. I have assured them that we are still implementing and prescnting the contract to Albertson's",
+      "bbox": [
+        31,
+        821,
+        675,
+        843
+      ],
+      "confidence": 0.9706152081489563
+    },
+    {
+      "text": "the way they signed-ofon it (NSLE and NSL3E). This is being used to simplify the process internally. Thanks to Monce",
+      "bbox": [
+        30,
+        838,
+        666,
+        859
+      ],
+      "confidence": 0.915558397769928
+    },
+    {
+      "text": "Anaya for the idea, thanks to Rich Pettorini for getting it in the system.",
+      "bbox": [
+        32,
+        855,
+        401,
+        873
+      ],
+      "confidence": 0.9892584085464478
+    }
+  ],
+  "full_text": "R9Reynolds\nTobacoo Company\nJ. Chase Hymas\nAccount Manager\n1546 E. Fairview Ave., Suite A\nMeridian, ID 83642\n(208) 888-3542 FAX (208) 888-2861\nJune 27, 1996\nTO:\nD.J. Lawson\nR. M. Allen\nH. A. Norris\nM. T. Anaya\nJ. E. Riley\nC. A. Babyak\nD. J. Strong\nJ. L. Bryant\nM. E. Sturm\nD. M. Cook\nS. Uribe\nH. J. Henitz\nC. S. Huff\nRE:\nAlbertson's Contracts\nDear Ladies and Gentlemen:\nEffective 3rd Quarter 1996 we will be converting to a more simplified contract designation system to reflect the various\nAlbertson's contracts. Currently we have various ways to reflect what contracts are in each store. If a store changes one of\ntheir merchandising components we would have to end contracts and add others. To further complicate the issue it has\ncome to our attention that some of the Retail Reps have become confused with the current designations. There is very little\ndifferences between the current designations, but the requirements vary greatly. Some of the Retail Reps have issued non\ncompliance for items that do not place the contract in that position.\nThcre will be four contracts that could appcar in an Albertson's store depending on what pieces are in place. These\ncontracts are:\nPlan\nDescription\nRequirements\nType\nRate\nSS or NSS RJR Carton Fixture w/\nCTN OUTLET\nNSL3E\n$ 242\nStandard Carton Contract\nCanopy and NSS Package Display\nCTN OUTLET\nPKALB\n$ 207\nSelf Service Package Contact\nSS Package Fixture (various option\navailable)\nCTN OUTLET\nALBERT\n$ 124\nSavings Enhancement Program\nSS Savings Center and Divisional\nShare of Savings Objective\nCTN AC MAT\nL3E\n$ 324\nRetail Accrual Contract\nMaintain the CTN OUTLET\nNSL3E\nIf a store has a specific merchandising piece they will also have a specific contract. The Retail Reps will no longer have to\nrefer back to a shcet to figure out if a store is compliant or not. If they have the picce they have the contract, if the piece is\ngone so goes the contract.\n51867 5743\nHopefully these changes will simplify the contract compliance issues in the stores. I know it will make Ginger and my life a\nlittle easier when it comes to pay register time. Winston-Salem did have some concern that it appears we have developed a\n\"component\" contract system. I have assured them that we are still implementing and prescnting the contract to Albertson's\nthe way they signed-ofon it (NSLE and NSL3E). This is being used to simplify the process internally. Thanks to Monce\nAnaya for the idea, thanks to Rich Pettorini for getting it in the system."
+}

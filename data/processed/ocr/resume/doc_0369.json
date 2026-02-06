@@ -1,0 +1,751 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0369.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        281,
+        21,
+        443,
+        42
+      ],
+      "confidence": 0.9744051098823547
+    },
+    {
+      "text": "Provide the foliowing information for the key personnel in the order listed on Form Page 2.",
+      "bbox": [
+        188,
+        43,
+        585,
+        65
+      ],
+      "confidence": 0.9697772264480591
+    },
+    {
+      "text": "Photocopy this page or follow this format for each person.",
+      "bbox": [
+        241,
+        59,
+        498,
+        78
+      ],
+      "confidence": 0.9904316067695618
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        0,
+        96,
+        38,
+        111
+      ],
+      "confidence": 0.999932050704956
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        352,
+        95,
+        449,
+        115
+      ],
+      "confidence": 0.9955572485923767
+    },
+    {
+      "text": "James Joseph Onorato",
+      "bbox": [
+        37,
+        116,
+        190,
+        138
+      ],
+      "confidence": 0.9778144955635071
+    },
+    {
+      "text": "Assistant Professor",
+      "bbox": [
+        391,
+        118,
+        512,
+        138
+      ],
+      "confidence": 0.9992146492004395
+    },
+    {
+      "text": "EDUCATION/TRAlNiNG (Begin with baccaleureate or other initiel professional educadion, such as nursing, and inctude postdoctoral training.)",
+      "bbox": [
+        0,
+        148,
+        636,
+        167
+      ],
+      "confidence": 0.9588350057601929
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        360,
+        170,
+        413,
+        184
+      ],
+      "confidence": 0.9998397827148438
+    },
+    {
+      "text": "YEARS",
+      "bbox": [
+        456,
+        172,
+        502,
+        191
+      ],
+      "confidence": 0.9998558759689331
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        80,
+        174,
+        252,
+        189
+      ],
+      "confidence": 0.9803371429443359
+    },
+    {
+      "text": "(f epplicable)",
+      "bbox": [
+        357,
+        181,
+        419,
+        196
+      ],
+      "confidence": 0.8095378875732422
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        567,
+        175,
+        664,
+        190
+      ],
+      "confidence": 0.9775487184524536
+    },
+    {
+      "text": "Gannon College, Erie, PA",
+      "bbox": [
+        15,
+        198,
+        189,
+        219
+      ],
+      "confidence": 0.9988031387329102
+    },
+    {
+      "text": "BS",
+      "bbox": [
+        373,
+        198,
+        400,
+        218
+      ],
+      "confidence": 0.9997570514678955
+    },
+    {
+      "text": "1977",
+      "bbox": [
+        454,
+        199,
+        489,
+        218
+      ],
+      "confidence": 0.9999589920043945
+    },
+    {
+      "text": "Biology/Chemistry",
+      "bbox": [
+        537,
+        198,
+        657,
+        221
+      ],
+      "confidence": 0.9899239540100098
+    },
+    {
+      "text": "Case Western Reserve Univ., Cleveland, OH",
+      "bbox": [
+        17,
+        219,
+        305,
+        236
+      ],
+      "confidence": 0.9873049855232239
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        366,
+        218,
+        406,
+        236
+      ],
+      "confidence": 0.9996716380119324
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        453,
+        218,
+        489,
+        236
+      ],
+      "confidence": 0.9999744892120361
+    },
+    {
+      "text": "Pharmacology",
+      "bbox": [
+        538,
+        218,
+        630,
+        239
+      ],
+      "confidence": 0.9998104572296143
+    },
+    {
+      "text": "Case Western Reserve Univ., Cleveland, OH",
+      "bbox": [
+        17,
+        238,
+        304,
+        255
+      ],
+      "confidence": 0.987509548664093
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        367,
+        236,
+        404,
+        255
+      ],
+      "confidence": 0.9875028729438782
+    },
+    {
+      "text": "1984",
+      "bbox": [
+        453,
+        237,
+        489,
+        255
+      ],
+      "confidence": 0.9999683499336243
+    },
+    {
+      "text": "Medicine",
+      "bbox": [
+        538,
+        239,
+        600,
+        256
+      ],
+      "confidence": 0.9999523162841797
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience",
+      "bbox": [
+        0,
+        273,
+        679,
+        291
+      ],
+      "confidence": 0.9855881333351135
+    },
+    {
+      "text": "nd honors. Include present membership on any Federal Govemment public advisory committee. List, in chronological order, the tilles, all authors, and",
+      "bbox": [
+        0,
+        287,
+        685,
+        305
+      ],
+      "confidence": 0.9768022894859314
+    },
+    {
+      "text": "compiete references to all publications during the past three years and to representative earlier publications pertinent to this application. If the list of",
+      "bbox": [
+        0,
+        301,
+        684,
+        318
+      ],
+      "confidence": 0.9794154763221741
+    },
+    {
+      "text": "ubilications in the last three years exceeds two pages, select the most pertinent publications. DO NOT EXCEED TWO PAGES.",
+      "bbox": [
+        0,
+        314,
+        577,
+        331
+      ],
+      "confidence": 0.9812980890274048
+    },
+    {
+      "text": "FACULTY APPOINTMENTS",
+      "bbox": [
+        0,
+        363,
+        190,
+        380
+      ],
+      "confidence": 0.9992982149124146
+    },
+    {
+      "text": "7/88-7/90",
+      "bbox": [
+        0,
+        380,
+        64,
+        399
+      ],
+      "confidence": 0.9999423623085022
+    },
+    {
+      "text": "Associate in Medicine, Division of Nephrology, Department of Medicine, Duke University Mcdical Center,",
+      "bbox": [
+        99,
+        379,
+        705,
+        400
+      ],
+      "confidence": 0.976944625377655
+    },
+    {
+      "text": "Durham, NC",
+      "bbox": [
+        99,
+        399,
+        179,
+        416
+      ],
+      "confidence": 0.9527816772460938
+    },
+    {
+      "text": "8/90-prsnt",
+      "bbox": [
+        0,
+        416,
+        66,
+        437
+      ],
+      "confidence": 0.9998259544372559
+    },
+    {
+      "text": "Assistant Professor, Nephrology Section, Department of Medicine, University of Wisconsin-Madison,",
+      "bbox": [
+        97,
+        414,
+        679,
+        437
+      ],
+      "confidence": 0.9919689297676086
+    },
+    {
+      "text": "Madison, WI",
+      "bbox": [
+        98,
+        434,
+        180,
+        452
+      ],
+      "confidence": 0.9932828545570374
+    },
+    {
+      "text": "EDUCATION:",
+      "bbox": [
+        0,
+        471,
+        90,
+        491
+      ],
+      "confidence": 0.9883182644844055
+    },
+    {
+      "text": "977",
+      "bbox": [
+        0,
+        487,
+        32,
+        509
+      ],
+      "confidence": 0.9941215515136719
+    },
+    {
+      "text": "B.S. (Magna cum laude), Gannon College, Erie, PA",
+      "bbox": [
+        97,
+        490,
+        396,
+        507
+      ],
+      "confidence": 0.9958484172821045
+    },
+    {
+      "text": "982",
+      "bbox": [
+        0,
+        508,
+        30,
+        527
+      ],
+      "confidence": 0.9997334480285645
+    },
+    {
+      "text": "Ph.D., Case Western Reserve University, Department of Pharmacology, Cleveland, OH",
+      "bbox": [
+        96,
+        508,
+        598,
+        525
+      ],
+      "confidence": 0.9833182692527771
+    },
+    {
+      "text": "982",
+      "bbox": [
+        0,
+        523,
+        32,
+        546
+      ],
+      "confidence": 0.997852623462677
+    },
+    {
+      "text": "Research Fellow, American Heart Association of Northeast Ohio, Dcpartment of Pharmacology, Casc",
+      "bbox": [
+        97,
+        527,
+        679,
+        541
+      ],
+      "confidence": 0.9823945164680481
+    },
+    {
+      "text": "Western Reserve University",
+      "bbox": [
+        95,
+        543,
+        262,
+        562
+      ],
+      "confidence": 0.9951575398445129
+    },
+    {
+      "text": "984",
+      "bbox": [
+        0,
+        562,
+        30,
+        583
+      ],
+      "confidence": 0.9999825358390808
+    },
+    {
+      "text": "M.D., Case Western Reserve, School of Medicine, Cleveland, OH",
+      "bbox": [
+        96,
+        562,
+        478,
+        580
+      ],
+      "confidence": 0.9789125919342041
+    },
+    {
+      "text": "984-1985",
+      "bbox": [
+        0,
+        577,
+        66,
+        600
+      ],
+      "confidence": 0.9999639987945557
+    },
+    {
+      "text": "Intern in Medicine, Duke University Medical Center, Durham, NC",
+      "bbox": [
+        95,
+        580,
+        479,
+        599
+      ],
+      "confidence": 0.9961335062980652
+    },
+    {
+      "text": "985-1986",
+      "bbox": [
+        0,
+        597,
+        66,
+        617
+      ],
+      "confidence": 0.9999812841415405
+    },
+    {
+      "text": "Junior Assistant Resident, Department of Mcdicine, Duke University Medical Center, Durham, NC",
+      "bbox": [
+        94,
+        597,
+        667,
+        618
+      ],
+      "confidence": 0.980506420135498
+    },
+    {
+      "text": "/87-6/87",
+      "bbox": [
+        0,
+        615,
+        59,
+        635
+      ],
+      "confidence": 0.9999731779098511
+    },
+    {
+      "text": "Senior Assistant Resident, Department of Medicine, Duke University Medical Center, Durham, NC",
+      "bbox": [
+        94,
+        615,
+        668,
+        636
+      ],
+      "confidence": 0.9883978962898254
+    },
+    {
+      "text": "/86-12/86",
+      "bbox": [
+        0,
+        633,
+        67,
+        653
+      ],
+      "confidence": 0.9999620914459229
+    },
+    {
+      "text": "Clinical Fellow, Department of Nephrology, Duke University Medical Center, Durham, NC",
+      "bbox": [
+        94,
+        633,
+        622,
+        654
+      ],
+      "confidence": 0.9891000986099243
+    },
+    {
+      "text": "/87-6/88",
+      "bbox": [
+        0,
+        651,
+        59,
+        672
+      ],
+      "confidence": 0.9997024536132812
+    },
+    {
+      "text": "Research Fellow, Division of Nephrology, Department of Medicine, Duke University Medical Center,",
+      "bbox": [
+        93,
+        651,
+        678,
+        672
+      ],
+      "confidence": 0.9894292950630188
+    },
+    {
+      "text": "Durham, NC",
+      "bbox": [
+        95,
+        670,
+        175,
+        688
+      ],
+      "confidence": 0.9970951080322266
+    },
+    {
+      "text": "HONORS:",
+      "bbox": [
+        0,
+        703,
+        64,
+        725
+      ],
+      "confidence": 0.9794973731040955
+    },
+    {
+      "text": "Departmental Honors in Surgery, 1983",
+      "bbox": [
+        0,
+        726,
+        227,
+        743
+      ],
+      "confidence": 0.9916797280311584
+    },
+    {
+      "text": "Departmental Honors in Medicine, 1983",
+      "bbox": [
+        0,
+        741,
+        236,
+        762
+      ],
+      "confidence": 0.9753106832504272
+    },
+    {
+      "text": "Noether Memorial Award for Excellence in Therapeutics, 1984",
+      "bbox": [
+        0,
+        760,
+        363,
+        779
+      ],
+      "confidence": 0.9824258089065552
+    },
+    {
+      "text": "ARTICLES PUBLISHED OR ACCEPTED",
+      "bbox": [
+        0,
+        796,
+        259,
+        814
+      ],
+      "confidence": 0.9862791895866394
+    },
+    {
+      "text": "Onorato JJ, Rudolph SA. Regulation of protcin phosphorylation by inotropic agents in isolated rat myocardial cells. J Biol",
+      "bbox": [
+        0,
+        815,
+        703,
+        833
+      ],
+      "confidence": 0.9812978506088257
+    },
+    {
+      "text": "Chem 1981; 256:10697-10703.",
+      "bbox": [
+        48,
+        834,
+        234,
+        848
+      ],
+      "confidence": 0.9828983545303345
+    },
+    {
+      "text": "Schwab SJ, Onorato JJ, Sharar LR, Dennis PA. Hemodialysis without anticoagulation..A onc-year prospective trial in",
+      "bbox": [
+        0,
+        849,
+        677,
+        870
+      ],
+      "confidence": 0.9774593114852905
+    },
+    {
+      "text": "hospitalized patients at risk for bleeding. Am J Med 1987; 83:405-410.",
+      "bbox": [
+        48,
+        870,
+        460,
+        884
+      ],
+      "confidence": 0.9791569113731384
+    },
+    {
+      "text": "Ortel TL, Onorato JJ, Bedrosian CL, Kaufman RE. Anti-fibrinolytic therapy in the management of the Kasabach Merritt",
+      "bbox": [
+        0,
+        886,
+        688,
+        903
+      ],
+      "confidence": 0.9907978773117065
+    },
+    {
+      "text": "syndromc. Am J Hematol 1988; 29:44-48",
+      "bbox": [
+        50,
+        904,
+        296,
+        918
+      ],
+      "confidence": 0.9763733148574829
+    },
+    {
+      "text": "Middleton JP, Dunham CB, Onorato JJ, Sens DA, Dennis VW. Protcin kinase A, cytosolic calcium, and phosphate uptake in",
+      "bbox": [
+        0,
+        918,
+        711,
+        939
+      ],
+      "confidence": 0.9789297580718994
+    },
+    {
+      "text": "human proximal renal cclls. Am J Physiol 1989; 257:F631-F638.",
+      "bbox": [
+        50,
+        935,
+        427,
+        955
+      ],
+      "confidence": 0.9746160507202148
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        692,
+        964,
+        717,
+        986
+      ],
+      "confidence": 0.9993737936019897
+    },
+    {
+      "text": "HS 398 (Rev. 5/95)",
+      "bbox": [
+        0,
+        970,
+        97,
+        984
+      ],
+      "confidence": 0.9621760845184326
+    },
+    {
+      "text": "(Form Page 6) Page",
+      "bbox": [
+        251,
+        971,
+        345,
+        985
+      ],
+      "confidence": 0.9712021946907043
+    },
+    {
+      "text": "lumber page consecutivety at the bottom of the application. Do not use suffixes such as 3a, 3b..",
+      "bbox": [
+        1,
+        983,
+        434,
+        997
+      ],
+      "confidence": 0.9798397421836853
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nProvide the foliowing information for the key personnel in the order listed on Form Page 2.\nPhotocopy this page or follow this format for each person.\nNAME\nPOSITION TITLE\nJames Joseph Onorato\nAssistant Professor\nEDUCATION/TRAlNiNG (Begin with baccaleureate or other initiel professional educadion, such as nursing, and inctude postdoctoral training.)\nDEGREE\nYEARS\nINSTITUTION AND LOCATION\n(f epplicable)\nFIELD OF STUDY\nGannon College, Erie, PA\nBS\n1977\nBiology/Chemistry\nCase Western Reserve Univ., Cleveland, OH\nPh.D.\n1982\nPharmacology\nCase Western Reserve Univ., Cleveland, OH\nM.D.\n1984\nMedicine\nRESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience\nnd honors. Include present membership on any Federal Govemment public advisory committee. List, in chronological order, the tilles, all authors, and\ncompiete references to all publications during the past three years and to representative earlier publications pertinent to this application. If the list of\nubilications in the last three years exceeds two pages, select the most pertinent publications. DO NOT EXCEED TWO PAGES.\nFACULTY APPOINTMENTS\n7/88-7/90\nAssociate in Medicine, Division of Nephrology, Department of Medicine, Duke University Mcdical Center,\nDurham, NC\n8/90-prsnt\nAssistant Professor, Nephrology Section, Department of Medicine, University of Wisconsin-Madison,\nMadison, WI\nEDUCATION:\n977\nB.S. (Magna cum laude), Gannon College, Erie, PA\n982\nPh.D., Case Western Reserve University, Department of Pharmacology, Cleveland, OH\n982\nResearch Fellow, American Heart Association of Northeast Ohio, Dcpartment of Pharmacology, Casc\nWestern Reserve University\n984\nM.D., Case Western Reserve, School of Medicine, Cleveland, OH\n984-1985\nIntern in Medicine, Duke University Medical Center, Durham, NC\n985-1986\nJunior Assistant Resident, Department of Mcdicine, Duke University Medical Center, Durham, NC\n/87-6/87\nSenior Assistant Resident, Department of Medicine, Duke University Medical Center, Durham, NC\n/86-12/86\nClinical Fellow, Department of Nephrology, Duke University Medical Center, Durham, NC\n/87-6/88\nResearch Fellow, Division of Nephrology, Department of Medicine, Duke University Medical Center,\nDurham, NC\nHONORS:\nDepartmental Honors in Surgery, 1983\nDepartmental Honors in Medicine, 1983\nNoether Memorial Award for Excellence in Therapeutics, 1984\nARTICLES PUBLISHED OR ACCEPTED\nOnorato JJ, Rudolph SA. Regulation of protcin phosphorylation by inotropic agents in isolated rat myocardial cells. J Biol\nChem 1981; 256:10697-10703.\nSchwab SJ, Onorato JJ, Sharar LR, Dennis PA. Hemodialysis without anticoagulation..A onc-year prospective trial in\nhospitalized patients at risk for bleeding. Am J Med 1987; 83:405-410.\nOrtel TL, Onorato JJ, Bedrosian CL, Kaufman RE. Anti-fibrinolytic therapy in the management of the Kasabach Merritt\nsyndromc. Am J Hematol 1988; 29:44-48\nMiddleton JP, Dunham CB, Onorato JJ, Sens DA, Dennis VW. Protcin kinase A, cytosolic calcium, and phosphate uptake in\nhuman proximal renal cclls. Am J Physiol 1989; 257:F631-F638.\nFF\nHS 398 (Rev. 5/95)\n(Form Page 6) Page\nlumber page consecutivety at the bottom of the application. Do not use suffixes such as 3a, 3b.."
+}

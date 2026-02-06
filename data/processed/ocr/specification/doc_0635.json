@@ -1,0 +1,941 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0635.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CICARETTE SPECIFICATION",
+      "bbox": [
+        326,
+        19,
+        499,
+        42
+      ],
+      "confidence": 0.9456558227539062
+    },
+    {
+      "text": "EFFECTIVE DATE: 06/12/89",
+      "bbox": [
+        553,
+        29,
+        740,
+        48
+      ],
+      "confidence": 0.988490104675293
+    },
+    {
+      "text": "LOUISVILLE",
+      "bbox": [
+        77,
+        45,
+        150,
+        59
+      ],
+      "confidence": 0.9978472590446472
+    },
+    {
+      "text": "STANDARD PRODUCTION",
+      "bbox": [
+        552,
+        45,
+        695,
+        65
+      ],
+      "confidence": 0.994282066822052
+    },
+    {
+      "text": "ALPINE FULL FLAVOR KS MENTHOLATED FOIL SP",
+      "bbox": [
+        75,
+        54,
+        362,
+        76
+      ],
+      "confidence": 0.9849820733070374
+    },
+    {
+      "text": "MENTHOLATED FOIL",
+      "bbox": [
+        552,
+        61,
+        672,
+        82
+      ],
+      "confidence": 0.994063675403595
+    },
+    {
+      "text": "BRAND CODE-O920 (STD)(MF)",
+      "bbox": [
+        76,
+        74,
+        250,
+        88
+      ],
+      "confidence": 0.9285471439361572
+    },
+    {
+      "text": ": 15.0 MG/CIGT",
+      "bbox": [
+        523,
+        112,
+        643,
+        131
+      ],
+      "confidence": 0.9798263907432556
+    },
+    {
+      "text": "16.4",
+      "bbox": [
+        731,
+        111,
+        766,
+        129
+      ],
+      "confidence": 0.9999096393585205
+    },
+    {
+      "text": "CIGARETTE LENGTH",
+      "bbox": [
+        76,
+        121,
+        190,
+        134
+      ],
+      "confidence": 0.9875624775886536
+    },
+    {
+      "text": ":",
+      "bbox": [
+        235,
+        122,
+        247,
+        136
+      ],
+      "confidence": 0.9384668469429016
+    },
+    {
+      "text": "84.0",
+      "bbox": [
+        266,
+        118,
+        301,
+        136
+      ],
+      "confidence": 0.9871746301651001
+    },
+    {
+      "text": "HH",
+      "bbox": [
+        378,
+        119,
+        398,
+        132
+      ],
+      "confidence": 0.6140031814575195
+    },
+    {
+      "text": "FTC TAR",
+      "bbox": [
+        424,
+        114,
+        481,
+        134
+      ],
+      "confidence": 0.9421995878219604
+    },
+    {
+      "text": "14.5",
+      "bbox": [
+        669,
+        114,
+        703,
+        129
+      ],
+      "confidence": 0.8863497972488403
+    },
+    {
+      "text": "TOBACCO ROO CIRCUM.",
+      "bbox": [
+        76,
+        135,
+        208,
+        150
+      ],
+      "confidence": 0.9705822467803955
+    },
+    {
+      "text": ":",
+      "bbox": [
+        235,
+        138,
+        247,
+        152
+      ],
+      "confidence": 0.9654571413993835
+    },
+    {
+      "text": "24.80",
+      "bbox": [
+        267,
+        135,
+        308,
+        150
+      ],
+      "confidence": 0.9985237121582031
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        377,
+        135,
+        399,
+        149
+      ],
+      "confidence": 0.8165842890739441
+    },
+    {
+      "text": "TOBACCO ROO LENGTH",
+      "bbox": [
+        77,
+        152,
+        204,
+        166
+      ],
+      "confidence": 0.9666516184806824
+    },
+    {
+      "text": ":",
+      "bbox": [
+        235,
+        153,
+        248,
+        167
+      ],
+      "confidence": 0.9185619354248047
+    },
+    {
+      "text": "63.0",
+      "bbox": [
+        266,
+        149,
+        301,
+        167
+      ],
+      "confidence": 0.9997435212135315
+    },
+    {
+      "text": "MH",
+      "bbox": [
+        377,
+        150,
+        397,
+        163
+      ],
+      "confidence": 0.8223239183425903
+    },
+    {
+      "text": "FIELD MENTHOL :",
+      "bbox": [
+        427,
+        147,
+        535,
+        161
+      ],
+      "confidence": 0.980211615562439
+    },
+    {
+      "text": ".55 MG/CIGT",
+      "bbox": [
+        557,
+        144,
+        643,
+        164
+      ],
+      "confidence": 0.9839895367622375
+    },
+    {
+      "text": ".50-",
+      "bbox": [
+        679,
+        143,
+        723,
+        164
+      ],
+      "confidence": 0.9893268346786499
+    },
+    {
+      "text": ".60",
+      "bbox": [
+        747,
+        145,
+        774,
+        160
+      ],
+      "confidence": 0.9989120364189148
+    },
+    {
+      "text": "FILTER LENCTH",
+      "bbox": [
+        76,
+        167,
+        170,
+        181
+      ],
+      "confidence": 0.9511066675186157
+    },
+    {
+      "text": ":",
+      "bbox": [
+        235,
+        169,
+        248,
+        182
+      ],
+      "confidence": 0.8366666436195374
+    },
+    {
+      "text": "21.0",
+      "bbox": [
+        267,
+        166,
+        301,
+        181
+      ],
+      "confidence": 0.9990377426147461
+    },
+    {
+      "text": "MH",
+      "bbox": [
+        377,
+        165,
+        397,
+        178
+      ],
+      "confidence": 0.6316611766815186
+    },
+    {
+      "text": "TIPPING LENGTH",
+      "bbox": [
+        75,
+        180,
+        179,
+        200
+      ],
+      "confidence": 0.9834188222885132
+    },
+    {
+      "text": ":",
+      "bbox": [
+        234,
+        184,
+        247,
+        198
+      ],
+      "confidence": 0.8901171088218689
+    },
+    {
+      "text": "25.000",
+      "bbox": [
+        268,
+        181,
+        316,
+        197
+      ],
+      "confidence": 0.9988141655921936
+    },
+    {
+      "text": "MH",
+      "bbox": [
+        376,
+        179,
+        399,
+        196
+      ],
+      "confidence": 0.6795715093612671
+    },
+    {
+      "text": "TOTAL R.T.O.",
+      "bbox": [
+        76,
+        199,
+        162,
+        213
+      ],
+      "confidence": 0.9455316662788391
+    },
+    {
+      "text": ":",
+      "bbox": [
+        236,
+        201,
+        245,
+        212
+      ],
+      "confidence": 0.9354293942451477
+    },
+    {
+      "text": "4.80",
+      "bbox": [
+        274,
+        197,
+        309,
+        212
+      ],
+      "confidence": 0.8783929347991943
+    },
+    {
+      "text": "IN, H20",
+      "bbox": [
+        351,
+        195,
+        406,
+        212
+      ],
+      "confidence": 0.9104308485984802
+    },
+    {
+      "text": "FRESH MENTHOL :",
+      "bbox": [
+        424,
+        192,
+        536,
+        211
+      ],
+      "confidence": 0.8342480063438416
+    },
+    {
+      "text": ".65 MG/CIGT",
+      "bbox": [
+        559,
+        192,
+        642,
+        209
+      ],
+      "confidence": 0.8987749218940735
+    },
+    {
+      "text": ".60-",
+      "bbox": [
+        681,
+        194,
+        722,
+        209
+      ],
+      "confidence": 0.9708647727966309
+    },
+    {
+      "text": ".70",
+      "bbox": [
+        746,
+        194,
+        774,
+        209
+      ],
+      "confidence": 0.9886560440063477
+    },
+    {
+      "text": "TIPPING PAPER",
+      "bbox": [
+        77,
+        243,
+        170,
+        257
+      ],
+      "confidence": 0.9898883104324341
+    },
+    {
+      "text": ":",
+      "bbox": [
+        237,
+        246,
+        246,
+        256
+      ],
+      "confidence": 0.9958772659301758
+    },
+    {
+      "text": "50hM x 3500M WHT SGRML PPT",
+      "bbox": [
+        268,
+        240,
+        468,
+        256
+      ],
+      "confidence": 0.7701664566993713
+    },
+    {
+      "text": "KC-236M2 11-552-A NOT PRE-PERF.",
+      "bbox": [
+        463,
+        240,
+        697,
+        254
+      ],
+      "confidence": 0.9573292136192322
+    },
+    {
+      "text": "CLUE ROLLER/",
+      "bbox": [
+        76,
+        273,
+        162,
+        287
+      ],
+      "confidence": 0.9813342094421387
+    },
+    {
+      "text": ": REFER TO ENGINEERINGS CLUE ROLLER VARIABLE PARTS CATALOG -",
+      "bbox": [
+        234,
+        267,
+        656,
+        287
+      ],
+      "confidence": 0.9692909717559814
+    },
+    {
+      "text": "TIPPING INFORMATION",
+      "bbox": [
+        75,
+        287,
+        211,
+        300
+      ],
+      "confidence": 0.9975137114524841
+    },
+    {
+      "text": "_ : BY TYPE-TIPPER AND CIGARETTE BRAND-CODE-SPECIF ICATION",
+      "bbox": [
+        227,
+        284,
+        621,
+        301
+      ],
+      "confidence": 0.9468463659286499
+    },
+    {
+      "text": ": BETWEEN ROWS/BAND WIDTH/TPR, CUT LENGTH/DRY PATCH: SIZE",
+      "bbox": [
+        234,
+        315,
+        630,
+        333
+      ],
+      "confidence": 0.9590812921524048
+    },
+    {
+      "text": "NON-DILUTED",
+      "bbox": [
+        296,
+        333,
+        375,
+        347
+      ],
+      "confidence": 0.9966254830360413
+    },
+    {
+      "text": "27.00",
+      "bbox": [
+        446,
+        333,
+        488,
+        348
+      ],
+      "confidence": 0.9993411302566528
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        610,
+        334,
+        628,
+        346
+      ],
+      "confidence": 0.7667950391769409
+    },
+    {
+      "text": "TIPPING ADHESIVE",
+      "bbox": [
+        76,
+        365,
+        189,
+        379
+      ],
+      "confidence": 0.997673749923706
+    },
+    {
+      "text": ": F1MDLEY 355-381-01",
+      "bbox": [
+        236,
+        364,
+        375,
+        378
+      ],
+      "confidence": 0.9612568020820618
+    },
+    {
+      "text": "PVA 62-050-A",
+      "bbox": [
+        503,
+        364,
+        602,
+        381
+      ],
+      "confidence": 0.9401906132698059
+    },
+    {
+      "text": "SEAM ADHESIVE",
+      "bbox": [
+        75,
+        395,
+        168,
+        409
+      ],
+      "confidence": 0.9844846129417419
+    },
+    {
+      "text": ": FULLER WB-3902U",
+      "bbox": [
+        236,
+        395,
+        356,
+        409
+      ],
+      "confidence": 0.9950158596038818
+    },
+    {
+      "text": "PVA 61-444-A",
+      "bbox": [
+        502,
+        395,
+        601,
+        412
+      ],
+      "confidence": 0.9903026223182678
+    },
+    {
+      "text": "STD. FILLER - PACK 0.V.: AO92O - 12.85% ALPINE MENTHOLATED FOIL SP",
+      "bbox": [
+        74,
+        423,
+        537,
+        443
+      ],
+      "confidence": 0.963297426700592
+    },
+    {
+      "text": "**• NO CURRENT REQUIREMENTS FOR 1ROPICAL PRODU,. ION **.",
+      "bbox": [
+        351,
+        436,
+        746,
+        459
+      ],
+      "confidence": 0.9196386933326721
+    },
+    {
+      "text": "CIGARETTE PAPER",
+      "bbox": [
+        74,
+        471,
+        182,
+        485
+      ],
+      "confidence": 0.9951315522193909
+    },
+    {
+      "text": ": 27.25MM X.6500M 35CU/0.6% (K/D137/E878)",
+      "bbox": [
+        234,
+        469,
+        525,
+        489
+      ],
+      "confidence": 0.9150342345237732
+    },
+    {
+      "text": "10-135-A",
+      "bbox": [
+        540,
+        474,
+        602,
+        488
+      ],
+      "confidence": 0.9991834163665771
+    },
+    {
+      "text": "I NK",
+      "bbox": [
+        75,
+        502,
+        100,
+        517
+      ],
+      "confidence": 0.8399847149848938
+    },
+    {
+      "text": "*IMK FOR PRINT DIE ANO EXPORT OVERPRINtS*",
+      "bbox": [
+        268,
+        500,
+        560,
+        519
+      ],
+      "confidence": 0.7996211051940918
+    },
+    {
+      "text": ": MARLBORO BLACK 237077(MK 9/MK 10/PROTOS) 60-915-A",
+      "bbox": [
+        233,
+        516,
+        603,
+        535
+      ],
+      "confidence": 0.9234204888343811
+    },
+    {
+      "text": ":",
+      "bbox": [
+        236,
+        505,
+        245,
+        514
+      ],
+      "confidence": 0.9018006324768066
+    },
+    {
+      "text": "PRINT DIE",
+      "bbox": [
+        72,
+        546,
+        140,
+        564
+      ],
+      "confidence": 0.9951468706130981
+    },
+    {
+      "text": ": Machine mumber",
+      "bbox": [
+        233,
+        545,
+        352,
+        564
+      ],
+      "confidence": 0.8370074033737183
+    },
+    {
+      "text": "MENTHOLATED FOIL: 16-002-8",
+      "bbox": [
+        70,
+        726,
+        267,
+        744
+      ],
+      "confidence": 0.9606590867042542
+    },
+    {
+      "text": "114MM 30g ALUMINUM",
+      "bbox": [
+        332,
+        727,
+        464,
+        745
+      ],
+      "confidence": 0.8771451115608215
+    },
+    {
+      "text": "65.0MG/150MM",
+      "bbox": [
+        530,
+        731,
+        622,
+        745
+      ],
+      "confidence": 0.9336399435997009
+    },
+    {
+      "text": "COMMENTS",
+      "bbox": [
+        71,
+        755,
+        132,
+        774
+      ],
+      "confidence": 0.9967989921569824
+    },
+    {
+      "text": ": NO SUBSTITUTIONS oN ADHESIVES.",
+      "bbox": [
+        232,
+        760,
+        461,
+        774
+      ],
+      "confidence": 0.8294829726219177
+    },
+    {
+      "text": "REASON FOR CHANGE",
+      "bbox": [
+        71,
+        832,
+        194,
+        848
+      ],
+      "confidence": 0.980962872505188
+    },
+    {
+      "text": ": TWENTY-FOUR (24) HOUR PACK OVEN VOLATILE CHGD FROM",
+      "bbox": [
+        235,
+        832,
+        604,
+        852
+      ],
+      "confidence": 0.9450449347496033
+    },
+    {
+      "text": ": 12.65% TO 12.85% TO DECREASE TASTE, ODOR, STALE",
+      "bbox": [
+        235,
+        848,
+        583,
+        867
+      ],
+      "confidence": 0.9210547804832458
+    },
+    {
+      "text": ": COMPLAINTS, FILLER WEIGHT INCREASED, IMPLEMENT",
+      "bbox": [
+        236,
+        866,
+        582,
+        880
+      ],
+      "confidence": 0.916577160358429
+    },
+    {
+      "text": ": UPON DEPLETION OF CURRENT FILLER. OK TO MIX.",
+      "bbox": [
+        236,
+        880,
+        565,
+        895
+      ],
+      "confidence": 0.9392386078834534
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        73,
+        909,
+        155,
+        923
+      ],
+      "confidence": 0.997933566570282
+    },
+    {
+      "text": ": 8. M. HAYWOO0",
+      "bbox": [
+        237,
+        909,
+        345,
+        926
+      ],
+      "confidence": 0.9209514260292053
+    },
+    {
+      "text": "PRINTINO DATE",
+      "bbox": [
+        493,
+        910,
+        587,
+        927
+      ],
+      "confidence": 0.9457331299781799
+    },
+    {
+      "text": ": 6/07/89",
+      "bbox": [
+        657,
+        913,
+        735,
+        931
+      ],
+      "confidence": 0.9905676245689392
+    },
+    {
+      "text": "PREPARATION DATE",
+      "bbox": [
+        74,
+        924,
+        190,
+        939
+      ],
+      "confidence": 0.9993770718574524
+    },
+    {
+      "text": "PRINTING TIMC",
+      "bbox": [
+        493,
+        924,
+        587,
+        941
+      ],
+      "confidence": 0.9005287885665894
+    },
+    {
+      "text": ":10:02:04",
+      "bbox": [
+        656,
+        927,
+        734,
+        946
+      ],
+      "confidence": 0.9363552927970886
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        74,
+        950,
+        163,
+        971
+      ],
+      "confidence": 0.9829800724983215
+    },
+    {
+      "text": "nilut",
+      "bbox": [
+        264,
+        939,
+        355,
+        968
+      ],
+      "confidence": 0.8170744776725769
+    },
+    {
+      "text": "SUPERCEDES SPECIF ICATION DATED: 2,'IN/89",
+      "bbox": [
+        478,
+        951,
+        770,
+        978
+      ],
+      "confidence": 0.9770280122756958
+    },
+    {
+      "text": "2031321090",
+      "bbox": [
+        559,
+        971,
+        719,
+        999
+      ],
+      "confidence": 0.9971088171005249
+    }
+  ],
+  "full_text": "CICARETTE SPECIFICATION\nEFFECTIVE DATE: 06/12/89\nLOUISVILLE\nSTANDARD PRODUCTION\nALPINE FULL FLAVOR KS MENTHOLATED FOIL SP\nMENTHOLATED FOIL\nBRAND CODE-O920 (STD)(MF)\n: 15.0 MG/CIGT\n16.4\nCIGARETTE LENGTH\n:\n84.0\nHH\nFTC TAR\n14.5\nTOBACCO ROO CIRCUM.\n:\n24.80\nMM\nTOBACCO ROO LENGTH\n:\n63.0\nMH\nFIELD MENTHOL :\n.55 MG/CIGT\n.50-\n.60\nFILTER LENCTH\n:\n21.0\nMH\nTIPPING LENGTH\n:\n25.000\nMH\nTOTAL R.T.O.\n:\n4.80\nIN, H20\nFRESH MENTHOL :\n.65 MG/CIGT\n.60-\n.70\nTIPPING PAPER\n:\n50hM x 3500M WHT SGRML PPT\nKC-236M2 11-552-A NOT PRE-PERF.\nCLUE ROLLER/\n: REFER TO ENGINEERINGS CLUE ROLLER VARIABLE PARTS CATALOG -\nTIPPING INFORMATION\n_ : BY TYPE-TIPPER AND CIGARETTE BRAND-CODE-SPECIF ICATION\n: BETWEEN ROWS/BAND WIDTH/TPR, CUT LENGTH/DRY PATCH: SIZE\nNON-DILUTED\n27.00\nMM\nTIPPING ADHESIVE\n: F1MDLEY 355-381-01\nPVA 62-050-A\nSEAM ADHESIVE\n: FULLER WB-3902U\nPVA 61-444-A\nSTD. FILLER - PACK 0.V.: AO92O - 12.85% ALPINE MENTHOLATED FOIL SP\n**• NO CURRENT REQUIREMENTS FOR 1ROPICAL PRODU,. ION **.\nCIGARETTE PAPER\n: 27.25MM X.6500M 35CU/0.6% (K/D137/E878)\n10-135-A\nI NK\n*IMK FOR PRINT DIE ANO EXPORT OVERPRINtS*\n: MARLBORO BLACK 237077(MK 9/MK 10/PROTOS) 60-915-A\n:\nPRINT DIE\n: Machine mumber\nMENTHOLATED FOIL: 16-002-8\n114MM 30g ALUMINUM\n65.0MG/150MM\nCOMMENTS\n: NO SUBSTITUTIONS oN ADHESIVES.\nREASON FOR CHANGE\n: TWENTY-FOUR (24) HOUR PACK OVEN VOLATILE CHGD FROM\n: 12.65% TO 12.85% TO DECREASE TASTE, ODOR, STALE\n: COMPLAINTS, FILLER WEIGHT INCREASED, IMPLEMENT\n: UPON DEPLETION OF CURRENT FILLER. OK TO MIX.\nPREPARED BY\n: 8. M. HAYWOO0\nPRINTINO DATE\n: 6/07/89\nPREPARATION DATE\nPRINTING TIMC\n:10:02:04\nAPPROVED BY:\nnilut\nSUPERCEDES SPECIF ICATION DATED: 2,'IN/89\n2031321090"
+}

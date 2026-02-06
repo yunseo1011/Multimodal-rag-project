@@ -1,0 +1,1121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0859.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "R. J. Reynolds Tobacco Company",
+      "bbox": [
+        186,
+        0,
+        562,
+        39
+      ],
+      "confidence": 0.9810882210731506
+    },
+    {
+      "text": "AUTHORIZATION REQUEST",
+      "bbox": [
+        276,
+        31,
+        477,
+        59
+      ],
+      "confidence": 0.9918007850646973
+    },
+    {
+      "text": "CUBJECT",
+      "bbox": [
+        2,
+        51,
+        61,
+        73
+      ],
+      "confidence": 0.9462991952896118
+    },
+    {
+      "text": "DATE ROUTED:",
+      "bbox": [
+        364,
+        63,
+        457,
+        84
+      ],
+      "confidence": 0.9910916686058044
+    },
+    {
+      "text": "The Vintage Seniors Tournament",
+      "bbox": [
+        13,
+        79,
+        261,
+        104
+      ],
+      "confidence": 0.9961055517196655
+    },
+    {
+      "text": "ORIGINATOR:",
+      "bbox": [
+        364,
+        79,
+        445,
+        99
+      ],
+      "confidence": 0.9974052309989929
+    },
+    {
+      "text": "Greg Littell",
+      "bbox": [
+        453,
+        78,
+        551,
+        99
+      ],
+      "confidence": 0.9767895340919495
+    },
+    {
+      "text": "AR NO:",
+      "bbox": [
+        575,
+        69,
+        623,
+        90
+      ],
+      "confidence": 0.9956434369087219
+    },
+    {
+      "text": "START DATE:",
+      "bbox": [
+        363,
+        96,
+        449,
+        115
+      ],
+      "confidence": 0.9798473119735718
+    },
+    {
+      "text": "3/19/87",
+      "bbox": [
+        454,
+        94,
+        514,
+        114
+      ],
+      "confidence": 0.9900967478752136
+    },
+    {
+      "text": "DEPT. REF. NO: M-29",
+      "bbox": [
+        574,
+        83,
+        744,
+        108
+      ],
+      "confidence": 0.8329101204872131
+    },
+    {
+      "text": "APPROVAL REQUEST SUMMARY",
+      "bbox": [
+        0,
+        106,
+        203,
+        125
+      ],
+      "confidence": 0.9951372742652893
+    },
+    {
+      "text": "OPERATIONAL DATE: 3/31/87",
+      "bbox": [
+        533,
+        99,
+        714,
+        120
+      ],
+      "confidence": 0.9505029320716858
+    },
+    {
+      "text": "Approval requested to enter agreement with Vintage Properties for a two-year",
+      "bbox": [
+        10,
+        146,
+        620,
+        182
+      ],
+      "confidence": 0.9811160564422607
+    },
+    {
+      "text": "sponsorship of PGA Seniors Tournament to be held at the Vintage Club in Palm",
+      "bbox": [
+        8,
+        163,
+        623,
+        197
+      ],
+      "confidence": 0.977217435836792
+    },
+    {
+      "text": "Springs, CA. RJRT to receive up to 12 spots in the Pro-Am tournament and may",
+      "bbox": [
+        8,
+        179,
+        630,
+        214
+      ],
+      "confidence": 0.9778580069541931
+    },
+    {
+      "text": "purchase up to 4 additional spots at $3,500 each. RJRT will also sponsor the Black",
+      "bbox": [
+        8,
+        195,
+        677,
+        231
+      ],
+      "confidence": 0.9688032269477844
+    },
+    {
+      "text": "Tie Tribute Dinner. RJRT to receive other publicity rights as outlined in the attached",
+      "bbox": [
+        7,
+        212,
+        708,
+        248
+      ],
+      "confidence": 0.971215546131134
+    },
+    {
+      "text": "contract.",
+      "bbox": [
+        9,
+        231,
+        86,
+        247
+      ],
+      "confidence": 0.9997931718826294
+    },
+    {
+      "text": "AUTHORITY REQUESTED",
+      "bbox": [
+        9,
+        371,
+        164,
+        389
+      ],
+      "confidence": 0.9984756112098694
+    },
+    {
+      "text": "Previously",
+      "bbox": [
+        182,
+        377,
+        239,
+        394
+      ],
+      "confidence": 0.999591052532196
+    },
+    {
+      "text": "This",
+      "bbox": [
+        306,
+        376,
+        337,
+        395
+      ],
+      "confidence": 0.99989914894104
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        409,
+        377,
+        446,
+        399
+      ],
+      "confidence": 0.9149230122566223
+    },
+    {
+      "text": "AUTHORIZATION TYPE",
+      "bbox": [
+        489,
+        375,
+        629,
+        389
+      ],
+      "confidence": 0.992935836315155
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        184,
+        390,
+        239,
+        404
+      ],
+      "confidence": 0.9966838359832764
+    },
+    {
+      "text": "Request",
+      "bbox": [
+        295,
+        386,
+        346,
+        408
+      ],
+      "confidence": 0.956274151802063
+    },
+    {
+      "text": "Request",
+      "bbox": [
+        403,
+        390,
+        452,
+        407
+      ],
+      "confidence": 0.8597060441970825
+    },
+    {
+      "text": "Capital",
+      "bbox": [
+        14,
+        408,
+        57,
+        423
+      ],
+      "confidence": 0.9653878211975098
+    },
+    {
+      "text": "$",
+      "bbox": [
+        270,
+        408,
+        278,
+        418
+      ],
+      "confidence": 0.9818775653839111
+    },
+    {
+      "text": "Capital",
+      "bbox": [
+        506,
+        401,
+        555,
+        423
+      ],
+      "confidence": 0.9994224309921265
+    },
+    {
+      "text": "Expense",
+      "bbox": [
+        15,
+        426,
+        66,
+        443
+      ],
+      "confidence": 0.9997953176498413
+    },
+    {
+      "text": "$425,000",
+      "bbox": [
+        278,
+        417,
+        350,
+        439
+      ],
+      "confidence": 0.9995101690292358
+    },
+    {
+      "text": "$425,000",
+      "bbox": [
+        391,
+        420,
+        459,
+        439
+      ],
+      "confidence": 0.9996070861816406
+    },
+    {
+      "text": " Contract Special Events Operations",
+      "bbox": [
+        510,
+        436,
+        761,
+        456
+      ],
+      "confidence": 0.9866353869438171
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        15,
+        443,
+        53,
+        458
+      ],
+      "confidence": 0.9999017715454102
+    },
+    {
+      "text": "425,000",
+      "bbox": [
+        286,
+        452,
+        349,
+        470
+      ],
+      "confidence": 0.9972916841506958
+    },
+    {
+      "text": "s",
+      "bbox": [
+        367,
+        453,
+        388,
+        473
+      ],
+      "confidence": 0.787218451499939
+    },
+    {
+      "text": "425,000",
+      "bbox": [
+        398,
+        454,
+        459,
+        471
+      ],
+      "confidence": 0.9995911717414856
+    },
+    {
+      "text": "Total Request",
+      "bbox": [
+        67,
+        459,
+        146,
+        473
+      ],
+      "confidence": 0.9975596070289612
+    },
+    {
+      "text": "Product Modification/Introduction",
+      "bbox": [
+        515,
+        471,
+        688,
+        485
+      ],
+      "confidence": 0.9855489730834961
+    },
+    {
+      "text": "Vitt subsequent proposats be required?",
+      "bbox": [
+        11,
+        486,
+        219,
+        505
+      ],
+      "confidence": 0.9722191691398621
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        275,
+        483,
+        309,
+        503
+      ],
+      "confidence": 0.9834176898002625
+    },
+    {
+      "text": "No",
+      "bbox": [
+        331,
+        484,
+        361,
+        503
+      ],
+      "confidence": 0.9957323670387268
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        512,
+        502,
+        550,
+        521
+      ],
+      "confidence": 0.9975330233573914
+    },
+    {
+      "text": "revious Proposals:",
+      "bbox": [
+        0,
+        507,
+        117,
+        523
+      ],
+      "confidence": 0.9787752628326416
+    },
+    {
+      "text": "Lease or Other Continuing Commitment",
+      "bbox": [
+        2,
+        523,
+        228,
+        540
+      ],
+      "confidence": 0.9837267994880676
+    },
+    {
+      "text": "Mininum $",
+      "bbox": [
+        23,
+        541,
+        91,
+        555
+      ],
+      "confidence": 0.9585320949554443
+    },
+    {
+      "text": "For",
+      "bbox": [
+        171,
+        539,
+        195,
+        555
+      ],
+      "confidence": 0.9992602467536926
+    },
+    {
+      "text": "Total $ 425,000",
+      "bbox": [
+        269,
+        535,
+        372,
+        554
+      ],
+      "confidence": 0.9639321565628052
+    },
+    {
+      "text": "For",
+      "bbox": [
+        381,
+        535,
+        415,
+        557
+      ],
+      "confidence": 0.9996027946472168
+    },
+    {
+      "text": "2 yrs",
+      "bbox": [
+        405,
+        535,
+        460,
+        556
+      ],
+      "confidence": 0.9641048312187195
+    },
+    {
+      "text": "Cost Justified At",
+      "bbox": [
+        495,
+        541,
+        586,
+        555
+      ],
+      "confidence": 0.9710933566093445
+    },
+    {
+      "text": "%ROI",
+      "bbox": [
+        666,
+        541,
+        702,
+        556
+      ],
+      "confidence": 0.9651684165000916
+    },
+    {
+      "text": "FINANCE DATA",
+      "bbox": [
+        1,
+        566,
+        108,
+        583
+      ],
+      "confidence": 0.9992818236351013
+    },
+    {
+      "text": "Capital",
+      "bbox": [
+        259,
+        574,
+        302,
+        592
+      ],
+      "confidence": 0.99981689453125
+    },
+    {
+      "text": "Expense",
+      "bbox": [
+        366,
+        576,
+        415,
+        591
+      ],
+      "confidence": 0.9997001886367798
+    },
+    {
+      "text": "Capital ID#",
+      "bbox": [
+        466,
+        574,
+        530,
+        591
+      ],
+      "confidence": 0.9420613646507263
+    },
+    {
+      "text": "Authority Requested Covered By:",
+      "bbox": [
+        0,
+        581,
+        190,
+        600
+      ],
+      "confidence": 0.9952517151832581
+    },
+    {
+      "text": "Budgeted Department # 856",
+      "bbox": [
+        13,
+        602,
+        190,
+        623
+      ],
+      "confidence": 0.9929959774017334
+    },
+    {
+      "text": "$",
+      "bbox": [
+        231,
+        602,
+        243,
+        617
+      ],
+      "confidence": 0.99836665391922
+    },
+    {
+      "text": "$425,000",
+      "bbox": [
+        344,
+        600,
+        429,
+        624
+      ],
+      "confidence": 0.9981870055198669
+    },
+    {
+      "text": "Project ID#",
+      "bbox": [
+        466,
+        607,
+        532,
+        624
+      ],
+      "confidence": 0.9534416198730469
+    },
+    {
+      "text": "Funds Required From:",
+      "bbox": [
+        15,
+        623,
+        143,
+        638
+      ],
+      "confidence": 0.9997084736824036
+    },
+    {
+      "text": "Expense Code 04-73-4400-8125-856",
+      "bbox": [
+        466,
+        635,
+        706,
+        655
+      ],
+      "confidence": 0.994549036026001
+    },
+    {
+      "text": "Department #",
+      "bbox": [
+        70,
+        640,
+        153,
+        653
+      ],
+      "confidence": 0.9738614559173584
+    },
+    {
+      "text": "$",
+      "bbox": [
+        231,
+        638,
+        243,
+        654
+      ],
+      "confidence": 0.9977796673774719
+    },
+    {
+      "text": "$",
+      "bbox": [
+        346,
+        638,
+        359,
+        654
+      ],
+      "confidence": 0.9993487000465393
+    },
+    {
+      "text": "contract # 87-856-003",
+      "bbox": [
+        463,
+        652,
+        635,
+        671
+      ],
+      "confidence": 0.9847888946533203
+    },
+    {
+      "text": "Corporate",
+      "bbox": [
+        70,
+        656,
+        128,
+        670
+      ],
+      "confidence": 0.999924898147583
+    },
+    {
+      "text": "$",
+      "bbox": [
+        231,
+        655,
+        243,
+        669
+      ],
+      "confidence": 0.9955918192863464
+    },
+    {
+      "text": "$",
+      "bbox": [
+        346,
+        654,
+        359,
+        670
+      ],
+      "confidence": 0.9910422563552856
+    },
+    {
+      "text": "FINANCIAL IMPACT",
+      "bbox": [
+        7,
+        681,
+        142,
+        700
+      ],
+      "confidence": 0.971004843711853
+    },
+    {
+      "text": "Average",
+      "bbox": [
+        670,
+        680,
+        713,
+        696
+      ],
+      "confidence": 0.9983348250389099
+    },
+    {
+      "text": "19 87",
+      "bbox": [
+        211,
+        684,
+        255,
+        706
+      ],
+      "confidence": 0.939649224281311
+    },
+    {
+      "text": "19 88",
+      "bbox": [
+        318,
+        686,
+        358,
+        705
+      ],
+      "confidence": 0.9770678281784058
+    },
+    {
+      "text": "19",
+      "bbox": [
+        438,
+        691,
+        455,
+        704
+      ],
+      "confidence": 0.9999909996986389
+    },
+    {
+      "text": "19",
+      "bbox": [
+        551,
+        690,
+        568,
+        704
+      ],
+      "confidence": 0.9999464750289917
+    },
+    {
+      "text": "Tnereafter",
+      "bbox": [
+        667,
+        690,
+        719,
+        707
+      ],
+      "confidence": 0.7861061096191406
+    },
+    {
+      "text": "Operating Earnings/(Loss)",
+      "bbox": [
+        19,
+        707,
+        167,
+        721
+      ],
+      "confidence": 0.9994693994522095
+    },
+    {
+      "text": "$(200,000)",
+      "bbox": [
+        182,
+        704,
+        267,
+        721
+      ],
+      "confidence": 0.9926351308822632
+    },
+    {
+      "text": "$_(225,000)",
+      "bbox": [
+        298,
+        704,
+        390,
+        721
+      ],
+      "confidence": 0.964551568031311
+    },
+    {
+      "text": "$",
+      "bbox": [
+        413,
+        706,
+        422,
+        717
+      ],
+      "confidence": 0.8611441254615784
+    },
+    {
+      "text": "$",
+      "bbox": [
+        529,
+        705,
+        538,
+        717
+      ],
+      "confidence": 0.9688646197319031
+    },
+    {
+      "text": "Corporate Funds Requested",
+      "bbox": [
+        18,
+        722,
+        179,
+        737
+      ],
+      "confidence": 0.9992608428001404
+    },
+    {
+      "text": "$",
+      "bbox": [
+        183,
+        725,
+        193,
+        735
+      ],
+      "confidence": 0.6552550792694092
+    },
+    {
+      "text": "REVIEWS",
+      "bbox": [
+        73,
+        745,
+        138,
+        762
+      ],
+      "confidence": 0.9997376203536987
+    },
+    {
+      "text": "APPROVALS ",
+      "bbox": [
+        447,
+        749,
+        558,
+        762
+      ],
+      "confidence": 0.9455858469009399
+    },
+    {
+      "text": "Dept.",
+      "bbox": [
+        24,
+        762,
+        59,
+        777
+      ],
+      "confidence": 0.9992648363113403
+    },
+    {
+      "text": "Initials",
+      "bbox": [
+        89,
+        760,
+        129,
+        778
+      ],
+      "confidence": 0.9891203045845032
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        155,
+        762,
+        187,
+        777
+      ],
+      "confidence": 0.9998944997787476
+    },
+    {
+      "text": "Dept./Initials",
+      "bbox": [
+        217,
+        762,
+        287,
+        776
+      ],
+      "confidence": 0.9987500905990601
+    },
+    {
+      "text": "Signature",
+      "bbox": [
+        323,
+        763,
+        378,
+        780
+      ],
+      "confidence": 0.9989089965820312
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        426,
+        764,
+        457,
+        778
+      ],
+      "confidence": 0.9999169111251831
+    },
+    {
+      "text": "Dept./Initials",
+      "bbox": [
+        498,
+        764,
+        567,
+        778
+      ],
+      "confidence": 0.9660767912864685
+    },
+    {
+      "text": "Signature",
+      "bbox": [
+        614,
+        763,
+        670,
+        779
+      ],
+      "confidence": 0.9996592402458191
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        715,
+        763,
+        745,
+        778
+      ],
+      "confidence": 0.9998536705970764
+    },
+    {
+      "text": "SEO",
+      "bbox": [
+        8,
+        785,
+        41,
+        802
+      ],
+      "confidence": 0.9991070628166199
+    },
+    {
+      "text": "GTB",
+      "bbox": [
+        206,
+        785,
+        238,
+        804
+      ],
+      "confidence": 0.9952980875968933
+    },
+    {
+      "text": "TWR",
+      "bbox": [
+        7,
+        819,
+        40,
+        836
+      ],
+      "confidence": 0.9999055862426758
+    },
+    {
+      "text": "CFO",
+      "bbox": [
+        489,
+        835,
+        518,
+        851
+      ],
+      "confidence": 0.998240053653717
+    },
+    {
+      "text": "FSM",
+      "bbox": [
+        8,
+        851,
+        41,
+        868
+      ],
+      "confidence": 0.9998593330383301
+    },
+    {
+      "text": "51316 2027",
+      "bbox": [
+        744,
+        856,
+        769,
+        958
+      ],
+      "confidence": 0.9621280431747437
+    },
+    {
+      "text": "Operations",
+      "bbox": [
+        490,
+        871,
+        552,
+        885
+      ],
+      "confidence": 0.9456137418746948
+    },
+    {
+      "text": "LAW",
+      "bbox": [
+        7,
+        884,
+        40,
+        899
+      ],
+      "confidence": 0.9996132850646973
+    },
+    {
+      "text": "Fin. & Admin.",
+      "bbox": [
+        489,
+        902,
+        569,
+        918
+      ],
+      "confidence": 0.9760791063308716
+    },
+    {
+      "text": "ASSET & RISK",
+      "bbox": [
+        8,
+        916,
+        114,
+        933
+      ],
+      "confidence": 0.9573147892951965
+    },
+    {
+      "text": "Pres. & CEO",
+      "bbox": [
+        490,
+        935,
+        565,
+        953
+      ],
+      "confidence": 0.9354924559593201
+    },
+    {
+      "text": "TOB INS",
+      "bbox": [
+        8,
+        950,
+        71,
+        967
+      ],
+      "confidence": 0.9965425729751587
+    },
+    {
+      "text": "Implementor/Project Manager:",
+      "bbox": [
+        30,
+        975,
+        202,
+        993
+      ],
+      "confidence": 0.990962028503418
+    },
+    {
+      "text": "Project Client Representative:",
+      "bbox": [
+        300,
+        977,
+        466,
+        998
+      ],
+      "confidence": 0.9868062734603882
+    },
+    {
+      "text": "Department Management:",
+      "bbox": [
+        585,
+        981,
+        728,
+        999
+      ],
+      "confidence": 0.9981812834739685
+    }
+  ],
+  "full_text": "R. J. Reynolds Tobacco Company\nAUTHORIZATION REQUEST\nCUBJECT\nDATE ROUTED:\nThe Vintage Seniors Tournament\nORIGINATOR:\nGreg Littell\nAR NO:\nSTART DATE:\n3/19/87\nDEPT. REF. NO: M-29\nAPPROVAL REQUEST SUMMARY\nOPERATIONAL DATE: 3/31/87\nApproval requested to enter agreement with Vintage Properties for a two-year\nsponsorship of PGA Seniors Tournament to be held at the Vintage Club in Palm\nSprings, CA. RJRT to receive up to 12 spots in the Pro-Am tournament and may\npurchase up to 4 additional spots at $3,500 each. RJRT will also sponsor the Black\nTie Tribute Dinner. RJRT to receive other publicity rights as outlined in the attached\ncontract.\nAUTHORITY REQUESTED\nPreviously\nThis\nTotal\nAUTHORIZATION TYPE\nApproved\nRequest\nRequest\nCapital\n$\nCapital\nExpense\n$425,000\n$425,000\n Contract Special Events Operations\nOther\n425,000\ns\n425,000\nTotal Request\nProduct Modification/Introduction\nVitt subsequent proposats be required?\nYes\nNo\nOther\nrevious Proposals:\nLease or Other Continuing Commitment\nMininum $\nFor\nTotal $ 425,000\nFor\n2 yrs\nCost Justified At\n%ROI\nFINANCE DATA\nCapital\nExpense\nCapital ID#\nAuthority Requested Covered By:\nBudgeted Department # 856\n$\n$425,000\nProject ID#\nFunds Required From:\nExpense Code 04-73-4400-8125-856\nDepartment #\n$\n$\ncontract # 87-856-003\nCorporate\n$\n$\nFINANCIAL IMPACT\nAverage\n19 87\n19 88\n19\n19\nTnereafter\nOperating Earnings/(Loss)\n$(200,000)\n$_(225,000)\n$\n$\nCorporate Funds Requested\n$\nREVIEWS\nAPPROVALS \nDept.\nInitials\nDate\nDept./Initials\nSignature\nDate\nDept./Initials\nSignature\nDate\nSEO\nGTB\nTWR\nCFO\nFSM\n51316 2027\nOperations\nLAW\nFin. & Admin.\nASSET & RISK\nPres. & CEO\nTOB INS\nImplementor/Project Manager:\nProject Client Representative:\nDepartment Management:"
+}

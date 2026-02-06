@@ -1,0 +1,551 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0573.png",
+    "image_width": 797,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "012072",
+      "bbox": [
+        704,
+        4,
+        762,
+        22
+      ],
+      "confidence": 0.9999645352363586
+    },
+    {
+      "text": "MSDS NO. :",
+      "bbox": [
+        586,
+        8,
+        685,
+        22
+      ],
+      "confidence": 0.9434638023376465
+    },
+    {
+      "text": "1/22/91",
+      "bbox": [
+        701,
+        19,
+        761,
+        38
+      ],
+      "confidence": 0.9729710817337036
+    },
+    {
+      "text": "MATERIAL SAFETY DATA SHEET",
+      "bbox": [
+        252,
+        30,
+        561,
+        55
+      ],
+      "confidence": 0.9844026565551758
+    },
+    {
+      "text": "EFF. DATE:",
+      "bbox": [
+        586,
+        23,
+        687,
+        37
+      ],
+      "confidence": 0.9966408014297485
+    },
+    {
+      "text": "ARchine",
+      "bbox": [
+        624,
+        35,
+        735,
+        116
+      ],
+      "confidence": 0.8814626336097717
+    },
+    {
+      "text": "**",
+      "bbox": [
+        338,
+        82,
+        357,
+        94
+      ],
+      "confidence": 0.9961923360824585
+    },
+    {
+      "text": "90-986",
+      "bbox": [
+        364,
+        82,
+        422,
+        100
+      ],
+      "confidence": 0.9999672770500183
+    },
+    {
+      "text": "EMPLOYEE AND ENVIRONMENTAL PROTECTION",
+      "bbox": [
+        101,
+        172,
+        430,
+        198
+      ],
+      "confidence": 0.996428906917572
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        102,
+        158,
+        257,
+        179
+      ],
+      "confidence": 0.9996384978294373
+    },
+    {
+      "text": "EMERGENCY CONTACTS:",
+      "bbox": [
+        511,
+        162,
+        676,
+        180
+      ],
+      "confidence": 0.9995880126953125
+    },
+    {
+      "text": "CHEMTREC",
+      "bbox": [
+        512,
+        179,
+        583,
+        194
+      ],
+      "confidence": 0.9997685551643372
+    },
+    {
+      "text": "P.O. BOX 26603",
+      "bbox": [
+        101,
+        189,
+        229,
+        210
+      ],
+      "confidence": 0.9949065446853638
+    },
+    {
+      "text": "(800) 424-9300",
+      "bbox": [
+        513,
+        195,
+        635,
+        212
+      ],
+      "confidence": 0.9749962687492371
+    },
+    {
+      "text": "RICHMOND, VA. 23261",
+      "bbox": [
+        101,
+        206,
+        273,
+        227
+      ],
+      "confidence": 0.9846286773681641
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        562,
+        211,
+        585,
+        227
+      ],
+      "confidence": 0.9996582269668579
+    },
+    {
+      "text": "(804) 274-2432",
+      "bbox": [
+        101,
+        222,
+        229,
+        243
+      ],
+      "confidence": 0.9761233925819397
+    },
+    {
+      "text": "WITHIN PHILIP MORRIS",
+      "bbox": [
+        512,
+        228,
+        685,
+        242
+      ],
+      "confidence": 0.9923940896987915
+    },
+    {
+      "text": "(804) 274-2416",
+      "bbox": [
+        513,
+        244,
+        635,
+        258
+      ],
+      "confidence": 0.9864250421524048
+    },
+    {
+      "text": "I.",
+      "bbox": [
+        258,
+        321,
+        284,
+        340
+      ],
+      "confidence": 0.9992800951004028
+    },
+    {
+      "text": "SUBSTANCE IDENTIFICATION",
+      "bbox": [
+        295,
+        325,
+        506,
+        339
+      ],
+      "confidence": 0.9978384971618652
+    },
+    {
+      "text": "Substance:",
+      "bbox": [
+        98,
+        370,
+        191,
+        390
+      ],
+      "confidence": 0.9998527765274048
+    },
+    {
+      "text": "**",
+      "bbox": [
+        372,
+        371,
+        398,
+        387
+      ],
+      "confidence": 0.9991022348403931
+    },
+    {
+      "text": "90-986",
+      "bbox": [
+        405,
+        372,
+        465,
+        389
+      ],
+      "confidence": 0.9998356699943542
+    },
+    {
+      "text": "**",
+      "bbox": [
+        473,
+        370,
+        501,
+        389
+      ],
+      "confidence": 0.9131366014480591
+    },
+    {
+      "text": "Trade Name/Synonyms:",
+      "bbox": [
+        99,
+        405,
+        278,
+        422
+      ],
+      "confidence": 0.9858662486076355
+    },
+    {
+      "text": "P.M. FLAVOR MF LSA",
+      "bbox": [
+        348,
+        406,
+        507,
+        420
+      ],
+      "confidence": 0.9800524115562439
+    },
+    {
+      "text": "Chemical Family:",
+      "bbox": [
+        97,
+        435,
+        243,
+        458
+      ],
+      "confidence": 0.9972739815711975
+    },
+    {
+      "text": "P.M. BLENDED FLAVOR",
+      "bbox": [
+        347,
+        436,
+        516,
+        454
+      ],
+      "confidence": 0.9984875917434692
+    },
+    {
+      "text": "Molecular Formula:",
+      "bbox": [
+        98,
+        470,
+        261,
+        490
+      ],
+      "confidence": 0.9993956089019775
+    },
+    {
+      "text": "TRADE SECRET",
+      "bbox": [
+        293,
+        469,
+        404,
+        488
+      ],
+      "confidence": 0.9899136424064636
+    },
+    {
+      "text": "Mol. Wt.:",
+      "bbox": [
+        538,
+        468,
+        619,
+        486
+      ],
+      "confidence": 0.9965344667434692
+    },
+    {
+      "text": "UNKNOWN",
+      "bbox": [
+        649,
+        465,
+        717,
+        484
+      ],
+      "confidence": 0.9963873624801636
+    },
+    {
+      "text": "Fire = 1",
+      "bbox": [
+        414,
+        500,
+        502,
+        521
+      ],
+      "confidence": 0.9731506109237671
+    },
+    {
+      "text": "Reactivity = 0",
+      "bbox": [
+        561,
+        497,
+        703,
+        521
+      ],
+      "confidence": 0.9582628011703491
+    },
+    {
+      "text": "NFPA Ratings:",
+      "bbox": [
+        98,
+        504,
+        217,
+        523
+      ],
+      "confidence": 0.9964206218719482
+    },
+    {
+      "text": "Health =",
+      "bbox": [
+        250,
+        503,
+        336,
+        520
+      ],
+      "confidence": 0.9843957424163818
+    },
+    {
+      "text": "1",
+      "bbox": [
+        335,
+        504,
+        352,
+        518
+      ],
+      "confidence": 0.9995697140693665
+    },
+    {
+      "text": "NFPA Scale (0-4):",
+      "bbox": [
+        99,
+        536,
+        256,
+        557
+      ],
+      "confidence": 0.9952925443649292
+    },
+    {
+      "text": "0 = No Hazard, 4 = Highest Hazard",
+      "bbox": [
+        265,
+        533,
+        559,
+        555
+      ],
+      "confidence": 0.9943071007728577
+    },
+    {
+      "text": "II. COMPONENTS",
+      "bbox": [
+        313,
+        618,
+        447,
+        637
+      ],
+      "confidence": 0.9747698903083801
+    },
+    {
+      "text": "TLV/PEL",
+      "bbox": [
+        461,
+        667,
+        529,
+        689
+      ],
+      "confidence": 0.999859631061554
+    },
+    {
+      "text": "CAS No.",
+      "bbox": [
+        645,
+        662,
+        713,
+        683
+      ],
+      "confidence": 0.936989426612854
+    },
+    {
+      "text": "Component Name",
+      "bbox": [
+        98,
+        670,
+        229,
+        693
+      ],
+      "confidence": 0.9996036887168884
+    },
+    {
+      "text": "Percent",
+      "bbox": [
+        338,
+        670,
+        404,
+        689
+      ],
+      "confidence": 0.999873161315918
+    },
+    {
+      "text": "PROPRIETARY COMPONENT(S)",
+      "bbox": [
+        97,
+        755,
+        315,
+        776
+      ],
+      "confidence": 0.9992496371269226
+    },
+    {
+      "text": "> 1%",
+      "bbox": [
+        347,
+        754,
+        389,
+        772
+      ],
+      "confidence": 0.9830946922302246
+    },
+    {
+      "text": "NONE",
+      "bbox": [
+        469,
+        749,
+        513,
+        770
+      ],
+      "confidence": 0.9999251365661621
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        646,
+        745,
+        686,
+        770
+      ],
+      "confidence": 0.998267650604248
+    },
+    {
+      "text": "Certain specific chemical identities of flavor ingredients are being",
+      "bbox": [
+        97,
+        780,
+        709,
+        812
+      ],
+      "confidence": 0.988513171672821
+    },
+    {
+      "text": "withheld as trade secrets. Disclosure will be made in emergencies",
+      "bbox": [
+        96,
+        798,
+        692,
+        829
+      ],
+      "confidence": 0.9950271844863892
+    },
+    {
+      "text": "and in non-emergencies if the need to know is justified in a written",
+      "bbox": [
+        97,
+        815,
+        710,
+        844
+      ],
+      "confidence": 0.986905574798584
+    },
+    {
+      "text": "request to Philip Morris USA. See manufacturer information for the",
+      "bbox": [
+        98,
+        832,
+        702,
+        862
+      ],
+      "confidence": 0.996150016784668
+    },
+    {
+      "text": "correct address.",
+      "bbox": [
+        98,
+        859,
+        243,
+        878
+      ],
+      "confidence": 0.9896048903465271
+    }
+  ],
+  "full_text": "012072\nMSDS NO. :\n1/22/91\nMATERIAL SAFETY DATA SHEET\nEFF. DATE:\nARchine\n**\n90-986\nEMPLOYEE AND ENVIRONMENTAL PROTECTION\nPHILIP MORRIS USA\nEMERGENCY CONTACTS:\nCHEMTREC\nP.O. BOX 26603\n(800) 424-9300\nRICHMOND, VA. 23261\nOR\n(804) 274-2432\nWITHIN PHILIP MORRIS\n(804) 274-2416\nI.\nSUBSTANCE IDENTIFICATION\nSubstance:\n**\n90-986\n**\nTrade Name/Synonyms:\nP.M. FLAVOR MF LSA\nChemical Family:\nP.M. BLENDED FLAVOR\nMolecular Formula:\nTRADE SECRET\nMol. Wt.:\nUNKNOWN\nFire = 1\nReactivity = 0\nNFPA Ratings:\nHealth =\n1\nNFPA Scale (0-4):\n0 = No Hazard, 4 = Highest Hazard\nII. COMPONENTS\nTLV/PEL\nCAS No.\nComponent Name\nPercent\nPROPRIETARY COMPONENT(S)\n> 1%\nNONE\nN/A\nCertain specific chemical identities of flavor ingredients are being\nwithheld as trade secrets. Disclosure will be made in emergencies\nand in non-emergencies if the need to know is justified in a written\nrequest to Philip Morris USA. See manufacturer information for the\ncorrect address."
+}

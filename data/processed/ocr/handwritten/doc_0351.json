@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0351.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Cwnus a TholMa",
+      "bbox": [
+        35,
+        22,
+        155,
+        38
+      ],
+      "confidence": 0.6940579414367676
+    },
+    {
+      "text": "5208 RIVER RO.",
+      "bbox": [
+        72,
+        31,
+        168,
+        52
+      ],
+      "confidence": 0.8220309615135193
+    },
+    {
+      "text": "FAIRFIELD, OHIO 45014",
+      "bbox": [
+        52,
+        42,
+        188,
+        64
+      ],
+      "confidence": 0.9287502765655518
+    },
+    {
+      "text": "Liil.t...dit..bi",
+      "bbox": [
+        699,
+        96,
+        754,
+        121
+      ],
+      "confidence": 0.703021764755249
+    },
+    {
+      "text": "RIST CUSS",
+      "bbox": [
+        400,
+        222,
+        535,
+        281
+      ],
+      "confidence": 0.7857356071472168
+    },
+    {
+      "text": "R.J. REYNOLDS TOBACCO CO.",
+      "bbox": [
+        302,
+        335,
+        754,
+        399
+      ],
+      "confidence": 0.8191424608230591
+    },
+    {
+      "text": "WiSTon SAlEM, N.C",
+      "bbox": [
+        307,
+        399,
+        754,
+        450
+      ],
+      "confidence": 0.7894636392593384
+    },
+    {
+      "text": "27102",
+      "bbox": [
+        631,
+        449,
+        754,
+        504
+      ],
+      "confidence": 0.9749919176101685
+    }
+  ],
+  "full_text": "Cwnus a TholMa\n5208 RIVER RO.\nFAIRFIELD, OHIO 45014\nLiil.t...dit..bi\nRIST CUSS\nR.J. REYNOLDS TOBACCO CO.\nWiSTon SAlEM, N.C\n27102"
+}

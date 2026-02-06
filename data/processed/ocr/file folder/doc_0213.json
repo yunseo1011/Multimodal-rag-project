@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0213.png",
+    "image_width": 799,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2044833212",
+      "bbox": [
+        93,
+        696,
+        192,
+        723
+      ],
+      "confidence": 0.9999700784683228
+    },
+    {
+      "text": "1987",
+      "bbox": [
+        234,
+        756,
+        278,
+        777
+      ],
+      "confidence": 0.9999707937240601
+    },
+    {
+      "text": "N226",
+      "bbox": [
+        36,
+        768,
+        82,
+        786
+      ],
+      "confidence": 0.9998657703399658
+    },
+    {
+      "text": "COMPETITIVE NEW PRODUCTS",
+      "bbox": [
+        89,
+        767,
+        324,
+        794
+      ],
+      "confidence": 0.984745442867279
+    }
+  ],
+  "full_text": "2044833212\n1987\nN226\nCOMPETITIVE NEW PRODUCTS"
+}

@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0794.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Brennan Steil et al",
+      "bbox": [
+        34,
+        8,
+        160,
+        33
+      ],
+      "confidence": 0.99658203125
+    },
+    {
+      "text": "Re: Software Maintenance",
+      "bbox": [
+        36,
+        26,
+        211,
+        54
+      ],
+      "confidence": 0.9888696670532227
+    },
+    {
+      "text": "Date: 03/27/98",
+      "bbox": [
+        597,
+        28,
+        693,
+        45
+      ],
+      "confidence": 0.9973347783088684
+    },
+    {
+      "text": "Invoice: 22819",
+      "bbox": [
+        579,
+        43,
+        675,
+        60
+      ],
+      "confidence": 0.9787253737449646
+    },
+    {
+      "text": "For Costs Advanced and Software Charges through 03/25/98",
+      "bbox": [
+        37,
+        60,
+        421,
+        93
+      ],
+      "confidence": 0.9961678385734558
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        21,
+        92,
+        63,
+        118
+      ],
+      "confidence": 0.9998925924301147
+    },
+    {
+      "text": "Costs Advanced and Software Charges",
+      "bbox": [
+        219,
+        100,
+        461,
+        125
+      ],
+      "confidence": 0.9922802448272705
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        630,
+        106,
+        686,
+        123
+      ],
+      "confidence": 0.9999035000801086
+    },
+    {
+      "text": "3/25/98 Software Maintenance - Legal Insight Software Maintenance",
+      "bbox": [
+        19,
+        127,
+        465,
+        156
+      ],
+      "confidence": 0.9805995225906372
+    },
+    {
+      "text": "50.00",
+      "bbox": [
+        678,
+        135,
+        719,
+        154
+      ],
+      "confidence": 0.9998319745063782
+    },
+    {
+      "text": "TOTAL Current Costs and Software Charges",
+      "bbox": [
+        309,
+        164,
+        587,
+        185
+      ],
+      "confidence": 0.9816457629203796
+    },
+    {
+      "text": "50.00",
+      "bbox": [
+        677,
+        165,
+        718,
+        184
+      ],
+      "confidence": 0.9998717308044434
+    },
+    {
+      "text": "Current Invoice Due",
+      "bbox": [
+        457,
+        209,
+        586,
+        229
+      ],
+      "confidence": 0.9774253964424133
+    },
+    {
+      "text": "$50.00",
+      "bbox": [
+        667,
+        209,
+        717,
+        231
+      ],
+      "confidence": 0.999876081943512
+    },
+    {
+      "text": "Previous Due",
+      "bbox": [
+        496,
+        237,
+        586,
+        260
+      ],
+      "confidence": 0.9998781681060791
+    },
+    {
+      "text": "$50.00",
+      "bbox": [
+        667,
+        240,
+        717,
+        261
+      ],
+      "confidence": 0.9999513626098633
+    },
+    {
+      "text": "TOTAL Balance Due",
+      "bbox": [
+        449,
+        269,
+        585,
+        288
+      ],
+      "confidence": 0.9881661534309387
+    },
+    {
+      "text": "$100.00",
+      "bbox": [
+        660,
+        270,
+        716,
+        291
+      ],
+      "confidence": 0.9995051622390747
+    },
+    {
+      "text": "83565306",
+      "bbox": [
+        683,
+        523,
+        713,
+        656
+      ],
+      "confidence": 0.9997882843017578
+    },
+    {
+      "text": "VERSYS CORPORATION",
+      "bbox": [
+        271,
+        543,
+        448,
+        564
+      ],
+      "confidence": 0.9996837973594666
+    },
+    {
+      "text": "San Francisco Office",
+      "bbox": [
+        293,
+        559,
+        427,
+        580
+      ],
+      "confidence": 0.9922383427619934
+    },
+    {
+      "text": "SPECIAL COUNSEL ACCOUNT",
+      "bbox": [
+        208,
+        702,
+        425,
+        723
+      ],
+      "confidence": 0.981400191783905
+    },
+    {
+      "text": "2042",
+      "bbox": [
+        678,
+        701,
+        736,
+        726
+      ],
+      "confidence": 0.999467134475708
+    },
+    {
+      "text": "ONE EAST MILWAUKEE ST",
+      "bbox": [
+        247,
+        718,
+        380,
+        731
+      ],
+      "confidence": 0.9644911885261536
+    },
+    {
+      "text": "JANESVILLE, WI 53547",
+      "bbox": [
+        264,
+        740,
+        370,
+        753
+      ],
+      "confidence": 0.9669066667556763
+    },
+    {
+      "text": "P.O. BOX 1148",
+      "bbox": [
+        282,
+        730,
+        352,
+        741
+      ],
+      "confidence": 0.9555753469467163
+    },
+    {
+      "text": "1998",
+      "bbox": [
+        634,
+        772,
+        667,
+        789
+      ],
+      "confidence": 0.9990170001983643
+    },
+    {
+      "text": "AY YO THE",
+      "bbox": [
+        30,
+        797,
+        79,
+        815
+      ],
+      "confidence": 0.9387298226356506
+    },
+    {
+      "text": "VERSYS CORPORATION",
+      "bbox": [
+        119,
+        798,
+        259,
+        818
+      ],
+      "confidence": 0.9795193076133728
+    },
+    {
+      "text": "50,00.",
+      "bbox": [
+        628,
+        801,
+        679,
+        826
+      ],
+      "confidence": 0.8889353275299072
+    },
+    {
+      "text": "ORDERO",
+      "bbox": [
+        28,
+        809,
+        69,
+        825
+      ],
+      "confidence": 0.9489870667457581
+    },
+    {
+      "text": "FIFTY AND 00/100",
+      "bbox": [
+        119,
+        830,
+        243,
+        850
+      ],
+      "confidence": 0.983567476272583
+    },
+    {
+      "text": "FirstAr FrstaR BAnk Wisconsin",
+      "bbox": [
+        88,
+        851,
+        287,
+        875
+      ],
+      "confidence": 0.7245694994926453
+    },
+    {
+      "text": "BANK",
+      "bbox": [
+        91,
+        870,
+        146,
+        889
+      ],
+      "confidence": 0.9996958374977112
+    },
+    {
+      "text": "Madison, WI 53707",
+      "bbox": [
+        146,
+        865,
+        227,
+        881
+      ],
+      "confidence": 0.9698294401168823
+    },
+    {
+      "text": "JANESVILLE OFFICE",
+      "bbox": [
+        146,
+        876,
+        231,
+        893
+      ],
+      "confidence": 0.9960986971855164
+    },
+    {
+      "text": "#BRENNAN-TL-60",
+      "bbox": [
+        41,
+        904,
+        161,
+        926
+      ],
+      "confidence": 0.9701387286186218
+    },
+    {
+      "text": "00 20420-1:075900465312328",
+      "bbox": [
+        129,
+        922,
+        458,
+        958
+      ],
+      "confidence": 0.9195123910903931
+    },
+    {
+      "text": "697",
+      "bbox": [
+        462,
+        935,
+        515,
+        957
+      ],
+      "confidence": 0.9832293391227722
+    }
+  ],
+  "full_text": "Brennan Steil et al\nRe: Software Maintenance\nDate: 03/27/98\nInvoice: 22819\nFor Costs Advanced and Software Charges through 03/25/98\nDate\nCosts Advanced and Software Charges\nAmount\n3/25/98 Software Maintenance - Legal Insight Software Maintenance\n50.00\nTOTAL Current Costs and Software Charges\n50.00\nCurrent Invoice Due\n$50.00\nPrevious Due\n$50.00\nTOTAL Balance Due\n$100.00\n83565306\nVERSYS CORPORATION\nSan Francisco Office\nSPECIAL COUNSEL ACCOUNT\n2042\nONE EAST MILWAUKEE ST\nJANESVILLE, WI 53547\nP.O. BOX 1148\n1998\nAY YO THE\nVERSYS CORPORATION\n50,00.\nORDERO\nFIFTY AND 00/100\nFirstAr FrstaR BAnk Wisconsin\nBANK\nMadison, WI 53707\nJANESVILLE OFFICE\n#BRENNAN-TL-60\n00 20420-1:075900465312328\n697"
+}

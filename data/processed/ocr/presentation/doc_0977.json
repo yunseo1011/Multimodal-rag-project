@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0977.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "LUCKY STRIKE",
+      "bbox": [
+        236,
+        234,
+        762,
+        309
+      ],
+      "confidence": 0.9998151659965515
+    },
+    {
+      "text": "DEMOGRAPHIC PROFILE",
+      "bbox": [
+        219,
+        344,
+        762,
+        394
+      ],
+      "confidence": 0.9997410774230957
+    },
+    {
+      "text": "307000147",
+      "bbox": [
+        0,
+        547,
+        50,
+        681
+      ],
+      "confidence": 0.9999539256095886
+    }
+  ],
+  "full_text": "LUCKY STRIKE\nDEMOGRAPHIC PROFILE\n307000147"
+}

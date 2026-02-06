@@ -1,0 +1,1161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0130.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "qj",
+      "bbox": [
+        51,
+        19,
+        83,
+        45
+      ],
+      "confidence": 0.7019866704940796
+    },
+    {
+      "text": "B",
+      "bbox": [
+        598,
+        173,
+        608,
+        183
+      ],
+      "confidence": 0.7647602558135986
+    },
+    {
+      "text": "17",
+      "bbox": [
+        401,
+        191,
+        417,
+        205
+      ],
+      "confidence": 0.9820271134376526
+    },
+    {
+      "text": "9",
+      "bbox": [
+        636,
+        198,
+        646,
+        207
+      ],
+      "confidence": 0.9984431862831116
+    },
+    {
+      "text": "18",
+      "bbox": [
+        467,
+        224,
+        480,
+        233
+      ],
+      "confidence": 0.9878137707710266
+    },
+    {
+      "text": "(23)",
+      "bbox": [
+        628,
+        222,
+        650,
+        234
+      ],
+      "confidence": 0.881250262260437
+    },
+    {
+      "text": "T",
+      "bbox": [
+        452,
+        245,
+        457,
+        251
+      ],
+      "confidence": 0.9868308305740356
+    },
+    {
+      "text": "11",
+      "bbox": [
+        565,
+        243,
+        580,
+        256
+      ],
+      "confidence": 0.9463486671447754
+    },
+    {
+      "text": "E",
+      "bbox": [
+        634,
+        243,
+        653,
+        256
+      ],
+      "confidence": 0.9156889319419861
+    },
+    {
+      "text": "21",
+      "bbox": [
+        428,
+        266,
+        447,
+        278
+      ],
+      "confidence": 0.9851880669593811
+    },
+    {
+      "text": "12",
+      "bbox": [
+        516,
+        267,
+        532,
+        281
+      ],
+      "confidence": 0.9968092441558838
+    },
+    {
+      "text": "25",
+      "bbox": [
+        154,
+        286,
+        170,
+        300
+      ],
+      "confidence": 0.9999828934669495
+    },
+    {
+      "text": "18",
+      "bbox": [
+        215,
+        289,
+        227,
+        298
+      ],
+      "confidence": 0.9277155995368958
+    },
+    {
+      "text": "28",
+      "bbox": [
+        279,
+        287,
+        296,
+        298
+      ],
+      "confidence": 0.9985387325286865
+    },
+    {
+      "text": "33",
+      "bbox": [
+        351,
+        289,
+        363,
+        298
+      ],
+      "confidence": 0.9985160231590271
+    },
+    {
+      "text": "¤",
+      "bbox": [
+        378,
+        287,
+        394,
+        300
+      ],
+      "confidence": 0.6773984432220459
+    },
+    {
+      "text": "8",
+      "bbox": [
+        422,
+        291,
+        437,
+        301
+      ],
+      "confidence": 0.9848045110702515
+    },
+    {
+      "text": "22",
+      "bbox": [
+        478,
+        290,
+        500,
+        306
+      ],
+      "confidence": 0.9992260932922363
+    },
+    {
+      "text": "13",
+      "bbox": [
+        546,
+        292,
+        563,
+        306
+      ],
+      "confidence": 0.9988321661949158
+    },
+    {
+      "text": "E",
+      "bbox": [
+        598,
+        291,
+        615,
+        305
+      ],
+      "confidence": 0.7391244173049927
+    },
+    {
+      "text": "I",
+      "bbox": [
+        636,
+        293,
+        650,
+        307
+      ],
+      "confidence": 0.9994476437568665
+    },
+    {
+      "text": "26",
+      "bbox": [
+        134,
+        310,
+        154,
+        327
+      ],
+      "confidence": 0.9995337128639221
+    },
+    {
+      "text": "I",
+      "bbox": [
+        201,
+        316,
+        210,
+        326
+      ],
+      "confidence": 0.9993694424629211
+    },
+    {
+      "text": "II",
+      "bbox": [
+        227,
+        316,
+        237,
+        325
+      ],
+      "confidence": 0.7976160645484924
+    },
+    {
+      "text": "30",
+      "bbox": [
+        261,
+        317,
+        279,
+        328
+      ],
+      "confidence": 0.9979309439659119
+    },
+    {
+      "text": "29",
+      "bbox": [
+        296,
+        317,
+        311,
+        325
+      ],
+      "confidence": 0.9991331696510315
+    },
+    {
+      "text": "II",
+      "bbox": [
+        432,
+        317,
+        446,
+        331
+      ],
+      "confidence": 0.7333662509918213
+    },
+    {
+      "text": "33",
+      "bbox": [
+        462,
+        317,
+        483,
+        333
+      ],
+      "confidence": 0.9999237060546875
+    },
+    {
+      "text": "14",
+      "bbox": [
+        567,
+        318,
+        583,
+        331
+      ],
+      "confidence": 0.9705948233604431
+    },
+    {
+      "text": "¤",
+      "bbox": [
+        151,
+        336,
+        168,
+        354
+      ],
+      "confidence": 0.946467936038971
+    },
+    {
+      "text": "III",
+      "bbox": [
+        449,
+        340,
+        465,
+        352
+      ],
+      "confidence": 0.8005449175834656
+    },
+    {
+      "text": "I",
+      "bbox": [
+        484,
+        341,
+        492,
+        350
+      ],
+      "confidence": 0.9966206550598145
+    },
+    {
+      "text": "22",
+      "bbox": [
+        512,
+        344,
+        534,
+        360
+      ],
+      "confidence": 0.9996761083602905
+    },
+    {
+      "text": "15",
+      "bbox": [
+        613,
+        343,
+        636,
+        363
+      ],
+      "confidence": 0.9994609355926514
+    },
+    {
+      "text": "33",
+      "bbox": [
+        101,
+        368,
+        118,
+        380
+      ],
+      "confidence": 0.9999668002128601
+    },
+    {
+      "text": "I",
+      "bbox": [
+        266,
+        368,
+        275,
+        379
+      ],
+      "confidence": 0.9983482360839844
+    },
+    {
+      "text": "18,(19):",
+      "bbox": [
+        300,
+        368,
+        347,
+        382
+      ],
+      "confidence": 0.9338581562042236
+    },
+    {
+      "text": "33",
+      "bbox": [
+        495,
+        370,
+        517,
+        386
+      ],
+      "confidence": 0.9999570250511169
+    },
+    {
+      "text": "33",
+      "bbox": [
+        580,
+        369,
+        603,
+        385
+      ],
+      "confidence": 0.9999576210975647
+    },
+    {
+      "text": "22,(16)",
+      "bbox": [
+        648,
+        369,
+        703,
+        393
+      ],
+      "confidence": 0.9891291260719299
+    },
+    {
+      "text": "III",
+      "bbox": [
+        84,
+        394,
+        100,
+        407
+      ],
+      "confidence": 0.9753057360649109
+    },
+    {
+      "text": "II",
+      "bbox": [
+        317,
+        397,
+        331,
+        410
+      ],
+      "confidence": 0.6907122731208801
+    },
+    {
+      "text": "18,(19)",
+      "bbox": [
+        433,
+        397,
+        477,
+        411
+      ],
+      "confidence": 0.9916091561317444
+    },
+    {
+      "text": "ⅢI",
+      "bbox": [
+        481,
+        397,
+        499,
+        409
+      ],
+      "confidence": 0.6373645663261414
+    },
+    {
+      "text": "33",
+      "bbox": [
+        633,
+        397,
+        653,
+        410
+      ],
+      "confidence": 0.9999680519104004
+    },
+    {
+      "text": "I",
+      "bbox": [
+        283,
+        399,
+        293,
+        409
+      ],
+      "confidence": 0.9987425208091736
+    },
+    {
+      "text": "I",
+      "bbox": [
+        520,
+        398,
+        528,
+        409
+      ],
+      "confidence": 0.9955118298530579
+    },
+    {
+      "text": "II",
+      "bbox": [
+        670,
+        398,
+        684,
+        410
+      ],
+      "confidence": 0.8784976005554199
+    },
+    {
+      "text": "II",
+      "bbox": [
+        452,
+        422,
+        462,
+        433
+      ],
+      "confidence": 0.680659830570221
+    },
+    {
+      "text": "II",
+      "bbox": [
+        618,
+        421,
+        637,
+        434
+      ],
+      "confidence": 0.981508731842041
+    },
+    {
+      "text": "I",
+      "bbox": [
+        657,
+        425,
+        665,
+        434
+      ],
+      "confidence": 0.9760000109672546
+    },
+    {
+      "text": "III",
+      "bbox": [
+        313,
+        470,
+        327,
+        483
+      ],
+      "confidence": 0.7986667156219482
+    },
+    {
+      "text": "I",
+      "bbox": [
+        353,
+        472,
+        361,
+        482
+      ],
+      "confidence": 0.9985349178314209
+    },
+    {
+      "text": "Fig. 1. A schematic diagram of a decision tree for the estimation of probable toxicity. Assessors should",
+      "bbox": [
+        117,
+        487,
+        670,
+        511
+      ],
+      "confidence": 0.9828636646270752
+    },
+    {
+      "text": "(a) start with question: 1. (b) proceed by \"no or yes\". (c move from any underscored number",
+      "bbox": [
+        116,
+        500,
+        670,
+        523
+      ],
+      "confidence": 0.9373821020126343
+    },
+    {
+      "text": "encountered to same circled number and (d) proceed to final classes I. I1 or II1. Working downwards",
+      "bbox": [
+        116,
+        511,
+        668,
+        535
+      ],
+      "confidence": 0.965029776096344
+    },
+    {
+      "text": "through the tree. the symbols designate the following groupings: biological normality (•••) high",
+      "bbox": [
+        116,
+        523,
+        668,
+        548
+      ],
+      "confidence": 0.961929976940155
+    },
+    {
+      "text": "and low toxicity (-): heterocyclics (): terpenoids (-.-.): aliphatics (-O--O): aromatics",
+      "bbox": [
+        117,
+        534,
+        669,
+        562
+      ],
+      "confidence": 0.9048088192939758
+    },
+    {
+      "text": "(--•-): alicyclics (---).",
+      "bbox": [
+        118,
+        547,
+        258,
+        565
+      ],
+      "confidence": 0.9121459722518921
+    },
+    {
+      "text": "Definitions for use with the decision tree",
+      "bbox": [
+        73,
+        581,
+        302,
+        602
+      ],
+      "confidence": 0.9708342552185059
+    },
+    {
+      "text": "rence. it is only possible to define a guideline. not a",
+      "bbox": [
+        403,
+        588,
+        708,
+        606
+      ],
+      "confidence": 0.9763200283050537
+    },
+    {
+      "text": "The use of this decision tree and these definitions",
+      "bbox": [
+        86,
+        601,
+        379,
+        625
+      ],
+      "confidence": 0.9899352788925171
+    },
+    {
+      "text": "firm rule. For this decision tree, the term common com-",
+      "bbox": [
+        402,
+        600,
+        708,
+        619
+      ],
+      "confidence": 0.9880269765853882
+    },
+    {
+      "text": "presupposes a working familiarity with organic chem-",
+      "bbox": [
+        71,
+        615,
+        379,
+        640
+      ],
+      "confidence": 0.9841187596321106
+    },
+    {
+      "text": "ponent of food denotes a substance that has been",
+      "bbox": [
+        402,
+        613,
+        708,
+        631
+      ],
+      "confidence": 0.9926788210868835
+    },
+    {
+      "text": "istry, biochemistry and food chemistry. Even indivi-",
+      "bbox": [
+        73,
+        629,
+        376,
+        651
+      ],
+      "confidence": 0.9644380211830139
+    },
+    {
+      "text": "reported in the recognized literature as occurring in sig-",
+      "bbox": [
+        401,
+        623,
+        708,
+        645
+      ],
+      "confidence": 0.9909845590591431
+    },
+    {
+      "text": "nificant quantity (approximately 50 ppm or more) in at",
+      "bbox": [
+        402,
+        636,
+        707,
+        656
+      ],
+      "confidence": 0.9836539030075073
+    },
+    {
+      "text": "duals with a broad knowledge in these areas will find",
+      "bbox": [
+        72,
+        642,
+        376,
+        665
+      ],
+      "confidence": 0.9885367751121521
+    },
+    {
+      "text": "least one major food, or in trace quantities at the ppm",
+      "bbox": [
+        402,
+        648,
+        706,
+        668
+      ],
+      "confidence": 0.9887304306030273
+    },
+    {
+      "text": "it useful to consult references such as the Merck Index",
+      "bbox": [
+        72,
+        655,
+        377,
+        680
+      ],
+      "confidence": 0.9942106604576111
+    },
+    {
+      "text": "level or less in several foods. including minor or less",
+      "bbox": [
+        402,
+        660,
+        707,
+        680
+      ],
+      "confidence": 0.9654616117477417
+    },
+    {
+      "text": "(1976) and the 'Weurman Report' (Central Institute",
+      "bbox": [
+        71,
+        669,
+        375,
+        693
+      ],
+      "confidence": 0.9779185652732849
+    },
+    {
+      "text": "for Nutrition and Food Research TNO. 1973). for",
+      "bbox": [
+        71,
+        682,
+        375,
+        707
+      ],
+      "confidence": 0.9671745896339417
+    },
+    {
+      "text": "frequently consumed foods. The latter include spices.",
+      "bbox": [
+        400,
+        670,
+        708,
+        694
+      ],
+      "confidence": 0.9833515882492065
+    },
+    {
+      "text": "detailed information on natural occurrence in food.",
+      "bbox": [
+        72,
+        697,
+        373,
+        719
+      ],
+      "confidence": 0.9694647192955017
+    },
+    {
+      "text": "natural or man-made contaminants, and hormones.",
+      "bbox": [
+        401,
+        696,
+        686,
+        716
+      ],
+      "confidence": 0.9981500506401062
+    },
+    {
+      "text": "herbs and ethnic specialities. This definition excludes",
+      "bbox": [
+        402,
+        684,
+        707,
+        704
+      ],
+      "confidence": 0.9972902536392212
+    },
+    {
+      "text": "and Hawk's. Physiological Chemistry (Oser. 1965).",
+      "bbox": [
+        72,
+        710,
+        351,
+        733
+      ],
+      "confidence": 0.9465082287788391
+    },
+    {
+      "text": "(D) Common terpene means an isoprenoid compound:",
+      "bbox": [
+        401,
+        709,
+        708,
+        728
+      ],
+      "confidence": 0.9824030995368958
+    },
+    {
+      "text": "Users should review these definitions carefully and",
+      "bbox": [
+        85,
+        725,
+        373,
+        745
+      ],
+      "confidence": 0.987052321434021
+    },
+    {
+      "text": "(carbon skeleton made up of two or more S-carbon iso-",
+      "bbox": [
+        401,
+        720,
+        706,
+        740
+      ],
+      "confidence": 0.9836574196815491
+    },
+    {
+      "text": "refer to them frequently. Because they are fashioned",
+      "bbox": [
+        71,
+        738,
+        373,
+        758
+      ],
+      "confidence": 0.9727256298065186
+    },
+    {
+      "text": "prene units). reported in the literature as a more than",
+      "bbox": [
+        401,
+        731,
+        706,
+        751
+      ],
+      "confidence": 0.9806267023086548
+    },
+    {
+      "text": "to serve the needs of this paper, they differ in several",
+      "bbox": [
+        69,
+        750,
+        374,
+        773
+      ],
+      "confidence": 0.9888019561767578
+    },
+    {
+      "text": "foods, cither raw or as ordinarily prepared for consump-",
+      "bbox": [
+        398,
+        753,
+        706,
+        778
+      ],
+      "confidence": 0.9795230031013489
+    },
+    {
+      "text": "trace constituent of two or more generally consumed",
+      "bbox": [
+        400,
+        743,
+        707,
+        763
+      ],
+      "confidence": 0.9791668653488159
+    },
+    {
+      "text": "minor, but important. respects from the meanings",
+      "bbox": [
+        69,
+        763,
+        373,
+        787
+      ],
+      "confidence": 0.9844884872436523
+    },
+    {
+      "text": "tion, without added ingredients.",
+      "bbox": [
+        400,
+        767,
+        578,
+        785
+      ],
+      "confidence": 0.9975013136863708
+    },
+    {
+      "text": "commonly attributed to these words and phrases. Ita-",
+      "bbox": [
+        69,
+        778,
+        373,
+        800
+      ],
+      "confidence": 0.9980917572975159
+    },
+    {
+      "text": "(E)· Functional group is a portion (sometimes called a",
+      "bbox": [
+        400,
+        780,
+        705,
+        802
+      ],
+      "confidence": 0.9802564978599548
+    },
+    {
+      "text": "licized key words used in the procedure (pp.",
+      "bbox": [
+        69,
+        789,
+        375,
+        816
+      ],
+      "confidence": 0.9763594269752502
+    },
+    {
+      "text": "radical) of an organic molecule consisting of a combina-",
+      "bbox": [
+        398,
+        790,
+        707,
+        816
+      ],
+      "confidence": 0.9921202063560486
+    },
+    {
+      "text": "258-263) are followed by a letter. in paren-",
+      "bbox": [
+        69,
+        804,
+        375,
+        829
+      ],
+      "confidence": 0.9595239758491516
+    },
+    {
+      "text": "tion of atoms of two or more clements (at least one",
+      "bbox": [
+        398,
+        803,
+        707,
+        828
+      ],
+      "confidence": 0.969965934753418
+    },
+    {
+      "text": "of which is not hydrogen or carbon) and causing the",
+      "bbox": [
+        398,
+        815,
+        707,
+        841
+      ],
+      "confidence": 0.9768891930580139
+    },
+    {
+      "text": "thesis, referring to the following definitions:",
+      "bbox": [
+        67,
+        819,
+        324,
+        842
+      ],
+      "confidence": 0.9926643967628479
+    },
+    {
+      "text": "molecule to exhibit a characteristic set of reactions. For",
+      "bbox": [
+        399,
+        830,
+        705,
+        852
+      ],
+      "confidence": 0.9853919744491577
+    },
+    {
+      "text": "(A) Aliphatic includes olefinic and polyolefinic. but not",
+      "bbox": [
+        78,
+        835,
+        373,
+        857
+      ],
+      "confidence": 0.9896541833877563
+    },
+    {
+      "text": "the purpose of this classification this definition excludes",
+      "bbox": [
+        400,
+        843,
+        705,
+        864
+      ],
+      "confidence": 0.9921754002571106
+    },
+    {
+      "text": "00844717",
+      "bbox": [
+        752,
+        838,
+        777,
+        945
+      ],
+      "confidence": 0.9999330043792725
+    },
+    {
+      "text": "acetylenic or alicyclic compounds.",
+      "bbox": [
+        78,
+        850,
+        262,
+        866
+      ],
+      "confidence": 0.9895151853561401
+    },
+    {
+      "text": "(B) Aromatic means that the substance has at least one",
+      "bbox": [
+        78,
+        860,
+        373,
+        881
+      ],
+      "confidence": 0.9784643650054932
+    },
+    {
+      "text": "carbon-carbon double bonds and aromatic rings.",
+      "bbox": [
+        398,
+        856,
+        668,
+        876
+      ],
+      "confidence": 0.9961891174316406
+    },
+    {
+      "text": "benzene, furan, thiophene. pyridine or pyrrole ring. how-",
+      "bbox": [
+        77,
+        875,
+        373,
+        892
+      ],
+      "confidence": 0.9623722434043884
+    },
+    {
+      "text": "(F) Normal constituent of the body means any systemic",
+      "bbox": [
+        398,
+        868,
+        705,
+        890
+      ],
+      "confidence": 0.9802077412605286
+    },
+    {
+      "text": "ever substituted and whether or not it is fused to anothier",
+      "bbox": [
+        76,
+        887,
+        372,
+        905
+      ],
+      "confidence": 0.9747645258903503
+    },
+    {
+      "text": "constituent present at a normal physiological level.",
+      "bbox": [
+        398,
+        881,
+        704,
+        903
+      ],
+      "confidence": 0.984289288520813
+    },
+    {
+      "text": "ring.",
+      "bbox": [
+        73,
+        900,
+        106,
+        919
+      ],
+      "confidence": 0.9683113098144531
+    },
+    {
+      "text": "cludes essential nutrients and major food constituents",
+      "bbox": [
+        399,
+        905,
+        704,
+        930
+      ],
+      "confidence": 0.9727370142936707
+    },
+    {
+      "text": "whether free or combined, except hormones. This in-",
+      "bbox": [
+        400,
+        894,
+        705,
+        915
+      ],
+      "confidence": 0.9770495891571045
+    },
+    {
+      "text": "(C) Common component of food. In something as diverse.",
+      "bbox": [
+        74,
+        911,
+        373,
+        933
+      ],
+      "confidence": 0.9603609442710876
+    },
+    {
+      "text": "and the physiologically normal metabolites of cach. It",
+      "bbox": [
+        398,
+        918,
+        705,
+        942
+      ],
+      "confidence": 0.9831148982048035
+    },
+    {
+      "text": "changing and occasionally uncertain as natural occur-",
+      "bbox": [
+        74,
+        924,
+        373,
+        945
+      ],
+      "confidence": 0.9952621459960938
+    },
+    {
+      "text": "excludes transitory substances present only as a result",
+      "bbox": [
+        400,
+        932,
+        704,
+        953
+      ],
+      "confidence": 0.9823938012123108
+    }
+  ],
+  "full_text": "qj\nB\n17\n9\n18\n(23)\nT\n11\nE\n21\n12\n25\n18\n28\n33\n¤\n8\n22\n13\nE\nI\n26\nI\nII\n30\n29\nII\n33\n14\n¤\nIII\nI\n22\n15\n33\nI\n18,(19):\n33\n33\n22,(16)\nIII\nII\n18,(19)\nⅢI\n33\nI\nI\nII\nII\nII\nI\nIII\nI\nFig. 1. A schematic diagram of a decision tree for the estimation of probable toxicity. Assessors should\n(a) start with question: 1. (b) proceed by \"no or yes\". (c move from any underscored number\nencountered to same circled number and (d) proceed to final classes I. I1 or II1. Working downwards\nthrough the tree. the symbols designate the following groupings: biological normality (•••) high\nand low toxicity (-): heterocyclics (): terpenoids (-.-.): aliphatics (-O--O): aromatics\n(--•-): alicyclics (---).\nDefinitions for use with the decision tree\nrence. it is only possible to define a guideline. not a\nThe use of this decision tree and these definitions\nfirm rule. For this decision tree, the term common com-\npresupposes a working familiarity with organic chem-\nponent of food denotes a substance that has been\nistry, biochemistry and food chemistry. Even indivi-\nreported in the recognized literature as occurring in sig-\nnificant quantity (approximately 50 ppm or more) in at\nduals with a broad knowledge in these areas will find\nleast one major food, or in trace quantities at the ppm\nit useful to consult references such as the Merck Index\nlevel or less in several foods. including minor or less\n(1976) and the 'Weurman Report' (Central Institute\nfor Nutrition and Food Research TNO. 1973). for\nfrequently consumed foods. The latter include spices.\ndetailed information on natural occurrence in food.\nnatural or man-made contaminants, and hormones.\nherbs and ethnic specialities. This definition excludes\nand Hawk's. Physiological Chemistry (Oser. 1965).\n(D) Common terpene means an isoprenoid compound:\nUsers should review these definitions carefully and\n(carbon skeleton made up of two or more S-carbon iso-\nrefer to them frequently. Because they are fashioned\nprene units). reported in the literature as a more than\nto serve the needs of this paper, they differ in several\nfoods, cither raw or as ordinarily prepared for consump-\ntrace constituent of two or more generally consumed\nminor, but important. respects from the meanings\ntion, without added ingredients.\ncommonly attributed to these words and phrases. Ita-\n(E)· Functional group is a portion (sometimes called a\nlicized key words used in the procedure (pp.\nradical) of an organic molecule consisting of a combina-\n258-263) are followed by a letter. in paren-\ntion of atoms of two or more clements (at least one\nof which is not hydrogen or carbon) and causing the\nthesis, referring to the following definitions:\nmolecule to exhibit a characteristic set of reactions. For\n(A) Aliphatic includes olefinic and polyolefinic. but not\nthe purpose of this classification this definition excludes\n00844717\nacetylenic or alicyclic compounds.\n(B) Aromatic means that the substance has at least one\ncarbon-carbon double bonds and aromatic rings.\nbenzene, furan, thiophene. pyridine or pyrrole ring. how-\n(F) Normal constituent of the body means any systemic\never substituted and whether or not it is fused to anothier\nconstituent present at a normal physiological level.\nring.\ncludes essential nutrients and major food constituents\nwhether free or combined, except hormones. This in-\n(C) Common component of food. In something as diverse.\nand the physiologically normal metabolites of cach. It\nchanging and occasionally uncertain as natural occur-\nexcludes transitory substances present only as a result"
+}

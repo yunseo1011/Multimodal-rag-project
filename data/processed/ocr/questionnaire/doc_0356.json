@@ -1,0 +1,291 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0356.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "A couple of weeks after the letter is sent, this phone call is",
+      "bbox": [
+        52,
+        48,
+        670,
+        96
+      ],
+      "confidence": 0.9851508736610413
+    },
+    {
+      "text": "made:",
+      "bbox": [
+        54,
+        68,
+        109,
+        90
+      ],
+      "confidence": 0.9994328618049622
+    },
+    {
+      "text": "Phone Dialogue - Call #1",
+      "bbox": [
+        56,
+        103,
+        289,
+        132
+      ],
+      "confidence": 0.9784140586853027
+    },
+    {
+      "text": "Winston Select",
+      "bbox": [
+        57,
+        121,
+        197,
+        145
+      ],
+      "confidence": 0.9895769357681274
+    },
+    {
+      "text": "Hi, Kate, this is Carolyn Hopkins. , I work for R. J. Reynolds",
+      "bbox": [
+        56,
+        152,
+        667,
+        188
+      ],
+      "confidence": 0.9766441583633423
+    },
+    {
+      "text": "Tobacco Company. How are you doing today?",
+      "bbox": [
+        56,
+        170,
+        454,
+        201
+      ],
+      "confidence": 0.9852316975593567
+    },
+    {
+      "text": "Kate, I understand one of·our company representatives, John_Baker,",
+      "bbox": [
+        57,
+        205,
+        664,
+        232
+      ],
+      "confidence": 0.976262092590332
+    },
+    {
+      "text": "talked with you about a month ago and gave you two packs of Winston",
+      "bbox": [
+        58,
+        220,
+        665,
+        249
+      ],
+      "confidence": 0.9810693264007568
+    },
+    {
+      "text": "Select. Do you remember talking to John?",
+      "bbox": [
+        58,
+        237,
+        442,
+        262
+      ],
+      "confidence": 0.9815353155136108
+    },
+    {
+      "text": "John says that you like Winston Cup Racing, Do you ever go to the",
+      "bbox": [
+        59,
+        269,
+        665,
+        295
+      ],
+      "confidence": 0.9780842661857605
+    },
+    {
+      "text": "races? (pursue this a little..... then say:)",
+      "bbox": [
+        59,
+        288,
+        479,
+        309
+      ],
+      "confidence": 0.9585554003715515
+    },
+    {
+      "text": "Kate, I was wondering if you could take a few minutes and answer",
+      "bbox": [
+        58,
+        319,
+        664,
+        343
+      ],
+      "confidence": 0.9901243448257446
+    },
+    {
+      "text": "some survey questions for me. It won't take very long at all.",
+      "bbox": [
+        59,
+        336,
+        634,
+        359
+      ],
+      "confidence": 0.9941976070404053
+    },
+    {
+      "text": "***************************",
+      "bbox": [
+        238,
+        401,
+        486,
+        418
+      ],
+      "confidence": 0.9953978061676025
+    },
+    {
+      "text": "Four weeks later, this phone call is made:",
+      "bbox": [
+        60,
+        434,
+        447,
+        452
+      ],
+      "confidence": 0.9909595251083374
+    },
+    {
+      "text": "Phone Dialogue - Call #2",
+      "bbox": [
+        60,
+        466,
+        284,
+        483
+      ],
+      "confidence": 0.9896356463432312
+    },
+    {
+      "text": "Winston Select",
+      "bbox": [
+        59,
+        483,
+        193,
+        500
+      ],
+      "confidence": 0.982361912727356
+    },
+    {
+      "text": "Hi, Kate, this is Carolyn Hopkins. I work for R. J. Reynolds",
+      "bbox": [
+        56,
+        512,
+        663,
+        534
+      ],
+      "confidence": 0.9886979460716248
+    },
+    {
+      "text": "Tobacco Company, and I called you about a month ago.",
+      "bbox": [
+        57,
+        528,
+        581,
+        550
+      ],
+      "confidence": 0.9936371445655823
+    },
+    {
+      "text": "Do you",
+      "bbox": [
+        598,
+        531,
+        663,
+        552
+      ],
+      "confidence": 0.9991781115531921
+    },
+    {
+      "text": "remember? I asked you some survey questions about Winston Select.",
+      "bbox": [
+        57,
+        545,
+        662,
+        567
+      ],
+      "confidence": 0.9747698307037354
+    },
+    {
+      "text": "How are you doing? Have you been to any Winston Cup races lately?",
+      "bbox": [
+        56,
+        576,
+        662,
+        599
+      ],
+      "confidence": 0.9870007038116455
+    },
+    {
+      "text": "(pursue a little...then say:)",
+      "bbox": [
+        57,
+        593,
+        329,
+        614
+      ],
+      "confidence": 0.9861934781074524
+    },
+    {
+      "text": "Kate, I was wondering if you would answer some survey questions for",
+      "bbox": [
+        56,
+        623,
+        663,
+        648
+      ],
+      "confidence": 0.9946063756942749
+    },
+    {
+      "text": "me again. It shouldn't take long, and I would really appreciate",
+      "bbox": [
+        55,
+        639,
+        663,
+        665
+      ],
+      "confidence": 0.9908141493797302
+    },
+    {
+      "text": "it.",
+      "bbox": [
+        57,
+        656,
+        89,
+        676
+      ],
+      "confidence": 0.9996331334114075
+    },
+    {
+      "text": "NOTE: USE SAME SURVEY QUESTIONS FOR BOTH PHONE CALLS.",
+      "bbox": [
+        54,
+        704,
+        560,
+        730
+      ],
+      "confidence": 0.9801591038703918
+    },
+    {
+      "text": "51437 3444",
+      "bbox": [
+        692,
+        871,
+        715,
+        971
+      ],
+      "confidence": 0.9823881387710571
+    }
+  ],
+  "full_text": "A couple of weeks after the letter is sent, this phone call is\nmade:\nPhone Dialogue - Call #1\nWinston Select\nHi, Kate, this is Carolyn Hopkins. , I work for R. J. Reynolds\nTobacco Company. How are you doing today?\nKate, I understand one of·our company representatives, John_Baker,\ntalked with you about a month ago and gave you two packs of Winston\nSelect. Do you remember talking to John?\nJohn says that you like Winston Cup Racing, Do you ever go to the\nraces? (pursue this a little..... then say:)\nKate, I was wondering if you could take a few minutes and answer\nsome survey questions for me. It won't take very long at all.\n***************************\nFour weeks later, this phone call is made:\nPhone Dialogue - Call #2\nWinston Select\nHi, Kate, this is Carolyn Hopkins. I work for R. J. Reynolds\nTobacco Company, and I called you about a month ago.\nDo you\nremember? I asked you some survey questions about Winston Select.\nHow are you doing? Have you been to any Winston Cup races lately?\n(pursue a little...then say:)\nKate, I was wondering if you would answer some survey questions for\nme again. It shouldn't take long, and I would really appreciate\nit.\nNOTE: USE SAME SURVEY QUESTIONS FOR BOTH PHONE CALLS.\n51437 3444"
+}

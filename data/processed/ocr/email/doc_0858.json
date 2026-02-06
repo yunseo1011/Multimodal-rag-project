@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0858.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Maurici, Vito on Wed, Mar 25, 1998 6:03 AM",
+      "bbox": [
+        76,
+        56,
+        430,
+        77
+      ],
+      "confidence": 0.9926416873931885
+    },
+    {
+      "text": "Subject: Circle K Northwest",
+      "bbox": [
+        76,
+        73,
+        265,
+        90
+      ],
+      "confidence": 0.9878033399581909
+    },
+    {
+      "text": "To: Pfenning, Cecila",
+      "bbox": [
+        76,
+        89,
+        213,
+        106
+      ],
+      "confidence": 0.999657154083252
+    },
+    {
+      "text": "Cc: Cutshall, Kelly; Johnston, Rhonda; Riley, Lacinda",
+      "bbox": [
+        75,
+        104,
+        438,
+        123
+      ],
+      "confidence": 0.9978388547897339
+    },
+    {
+      "text": "Cecila:",
+      "bbox": [
+        76,
+        134,
+        123,
+        152
+      ],
+      "confidence": 0.999937891960144
+    },
+    {
+      "text": "Hello! I just wanted to drop you a note to see if you can help me out with Circle K",
+      "bbox": [
+        75,
+        163,
+        625,
+        188
+      ],
+      "confidence": 0.9927861094474792
+    },
+    {
+      "text": "Northwest. I would like Carton floor displays for every price off from August through",
+      "bbox": [
+        77,
+        180,
+        654,
+        204
+      ],
+      "confidence": 0.984605073928833
+    },
+    {
+      "text": "eternity. I would like to see if we can have an outstanding request to always hold about 340",
+      "bbox": [
+        77,
+        196,
+        686,
+        219
+      ],
+      "confidence": 0.9935217499732971
+    },
+    {
+      "text": "displays on the side for Circle K NW??",
+      "bbox": [
+        78,
+        211,
+        337,
+        231
+      ],
+      "confidence": 0.9799249768257141
+    }
+  ],
+  "full_text": "From: Maurici, Vito on Wed, Mar 25, 1998 6:03 AM\nSubject: Circle K Northwest\nTo: Pfenning, Cecila\nCc: Cutshall, Kelly; Johnston, Rhonda; Riley, Lacinda\nCecila:\nHello! I just wanted to drop you a note to see if you can help me out with Circle K\nNorthwest. I would like Carton floor displays for every price off from August through\neternity. I would like to see if we can have an outstanding request to always hold about 340\ndisplays on the side for Circle K NW??"
+}

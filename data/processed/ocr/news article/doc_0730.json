@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0730.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2062485363",
+      "bbox": [
+        694,
+        72,
+        754,
+        88
+      ],
+      "confidence": 0.9925424456596375
+    },
+    {
+      "text": "MARKETS/MONEY/PERSONAL FINANCE",
+      "bbox": [
+        154,
+        118,
+        556,
+        140
+      ],
+      "confidence": 0.9934377074241638
+    },
+    {
+      "text": "BUSINESS",
+      "bbox": [
+        79,
+        154,
+        626,
+        258
+      ],
+      "confidence": 0.9464337825775146
+    },
+    {
+      "text": "Family Hopes",
+      "bbox": [
+        16,
+        317,
+        179,
+        358
+      ],
+      "confidence": 0.9421884417533875
+    },
+    {
+      "text": "Small Claims",
+      "bbox": [
+        18,
+        352,
+        172,
+        388
+      ],
+      "confidence": 0.9959826469421387
+    },
+    {
+      "text": "Have Big Impact",
+      "bbox": [
+        15,
+        387,
+        209,
+        425
+      ],
+      "confidence": 0.9931200742721558
+    },
+    {
+      "text": "Tobacco: They have sued",
+      "bbox": [
+        20,
+        433,
+        209,
+        454
+      ],
+      "confidence": 0.9694545865058899
+    },
+    {
+      "text": "cigarette makers over the",
+      "bbox": [
+        22,
+        452,
+        188,
+        469
+      ],
+      "confidence": 0.9963028430938721
+    },
+    {
+      "text": "RSDAY",
+      "bbox": [
+        534,
+        449,
+        578,
+        466
+      ],
+      "confidence": 0.9646741151809692
+    },
+    {
+      "text": "death of their mother.",
+      "bbox": [
+        22,
+        469,
+        167,
+        487
+      ],
+      "confidence": 0.9684610962867737
+    },
+    {
+      "text": "OBER 13, 1994",
+      "bbox": [
+        538,
+        466,
+        615,
+        483
+      ],
+      "confidence": 0.9249851703643799
+    },
+    {
+      "text": "cCtt",
+      "bbox": [
+        643,
+        469,
+        669,
+        481
+      ],
+      "confidence": 0.7659196853637695
+    },
+    {
+      "text": "LOOT 281 CTIO",
+      "bbox": [
+        0,
+        482,
+        13,
+        570
+      ],
+      "confidence": 0.6149890422821045
+    },
+    {
+      "text": "By MYRON LEVIN",
+      "bbox": [
+        25,
+        503,
+        124,
+        517
+      ],
+      "confidence": 0.9969227910041809
+    },
+    {
+      "text": "JUMES STAFE WPITER",
+      "bbox": [
+        27,
+        513,
+        115,
+        523
+      ],
+      "confidence": 0.7703630924224854
+    },
+    {
+      "text": "Still grieving over their mother's",
+      "bbox": [
+        35,
+        531,
+        225,
+        544
+      ],
+      "confidence": 0.9782488346099854
+    },
+    {
+      "text": "deatk last year fram lung cancer, the",
+      "bbox": [
+        26,
+        542,
+        225,
+        557
+      ],
+      "confidence": 0.9572073221206665
+    },
+    {
+      "text": "children of Della Koenigshofer are",
+      "bbox": [
+        26,
+        553,
+        226,
+        568
+      ],
+      "confidence": 0.9600723385810852
+    },
+    {
+      "text": "trying to pat the hurt where they think",
+      "bbox": [
+        26,
+        564,
+        226,
+        579
+      ],
+      "confidence": 0.9689640402793884
+    },
+    {
+      "text": "it belongs-on the tobacoo industry.",
+      "bbox": [
+        26,
+        575,
+        207,
+        591
+      ],
+      "confidence": 0.9549277424812317
+    },
+    {
+      "text": "In a novel attack on cigarelte mak-",
+      "bbox": [
+        36,
+        587,
+        226,
+        603
+      ],
+      "confidence": 0.9607324600219727
+    },
+    {
+      "text": "05:20",
+      "bbox": [
+        0,
+        593,
+        10,
+        625
+      ],
+      "confidence": 0.7628580927848816
+    },
+    {
+      "text": "ers, seven members of the Koenigsho-",
+      "bbox": [
+        26,
+        598,
+        228,
+        615
+      ],
+      "confidence": 0.9521607160568237
+    },
+    {
+      "text": "ter lamsily have taken the cigarette",
+      "bbox": [
+        26,
+        609,
+        229,
+        626
+      ],
+      "confidence": 0.9199094772338867
+    },
+    {
+      "text": "companies Ento smalt claims court in",
+      "bbox": [
+        26,
+        620,
+        229,
+        637
+      ],
+      "confidence": 0.9292921423912048
+    },
+    {
+      "text": "Las Angeles and Rtiverside to answer to",
+      "bbox": [
+        27,
+        631,
+        230,
+        648
+      ],
+      "confidence": 0.9567630290985107
+    },
+    {
+      "text": "et Angcirs Times",
+      "bbox": [
+        376,
+        636,
+        436,
+        643
+      ],
+      "confidence": 0.8260464072227478
+    },
+    {
+      "text": "10/13/94",
+      "bbox": [
+        0,
+        641,
+        17,
+        694
+      ],
+      "confidence": 0.9894622564315796
+    },
+    {
+      "text": "FleaseSee FAMILY,DJ",
+      "bbox": [
+        105,
+        644,
+        230,
+        660
+      ],
+      "confidence": 0.8705991506576538
+    },
+    {
+      "text": "Ken Hoenlgshofer at L.A. court.",
+      "bbox": [
+        244,
+        647,
+        438,
+        661
+      ],
+      "confidence": 0.988157331943512
+    }
+  ],
+  "full_text": "2062485363\nMARKETS/MONEY/PERSONAL FINANCE\nBUSINESS\nFamily Hopes\nSmall Claims\nHave Big Impact\nTobacco: They have sued\ncigarette makers over the\nRSDAY\ndeath of their mother.\nOBER 13, 1994\ncCtt\nLOOT 281 CTIO\nBy MYRON LEVIN\nJUMES STAFE WPITER\nStill grieving over their mother's\ndeatk last year fram lung cancer, the\nchildren of Della Koenigshofer are\ntrying to pat the hurt where they think\nit belongs-on the tobacoo industry.\nIn a novel attack on cigarelte mak-\n05:20\ners, seven members of the Koenigsho-\nter lamsily have taken the cigarette\ncompanies Ento smalt claims court in\nLas Angeles and Rtiverside to answer to\net Angcirs Times\n10/13/94\nFleaseSee FAMILY,DJ\nKen Hoenlgshofer at L.A. court."
+}

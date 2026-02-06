@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0906.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Jeonard",
+      "bbox": [
+        144,
+        61,
+        218,
+        91
+      ],
+      "confidence": 0.9915308356285095
+    },
+    {
+      "text": "Tahn",
+      "bbox": [
+        147,
+        81,
+        218,
+        114
+      ],
+      "confidence": 0.8339736461639404
+    },
+    {
+      "text": "BUPLC RELSTION COUNTE.",
+      "bbox": [
+        217,
+        84,
+        321,
+        97
+      ],
+      "confidence": 0.7173608541488647
+    },
+    {
+      "text": "andAssociates.Inc.",
+      "bbox": [
+        178,
+        107,
+        271,
+        124
+      ],
+      "confidence": 0.953502893447876
+    },
+    {
+      "text": "P O BOX 523 • 13 LINCOLN ROAD • GREAY NECK, NY 11021 + (212I 89S7445",
+      "bbox": [
+        143,
+        127,
+        499,
+        142
+      ],
+      "confidence": 0.8906727433204651
+    },
+    {
+      "text": "March 24, 1980",
+      "bbox": [
+        415,
+        163,
+        544,
+        183
+      ],
+      "confidence": 0.9983633160591125
+    },
+    {
+      "text": "Dr. Carl C. Seltzer",
+      "bbox": [
+        157,
+        229,
+        330,
+        248
+      ],
+      "confidence": 0.9710571765899658
+    },
+    {
+      "text": "39 Williston Road",
+      "bbox": [
+        158,
+        244,
+        313,
+        264
+      ],
+      "confidence": 0.9685351252555847
+    },
+    {
+      "text": "Brookline, Massachusetts O2146",
+      "bbox": [
+        158,
+        256,
+        425,
+        280
+      ],
+      "confidence": 0.9865395426750183
+    },
+    {
+      "text": "Dear Carl:",
+      "bbox": [
+        156,
+        290,
+        251,
+        311
+      ],
+      "confidence": 0.9944872856140137
+    },
+    {
+      "text": "Enclosed is a new draft_of a release on your",
+      "bbox": [
+        192,
+        315,
+        580,
+        340
+      ],
+      "confidence": 0.966169536113739
+    },
+    {
+      "text": "forthcoming AHJ editorial. It was prepared after",
+      "bbox": [
+        156,
+        330,
+        579,
+        356
+      ],
+      "confidence": 0.9848470687866211
+    },
+    {
+      "text": "discussion with the Shook, Hardy & Bacon people",
+      "bbox": [
+        155,
+        345,
+        570,
+        371
+      ],
+      "confidence": 0.9868218302726746
+    },
+    {
+      "text": "in Kansas City.",
+      "bbox": [
+        156,
+        364,
+        290,
+        385
+      ],
+      "confidence": 0.9906929135322571
+    },
+    {
+      "text": "You'll notice that the changes are really few",
+      "bbox": [
+        191,
+        391,
+        587,
+        414
+      ],
+      "confidence": 0.9811152219772339
+    },
+    {
+      "text": "and minimal. There's a new headline and a full",
+      "bbox": [
+        154,
+        404,
+        563,
+        432
+      ],
+      "confidence": 0.9713960886001587
+    },
+    {
+      "text": "quote for the opening paragraph. Also, there's a",
+      "bbox": [
+        154,
+        418,
+        582,
+        448
+      ],
+      "confidence": 0.9673077464103699
+    },
+    {
+      "text": "new second-from-the-end paragraph that I think is",
+      "bbox": [
+        154,
+        433,
+        586,
+        461
+      ],
+      "confidence": 0.9938083291053772
+    },
+    {
+      "text": "quite good. I somehow missed it earlier.",
+      "bbox": [
+        156,
+        449,
+        511,
+        476
+      ],
+      "confidence": 0.9864853024482727
+    },
+    {
+      "text": "I would suggest one other thing: when the re-",
+      "bbox": [
+        191,
+        482,
+        586,
+        503
+      ],
+      "confidence": 0.9866395592689514
+    },
+    {
+      "text": "lease is issued it would be helpful to put the",
+      "bbox": [
+        154,
+        496,
+        563,
+        519
+      ],
+      "confidence": 0.9801471829414368
+    },
+    {
+      "text": "journal's publication date, e.g. May issue, in",
+      "bbox": [
+        155,
+        511,
+        562,
+        535
+      ],
+      "confidence": 0.9824513792991638
+    },
+    {
+      "text": "parentheses at the end of the first paragraph.",
+      "bbox": [
+        153,
+        526,
+        561,
+        550
+      ],
+      "confidence": 0.9728560447692871
+    },
+    {
+      "text": "If your reaction to the re-draft is differ-",
+      "bbox": [
+        193,
+        555,
+        569,
+        576
+      ],
+      "confidence": 0.9934871792793274
+    },
+    {
+      "text": "ent than that to the first version, please let",
+      "bbox": [
+        153,
+        571,
+        563,
+        592
+      ],
+      "confidence": 0.9972699880599976
+    },
+    {
+      "text": "me know.",
+      "bbox": [
+        152,
+        588,
+        230,
+        607
+      ],
+      "confidence": 0.9988183379173279
+    },
+    {
+      "text": "Hilda and I enjoyed seeing you and Ruth in",
+      "bbox": [
+        191,
+        615,
+        562,
+        634
+      ],
+      "confidence": 0.9861413240432739
+    },
+    {
+      "text": "San Diego and we look forward to seeing you at",
+      "bbox": [
+        151,
+        628,
+        562,
+        651
+      ],
+      "confidence": 0.9842785000801086
+    },
+    {
+      "text": "the Twin Congress in Jerusa.lem in June. We will",
+      "bbox": [
+        153,
+        644,
+        568,
+        664
+      ],
+      "confidence": 0.9824874997138977
+    },
+    {
+      "text": "be staying at the Plaza Hotel there.",
+      "bbox": [
+        151,
+        657,
+        474,
+        681
+      ],
+      "confidence": 0.9591720104217529
+    },
+    {
+      "text": "Incidentally, I've arranged for Prof. Parisi",
+      "bbox": [
+        191,
+        685,
+        575,
+        708
+      ],
+      "confidence": 0.9860776662826538
+    },
+    {
+      "text": "to invite Joann Rodgers of the Hearst papers to",
+      "bbox": [
+        153,
+        700,
+        575,
+        723
+      ],
+      "confidence": 0.9842274188995361
+    },
+    {
+      "text": "attend the Congress.",
+      "bbox": [
+        153,
+        719,
+        334,
+        738
+      ],
+      "confidence": 0.9941226840019226
+    },
+    {
+      "text": "With best wishes.",
+      "bbox": [
+        189,
+        747,
+        341,
+        766
+      ],
+      "confidence": 0.9892345666885376
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        379,
+        772,
+        471,
+        791
+      ],
+      "confidence": 0.9995706677436829
+    },
+    {
+      "text": "Leonard S. Zahn",
+      "bbox": [
+        380,
+        812,
+        518,
+        834
+      ],
+      "confidence": 0.9883579611778259
+    },
+    {
+      "text": "LSZ:hg",
+      "bbox": [
+        155,
+        833,
+        213,
+        854
+      ],
+      "confidence": 0.9072730541229248
+    },
+    {
+      "text": "Encl.",
+      "bbox": [
+        156,
+        849,
+        204,
+        866
+      ],
+      "confidence": 0.9547749757766724
+    },
+    {
+      "text": "CC: Bernard O'Neill, :.",
+      "bbox": [
+        156,
+        862,
+        366,
+        881
+      ],
+      "confidence": 0.9391831159591675
+    }
+  ],
+  "full_text": "Jeonard\nTahn\nBUPLC RELSTION COUNTE.\nandAssociates.Inc.\nP O BOX 523 • 13 LINCOLN ROAD • GREAY NECK, NY 11021 + (212I 89S7445\nMarch 24, 1980\nDr. Carl C. Seltzer\n39 Williston Road\nBrookline, Massachusetts O2146\nDear Carl:\nEnclosed is a new draft_of a release on your\nforthcoming AHJ editorial. It was prepared after\ndiscussion with the Shook, Hardy & Bacon people\nin Kansas City.\nYou'll notice that the changes are really few\nand minimal. There's a new headline and a full\nquote for the opening paragraph. Also, there's a\nnew second-from-the-end paragraph that I think is\nquite good. I somehow missed it earlier.\nI would suggest one other thing: when the re-\nlease is issued it would be helpful to put the\njournal's publication date, e.g. May issue, in\nparentheses at the end of the first paragraph.\nIf your reaction to the re-draft is differ-\nent than that to the first version, please let\nme know.\nHilda and I enjoyed seeing you and Ruth in\nSan Diego and we look forward to seeing you at\nthe Twin Congress in Jerusa.lem in June. We will\nbe staying at the Plaza Hotel there.\nIncidentally, I've arranged for Prof. Parisi\nto invite Joann Rodgers of the Hearst papers to\nattend the Congress.\nWith best wishes.\nSincerely,\nLeonard S. Zahn\nLSZ:hg\nEncl.\nCC: Bernard O'Neill, :."
+}

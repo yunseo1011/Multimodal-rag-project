@@ -1,0 +1,791 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0082.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BASIC _WEIGHT SPECIFICATION",
+      "bbox": [
+        277,
+        134,
+        456,
+        150
+      ],
+      "confidence": 0.928183376789093
+    },
+    {
+      "text": "EFFECTIVE DATE: O4/24/90",
+      "bbox": [
+        490,
+        142,
+        659,
+        159
+      ],
+      "confidence": 0.9284794330596924
+    },
+    {
+      "text": "LOUISVILLE",
+      "bbox": [
+        48,
+        146,
+        119,
+        164
+      ],
+      "confidence": 0.9460973739624023
+    },
+    {
+      "text": "STANDARD PRODUGTION",
+      "bbox": [
+        490,
+        157,
+        618,
+        172
+      ],
+      "confidence": 0.9654819965362549
+    },
+    {
+      "text": "CONTROL SANPLE",
+      "bbox": [
+        490,
+        172,
+        583,
+        185
+      ],
+      "confidence": 0.965866208076477
+    },
+    {
+      "text": "BRAND:CODE-211O(STD)(CS)",
+      "bbox": [
+        47,
+        173,
+        215,
+        193
+      ],
+      "confidence": 0.9415158629417419
+    },
+    {
+      "text": "_PHYSICAL MEASUREMENTS",
+      "bbox": [
+        284,
+        212,
+        440,
+        230
+      ],
+      "confidence": 0.9495527148246765
+    },
+    {
+      "text": "TOBACCO ROD LENGTH",
+      "bbox": [
+        80,
+        240,
+        201,
+        254
+      ],
+      "confidence": 0.9944894313812256
+    },
+    {
+      "text": ":",
+      "bbox": [
+        234,
+        246,
+        241,
+        253
+      ],
+      "confidence": 0.985956072807312
+    },
+    {
+      "text": "71.0",
+      "bbox": [
+        309,
+        240,
+        342,
+        254
+      ],
+      "confidence": 0.9994959831237793
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        457,
+        238,
+        475,
+        249
+      ],
+      "confidence": 0.7649396657943726
+    },
+    {
+      "text": "TIPPING LENGTH",
+      "bbox": [
+        79,
+        254,
+        176,
+        266
+      ],
+      "confidence": 0.995272159576416
+    },
+    {
+      "text": "32.000",
+      "bbox": [
+        297,
+        253,
+        341,
+        266
+      ],
+      "confidence": 0.9946947693824768
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        458,
+        250,
+        475,
+        262
+      ],
+      "confidence": 0.9345380067825317
+    },
+    {
+      "text": "CIGARETTE PAPER WIDTH",
+      "bbox": [
+        79,
+        266,
+        222,
+        280
+      ],
+      "confidence": 0.9921727180480957
+    },
+    {
+      "text": ":",
+      "bbox": [
+        233,
+        270,
+        241,
+        279
+      ],
+      "confidence": 0.9974939823150635
+    },
+    {
+      "text": "19:50",
+      "bbox": [
+        304,
+        266,
+        342,
+        280
+      ],
+      "confidence": 0.889483630657196
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        457,
+        263,
+        475,
+        276
+      ],
+      "confidence": 0.9795916080474854
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        457,
+        277,
+        475,
+        289
+      ],
+      "confidence": 0.9970285892486572
+    },
+    {
+      "text": "CIRCUMFERENCE",
+      "bbox": [
+        79,
+        280,
+        168,
+        292
+      ],
+      "confidence": 0.9923044443130493
+    },
+    {
+      "text": ":",
+      "bbox": [
+        233,
+        283,
+        241,
+        292
+      ],
+      "confidence": 0.9915382862091064
+    },
+    {
+      "text": "1,632.8501",
+      "bbox": [
+        271,
+        290,
+        342,
+        307
+      ],
+      "confidence": 0.995171844959259
+    },
+    {
+      "text": "17.00",
+      "bbox": [
+        304,
+        279,
+        342,
+        293
+      ],
+      "confidence": 0.9992145299911499
+    },
+    {
+      "text": "CUBICMM",
+      "bbox": [
+        418,
+        291,
+        474,
+        302
+      ],
+      "confidence": 0.9795879125595093
+    },
+    {
+      "text": "CALCULATED VOL, UME",
+      "bbox": [
+        80,
+        294,
+        193,
+        307
+      ],
+      "confidence": 0.9708359241485596
+    },
+    {
+      "text": "CALCULATED DENSITY",
+      "bbox": [
+        80,
+        307,
+        198,
+        318
+      ],
+      "confidence": 0.9916421175003052
+    },
+    {
+      "text": ":",
+      "bbox": [
+        233,
+        296,
+        241,
+        305
+      ],
+      "confidence": 0.9560089111328125
+    },
+    {
+      "text": "28.3095",
+      "bbox": [
+        291,
+        306,
+        340,
+        318
+      ],
+      "confidence": 0.9792291522026062
+    },
+    {
+      "text": "CGMS/CC",
+      "bbox": [
+        425,
+        304,
+        474,
+        316
+      ],
+      "confidence": 0.9263876080513
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        309,
+        240,
+        319
+      ],
+      "confidence": 0.9926243424415588
+    },
+    {
+      "text": "MQISTURE",
+      "bbox": [
+        333,
+        346,
+        400,
+        357
+      ],
+      "confidence": 0.9086305499076843
+    },
+    {
+      "text": "PACK O. V.",
+      "bbox": [
+        78,
+        373,
+        146,
+        386
+      ],
+      "confidence": 0.9818071126937866
+    },
+    {
+      "text": ":",
+      "bbox": [
+        233,
+        377,
+        240,
+        384
+      ],
+      "confidence": 0.9431738257408142
+    },
+    {
+      "text": "13.40",
+      "bbox": [
+        305,
+        371,
+        342,
+        385
+      ],
+      "confidence": 0.9997757077217102
+    },
+    {
+      "text": "% W/w",
+      "bbox": [
+        437,
+        371,
+        475,
+        385
+      ],
+      "confidence": 0.8647537231445312
+    },
+    {
+      "text": "JARGET WEIGHTS",
+      "bbox": [
+        311,
+        412,
+        419,
+        425
+      ],
+      "confidence": 0.9211034774780273
+    },
+    {
+      "text": "FILLER WE1GHT",
+      "bbox": [
+        79,
+        441,
+        169,
+        454
+      ],
+      "confidence": 0.9945698976516724
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        442,
+        240,
+        452
+      ],
+      "confidence": 0.9972997307777405
+    },
+    {
+      "text": ".4622514",
+      "bbox": [
+        285,
+        436,
+        342,
+        453
+      ],
+      "confidence": 0.9995077848434448
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        438,
+        438,
+        475,
+        452
+      ],
+      "confidence": 0.9814661145210266
+    },
+    {
+      "text": "CALCULATED WE IGHT :",
+      "bbox": [
+        120,
+        454,
+        240,
+        467
+      ],
+      "confidence": 0.9478378295898438
+    },
+    {
+      "text": "1.0191",
+      "bbox": [
+        297,
+        449,
+        343,
+        466
+      ],
+      "confidence": 0.9989205002784729
+    },
+    {
+      "text": "LBS. /1000",
+      "bbox": [
+        406,
+        453,
+        474,
+        464
+      ],
+      "confidence": 0.9821605682373047
+    },
+    {
+      "text": "PAPER AND PASTE",
+      "bbox": [
+        77,
+        466,
+        182,
+        481
+      ],
+      "confidence": 0.9938556551933289
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        469,
+        240,
+        478
+      ],
+      "confidence": 0.9979481101036072
+    },
+    {
+      "text": ".0951637",
+      "bbox": [
+        285,
+        463,
+        343,
+        479
+      ],
+      "confidence": 0.9995068311691284
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        440,
+        466,
+        475,
+        477
+      ],
+      "confidence": 0.976000964641571
+    },
+    {
+      "text": "ROD WEIGHT",
+      "bbox": [
+        79,
+        482,
+        148,
+        492
+      ],
+      "confidence": 0.9898515939712524
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        482,
+        240,
+        492
+      ],
+      "confidence": 0.99608314037323
+    },
+    {
+      "text": ".5574151",
+      "bbox": [
+        286,
+        478,
+        343,
+        492
+      ],
+      "confidence": 0.9940218329429626
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        439,
+        478,
+        476,
+        492
+      ],
+      "confidence": 0.9579848051071167
+    },
+    {
+      "text": "TIPP ING AND ADHESIVE",
+      "bbox": [
+        78,
+        493,
+        212,
+        507
+      ],
+      "confidence": 0.943134605884552
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        495,
+        240,
+        505
+      ],
+      "confidence": 0.9923288226127625
+    },
+    {
+      "text": ".0336197",
+      "bbox": [
+        285,
+        490,
+        343,
+        506
+      ],
+      "confidence": 0.9999048709869385
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        440,
+        493,
+        475,
+        504
+      ],
+      "confidence": 0.9997274279594421
+    },
+    {
+      "text": "TOTAL LESS: PLUG",
+      "bbox": [
+        79,
+        508,
+        182,
+        521
+      ],
+      "confidence": 0.989530086517334
+    },
+    {
+      "text": ":",
+      "bbox": [
+        232,
+        509,
+        240,
+        518
+      ],
+      "confidence": 0.9837763905525208
+    },
+    {
+      "text": ".5910348",
+      "bbox": [
+        286,
+        504,
+        343,
+        520
+      ],
+      "confidence": 0.9921836853027344
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        440,
+        507,
+        476,
+        518
+      ],
+      "confidence": 0.9997597932815552
+    },
+    {
+      "text": "CIGARETTE 100 WEIGHT:",
+      "bbox": [
+        75,
+        562,
+        232,
+        578
+      ],
+      "confidence": 0.9912109375
+    },
+    {
+      "text": "67.85",
+      "bbox": [
+        291,
+        562,
+        333,
+        577
+      ],
+      "confidence": 0.9999228715896606
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        435,
+        566,
+        474,
+        577
+      ],
+      "confidence": 0.9997850656509399
+    },
+    {
+      "text": "2023284990",
+      "bbox": [
+        697,
+        763,
+        731,
+        909
+      ],
+      "confidence": 0.999917209148407
+    },
+    {
+      "text": "REASON FOR CHANGE",
+      "bbox": [
+        75,
+        843,
+        194,
+        858
+      ],
+      "confidence": 0.9874711036682129
+    },
+    {
+      "text": ": SAMPLES MUST BE QA INSPECTED: AND· APPROVED PRIOR TO",
+      "bbox": [
+        232,
+        841,
+        595,
+        857
+      ],
+      "confidence": 0.9711765050888062
+    },
+    {
+      "text": ": BEING REMOVED FROM THE FACTORY AND· MIST MEET OR",
+      "bbox": [
+        232,
+        854,
+        572,
+        871
+      ],
+      "confidence": 0.9687023758888245
+    },
+    {
+      "text": ": EXCEED THE CURRENT QUALITY CRITERIA FOR THIS BRAND",
+      "bbox": [
+        232,
+        867,
+        593,
+        884
+      ],
+      "confidence": 0.9815903902053833
+    },
+    {
+      "text": ": COORDINATOR(S): D. ATKENSON(CIGTS.)/J. POTCAT(PKG).",
+      "bbox": [
+        232,
+        881,
+        594,
+        897
+      ],
+      "confidence": 0.9585833549499512
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        75,
+        911,
+        154,
+        924
+      ],
+      "confidence": 0.9725318551063538
+    },
+    {
+      "text": ": S.M. HAYWOOD",
+      "bbox": [
+        234,
+        912,
+        330,
+        925
+      ],
+      "confidence": 0.9880900382995605
+    },
+    {
+      "text": "PRINTING TIME",
+      "bbox": [
+        413,
+        922,
+        506,
+        937
+      ],
+      "confidence": 0.9887928366661072
+    },
+    {
+      "text": "PRINTING DATE",
+      "bbox": [
+        414,
+        911,
+        507,
+        921
+      ],
+      "confidence": 0.9954410195350647
+    },
+    {
+      "text": "8:56:10",
+      "bbox": [
+        592,
+        922,
+        647,
+        939
+      ],
+      "confidence": 0.8333029747009277
+    },
+    {
+      "text": "4/1:1/90",
+      "bbox": [
+        593,
+        909,
+        648,
+        925
+      ],
+      "confidence": 0.9566628336906433
+    },
+    {
+      "text": "PREPARATION DATE",
+      "bbox": [
+        75,
+        924,
+        187,
+        938
+      ],
+      "confidence": 0.9829949140548706
+    },
+    {
+      "text": "1/10/90",
+      "bbox": [
+        252,
+        926,
+        301,
+        938
+      ],
+      "confidence": 0.9301587343215942
+    },
+    {
+      "text": "APPROVED BY::",
+      "bbox": [
+        40,
+        950,
+        128,
+        965
+      ],
+      "confidence": 0.9615765810012817
+    },
+    {
+      "text": "ORIGINAL SRECIFICAIION.",
+      "bbox": [
+        510,
+        949,
+        667,
+        963
+      ],
+      "confidence": 0.9767486453056335
+    }
+  ],
+  "full_text": "BASIC _WEIGHT SPECIFICATION\nEFFECTIVE DATE: O4/24/90\nLOUISVILLE\nSTANDARD PRODUGTION\nCONTROL SANPLE\nBRAND:CODE-211O(STD)(CS)\n_PHYSICAL MEASUREMENTS\nTOBACCO ROD LENGTH\n:\n71.0\nHM\nTIPPING LENGTH\n32.000\nMM\nCIGARETTE PAPER WIDTH\n:\n19:50\nMM\nMM\nCIRCUMFERENCE\n:\n1,632.8501\n17.00\nCUBICMM\nCALCULATED VOL, UME\nCALCULATED DENSITY\n:\n28.3095\nCGMS/CC\n:\nMQISTURE\nPACK O. V.\n:\n13.40\n% W/w\nJARGET WEIGHTS\nFILLER WE1GHT\n:\n.4622514\nGRAMS\nCALCULATED WE IGHT :\n1.0191\nLBS. /1000\nPAPER AND PASTE\n:\n.0951637\nGRAMS\nROD WEIGHT\n:\n.5574151\nGRAMS\nTIPP ING AND ADHESIVE\n:\n.0336197\nGRAMS\nTOTAL LESS: PLUG\n:\n.5910348\nGRAMS\nCIGARETTE 100 WEIGHT:\n67.85\nGRAMS\n2023284990\nREASON FOR CHANGE\n: SAMPLES MUST BE QA INSPECTED: AND· APPROVED PRIOR TO\n: BEING REMOVED FROM THE FACTORY AND· MIST MEET OR\n: EXCEED THE CURRENT QUALITY CRITERIA FOR THIS BRAND\n: COORDINATOR(S): D. ATKENSON(CIGTS.)/J. POTCAT(PKG).\nPREPARED BY\n: S.M. HAYWOOD\nPRINTING TIME\nPRINTING DATE\n8:56:10\n4/1:1/90\nPREPARATION DATE\n1/10/90\nAPPROVED BY::\nORIGINAL SRECIFICAIION."
+}

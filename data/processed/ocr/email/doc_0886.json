@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0886.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From:",
+      "bbox": [
+        72,
+        123,
+        104,
+        138
+      ],
+      "confidence": 0.9988083839416504
+    },
+    {
+      "text": "Osborne, Kevin (PMMC Legal)",
+      "bbox": [
+        116,
+        120,
+        275,
+        138
+      ],
+      "confidence": 0.9750920534133911
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        72,
+        137,
+        101,
+        152
+      ],
+      "confidence": 0.9945516586303711
+    },
+    {
+      "text": "Wodnosday, February 17, 1999 5:22 PM",
+      "bbox": [
+        116,
+        133,
+        320,
+        153
+      ],
+      "confidence": 0.9751589894294739
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        71,
+        149,
+        91,
+        165
+      ],
+      "confidence": 0.9861826300621033
+    },
+    {
+      "text": "Murphy, Virginia; Carclch, Clalre; Desei, Paula",
+      "bbox": [
+        116,
+        146,
+        354,
+        166
+      ],
+      "confidence": 0.9711738228797913
+    },
+    {
+      "text": "Subject: RE: TF-1",
+      "bbox": [
+        72,
+        163,
+        157,
+        177
+      ],
+      "confidence": 0.9472286105155945
+    },
+    {
+      "text": "I agree. It doesn't sound as though they're interested in viewpoint of PM sciontists.",
+      "bbox": [
+        69,
+        179,
+        564,
+        207
+      ],
+      "confidence": 0.9685106873512268
+    }
+  ],
+  "full_text": "From:\nOsborne, Kevin (PMMC Legal)\nSent:\nWodnosday, February 17, 1999 5:22 PM\nTo:\nMurphy, Virginia; Carclch, Clalre; Desei, Paula\nSubject: RE: TF-1\nI agree. It doesn't sound as though they're interested in viewpoint of PM sciontists."
+}

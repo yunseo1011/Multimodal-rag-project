@@ -1,0 +1,601 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0578.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE COunCIL FOR TOBAcCO ReseaRcH-U.S.A., Inc.",
+      "bbox": [
+        0,
+        0,
+        444,
+        30
+      ],
+      "confidence": 0.8160408735275269
+    },
+    {
+      "text": "October 30, 1981",
+      "bbox": [
+        484,
+        16,
+        606,
+        30
+      ],
+      "confidence": 0.9979554414749146
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        55,
+        36,
+        145,
+        59
+      ],
+      "confidence": 0.9994266629219055
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        54,
+        68,
+        87,
+        90
+      ],
+      "confidence": 0.9996369481086731
+    },
+    {
+      "text": "Dr. S. C. Sommers",
+      "bbox": [
+        137,
+        74,
+        275,
+        92
+      ],
+      "confidence": 0.9699621796607971
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        55,
+        103,
+        102,
+        123
+      ],
+      "confidence": 0.9992367625236511
+    },
+    {
+      "text": "D. H. Ford",
+      "bbox": [
+        137,
+        106,
+        221,
+        123
+      ],
+      "confidence": 0.9899505376815796
+    },
+    {
+      "text": "SUBJECT: Site visit with Dr. Ferid Murad and staff at the Palo Alto Veteran's",
+      "bbox": [
+        59,
+        137,
+        660,
+        154
+      ],
+      "confidence": 0.9750107526779175
+    },
+    {
+      "text": "Administration Hospital associated with Stanford University, October",
+      "bbox": [
+        152,
+        154,
+        675,
+        172
+      ],
+      "confidence": 0.9927046298980713
+    },
+    {
+      "text": "20, 1981",
+      "bbox": [
+        153,
+        172,
+        220,
+        191
+      ],
+      "confidence": 0.9821562767028809
+    },
+    {
+      "text": "Grant No. 1186A",
+      "bbox": [
+        137,
+        187,
+        259,
+        206
+      ],
+      "confidence": 0.9936974048614502
+    },
+    {
+      "text": "\"Mechanism of Nitric Oxide Activation of Guanylate Cyclase\"",
+      "bbox": [
+        138,
+        203,
+        591,
+        222
+      ],
+      "confidence": 0.9943848848342896
+    },
+    {
+      "text": "MOVE FROM CHARLOTTESVILLE TO STANFORD:",
+      "bbox": [
+        57,
+        251,
+        354,
+        269
+      ],
+      "confidence": 0.9905586242675781
+    },
+    {
+      "text": "The transition from Virginia to California appears to have been achieved",
+      "bbox": [
+        135,
+        281,
+        691,
+        303
+      ],
+      "confidence": 0.9832988381385803
+    },
+    {
+      "text": "with a minimal disruption of Dr. Murad's investigations. Half of his staff moved",
+      "bbox": [
+        55,
+        298,
+        684,
+        320
+      ],
+      "confidence": 0.9938119053840637
+    },
+    {
+      "text": "with him to the VA Hospital to establish the new laboratories while the other half",
+      "bbox": [
+        56,
+        316,
+        691,
+        335
+      ],
+      "confidence": 0.9818795323371887
+    },
+    {
+      "text": "maintained the ongoing work at the University of Virginia and then moved out to",
+      "bbox": [
+        55,
+        331,
+        669,
+        353
+      ],
+      "confidence": 0.9856629371643066
+    },
+    {
+      "text": "California early in the Fall,bringing most of their equipment. The present quar-",
+      "bbox": [
+        55,
+        348,
+        684,
+        370
+      ],
+      "confidence": 0.9910236597061157
+    },
+    {
+      "text": "ters for Dr. Murad's laboratory are much larger than were available to him before.",
+      "bbox": [
+        54,
+        364,
+        690,
+        386
+      ],
+      "confidence": 0.9962400794029236
+    },
+    {
+      "text": "In addition, he has eighteen fully funded lines at the VA Hospital plus six funded",
+      "bbox": [
+        55,
+        380,
+        692,
+        403
+      ],
+      "confidence": 0.9866223931312561
+    },
+    {
+      "text": "on grants. He appears quite excited about the research potential at his new loca-",
+      "bbox": [
+        54,
+        396,
+        692,
+        421
+      ],
+      "confidence": 0.9821626543998718
+    },
+    {
+      "text": "tion and is particularly gratified with the lines of comunication they have already",
+      "bbox": [
+        54,
+        413,
+        706,
+        438
+      ],
+      "confidence": 0.9945985674858093
+    },
+    {
+      "text": "been able to establish with individuals at Stanford. Further, the general attitude",
+      "bbox": [
+        54,
+        429,
+        699,
+        454
+      ],
+      "confidence": 0.9876227974891663
+    },
+    {
+      "text": "of the staff toward research appears much better. Support for equipment by the VA",
+      "bbox": [
+        55,
+        447,
+        691,
+        472
+      ],
+      "confidence": 0.9842435121536255
+    },
+    {
+      "text": "is also much better than at Virginia. Thus, at this time, Dr. Murad feels that his",
+      "bbox": [
+        55,
+        463,
+        699,
+        488
+      ],
+      "confidence": 0.9868085980415344
+    },
+    {
+      "text": "change in location has enhanced the program which he directs and that the administra-",
+      "bbox": [
+        55,
+        479,
+        713,
+        505
+      ],
+      "confidence": 0.9864601492881775
+    },
+    {
+      "text": "tive demands he now has are no greater than they were before.",
+      "bbox": [
+        56,
+        499,
+        526,
+        520
+      ],
+      "confidence": 0.98514723777771
+    },
+    {
+      "text": "PERSONNEL:",
+      "bbox": [
+        56,
+        534,
+        139,
+        554
+      ],
+      "confidence": 0.9981940984725952
+    },
+    {
+      "text": "Most of Dr. Murad's key people came with him to California. He has also",
+      "bbox": [
+        134,
+        561,
+        688,
+        585
+      ],
+      "confidence": 0.9835614562034607
+    },
+    {
+      "text": "obtained a number of new Post Doctoral Fellows, most of whom havemanaged to obtain",
+      "bbox": [
+        58,
+        579,
+        688,
+        602
+      ],
+      "confidence": 0.9900599122047424
+    },
+    {
+      "text": "their own financial support from private or governmental sources.",
+      "bbox": [
+        57,
+        596,
+        560,
+        619
+      ],
+      "confidence": 0.9948983788490295
+    },
+    {
+      "text": "CURRENT GROUP:",
+      "bbox": [
+        58,
+        633,
+        172,
+        652
+      ],
+      "confidence": 0.989017903804779
+    },
+    {
+      "text": "John Lewicki, Ph.D.",
+      "bbox": [
+        136,
+        664,
+        284,
+        684
+      ],
+      "confidence": 0.989963710308075
+    },
+    {
+      "text": "Started 1979, plans to stay two more years.",
+      "bbox": [
+        365,
+        661,
+        692,
+        680
+      ],
+      "confidence": 0.9797988533973694
+    },
+    {
+      "text": "Marty Draznin, M.D.",
+      "bbox": [
+        135,
+        681,
+        285,
+        701
+      ],
+      "confidence": 0.984207034111023
+    },
+    {
+      "text": "Started 1979, also plans to stay on a few years.",
+      "bbox": [
+        364,
+        677,
+        729,
+        697
+      ],
+      "confidence": 0.9899695515632629
+    },
+    {
+      "text": "Robert Rapaport, Ph.D.",
+      "bbox": [
+        136,
+        696,
+        306,
+        718
+      ],
+      "confidence": 0.9978011846542358
+    },
+    {
+      "text": "Started 1980, has a year to go.",
+      "bbox": [
+        365,
+        696,
+        602,
+        713
+      ],
+      "confidence": 0.9656081199645996
+    },
+    {
+      "text": "Started 1979, also plans to stay on a few more",
+      "bbox": [
+        364,
+        710,
+        717,
+        729
+      ],
+      "confidence": 0.9859010577201843
+    },
+    {
+      "text": "Scott Waldman, Ph.D.",
+      "bbox": [
+        136,
+        714,
+        292,
+        733
+      ],
+      "confidence": 0.9657012820243835
+    },
+    {
+      "text": "years.",
+      "bbox": [
+        378,
+        729,
+        428,
+        746
+      ],
+      "confidence": 0.9999341368675232
+    },
+    {
+      "text": "NEW:",
+      "bbox": [
+        57,
+        751,
+        93,
+        769
+      ],
+      "confidence": 0.9995967745780945
+    },
+    {
+      "text": "William Pierce, Ph.D.",
+      "bbox": [
+        134,
+        761,
+        299,
+        781
+      ],
+      "confidence": 0.9765748381614685
+    },
+    {
+      "text": "Started 1981",
+      "bbox": [
+        363,
+        758,
+        459,
+        777
+      ],
+      "confidence": 0.9988241791725159
+    },
+    {
+      "text": "Martin Sinacore, Ph.D.",
+      "bbox": [
+        134,
+        777,
+        306,
+        800
+      ],
+      "confidence": 0.9987668395042419
+    },
+    {
+      "text": "Started 1981",
+      "bbox": [
+        363,
+        774,
+        460,
+        793
+      ],
+      "confidence": 0.9994097352027893
+    },
+    {
+      "text": "Germain Guryson, Ph.D.",
+      "bbox": [
+        135,
+        793,
+        305,
+        816
+      ],
+      "confidence": 0.9850745797157288
+    },
+    {
+      "text": "Started 198l, trained in neuropharmacology with",
+      "bbox": [
+        362,
+        788,
+        725,
+        811
+      ],
+      "confidence": 0.9738436937332153
+    },
+    {
+      "text": "Costa.",
+      "bbox": [
+        380,
+        809,
+        428,
+        824
+      ],
+      "confidence": 0.9996254444122314
+    },
+    {
+      "text": "Mary Oldwurtel, Ph.D.",
+      "bbox": [
+        134,
+        825,
+        298,
+        848
+      ],
+      "confidence": 0.9726988673210144
+    },
+    {
+      "text": "Coming in February, 1982",
+      "bbox": [
+        363,
+        821,
+        548,
+        842
+      ],
+      "confidence": 0.9956229329109192
+    },
+    {
+      "text": "Margie Oriano, Ph.D.",
+      "bbox": [
+        134,
+        843,
+        291,
+        864
+      ],
+      "confidence": 0.9936748743057251
+    },
+    {
+      "text": "Collaborating from Vermont. Works in electron",
+      "bbox": [
+        362,
+        839,
+        715,
+        857
+      ],
+      "confidence": 0.9899471998214722
+    },
+    {
+      "text": "microscopy. She will be coming to Palo Alto",
+      "bbox": [
+        377,
+        855,
+        715,
+        873
+      ],
+      "confidence": 0.9780408143997192
+    },
+    {
+      "text": "to work for six months on EM immunocytochemi-",
+      "bbox": [
+        378,
+        871,
+        722,
+        889
+      ],
+      "confidence": 0.9767307043075562
+    },
+    {
+      "text": "cal localization of guanylate cyclase.",
+      "bbox": [
+        380,
+        889,
+        667,
+        903
+      ],
+      "confidence": 0.9776991009712219
+    },
+    {
+      "text": "Larry Simons, Ph.D.",
+      "bbox": [
+        133,
+        905,
+        281,
+        929
+      ],
+      "confidence": 0.9969451427459717
+    },
+    {
+      "text": "Member of Stanford faculty who has shown an in-",
+      "bbox": [
+        362,
+        901,
+        722,
+        919
+      ],
+      "confidence": 0.9781947135925293
+    },
+    {
+      "text": "terest in the Murad program and may be joining",
+      "bbox": [
+        379,
+        918,
+        728,
+        935
+      ],
+      "confidence": 0.9858686327934265
+    }
+  ],
+  "full_text": "THE COunCIL FOR TOBAcCO ReseaRcH-U.S.A., Inc.\nOctober 30, 1981\nMEMORANDUM\nTO:\nDr. S. C. Sommers\nFROM:\nD. H. Ford\nSUBJECT: Site visit with Dr. Ferid Murad and staff at the Palo Alto Veteran's\nAdministration Hospital associated with Stanford University, October\n20, 1981\nGrant No. 1186A\n\"Mechanism of Nitric Oxide Activation of Guanylate Cyclase\"\nMOVE FROM CHARLOTTESVILLE TO STANFORD:\nThe transition from Virginia to California appears to have been achieved\nwith a minimal disruption of Dr. Murad's investigations. Half of his staff moved\nwith him to the VA Hospital to establish the new laboratories while the other half\nmaintained the ongoing work at the University of Virginia and then moved out to\nCalifornia early in the Fall,bringing most of their equipment. The present quar-\nters for Dr. Murad's laboratory are much larger than were available to him before.\nIn addition, he has eighteen fully funded lines at the VA Hospital plus six funded\non grants. He appears quite excited about the research potential at his new loca-\ntion and is particularly gratified with the lines of comunication they have already\nbeen able to establish with individuals at Stanford. Further, the general attitude\nof the staff toward research appears much better. Support for equipment by the VA\nis also much better than at Virginia. Thus, at this time, Dr. Murad feels that his\nchange in location has enhanced the program which he directs and that the administra-\ntive demands he now has are no greater than they were before.\nPERSONNEL:\nMost of Dr. Murad's key people came with him to California. He has also\nobtained a number of new Post Doctoral Fellows, most of whom havemanaged to obtain\ntheir own financial support from private or governmental sources.\nCURRENT GROUP:\nJohn Lewicki, Ph.D.\nStarted 1979, plans to stay two more years.\nMarty Draznin, M.D.\nStarted 1979, also plans to stay on a few years.\nRobert Rapaport, Ph.D.\nStarted 1980, has a year to go.\nStarted 1979, also plans to stay on a few more\nScott Waldman, Ph.D.\nyears.\nNEW:\nWilliam Pierce, Ph.D.\nStarted 1981\nMartin Sinacore, Ph.D.\nStarted 1981\nGermain Guryson, Ph.D.\nStarted 198l, trained in neuropharmacology with\nCosta.\nMary Oldwurtel, Ph.D.\nComing in February, 1982\nMargie Oriano, Ph.D.\nCollaborating from Vermont. Works in electron\nmicroscopy. She will be coming to Palo Alto\nto work for six months on EM immunocytochemi-\ncal localization of guanylate cyclase.\nLarry Simons, Ph.D.\nMember of Stanford faculty who has shown an in-\nterest in the Murad program and may be joining"
+}

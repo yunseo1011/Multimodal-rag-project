@@ -1,0 +1,701 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0673.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Bellomy-Carrigg.Inc.",
+      "bbox": [
+        0,
+        11,
+        246,
+        47
+      ],
+      "confidence": 0.993842601776123
+    },
+    {
+      "text": "3",
+      "bbox": [
+        587,
+        17,
+        635,
+        64
+      ],
+      "confidence": 0.9987713694572449
+    },
+    {
+      "text": "Job #0906",
+      "bbox": [
+        668,
+        21,
+        742,
+        40
+      ],
+      "confidence": 0.9826231002807617
+    },
+    {
+      "text": " UNIVERSITY PARKWAY",
+      "bbox": [
+        0,
+        32,
+        173,
+        55
+      ],
+      "confidence": 0.8984348773956299
+    },
+    {
+      "text": "VINSTONSALEM. N.C. 27100K",
+      "bbox": [
+        0,
+        42,
+        173,
+        66
+      ],
+      "confidence": 0.9186321496963501
+    },
+    {
+      "text": "October, 1984",
+      "bbox": [
+        672,
+        40,
+        775,
+        57
+      ],
+      "confidence": 0.9834493398666382
+    },
+    {
+      "text": "1305",
+      "bbox": [
+        342,
+        55,
+        411,
+        88
+      ],
+      "confidence": 0.9999822974205017
+    },
+    {
+      "text": "(1 - 4)",
+      "bbox": [
+        360,
+        97,
+        417,
+        111
+      ],
+      "confidence": 0.8011115789413452
+    },
+    {
+      "text": "5-1",
+      "bbox": [
+        701,
+        105,
+        735,
+        127
+      ],
+      "confidence": 0.96226567029953
+    },
+    {
+      "text": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+      "bbox": [
+        249,
+        117,
+        529,
+        135
+      ],
+      "confidence": 0.9993937015533447
+    },
+    {
+      "text": "Debbie Pierce",
+      "bbox": [
+        227,
+        157,
+        456,
+        185
+      ],
+      "confidence": 0.9673420190811157
+    },
+    {
+      "text": "SCREENER",
+      "bbox": [
+        356,
+        143,
+        418,
+        154
+      ],
+      "confidence": 0.9998369216918945
+    },
+    {
+      "text": "RESPONDENT'S NAME:",
+      "bbox": [
+        23,
+        165,
+        176,
+        185
+      ],
+      "confidence": 0.9726876020431519
+    },
+    {
+      "text": "ADDRESS:27/ Dusians",
+      "bbox": [
+        20,
+        185,
+        297,
+        208
+      ],
+      "confidence": 0.7810925245285034
+    },
+    {
+      "text": "cIrx:Ionalioida",
+      "bbox": [
+        341,
+        190,
+        522,
+        210
+      ],
+      "confidence": 0.6913339495658875
+    },
+    {
+      "text": "STATE:",
+      "bbox": [
+        535,
+        194,
+        588,
+        211
+      ],
+      "confidence": 0.998877763748169
+    },
+    {
+      "text": "14= =3",
+      "bbox": [
+        605,
+        189,
+        690,
+        212
+      ],
+      "confidence": 0.6468287110328674
+    },
+    {
+      "text": "AREA CODE:(PHONE:",
+      "bbox": [
+        18,
+        207,
+        240,
+        234
+      ],
+      "confidence": 0.9912152886390686
+    },
+    {
+      "text": "838",
+      "bbox": [
+        290,
+        210,
+        353,
+        231
+      ],
+      "confidence": 0.9146199822425842
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        352,
+        212,
+        423,
+        230
+      ],
+      "confidence": 0.9673466086387634
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        535,
+        217,
+        580,
+        235
+      ],
+      "confidence": 0.9977285265922546
+    },
+    {
+      "text": "INTERVIEWED BY:",
+      "bbox": [
+        19,
+        236,
+        149,
+        255
+      ],
+      "confidence": 0.9964339733123779
+    },
+    {
+      "text": "ed",
+      "bbox": [
+        336,
+        236,
+        489,
+        255
+      ],
+      "confidence": 0.6314271092414856
+    },
+    {
+      "text": "(INTERVIEW WOMEN ONLY)",
+      "bbox": [
+        22,
+        269,
+        204,
+        291
+      ],
+      "confidence": 0.9846280813217163
+    },
+    {
+      "text": "Hello, I'm",
+      "bbox": [
+        16,
+        301,
+        110,
+        321
+      ],
+      "confidence": 0.9736925959587097
+    },
+    {
+      "text": "_from (YouR CoMPANY), an independent marketing research",
+      "bbox": [
+        320,
+        303,
+        746,
+        326
+      ],
+      "confidence": 0.9354862570762634
+    },
+    {
+      "text": "company. we're conducting a survey with women about various consumer products.",
+      "bbox": [
+        16,
+        314,
+        654,
+        338
+      ],
+      "confidence": 0.9766269326210022
+    },
+    {
+      "text": "(ASK TO SPEAK",
+      "bbox": [
+        666,
+        322,
+        769,
+        337
+      ],
+      "confidence": 0.9902026653289795
+    },
+    {
+      "text": "TO FEMALE 18+ YEARS OR OLDER.)",
+      "bbox": [
+        15,
+        326,
+        265,
+        349
+      ],
+      "confidence": 0.9693074822425842
+    },
+    {
+      "text": "l. Into which of the following age groups does your age belong?",
+      "bbox": [
+        12,
+        363,
+        545,
+        387
+      ],
+      "confidence": 0.9764016270637512
+    },
+    {
+      "text": "Are you.... (ReaD LIST)",
+      "bbox": [
+        547,
+        369,
+        724,
+        382
+      ],
+      "confidence": 0.8784204721450806
+    },
+    {
+      "text": "under 18.........",
+      "bbox": [
+        260,
+        397,
+        395,
+        414
+      ],
+      "confidence": 0.9561938047409058
+    },
+    {
+      "text": "TERMINATE, ERASE AND RE-USE",
+      "bbox": [
+        512,
+        397,
+        730,
+        415
+      ],
+      "confidence": 0.9986617565155029
+    },
+    {
+      "text": "_6-1",
+      "bbox": [
+        456,
+        426,
+        490,
+        448
+      ],
+      "confidence": 0.9645715355873108
+    },
+    {
+      "text": "18-24.....",
+      "bbox": [
+        260,
+        431,
+        344,
+        446
+      ],
+      "confidence": 0.9554324150085449
+    },
+    {
+      "text": "CHECK QUOTA TO DETERMINE IF",
+      "bbox": [
+        515,
+        438,
+        731,
+        452
+      ],
+      "confidence": 0.9793097376823425
+    },
+    {
+      "text": "25-34...",
+      "bbox": [
+        259,
+        450,
+        329,
+        467
+      ],
+      "confidence": 0.973111093044281
+    },
+    {
+      "text": "-2",
+      "bbox": [
+        466,
+        450,
+        489,
+        465
+      ],
+      "confidence": 0.9994059801101685
+    },
+    {
+      "text": "NEEDED. IF OVER QUOTA, ASK",
+      "bbox": [
+        515,
+        450,
+        731,
+        464
+      ],
+      "confidence": 0.9785301685333252
+    },
+    {
+      "text": "35-49...",
+      "bbox": [
+        259,
+        468,
+        328,
+        485
+      ],
+      "confidence": 0.9597994089126587
+    },
+    {
+      "text": "-3",
+      "bbox": [
+        465,
+        464,
+        490,
+        483
+      ],
+      "confidence": 0.9990260601043701
+    },
+    {
+      "text": "FOR ANOTHER FEMALE IN AGE",
+      "bbox": [
+        515,
+        462,
+        715,
+        476
+      ],
+      "confidence": 0.988666832447052
+    },
+    {
+      "text": "GROUP NEEDED.",
+      "bbox": [
+        515,
+        475,
+        620,
+        489
+      ],
+      "confidence": 0.9858048558235168
+    },
+    {
+      "text": "50+....",
+      "bbox": [
+        259,
+        488,
+        319,
+        502
+      ],
+      "confidence": 0.9721667170524597
+    },
+    {
+      "text": "-4",
+      "bbox": [
+        467,
+        488,
+        487,
+        500
+      ],
+      "confidence": 0.9952132105827332
+    },
+    {
+      "text": "TERMINATE, ERASE AND RE-USE",
+      "bbox": [
+        513,
+        514,
+        731,
+        532
+      ],
+      "confidence": 0.9845706820487976
+    },
+    {
+      "text": "Refused....",
+      "bbox": [
+        259,
+        519,
+        347,
+        533
+      ],
+      "confidence": 0.9692760705947876
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        18,
+        577,
+        41,
+        593
+      ],
+      "confidence": 0.9982978105545044
+    },
+    {
+      "text": "Which of the following products do you use daily?",
+      "bbox": [
+        59,
+        573,
+        454,
+        592
+      ],
+      "confidence": 0.9690007567405701
+    },
+    {
+      "text": "Breathmints.",
+      "bbox": [
+        261,
+        599,
+        359,
+        613
+      ],
+      "confidence": 0.9998025894165039
+    },
+    {
+      "text": "Mouthwash..",
+      "bbox": [
+        260,
+        617,
+        348,
+        631
+      ],
+      "confidence": 0.9939708709716797
+    },
+    {
+      "text": "Cigarettes.",
+      "bbox": [
+        262,
+        636,
+        352,
+        650
+      ],
+      "confidence": 0.9999067783355713
+    },
+    {
+      "text": "X",
+      "bbox": [
+        429,
+        634,
+        445,
+        647
+      ],
+      "confidence": 0.9643594622612
+    },
+    {
+      "text": "Gel toothpaste..",
+      "bbox": [
+        262,
+        654,
+        389,
+        668
+      ],
+      "confidence": 0.9971693754196167
+    },
+    {
+      "text": "Cream toothpaste....",
+      "bbox": [
+        263,
+        673,
+        422,
+        688
+      ],
+      "confidence": 0.9960964918136597
+    },
+    {
+      "text": "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. ",
+      "bbox": [
+        155,
+        699,
+        563,
+        718
+      ],
+      "confidence": 0.9935960173606873
+    },
+    {
+      "text": "ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.1.",
+      "bbox": [
+        155,
+        711,
+        657,
+        731
+      ],
+      "confidence": 0.9945675134658813
+    },
+    {
+      "text": "OTHERWISE,",
+      "bbox": [
+        557,
+        701,
+        640,
+        715
+      ],
+      "confidence": 0.9983609318733215
+    },
+    {
+      "text": "IF NONE, TERMINATE, ERASE AND RE-USE.",
+      "bbox": [
+        155,
+        724,
+        452,
+        744
+      ],
+      "confidence": 0.9844422340393066
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        22,
+        771,
+        43,
+        785
+      ],
+      "confidence": 0.996563196182251
+    },
+    {
+      "text": "Which of the following brands have you used in the past week?",
+      "bbox": [
+        60,
+        763,
+        550,
+        785
+      ],
+      "confidence": 0.9813170433044434
+    },
+    {
+      "text": "Certs breathmints...",
+      "bbox": [
+        223,
+        791,
+        383,
+        809
+      ],
+      "confidence": 0.9732720255851746
+    },
+    {
+      "text": "Clorets breathmints.",
+      "bbox": [
+        223,
+        810,
+        380,
+        827
+      ],
+      "confidence": 0.9993903040885925
+    },
+    {
+      "text": "Topal toothpaste..",
+      "bbox": [
+        223,
+        829,
+        363,
+        848
+      ],
+      "confidence": 0.9775935411453247
+    },
+    {
+      "text": "Aqua Fresh toothpaste..",
+      "bbox": [
+        222,
+        847,
+        402,
+        867
+      ],
+      "confidence": 0.9770208597183228
+    },
+    {
+      "text": "X",
+      "bbox": [
+        434,
+        848,
+        444,
+        859
+      ],
+      "confidence": 0.9861317873001099
+    },
+    {
+      "text": "Clinomint.",
+      "bbox": [
+        226,
+        870,
+        305,
+        883
+      ],
+      "confidence": 0.9474788904190063
+    },
+    {
+      "text": "Scope.",
+      "bbox": [
+        227,
+        889,
+        275,
+        900
+      ],
+      "confidence": 0.9993019104003906
+    },
+    {
+      "text": "Listerine.",
+      "bbox": [
+        227,
+        907,
+        302,
+        918
+      ],
+      "confidence": 0.9954370260238647
+    }
+  ],
+  "full_text": "Bellomy-Carrigg.Inc.\n3\nJob #0906\n UNIVERSITY PARKWAY\nVINSTONSALEM. N.C. 27100K\nOctober, 1984\n1305\n(1 - 4)\n5-1\nAA EXTENDED USE CONCEPT/PRODUCT TEST\nDebbie Pierce\nSCREENER\nRESPONDENT'S NAME:\nADDRESS:27/ Dusians\ncIrx:Ionalioida\nSTATE:\n14= =3\nAREA CODE:(PHONE:\n838\n1991\nDATE:\nINTERVIEWED BY:\ned\n(INTERVIEW WOMEN ONLY)\nHello, I'm\n_from (YouR CoMPANY), an independent marketing research\ncompany. we're conducting a survey with women about various consumer products.\n(ASK TO SPEAK\nTO FEMALE 18+ YEARS OR OLDER.)\nl. Into which of the following age groups does your age belong?\nAre you.... (ReaD LIST)\nunder 18.........\nTERMINATE, ERASE AND RE-USE\n_6-1\n18-24.....\nCHECK QUOTA TO DETERMINE IF\n25-34...\n-2\nNEEDED. IF OVER QUOTA, ASK\n35-49...\n-3\nFOR ANOTHER FEMALE IN AGE\nGROUP NEEDED.\n50+....\n-4\nTERMINATE, ERASE AND RE-USE\nRefused....\n2.\nWhich of the following products do you use daily?\nBreathmints.\nMouthwash..\nCigarettes.\nX\nGel toothpaste..\nCream toothpaste....\nCONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. \nASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.1.\nOTHERWISE,\nIF NONE, TERMINATE, ERASE AND RE-USE.\n3.\nWhich of the following brands have you used in the past week?\nCerts breathmints...\nClorets breathmints.\nTopal toothpaste..\nAqua Fresh toothpaste..\nX\nClinomint.\nScope.\nListerine."
+}

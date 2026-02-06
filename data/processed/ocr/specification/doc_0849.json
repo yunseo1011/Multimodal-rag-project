@@ -1,0 +1,811 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0849.png",
+    "image_width": 785,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Material Safety Data Sheet",
+      "bbox": [
+        0,
+        0,
+        194,
+        18
+      ],
+      "confidence": 0.9853668212890625
+    },
+    {
+      "text": "000009345",
+      "bbox": [
+        354,
+        0,
+        456,
+        12
+      ],
+      "confidence": 0.9974647164344788
+    },
+    {
+      "text": "Required under USDL Safety and Health Regulations",
+      "bbox": [
+        0,
+        12,
+        248,
+        36
+      ],
+      "confidence": 0.9831838607788086
+    },
+    {
+      "text": "for Shipyard Employment (29 CFR 1915)",
+      "bbox": [
+        0,
+        27,
+        190,
+        48
+      ],
+      "confidence": 0.9959352016448975
+    },
+    {
+      "text": "MSD",
+      "bbox": [
+        288,
+        51,
+        345,
+        62
+      ],
+      "confidence": 0.990715503692627
+    },
+    {
+      "text": "Expiration Date 05/31/86",
+      "bbox": [
+        625,
+        51,
+        743,
+        70
+      ],
+      "confidence": 0.9981649518013
+    },
+    {
+      "text": "OMB No. 1218-0074",
+      "bbox": [
+        644,
+        39,
+        743,
+        57
+      ],
+      "confidence": 0.9645766019821167
+    },
+    {
+      "text": "Sectlon I",
+      "bbox": [
+        0,
+        102,
+        47,
+        119
+      ],
+      "confidence": 0.9077603220939636
+    },
+    {
+      "text": "Manufacturer's Name",
+      "bbox": [
+        0,
+        117,
+        103,
+        135
+      ],
+      "confidence": 0.9748997092247009
+    },
+    {
+      "text": "Emergency Telephone Number",
+      "bbox": [
+        596,
+        118,
+        742,
+        134
+      ],
+      "confidence": 0.9849089980125427
+    },
+    {
+      "text": "TAKASAGO CORPORATION USA",
+      "bbox": [
+        44,
+        131,
+        246,
+        151
+      ],
+      "confidence": 0.9991328716278076
+    },
+    {
+      "text": "201-288-1401",
+      "bbox": [
+        438,
+        132,
+        533,
+        146
+      ],
+      "confidence": 0.9997727274894714
+    },
+    {
+      "text": "Address (Number, Street, City, State, and ZiIP Code)",
+      "bbox": [
+        0,
+        145,
+        246,
+        166
+      ],
+      "confidence": 0.9462980628013611
+    },
+    {
+      "text": "100 Green St. Teterboro, NJ 070608",
+      "bbox": [
+        44,
+        154,
+        330,
+        182
+      ],
+      "confidence": 0.9541877508163452
+    },
+    {
+      "text": "Chemical Name",
+      "bbox": [
+        366,
+        149,
+        441,
+        164
+      ],
+      "confidence": 0.9996432065963745
+    },
+    {
+      "text": "and Synonyms",
+      "bbox": [
+        367,
+        161,
+        436,
+        175
+      ],
+      "confidence": 0.9975523352622986
+    },
+    {
+      "text": "Trade Name",
+      "bbox": [
+        366,
+        177,
+        425,
+        192
+      ],
+      "confidence": 0.9624377489089966
+    },
+    {
+      "text": "and Synonyms",
+      "bbox": [
+        366,
+        190,
+        436,
+        204
+      ],
+      "confidence": 0.9732462763786316
+    },
+    {
+      "text": "Family",
+      "bbox": [
+        364,
+        216,
+        400,
+        234
+      ],
+      "confidence": 0.9974970817565918
+    },
+    {
+      "text": "Chemical",
+      "bbox": [
+        366,
+        205,
+        412,
+        220
+      ],
+      "confidence": 0.9981156587600708
+    },
+    {
+      "text": "flavor",
+      "bbox": [
+        445,
+        212,
+        497,
+        229
+      ],
+      "confidence": 0.9994698166847229
+    },
+    {
+      "text": "Formula",
+      "bbox": [
+        551,
+        204,
+        595,
+        219
+      ],
+      "confidence": 0.9993719458580017
+    },
+    {
+      "text": "Sectlon II-Hazardous Ingredients",
+      "bbox": [
+        0,
+        232,
+        168,
+        250
+      ],
+      "confidence": 0.9708561897277832
+    },
+    {
+      "text": "Palnts, Preservatives, and Solvents",
+      "bbox": [
+        0,
+        260,
+        176,
+        277
+      ],
+      "confidence": 0.9733436703681946
+    },
+    {
+      "text": "%",
+      "bbox": [
+        660,
+        261,
+        675,
+        274
+      ],
+      "confidence": 0.999021053314209
+    },
+    {
+      "text": "TLV (Units)",
+      "bbox": [
+        682,
+        260,
+        738,
+        274
+      ],
+      "confidence": 0.986240565776825
+    },
+    {
+      "text": "Pigments",
+      "bbox": [
+        0,
+        277,
+        45,
+        292
+      ],
+      "confidence": 0.9444482922554016
+    },
+    {
+      "text": "%",
+      "bbox": [
+        289,
+        264,
+        303,
+        276
+      ],
+      "confidence": 0.6743621826171875
+    },
+    {
+      "text": "TLV (Units) Alloys and Metallic Coatings",
+      "bbox": [
+        312,
+        263,
+        507,
+        276
+      ],
+      "confidence": 0.9826489686965942
+    },
+    {
+      "text": "Base Meta!",
+      "bbox": [
+        368,
+        277,
+        424,
+        293
+      ],
+      "confidence": 0.9657801389694214
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        193,
+        283,
+        225,
+        303
+      ],
+      "confidence": 0.9977509379386902
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        598,
+        280,
+        630,
+        300
+      ],
+      "confidence": 0.9965384006500244
+    },
+    {
+      "text": "Catalyst",
+      "bbox": [
+        0,
+        305,
+        42,
+        326
+      ],
+      "confidence": 0.9998878836631775
+    },
+    {
+      "text": "Alloys",
+      "bbox": [
+        367,
+        309,
+        402,
+        328
+      ],
+      "confidence": 0.999396026134491
+    },
+    {
+      "text": "Vehicle",
+      "bbox": [
+        0,
+        338,
+        37,
+        356
+      ],
+      "confidence": 0.9993414878845215
+    },
+    {
+      "text": "Metaflic Coatings",
+      "bbox": [
+        369,
+        342,
+        450,
+        356
+      ],
+      "confidence": 0.9270825386047363
+    },
+    {
+      "text": "Solvents",
+      "bbox": [
+        0,
+        370,
+        43,
+        390
+      ],
+      "confidence": 0.9989075660705566
+    },
+    {
+      "text": "Plus Coating or Core Flux",
+      "bbox": [
+        368,
+        382,
+        491,
+        400
+      ],
+      "confidence": 0.9618352651596069
+    },
+    {
+      "text": "Filler Metal",
+      "bbox": [
+        369,
+        374,
+        423,
+        388
+      ],
+      "confidence": 0.9995171427726746
+    },
+    {
+      "text": "Additives",
+      "bbox": [
+        0,
+        402,
+        47,
+        423
+      ],
+      "confidence": 0.9838321208953857
+    },
+    {
+      "text": "Others",
+      "bbox": [
+        367,
+        403,
+        406,
+        425
+      ],
+      "confidence": 0.944171130657196
+    },
+    {
+      "text": "Others",
+      "bbox": [
+        0,
+        434,
+        36,
+        455
+      ],
+      "confidence": 0.9985644221305847
+    },
+    {
+      "text": ">",
+      "bbox": [
+        198,
+        435,
+        210,
+        453
+      ],
+      "confidence": 0.8397362232208252
+    },
+    {
+      "text": "Hazardous Mixtures of Other Liqulds, Solids or Gases",
+      "bbox": [
+        0,
+        471,
+        267,
+        484
+      ],
+      "confidence": 0.9787480235099792
+    },
+    {
+      "text": "%",
+      "bbox": [
+        663,
+        480,
+        678,
+        493
+      ],
+      "confidence": 0.9971375465393066
+    },
+    {
+      "text": "TLV (Units)",
+      "bbox": [
+        684,
+        479,
+        743,
+        493
+      ],
+      "confidence": 0.9979972839355469
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        379,
+        504,
+        414,
+        528
+      ],
+      "confidence": 0.9961050152778625
+    },
+    {
+      "text": "Sectlon II-Physical Data",
+      "bbox": [
+        0,
+        593,
+        125,
+        610
+      ],
+      "confidence": 0.9304230809211731
+    },
+    {
+      "text": "Boiling Point (*°F)",
+      "bbox": [
+        0,
+        610,
+        77,
+        624
+      ],
+      "confidence": 0.9410271048545837
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        289,
+        617,
+        326,
+        642
+      ],
+      "confidence": 0.9984285235404968
+    },
+    {
+      "text": "Specific Gravity (H2O= 1)",
+      "bbox": [
+        369,
+        609,
+        491,
+        626
+      ],
+      "confidence": 0.9016233682632446
+    },
+    {
+      "text": "Vapor Pressure (mm Hg.)",
+      "bbox": [
+        0,
+        640,
+        118,
+        657
+      ],
+      "confidence": 0.9726588129997253
+    },
+    {
+      "text": "Percent Volatile by Volume (%)",
+      "bbox": [
+        367,
+        641,
+        515,
+        659
+      ],
+      "confidence": 0.9723796248435974
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        670,
+        649,
+        706,
+        672
+      ],
+      "confidence": 0.9944062829017639
+    },
+    {
+      "text": "2057412443",
+      "bbox": [
+        737,
+        642,
+        767,
+        797
+      ],
+      "confidence": 0.9997876882553101
+    },
+    {
+      "text": "Vapor Density (AIR=1)",
+      "bbox": [
+        0,
+        672,
+        103,
+        686
+      ],
+      "confidence": 0.9489645957946777
+    },
+    {
+      "text": "Evaporation Rate",
+      "bbox": [
+        369,
+        674,
+        453,
+        692
+      ],
+      "confidence": 0.9705193042755127
+    },
+    {
+      "text": "=1",
+      "bbox": [
+        498,
+        685,
+        529,
+        706
+      ],
+      "confidence": 0.9581748247146606
+    },
+    {
+      "text": "Solubility in Water",
+      "bbox": [
+        0,
+        706,
+        81,
+        720
+      ],
+      "confidence": 0.9774375557899475
+    },
+    {
+      "text": "soluble in water",
+      "bbox": [
+        106,
+        714,
+        240,
+        733
+      ],
+      "confidence": 0.9950555562973022
+    },
+    {
+      "text": "Appearance and Odor",
+      "bbox": [
+        0,
+        738,
+        103,
+        752
+      ],
+      "confidence": 0.9922825694084167
+    },
+    {
+      "text": "Brown liquid with the chacacteristis odor.",
+      "bbox": [
+        77,
+        753,
+        497,
+        778
+      ],
+      "confidence": 0.9707726240158081
+    },
+    {
+      "text": "Section IV-Fire and Explosion Hazard Data",
+      "bbox": [
+        0,
+        769,
+        215,
+        788
+      ],
+      "confidence": 0.99131178855896
+    },
+    {
+      "text": "Flash Point (Method Used)",
+      "bbox": [
+        0,
+        784,
+        123,
+        804
+      ],
+      "confidence": 0.9475568532943726
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        142,
+        792,
+        179,
+        816
+      ],
+      "confidence": 0.9983370900154114
+    },
+    {
+      "text": "Flammable Limits",
+      "bbox": [
+        369,
+        789,
+        453,
+        803
+      ],
+      "confidence": 0.9746100902557373
+    },
+    {
+      "text": "Le!",
+      "bbox": [
+        574,
+        790,
+        596,
+        806
+      ],
+      "confidence": 0.9990279674530029
+    },
+    {
+      "text": "Uel",
+      "bbox": [
+        658,
+        790,
+        680,
+        806
+      ],
+      "confidence": 0.9996009469032288
+    },
+    {
+      "text": "Extinguishing Media",
+      "bbox": [
+        0,
+        815,
+        93,
+        835
+      ],
+      "confidence": 0.9747751951217651
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        423,
+        803,
+        457,
+        824
+      ],
+      "confidence": 0.9938225746154785
+    },
+    {
+      "text": "CO2, SAND, DRY CHEMICALS, WATER FOG",
+      "bbox": [
+        46,
+        834,
+        339,
+        856
+      ],
+      "confidence": 0.9716264009475708
+    },
+    {
+      "text": "Special Fire Fighting Procedures",
+      "bbox": [
+        0,
+        850,
+        152,
+        869
+      ],
+      "confidence": 0.9826503992080688
+    },
+    {
+      "text": "CEIVE",
+      "bbox": [
+        643,
+        862,
+        758,
+        890
+      ],
+      "confidence": 0.9433423280715942
+    },
+    {
+      "text": "STANDARD FIRE FIGHTING PROCEDURES",
+      "bbox": [
+        46,
+        869,
+        323,
+        888
+      ],
+      "confidence": 0.988349437713623
+    },
+    {
+      "text": "JUN 2 19",
+      "bbox": [
+        637,
+        902,
+        737,
+        935
+      ],
+      "confidence": 0.8516072034835815
+    },
+    {
+      "text": "Jnusual Fire and Explosion Hazards",
+      "bbox": [
+        0,
+        919,
+        169,
+        933
+      ],
+      "confidence": 0.9754775762557983
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        45,
+        934,
+        78,
+        954
+      ],
+      "confidence": 0.9911487698554993
+    },
+    {
+      "text": "PURCHASING DEPT.",
+      "bbox": [
+        627,
+        947,
+        738,
+        968
+      ],
+      "confidence": 0.9979922771453857
+    },
+    {
+      "text": "PHILIP MORRIS, INC.",
+      "bbox": [
+        627,
+        960,
+        739,
+        979
+      ],
+      "confidence": 0.9604891538619995
+    },
+    {
+      "text": "Page 1 (Continued on Reverse Side)",
+      "bbox": [
+        284,
+        987,
+        463,
+        1000
+      ],
+      "confidence": 0.9859278202056885
+    }
+  ],
+  "full_text": "Material Safety Data Sheet\n000009345\nRequired under USDL Safety and Health Regulations\nfor Shipyard Employment (29 CFR 1915)\nMSD\nExpiration Date 05/31/86\nOMB No. 1218-0074\nSectlon I\nManufacturer's Name\nEmergency Telephone Number\nTAKASAGO CORPORATION USA\n201-288-1401\nAddress (Number, Street, City, State, and ZiIP Code)\n100 Green St. Teterboro, NJ 070608\nChemical Name\nand Synonyms\nTrade Name\nand Synonyms\nFamily\nChemical\nflavor\nFormula\nSectlon II-Hazardous Ingredients\nPalnts, Preservatives, and Solvents\n%\nTLV (Units)\nPigments\n%\nTLV (Units) Alloys and Metallic Coatings\nBase Meta!\nN/A\nN/A\nCatalyst\nAlloys\nVehicle\nMetaflic Coatings\nSolvents\nPlus Coating or Core Flux\nFiller Metal\nAdditives\nOthers\nOthers\n>\nHazardous Mixtures of Other Liqulds, Solids or Gases\n%\nTLV (Units)\nN/A\nSectlon II-Physical Data\nBoiling Point (*°F)\nN/A\nSpecific Gravity (H2O= 1)\nVapor Pressure (mm Hg.)\nPercent Volatile by Volume (%)\nN/A\n2057412443\nVapor Density (AIR=1)\nEvaporation Rate\n=1\nSolubility in Water\nsoluble in water\nAppearance and Odor\nBrown liquid with the chacacteristis odor.\nSection IV-Fire and Explosion Hazard Data\nFlash Point (Method Used)\nN/A\nFlammable Limits\nLe!\nUel\nExtinguishing Media\nN/A\nCO2, SAND, DRY CHEMICALS, WATER FOG\nSpecial Fire Fighting Procedures\nCEIVE\nSTANDARD FIRE FIGHTING PROCEDURES\nJUN 2 19\nJnusual Fire and Explosion Hazards\nN/A\nPURCHASING DEPT.\nPHILIP MORRIS, INC.\nPage 1 (Continued on Reverse Side)"
+}

@@ -1,0 +1,921 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0712.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SLP 261G:5",
+      "bbox": [
+        454,
+        37,
+        531,
+        89
+      ],
+      "confidence": 0.6826793551445007
+    },
+    {
+      "text": "KSD",
+      "bbox": [
+        459,
+        31,
+        498,
+        61
+      ],
+      "confidence": 0.6963066458702087
+    },
+    {
+      "text": "EA.R.D.",
+      "bbox": [
+        481,
+        67,
+        523,
+        100
+      ],
+      "confidence": 0.6429504156112671
+    },
+    {
+      "text": "Merket Faets, Ine., Len Snuth Wacker Drivs, Chscngo, sitise-in 50606",
+      "bbox": [
+        110,
+        92,
+        435,
+        106
+      ],
+      "confidence": 0.8424718379974365
+    },
+    {
+      "text": "Jeb Pe",
+      "bbox": [
+        558,
+        94,
+        593,
+        104
+      ],
+      "confidence": 0.8379924893379211
+    },
+    {
+      "text": "75-166",
+      "bbox": [
+        619,
+        108,
+        654,
+        121
+      ],
+      "confidence": 0.8871532082557678
+    },
+    {
+      "text": "SCREENING FORM",
+      "bbox": [
+        290,
+        128,
+        380,
+        140
+      ],
+      "confidence": 0.9567267298698425
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        580,
+        132,
+        595,
+        140
+      ],
+      "confidence": 0.7499842643737793
+    },
+    {
+      "text": "Market Facts' Rept.",
+      "bbox": [
+        138,
+        159,
+        236,
+        172
+      ],
+      "confidence": 0.9291471242904663
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        380,
+        171,
+        405,
+        183
+      ],
+      "confidence": 0.9846095442771912
+    },
+    {
+      "text": "p'leld Station",
+      "bbox": [
+        140,
+        174,
+        200,
+        185
+      ],
+      "confidence": 0.8910894989967346
+    },
+    {
+      "text": "Heilo! My nime is",
+      "bbox": [
+        138,
+        215,
+        231,
+        228
+      ],
+      "confidence": 0.9006956219673157
+    },
+    {
+      "text": "and I'm representing Marie: Faxtn, toc. We're cenctucting a researct",
+      "bbox": [
+        255,
+        213,
+        577,
+        227
+      ],
+      "confidence": 0.9222356677055359
+    },
+    {
+      "text": "Afe you, any of yeur relatives or clot, friemio associated with an adversiting or researchs",
+      "bbox": [
+        172,
+        246,
+        585,
+        260
+      ],
+      "confidence": 0.9261676669120789
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        140,
+        251,
+        152,
+        260
+      ],
+      "confidence": 0.9348200559616089
+    },
+    {
+      "text": "compuny or a company that makes cigsreltes?",
+      "bbox": [
+        172,
+        257,
+        384,
+        271
+      ],
+      "confidence": 0.9482999444007874
+    },
+    {
+      "text": "Yes : (TERMINATEI",
+      "bbox": [
+        234,
+        269,
+        346,
+        284
+      ],
+      "confidence": 0.8813759684562683
+    },
+    {
+      "text": "No",
+      "bbox": [
+        385,
+        271,
+        403,
+        283
+      ],
+      "confidence": 0.9956676959991455
+    },
+    {
+      "text": "2",
+      "bbox": [
+        414,
+        271,
+        424,
+        281
+      ],
+      "confidence": 0.9996289014816284
+    },
+    {
+      "text": "Do you smake cigaretites\"",
+      "bbox": [
+        172,
+        288,
+        293,
+        305
+      ],
+      "confidence": 0.9195403456687927
+    },
+    {
+      "text": "2o.",
+      "bbox": [
+        139,
+        293,
+        158,
+        304
+      ],
+      "confidence": 0.7763874530792236
+    },
+    {
+      "text": "Yes 1 (SKIP TO QUESTION 3)",
+      "bbox": [
+        235,
+        303,
+        386,
+        317
+      ],
+      "confidence": 0.9121994376182556
+    },
+    {
+      "text": "No",
+      "bbox": [
+        405,
+        304,
+        423,
+        316
+      ],
+      "confidence": 0.9818813800811768
+    },
+    {
+      "text": "2",
+      "bbox": [
+        439,
+        305,
+        446,
+        315
+      ],
+      "confidence": 0.9997151494026184
+    },
+    {
+      "text": "Zb. Is there anyone elce heme whe smokes ciga reties?",
+      "bbox": [
+        172,
+        323,
+        428,
+        338
+      ],
+      "confidence": 0.9416097402572632
+    },
+    {
+      "text": "Yes I",
+      "bbox": [
+        274,
+        339,
+        306,
+        349
+      ],
+      "confidence": 0.8114886283874512
+    },
+    {
+      "text": "(ASK TO SFEAK TO THAT PERSON.",
+      "bbox": [
+        314,
+        338,
+        481,
+        350
+      ],
+      "confidence": 0.9898687601089478
+    },
+    {
+      "text": "1F NOT AVAILABLE, TERMINATEI",
+      "bbox": [
+        316,
+        348,
+        484,
+        361
+      ],
+      "confidence": 0.9647179841995239
+    },
+    {
+      "text": "No",
+      "bbox": [
+        274,
+        362,
+        291,
+        374
+      ],
+      "confidence": 0.9601279497146606
+    },
+    {
+      "text": "2",
+      "bbox": [
+        295,
+        364,
+        305,
+        372
+      ],
+      "confidence": 0.9946434497833252
+    },
+    {
+      "text": "(TERMINAIE)",
+      "bbox": [
+        314,
+        362,
+        380,
+        373
+      ],
+      "confidence": 0.9378550052642822
+    },
+    {
+      "text": "Aboul how many packe of elgarettee would you say you have srnoiced in the past week\"",
+      "bbox": [
+        172,
+        380,
+        563,
+        396
+      ],
+      "confidence": 0.9466687440872192
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        140,
+        384,
+        154,
+        396
+      ],
+      "confidence": 0.673681378364563
+    },
+    {
+      "text": "No. of Packs:",
+      "bbox": [
+        227,
+        397,
+        292,
+        408
+      ],
+      "confidence": 0.9917510151863098
+    },
+    {
+      "text": "(TERMINATE IF LISS THAN FOUR PACKS)",
+      "bbox": [
+        338,
+        397,
+        543,
+        410
+      ],
+      "confidence": 0.9281929135322571
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        140,
+        418,
+        154,
+        430
+      ],
+      "confidence": 0.9803205728530884
+    },
+    {
+      "text": "What brand al cigaretics do yoe smoke mont often?",
+      "bbox": [
+        175,
+        417,
+        406,
+        427
+      ],
+      "confidence": 0.9263377785682678
+    },
+    {
+      "text": "Vicerey",
+      "bbox": [
+        245,
+        426,
+        284,
+        438
+      ],
+      "confidence": 0.9022159576416016
+    },
+    {
+      "text": "Raln ig)",
+      "bbox": [
+        245,
+        436,
+        283,
+        448
+      ],
+      "confidence": 0.8289669752120972
+    },
+    {
+      "text": "Maribero",
+      "bbox": [
+        245,
+        447,
+        292,
+        458
+      ],
+      "confidence": 0.9384779334068298
+    },
+    {
+      "text": "Wies ion",
+      "bbox": [
+        245,
+        456,
+        285,
+        467
+      ],
+      "confidence": 0.8284007906913757
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        244,
+        465,
+        276,
+        479
+      ],
+      "confidence": 0.995810329914093
+    },
+    {
+      "text": ", (7ERMINATE) Specify on Call Rccord Sheet.",
+      "bbox": [
+        330,
+        462,
+        543,
+        476
+      ],
+      "confidence": 0.9329891800880432
+    },
+    {
+      "text": "Io the izcame nRaNDi yeu smoke most eltgn a menihol or a non-menthol cigarelte?",
+      "bbox": [
+        172,
+        485,
+        553,
+        499
+      ],
+      "confidence": 0.8950610756874084
+    },
+    {
+      "text": "5s.",
+      "bbox": [
+        138,
+        489,
+        157,
+        500
+      ],
+      "confidence": 0.9643061757087708
+    },
+    {
+      "text": "MeNthOl I (TERMINATE)",
+      "bbox": [
+        218,
+        502,
+        349,
+        512
+      ],
+      "confidence": 0.8780359625816345
+    },
+    {
+      "text": "Non-menthel",
+      "bbox": [
+        392,
+        499,
+        454,
+        511
+      ],
+      "confidence": 0.9562163949012756
+    },
+    {
+      "text": "2",
+      "bbox": [
+        462,
+        502,
+        472,
+        510
+      ],
+      "confidence": 0.9988595247268677
+    },
+    {
+      "text": "Sb.",
+      "bbox": [
+        140,
+        521,
+        158,
+        532
+      ],
+      "confidence": 0.7825815081596375
+    },
+    {
+      "text": "Is the INamE ERAND) you stmoke most often e fslter or a ncn-flixer cigaretse?",
+      "bbox": [
+        174,
+        518,
+        528,
+        532
+      ],
+      "confidence": 0.8910024166107178
+    },
+    {
+      "text": "Fliter",
+      "bbox": [
+        219,
+        533,
+        251,
+        547
+      ],
+      "confidence": 0.9558307528495789
+    },
+    {
+      "text": "1",
+      "bbox": [
+        268,
+        535,
+        276,
+        544
+      ],
+      "confidence": 0.9769257307052612
+    },
+    {
+      "text": "Nem-NRET 2 (TERMINA TE)",
+      "bbox": [
+        352,
+        534,
+        490,
+        544
+      ],
+      "confidence": 0.8945107460021973
+    },
+    {
+      "text": "6a.",
+      "bbox": [
+        140,
+        555,
+        158,
+        567
+      ],
+      "confidence": 0.9538066983222961
+    },
+    {
+      "text": "(SHOW LABELS APPROPPIATF: TO DRAND SMOKED MOST OFTEN) WHch ef the label•",
+      "bbox": [
+        171,
+        554,
+        590,
+        571
+      ],
+      "confidence": 0.9244131445884705
+    },
+    {
+      "text": "on thlo page is the (NAME anaND) you smeke mort often?",
+      "bbox": [
+        170,
+        564,
+        443,
+        579
+      ],
+      "confidence": 0.851211428642273
+    },
+    {
+      "text": "Kinge I",
+      "bbox": [
+        223,
+        582,
+        267,
+        593
+      ],
+      "confidence": 0.8681573271751404
+    },
+    {
+      "text": ", LeNgs 2 (TERMINATE)",
+      "bbox": [
+        346,
+        581,
+        469,
+        594
+      ],
+      "confidence": 0.835517406463623
+    },
+    {
+      "text": "Arlde/14ghts",
+      "bbox": [
+        484,
+        581,
+        546,
+        591
+      ],
+      "confidence": 0.8018596768379211
+    },
+    {
+      "text": "3 (TERMINATE)",
+      "bbox": [
+        554,
+        581,
+        631,
+        591
+      ],
+      "confidence": 0.956645131111145
+    },
+    {
+      "text": "(Left Side)",
+      "bbox": [
+        223,
+        593,
+        275,
+        604
+      ],
+      "confidence": 0.959408164024353
+    },
+    {
+      "text": "(liddle)",
+      "bbox": [
+        350,
+        593,
+        390,
+        604
+      ],
+      "confidence": 0.8652223944664001
+    },
+    {
+      "text": "(Right Side)",
+      "bbox": [
+        484,
+        593,
+        540,
+        604
+      ],
+      "confidence": 0.9297237992286682
+    },
+    {
+      "text": "7e.",
+      "bbox": [
+        142,
+        619,
+        160,
+        630
+      ],
+      "confidence": 0.8473116755485535
+    },
+    {
+      "text": "Have you ever participated ina cigarette testing study belore?",
+      "bbox": [
+        176,
+        617,
+        458,
+        631
+      ],
+      "confidence": 0.9720221161842346
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        271,
+        633,
+        291,
+        644
+      ],
+      "confidence": 0.9968973994255066
+    },
+    {
+      "text": "No",
+      "bbox": [
+        271,
+        646,
+        290,
+        659
+      ],
+      "confidence": 0.9955086708068848
+    },
+    {
+      "text": "2 (SKIP QUESTIONS 7O AND 7c -. FILL OUT END OF",
+      "bbox": [
+        303,
+        645,
+        554,
+        659
+      ],
+      "confidence": 0.8885780572891235
+    },
+    {
+      "text": "10",
+      "bbox": [
+        642,
+        649,
+        657,
+        659
+      ],
+      "confidence": 0.894349992275238
+    },
+    {
+      "text": "SCREENING FORM AND CO CN TO PLACEMENT",
+      "bbox": [
+        318,
+        655,
+        545,
+        668
+      ],
+      "confidence": 0.9357908964157104
+    },
+    {
+      "text": "INS TRUCTIONS)",
+      "bbox": [
+        321,
+        667,
+        398,
+        679
+      ],
+      "confidence": 0.9168153405189514
+    },
+    {
+      "text": "70.",
+      "bbox": [
+        143,
+        686,
+        161,
+        698
+      ],
+      "confidence": 0.7858508229255676
+    },
+    {
+      "text": "(TERMINATE IF LESS TUAN 6 MONTHS AGO)",
+      "bbox": [
+        175,
+        691,
+        393,
+        707
+      ],
+      "confidence": 0.8639822602272034
+    },
+    {
+      "text": "Abuut how long ago was the last ciga tette ktudy yod touk part En?",
+      "bbox": [
+        176,
+        683,
+        468,
+        699
+      ],
+      "confidence": 0.9272551536560059
+    },
+    {
+      "text": "(WRITE IN)",
+      "bbox": [
+        486,
+        695,
+        541,
+        706
+      ],
+      "confidence": 0.8819387555122375
+    },
+    {
+      "text": "11",
+      "bbox": [
+        641,
+        686,
+        656,
+        700
+      ],
+      "confidence": 0.9821425080299377
+    },
+    {
+      "text": "7c.",
+      "bbox": [
+        143,
+        715,
+        161,
+        726
+      ],
+      "confidence": 0.9587433934211731
+    },
+    {
+      "text": "How many eigarette testine stadire incluling thas gme have yod pasticipated in?",
+      "bbox": [
+        176,
+        713,
+        531,
+        728
+      ],
+      "confidence": 0.9262989163398743
+    },
+    {
+      "text": "(TERMINATE IF MORE THAN))",
+      "bbox": [
+        179,
+        724,
+        328,
+        734
+      ],
+      "confidence": 0.966184675693512
+    },
+    {
+      "text": "AWHITEINI",
+      "bbox": [
+        537,
+        726,
+        592,
+        733
+      ],
+      "confidence": 0.8362594842910767
+    },
+    {
+      "text": "12",
+      "bbox": [
+        641,
+        716,
+        656,
+        728
+      ],
+      "confidence": 0.9970619082450867
+    },
+    {
+      "text": "Re*pondent's Name:",
+      "bbox": [
+        145,
+        757,
+        237,
+        767
+      ],
+      "confidence": 0.9366406202316284
+    },
+    {
+      "text": "Addresss",
+      "bbox": [
+        142,
+        772,
+        190,
+        789
+      ],
+      "confidence": 0.8993853330612183
+    },
+    {
+      "text": "City:",
+      "bbox": [
+        143,
+        793,
+        173,
+        807
+      ],
+      "confidence": 0.8632504343986511
+    },
+    {
+      "text": "State:",
+      "bbox": [
+        348,
+        792,
+        376,
+        807
+      ],
+      "confidence": 0.9270626902580261
+    },
+    {
+      "text": "Tel. No.",
+      "bbox": [
+        448,
+        794,
+        488,
+        805
+      ],
+      "confidence": 0.9895567893981934
+    },
+    {
+      "text": "(CHECK QUOTA SHEET. SELECT QUESTIONNAIRE BY SIRID AND READ PLACEMENT INSTRUCTIONS.'",
+      "bbox": [
+        145,
+        816,
+        632,
+        829
+      ],
+      "confidence": 0.9331592321395874
+    },
+    {
+      "text": "77501 58 2 7",
+      "bbox": [
+        217,
+        936,
+        448,
+        980
+      ],
+      "confidence": 0.9090973734855652
+    },
+    {
+      "text": "OTICE IF THE FILY IMAGE IS LKSS CLEAR",
+      "bbox": [
+        0,
+        947,
+        215,
+        960
+      ],
+      "confidence": 0.9513853192329407
+    },
+    {
+      "text": "HAN TBIS NOTICE. IT IS DUE TO THP.",
+      "bbox": [
+        0,
+        955,
+        193,
+        969
+      ],
+      "confidence": 0.9185376167297363
+    },
+    {
+      "text": "UALITY OF THE DMOCUNENT BEAK: FIEMED.",
+      "bbox": [
+        0,
+        965,
+        207,
+        978
+      ],
+      "confidence": 0.8654062151908875
+    }
+  ],
+  "full_text": "SLP 261G:5\nKSD\nEA.R.D.\nMerket Faets, Ine., Len Snuth Wacker Drivs, Chscngo, sitise-in 50606\nJeb Pe\n75-166\nSCREENING FORM\nNo.\nMarket Facts' Rept.\nDate\np'leld Station\nHeilo! My nime is\nand I'm representing Marie: Faxtn, toc. We're cenctucting a researct\nAfe you, any of yeur relatives or clot, friemio associated with an adversiting or researchs\n1.\ncompuny or a company that makes cigsreltes?\nYes : (TERMINATEI\nNo\n2\nDo you smake cigaretites\"\n2o.\nYes 1 (SKIP TO QUESTION 3)\nNo\n2\nZb. Is there anyone elce heme whe smokes ciga reties?\nYes I\n(ASK TO SFEAK TO THAT PERSON.\n1F NOT AVAILABLE, TERMINATEI\nNo\n2\n(TERMINAIE)\nAboul how many packe of elgarettee would you say you have srnoiced in the past week\"\nJ.\nNo. of Packs:\n(TERMINATE IF LISS THAN FOUR PACKS)\n4.\nWhat brand al cigaretics do yoe smoke mont often?\nVicerey\nRaln ig)\nMaribero\nWies ion\nOther\n, (7ERMINATE) Specify on Call Rccord Sheet.\nIo the izcame nRaNDi yeu smoke most eltgn a menihol or a non-menthol cigarelte?\n5s.\nMeNthOl I (TERMINATE)\nNon-menthel\n2\nSb.\nIs the INamE ERAND) you stmoke most often e fslter or a ncn-flixer cigaretse?\nFliter\n1\nNem-NRET 2 (TERMINA TE)\n6a.\n(SHOW LABELS APPROPPIATF: TO DRAND SMOKED MOST OFTEN) WHch ef the label•\non thlo page is the (NAME anaND) you smeke mort often?\nKinge I\n, LeNgs 2 (TERMINATE)\nArlde/14ghts\n3 (TERMINATE)\n(Left Side)\n(liddle)\n(Right Side)\n7e.\nHave you ever participated ina cigarette testing study belore?\nYes\nNo\n2 (SKIP QUESTIONS 7O AND 7c -. FILL OUT END OF\n10\nSCREENING FORM AND CO CN TO PLACEMENT\nINS TRUCTIONS)\n70.\n(TERMINATE IF LESS TUAN 6 MONTHS AGO)\nAbuut how long ago was the last ciga tette ktudy yod touk part En?\n(WRITE IN)\n11\n7c.\nHow many eigarette testine stadire incluling thas gme have yod pasticipated in?\n(TERMINATE IF MORE THAN))\nAWHITEINI\n12\nRe*pondent's Name:\nAddresss\nCity:\nState:\nTel. No.\n(CHECK QUOTA SHEET. SELECT QUESTIONNAIRE BY SIRID AND READ PLACEMENT INSTRUCTIONS.'\n77501 58 2 7\nOTICE IF THE FILY IMAGE IS LKSS CLEAR\nHAN TBIS NOTICE. IT IS DUE TO THP.\nUALITY OF THE DMOCUNENT BEAK: FIEMED."
+}

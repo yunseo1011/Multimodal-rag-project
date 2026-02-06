@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0748.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "March 29, 1995",
+      "bbox": [
+        327,
+        123,
+        428,
+        140
+      ],
+      "confidence": 0.9933913350105286
+    },
+    {
+      "text": "Tom Melendy",
+      "bbox": [
+        101,
+        190,
+        191,
+        211
+      ],
+      "confidence": 0.9987138509750366
+    },
+    {
+      "text": "R. J. Reynoids Tobacco Co.",
+      "bbox": [
+        101,
+        207,
+        281,
+        226
+      ],
+      "confidence": 0.9812891483306885
+    },
+    {
+      "text": "4143 Willow Lake Blvd.",
+      "bbox": [
+        101,
+        224,
+        252,
+        241
+      ],
+      "confidence": 0.9801023602485657
+    },
+    {
+      "text": "Memphis, TN 38118",
+      "bbox": [
+        100,
+        239,
+        237,
+        258
+      ],
+      "confidence": 0.9815583825111389
+    },
+    {
+      "text": "Dear Tom,",
+      "bbox": [
+        101,
+        273,
+        171,
+        291
+      ],
+      "confidence": 0.9996915459632874
+    },
+    {
+      "text": "We will run this year's Winston Customer Challenge Race on Wednesday, May 3, 1995",
+      "bbox": [
+        101,
+        307,
+        654,
+        325
+      ],
+      "confidence": 0.9782942533493042
+    },
+    {
+      "text": "at the Memphis Intemational Motorsports Park.",
+      "bbox": [
+        101,
+        325,
+        399,
+        342
+      ],
+      "confidence": 0.9835624694824219
+    },
+    {
+      "text": "The agenda for the event will be as follows:",
+      "bbox": [
+        100,
+        358,
+        378,
+        375
+      ],
+      "confidence": 0.9829400777816772
+    },
+    {
+      "text": "3:30 p.m.",
+      "bbox": [
+        145,
+        392,
+        208,
+        410
+      ],
+      "confidence": 0.9991211295127869
+    },
+    {
+      "text": "All meet in the Winston Suite at Memphis Dragway",
+      "bbox": [
+        238,
+        389,
+        561,
+        412
+      ],
+      "confidence": 0.988976776599884
+    },
+    {
+      "text": "4:00 p.m.",
+      "bbox": [
+        144,
+        407,
+        208,
+        428
+      ],
+      "confidence": 0.9986975789070129
+    },
+    {
+      "text": "Customer Challenge Race",
+      "bbox": [
+        238,
+        407,
+        409,
+        427
+      ],
+      "confidence": 0.9900245070457458
+    },
+    {
+      "text": "5:30 p.m.",
+      "bbox": [
+        143,
+        423,
+        209,
+        446
+      ],
+      "confidence": 0.9987199306488037
+    },
+    {
+      "text": "Awards Presentation",
+      "bbox": [
+        239,
+        426,
+        374,
+        444
+      ],
+      "confidence": 0.97491854429245
+    },
+    {
+      "text": "6:00 p.m.",
+      "bbox": [
+        142,
+        440,
+        210,
+        463
+      ],
+      "confidence": 0.948135495185852
+    },
+    {
+      "text": "Dinner in the Winston Suite",
+      "bbox": [
+        239,
+        443,
+        414,
+        460
+      ],
+      "confidence": 0.9852069616317749
+    },
+    {
+      "text": "All times are approximate.",
+      "bbox": [
+        142,
+        458,
+        313,
+        479
+      ],
+      "confidence": 0.9891796112060547
+    },
+    {
+      "text": "The prizes will be rewarded for places 1-8.",
+      "bbox": [
+        97,
+        491,
+        371,
+        512
+      ],
+      "confidence": 0.9941219687461853
+    },
+    {
+      "text": "1st place",
+      "bbox": [
+        143,
+        516,
+        208,
+        540
+      ],
+      "confidence": 0.9996618628501892
+    },
+    {
+      "text": "-",
+      "bbox": [
+        285,
+        526,
+        293,
+        535
+      ],
+      "confidence": 0.9563689827919006
+    },
+    {
+      "text": "Smokin Joe's Duffel Bag and Jacket",
+      "bbox": [
+        332,
+        519,
+        563,
+        536
+      ],
+      "confidence": 0.9800121188163757
+    },
+    {
+      "text": "2nd place",
+      "bbox": [
+        144,
+        535,
+        212,
+        553
+      ],
+      "confidence": 0.9996144771575928
+    },
+    {
+      "text": "Smokin' Joe's Jacket",
+      "bbox": [
+        330,
+        535,
+        466,
+        552
+      ],
+      "confidence": 0.9976820945739746
+    },
+    {
+      "text": "3rd - 4th places",
+      "bbox": [
+        144,
+        551,
+        249,
+        572
+      ],
+      "confidence": 0.9893143177032471
+    },
+    {
+      "text": "Smokin' Joe's Sweatshirt",
+      "bbox": [
+        331,
+        553,
+        492,
+        571
+      ],
+      "confidence": 0.9995521903038025
+    },
+    {
+      "text": "5th - 8th places",
+      "bbox": [
+        144,
+        568,
+        249,
+        589
+      ],
+      "confidence": 0.9917475581169128
+    },
+    {
+      "text": "Smokin' Joe's Polo Shirts",
+      "bbox": [
+        331,
+        571,
+        494,
+        588
+      ],
+      "confidence": 0.9982560873031616
+    },
+    {
+      "text": "We will also be taking pictures of each driver to place in a \"Certificate of Achievement.\"",
+      "bbox": [
+        96,
+        601,
+        652,
+        624
+      ],
+      "confidence": 0.9738225936889648
+    },
+    {
+      "text": "These wil be sent to you to forward on to your customers. I will need the names of all",
+      "bbox": [
+        96,
+        619,
+        647,
+        641
+      ],
+      "confidence": 0.9844257235527039
+    },
+    {
+      "text": "participants prior to May 3 in order to make name tags. Please fax a list to me at (910)",
+      "bbox": [
+        97,
+        636,
+        650,
+        659
+      ],
+      "confidence": 0.9742572903633118
+    },
+    {
+      "text": "741-7793.",
+      "bbox": [
+        96,
+        655,
+        166,
+        674
+      ],
+      "confidence": 0.9975041151046753
+    },
+    {
+      "text": "I will be arriving in Memphis at approximately 11:30 a.m. in order to prepare the suite.",
+      "bbox": [
+        95,
+        686,
+        641,
+        711
+      ],
+      "confidence": 0.9909508228302002
+    },
+    {
+      "text": "Eric Lotz (Marketing Services Manager - NHRA) will be overseeing the race as well as",
+      "bbox": [
+        96,
+        705,
+        646,
+        727
+      ],
+      "confidence": 0.9741122722625732
+    },
+    {
+      "text": "explaining all rules prior to the event.",
+      "bbox": [
+        97,
+        725,
+        335,
+        744
+      ],
+      "confidence": 0.9991068840026855
+    },
+    {
+      "text": "Please call me if you have any questions. I look forward to seeing you in May.",
+      "bbox": [
+        97,
+        757,
+        597,
+        777
+      ],
+      "confidence": 0.975399911403656
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        96,
+        793,
+        166,
+        815
+      ],
+      "confidence": 0.9790812730789185
+    },
+    {
+      "text": "51605 1533",
+      "bbox": [
+        697,
+        799,
+        715,
+        894
+      ],
+      "confidence": 0.9995533227920532
+    },
+    {
+      "text": "Mary W. Reynolds",
+      "bbox": [
+        96,
+        846,
+        220,
+        866
+      ],
+      "confidence": 0.9992927312850952
+    },
+    {
+      "text": "Sports Marketing Enterprises",
+      "bbox": [
+        96,
+        863,
+        286,
+        885
+      ],
+      "confidence": 0.999888002872467
+    },
+    {
+      "text": "cC:",
+      "bbox": [
+        95,
+        899,
+        121,
+        919
+      ],
+      "confidence": 0.7635167241096497
+    },
+    {
+      "text": "Rich Habegger",
+      "bbox": [
+        142,
+        897,
+        245,
+        922
+      ],
+      "confidence": 0.9998668432235718
+    },
+    {
+      "text": "Rick Hauser",
+      "bbox": [
+        144,
+        917,
+        227,
+        935
+      ],
+      "confidence": 0.9707416892051697
+    }
+  ],
+  "full_text": "March 29, 1995\nTom Melendy\nR. J. Reynoids Tobacco Co.\n4143 Willow Lake Blvd.\nMemphis, TN 38118\nDear Tom,\nWe will run this year's Winston Customer Challenge Race on Wednesday, May 3, 1995\nat the Memphis Intemational Motorsports Park.\nThe agenda for the event will be as follows:\n3:30 p.m.\nAll meet in the Winston Suite at Memphis Dragway\n4:00 p.m.\nCustomer Challenge Race\n5:30 p.m.\nAwards Presentation\n6:00 p.m.\nDinner in the Winston Suite\nAll times are approximate.\nThe prizes will be rewarded for places 1-8.\n1st place\n-\nSmokin Joe's Duffel Bag and Jacket\n2nd place\nSmokin' Joe's Jacket\n3rd - 4th places\nSmokin' Joe's Sweatshirt\n5th - 8th places\nSmokin' Joe's Polo Shirts\nWe will also be taking pictures of each driver to place in a \"Certificate of Achievement.\"\nThese wil be sent to you to forward on to your customers. I will need the names of all\nparticipants prior to May 3 in order to make name tags. Please fax a list to me at (910)\n741-7793.\nI will be arriving in Memphis at approximately 11:30 a.m. in order to prepare the suite.\nEric Lotz (Marketing Services Manager - NHRA) will be overseeing the race as well as\nexplaining all rules prior to the event.\nPlease call me if you have any questions. I look forward to seeing you in May.\nSincerely,\n51605 1533\nMary W. Reynolds\nSports Marketing Enterprises\ncC:\nRich Habegger\nRick Hauser"
+}

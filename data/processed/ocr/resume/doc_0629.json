@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0629.png",
+    "image_width": 775,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WILLIAM H. BEERS",
+      "bbox": [
+        305,
+        109,
+        455,
+        125
+      ],
+      "confidence": 0.9911614656448364
+    },
+    {
+      "text": "REDACTED",
+      "bbox": [
+        331,
+        139,
+        430,
+        158
+      ],
+      "confidence": 0.999940037727356
+    },
+    {
+      "text": "Administrative Experience",
+      "bbox": [
+        71,
+        226,
+        310,
+        244
+      ],
+      "confidence": 0.9980852007865906
+    },
+    {
+      "text": "1991 - Present",
+      "bbox": [
+        69,
+        255,
+        207,
+        275
+      ],
+      "confidence": 0.994837760925293
+    },
+    {
+      "text": "Senior Vice President, The Scripps Research Institute",
+      "bbox": [
+        69,
+        269,
+        567,
+        290
+      ],
+      "confidence": 0.9969154000282288
+    },
+    {
+      "text": "Secretary and Member, Board of Trustees",
+      "bbox": [
+        70,
+        285,
+        439,
+        304
+      ],
+      "confidence": 0.9836947321891785
+    },
+    {
+      "text": "1990 - 1991",
+      "bbox": [
+        69,
+        313,
+        179,
+        334
+      ],
+      "confidence": 0.9558465480804443
+    },
+    {
+      "text": "Senior Vice President for Research, Scripps clinic and Research",
+      "bbox": [
+        70,
+        329,
+        658,
+        347
+      ],
+      "confidence": 0.9920486211776733
+    },
+    {
+      "text": "Foundation",
+      "bbox": [
+        69,
+        343,
+        170,
+        363
+      ],
+      "confidence": 0.9990836977958679
+    },
+    {
+      "text": "1987 - 1991",
+      "bbox": [
+        69,
+        372,
+        179,
+        392
+      ],
+      "confidence": 0.9891331195831299
+    },
+    {
+      "text": "Associate Director, Research Institute of Scripps clinic",
+      "bbox": [
+        71,
+        389,
+        592,
+        406
+      ],
+      "confidence": 0.9939828515052795
+    },
+    {
+      "text": "Responsible for day-to-day operations of the Institute which has",
+      "bbox": [
+        71,
+        416,
+        667,
+        436
+      ],
+      "confidence": 0.9950710535049438
+    },
+    {
+      "text": "a staff of approximately i,300 employees, 50o of which hold",
+      "bbox": [
+        70,
+        430,
+        622,
+        453
+      ],
+      "confidence": 0.9728105068206787
+    },
+    {
+      "text": "advanced degrees. Coordinate and plan construction, renovation",
+      "bbox": [
+        70,
+        445,
+        659,
+        468
+      ],
+      "confidence": 0.9848548769950867
+    },
+    {
+      "text": "and installation of major equipment. Maintain coordination of",
+      "bbox": [
+        71,
+        461,
+        650,
+        482
+      ],
+      "confidence": 0.9912353157997131
+    },
+    {
+      "text": "activities with the parent organization, Scripps clinic and",
+      "bbox": [
+        70,
+        475,
+        623,
+        498
+      ],
+      "confidence": 0.987159788608551
+    },
+    {
+      "text": "Research Foundation. Supervise institutional support services,",
+      "bbox": [
+        70,
+        491,
+        656,
+        510
+      ],
+      "confidence": 0.9797857999801636
+    },
+    {
+      "text": "and have administrative responsibility for Animal Resources.",
+      "bbox": [
+        70,
+        506,
+        630,
+        525
+      ],
+      "confidence": 0.9912506937980652
+    },
+    {
+      "text": "Coordinate and negotiate various arrangements with industry and",
+      "bbox": [
+        71,
+        520,
+        659,
+        539
+      ],
+      "confidence": 0.9917707443237305
+    },
+    {
+      "text": "other institutions. Oversee budget and expenditures.",
+      "bbox": [
+        71,
+        535,
+        563,
+        554
+      ],
+      "confidence": 0.9869593381881714
+    },
+    {
+      "text": "Director of Underqraduate Studies, Department of Bioloqy, New",
+      "bbox": [
+        69,
+        589,
+        645,
+        613
+      ],
+      "confidence": 0.9808492660522461
+    },
+    {
+      "text": "1983 - 1987",
+      "bbox": [
+        71,
+        581,
+        178,
+        596
+      ],
+      "confidence": 0.9880748987197876
+    },
+    {
+      "text": "York University",
+      "bbox": [
+        69,
+        608,
+        215,
+        628
+      ],
+      "confidence": 0.9992950558662415
+    },
+    {
+      "text": "Was responsible for the academic, curricular and advisement",
+      "bbox": [
+        70,
+        635,
+        626,
+        657
+      ],
+      "confidence": 0.9946856498718262
+    },
+    {
+      "text": "components of the undergraduate program in biology.",
+      "bbox": [
+        70,
+        650,
+        548,
+        673
+      ],
+      "confidence": 0.99626225233078
+    },
+    {
+      "text": "Chairman, Department of Bioloqy, New York University",
+      "bbox": [
+        70,
+        708,
+        561,
+        731
+      ],
+      "confidence": 0.9696349501609802
+    },
+    {
+      "text": "1978 - 1980",
+      "bbox": [
+        72,
+        698,
+        176,
+        715
+      ],
+      "confidence": 0.9721450209617615
+    },
+    {
+      "text": "Directed the Department of Biology which is composed of 21 full-",
+      "bbox": [
+        72,
+        737,
+        674,
+        756
+      ],
+      "confidence": 0.9828052520751953
+    },
+    {
+      "text": "2023038222",
+      "bbox": [
+        713,
+        734,
+        746,
+        878
+      ],
+      "confidence": 0.9999343156814575
+    },
+    {
+      "text": "time faculty, 45 non-faculty staff, and more than 1,ooo students.",
+      "bbox": [
+        71,
+        752,
+        682,
+        771
+      ],
+      "confidence": 0.9698501229286194
+    },
+    {
+      "text": "Negotiated and administered a Departmental budget of $l.6 million",
+      "bbox": [
+        71,
+        767,
+        684,
+        786
+      ],
+      "confidence": 0.9910243153572083
+    },
+    {
+      "text": "in fiscal year l98o.",
+      "bbox": [
+        73,
+        785,
+        257,
+        799
+      ],
+      "confidence": 0.993598461151123
+    },
+    {
+      "text": "Responsible for the planning and implementation of a five-year",
+      "bbox": [
+        71,
+        810,
+        657,
+        829
+      ],
+      "confidence": 0.9956457614898682
+    },
+    {
+      "text": "development plan to substantially upgrade the Department of",
+      "bbox": [
+        70,
+        824,
+        631,
+        845
+      ],
+      "confidence": 0.9958678483963013
+    },
+    {
+      "text": "Biology that included:",
+      "bbox": [
+        71,
+        840,
+        279,
+        859
+      ],
+      "confidence": 0.9974426031112671
+    },
+    {
+      "text": "1",
+      "bbox": [
+        371,
+        888,
+        384,
+        904
+      ],
+      "confidence": 0.999667763710022
+    }
+  ],
+  "full_text": "WILLIAM H. BEERS\nREDACTED\nAdministrative Experience\n1991 - Present\nSenior Vice President, The Scripps Research Institute\nSecretary and Member, Board of Trustees\n1990 - 1991\nSenior Vice President for Research, Scripps clinic and Research\nFoundation\n1987 - 1991\nAssociate Director, Research Institute of Scripps clinic\nResponsible for day-to-day operations of the Institute which has\na staff of approximately i,300 employees, 50o of which hold\nadvanced degrees. Coordinate and plan construction, renovation\nand installation of major equipment. Maintain coordination of\nactivities with the parent organization, Scripps clinic and\nResearch Foundation. Supervise institutional support services,\nand have administrative responsibility for Animal Resources.\nCoordinate and negotiate various arrangements with industry and\nother institutions. Oversee budget and expenditures.\nDirector of Underqraduate Studies, Department of Bioloqy, New\n1983 - 1987\nYork University\nWas responsible for the academic, curricular and advisement\ncomponents of the undergraduate program in biology.\nChairman, Department of Bioloqy, New York University\n1978 - 1980\nDirected the Department of Biology which is composed of 21 full-\n2023038222\ntime faculty, 45 non-faculty staff, and more than 1,ooo students.\nNegotiated and administered a Departmental budget of $l.6 million\nin fiscal year l98o.\nResponsible for the planning and implementation of a five-year\ndevelopment plan to substantially upgrade the Department of\nBiology that included:\n1"
+}

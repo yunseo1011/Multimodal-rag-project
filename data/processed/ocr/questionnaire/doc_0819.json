@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0819.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Dr. Daniel E. Jenkins",
+      "bbox": [
+        125,
+        52,
+        339,
+        70
+      ],
+      "confidence": 0.972978413105011
+    },
+    {
+      "text": "Q. I understand that your organization issued a statement",
+      "bbox": [
+        123,
+        122,
+        704,
+        146
+      ],
+      "confidence": 0.978833019733429
+    },
+    {
+      "text": "in l96o which said, among other things, that \"recent studies",
+      "bbox": [
+        124,
+        158,
+        725,
+        184
+      ],
+      "confidence": 0.9762809872627258
+    },
+    {
+      "text": "show that cigarette smoking is a factor in such crippling",
+      "bbox": [
+        125,
+        196,
+        695,
+        221
+      ],
+      "confidence": 0.9798603653907776
+    },
+    {
+      "text": "lung diseases as chronic bronchitis and emphysema (see",
+      "bbox": [
+        124,
+        232,
+        667,
+        257
+      ],
+      "confidence": 0.9944579601287842
+    },
+    {
+      "text": "Transcript of Senate Hearings. P. 222). Why didn't the",
+      "bbox": [
+        126,
+        269,
+        688,
+        294
+      ],
+      "confidence": 0.9730659127235413
+    },
+    {
+      "text": "statement say that cigarette smoking is suspected_to be a",
+      "bbox": [
+        124,
+        308,
+        698,
+        332
+      ],
+      "confidence": 0.9944179058074951
+    },
+    {
+      "text": "factor, as you have said here today?",
+      "bbox": [
+        128,
+        348,
+        484,
+        368
+      ],
+      "confidence": 0.9866658449172974
+    },
+    {
+      "text": "Q. Do you know that the Surgeon General's Committee said",
+      "bbox": [
+        126,
+        419,
+        699,
+        444
+      ],
+      "confidence": 0.9919251799583435
+    },
+    {
+      "text": "concerning the information about emphysema and bronchitis",
+      "bbox": [
+        128,
+        457,
+        697,
+        480
+      ],
+      "confidence": 0.9932769536972046
+    },
+    {
+      "text": "that the data are insufficient at present to be of value",
+      "bbox": [
+        129,
+        494,
+        685,
+        516
+      ],
+      "confidence": 0.9852556586265564
+    },
+    {
+      "text": "in the estimation of the public health hazaid of smoking?",
+      "bbox": [
+        131,
+        533,
+        692,
+        550
+      ],
+      "confidence": 0.9780883193016052
+    },
+    {
+      "text": "(The statement on page 294 reads: \"Thus morbidity data are",
+      "bbox": [
+        133,
+        572,
+        714,
+        589
+      ],
+      "confidence": 0.9870281219482422
+    },
+    {
+      "text": "insufficient at present to be of value in the estimation of",
+      "bbox": [
+        128,
+        587,
+        715,
+        608
+      ],
+      "confidence": 0.9838322997093201
+    },
+    {
+      "text": "the public health hazard of smoking.\" Morbidity data means",
+      "bbox": [
+        126,
+        602,
+        716,
+        630
+      ],
+      "confidence": 0.9935988187789917
+    },
+    {
+      "text": "1005067317",
+      "bbox": [
+        738,
+        601,
+        768,
+        756
+      ],
+      "confidence": 0.9999725222587585
+    },
+    {
+      "text": "data indicating how many cases of a disease exist.)",
+      "bbox": [
+        127,
+        624,
+        635,
+        647
+      ],
+      "confidence": 0.9907079935073853
+    },
+    {
+      "text": "Q. You say that\"emphysema doesn't lend itself to easy",
+      "bbox": [
+        129,
+        700,
+        666,
+        720
+      ],
+      "confidence": 0.9972441792488098
+    },
+    {
+      "text": "definition.\" Isn't it true that there is still a great deal",
+      "bbox": [
+        131,
+        735,
+        724,
+        755
+      ],
+      "confidence": 0.987791895866394
+    },
+    {
+      "text": "of medical dispute over what actually constitutes bronchitis",
+      "bbox": [
+        131,
+        772,
+        721,
+        792
+      ],
+      "confidence": 0.9930087924003601
+    },
+    {
+      "text": "or emphysema? So isn't it a fact that we ought to be careful",
+      "bbox": [
+        130,
+        808,
+        728,
+        829
+      ],
+      "confidence": 0.985412061214447
+    }
+  ],
+  "full_text": "Dr. Daniel E. Jenkins\nQ. I understand that your organization issued a statement\nin l96o which said, among other things, that \"recent studies\nshow that cigarette smoking is a factor in such crippling\nlung diseases as chronic bronchitis and emphysema (see\nTranscript of Senate Hearings. P. 222). Why didn't the\nstatement say that cigarette smoking is suspected_to be a\nfactor, as you have said here today?\nQ. Do you know that the Surgeon General's Committee said\nconcerning the information about emphysema and bronchitis\nthat the data are insufficient at present to be of value\nin the estimation of the public health hazaid of smoking?\n(The statement on page 294 reads: \"Thus morbidity data are\ninsufficient at present to be of value in the estimation of\nthe public health hazard of smoking.\" Morbidity data means\n1005067317\ndata indicating how many cases of a disease exist.)\nQ. You say that\"emphysema doesn't lend itself to easy\ndefinition.\" Isn't it true that there is still a great deal\nof medical dispute over what actually constitutes bronchitis\nor emphysema? So isn't it a fact that we ought to be careful"
+}

@@ -1,0 +1,831 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0715.png",
+    "image_width": 787,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CIRC(1k)",
+      "bbox": [
+        190,
+        10,
+        307,
+        53
+      ],
+      "confidence": 0.7115640640258789
+    },
+    {
+      "text": "·24A",
+      "bbox": [
+        436,
+        70,
+        473,
+        89
+      ],
+      "confidence": 0.9550654888153076
+    },
+    {
+      "text": "Maine Sunday Telegram. July 16, 1978",
+      "bbox": [
+        543,
+        70,
+        768,
+        89
+      ],
+      "confidence": 0.9855514168739319
+    },
+    {
+      "text": "Porthand, Mare",
+      "bbox": [
+        494,
+        104,
+        652,
+        134
+      ],
+      "confidence": 0.8644924759864807
+    },
+    {
+      "text": "Mike's",
+      "bbox": [
+        194,
+        119,
+        370,
+        194
+      ],
+      "confidence": 0.9979060292243958
+    },
+    {
+      "text": "Craig. expressed anger af HEw Secretary Jöseph",
+      "bbox": [
+        438,
+        141,
+        735,
+        162
+      ],
+      "confidence": 0.9329796433448792
+    },
+    {
+      "text": "Califano's campaign to ban smoking and emphasized",
+      "bbox": [
+        426,
+        152,
+        726,
+        177
+      ],
+      "confidence": 0.9815531969070435
+    },
+    {
+      "text": "that the decision should be one's own.",
+      "bbox": [
+        426,
+        166,
+        634,
+        186
+      ],
+      "confidence": 0.9880784749984741
+    },
+    {
+      "text": "\"We don't aim our advertising at the young. We",
+      "bbox": [
+        436,
+        176,
+        726,
+        200
+      ],
+      "confidence": 0.982822835445404
+    },
+    {
+      "text": "Job",
+      "bbox": [
+        193,
+        191,
+        301,
+        268
+      ],
+      "confidence": 0.998114824295044
+    },
+    {
+      "text": "don't encourage the young to smoke because they",
+      "bbox": [
+        424,
+        189,
+        726,
+        213
+      ],
+      "confidence": 0.9858126640319824
+    },
+    {
+      "text": "aren't at a point of physical or mental maturity to",
+      "bbox": [
+        424,
+        201,
+        725,
+        225
+      ],
+      "confidence": 0.9636791944503784
+    },
+    {
+      "text": "decide whether they want to smoke or not. An adult. on",
+      "bbox": [
+        424,
+        213,
+        725,
+        236
+      ],
+      "confidence": 0.9581568241119385
+    },
+    {
+      "text": "the other hand, should be able to make that decision",
+      "bbox": [
+        424,
+        225,
+        725,
+        248
+      ],
+      "confidence": 0.9884822368621826
+    },
+    {
+      "text": "for himself. He shouidn't have big brother breathing",
+      "bbox": [
+        424,
+        237,
+        725,
+        261
+      ],
+      "confidence": 0.9855691194534302
+    },
+    {
+      "text": "down his back telling him what he can and can't do.\"",
+      "bbox": [
+        423,
+        250,
+        713,
+        272
+      ],
+      "confidence": 0.9844145178794861
+    },
+    {
+      "text": "aimed at adults and has, as its purpose, the division,",
+      "bbox": [
+        423,
+        275,
+        724,
+        299
+      ],
+      "confidence": 0.969695508480072
+    },
+    {
+      "text": "According to Craig, the advertising of cigarettes is",
+      "bbox": [
+        434,
+        263,
+        725,
+        285
+      ],
+      "confidence": 0.9760992527008057
+    },
+    {
+      "text": "rather than the expansion of the market.",
+      "bbox": [
+        424,
+        287,
+        649,
+        309
+      ],
+      "confidence": 0.9735472798347473
+    },
+    {
+      "text": "Former Maine Newsman",
+      "bbox": [
+        34,
+        299,
+        358,
+        338
+      ],
+      "confidence": 0.9406502842903137
+    },
+    {
+      "text": "\"We're concerned about getting Marlboro smokers",
+      "bbox": [
+        435,
+        299,
+        724,
+        322
+      ],
+      "confidence": 0.9660245180130005
+    },
+    {
+      "text": "to go to Kool. or Kool to Salem. We don't advertise",
+      "bbox": [
+        423,
+        312,
+        724,
+        335
+      ],
+      "confidence": 0.9751139879226685
+    },
+    {
+      "text": "with the goal to get people to start smoking,he said...",
+      "bbox": [
+        423,
+        324,
+        729,
+        347
+      ],
+      "confidence": 0.9520476460456848
+    },
+    {
+      "text": "Plugs Tobacco's Case",
+      "bbox": [
+        36,
+        339,
+        320,
+        375
+      ],
+      "confidence": 0.9983280897140503
+    },
+    {
+      "text": "he refused to cite health reasons, as the incentive. \"I",
+      "bbox": [
+        423,
+        349,
+        724,
+        371
+      ],
+      "confidence": 0.9718402028083801
+    },
+    {
+      "text": "Craig said that he had quit smoking three years but",
+      "bbox": [
+        436,
+        338,
+        724,
+        359
+      ],
+      "confidence": 0.98671555519104
+    },
+    {
+      "text": "just wanted to see if I could do it, that's all,\" he said.",
+      "bbox": [
+        423,
+        363,
+        710,
+        383
+      ],
+      "confidence": 0.9486854076385498
+    },
+    {
+      "text": ". Craig noted that he didn't notice any physicai im-",
+      "bbox": [
+        424,
+        375,
+        725,
+        395
+      ],
+      "confidence": 0.978779137134552
+    },
+    {
+      "text": "By SAMROVIT.",
+      "bbox": [
+        145,
+        385,
+        245,
+        402
+      ],
+      "confidence": 0.9406709671020508
+    },
+    {
+      "text": "provement when he quit: \"all that happened was that",
+      "bbox": [
+        424,
+        388,
+        725,
+        407
+      ],
+      "confidence": 0.9888423085212708
+    },
+    {
+      "text": "Telegram-Washington Bureau",
+      "bbox": [
+        109,
+        398,
+        287,
+        416
+      ],
+      "confidence": 0.9977325201034546
+    },
+    {
+      "text": "I gained 30 pounds that I still haven't lost.",
+      "bbox": [
+        424,
+        400,
+        654,
+        419
+      ],
+      "confidence": 0.9753751754760742
+    },
+    {
+      "text": "Although the American Cancer Society reports that",
+      "bbox": [
+        435,
+        412,
+        726,
+        433
+      ],
+      "confidence": 0.9881796836853027
+    },
+    {
+      "text": "WASHINGTON -Mike Craig, a native of Jefferson.",
+      "bbox": [
+        52,
+        422,
+        348,
+        441
+      ],
+      "confidence": 0.9470652937889099
+    },
+    {
+      "text": "50 million Americans smoke, that figure isn't reflected",
+      "bbox": [
+        423,
+        425,
+        726,
+        445
+      ],
+      "confidence": 0.9758577942848206
+    },
+    {
+      "text": "Maine, smokes a pack to a pack and a half of Raleigh",
+      "bbox": [
+        44,
+        438,
+        347,
+        452
+      ],
+      "confidence": 0.976058304309845
+    },
+    {
+      "text": "in the Maine offices on Capitol Hill.",
+      "bbox": [
+        423,
+        437,
+        618,
+        456
+      ],
+      "confidence": 0.9845633506774902
+    },
+    {
+      "text": "cigarettes a day and has done so for the past 22 years",
+      "bbox": [
+        41,
+        448,
+        347,
+        466
+      ],
+      "confidence": 0.9884830117225647
+    },
+    {
+      "text": "Of the four Maine congressmen, none smoke, and",
+      "bbox": [
+        435,
+        451,
+        725,
+        470
+      ],
+      "confidence": 0.9799376130104065
+    },
+    {
+      "text": "Rep. David F. Emery. R.Maine, is allergic to smoke",
+      "bbox": [
+        39,
+        471,
+        350,
+        492
+      ],
+      "confidence": 0.9548027515411377
+    },
+    {
+      "text": "since he was 17.",
+      "bbox": [
+        42,
+        463,
+        135,
+        477
+      ],
+      "confidence": 0.9903610944747925
+    },
+    {
+      "text": "84",
+      "bbox": [
+        205,
+        463,
+        239,
+        474
+      ],
+      "confidence": 0.7122546434402466
+    },
+    {
+      "text": "only Sen. Edmund Muskie, D-Maine, chomps on an oc-",
+      "bbox": [
+        422,
+        464,
+        725,
+        482
+      ],
+      "confidence": 0.982536256313324
+    },
+    {
+      "text": "casionalstogie.",
+      "bbox": [
+        423,
+        477,
+        512,
+        493
+      ],
+      "confidence": 0.980674147605896
+    },
+    {
+      "text": "and since he discovered this problem, he has espoused",
+      "bbox": [
+        41,
+        488,
+        348,
+        502
+      ],
+      "confidence": 0.9944559335708618
+    },
+    {
+      "text": "the philosophy of the anti-smoker: 'Smoking should be",
+      "bbox": [
+        42,
+        500,
+        348,
+        514
+      ],
+      "confidence": 0.9934081435203552
+    },
+    {
+      "text": "banned in public places because of its potentially ad-",
+      "bbox": [
+        39,
+        510,
+        348,
+        528
+      ],
+      "confidence": 0.9662728309631348
+    },
+    {
+      "text": "verse effect upon non-smokers.",
+      "bbox": [
+        41,
+        524,
+        220,
+        538
+      ],
+      "confidence": 0.9940099120140076
+    },
+    {
+      "text": "Emery is one of the few congressmen, is not the only",
+      "bbox": [
+        41,
+        537,
+        347,
+        551
+      ],
+      "confidence": 0.9841611385345459
+    },
+    {
+      "text": "one, to have banned smoking from his offices.",
+      "bbox": [
+        42,
+        549,
+        300,
+        564
+      ],
+      "confidence": 0.9795393347740173
+    },
+    {
+      "text": "Craig was Emery's press secretary fo two years and",
+      "bbox": [
+        55,
+        562,
+        348,
+        576
+      ],
+      "confidence": 0.9960011839866638
+    },
+    {
+      "text": "the two have been good friends since 1971.",
+      "bbox": [
+        42,
+        573,
+        279,
+        590
+      ],
+      "confidence": 0.9861346483230591
+    },
+    {
+      "text": "\"There was never any problem with the smoking,",
+      "bbox": [
+        52,
+        585,
+        340,
+        602
+      ],
+      "confidence": 0.9629480242729187
+    },
+    {
+      "text": "Craig said. \"If someone in the office smoked, they",
+      "bbox": [
+        42,
+        599,
+        349,
+        613
+      ],
+      "confidence": 0.9837796688079834
+    },
+    {
+      "text": "simply went out into the hall for a cigarette. My new",
+      "bbox": [
+        40,
+        609,
+        350,
+        627
+      ],
+      "confidence": 0.9789053797721863
+    },
+    {
+      "text": "job is simply a case of an unusual ironical twist; it's",
+      "bbox": [
+        41,
+        621,
+        349,
+        639
+      ],
+      "confidence": 0.9900916218757629
+    },
+    {
+      "text": "not a case of retribution or something like that.\"",
+      "bbox": [
+        40,
+        633,
+        317,
+        652
+      ],
+      "confidence": 0.9910232424736023
+    },
+    {
+      "text": "Craig is presently the director in charge of media re-",
+      "bbox": [
+        41,
+        646,
+        349,
+        664
+      ],
+      "confidence": 0.9592714905738831
+    },
+    {
+      "text": "lations at the Tobacco Institute in Washington, the",
+      "bbox": [
+        41,
+        658,
+        349,
+        676
+      ],
+      "confidence": 0.96982342004776
+    },
+    {
+      "text": "powerful lobby arm of the vast tobacco industry.",
+      "bbox": [
+        40,
+        670,
+        317,
+        690
+      ],
+      "confidence": 0.967202365398407
+    },
+    {
+      "text": ".\"I learned of an opening at the Institute and it fit in",
+      "bbox": [
+        48,
+        682,
+        349,
+        702
+      ],
+      "confidence": 0.9443184733390808
+    },
+    {
+      "text": "with my career plans,\" the former news director for",
+      "bbox": [
+        42,
+        694,
+        349,
+        715
+      ],
+      "confidence": 0.9635910987854004
+    },
+    {
+      "text": ".WGAN radio and television in Portland said. \"It was a",
+      "bbox": [
+        41,
+        708,
+        350,
+        727
+      ],
+      "confidence": 0.9685904383659363
+    },
+    {
+      "text": "step up in salary and I saw it as a personal challenge:",
+      "bbox": [
+        41,
+        721,
+        349,
+        739
+      ],
+      "confidence": 0.9760340452194214
+    },
+    {
+      "text": "Emery and I are still good friends.\"",
+      "bbox": [
+        42,
+        732,
+        251,
+        752
+      ],
+      "confidence": 0.9650160670280457
+    },
+    {
+      "text": "concerned about his health, Craig recited the insti-",
+      "bbox": [
+        42,
+        756,
+        349,
+        776
+      ],
+      "confidence": 0.9652561545372009
+    },
+    {
+      "text": "tute's response, to which he subscribes:",
+      "bbox": [
+        44,
+        772,
+        270,
+        786
+      ],
+      "confidence": 0.9720916748046875
+    },
+    {
+      "text": "The 1964 surgeon general's report listed a series of",
+      "bbox": [
+        46,
+        781,
+        351,
+        800
+      ],
+      "confidence": 0.9718039631843567
+    },
+    {
+      "text": "statistical relationships between smoking and health",
+      "bbox": [
+        42,
+        793,
+        350,
+        814
+      ],
+      "confidence": 0.9819270372390747
+    },
+    {
+      "text": "problems, but the leading scientists and doctors have",
+      "bbox": [
+        43,
+        806,
+        351,
+        826
+      ],
+      "confidence": 0.9869338870048523
+    },
+    {
+      "text": "yet.to find a direct relationship.\" Craig said. \"The",
+      "bbox": [
+        43,
+        817,
+        351,
+        839
+      ],
+      "confidence": 0.9178762435913086
+    },
+    {
+      "text": "cause-effect relationship' has not yet been determined",
+      "bbox": [
+        44,
+        832,
+        349,
+        849
+      ],
+      "confidence": 0.9646498560905457
+    },
+    {
+      "text": "and noone knows the exact cause of cancer. The",
+      "bbox": [
+        43,
+        844,
+        351,
+        862
+      ],
+      "confidence": 0.983494222164154
+    },
+    {
+      "text": "health statistics raised an alarm over smoking. but I",
+      "bbox": [
+        43,
+        857,
+        351,
+        873
+      ],
+      "confidence": 0.9784659743309021
+    },
+    {
+      "text": ".don't believe that you can use statistics to prave a",
+      "bbox": [
+        43,
+        868,
+        352,
+        887
+      ],
+      "confidence": 0.9672273397445679
+    },
+    {
+      "text": "casual relationship  more honest to goodness re-",
+      "bbox": [
+        44,
+        879,
+        352,
+        900
+      ],
+      "confidence": 0.9721956253051758
+    },
+    {
+      "text": "search. is needed. In 1978 society. there are a lot of",
+      "bbox": [
+        44,
+        891,
+        353,
+        912
+      ],
+      "confidence": 0.9681673645973206
+    },
+    {
+      "text": "T502095",
+      "bbox": [
+        601,
+        892,
+        707,
+        916
+      ],
+      "confidence": 0.9989895820617676
+    },
+    {
+      "text": "things that are harmful. We are all troubled by inci-",
+      "bbox": [
+        45,
+        904,
+        352,
+        923
+      ],
+      "confidence": 0.9869877099990845
+    },
+    {
+      "text": "dences of various diseases and I believé that they",
+      "bbox": [
+        46,
+        915,
+        353,
+        936
+      ],
+      "confidence": 0.9661884307861328
+    },
+    {
+      "text": "could be a result of heredity, environment, personality",
+      "bbox": [
+        46,
+        927,
+        352,
+        948
+      ],
+      "confidence": 0.947912335395813
+    },
+    {
+      "text": "TIMN 0118802",
+      "bbox": [
+        525,
+        938,
+        699,
+        973
+      ],
+      "confidence": 0.9991569519042969
+    }
+  ],
+  "full_text": "CIRC(1k)\n·24A\nMaine Sunday Telegram. July 16, 1978\nPorthand, Mare\nMike's\nCraig. expressed anger af HEw Secretary Jöseph\nCalifano's campaign to ban smoking and emphasized\nthat the decision should be one's own.\n\"We don't aim our advertising at the young. We\nJob\ndon't encourage the young to smoke because they\naren't at a point of physical or mental maturity to\ndecide whether they want to smoke or not. An adult. on\nthe other hand, should be able to make that decision\nfor himself. He shouidn't have big brother breathing\ndown his back telling him what he can and can't do.\"\naimed at adults and has, as its purpose, the division,\nAccording to Craig, the advertising of cigarettes is\nrather than the expansion of the market.\nFormer Maine Newsman\n\"We're concerned about getting Marlboro smokers\nto go to Kool. or Kool to Salem. We don't advertise\nwith the goal to get people to start smoking,he said...\nPlugs Tobacco's Case\nhe refused to cite health reasons, as the incentive. \"I\nCraig said that he had quit smoking three years but\njust wanted to see if I could do it, that's all,\" he said.\n. Craig noted that he didn't notice any physicai im-\nBy SAMROVIT.\nprovement when he quit: \"all that happened was that\nTelegram-Washington Bureau\nI gained 30 pounds that I still haven't lost.\nAlthough the American Cancer Society reports that\nWASHINGTON -Mike Craig, a native of Jefferson.\n50 million Americans smoke, that figure isn't reflected\nMaine, smokes a pack to a pack and a half of Raleigh\nin the Maine offices on Capitol Hill.\ncigarettes a day and has done so for the past 22 years\nOf the four Maine congressmen, none smoke, and\nRep. David F. Emery. R.Maine, is allergic to smoke\nsince he was 17.\n84\nonly Sen. Edmund Muskie, D-Maine, chomps on an oc-\ncasionalstogie.\nand since he discovered this problem, he has espoused\nthe philosophy of the anti-smoker: 'Smoking should be\nbanned in public places because of its potentially ad-\nverse effect upon non-smokers.\nEmery is one of the few congressmen, is not the only\none, to have banned smoking from his offices.\nCraig was Emery's press secretary fo two years and\nthe two have been good friends since 1971.\n\"There was never any problem with the smoking,\nCraig said. \"If someone in the office smoked, they\nsimply went out into the hall for a cigarette. My new\njob is simply a case of an unusual ironical twist; it's\nnot a case of retribution or something like that.\"\nCraig is presently the director in charge of media re-\nlations at the Tobacco Institute in Washington, the\npowerful lobby arm of the vast tobacco industry.\n.\"I learned of an opening at the Institute and it fit in\nwith my career plans,\" the former news director for\n.WGAN radio and television in Portland said. \"It was a\nstep up in salary and I saw it as a personal challenge:\nEmery and I are still good friends.\"\nconcerned about his health, Craig recited the insti-\ntute's response, to which he subscribes:\nThe 1964 surgeon general's report listed a series of\nstatistical relationships between smoking and health\nproblems, but the leading scientists and doctors have\nyet.to find a direct relationship.\" Craig said. \"The\ncause-effect relationship' has not yet been determined\nand noone knows the exact cause of cancer. The\nhealth statistics raised an alarm over smoking. but I\n.don't believe that you can use statistics to prave a\ncasual relationship  more honest to goodness re-\nsearch. is needed. In 1978 society. there are a lot of\nT502095\nthings that are harmful. We are all troubled by inci-\ndences of various diseases and I believé that they\ncould be a result of heredity, environment, personality\nTIMN 0118802"
+}

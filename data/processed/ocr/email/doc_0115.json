@@ -1,0 +1,131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0115.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "----Originai Message-",
+      "bbox": [
+        55,
+        74,
+        156,
+        90
+      ],
+      "confidence": 0.9108300805091858
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        50,
+        97,
+        83,
+        112
+      ],
+      "confidence": 0.9919595718383789
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        51,
+        84,
+        88,
+        102
+      ],
+      "confidence": 0.9892416000366211
+    },
+    {
+      "text": "Hirnikel, Daniel J.",
+      "bbox": [
+        122,
+        88,
+        207,
+        101
+      ],
+      "confidence": 0.9940416216850281
+    },
+    {
+      "text": "2069751399",
+      "bbox": [
+        420,
+        92,
+        522,
+        115
+      ],
+      "confidence": 0.9999216198921204
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        49,
+        109,
+        72,
+        124
+      ],
+      "confidence": 0.9994537830352783
+    },
+    {
+      "text": "Lipowicz, Peter J.",
+      "bbox": [
+        120,
+        111,
+        206,
+        125
+      ],
+      "confidence": 0.9980438947677612
+    },
+    {
+      "text": "Friday, January 14, 2000 12:29 PM",
+      "bbox": [
+        122,
+        99,
+        285,
+        113
+      ],
+      "confidence": 0.9895089864730835
+    },
+    {
+      "text": "Suubject:",
+      "bbox": [
+        47,
+        117,
+        97,
+        137
+      ],
+      "confidence": 0.8891303539276123
+    },
+    {
+      "text": "FW: Abstract",
+      "bbox": [
+        119,
+        122,
+        185,
+        136
+      ],
+      "confidence": 0.9848999977111816
+    },
+    {
+      "text": "Importance: High",
+      "bbox": [
+        47,
+        130,
+        147,
+        150
+      ],
+      "confidence": 0.988070011138916
+    },
+    {
+      "text": "I am satisfied using Steven Turner's comments on my abstract. Do you see any other changes as necessary?",
+      "bbox": [
+        44,
+        154,
+        701,
+        177
+      ],
+      "confidence": 0.9820482730865479
+    }
+  ],
+  "full_text": "----Originai Message-\nSent:\nFrom:\nHirnikel, Daniel J.\n2069751399\nTo:\nLipowicz, Peter J.\nFriday, January 14, 2000 12:29 PM\nSuubject:\nFW: Abstract\nImportance: High\nI am satisfied using Steven Turner's comments on my abstract. Do you see any other changes as necessary?"
+}

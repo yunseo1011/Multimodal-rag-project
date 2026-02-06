@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0626.png",
+    "image_width": 713,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INBIFO Institut für biologische Forschung GmbH",
+      "bbox": [
+        70,
+        33,
+        395,
+        53
+      ],
+      "confidence": 0.9860595464706421
+    },
+    {
+      "text": "45.KW 91 NDA/MWO AND_3181.WM",
+      "bbox": [
+        70,
+        51,
+        290,
+        70
+      ],
+      "confidence": 0.9813324809074402
+    },
+    {
+      "text": "Prüfplanänderung: P 0500 / 3181",
+      "bbox": [
+        79,
+        96,
+        282,
+        113
+      ],
+      "confidence": 0.9694551229476929
+    },
+    {
+      "text": "Anderungs-Nr.: 1",
+      "bbox": [
+        396,
+        92,
+        507,
+        115
+      ],
+      "confidence": 0.9629710912704468
+    },
+    {
+      "text": "(a)",
+      "bbox": [
+        629,
+        92,
+        658,
+        118
+      ],
+      "confidence": 0.9947702288627625
+    },
+    {
+      "text": "Kurztitel der Prüfung: Ames, SIGMA Condensate",
+      "bbox": [
+        79,
+        147,
+        379,
+        169
+      ],
+      "confidence": 0.9791485071182251
+    },
+    {
+      "text": "Prüfleiter: FTE",
+      "bbox": [
+        78,
+        206,
+        169,
+        224
+      ],
+      "confidence": 0.9883133172988892
+    },
+    {
+      "text": "Datum der Zustimmung zum Prüfplan: 16.Apr.92",
+      "bbox": [
+        324,
+        205,
+        625,
+        222
+      ],
+      "confidence": 0.9691619277000427
+    },
+    {
+      "text": "Autor der Anderung: TME",
+      "bbox": [
+        78,
+        246,
+        238,
+        263
+      ],
+      "confidence": 0.9939441084861755
+    },
+    {
+      "text": "Datum: 28.Apr.92",
+      "bbox": [
+        322,
+        243,
+        438,
+        263
+      ],
+      "confidence": 0.9954260587692261
+    },
+    {
+      "text": "Gegenstand: 1. 2.1 Prüf- und Referenzsubstanzen: Dosierung von SIGMA smoking articles, S. 3",
+      "bbox": [
+        77,
+        281,
+        662,
+        304
+      ],
+      "confidence": 0.9969500303268433
+    },
+    {
+      "text": "2. Standardarbeitsanweisung, S. 7",
+      "bbox": [
+        155,
+        301,
+        359,
+        316
+      ],
+      "confidence": 0.9784039855003357
+    },
+    {
+      "text": "Begründung: 1. 2 der 4 Kondensatchargen des SIGMA smoking articles sind wegen ihrer geringen",
+      "bbox": [
+        76,
+        368,
+        668,
+        391
+      ],
+      "confidence": 0.9929927587509155
+    },
+    {
+      "text": "Trockenkondensatkonzentration nicht bis zur geplanten maximalen Dosis ein-",
+      "bbox": [
+        169,
+        387,
+        639,
+        404
+      ],
+      "confidence": 0.9900220036506653
+    },
+    {
+      "text": "setzbar.",
+      "bbox": [
+        168,
+        404,
+        218,
+        419
+      ],
+      "confidence": 0.9997434616088867
+    },
+    {
+      "text": "2. Zu dem richtig zitierten Titel der Standardarbeitsanweisung war die SOP-",
+      "bbox": [
+        152,
+        415,
+        614,
+        438
+      ],
+      "confidence": 0.991847813129425
+    },
+    {
+      "text": "Nummer falsch wiedergegeben.",
+      "bbox": [
+        168,
+        433,
+        361,
+        452
+      ],
+      "confidence": 0.9848647117614746
+    },
+    {
+      "text": "Derzeitige Situation: 1. Für die SIGMA smoking articles sollen zusätzlich 250 und 500 μg",
+      "bbox": [
+        77,
+        490,
+        623,
+        507
+      ],
+      "confidence": 0.9776968359947205
+    },
+    {
+      "text": "Trockenkondensat pro Testansatz getestet werden. Das Applikationsvo-",
+      "bbox": [
+        221,
+        506,
+        655,
+        523
+      ],
+      "confidence": 0.9919142127037048
+    },
+    {
+      "text": "lumen beträgt bei den zusätzlichen Dosen 30 bzw. 60 μl.",
+      "bbox": [
+        220,
+        520,
+        562,
+        538
+      ],
+      "confidence": 0.9830586314201355
+    },
+    {
+      "text": "2. Die SOP-Nr. ist mit MB 82/2 angegeben.",
+      "bbox": [
+        206,
+        535,
+        470,
+        554
+      ],
+      "confidence": 0.9862803816795349
+    },
+    {
+      "text": "Anderung: 1. Nach Rücksprache mit dem Prüfleiter wurde für die SIGMA Charge 3766 das",
+      "bbox": [
+        72,
+        607,
+        629,
+        628
+      ],
+      "confidence": 0.9792689085006714
+    },
+    {
+      "text": "Applikationsvolumen für die Dosis \"250 μg pro Testansatz\" auf 32 μl und für",
+      "bbox": [
+        157,
+        625,
+        627,
+        643
+      ],
+      "confidence": 0.9757287502288818
+    },
+    {
+      "text": "die Charge 3767 auf 51 μl festgesetzt. Für beide Chargen wurde das",
+      "bbox": [
+        157,
+        642,
+        568,
+        659
+      ],
+      "confidence": 0.9723516702651978
+    },
+    {
+      "text": "Applikationsvolumen für die höchste Dosis auf 60 ul begrenzt; dabei betragen",
+      "bbox": [
+        156,
+        656,
+        630,
+        676
+      ],
+      "confidence": 0.986361026763916
+    },
+    {
+      "text": "dann die erreichbaren Dosen 464 μg pro Testansatz für die Charge 3766 und",
+      "bbox": [
+        156,
+        674,
+        619,
+        692
+      ],
+      "confidence": 0.9932441115379333
+    },
+    {
+      "text": "293 μg für die Charge 3767.",
+      "bbox": [
+        155,
+        690,
+        329,
+        707
+      ],
+      "confidence": 0.964512288570404
+    },
+    {
+      "text": "2. Die SOP-Nr. heiBt MB 85/2.",
+      "bbox": [
+        143,
+        707,
+        330,
+        721
+      ],
+      "confidence": 0.9780565500259399
+    },
+    {
+      "text": "Konsequenzen, durchzuführende MaBnahmen:",
+      "bbox": [
+        71,
+        763,
+        351,
+        777
+      ],
+      "confidence": 0.9873191714286804
+    },
+    {
+      "text": "1. Anderung der maximalen Dosis der beiden Kondensatchargen in der VAX",
+      "bbox": [
+        140,
+        775,
+        606,
+        793
+      ],
+      "confidence": 0.9917056560516357
+    },
+    {
+      "text": "berücksichtigen",
+      "bbox": [
+        155,
+        793,
+        254,
+        810
+      ],
+      "confidence": 0.9985577464103699
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        138,
+        807,
+        166,
+        828
+      ],
+      "confidence": 0.9708454012870789
+    },
+    {
+      "text": "2501281427",
+      "bbox": [
+        659,
+        873,
+        684,
+        963
+      ],
+      "confidence": 0.9999720454216003
+    },
+    {
+      "text": "b.w.",
+      "bbox": [
+        614,
+        878,
+        645,
+        894
+      ],
+      "confidence": 0.9991588592529297
+    },
+    {
+      "text": "Vergabe der Anderungs-Nr. durch den Prifleiter",
+      "bbox": [
+        62,
+        940,
+        325,
+        966
+      ],
+      "confidence": 0.9771692156791687
+    },
+    {
+      "text": "5191",
+      "bbox": [
+        55,
+        980,
+        78,
+        995
+      ],
+      "confidence": 0.9936762452125549
+    }
+  ],
+  "full_text": "INBIFO Institut für biologische Forschung GmbH\n45.KW 91 NDA/MWO AND_3181.WM\nPrüfplanänderung: P 0500 / 3181\nAnderungs-Nr.: 1\n(a)\nKurztitel der Prüfung: Ames, SIGMA Condensate\nPrüfleiter: FTE\nDatum der Zustimmung zum Prüfplan: 16.Apr.92\nAutor der Anderung: TME\nDatum: 28.Apr.92\nGegenstand: 1. 2.1 Prüf- und Referenzsubstanzen: Dosierung von SIGMA smoking articles, S. 3\n2. Standardarbeitsanweisung, S. 7\nBegründung: 1. 2 der 4 Kondensatchargen des SIGMA smoking articles sind wegen ihrer geringen\nTrockenkondensatkonzentration nicht bis zur geplanten maximalen Dosis ein-\nsetzbar.\n2. Zu dem richtig zitierten Titel der Standardarbeitsanweisung war die SOP-\nNummer falsch wiedergegeben.\nDerzeitige Situation: 1. Für die SIGMA smoking articles sollen zusätzlich 250 und 500 μg\nTrockenkondensat pro Testansatz getestet werden. Das Applikationsvo-\nlumen beträgt bei den zusätzlichen Dosen 30 bzw. 60 μl.\n2. Die SOP-Nr. ist mit MB 82/2 angegeben.\nAnderung: 1. Nach Rücksprache mit dem Prüfleiter wurde für die SIGMA Charge 3766 das\nApplikationsvolumen für die Dosis \"250 μg pro Testansatz\" auf 32 μl und für\ndie Charge 3767 auf 51 μl festgesetzt. Für beide Chargen wurde das\nApplikationsvolumen für die höchste Dosis auf 60 ul begrenzt; dabei betragen\ndann die erreichbaren Dosen 464 μg pro Testansatz für die Charge 3766 und\n293 μg für die Charge 3767.\n2. Die SOP-Nr. heiBt MB 85/2.\nKonsequenzen, durchzuführende MaBnahmen:\n1. Anderung der maximalen Dosis der beiden Kondensatchargen in der VAX\nberücksichtigen\n2.\n2501281427\nb.w.\nVergabe der Anderungs-Nr. durch den Prifleiter\n5191"
+}

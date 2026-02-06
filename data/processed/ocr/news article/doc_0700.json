@@ -1,0 +1,1381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0700.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TAN-24 00 09:10",
+      "bbox": [
+        0,
+        10,
+        119,
+        36
+      ],
+      "confidence": 0.9562625885009766
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        111,
+        18,
+        158,
+        37
+      ],
+      "confidence": 0.9977421760559082
+    },
+    {
+      "text": "18807667188",
+      "bbox": [
+        307,
+        26,
+        391,
+        47
+      ],
+      "confidence": 0.9755582213401794
+    },
+    {
+      "text": "TO:19176635739",
+      "bbox": [
+        453,
+        30,
+        558,
+        50
+      ],
+      "confidence": 0.9988754391670227
+    },
+    {
+      "text": "PAGE:03",
+      "bbox": [
+        628,
+        31,
+        686,
+        52
+      ],
+      "confidence": 0.9991518259048462
+    },
+    {
+      "text": "BUrReLLES NewsExpress",
+      "bbox": [
+        73,
+        48,
+        278,
+        86
+      ],
+      "confidence": 0.8443563580513
+    },
+    {
+      "text": "Mon January 24, 2000",
+      "bbox": [
+        306,
+        57,
+        447,
+        81
+      ],
+      "confidence": 0.9962520599365234
+    },
+    {
+      "text": "THE TAMPA",
+      "bbox": [
+        532,
+        60,
+        676,
+        90
+      ],
+      "confidence": 0.9925617575645447
+    },
+    {
+      "text": "Appeare On Page 13NW",
+      "bbox": [
+        311,
+        78,
+        445,
+        97
+      ],
+      "confidence": 0.9944628477096558
+    },
+    {
+      "text": "TRIBUNE",
+      "bbox": [
+        509,
+        78,
+        690,
+        117
+      ],
+      "confidence": 0.8653222918510437
+    },
+    {
+      "text": "Page 1 of 1 Page Anicte (TTF2OCAI)",
+      "bbox": [
+        95,
+        84,
+        254,
+        106
+      ],
+      "confidence": 0.9312487840652466
+    },
+    {
+      "text": "Circulation: 268,876",
+      "bbox": [
+        323,
+        94,
+        429,
+        113
+      ],
+      "confidence": 0.9829120635986328
+    },
+    {
+      "text": "Shock",
+      "bbox": [
+        19,
+        156,
+        154,
+        214
+      ],
+      "confidence": 0.9995109438896179
+    },
+    {
+      "text": "wanning about fetal injury in the corner.",
+      "bbox": [
+        275,
+        179,
+        473,
+        199
+      ],
+      "confidence": 0.9825866222381592
+    },
+    {
+      "text": "they are in hooking kids to cigarettes. An",
+      "bbox": [
+        499,
+        184,
+        711,
+        205
+      ],
+      "confidence": 0.9960528016090393
+    },
+    {
+      "text": "we could have a sweet little photograph of",
+      "bbox": [
+        274,
+        193,
+        488,
+        211
+      ],
+      "confidence": 0.9727745056152344
+    },
+    {
+      "text": "itty-bitty clause in the sertlement says that",
+      "bbox": [
+        500,
+        199,
+        715,
+        216
+      ],
+      "confidence": 0.978184700012207
+    },
+    {
+      "text": "therapy",
+      "bbox": [
+        27,
+        208,
+        172,
+        266
+      ],
+      "confidence": 0.9999184608459473
+    },
+    {
+      "text": "a destroyed larynx.",
+      "bbox": [
+        274,
+        205,
+        373,
+        223
+      ],
+      "confidence": 0.9897051453590393
+    },
+    {
+      "text": "if the rate of amoking decreases, so does",
+      "bbox": [
+        500,
+        211,
+        709,
+        229
+      ],
+      "confidence": 0.9823649525642395
+    },
+    {
+      "text": "moment for Americans who want to think",
+      "bbox": [
+        273,
+        232,
+        482,
+        248
+      ],
+      "confidence": 0.9829365611076355
+    },
+    {
+      "text": "The Canadian blast comes at a good",
+      "bbox": [
+        290,
+        218,
+        472,
+        236
+      ],
+      "confidence": 0.9976109862327576
+    },
+    {
+      "text": "the payment. At what point does a state",
+      "bbox": [
+        499,
+        223,
+        702,
+        242
+      ],
+      "confidence": 0.9693043231964111
+    },
+    {
+      "text": "about our own antismoking messages.",
+      "bbox": [
+        272,
+        244,
+        465,
+        261
+      ],
+      "confidence": 0.9865719676017761
+    },
+    {
+      "text": "have a motive for keeping the smoking",
+      "bbox": [
+        498,
+        235,
+        700,
+        255
+      ],
+      "confidence": 0.9939230680465698
+    },
+    {
+      "text": "for smokers",
+      "bbox": [
+        29,
+        258,
+        238,
+        308
+      ],
+      "confidence": 0.9999328851699829
+    },
+    {
+      "text": "These days, the tobacca people are sup-",
+      "bbox": [
+        271,
+        255,
+        473,
+        274
+      ],
+      "confidence": 0.9452453851699829
+    },
+    {
+      "text": "rolls up?",
+      "bbox": [
+        500,
+        250,
+        546,
+        265
+      ],
+      "confidence": 0.9993555545806885
+    },
+    {
+      "text": "The point of the settiement was not",
+      "bbox": [
+        516,
+        262,
+        701,
+        278
+      ],
+      "confidence": 0.9823917746543884
+    },
+    {
+      "text": "posedly on the detensve. Cigarette taxes",
+      "bbox": [
+        272,
+        269,
+        480,
+        286
+      ],
+      "confidence": 0.9754030108451843
+    },
+    {
+      "text": "just to get damages for smoking-related",
+      "bbox": [
+        499,
+        274,
+        706,
+        293
+      ],
+      "confidence": 0.9960492253303528
+    },
+    {
+      "text": "are rising; the number of new smokers is",
+      "bbox": [
+        270,
+        280,
+        481,
+        299
+      ],
+      "confidence": 0.97227543592453
+    },
+    {
+      "text": "declining. And, most importantly, the first",
+      "bbox": [
+        270,
+        292,
+        484,
+        313
+      ],
+      "confidence": 0.9676948189735413
+    },
+    {
+      "text": "health problems, but to prevent new ones.",
+      "bbox": [
+        499,
+        286,
+        718,
+        305
+      ],
+      "confidence": 0.9529018998146057
+    },
+    {
+      "text": "installments of the $246 billion tobacco",
+      "bbox": [
+        270,
+        304,
+        470,
+        325
+      ],
+      "confidence": 0.9513835906982422
+    },
+    {
+      "text": "We already know what works. Programs",
+      "bbox": [
+        499,
+        298,
+        712,
+        319
+      ],
+      "confidence": 0.9933515191078186
+    },
+    {
+      "text": "BY ELLEN GOODMAN",
+      "bbox": [
+        29,
+        319,
+        167,
+        341
+      ],
+      "confidence": 0.82925945520401
+    },
+    {
+      "text": "settlement are arriving in state capitals.",
+      "bbox": [
+        271,
+        320,
+        469,
+        336
+      ],
+      "confidence": 0.9862315058708191
+    },
+    {
+      "text": "in Oregon. California, Florida and Massa",
+      "bbox": [
+        499,
+        311,
+        715,
+        330
+      ],
+      "confidence": 0.9892215728759766
+    },
+    {
+      "text": "But it's the use of that settlement",
+      "bbox": [
+        287,
+        331,
+        457,
+        350
+      ],
+      "confidence": 0.974699079990387
+    },
+    {
+      "text": "chusetts have had fairly dramatic efiects",
+      "bbox": [
+        501,
+        326,
+        710,
+        342
+      ],
+      "confidence": 0.9817726612091064
+    },
+    {
+      "text": "moncy that has me wondering about Big",
+      "bbox": [
+        269,
+        343,
+        479,
+        363
+      ],
+      "confidence": 0.9955869913101196
+    },
+    {
+      "text": "in reducing smoking. In fact, Massachu-",
+      "bbox": [
+        501,
+        338,
+        710,
+        354
+      ],
+      "confidence": 0.9817065000534058
+    },
+    {
+      "text": "sefts' tough TV ads are aired in Canada.",
+      "bbox": [
+        501,
+        352,
+        707,
+        366
+      ],
+      "confidence": 0.9727721214294434
+    },
+    {
+      "text": "BOSTON-Who",
+      "bbox": [
+        148,
+        358,
+        237,
+        377
+      ],
+      "confidence": 0.9853970408439636
+    },
+    {
+      "text": "Tobacco's endless ability to make lemon-",
+      "bbox": [
+        269,
+        355,
+        480,
+        376
+      ],
+      "confidence": 0.9643421173095703
+    },
+    {
+      "text": "But thiere are still a whole lot of legisla-",
+      "bbox": [
+        517,
+        365,
+        720,
+        379
+      ],
+      "confidence": 0.9881705641746521
+    },
+    {
+      "text": "ever accused the Cana-",
+      "bbox": [
+        133,
+        374,
+        244,
+        388
+      ],
+      "confidence": 0.9989736676216125
+    },
+    {
+      "text": "ade out of our lemons. This year the",
+      "bbox": [
+        269,
+        369,
+        457,
+        388
+      ],
+      "confidence": 0.9811744689941406
+    },
+    {
+      "text": "states are due to get S6.4 billion. But the",
+      "bbox": [
+        269,
+        382,
+        477,
+        401
+      ],
+      "confidence": 0.975827157497406
+    },
+    {
+      "text": "tors who need shock therapy to remem-",
+      "bbox": [
+        500,
+        376,
+        708,
+        391
+      ],
+      "confidence": 0.9902716875076294
+    },
+    {
+      "text": "dians of being stodgy?",
+      "bbox": [
+        130,
+        383,
+        243,
+        403
+      ],
+      "confidence": 0.977228581905365
+    },
+    {
+      "text": "National Conference of State Legislatures",
+      "bbox": [
+        269,
+        394,
+        484,
+        414
+      ],
+      "confidence": 0.9964267611503601
+    },
+    {
+      "text": "ber what's at stake. Maybe some Cana-",
+      "bbox": [
+        500,
+        387,
+        705,
+        405
+      ],
+      "confidence": 0.9747581481933594
+    },
+    {
+      "text": "of the border is getting",
+      "bbox": [
+        130,
+        408,
+        246,
+        429
+      ],
+      "confidence": 0.9496960043907166
+    },
+    {
+      "text": "The government north",
+      "bbox": [
+        133,
+        399,
+        243,
+        413
+      ],
+      "confidence": 0.9983005523681641
+    },
+    {
+      "text": "recently figured that only some 8 percent",
+      "bbox": [
+        269,
+        409,
+        481,
+        426
+      ],
+      "confidence": 0.9860374927520752
+    },
+    {
+      "text": "lung or a beart, a lip or a limp you-know-",
+      "bbox": [
+        500,
+        412,
+        712,
+        432
+      ],
+      "confidence": 0.9550358057022095
+    },
+    {
+      "text": "dian will send them a photograph of a",
+      "bbox": [
+        501,
+        401,
+        699,
+        418
+      ],
+      "confidence": 0.9962283968925476
+    },
+    {
+      "text": "positively lurid.",
+      "bbox": [
+        132,
+        423,
+        210,
+        441
+      ],
+      "confidence": 0.9643147587776184
+    },
+    {
+      "text": "of the money is earmarked for antismok-",
+      "bbox": [
+        268,
+        420,
+        480,
+        441
+      ],
+      "confidence": 0.980600118637085
+    },
+    {
+      "text": "what. Did you hear what school kids up",
+      "bbox": [
+        500,
+        425,
+        710,
+        444
+      ],
+      "confidence": 0.9740804433822632
+    },
+    {
+      "text": "On \"Weedless",
+      "bbox": [
+        149,
+        438,
+        221,
+        452
+      ],
+      "confidence": 0.9971975684165955
+    },
+    {
+      "text": "ing programs. A good portion is slated for",
+      "bbox": [
+        268,
+        433,
+        485,
+        454
+      ],
+      "confidence": 0.9955742955207825
+    },
+    {
+      "text": "there said when they saw the mock-ups",
+      "bbox": [
+        498,
+        438,
+        709,
+        457
+      ],
+      "confidence": 0.9815067648887634
+    },
+    {
+      "text": "Wednesday,\" Canada's",
+      "bbox": [
+        131,
+        447,
+        246,
+        468
+      ],
+      "confidence": 0.9769867062568665
+    },
+    {
+      "text": "what is loosely described as \"health care.",
+      "bbox": [
+        269,
+        446,
+        481,
+        467
+      ],
+      "confidence": 0.9496191740036011
+    },
+    {
+      "text": "for the new packages? \"Gross!\" Sounds",
+      "bbox": [
+        500,
+        452,
+        709,
+        471
+      ],
+      "confidence": 0.9823885560035706
+    },
+    {
+      "text": "national smoke-out day.",
+      "bbox": [
+        131,
+        463,
+        247,
+        479
+      ],
+      "confidence": 0.9754789471626282
+    },
+    {
+      "text": "lated prograins such as roads, schools.",
+      "bbox": [
+        267,
+        472,
+        469,
+        494
+      ],
+      "confidence": 0.969865083694458
+    },
+    {
+      "text": "but much is also going into totally unre-",
+      "bbox": [
+        268,
+        461,
+        472,
+        480
+      ],
+      "confidence": 0.9825917482376099
+    },
+    {
+      "text": "like a great name for a new cigarette.",
+      "bbox": [
+        501,
+        466,
+        697,
+        484
+      ],
+      "confidence": 0.9887325763702393
+    },
+    {
+      "text": "the health minister re-",
+      "bbox": [
+        132,
+        475,
+        242,
+        491
+      ],
+      "confidence": 0.9855655431747437
+    },
+    {
+      "text": "hurricane damage, sidewalks, balancing",
+      "bbox": [
+        267,
+        485,
+        476,
+        507
+      ],
+      "confidence": 0.9886350035667419
+    },
+    {
+      "text": ">Elen Goodmun is a cotumniat for The",
+      "bbox": [
+        503,
+        485,
+        694,
+        499
+      ],
+      "confidence": 0.9548113942146301
+    },
+    {
+      "text": "vealed a proposal to re-",
+      "bbox": [
+        134,
+        490,
+        244,
+        504
+      ],
+      "confidence": 0.9933223128318787
+    },
+    {
+      "text": "decorate his country's",
+      "bbox": [
+        134,
+        502,
+        242,
+        516
+      ],
+      "confidence": 0.9992203116416931
+    },
+    {
+      "text": "Boston Clobo.",
+      "bbox": [
+        501,
+        496,
+        574,
+        512
+      ],
+      "confidence": 0.9354550838470459
+    },
+    {
+      "text": "cigarette packages with fullcolor photo-",
+      "bbox": [
+        31,
+        511,
+        239,
+        531
+      ],
+      "confidence": 0.9726520776748657
+    },
+    {
+      "text": "the budget, and teenage boot camps.",
+      "bbox": [
+        266,
+        507,
+        458,
+        528
+      ],
+      "confidence": 0.9701661467552185
+    },
+    {
+      "text": "graphs of diseased body parts. Talk about",
+      "bbox": [
+        32,
+        526,
+        247,
+        542
+      ],
+      "confidence": 0.9862597584724426
+    },
+    {
+      "text": "into antismoking campaigns. The Centers",
+      "bbox": [
+        266,
+        532,
+        484,
+        556
+      ],
+      "confidence": 0.9820489883422852
+    },
+    {
+      "text": "No one expected all the money to go",
+      "bbox": [
+        282,
+        520,
+        474,
+        542
+      ],
+      "confidence": 0.9774764180183411
+    },
+    {
+      "text": "lively —or should I say deadly? —graph-",
+      "bbox": [
+        31,
+        536,
+        247,
+        558
+      ],
+      "confidence": 0.7732213139533997
+    },
+    {
+      "text": "for Disease Control suggested 20 percent",
+      "bbox": [
+        265,
+        545,
+        482,
+        568
+      ],
+      "confidence": 0.9972044825553894
+    },
+    {
+      "text": "ice.",
+      "bbox": [
+        33,
+        551,
+        58,
+        567
+      ],
+      "confidence": 0.9809343814849854
+    },
+    {
+      "text": "In the States, we are still running drab",
+      "bbox": [
+        53,
+        562,
+        247,
+        582
+      ],
+      "confidence": 0.9814085960388184
+    },
+    {
+      "text": "to 25 percent for prevention. But few",
+      "bbox": [
+        266,
+        558,
+        456,
+        579
+      ],
+      "confidence": 0.9965078234672546
+    },
+    {
+      "text": "black-and-white surgeon general's warn-",
+      "bbox": [
+        34,
+        576,
+        241,
+        594
+      ],
+      "confidence": 0.985729992389679
+    },
+    {
+      "text": "states are meeting that goal.",
+      "bbox": [
+        266,
+        571,
+        411,
+        590
+      ],
+      "confidence": 0.9983189105987549
+    },
+    {
+      "text": "ings that no one reads, but our neighbors",
+      "bbox": [
+        35,
+        588,
+        247,
+        606
+      ],
+      "confidence": 0.9924502372741699
+    },
+    {
+      "text": "To the dismay of antismoking advo-",
+      "bbox": [
+        282,
+        583,
+        468,
+        605
+      ],
+      "confidence": 0.9923160672187805
+    },
+    {
+      "text": "are ready to (dress) up the ante with at-",
+      "bbox": [
+        35,
+        599,
+        239,
+        620
+      ],
+      "confidence": 0.9294896125793457
+    },
+    {
+      "text": "cates who pushed for the deal, most legis-",
+      "bbox": [
+        266,
+        596,
+        484,
+        619
+      ],
+      "confidence": 0.9952727556228638
+    },
+    {
+      "text": "tention-grabbing photographs of every.",
+      "bbox": [
+        35,
+        612,
+        237,
+        633
+      ],
+      "confidence": 0.9830349087715149
+    },
+    {
+      "text": "same as any other pot of funds. It's found",
+      "bbox": [
+        266,
+        622,
+        478,
+        644
+      ],
+      "confidence": 0.9935817718505859
+    },
+    {
+      "text": "lators seem to regard this settlement the",
+      "bbox": [
+        267,
+        610,
+        477,
+        630
+      ],
+      "confidence": 0.9979380369186401
+    },
+    {
+      "text": "thing from a bad heart to a cancerous",
+      "bbox": [
+        36,
+        625,
+        231,
+        646
+      ],
+      "confidence": 0.9857396483421326
+    },
+    {
+      "text": "money -no strings attached. In Michi-",
+      "bbox": [
+        266,
+        635,
+        471,
+        657
+      ],
+      "confidence": 0.9817326664924622
+    },
+    {
+      "text": "lung to a llpful of lesions. They even have",
+      "bbox": [
+        36,
+        638,
+        249,
+        659
+      ],
+      "confidence": 0.9822765588760376
+    },
+    {
+      "text": "a photograph to emphasize the link be",
+      "bbox": [
+        37,
+        652,
+        236,
+        671
+      ],
+      "confidence": 0.9979912042617798
+    },
+    {
+      "text": "gan. one of the top five smoking states in",
+      "bbox": [
+        267,
+        647,
+        478,
+        672
+      ],
+      "confidence": 0.9859440326690674
+    },
+    {
+      "text": "tween smoking and impotence, although.",
+      "bbox": [
+        37,
+        665,
+        249,
+        687
+      ],
+      "confidence": 0.9717947244644165
+    },
+    {
+      "text": "the country, for example, three-quarters",
+      "bbox": [
+        267,
+        660,
+        475,
+        685
+      ],
+      "confidence": 0.9802674055099487
+    },
+    {
+      "text": "in this case, Canadian reserve prevails:",
+      "bbox": [
+        37,
+        677,
+        237,
+        699
+      ],
+      "confidence": 0.9727977514266968
+    },
+    {
+      "text": "of the sertlement will go to college schol.",
+      "bbox": [
+        268,
+        672,
+        476,
+        699
+      ],
+      "confidence": 0.9592223167419434
+    },
+    {
+      "text": "It's a picture of a limp cigarette.",
+      "bbox": [
+        38,
+        690,
+        199,
+        711
+      ],
+      "confidence": 0.9419418573379517
+    },
+    {
+      "text": "arships and none to fight smoking.",
+      "bbox": [
+        268,
+        686,
+        446,
+        711
+      ],
+      "confidence": 0.9747472405433655
+    },
+    {
+      "text": "Of course, it's possible that nothing",
+      "bbox": [
+        57,
+        703,
+        238,
+        727
+      ],
+      "confidence": 0.9886655211448669
+    },
+    {
+      "text": "nies. Having raised the settlement moncy",
+      "bbox": [
+        268,
+        712,
+        481,
+        739
+      ],
+      "confidence": 0.9819521903991699
+    },
+    {
+      "text": "This is fine with the tobacco compa-",
+      "bbox": [
+        285,
+        700,
+        470,
+        725
+      ],
+      "confidence": 0.9863638281822205
+    },
+    {
+      "text": "will keep an addict from a fix. Remember",
+      "bbox": [
+        39,
+        717,
+        249,
+        740
+      ],
+      "confidence": 0.9703353643417358
+    },
+    {
+      "text": "by upping the cost of cigaretes, they still",
+      "bbox": [
+        269,
+        727,
+        480,
+        751
+      ],
+      "confidence": 0.9746434688568115
+    },
+    {
+      "text": "the cigareltes with the skull and cross-",
+      "bbox": [
+        39,
+        730,
+        237,
+        753
+      ],
+      "confidence": 0.9811891317367554
+    },
+    {
+      "text": "get new smokers. As Matthew Myers, ex-",
+      "bbox": [
+        269,
+        739,
+        483,
+        764
+      ],
+      "confidence": 0.9910049438476562
+    },
+    {
+      "text": "bones on the pack? Seen the Camel ad",
+      "bbox": [
+        40,
+        743,
+        237,
+        765
+      ],
+      "confidence": 0.9770028591156006
+    },
+    {
+      "text": "with a guy racing to his shelter as a mete",
+      "bbox": [
+        40,
+        756,
+        251,
+        778
+      ],
+      "confidence": 0.9545605778694153
+    },
+    {
+      "text": "ecutive vice president of the National Cen-",
+      "bbox": [
+        270,
+        750,
+        486,
+        778
+      ],
+      "confidence": 0.8608579635620117
+    },
+    {
+      "text": "orite approaches, grasping nothing but",
+      "bbox": [
+        40,
+        768,
+        240,
+        792
+      ],
+      "confidence": 0.969985842704773
+    },
+    {
+      "text": "ter for Tobacco-Free Kids, told a reporter,",
+      "bbox": [
+        270,
+        764,
+        485,
+        792
+      ],
+      "confidence": 0.9473114013671875
+    },
+    {
+      "text": "his ciette carton? But I still hav to ap",
+      "bbox": [
+        40,
+        779,
+        250,
+        806
+      ],
+      "confidence": 0.7406582832336426
+    },
+    {
+      "text": "They're laughing all the way to the",
+      "bbox": [
+        269,
+        777,
+        453,
+        803
+      ],
+      "confidence": 0.9807401299476624
+    },
+    {
+      "text": "plaud this counterattack against tobacco's",
+      "bbox": [
+        41,
+        792,
+        254,
+        818
+      ],
+      "confidence": 0.9855979084968567
+    },
+    {
+      "text": "bank.\"",
+      "bbox": [
+        270,
+        793,
+        305,
+        808
+      ],
+      "confidence": 0.947688639163971
+    },
+    {
+      "text": "smoky glamour. At least thcy're trying to",
+      "bbox": [
+        40,
+        805,
+        250,
+        831
+      ],
+      "confidence": 0.9391098022460938
+    },
+    {
+      "text": "fu in hooking legislators to the money as",
+      "bbox": [
+        269,
+        816,
+        484,
+        844
+      ],
+      "confidence": 0.9886935353279114
+    },
+    {
+      "text": "Indeed, they may becorne as success-",
+      "bbox": [
+        285,
+        804,
+        480,
+        830
+      ],
+      "confidence": 0.9884833097457886
+    },
+    {
+      "text": "raise the nicotine-dulled consciousness.",
+      "bbox": [
+        41,
+        819,
+        243,
+        842
+      ],
+      "confidence": 0.9831371307373047
+    },
+    {
+      "text": "Just imagine what we could do with",
+      "bbox": [
+        58,
+        832,
+        239,
+        857
+      ],
+      "confidence": 0.9980035424232483
+    },
+    {
+      "text": "this idea. My favorite tobacco'ad of the",
+      "bbox": [
+        41,
+        847,
+        239,
+        869
+      ],
+      "confidence": 0.9870699644088745
+    },
+    {
+      "text": "moment features the Virginia Slitns gal. \"I",
+      "bbox": [
+        40,
+        861,
+        254,
+        882
+      ],
+      "confidence": 0.9631156325340271
+    },
+    {
+      "text": "made a promise to bring romance back",
+      "bbox": [
+        41,
+        873,
+        241,
+        894
+      ],
+      "confidence": 0.9776265025138855
+    },
+    {
+      "text": "into my life, to kiss negativity goodbye.",
+      "bbox": [
+        41,
+        885,
+        240,
+        906
+      ],
+      "confidence": 0.9663968682289124
+    },
+    {
+      "text": "and love the dawning of each new day!",
+      "bbox": [
+        40,
+        896,
+        240,
+        920
+      ],
+      "confidence": 0.9700945019721985
+    },
+    {
+      "text": "she says. Then comes the kicker. \"Vir.",
+      "bbox": [
+        43,
+        909,
+        238,
+        931
+      ],
+      "confidence": 0.9493486285209656
+    },
+    {
+      "text": "ginia Slims. Find Your Voice.\"",
+      "bbox": [
+        43,
+        921,
+        195,
+        942
+      ],
+      "confidence": 0.9963045120239258
+    },
+    {
+      "text": "Find your voice? Instead of a small",
+      "bbox": [
+        62,
+        934,
+        235,
+        956
+      ],
+      "confidence": 0.9672860503196716
+    }
+  ],
+  "full_text": "TAN-24 00 09:10\nFROM:\n18807667188\nTO:19176635739\nPAGE:03\nBUrReLLES NewsExpress\nMon January 24, 2000\nTHE TAMPA\nAppeare On Page 13NW\nTRIBUNE\nPage 1 of 1 Page Anicte (TTF2OCAI)\nCirculation: 268,876\nShock\nwanning about fetal injury in the corner.\nthey are in hooking kids to cigarettes. An\nwe could have a sweet little photograph of\nitty-bitty clause in the sertlement says that\ntherapy\na destroyed larynx.\nif the rate of amoking decreases, so does\nmoment for Americans who want to think\nThe Canadian blast comes at a good\nthe payment. At what point does a state\nabout our own antismoking messages.\nhave a motive for keeping the smoking\nfor smokers\nThese days, the tobacca people are sup-\nrolls up?\nThe point of the settiement was not\nposedly on the detensve. Cigarette taxes\njust to get damages for smoking-related\nare rising; the number of new smokers is\ndeclining. And, most importantly, the first\nhealth problems, but to prevent new ones.\ninstallments of the $246 billion tobacco\nWe already know what works. Programs\nBY ELLEN GOODMAN\nsettlement are arriving in state capitals.\nin Oregon. California, Florida and Massa\nBut it's the use of that settlement\nchusetts have had fairly dramatic efiects\nmoncy that has me wondering about Big\nin reducing smoking. In fact, Massachu-\nsefts' tough TV ads are aired in Canada.\nBOSTON-Who\nTobacco's endless ability to make lemon-\nBut thiere are still a whole lot of legisla-\never accused the Cana-\nade out of our lemons. This year the\nstates are due to get S6.4 billion. But the\ntors who need shock therapy to remem-\ndians of being stodgy?\nNational Conference of State Legislatures\nber what's at stake. Maybe some Cana-\nof the border is getting\nThe government north\nrecently figured that only some 8 percent\nlung or a beart, a lip or a limp you-know-\ndian will send them a photograph of a\npositively lurid.\nof the money is earmarked for antismok-\nwhat. Did you hear what school kids up\nOn \"Weedless\ning programs. A good portion is slated for\nthere said when they saw the mock-ups\nWednesday,\" Canada's\nwhat is loosely described as \"health care.\nfor the new packages? \"Gross!\" Sounds\nnational smoke-out day.\nlated prograins such as roads, schools.\nbut much is also going into totally unre-\nlike a great name for a new cigarette.\nthe health minister re-\nhurricane damage, sidewalks, balancing\n>Elen Goodmun is a cotumniat for The\nvealed a proposal to re-\ndecorate his country's\nBoston Clobo.\ncigarette packages with fullcolor photo-\nthe budget, and teenage boot camps.\ngraphs of diseased body parts. Talk about\ninto antismoking campaigns. The Centers\nNo one expected all the money to go\nlively —or should I say deadly? —graph-\nfor Disease Control suggested 20 percent\nice.\nIn the States, we are still running drab\nto 25 percent for prevention. But few\nblack-and-white surgeon general's warn-\nstates are meeting that goal.\nings that no one reads, but our neighbors\nTo the dismay of antismoking advo-\nare ready to (dress) up the ante with at-\ncates who pushed for the deal, most legis-\ntention-grabbing photographs of every.\nsame as any other pot of funds. It's found\nlators seem to regard this settlement the\nthing from a bad heart to a cancerous\nmoney -no strings attached. In Michi-\nlung to a llpful of lesions. They even have\na photograph to emphasize the link be\ngan. one of the top five smoking states in\ntween smoking and impotence, although.\nthe country, for example, three-quarters\nin this case, Canadian reserve prevails:\nof the sertlement will go to college schol.\nIt's a picture of a limp cigarette.\narships and none to fight smoking.\nOf course, it's possible that nothing\nnies. Having raised the settlement moncy\nThis is fine with the tobacco compa-\nwill keep an addict from a fix. Remember\nby upping the cost of cigaretes, they still\nthe cigareltes with the skull and cross-\nget new smokers. As Matthew Myers, ex-\nbones on the pack? Seen the Camel ad\nwith a guy racing to his shelter as a mete\necutive vice president of the National Cen-\norite approaches, grasping nothing but\nter for Tobacco-Free Kids, told a reporter,\nhis ciette carton? But I still hav to ap\nThey're laughing all the way to the\nplaud this counterattack against tobacco's\nbank.\"\nsmoky glamour. At least thcy're trying to\nfu in hooking legislators to the money as\nIndeed, they may becorne as success-\nraise the nicotine-dulled consciousness.\nJust imagine what we could do with\nthis idea. My favorite tobacco'ad of the\nmoment features the Virginia Slitns gal. \"I\nmade a promise to bring romance back\ninto my life, to kiss negativity goodbye.\nand love the dawning of each new day!\nshe says. Then comes the kicker. \"Vir.\nginia Slims. Find Your Voice.\"\nFind your voice? Instead of a small"
+}

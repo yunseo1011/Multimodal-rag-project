@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0214.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "10.27 FROM-RJRT GOVT. RELATIONS",
+      "bbox": [
+        110,
+        0,
+        386,
+        19
+      ],
+      "confidence": 0.943626344203949
+    },
+    {
+      "text": "ID:19107414401",
+      "bbox": [
+        445,
+        4,
+        564,
+        20
+      ],
+      "confidence": 0.9742341637611389
+    },
+    {
+      "text": "·PAGE",
+      "bbox": [
+        652,
+        5,
+        695,
+        21
+      ],
+      "confidence": 0.904819130897522
+    },
+    {
+      "text": "18/20",
+      "bbox": [
+        708,
+        3,
+        754,
+        19
+      ],
+      "confidence": 0.9148628115653992
+    },
+    {
+      "text": "SCOTTY BAESLER",
+      "bbox": [
+        50,
+        48,
+        165,
+        70
+      ],
+      "confidence": 0.9992371201515198
+    },
+    {
+      "text": "AGRICULTURS",
+      "bbox": [
+        71,
+        99,
+        138,
+        114
+      ],
+      "confidence": 0.9857982993125916
+    },
+    {
+      "text": "VETERANS\" AFFAUIRS",
+      "bbox": [
+        56,
+        113,
+        148,
+        128
+      ],
+      "confidence": 0.864895224571228
+    },
+    {
+      "text": "-1124",
+      "bbox": [
+        648,
+        125,
+        670,
+        132
+      ],
+      "confidence": 0.7391940951347351
+    },
+    {
+      "text": "Congtes's of the United Sptates",
+      "bbox": [
+        228,
+        132,
+        527,
+        156
+      ],
+      "confidence": 0.9487597942352295
+    },
+    {
+      "text": "House of Represeqitatibes",
+      "bbox": [
+        277,
+        157,
+        477,
+        178
+      ],
+      "confidence": 0.9281983971595764
+    },
+    {
+      "text": "BMasbiegton, DC 20515",
+      "bbox": [
+        294,
+        179,
+        461,
+        200
+      ],
+      "confidence": 0.7944725751876831
+    },
+    {
+      "text": "February 1, 1996",
+      "bbox": [
+        89,
+        234,
+        190,
+        251
+      ],
+      "confidence": 0.9855965375900269
+    },
+    {
+      "text": "The Honorable Paul Patton",
+      "bbox": [
+        86,
+        288,
+        245,
+        306
+      ],
+      "confidence": 0.9733071327209473
+    },
+    {
+      "text": "Governor of Keutucky",
+      "bbox": [
+        86,
+        304,
+        218,
+        322
+      ],
+      "confidence": 0.9571462869644165
+    },
+    {
+      "text": "The Capitol",
+      "bbox": [
+        83,
+        318,
+        156,
+        335
+      ],
+      "confidence": 0.9840293526649475
+    },
+    {
+      "text": "700 Capital Avantue",
+      "bbox": [
+        84,
+        333,
+        203,
+        350
+      ],
+      "confidence": 0.9234633445739746
+    },
+    {
+      "text": "Prankfort, KY 40601",
+      "bbox": [
+        84,
+        347,
+        208,
+        364
+      ],
+      "confidence": 0.9554752707481384
+    },
+    {
+      "text": "Dear Governor Patton:",
+      "bbox": [
+        83,
+        375,
+        217,
+        392
+      ],
+      "confidence": 0.9713774919509888
+    },
+    {
+      "text": "The purpose of my lottor is to voice my support for your etforts to pass legislation in the Keptucky",
+      "bbox": [
+        81,
+        400,
+        648,
+        422
+      ],
+      "confidence": 0.9712141156196594
+    },
+    {
+      "text": "General Assembly to probibit the sale of tobecco products to minors. Your afforts prove thut even",
+      "bbox": [
+        82,
+        416,
+        641,
+        436
+      ],
+      "confidence": 0.943343460559845
+    },
+    {
+      "text": "tobacco producing state wre willing to effoctively deal with the issve without the need for excessive",
+      "bbox": [
+        80,
+        429,
+        655,
+        452
+      ],
+      "confidence": 0.9109529256820679
+    },
+    {
+      "text": "federal regulation.",
+      "bbox": [
+        81,
+        445,
+        191,
+        465
+      ],
+      "confidence": 0.9830455780029297
+    },
+    {
+      "text": "Although Keutuciy contains the largost buriey tobaapo growing regioms in the country, all of us",
+      "bbox": [
+        80,
+        471,
+        629,
+        494
+      ],
+      "confidence": 0.9649026989936829
+    },
+    {
+      "text": "understand ths wisdom of proveathng children from smoiding Howover, wo dread roest efforts almed at",
+      "bbox": [
+        79,
+        484,
+        678,
+        508
+      ],
+      "confidence": 0.8517512083053589
+    },
+    {
+      "text": "wrongheaded snd wouid do inreperable harm to the ocooomies of states such as Keatucky.",
+      "bbox": [
+        79,
+        511,
+        597,
+        537
+      ],
+      "confidence": 0.8809451460838318
+    },
+    {
+      "text": "Indood, studies show that even smokets dou't weet their kids to smoice. I am deeply concerned with the",
+      "bbox": [
+        79,
+        539,
+        675,
+        563
+      ],
+      "confidence": 0.9543282985687256
+    },
+    {
+      "text": "iswue of teen sutoicing, aad I think we must taike strong stape to prevent them from forming this habit. At",
+      "bbox": [
+        80,
+        554,
+        681,
+        577
+      ],
+      "confidence": 0.9020949602127075
+    },
+    {
+      "text": "the sarne time, however, I am also concerned about the impact of the potential FD A rogulation on",
+      "bbox": [
+        79,
+        571,
+        640,
+        590
+      ],
+      "confidence": 0.9630154371261597
+    },
+    {
+      "text": "Kentucky's agricultural economy.",
+      "bbox": [
+        79,
+        586,
+        277,
+        603
+      ],
+      "confidence": 0.9897341728210449
+    },
+    {
+      "text": "I believe Semate Bill 137 belences theso conpurs. In fast, SB 137 provides a comprebeasive and realistic",
+      "bbox": [
+        77,
+        610,
+        683,
+        633
+      ],
+      "confidence": 0.9681901335716248
+    },
+    {
+      "text": "remedy for combating toenago amoking in the Combarwrealth of Keutcky. It imposes, for the first",
+      "bbox": [
+        78,
+        624,
+        652,
+        648
+      ],
+      "confidence": 0.9134767055511475
+    },
+    {
+      "text": "tione, significant pumelties and finee for tho sale and direrlbution of toleece products to minors. The",
+      "bbox": [
+        79,
+        640,
+        651,
+        660
+      ],
+      "confidence": 0.9121032953262329
+    },
+    {
+      "text": "logisletion also contains a socmd enforoement mecheniem dasigmed to ensure complience. It also provides",
+      "bbox": [
+        79,
+        654,
+        682,
+        674
+      ],
+      "confidence": 0.9321234226226807
+    },
+    {
+      "text": "a strategy and timeframe for achleving the goal of combatting youth smoking.",
+      "bbox": [
+        79,
+        669,
+        528,
+        690
+      ],
+      "confidence": 0.9531963467597961
+    },
+    {
+      "text": "More importaandy, SB I37 bullds upon the fremgwrork outined in the recently proposed SAMHSA",
+      "bbox": [
+        78,
+        693,
+        645,
+        718
+      ],
+      "confidence": 0.9321711659431458
+    },
+    {
+      "text": "(Substmce Abuso and Mental Heelth Services Administration) regularlons. I belleve your legislation will",
+      "bbox": [
+        78,
+        707,
+        682,
+        732
+      ],
+      "confidence": 0.9137392044067383
+    },
+    {
+      "text": "serve as a natiomal model for what stated can do to probibit the sale of tobecco products to childrem. It is",
+      "bbox": [
+        78,
+        721,
+        683,
+        746
+      ],
+      "confidence": 0.9120367765426636
+    },
+    {
+      "text": "my bope that your legtslation, and similar legislation introduced by Secator Wendell Ford and myself on",
+      "bbox": [
+        79,
+        736,
+        683,
+        759
+      ],
+      "confidence": 0.9386501312255859
+    },
+    {
+      "text": "the Congressional level, will serve to derail eftorts by the FDA to assume regulatory control over",
+      "bbox": [
+        78,
+        751,
+        640,
+        773
+      ],
+      "confidence": 0.9601869583129883
+    },
+    {
+      "text": "tobacco.",
+      "bbox": [
+        79,
+        770,
+        133,
+        787
+      ],
+      "confidence": 0.9852809906005859
+    },
+    {
+      "text": "Thank you for baiing the lead ou this mater.",
+      "bbox": [
+        80,
+        798,
+        343,
+        816
+      ],
+      "confidence": 0.9491817355155945
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        77,
+        821,
+        142,
+        846
+      ],
+      "confidence": 0.9939449429512024
+    },
+    {
+      "text": "Sootty Bacalef",
+      "bbox": [
+        79,
+        882,
+        167,
+        899
+      ],
+      "confidence": 0.9603729248046875
+    },
+    {
+      "text": "Member of Congress",
+      "bbox": [
+        77,
+        895,
+        206,
+        915
+      ],
+      "confidence": 0.9865668416023254
+    }
+  ],
+  "full_text": "10.27 FROM-RJRT GOVT. RELATIONS\nID:19107414401\n·PAGE\n18/20\nSCOTTY BAESLER\nAGRICULTURS\nVETERANS\" AFFAUIRS\n-1124\nCongtes's of the United Sptates\nHouse of Represeqitatibes\nBMasbiegton, DC 20515\nFebruary 1, 1996\nThe Honorable Paul Patton\nGovernor of Keutucky\nThe Capitol\n700 Capital Avantue\nPrankfort, KY 40601\nDear Governor Patton:\nThe purpose of my lottor is to voice my support for your etforts to pass legislation in the Keptucky\nGeneral Assembly to probibit the sale of tobecco products to minors. Your afforts prove thut even\ntobacco producing state wre willing to effoctively deal with the issve without the need for excessive\nfederal regulation.\nAlthough Keutuciy contains the largost buriey tobaapo growing regioms in the country, all of us\nunderstand ths wisdom of proveathng children from smoiding Howover, wo dread roest efforts almed at\nwrongheaded snd wouid do inreperable harm to the ocooomies of states such as Keatucky.\nIndood, studies show that even smokets dou't weet their kids to smoice. I am deeply concerned with the\niswue of teen sutoicing, aad I think we must taike strong stape to prevent them from forming this habit. At\nthe sarne time, however, I am also concerned about the impact of the potential FD A rogulation on\nKentucky's agricultural economy.\nI believe Semate Bill 137 belences theso conpurs. In fast, SB 137 provides a comprebeasive and realistic\nremedy for combating toenago amoking in the Combarwrealth of Keutcky. It imposes, for the first\ntione, significant pumelties and finee for tho sale and direrlbution of toleece products to minors. The\nlogisletion also contains a socmd enforoement mecheniem dasigmed to ensure complience. It also provides\na strategy and timeframe for achleving the goal of combatting youth smoking.\nMore importaandy, SB I37 bullds upon the fremgwrork outined in the recently proposed SAMHSA\n(Substmce Abuso and Mental Heelth Services Administration) regularlons. I belleve your legislation will\nserve as a natiomal model for what stated can do to probibit the sale of tobecco products to childrem. It is\nmy bope that your legtslation, and similar legislation introduced by Secator Wendell Ford and myself on\nthe Congressional level, will serve to derail eftorts by the FDA to assume regulatory control over\ntobacco.\nThank you for baiing the lead ou this mater.\nSincerely,\nSootty Bacalef\nMember of Congress"
+}

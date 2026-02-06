@@ -1,0 +1,351 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0429.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOCHEMICAL AND EIOPHYSICAL RESEARCH COMMUNICATIONS",
+      "bbox": [
+        383,
+        21,
+        727,
+        44
+      ],
+      "confidence": 0.9996644854545593
+    },
+    {
+      "text": "Vol. 128, No. 2, 1985",
+      "bbox": [
+        222,
+        29,
+        333,
+        43
+      ],
+      "confidence": 0.9899319410324097
+    },
+    {
+      "text": "polymerase-a , a major enzyme required for loug patch repair synthesis of DNA. occurs just",
+      "bbox": [
+        221,
+        65,
+        715,
+        90
+      ],
+      "confidence": 0.9753156304359436
+    },
+    {
+      "text": "prior to S phase initiation in eukaryotic ceils (10). This cell cycle phase closely follows",
+      "bbox": [
+        221,
+        92,
+        715,
+        116
+      ],
+      "confidence": 0.9878109097480774
+    },
+    {
+      "text": "increased LDL binding to cell membranes (11). wt.ich preceeds intraceilular concentration",
+      "bbox": [
+        221,
+        118,
+        714,
+        142
+      ],
+      "confidence": 0.9754152894020081
+    },
+    {
+      "text": "increases of cholesterol. triglycerides, and phospholipids noted just prior to the initiation",
+      "bbox": [
+        221,
+        145,
+        713,
+        168
+      ],
+      "confidence": 0.9839946031570435
+    },
+    {
+      "text": "of S phase. These findings support the suggestion by Curtis (12-14) that lipoproteins, speci-",
+      "bbox": [
+        221,
+        172,
+        713,
+        196
+      ],
+      "confidence": 0.9776404500007629
+    },
+    {
+      "text": "fically LDL, are required for the initiation of DNA synthesis preceeding mitosis in mitogen",
+      "bbox": [
+        221,
+        200,
+        712,
+        220
+      ],
+      "confidence": 0.9926663637161255
+    },
+    {
+      "text": "stimulated lymphocytes. While the biochemical rclationship between lipoproteins and the",
+      "bbox": [
+        221,
+        226,
+        712,
+        246
+      ],
+      "confidence": 0.9848223328590393
+    },
+    {
+      "text": "enzymes of DNA synthesis has not been cleariy established, manipulation of LDL avail.",
+      "bbox": [
+        222,
+        255,
+        711,
+        271
+      ],
+      "confidence": 0.9778259992599487
+    },
+    {
+      "text": "ability to cells appears to represent a mechanism by which DNA polymerase-a activation",
+      "bbox": [
+        222,
+        282,
+        712,
+        296
+      ],
+      "confidence": 0.9923641085624695
+    },
+    {
+      "text": "might be studied.",
+      "bbox": [
+        220,
+        306,
+        312,
+        324
+      ],
+      "confidence": 0.9988718628883362
+    },
+    {
+      "text": "GM1915 cells, a diploid human fibroblast ceii jine derived from a female patient with",
+      "bbox": [
+        254,
+        336,
+        712,
+        356
+      ],
+      "confidence": 0.98005610704422
+    },
+    {
+      "text": "hypercholesterolemia. is deficient for apolipoprutoin B receptor, exhibits decreased internal.",
+      "bbox": [
+        221,
+        363,
+        713,
+        382
+      ],
+      "confidence": 0.9748348593711853
+    },
+    {
+      "text": "ization of low density lipoprotein (15), and inefficiently repairs ultraviolet light type (long",
+      "bbox": [
+        221,
+        389,
+        712,
+        408
+      ],
+      "confidence": 0.9945380091667175
+    },
+    {
+      "text": "patch repair) DNA lesions. To assess the relutiv, differences in uctivity of DNA poly.",
+      "bbox": [
+        221,
+        414,
+        712,
+        435
+      ],
+      "confidence": 0.9606443643569946
+    },
+    {
+      "text": "merases α and 6 in normal (WI38) and repair deficient (GM1915) human diploid fibroblasts,",
+      "bbox": [
+        220,
+        440,
+        711,
+        461
+      ],
+      "confidence": 0.9810742735862732
+    },
+    {
+      "text": "cells were treated with varying concentrations of rutagens and incorporation of 3H-Tdr as",
+      "bbox": [
+        221,
+        467,
+        712,
+        487
+      ],
+      "confidence": 0.9667394161224365
+    },
+    {
+      "text": "a measure of DNA excision repair was determined. !.fethyl methanesulfonate (MMS) initiates",
+      "bbox": [
+        220,
+        494,
+        711,
+        514
+      ],
+      "confidence": 0.9788622260093689
+    },
+    {
+      "text": "short-patch DNA repair requiring DNA polymerase.  . Both GM1915 and WI38 cells exhibit",
+      "bbox": [
+        221,
+        520,
+        710,
+        539
+      ],
+      "confidence": 0.9742709994316101
+    },
+    {
+      "text": "DNA polymerase- 3 activity (Figure 1). Equivalent l-vels of 3H.Tdr incorporation into DNA",
+      "bbox": [
+        220,
+        545,
+        710,
+        567
+      ],
+      "confidence": 0.9624235033988953
+    },
+    {
+      "text": "in the two cell lines (Figure 1) differ from data seen in Figure 2 showing that BPDE.",
+      "bbox": [
+        219,
+        572,
+        709,
+        592
+      ],
+      "confidence": 0.9920487403869629
+    },
+    {
+      "text": "initiated DNA damage results in significantly more \"H·Tdr incorporation in W138 cells than",
+      "bbox": [
+        220,
+        599,
+        708,
+        616
+      ],
+      "confidence": 0.9646662473678589
+    },
+    {
+      "text": "in GM1915 cells. BPDE, a reactive metabolite of benzolalpyrene, is similar to ultraviolet",
+      "bbox": [
+        218,
+        624,
+        708,
+        643
+      ],
+      "confidence": 0.9726955890655518
+    },
+    {
+      "text": "light in that it initiates long patch excision repair utilizing DNA polymerase-a for the major",
+      "bbox": [
+        218,
+        650,
+        708,
+        669
+      ],
+      "confidence": 0.984714925289154
+    },
+    {
+      "text": "repolymerization of excised nucleotides. The maxinal 3H-Tdr incorporation observed for",
+      "bbox": [
+        217,
+        673,
+        708,
+        696
+      ],
+      "confidence": 0.9829423427581787
+    },
+    {
+      "text": "GM1915 cells was about '20% of that seeo for WI38 cells, and was initiated by treatment",
+      "bbox": [
+        217,
+        700,
+        708,
+        722
+      ],
+      "confidence": 0.9449224472045898
+    },
+    {
+      "text": "with BPDE at 100 ng/ml.Since the reduced levelof 3H.Tr incorporation in GM1915 fibro-",
+      "bbox": [
+        216,
+        723,
+        709,
+        748
+      ],
+      "confidence": 0.9358841776847839
+    },
+    {
+      "text": "blasts might be the result of variations in thymidice pool size, the relative Tdr pools in",
+      "bbox": [
+        217,
+        751,
+        707,
+        772
+      ],
+      "confidence": 0.9814991354942322
+    },
+    {
+      "text": "w138 and GM1915 cells were examined and found comparable, being 1.06 and 1.0 respec.",
+      "bbox": [
+        218,
+        776,
+        706,
+        796
+      ],
+      "confidence": 0.9733833074569702
+    },
+    {
+      "text": "tively.",
+      "bbox": [
+        216,
+        801,
+        256,
+        824
+      ],
+      "confidence": 0.9996014833450317
+    },
+    {
+      "text": "Data shown in Figures 1 and 2 suggest that WI38 and GM1915 colls have active",
+      "bbox": [
+        249,
+        833,
+        705,
+        854
+      ],
+      "confidence": 0.975808322429657
+    },
+    {
+      "text": "DNA polymerase- 8 , but that cells from these two lines do not exhibit equivalent levels of",
+      "bbox": [
+        216,
+        860,
+        704,
+        878
+      ],
+      "confidence": 0.9783390760421753
+    },
+    {
+      "text": "756",
+      "bbox": [
+        447,
+        892,
+        473,
+        912
+      ],
+      "confidence": 0.9999422430992126
+    }
+  ],
+  "full_text": "BIOCHEMICAL AND EIOPHYSICAL RESEARCH COMMUNICATIONS\nVol. 128, No. 2, 1985\npolymerase-a , a major enzyme required for loug patch repair synthesis of DNA. occurs just\nprior to S phase initiation in eukaryotic ceils (10). This cell cycle phase closely follows\nincreased LDL binding to cell membranes (11). wt.ich preceeds intraceilular concentration\nincreases of cholesterol. triglycerides, and phospholipids noted just prior to the initiation\nof S phase. These findings support the suggestion by Curtis (12-14) that lipoproteins, speci-\nfically LDL, are required for the initiation of DNA synthesis preceeding mitosis in mitogen\nstimulated lymphocytes. While the biochemical rclationship between lipoproteins and the\nenzymes of DNA synthesis has not been cleariy established, manipulation of LDL avail.\nability to cells appears to represent a mechanism by which DNA polymerase-a activation\nmight be studied.\nGM1915 cells, a diploid human fibroblast ceii jine derived from a female patient with\nhypercholesterolemia. is deficient for apolipoprutoin B receptor, exhibits decreased internal.\nization of low density lipoprotein (15), and inefficiently repairs ultraviolet light type (long\npatch repair) DNA lesions. To assess the relutiv, differences in uctivity of DNA poly.\nmerases α and 6 in normal (WI38) and repair deficient (GM1915) human diploid fibroblasts,\ncells were treated with varying concentrations of rutagens and incorporation of 3H-Tdr as\na measure of DNA excision repair was determined. !.fethyl methanesulfonate (MMS) initiates\nshort-patch DNA repair requiring DNA polymerase.  . Both GM1915 and WI38 cells exhibit\nDNA polymerase- 3 activity (Figure 1). Equivalent l-vels of 3H.Tdr incorporation into DNA\nin the two cell lines (Figure 1) differ from data seen in Figure 2 showing that BPDE.\ninitiated DNA damage results in significantly more \"H·Tdr incorporation in W138 cells than\nin GM1915 cells. BPDE, a reactive metabolite of benzolalpyrene, is similar to ultraviolet\nlight in that it initiates long patch excision repair utilizing DNA polymerase-a for the major\nrepolymerization of excised nucleotides. The maxinal 3H-Tdr incorporation observed for\nGM1915 cells was about '20% of that seeo for WI38 cells, and was initiated by treatment\nwith BPDE at 100 ng/ml.Since the reduced levelof 3H.Tr incorporation in GM1915 fibro-\nblasts might be the result of variations in thymidice pool size, the relative Tdr pools in\nw138 and GM1915 cells were examined and found comparable, being 1.06 and 1.0 respec.\ntively.\nData shown in Figures 1 and 2 suggest that WI38 and GM1915 colls have active\nDNA polymerase- 8 , but that cells from these two lines do not exhibit equivalent levels of\n756"
+}

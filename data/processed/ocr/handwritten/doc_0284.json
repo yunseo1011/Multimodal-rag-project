@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0284.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "6-12-00",
+      "bbox": [
+        601,
+        336,
+        715,
+        372
+      ],
+      "confidence": 0.9908029437065125
+    },
+    {
+      "text": "This is the 4th",
+      "bbox": [
+        394,
+        404,
+        683,
+        443
+      ],
+      "confidence": 0.8054074048995972
+    },
+    {
+      "text": "teine I have Sont this",
+      "bbox": [
+        333,
+        441,
+        713,
+        472
+      ],
+      "confidence": 0.7039308547973633
+    },
+    {
+      "text": "Aon lind als a",
+      "bbox": [
+        324,
+        471,
+        657,
+        501
+      ],
+      "confidence": 0.7219042778015137
+    },
+    {
+      "text": "Detten.",
+      "bbox": [
+        323,
+        492,
+        441,
+        532
+      ],
+      "confidence": 0.7249806523323059
+    },
+    {
+      "text": "Figet onen way bah ut",
+      "bbox": [
+        327,
+        538,
+        701,
+        584
+      ],
+      "confidence": 0.6760208010673523
+    },
+    {
+      "text": "theend i7 1998",
+      "bbox": [
+        335,
+        573,
+        631,
+        609
+      ],
+      "confidence": 0.7798492312431335
+    },
+    {
+      "text": "I tell swait bou",
+      "bbox": [
+        338,
+        615,
+        679,
+        658
+      ],
+      "confidence": 0.7118579745292664
+    },
+    {
+      "text": "peply + relief",
+      "bbox": [
+        326,
+        649,
+        589,
+        694
+      ],
+      "confidence": 0.6787029504776001
+    },
+    {
+      "text": "Thha",
+      "bbox": [
+        523,
+        686,
+        710,
+        736
+      ],
+      "confidence": 0.6801649928092957
+    },
+    {
+      "text": "52271 9040",
+      "bbox": [
+        710,
+        854,
+        730,
+        953
+      ],
+      "confidence": 0.9761413335800171
+    }
+  ],
+  "full_text": "6-12-00\nThis is the 4th\nteine I have Sont this\nAon lind als a\nDetten.\nFiget onen way bah ut\ntheend i7 1998\nI tell swait bou\npeply + relief\nThha\n52271 9040"
+}

@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0062.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ppu 4/28/62 men like",
+      "bbox": [
+        0,
+        0,
+        353,
+        38
+      ],
+      "confidence": 0.8819424510002136
+    },
+    {
+      "text": "a",
+      "bbox": [
+        0,
+        6,
+        388,
+        176
+      ],
+      "confidence": 0.6549846529960632
+    },
+    {
+      "text": "men smoke",
+      "bbox": [
+        458,
+        1,
+        678,
+        45
+      ],
+      "confidence": 0.9997802376747131
+    },
+    {
+      "text": "FILTER CIGARETTES BY PHILIP MORRIS NEW YORH",
+      "bbox": [
+        4,
+        152,
+        773,
+        191
+      ],
+      "confidence": 0.9794129729270935
+    },
+    {
+      "text": "Michen savuke -- josta nainen pitä..",
+      "bbox": [
+        190,
+        815,
+        500,
+        841
+      ],
+      "confidence": 0.9427052736282349
+    },
+    {
+      "text": "2012360061",
+      "bbox": [
+        558,
+        818,
+        598,
+        981
+      ],
+      "confidence": 0.9946345090866089
+    },
+    {
+      "text": "Marlboro",
+      "bbox": [
+        585,
+        830,
+        757,
+        919
+      ],
+      "confidence": 0.8363481760025024
+    },
+    {
+      "text": "Mainio \"MALBORO\"",
+      "bbox": [
+        153,
+        838,
+        350,
+        865
+      ],
+      "confidence": 0.9933916330337524
+    },
+    {
+      "text": "By Philip Morris.",
+      "bbox": [
+        397,
+        842,
+        539,
+        869
+      ],
+      "confidence": 0.9986903071403503
+    },
+    {
+      "text": "Siinä maistuu tupakka -Virginia ja Burley.",
+      "bbox": [
+        170,
+        863,
+        520,
+        895
+      ],
+      "confidence": 0.973893404006958
+    },
+    {
+      "text": "Ja EASTMAN KODAK smodatin swo Teille tàyden ilon:",
+      "bbox": [
+        28,
+        894,
+        363,
+        920
+      ],
+      "confidence": 0.9584320783615112
+    },
+    {
+      "text": "108",
+      "bbox": [
+        440,
+        905,
+        523,
+        945
+      ],
+      "confidence": 0.9999017715454102
+    },
+    {
+      "text": "Pubtaat sawhut, multa muhana makw.",
+      "bbox": [
+        30,
+        911,
+        241,
+        929
+      ],
+      "confidence": 0.8727589249610901
+    },
+    {
+      "text": "suodatinsavuke-mukana maku",
+      "bbox": [
+        28,
+        936,
+        361,
+        965
+      ],
+      "confidence": 0.9988033771514893
+    },
+    {
+      "text": "Sen saatte kxn Sanotte: \"MALBORO\"",
+      "bbox": [
+        31,
+        924,
+        253,
+        941
+      ],
+      "confidence": 0.8704264760017395
+    },
+    {
+      "text": "MARKKAA",
+      "bbox": [
+        431,
+        937,
+        533,
+        960
+      ],
+      "confidence": 0.9922537207603455
+    },
+    {
+      "text": "100",
+      "bbox": [
+        15,
+        955,
+        41,
+        970
+      ],
+      "confidence": 0.9998161196708679
+    }
+  ],
+  "full_text": "Ppu 4/28/62 men like\na\nmen smoke\nFILTER CIGARETTES BY PHILIP MORRIS NEW YORH\nMichen savuke -- josta nainen pitä..\n2012360061\nMarlboro\nMainio \"MALBORO\"\nBy Philip Morris.\nSiinä maistuu tupakka -Virginia ja Burley.\nJa EASTMAN KODAK smodatin swo Teille tàyden ilon:\n108\nPubtaat sawhut, multa muhana makw.\nsuodatinsavuke-mukana maku\nSen saatte kxn Sanotte: \"MALBORO\"\nMARKKAA\n100"
+}

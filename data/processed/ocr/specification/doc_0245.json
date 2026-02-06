@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0245.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BRAND: 9mg 100mn Menthol: Next",
+      "bbox": [
+        74,
+        144,
+        321,
+        162
+      ],
+      "confidence": 0.9309533834457397
+    },
+    {
+      "text": "CIGARETTE MANUFACTURING SPECIFICATION",
+      "bbox": [
+        76,
+        198,
+        376,
+        212
+      ],
+      "confidence": 0.99921715259552
+    },
+    {
+      "text": "CIGARETTE:",
+      "bbox": [
+        72,
+        274,
+        160,
+        293
+      ],
+      "confidence": 0.9985980987548828
+    },
+    {
+      "text": "Nicotine",
+      "bbox": [
+        71,
+        305,
+        145,
+        325
+      ],
+      "confidence": 0.9999358654022217
+    },
+    {
+      "text": "less than 0.1 mg/cigt.",
+      "bbox": [
+        484,
+        301,
+        665,
+        321
+      ],
+      "confidence": 0.9644737839698792
+    },
+    {
+      "text": "FTC Tar",
+      "bbox": [
+        72,
+        320,
+        137,
+        341
+      ],
+      "confidence": 0.930184543132782
+    },
+    {
+      "text": "9.0",
+      "bbox": [
+        485,
+        321,
+        515,
+        337
+      ],
+      "confidence": 0.9994292259216309
+    },
+    {
+      "text": "- 0.5_ + 0.4_mg/cigt",
+      "bbox": [
+        548,
+        315,
+        722,
+        337
+      ],
+      "confidence": 0.9528908729553223
+    },
+    {
+      "text": "68",
+      "bbox": [
+        485,
+        336,
+        507,
+        352
+      ],
+      "confidence": 0.9998708963394165
+    },
+    {
+      "text": "Tobacco Rod Length",
+      "bbox": [
+        72,
+        339,
+        228,
+        356
+      ],
+      "confidence": 0.9748303294181824
+    },
+    {
+      "text": "31.5",
+      "bbox": [
+        485,
+        351,
+        523,
+        369
+      ],
+      "confidence": 0.9998046159744263
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        549,
+        339,
+        572,
+        351
+      ],
+      "confidence": 0.9978693723678589
+    },
+    {
+      "text": "Filter Length",
+      "bbox": [
+        71,
+        354,
+        186,
+        372
+      ],
+      "confidence": 0.9935944676399231
+    },
+    {
+      "text": "99.5",
+      "bbox": [
+        483,
+        366,
+        524,
+        386
+      ],
+      "confidence": 0.9997171759605408
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        550,
+        355,
+        572,
+        367
+      ],
+      "confidence": 0.9105308055877686
+    },
+    {
+      "text": "Total Cigarette Length",
+      "bbox": [
+        72,
+        371,
+        260,
+        388
+      ],
+      "confidence": 0.9994512796401978
+    },
+    {
+      "text": "mum",
+      "bbox": [
+        550,
+        371,
+        573,
+        383
+      ],
+      "confidence": 0.7633804678916931
+    },
+    {
+      "text": "Tipping Paper Length",
+      "bbox": [
+        74,
+        389,
+        243,
+        403
+      ],
+      "confidence": 0.9995980262756348
+    },
+    {
+      "text": "36",
+      "bbox": [
+        486,
+        384,
+        509,
+        401
+      ],
+      "confidence": 0.9999237060546875
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        550,
+        387,
+        574,
+        399
+      ],
+      "confidence": 0.9917573928833008
+    },
+    {
+      "text": "Cigarette Paper Width",
+      "bbox": [
+        72,
+        404,
+        252,
+        421
+      ],
+      "confidence": 0.977104902267456
+    },
+    {
+      "text": "27.25",
+      "bbox": [
+        487,
+        401,
+        531,
+        416
+      ],
+      "confidence": 0.9999634027481079
+    },
+    {
+      "text": "mum",
+      "bbox": [
+        551,
+        403,
+        574,
+        415
+      ],
+      "confidence": 0.8868658542633057
+    },
+    {
+      "text": "Circumference",
+      "bbox": [
+        71,
+        419,
+        186,
+        438
+      ],
+      "confidence": 0.9996113181114197
+    },
+    {
+      "text": "24.80",
+      "bbox": [
+        487,
+        417,
+        532,
+        431
+      ],
+      "confidence": 0.9999006986618042
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        551,
+        419,
+        575,
+        431
+      ],
+      "confidence": 0.9798151850700378
+    },
+    {
+      "text": "Total RTD",
+      "bbox": [
+        73,
+        438,
+        152,
+        452
+      ],
+      "confidence": 0.9836650490760803
+    },
+    {
+      "text": "124.46 mm H2O",
+      "bbox": [
+        489,
+        433,
+        605,
+        448
+      ],
+      "confidence": 0.929415762424469
+    },
+    {
+      "text": "Ventilation",
+      "bbox": [
+        71,
+        451,
+        169,
+        471
+      ],
+      "confidence": 0.9995537400245667
+    },
+    {
+      "text": "35 %± 5%",
+      "bbox": [
+        489,
+        450,
+        591,
+        464
+      ],
+      "confidence": 0.9060904383659363
+    },
+    {
+      "text": "Filter RTD",
+      "bbox": [
+        70,
+        468,
+        161,
+        487
+      ],
+      "confidence": 0.9730340838432312
+    },
+    {
+      "text": "114.30 mm H2O",
+      "bbox": [
+        488,
+        465,
+        607,
+        482
+      ],
+      "confidence": 0.9003373384475708
+    },
+    {
+      "text": "Menthol, Smoke",
+      "bbox": [
+        71,
+        487,
+        191,
+        501
+      ],
+      "confidence": 0.9952219724655151
+    },
+    {
+      "text": "0.65",
+      "bbox": [
+        491,
+        498,
+        528,
+        513
+      ],
+      "confidence": 0.9999270439147949
+    },
+    {
+      "text": "± 0.05 mg/cigt.",
+      "bbox": [
+        536,
+        493,
+        665,
+        514
+      ],
+      "confidence": 0.9977667331695557
+    },
+    {
+      "text": "Fresh",
+      "bbox": [
+        88,
+        503,
+        135,
+        518
+      ],
+      "confidence": 0.9997857213020325
+    },
+    {
+      "text": "0.55",
+      "bbox": [
+        491,
+        514,
+        529,
+        529
+      ],
+      "confidence": 0.9998884201049805
+    },
+    {
+      "text": "± 0.05 mg/cigt.",
+      "bbox": [
+        536,
+        509,
+        665,
+        529
+      ],
+      "confidence": 0.9880093932151794
+    },
+    {
+      "text": "Field",
+      "bbox": [
+        88,
+        519,
+        136,
+        534
+      ],
+      "confidence": 0.9997884631156921
+    },
+    {
+      "text": "MOISTURE TARGET:",
+      "bbox": [
+        72,
+        551,
+        205,
+        566
+      ],
+      "confidence": 0.9978065490722656
+    },
+    {
+      "text": "12.95",
+      "bbox": [
+        490,
+        574,
+        541,
+        595
+      ],
+      "confidence": 0.9998373985290527
+    },
+    {
+      "text": "24 Hour Pack Moisture",
+      "bbox": [
+        70,
+        579,
+        250,
+        598
+      ],
+      "confidence": 0.9792385101318359
+    },
+    {
+      "text": "TARGET WEIGHTS:",
+      "bbox": [
+        71,
+        614,
+        197,
+        628
+      ],
+      "confidence": 0.9993647933006287
+    },
+    {
+      "text": "White Tipping",
+      "bbox": [
+        457,
+        623,
+        575,
+        643
+      ],
+      "confidence": 0.9520749449729919
+    },
+    {
+      "text": "Rod Density at 13.25% 0.v.",
+      "bbox": [
+        70,
+        642,
+        288,
+        662
+      ],
+      "confidence": 0.9824979305267334
+    },
+    {
+      "text": "0.227602",
+      "bbox": [
+        467,
+        640,
+        539,
+        658
+      ],
+      "confidence": 0.9998782873153687
+    },
+    {
+      "text": "g",
+      "bbox": [
+        553,
+        643,
+        568,
+        657
+      ],
+      "confidence": 0.9984694123268127
+    },
+    {
+      "text": "Tobacco weight at 13.258 0.v.",
+      "bbox": [
+        70,
+        658,
+        313,
+        679
+      ],
+      "confidence": 0.9514003992080688
+    },
+    {
+      "text": "0.7574928",
+      "bbox": [
+        467,
+        656,
+        550,
+        675
+      ],
+      "confidence": 0.999822199344635
+    },
+    {
+      "text": "g",
+      "bbox": [
+        553,
+        659,
+        567,
+        672
+      ],
+      "confidence": 0.9999246597290039
+    },
+    {
+      "text": "Cigarette paper and Side seam",
+      "bbox": [
+        70,
+        675,
+        316,
+        696
+      ],
+      "confidence": 0.984835684299469
+    },
+    {
+      "text": "0.0476703",
+      "bbox": [
+        467,
+        673,
+        551,
+        690
+      ],
+      "confidence": 0.9996356964111328
+    },
+    {
+      "text": "g",
+      "bbox": [
+        552,
+        675,
+        568,
+        688
+      ],
+      "confidence": 0.9996086955070496
+    },
+    {
+      "text": "Rod weight at 13.25% 0.v.",
+      "bbox": [
+        70,
+        691,
+        280,
+        711
+      ],
+      "confidence": 0.9649181962013245
+    },
+    {
+      "text": "0.8051631",
+      "bbox": [
+        468,
+        689,
+        552,
+        706
+      ],
+      "confidence": 0.9999475479125977
+    },
+    {
+      "text": "g",
+      "bbox": [
+        549,
+        692,
+        568,
+        704
+      ],
+      "confidence": 0.6011129021644592
+    },
+    {
+      "text": "Tipping paper and Adhesive",
+      "bbox": [
+        71,
+        708,
+        290,
+        728
+      ],
+      "confidence": 0.999022901058197
+    },
+    {
+      "text": "0.0471462",
+      "bbox": [
+        468,
+        706,
+        553,
+        722
+      ],
+      "confidence": 0.9999263286590576
+    },
+    {
+      "text": "g",
+      "bbox": [
+        551,
+        708,
+        569,
+        720
+      ],
+      "confidence": 0.995059609413147
+    },
+    {
+      "text": "Filter plug (_27_mm)",
+      "bbox": [
+        70,
+        725,
+        238,
+        744
+      ],
+      "confidence": 0.9867089986801147
+    },
+    {
+      "text": "0.2129",
+      "bbox": [
+        469,
+        722,
+        525,
+        739
+      ],
+      "confidence": 0.9999852776527405
+    },
+    {
+      "text": "0.8523093",
+      "bbox": [
+        469,
+        737,
+        559,
+        754
+      ],
+      "confidence": 0.9999166131019592
+    },
+    {
+      "text": "g",
+      "bbox": [
+        555,
+        740,
+        571,
+        752
+      ],
+      "confidence": 0.9998044371604919
+    },
+    {
+      "text": "Total Cigarette weight at 13.25% 0.v.",
+      "bbox": [
+        71,
+        755,
+        378,
+        776
+      ],
+      "confidence": 0.9592611193656921
+    },
+    {
+      "text": "Total Less Plug",
+      "bbox": [
+        72,
+        743,
+        199,
+        759
+      ],
+      "confidence": 0.997854471206665
+    },
+    {
+      "text": "1.065209",
+      "bbox": [
+        470,
+        752,
+        545,
+        770
+      ],
+      "confidence": 0.9998213648796082
+    },
+    {
+      "text": "g",
+      "bbox": [
+        558,
+        755,
+        572,
+        768
+      ],
+      "confidence": 0.9998278617858887
+    },
+    {
+      "text": "106.52",
+      "bbox": [
+        470,
+        769,
+        527,
+        786
+      ],
+      "confidence": 0.9998340606689453
+    },
+    {
+      "text": "g",
+      "bbox": [
+        559,
+        769,
+        573,
+        784
+      ],
+      "confidence": 0.9998040795326233
+    },
+    {
+      "text": "Cigarette 100 Weight",
+      "bbox": [
+        71,
+        773,
+        241,
+        792
+      ],
+      "confidence": 0.9971601366996765
+    },
+    {
+      "text": "2023106025",
+      "bbox": [
+        733,
+        780,
+        775,
+        935
+      ],
+      "confidence": 0.999931812286377
+    }
+  ],
+  "full_text": "BRAND: 9mg 100mn Menthol: Next\nCIGARETTE MANUFACTURING SPECIFICATION\nCIGARETTE:\nNicotine\nless than 0.1 mg/cigt.\nFTC Tar\n9.0\n- 0.5_ + 0.4_mg/cigt\n68\nTobacco Rod Length\n31.5\nmm\nFilter Length\n99.5\nmm\nTotal Cigarette Length\nmum\nTipping Paper Length\n36\nmm\nCigarette Paper Width\n27.25\nmum\nCircumference\n24.80\nmm\nTotal RTD\n124.46 mm H2O\nVentilation\n35 %± 5%\nFilter RTD\n114.30 mm H2O\nMenthol, Smoke\n0.65\n± 0.05 mg/cigt.\nFresh\n0.55\n± 0.05 mg/cigt.\nField\nMOISTURE TARGET:\n12.95\n24 Hour Pack Moisture\nTARGET WEIGHTS:\nWhite Tipping\nRod Density at 13.25% 0.v.\n0.227602\ng\nTobacco weight at 13.258 0.v.\n0.7574928\ng\nCigarette paper and Side seam\n0.0476703\ng\nRod weight at 13.25% 0.v.\n0.8051631\ng\nTipping paper and Adhesive\n0.0471462\ng\nFilter plug (_27_mm)\n0.2129\n0.8523093\ng\nTotal Cigarette weight at 13.25% 0.v.\nTotal Less Plug\n1.065209\ng\n106.52\ng\nCigarette 100 Weight\n2023106025"
+}

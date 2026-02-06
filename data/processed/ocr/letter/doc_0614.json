@@ -1,0 +1,421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0614.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard",
+      "bbox": [
+        265,
+        65,
+        492,
+        135
+      ],
+      "confidence": 0.9802254438400269
+    },
+    {
+      "text": "TOBACCO-COMPANY",
+      "bbox": [
+        355,
+        125,
+        477,
+        139
+      ],
+      "confidence": 0.9726442098617554
+    },
+    {
+      "text": "Vice President",
+      "bbox": [
+        61,
+        171,
+        124,
+        188
+      ],
+      "confidence": 0.9003344774246216
+    },
+    {
+      "text": "DR. F. J. SCHULT2",
+      "bbox": [
+        62,
+        158,
+        144,
+        176
+      ],
+      "confidence": 0.9278322458267212
+    },
+    {
+      "text": "Research & Development",
+      "bbox": [
+        61,
+        183,
+        170,
+        201
+      ],
+      "confidence": 0.9779178500175476
+    },
+    {
+      "text": "(919) 373-6602",
+      "bbox": [
+        61,
+        196,
+        126,
+        214
+      ],
+      "confidence": 0.9554150700569153
+    },
+    {
+      "text": "October 20, 1992",
+      "bbox": [
+        75,
+        234,
+        226,
+        253
+      ],
+      "confidence": 0.9811511039733887
+    },
+    {
+      "text": "TITL Directors:",
+      "bbox": [
+        163,
+        276,
+        301,
+        294
+      ],
+      "confidence": 0.9946117997169495
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        73,
+        280,
+        103,
+        296
+      ],
+      "confidence": 0.9981012344360352
+    },
+    {
+      "text": "Ms. Brenda T. Hodge:",
+      "bbox": [
+        162,
+        305,
+        348,
+        324
+      ],
+      "confidence": 0.9778512716293335
+    },
+    {
+      "text": "Mr. William F. Kuhn",
+      "bbox": [
+        162,
+        319,
+        348,
+        339
+      ],
+      "confidence": 0.9679955840110779
+    },
+    {
+      "text": "Dr. John H. Lauterbach",
+      "bbox": [
+        162,
+        334,
+        373,
+        353
+      ],
+      "confidence": 0.9858871102333069
+    },
+    {
+      "text": "Mr. Byron E. Price",
+      "bbox": [
+        162,
+        349,
+        336,
+        368
+      ],
+      "confidence": 0.945444643497467
+    },
+    {
+      "text": "Mr. Gregory A. Sulin",
+      "bbox": [
+        163,
+        363,
+        355,
+        383
+      ],
+      "confidence": 0.9963272213935852
+    },
+    {
+      "text": "Thank you for your participation in our meeting of September 28,",
+      "bbox": [
+        70,
+        392,
+        675,
+        415
+      ],
+      "confidence": 0.9991099834442139
+    },
+    {
+      "text": "1992 in Montreal. This is just to confirm and record our",
+      "bbox": [
+        71,
+        407,
+        611,
+        429
+      ],
+      "confidence": 0.9811269044876099
+    },
+    {
+      "text": "decision at that meeting.",
+      "bbox": [
+        72,
+        423,
+        307,
+        444
+      ],
+      "confidence": 0.9904995560646057
+    },
+    {
+      "text": "1) We approved the l993 TITL budget as proposed, totaling",
+      "bbox": [
+        119,
+        452,
+        657,
+        474
+      ],
+      "confidence": 0.9871858954429626
+    },
+    {
+      "text": "$978,400.",
+      "bbox": [
+        75,
+        471,
+        161,
+        488
+      ],
+      "confidence": 0.9969437718391418
+    },
+    {
+      "text": "2) We approved Dr. Steele's proposal to promote one non-",
+      "bbox": [
+        120,
+        496,
+        651,
+        517
+      ],
+      "confidence": 0.9827914834022522
+    },
+    {
+      "text": "exempt employee to an exempt position with no immediate effect on",
+      "bbox": [
+        74,
+        509,
+        685,
+        533
+      ],
+      "confidence": 0.9780544638633728
+    },
+    {
+      "text": "salary.",
+      "bbox": [
+        74,
+        529,
+        144,
+        549
+      ],
+      "confidence": 0.9995125532150269
+    },
+    {
+      "text": "3) We proposed a 5% increase in Dr. Steele's salary tc",
+      "bbox": [
+        122,
+        556,
+        630,
+        575
+      ],
+      "confidence": 0.9934054613113403
+    },
+    {
+      "text": "$89,854 per year effective: January l993.",
+      "bbox": [
+        77,
+        573,
+        450,
+        590
+      ],
+      "confidence": 0.9811762571334839
+    },
+    {
+      "text": "4): We agreed to inform Bill Kuhn. of our future need for",
+      "bbox": [
+        122,
+        599,
+        641,
+        617
+      ],
+      "confidence": 0.9618132710456848
+    },
+    {
+      "text": "monitor cigarettes.",
+      "bbox": [
+        75,
+        614,
+        254,
+        632
+      ],
+      "confidence": 0.9996243715286255
+    },
+    {
+      "text": "5) We agreed to continue our inter-lab testing program.",
+      "bbox": [
+        125,
+        645,
+        637,
+        659
+      ],
+      "confidence": 0.9927005171775818
+    },
+    {
+      "text": "6) We elected John Lauterbach to a 2 year term as chairman",
+      "bbox": [
+        124,
+        670,
+        668,
+        689
+      ],
+      "confidence": 0.9972706437110901
+    },
+    {
+      "text": "of this committee.",
+      "bbox": [
+        77,
+        686,
+        245,
+        705
+      ],
+      "confidence": 0.9875139594078064
+    },
+    {
+      "text": "I want to thank all of you for your excellent cooperation during",
+      "bbox": [
+        77,
+        714,
+        678,
+        734
+      ],
+      "confidence": 0.9748767614364624
+    },
+    {
+      "text": "my term in this position and I know you will do the same for",
+      "bbox": [
+        76,
+        729,
+        643,
+        749
+      ],
+      "confidence": 0.9889978766441345
+    },
+    {
+      "text": "John. I have notified TI of our decisions regarding the budget",
+      "bbox": [
+        76,
+        741,
+        672,
+        765
+      ],
+      "confidence": 0.9770929217338562
+    },
+    {
+      "text": "and Dr. Steele's salary and I have notified the Council for",
+      "bbox": [
+        76,
+        756,
+        636,
+        778
+      ],
+      "confidence": 0.9787691831588745
+    },
+    {
+      "text": "Tobacco Research Usa that John will become our liaison to their",
+      "bbox": [
+        77,
+        770,
+        674,
+        791
+      ],
+      "confidence": 0.9674235582351685
+    },
+    {
+      "text": "Scientific Advisory Board.",
+      "bbox": [
+        77,
+        786,
+        321,
+        807
+      ],
+      "confidence": 0.9962136149406433
+    },
+    {
+      "text": "Very truly yours,",
+      "bbox": [
+        77,
+        816,
+        238,
+        836
+      ],
+      "confidence": 0.9836035370826721
+    },
+    {
+      "text": "87635393",
+      "bbox": [
+        710,
+        805,
+        740,
+        896
+      ],
+      "confidence": 0.9995869398117065
+    },
+    {
+      "text": "Fued",
+      "bbox": [
+        107,
+        834,
+        217,
+        865
+      ],
+      "confidence": 0.6205946207046509
+    },
+    {
+      "text": "Fred Schultz",
+      "bbox": [
+        80,
+        862,
+        194,
+        876
+      ],
+      "confidence": 0.9989902973175049
+    },
+    {
+      "text": "LORILILARD TOBACCO COMPANY",
+      "bbox": [
+        19,
+        930,
+        193,
+        948
+      ],
+      "confidence": 0.9779914021492004
+    },
+    {
+      "text": "RESEARCH CENTER, 420 ENGLISH STREET, P.0. BOX 21688; GREENSBORO,. NORTH CAROLINA 27420-1688",
+      "bbox": [
+        18,
+        941,
+        554,
+        963
+      ],
+      "confidence": 0.9692584276199341
+    }
+  ],
+  "full_text": "Lorillard\nTOBACCO-COMPANY\nVice President\nDR. F. J. SCHULT2\nResearch & Development\n(919) 373-6602\nOctober 20, 1992\nTITL Directors:\nTO:\nMs. Brenda T. Hodge:\nMr. William F. Kuhn\nDr. John H. Lauterbach\nMr. Byron E. Price\nMr. Gregory A. Sulin\nThank you for your participation in our meeting of September 28,\n1992 in Montreal. This is just to confirm and record our\ndecision at that meeting.\n1) We approved the l993 TITL budget as proposed, totaling\n$978,400.\n2) We approved Dr. Steele's proposal to promote one non-\nexempt employee to an exempt position with no immediate effect on\nsalary.\n3) We proposed a 5% increase in Dr. Steele's salary tc\n$89,854 per year effective: January l993.\n4): We agreed to inform Bill Kuhn. of our future need for\nmonitor cigarettes.\n5) We agreed to continue our inter-lab testing program.\n6) We elected John Lauterbach to a 2 year term as chairman\nof this committee.\nI want to thank all of you for your excellent cooperation during\nmy term in this position and I know you will do the same for\nJohn. I have notified TI of our decisions regarding the budget\nand Dr. Steele's salary and I have notified the Council for\nTobacco Research Usa that John will become our liaison to their\nScientific Advisory Board.\nVery truly yours,\n87635393\nFued\nFred Schultz\nLORILILARD TOBACCO COMPANY\nRESEARCH CENTER, 420 ENGLISH STREET, P.0. BOX 21688; GREENSBORO,. NORTH CAROLINA 27420-1688"
+}

@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0409.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "JRECEIVED",
+      "bbox": [
+        123,
+        142,
+        320,
+        172
+      ],
+      "confidence": 0.9551481604576111
+    },
+    {
+      "text": "PHILIP MORRIS U.S.A.",
+      "bbox": [
+        368,
+        160,
+        498,
+        175
+      ],
+      "confidence": 0.9974977374076843
+    },
+    {
+      "text": "OCt 2 > 1939",
+      "bbox": [
+        203,
+        178,
+        287,
+        197
+      ],
+      "confidence": 0.8288168907165527
+    },
+    {
+      "text": "INTER-OFFICE CORRESPONDENCE",
+      "bbox": [
+        327,
+        176,
+        538,
+        190
+      ],
+      "confidence": 0.9991798400878906
+    },
+    {
+      "text": "R. B. SELIGMAN",
+      "bbox": [
+        181,
+        202,
+        303,
+        223
+      ],
+      "confidence": 0.96597820520401
+    },
+    {
+      "text": "1O0 Park Avenue, New York, N.Y. 10017",
+      "bbox": [
+        354,
+        193,
+        517,
+        205
+      ],
+      "confidence": 0.9596080183982849
+    },
+    {
+      "text": " Dr. R. B. Seligman",
+      "bbox": [
+        183,
+        226,
+        343,
+        240
+      ],
+      "confidence": 0.9672387838363647
+    },
+    {
+      "text": "Date: October 21, 1980",
+      "bbox": [
+        536,
+        221,
+        704,
+        240
+      ],
+      "confidence": 0.9591836929321289
+    },
+    {
+      "text": "S, B. NelsonDBM",
+      "bbox": [
+        193,
+        245,
+        343,
+        269
+      ],
+      "confidence": 0.9424012303352356
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        127,
+        250,
+        159,
+        261
+      ],
+      "confidence": 0.9987448453903198
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        131,
+        275,
+        168,
+        285
+      ],
+      "confidence": 0.9935837388038635
+    },
+    {
+      "text": "HTI/Production Approval",
+      "bbox": [
+        197,
+        275,
+        381,
+        289
+      ],
+      "confidence": 0.9733328819274902
+    },
+    {
+      "text": "The",
+      "bbox": [
+        200,
+        316,
+        231,
+        326
+      ],
+      "confidence": 0.9939876198768616
+    },
+    {
+      "text": "follewing HTI tests have been approved for production:",
+      "bbox": [
+        227,
+        312,
+        664,
+        327
+      ],
+      "confidence": 0.9716435074806213
+    },
+    {
+      "text": "4804/11026",
+      "bbox": [
+        195,
+        347,
+        283,
+        366
+      ],
+      "confidence": 0.9986116290092468
+    },
+    {
+      "text": "-- Cambridge loo's vs. Barclay loo's,",
+      "bbox": [
+        287,
+        347,
+        600,
+        365
+      ],
+      "confidence": 0.9667394757270813
+    },
+    {
+      "text": "Both Unidentified",
+      "bbox": [
+        323,
+        361,
+        463,
+        376
+      ],
+      "confidence": 0.9980069398880005
+    },
+    {
+      "text": "7088/11027",
+      "bbox": [
+        195,
+        397,
+        282,
+        416
+      ],
+      "confidence": 0.9997121095657349
+    },
+    {
+      "text": "Merit loo's vs. Barclay loo's",
+      "bbox": [
+        321,
+        398,
+        560,
+        413
+      ],
+      "confidence": 0.9498852491378784
+    },
+    {
+      "text": "Both Unidentified",
+      "bbox": [
+        326,
+        412,
+        463,
+        425
+      ],
+      "confidence": 0.9950700402259827
+    },
+    {
+      "text": "5518/ll028 -- Merit Ultra Lights 85's vs. Barclay 85's",
+      "bbox": [
+        196,
+        449,
+        647,
+        466
+      ],
+      "confidence": 0.9605786204338074
+    },
+    {
+      "text": "Both Identified",
+      "bbox": [
+        325,
+        463,
+        447,
+        477
+      ],
+      "confidence": 0.9987321496009827
+    },
+    {
+      "text": "Attached are the production and packaging specifications.",
+      "bbox": [
+        196,
+        498,
+        655,
+        517
+      ],
+      "confidence": 0.998569130897522
+    },
+    {
+      "text": "SBN:MG",
+      "bbox": [
+        201,
+        617,
+        250,
+        628
+      ],
+      "confidence": 0.9994562268257141
+    },
+    {
+      "text": "Mr. H. G. Daniel",
+      "bbox": [
+        238,
+        637,
+        369,
+        653
+      ],
+      "confidence": 0.9718550443649292
+    },
+    {
+      "text": "cC:",
+      "bbox": [
+        202,
+        642,
+        228,
+        654
+      ],
+      "confidence": 0.7006142139434814
+    },
+    {
+      "text": "Mr. P. N. Gauvin",
+      "bbox": [
+        240,
+        649,
+        369,
+        666
+      ],
+      "confidence": 0.9872076511383057
+    },
+    {
+      "text": "Dr. W. F. Gannon",
+      "bbox": [
+        241,
+        664,
+        369,
+        678
+      ],
+      "confidence": 0.9951021671295166
+    },
+    {
+      "text": "Mr. L. F. Meyer",
+      "bbox": [
+        240,
+        675,
+        362,
+        691
+      ],
+      "confidence": 0.9232343435287476
+    },
+    {
+      "text": "Mr. J. S. Osmalov",
+      "bbox": [
+        240,
+        686,
+        377,
+        702
+      ],
+      "confidence": 0.9499784111976624
+    },
+    {
+      "text": "Mr. J. E. Wickham",
+      "bbox": [
+        242,
+        699,
+        378,
+        714
+      ],
+      "confidence": 0.9828659296035767
+    },
+    {
+      "text": "1001869432",
+      "bbox": [
+        710,
+        764,
+        747,
+        920
+      ],
+      "confidence": 0.9995505213737488
+    }
+  ],
+  "full_text": "JRECEIVED\nPHILIP MORRIS U.S.A.\nOCt 2 > 1939\nINTER-OFFICE CORRESPONDENCE\nR. B. SELIGMAN\n1O0 Park Avenue, New York, N.Y. 10017\n Dr. R. B. Seligman\nDate: October 21, 1980\nS, B. NelsonDBM\nFrom:\nSubject:\nHTI/Production Approval\nThe\nfollewing HTI tests have been approved for production:\n4804/11026\n-- Cambridge loo's vs. Barclay loo's,\nBoth Unidentified\n7088/11027\nMerit loo's vs. Barclay loo's\nBoth Unidentified\n5518/ll028 -- Merit Ultra Lights 85's vs. Barclay 85's\nBoth Identified\nAttached are the production and packaging specifications.\nSBN:MG\nMr. H. G. Daniel\ncC:\nMr. P. N. Gauvin\nDr. W. F. Gannon\nMr. L. F. Meyer\nMr. J. S. Osmalov\nMr. J. E. Wickham\n1001869432"
+}

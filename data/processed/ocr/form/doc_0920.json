@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0920.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DP",
+      "bbox": [
+        69,
+        20,
+        176,
+        91
+      ],
+      "confidence": 0.9998617768287659
+    },
+    {
+      "text": "C",
+      "bbox": [
+        652,
+        9,
+        682,
+        38
+      ],
+      "confidence": 0.9496309757232666
+    },
+    {
+      "text": "Donnerstag",
+      "bbox": [
+        446,
+        30,
+        585,
+        67
+      ],
+      "confidence": 0.9999391436576843
+    },
+    {
+      "text": "04-May-95028892059",
+      "bbox": [
+        726,
+        29,
+        754,
+        87
+      ],
+      "confidence": 0.9851061701774597
+    },
+    {
+      "text": "-MEETINGNR4/1995",
+      "bbox": [
+        186,
+        53,
+        396,
+        88
+      ],
+      "confidence": 0.9947699308395386
+    },
+    {
+      "text": "WOCHENTAG",
+      "bbox": [
+        443,
+        78,
+        532,
+        101
+      ],
+      "confidence": 0.999732255935669
+    },
+    {
+      "text": "DATUM",
+      "bbox": [
+        725,
+        80,
+        754,
+        104
+      ],
+      "confidence": 0.9993342161178589
+    },
+    {
+      "text": "13.30",
+      "bbox": [
+        443,
+        118,
+        512,
+        146
+      ],
+      "confidence": 0.9999001622200012
+    },
+    {
+      "text": "R008",
+      "bbox": [
+        726,
+        120,
+        754,
+        148
+      ],
+      "confidence": 0.9984967708587646
+    },
+    {
+      "text": "(DOCUMENT PRESENTATION)",
+      "bbox": [
+        73,
+        157,
+        258,
+        180
+      ],
+      "confidence": 0.9952312707901001
+    },
+    {
+      "text": "TAGESZEIT BEGINN",
+      "bbox": [
+        441,
+        167,
+        561,
+        184
+      ],
+      "confidence": 0.999152421951294
+    },
+    {
+      "text": "RAUM",
+      "bbox": [
+        725,
+        167,
+        754,
+        186
+      ],
+      "confidence": 0.9876593947410583
+    },
+    {
+      "text": "Study Plan B1044/P 0500/3238",
+      "bbox": [
+        439,
+        201,
+        690,
+        224
+      ],
+      "confidence": 0.9841516613960266
+    },
+    {
+      "text": "-1",
+      "bbox": [
+        123,
+        229,
+        146,
+        268
+      ],
+      "confidence": 0.6484705209732056
+    },
+    {
+      "text": "3.MAI 1995",
+      "bbox": [
+        141,
+        226,
+        172,
+        324
+      ],
+      "confidence": 0.9074064493179321
+    },
+    {
+      "text": "Biological Activity of the Mainstream Smoke of the",
+      "bbox": [
+        438,
+        223,
+        754,
+        244
+      ],
+      "confidence": 0.9823725819587708
+    },
+    {
+      "text": "URSUS-1 RB(C) Test Cigarettes and the Standard Reference",
+      "bbox": [
+        436,
+        242,
+        754,
+        267
+      ],
+      "confidence": 0.9963772892951965
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        111,
+        257,
+        145,
+        341
+      ],
+      "confidence": 0.9899659156799316
+    },
+    {
+      "text": "Cigarette 1R4F",
+      "bbox": [
+        439,
+        266,
+        561,
+        286
+      ],
+      "confidence": 0.9989742636680603
+    },
+    {
+      "text": "21-Day Inhalation Study on Rats (PT)",
+      "bbox": [
+        436,
+        286,
+        732,
+        307
+      ],
+      "confidence": 0.9994425177574158
+    },
+    {
+      "text": "TEILNEHMER (a)",
+      "bbox": [
+        69,
+        444,
+        274,
+        482
+      ],
+      "confidence": 0.9983771443367004
+    },
+    {
+      "text": "WGK WGO HHM DHN KHO RKI PMT WRE ERO HSA PSN",
+      "bbox": [
+        432,
+        451,
+        754,
+        473
+      ],
+      "confidence": 0.9860727787017822
+    },
+    {
+      "text": "WST ATE FTE PVO",
+      "bbox": [
+        432,
+        473,
+        601,
+        493
+      ],
+      "confidence": 0.9868630766868591
+    },
+    {
+      "text": "VERANTWORTLICH",
+      "bbox": [
+        71,
+        562,
+        305,
+        596
+      ],
+      "confidence": 0.9999380707740784
+    },
+    {
+      "text": "0 3. Mai 1995",
+      "bbox": [
+        719,
+        558,
+        754,
+        585
+      ],
+      "confidence": 0.9606809616088867
+    },
+    {
+      "text": "WGK",
+      "bbox": [
+        427,
+        566,
+        495,
+        595
+      ],
+      "confidence": 0.9999263286590576
+    },
+    {
+      "text": "AUSHANGDATUM",
+      "bbox": [
+        715,
+        586,
+        754,
+        600
+      ],
+      "confidence": 0.993070662021637
+    },
+    {
+      "text": "(a) Weitcre Teilnehmer sind gem gesehen!",
+      "bbox": [
+        71,
+        613,
+        315,
+        638
+      ],
+      "confidence": 0.9553155899047852
+    },
+    {
+      "text": "KOSTENSTELLE:",
+      "bbox": [
+        712,
+        614,
+        754,
+        630
+      ],
+      "confidence": 0.9964637160301208
+    },
+    {
+      "text": "GEPLANTE DAUER (h): 2,00",
+      "bbox": [
+        712,
+        630,
+        754,
+        647
+      ],
+      "confidence": 0.9603704810142517
+    }
+  ],
+  "full_text": "DP\nC\nDonnerstag\n04-May-95028892059\n-MEETINGNR4/1995\nWOCHENTAG\nDATUM\n13.30\nR008\n(DOCUMENT PRESENTATION)\nTAGESZEIT BEGINN\nRAUM\nStudy Plan B1044/P 0500/3238\n-1\n3.MAI 1995\nBiological Activity of the Mainstream Smoke of the\nURSUS-1 RB(C) Test Cigarettes and the Standard Reference\nDATE\nCigarette 1R4F\n21-Day Inhalation Study on Rats (PT)\nTEILNEHMER (a)\nWGK WGO HHM DHN KHO RKI PMT WRE ERO HSA PSN\nWST ATE FTE PVO\nVERANTWORTLICH\n0 3. Mai 1995\nWGK\nAUSHANGDATUM\n(a) Weitcre Teilnehmer sind gem gesehen!\nKOSTENSTELLE:\nGEPLANTE DAUER (h): 2,00"
+}

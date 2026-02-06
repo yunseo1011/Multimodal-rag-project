@@ -1,0 +1,931 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0140.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "06/26/97",
+      "bbox": [
+        53,
+        14,
+        133,
+        41
+      ],
+      "confidence": 0.9942350387573242
+    },
+    {
+      "text": "13:43",
+      "bbox": [
+        148,
+        21,
+        199,
+        44
+      ],
+      "confidence": 0.9994255900382996
+    },
+    {
+      "text": "→→→ PM NYC",
+      "bbox": [
+        557,
+        43,
+        642,
+        65
+      ],
+      "confidence": 0.8807856440544128
+    },
+    {
+      "text": "2",
+      "bbox": [
+        740,
+        44,
+        753,
+        59
+      ],
+      "confidence": 0.6476186513900757
+    },
+    {
+      "text": "A14",
+      "bbox": [
+        197,
+        86,
+        235,
+        105
+      ],
+      "confidence": 0.9998493194580078
+    },
+    {
+      "text": "LEXINGTON HERALD-LEADER, LeXINgtON, KY. THURSDAY, JuNE 26, 1997",
+      "bbox": [
+        243,
+        88,
+        615,
+        115
+      ],
+      "confidence": 0.79911869764328
+    },
+    {
+      "text": "EDITORIALS",
+      "bbox": [
+        189,
+        134,
+        430,
+        215
+      ],
+      "confidence": 0.8287452459335327
+    },
+    {
+      "text": "Farmers: Your move",
+      "bbox": [
+        186,
+        219,
+        655,
+        281
+      ],
+      "confidence": 0.9547980427742004
+    },
+    {
+      "text": "Disastrous tobacco deal highlights leadership 'void",
+      "bbox": [
+        187,
+        280,
+        679,
+        321
+      ],
+      "confidence": 0.9892411828041077
+    },
+    {
+      "text": "ucker punched, Kentucky",
+      "bbox": [
+        220,
+        313,
+        404,
+        341
+      ],
+      "confidence": 0.9971415400505066
+    },
+    {
+      "text": "dence on tobacco, through diversifi-",
+      "bbox": [
+        452,
+        320,
+        708,
+        348
+      ],
+      "confidence": 0.976093590259552
+    },
+    {
+      "text": "farmers are reeling from a",
+      "bbox": [
+        222,
+        331,
+        408,
+        355
+      ],
+      "confidence": 0.9984270930290222
+    },
+    {
+      "text": "cation, long ago.",
+      "bbox": [
+        453,
+        336,
+        571,
+        361
+      ],
+      "confidence": 0.9954795837402344
+    },
+    {
+      "text": "blow that was all the more de-",
+      "bbox": [
+        220,
+        346,
+        436,
+        372
+      ],
+      "confidence": 0.9990891814231873
+    },
+    {
+      "text": "bilitating because it came from a",
+      "bbox": [
+        185,
+        362,
+        418,
+        387
+      ],
+      "confidence": 0.9804792404174805
+    },
+    {
+      "text": "Of the major farm organizations,",
+      "bbox": [
+        474,
+        353,
+        711,
+        379
+      ],
+      "confidence": 0.9798240661621094
+    },
+    {
+      "text": "supposed member of \"the tobacco",
+      "bbox": [
+        185,
+        378,
+        423,
+        403
+      ],
+      "confidence": 0.9843067526817322
+    },
+    {
+      "text": "the Burley Tobacco Growers Coop-",
+      "bbox": [
+        451,
+        368,
+        702,
+        395
+      ],
+      "confidence": 0.9575821757316589
+    },
+    {
+      "text": "family.\"",
+      "bbox": [
+        187,
+        395,
+        245,
+        413
+      ],
+      "confidence": 0.9398376941680908
+    },
+    {
+      "text": "erative Association has snown the",
+      "bbox": [
+        450,
+        384,
+        697,
+        409
+      ],
+      "confidence": 0.9710224270820618
+    },
+    {
+      "text": "In the deal to make their legal",
+      "bbox": [
+        210,
+        407,
+        421,
+        433
+      ],
+      "confidence": 0.9686318635940552
+    },
+    {
+      "text": "most vision, but its leadership is",
+      "bbox": [
+        450,
+        400,
+        684,
+        425
+      ],
+      "confidence": 0.9893367886543274
+    },
+    {
+      "text": "exposure go away, cigarette compa-",
+      "bbox": [
+        186,
+        426,
+        435,
+        448
+      ],
+      "confidence": 0.9984466433525085
+    },
+    {
+      "text": "dominated by older farm-ers and",
+      "bbox": [
+        449,
+        414,
+        682,
+        441
+      ],
+      "confidence": 0.9553174376487732
+    },
+    {
+      "text": "nies abandoned positions that farm-",
+      "bbox": [
+        186,
+        440,
+        434,
+        462
+      ],
+      "confidence": 0.9917157888412476
+    },
+    {
+      "text": "large landowners.",
+      "bbox": [
+        449,
+        429,
+        577,
+        453
+      ],
+      "confidence": 0.9751706719398499
+    },
+    {
+      "text": "ers and their congressional repre-",
+      "bbox": [
+        187,
+        457,
+        416,
+        478
+      ],
+      "confidence": 0.9779798984527588
+    },
+    {
+      "text": "It's the younger generation of",
+      "bbox": [
+        470,
+        444,
+        687,
+        470
+      ],
+      "confidence": 0.9980680346488953
+    },
+    {
+      "text": "sentatives had long defended for",
+      "bbox": [
+        186,
+        472,
+        411,
+        492
+      ],
+      "confidence": 0.987370491027832
+    },
+    {
+      "text": "farmers whose future is on the line.",
+      "bbox": [
+        448,
+        459,
+        703,
+        486
+      ],
+      "confidence": 0.9678342342376709
+    },
+    {
+      "text": "the companies.",
+      "bbox": [
+        187,
+        486,
+        290,
+        506
+      ],
+      "confidence": 0.9996829628944397
+    },
+    {
+      "text": "Who speaks for them?",
+      "bbox": [
+        448,
+        475,
+        608,
+        497
+      ],
+      "confidence": 0.9877047538757324
+    },
+    {
+      "text": "The $368 billion settlement in-",
+      "bbox": [
+        211,
+        501,
+        417,
+        523
+      ],
+      "confidence": 0.9754487872123718
+    },
+    {
+      "text": "The Community Farri Alliance",
+      "bbox": [
+        471,
+        491,
+        696,
+        515
+      ],
+      "confidence": 0.9527457356452942
+    },
+    {
+      "text": "cludes payments for \"smoking-ces.",
+      "bbox": [
+        186,
+        515,
+        424,
+        540
+      ],
+      "confidence": 0.9646781086921692
+    },
+    {
+      "text": "is too smnall to command 'much at-",
+      "bbox": [
+        447,
+        506,
+        691,
+        530
+      ],
+      "confidence": 0.9457119107246399
+    },
+    {
+      "text": "sation aids\" but not a penny to help",
+      "bbox": [
+        186,
+        532,
+        431,
+        555
+      ],
+      "confidence": 0.9870418906211853
+    },
+    {
+      "text": "tention. The University cf Kentucky",
+      "bbox": [
+        445,
+        519,
+        705,
+        549
+      ],
+      "confidence": 0.9599764943122864
+    },
+    {
+      "text": "rural communities break their eco-",
+      "bbox": [
+        185,
+        547,
+        419,
+        569
+      ],
+      "confidence": 0.9937058687210083
+    },
+    {
+      "text": "has the same problems as the Farm",
+      "bbox": [
+        445,
+        536,
+        701,
+        562
+      ],
+      "confidence": 0.9711789488792419
+    },
+    {
+      "text": "nomic addiction to tobacco.",
+      "bbox": [
+        185,
+        561,
+        371,
+        583
+      ],
+      "confidence": 0.9915057420730591
+    },
+    {
+      "text": "Bureau and burley co-op",
+      "bbox": [
+        445,
+        550,
+        621,
+        576
+      ],
+      "confidence": 0.9884753227233887
+    },
+    {
+      "text": "The exclusion of farmers is",
+      "bbox": [
+        208,
+        576,
+        395,
+        598
+      ],
+      "confidence": 0.9942126274108887
+    },
+    {
+      "text": "Several ideas are floating",
+      "bbox": [
+        467,
+        566,
+        647,
+        590
+      ],
+      "confidence": 0.9831812381744385
+    },
+    {
+      "text": "probably all the reason Kentucky's",
+      "bbox": [
+        185,
+        592,
+        421,
+        614
+      ],
+      "confidence": 0.9952467679977417
+    },
+    {
+      "text": "around for what rural coimmunities",
+      "bbox": [
+        444,
+        582,
+        692,
+        606
+      ],
+      "confidence": 0.9796472191810608
+    },
+    {
+      "text": "should seek from the set:lement.",
+      "bbox": [
+        444,
+        597,
+        671,
+        619
+      ],
+      "confidence": 0.9682175517082214
+    },
+    {
+      "text": "congressional delegation will need",
+      "bbox": [
+        184,
+        608,
+        415,
+        629
+      ],
+      "confidence": 0.9919465184211731
+    },
+    {
+      "text": "One school of thought wants to",
+      "bbox": [
+        466,
+        613,
+        687,
+        635
+      ],
+      "confidence": 0.9692413806915283
+    },
+    {
+      "text": "to try to thwart the settlement.",
+      "bbox": [
+        184,
+        623,
+        393,
+        644
+      ],
+      "confidence": 0.984404444694519
+    },
+    {
+      "text": "preserve the status quo by requir-",
+      "bbox": [
+        441,
+        627,
+        680,
+        651
+      ],
+      "confidence": 0.9908995032310486
+    },
+    {
+      "text": "'But what should farmers be de-",
+      "bbox": [
+        201,
+        638,
+        421,
+        659
+      ],
+      "confidence": 0.9575987458229065
+    },
+    {
+      "text": "ing the companies to kerp paying",
+      "bbox": [
+        441,
+        641,
+        677,
+        666
+      ],
+      "confidence": 0.9557555913925171
+    },
+    {
+      "text": "manding from the deal? And who",
+      "bbox": [
+        182,
+        654,
+        411,
+        674
+      ],
+      "confidence": 0.9669667482376099
+    },
+    {
+      "text": ".tobaccq farmers indefinicely.",
+      "bbox": [
+        435,
+        656,
+        637,
+        679
+      ],
+      "confidence": 0.9440186619758606
+    },
+    {
+      "text": "speaks for rural Kentucky?",
+      "bbox": [
+        183,
+        669,
+        365,
+        689
+      ],
+      "confidence": 0.9797410368919373
+    },
+    {
+      "text": "Others see this as a chance to",
+      "bbox": [
+        463,
+        671,
+        670,
+        694
+      ],
+      "confidence": 0.9930647611618042
+    },
+    {
+      "text": ". These are not rhetorical ques-",
+      "bbox": [
+        191,
+        684,
+        407,
+        705
+      ],
+      "confidence": 0.9712647199630737
+    },
+    {
+      "text": "let farmbers cash out of the troubling",
+      "bbox": [
+        439,
+        684,
+        689,
+        711
+      ],
+      "confidence": 0.976058840751648
+    },
+    {
+      "text": "tions. Kentucky agriculture faces a",
+      "bbox": [
+        182,
+        699,
+        418,
+        719
+      ],
+      "confidence": 0.9862444400787354
+    },
+    {
+      "text": "business of growing tobicco",
+      "bbox": [
+        439,
+        701,
+        634,
+        721
+      ],
+      "confidence": 0.9899170398712158
+    },
+    {
+      "text": "crisis of leadership. Against the set-",
+      "bbox": [
+        181,
+        714,
+        425,
+        733
+      ],
+      "confidence": 0.9821925759315491
+    },
+    {
+      "text": "through a quota buyout.'",
+      "bbox": [
+        439,
+        716,
+        610,
+        734
+      ],
+      "confidence": 0.9624162316322327
+    },
+    {
+      "text": "tlement backdrop, the vacuum",
+      "bbox": [
+        181,
+        729,
+        385,
+        747
+      ],
+      "confidence": 0.9941633343696594
+    },
+    {
+      "text": "Still others see a gollen oppor-",
+      "bbox": [
+        460,
+        729,
+        671,
+        751
+      ],
+      "confidence": 0.9474703073501587
+    },
+    {
+      "text": "stands out like a full moon on a",
+      "bbox": [
+        181,
+        744,
+        400,
+        762
+      ],
+      "confidence": 0.971489429473877
+    },
+    {
+      "text": "tunity to extract a heaitliy down",
+      "bbox": [
+        438,
+        744,
+        657,
+        765
+      ],
+      "confidence": 0.975065290927887
+    },
+    {
+      "text": "clear night.",
+      "bbox": [
+        179,
+        758,
+        255,
+        778
+      ],
+      "confidence": 0.9857407212257385
+    },
+    {
+      "text": "payment on a post-tobacco future.",
+      "bbox": [
+        435,
+        758,
+        666,
+        782
+      ],
+      "confidence": 0.9737653732299805
+    },
+    {
+      "text": "There's considerable overlap",
+      "bbox": [
+        459,
+        770,
+        651,
+        797
+      ],
+      "confidence": 0.9896495938301086
+    },
+    {
+      "text": ".. Does Gov. Paul Patton speak for",
+      "bbox": [
+        190,
+        774,
+        421,
+        791
+      ],
+      "confidence": 0.9801991581916809
+    },
+    {
+      "text": "among all three viewpoints. But can",
+      "bbox": [
+        433,
+        784,
+        679,
+        813
+      ],
+      "confidence": 0.9811976552009583
+    },
+    {
+      "text": "agriculture? His idea of rural eco-",
+      "bbox": [
+        180,
+        789,
+        401,
+        806
+      ],
+      "confidence": 0.9723822474479675
+    },
+    {
+      "text": "anyone say with any authority",
+      "bbox": [
+        434,
+        802,
+        643,
+        824
+      ],
+      "confidence": 0.9893274903297424
+    },
+    {
+      "text": "nomic development is a new factory",
+      "bbox": [
+        181,
+        805,
+        418,
+        820
+      ],
+      "confidence": 0.9872756004333496
+    },
+    {
+      "text": "what the Kentuckians with the",
+      "bbox": [
+        434,
+        816,
+        641,
+        838
+      ],
+      "confidence": 0.9826924800872803
+    },
+    {
+      "text": "in every county. Kentucky's elected",
+      "bbox": [
+        179,
+        818,
+        414,
+        836
+      ],
+      "confidence": 0.9969319105148315
+    },
+    {
+      "text": "most a stake want fron the settle-",
+      "bbox": [
+        432,
+        832,
+        665,
+        854
+      ],
+      "confidence": 0.9719288945198059
+    },
+    {
+      "text": "2070329952",
+      "bbox": [
+        700,
+        825,
+        739,
+        930
+      ],
+      "confidence": 0.9999302625656128
+    },
+    {
+      "text": "ends at the next election.",
+      "bbox": [
+        179,
+        847,
+        343,
+        865
+      ],
+      "confidence": 0.9845848083496094
+    },
+    {
+      "text": "agriculture commissioner's vision",
+      "bbox": [
+        180,
+        834,
+        400,
+        851
+      ],
+      "confidence": 0.9802331924438477
+    },
+    {
+      "text": "ment? We doubt it, but someone",
+      "bbox": [
+        431,
+        846,
+        647,
+        869
+      ],
+      "confidence": 0.9965303540229797
+    },
+    {
+      "text": " The Kentucky Farm Bureau his-",
+      "bbox": [
+        189,
+        862,
+        418,
+        879
+      ],
+      "confidence": 0.975071132183075
+    },
+    {
+      "text": "should start listening ar:d speaking",
+      "bbox": [
+        431,
+        860,
+        669,
+        885
+      ],
+      "confidence": 0.978724479675293
+    },
+    {
+      "text": "torically has taken cues from Philip",
+      "bbox": [
+        180,
+        876,
+        412,
+        893
+      ],
+      "confidence": 0.9923027753829956
+    },
+    {
+      "text": "up.",
+      "bbox": [
+        431,
+        878,
+        457,
+        894
+      ],
+      "confidence": 0.9996879696846008
+    },
+    {
+      "text": "Because you can staid stricken",
+      "bbox": [
+        453,
+        890,
+        661,
+        912
+      ],
+      "confidence": 0.9901866912841797
+    },
+    {
+      "text": "with smoking's enemies to protect a",
+      "bbox": [
+        179,
+        907,
+        413,
+        921
+      ],
+      "confidence": 0.9885210394859314
+    },
+    {
+      "text": "Morris, which now has thrown in",
+      "bbox": [
+        180,
+        893,
+        398,
+        907
+      ],
+      "confidence": 0.9916284680366516
+    },
+    {
+      "text": "at the crossroads for on,y so long",
+      "bbox": [
+        428,
+        901,
+        654,
+        928
+      ],
+      "confidence": 0.9816197752952576
+    },
+    {
+      "text": "company that minimized its depen-",
+      "bbox": [
+        179,
+        919,
+        407,
+        938
+      ],
+      "confidence": 0.9860053658485413
+    },
+    {
+      "text": "before becoming road k'il.",
+      "bbox": [
+        429,
+        917,
+        603,
+        939
+      ],
+      "confidence": 0.9312524795532227
+    }
+  ],
+  "full_text": "06/26/97\n13:43\n→→→ PM NYC\n2\nA14\nLEXINGTON HERALD-LEADER, LeXINgtON, KY. THURSDAY, JuNE 26, 1997\nEDITORIALS\nFarmers: Your move\nDisastrous tobacco deal highlights leadership 'void\nucker punched, Kentucky\ndence on tobacco, through diversifi-\nfarmers are reeling from a\ncation, long ago.\nblow that was all the more de-\nbilitating because it came from a\nOf the major farm organizations,\nsupposed member of \"the tobacco\nthe Burley Tobacco Growers Coop-\nfamily.\"\nerative Association has snown the\nIn the deal to make their legal\nmost vision, but its leadership is\nexposure go away, cigarette compa-\ndominated by older farm-ers and\nnies abandoned positions that farm-\nlarge landowners.\ners and their congressional repre-\nIt's the younger generation of\nsentatives had long defended for\nfarmers whose future is on the line.\nthe companies.\nWho speaks for them?\nThe $368 billion settlement in-\nThe Community Farri Alliance\ncludes payments for \"smoking-ces.\nis too smnall to command 'much at-\nsation aids\" but not a penny to help\ntention. The University cf Kentucky\nrural communities break their eco-\nhas the same problems as the Farm\nnomic addiction to tobacco.\nBureau and burley co-op\nThe exclusion of farmers is\nSeveral ideas are floating\nprobably all the reason Kentucky's\naround for what rural coimmunities\nshould seek from the set:lement.\ncongressional delegation will need\nOne school of thought wants to\nto try to thwart the settlement.\npreserve the status quo by requir-\n'But what should farmers be de-\ning the companies to kerp paying\nmanding from the deal? And who\n.tobaccq farmers indefinicely.\nspeaks for rural Kentucky?\nOthers see this as a chance to\n. These are not rhetorical ques-\nlet farmbers cash out of the troubling\ntions. Kentucky agriculture faces a\nbusiness of growing tobicco\ncrisis of leadership. Against the set-\nthrough a quota buyout.'\ntlement backdrop, the vacuum\nStill others see a gollen oppor-\nstands out like a full moon on a\ntunity to extract a heaitliy down\nclear night.\npayment on a post-tobacco future.\nThere's considerable overlap\n.. Does Gov. Paul Patton speak for\namong all three viewpoints. But can\nagriculture? His idea of rural eco-\nanyone say with any authority\nnomic development is a new factory\nwhat the Kentuckians with the\nin every county. Kentucky's elected\nmost a stake want fron the settle-\n2070329952\nends at the next election.\nagriculture commissioner's vision\nment? We doubt it, but someone\n The Kentucky Farm Bureau his-\nshould start listening ar:d speaking\ntorically has taken cues from Philip\nup.\nBecause you can staid stricken\nwith smoking's enemies to protect a\nMorris, which now has thrown in\nat the crossroads for on,y so long\ncompany that minimized its depen-\nbefore becoming road k'il."
+}

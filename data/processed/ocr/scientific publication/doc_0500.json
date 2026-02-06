@@ -1,0 +1,1961 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0500.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "230",
+      "bbox": [
+        108,
+        83,
+        132,
+        100
+      ],
+      "confidence": 0.9997089505195618
+    },
+    {
+      "text": "THELANCET JANUARY28.1984",
+      "bbox": [
+        542,
+        97,
+        684,
+        112
+      ],
+      "confidence": 0.9628133773803711
+    },
+    {
+      "text": "TOLDS D CULTLRE PILTRATES OF CJOUSI AND C COL",
+      "bbox": [
+        134,
+        113,
+        361,
+        132
+      ],
+      "confidence": 0.8559592962265015
+    },
+    {
+      "text": "ii). The medhan level among noo-sumokers",
+      "bbox": [
+        493,
+        119,
+        684,
+        138
+      ],
+      "confidence": 0.8730594515800476
+    },
+    {
+      "text": "Cpm",
+      "bbox": [
+        221,
+        133,
+        254,
+        147
+      ],
+      "confidence": 0.6261957287788391
+    },
+    {
+      "text": "w slso mauch iower than thar fouad among current sahokers (uabie",
+      "bbox": [
+        405,
+        130,
+        683,
+        148
+      ],
+      "confidence": 0.8582814931869507
+    },
+    {
+      "text": ")There was subscantial separes ios bet wren cotunume levets in non-",
+      "bbox": [
+        406,
+        141,
+        683,
+        157
+      ],
+      "confidence": 0.8665866255760193
+    },
+    {
+      "text": "Hamis",
+      "bbox": [
+        195,
+        157,
+        228,
+        174
+      ],
+      "confidence": 0.7958065867424011
+    },
+    {
+      "text": "Nar",
+      "bbox": [
+        350,
+        154,
+        370,
+        165
+      ],
+      "confidence": 0.7149090766906738
+    },
+    {
+      "text": "scaokcrs who wrire sot exposcd toe ether people's smoke and in",
+      "bbox": [
+        405,
+        152,
+        683,
+        168
+      ],
+      "confidence": 0.8585674166679382
+    },
+    {
+      "text": "Tes",
+      "bbox": [
+        135,
+        160,
+        161,
+        171
+      ],
+      "confidence": 0.6717706322669983
+    },
+    {
+      "text": "(n-45)",
+      "bbox": [
+        195,
+        169,
+        228,
+        183
+      ],
+      "confidence": 0.7631853222846985
+    },
+    {
+      "text": "(8•7)",
+      "bbox": [
+        245,
+        168,
+        275,
+        185
+      ],
+      "confidence": 0.6269975304603577
+    },
+    {
+      "text": "Hums",
+      "bbox": [
+        296,
+        162,
+        328,
+        173
+      ],
+      "confidence": 0.7722392082214355
+    },
+    {
+      "text": "(-37)",
+      "bbox": [
+        296,
+        172,
+        327,
+        183
+      ],
+      "confidence": 0.9494220614433289
+    },
+    {
+      "text": "(a-12)",
+      "bbox": [
+        345,
+        171,
+        376,
+        185
+      ],
+      "confidence": 0.7840707302093506
+    },
+    {
+      "text": "berwwen sbe noe-smokers wto reparted exposure to ocher propie's",
+      "bbox": [
+        404,
+        172,
+        683,
+        190
+      ],
+      "confidence": 0.9228379130363464
+    },
+    {
+      "text": "current smokers (able suj There was,",
+      "bbox": [
+        405,
+        162,
+        582,
+        177
+      ],
+      "confidence": 0.8903214931488037
+    },
+    {
+      "text": "hoeever, some overiap",
+      "bbox": [
+        581,
+        167,
+        682,
+        177
+      ],
+      "confidence": 0.9011712670326233
+    },
+    {
+      "text": "Tmat arpaine",
+      "bbox": [
+        107,
+        184,
+        166,
+        198
+      ],
+      "confidence": 0.6838458180427551
+    },
+    {
+      "text": "3w",
+      "bbox": [
+        197,
+        185,
+        228,
+        200
+      ],
+      "confidence": 0.8029366731643677
+    },
+    {
+      "text": "smhokr and the active smokers.",
+      "bbox": [
+        405,
+        183,
+        536,
+        197
+      ],
+      "confidence": 0.9603527784347534
+    },
+    {
+      "text": "CTa.CT-.",
+      "bbox": [
+        109,
+        194,
+        170,
+        207
+      ],
+      "confidence": 0.7512712478637695
+    },
+    {
+      "text": "50w",
+      "bbox": [
+        242,
+        195,
+        276,
+        209
+      ],
+      "confidence": 0.643915593624115
+    },
+    {
+      "text": "o",
+      "bbox": [
+        245,
+        188,
+        254,
+        198
+      ],
+      "confidence": 0.6145252585411072
+    },
+    {
+      "text": "2475/)",
+      "bbox": [
+        292,
+        196,
+        329,
+        210
+      ],
+      "confidence": 0.7414001822471619
+    },
+    {
+      "text": "4Dw",
+      "bbox": [
+        343,
+        196,
+        375,
+        211
+      ],
+      "confidence": 0.6558039784431458
+    },
+    {
+      "text": "Urinary cexiniox secga to be e semsitive marker of exposure to",
+      "bbox": [
+        413,
+        192,
+        683,
+        210
+      ],
+      "confidence": 0.8975068926811218
+    },
+    {
+      "text": "CTE-CTE.",
+      "bbox": [
+        107,
+        203,
+        170,
+        216
+      ],
+      "confidence": 0.7600312829017639
+    },
+    {
+      "text": "CTa.CT--",
+      "bbox": [
+        107,
+        215,
+        169,
+        225
+      ],
+      "confidence": 0.7841638326644897
+    },
+    {
+      "text": "2",
+      "bbox": [
+        195,
+        215,
+        204,
+        225
+      ],
+      "confidence": 0.9863894581794739
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        242,
+        206,
+        254,
+        225
+      ],
+      "confidence": 0.7168099880218506
+    },
+    {
+      "text": "30w",
+      "bbox": [
+        294,
+        212,
+        324,
+        227
+      ],
+      "confidence": 0.6802566647529602
+    },
+    {
+      "text": "409",
+      "bbox": [
+        295,
+        207,
+        326,
+        218
+      ],
+      "confidence": 0.7357959151268005
+    },
+    {
+      "text": "coxinine is she mayer metabolite of nuegrine and is derived from",
+      "bbox": [
+        402,
+        214,
+        683,
+        230
+      ],
+      "confidence": 0.8778761625289917
+    },
+    {
+      "text": "ocher people's sobecce amobe. Is is alse likely to be spee-lit sunce",
+      "bbox": [
+        403,
+        204,
+        683,
+        220
+      ],
+      "confidence": 0.9086114168167114
+    },
+    {
+      "text": "sebecco only. The halF-tufe of eat shune in blood is sabout one day, so",
+      "bbox": [
+        402,
+        224,
+        684,
+        242
+      ],
+      "confidence": 0.8973773717880249
+    },
+    {
+      "text": "urinaty extinine levels maphr sherefore be expected to reliect",
+      "bbox": [
+        401,
+        235,
+        683,
+        252
+      ],
+      "confidence": 0.8711810111999512
+    },
+    {
+      "text": "the prescocr of soxis is boch biphasic culure supernaanuns and",
+      "bbox": [
+        102,
+        255,
+        384,
+        270
+      ],
+      "confidence": 0.9048303961753845
+    },
+    {
+      "text": "TAELEE-UEINART COTININT (ENgEM) IN NOS IMOKERS ACCORDING",
+      "bbox": [
+        404,
+        259,
+        681,
+        276
+      ],
+      "confidence": 0.8136342167854309
+    },
+    {
+      "text": "stas erens sade by Wadatrbemn et al chat, bosed on a lumnited sample,",
+      "bbox": [
+        101,
+        276,
+        382,
+        292
+      ],
+      "confidence": 0.8601861596107483
+    },
+    {
+      "text": "polymysan-B-released meerial. We cannax agree with the general",
+      "bbox": [
+        102,
+        267,
+        383,
+        281
+      ],
+      "confidence": 0.8505064845085144
+    },
+    {
+      "text": "TO NL'MEER OF REPORTED MDURS OF ESPOSLRE TO OTHER PLOPLES",
+      "bbox": [
+        403,
+        269,
+        681,
+        287
+      ],
+      "confidence": 0.8618463277816772
+    },
+    {
+      "text": "sexua-producing sraunus are uncemmcn us Europe, Asus, snd Auinca.",
+      "bbox": [
+        101,
+        287,
+        382,
+        302
+      ],
+      "confidence": 0.7920607328414917
+    },
+    {
+      "text": "TORACOD SASOKE VTTXIN TKE PAST SEVEN DAYS (INCLUDING DAY",
+      "bbox": [
+        409,
+        279,
+        678,
+        297
+      ],
+      "confidence": 0.9256508946418762
+    },
+    {
+      "text": "URNE SAMPLE WAS COLLECTED",
+      "bbox": [
+        476,
+        290,
+        614,
+        308
+      ],
+      "confidence": 0.9092123508453369
+    },
+    {
+      "text": "Out studuas indluded toaun-produc ng serans of C xewe and C cn's",
+      "bbox": [
+        101,
+        297,
+        383,
+        314
+      ],
+      "confidence": 0.7883478999137878
+    },
+    {
+      "text": "Dursc on of expeurt",
+      "bbox": [
+        420,
+        307,
+        506,
+        323
+      ],
+      "confidence": 0.7313173413276672
+    },
+    {
+      "text": "inclas ed ins several",
+      "bbox": [
+        101,
+        308,
+        184,
+        324
+      ],
+      "confidence": 0.9409557580947876
+    },
+    {
+      "text": "molates.",
+      "bbox": [
+        106,
+        322,
+        137,
+        332
+      ],
+      "confidence": 0.7670527696609497
+    },
+    {
+      "text": "European coubtrics in aldarion to our Caneduan",
+      "bbox": [
+        179,
+        312,
+        381,
+        323
+      ],
+      "confidence": 0.8706346750259399
+    },
+    {
+      "text": "Thr clinical sugnsficance of sodin-mediua ed derrhoes! responec un",
+      "bbox": [
+        108,
+        330,
+        382,
+        344
+      ],
+      "confidence": 0.8679342269897461
+    },
+    {
+      "text": "Qusttule",
+      "bbox": [
+        413,
+        334,
+        450,
+        348
+      ],
+      "confidence": 0.7235983610153198
+    },
+    {
+      "text": "LAsTh",
+      "bbox": [
+        469,
+        332,
+        513,
+        349
+      ],
+      "confidence": 0.6731396317481995
+    },
+    {
+      "text": "Uranan coaune (nepi)",
+      "bbox": [
+        581,
+        327,
+        676,
+        342
+      ],
+      "confidence": 0.6752364635467529
+    },
+    {
+      "text": "the pethophysuology of",
+      "bbox": [
+        100,
+        340,
+        219,
+        355
+      ],
+      "confidence": 0.920134961605072
+    },
+    {
+      "text": "exablusbed In our study, wt huve emcounier ed a bugh frequency of",
+      "bbox": [
+        100,
+        351,
+        382,
+        366
+      ],
+      "confidence": 0.901235818862915
+    },
+    {
+      "text": "cmpyiobstenosa",
+      "bbox": [
+        220,
+        344,
+        303,
+        354
+      ],
+      "confidence": 0.8678852319717407
+    },
+    {
+      "text": "rEmaInS ID b",
+      "bbox": [
+        305,
+        344,
+        381,
+        354
+      ],
+      "confidence": 0.650949239730835
+    },
+    {
+      "text": "lus",
+      "bbox": [
+        424,
+        352,
+        440,
+        364
+      ],
+      "confidence": 0.6573246121406555
+    },
+    {
+      "text": "8-0-",
+      "bbox": [
+        477,
+        352,
+        502,
+        364
+      ],
+      "confidence": 0.7553651928901672
+    },
+    {
+      "text": "wean\"sSD",
+      "bbox": [
+        609,
+        339,
+        652,
+        350
+      ],
+      "confidence": 0.8531033992767334
+    },
+    {
+      "text": "somigrnic scrauna in a wide varieny of saratypms and mo darect",
+      "bbox": [
+        102,
+        362,
+        382,
+        376
+      ],
+      "confidence": 0.8708832859992981
+    },
+    {
+      "text": "2",
+      "bbox": [
+        423,
+        361,
+        441,
+        372
+      ],
+      "confidence": 0.9020671248435974
+    },
+    {
+      "text": "1-5-",
+      "bbox": [
+        477,
+        362,
+        502,
+        373
+      ],
+      "confidence": 0.8003634810447693
+    },
+    {
+      "text": "2-8x 3·0",
+      "bbox": [
+        611,
+        354,
+        654,
+        368
+      ],
+      "confidence": 0.899070680141449
+    },
+    {
+      "text": "3-4= 2-7",
+      "bbox": [
+        612,
+        365,
+        653,
+        375
+      ],
+      "confidence": 0.8261868357658386
+    },
+    {
+      "text": "relatsocab:p berwers aererype, baox ype, and tozugenucity is evidiens",
+      "bbox": [
+        100,
+        371,
+        381,
+        389
+      ],
+      "confidence": 0.8494319915771484
+    },
+    {
+      "text": "3",
+      "bbox": [
+        423,
+        370,
+        441,
+        381
+      ],
+      "confidence": 0.834572434425354
+    },
+    {
+      "text": "4ch",
+      "bbox": [
+        423,
+        380,
+        441,
+        391
+      ],
+      "confidence": 0.6242363452911377
+    },
+    {
+      "text": "4-5-",
+      "bbox": [
+        477,
+        371,
+        502,
+        383
+      ],
+      "confidence": 0.9638474583625793
+    },
+    {
+      "text": "5-3n 43",
+      "bbox": [
+        612,
+        374,
+        653,
+        385
+      ],
+      "confidence": 0.6985527276992798
+    },
+    {
+      "text": "a the precn este.",
+      "bbox": [
+        101,
+        385,
+        187,
+        395
+      ],
+      "confidence": 0.8232437372207642
+    },
+    {
+      "text": "Mimanad Beleranee Coumn Sr Bamore ",
+      "bbox": [
+        101,
+        397,
+        229,
+        411
+      ],
+      "confidence": 0.6812031269073486
+    },
+    {
+      "text": "200-80-0",
+      "bbox": [
+        465,
+        387,
+        515,
+        403
+      ],
+      "confidence": 0.7665131092071533
+    },
+    {
+      "text": "14-7x19 5",
+      "bbox": [
+        608,
+        383,
+        653,
+        394
+      ],
+      "confidence": 0.8402985334396362
+    },
+    {
+      "text": "all",
+      "bbox": [
+        423,
+        405,
+        440,
+        418
+      ],
+      "confidence": 0.8048798441886902
+    },
+    {
+      "text": "0-0-0-0",
+      "bbox": [
+        467,
+        405,
+        512,
+        419
+      ],
+      "confidence": 0.66921466588974
+    },
+    {
+      "text": "221",
+      "bbox": [
+        539,
+        407,
+        558,
+        420
+      ],
+      "confidence": 0.9353201985359192
+    },
+    {
+      "text": "I",
+      "bbox": [
+        570,
+        407,
+        578,
+        417
+      ],
+      "confidence": 0.9902260899543762
+    },
+    {
+      "text": "12-2t35s",
+      "bbox": [
+        609,
+        409,
+        654,
+        420
+      ],
+      "confidence": 0.7285578846931458
+    },
+    {
+      "text": "C",
+      "bbox": [
+        135,
+        416,
+        176,
+        426
+      ],
+      "confidence": 0.847465455532074
+    },
+    {
+      "text": "W.M. JOKNIOS",
+      "bbox": [
+        311,
+        422,
+        380,
+        433
+      ],
+      "confidence": 0.7902927994728088
+    },
+    {
+      "text": "\"T aend with ",
+      "bbox": [
+        402,
+        419,
+        455,
+        432
+      ],
+      "confidence": 0.7309619188308716
+    },
+    {
+      "text": "KLAOL.Cn",
+      "bbox": [
+        143,
+        431,
+        211,
+        444
+      ],
+      "confidence": 0.7839396595954895
+    },
+    {
+      "text": "H. LOA",
+      "bbox": [
+        308,
+        429,
+        352,
+        447
+      ],
+      "confidence": 0.715467631816864
+    },
+    {
+      "text": "TABL B-MEDIAN LRUNARY COTDNINE CONCENTRATION IAND J0tH",
+      "bbox": [
+        404,
+        440,
+        682,
+        457
+      ],
+      "confidence": 0.83779376745224
+    },
+    {
+      "text": "URINARY COTINTNE AS MARKER OF BREATHING",
+      "bbox": [
+        111,
+        449,
+        371,
+        465
+      ],
+      "confidence": 0.9762997627258301
+    },
+    {
+      "text": "AND 9O1G PERCENTILE EN NON EMOKERS AND SMOLERS",
+      "bbox": [
+        428,
+        452,
+        661,
+        469
+      ],
+      "confidence": 0.817249059677124
+    },
+    {
+      "text": "OTHER PEOPLE'S TOBACCO SMOKE",
+      "bbox": [
+        145,
+        461,
+        338,
+        475
+      ],
+      "confidence": 0.9772857427597046
+    },
+    {
+      "text": "Sia,-Ooe dafbucubty with the srudy",
+      "bbox": [
+        108,
+        476,
+        268,
+        491
+      ],
+      "confidence": 0.873907744884491
+    },
+    {
+      "text": " of hazards msboatud with",
+      "bbox": [
+        262,
+        477,
+        382,
+        492
+      ],
+      "confidence": 0.8950198888778687
+    },
+    {
+      "text": "Unasry cekshung (ecetersion",
+      "bbox": [
+        549,
+        473,
+        667,
+        486
+      ],
+      "confidence": 0.7408503293991089
+    },
+    {
+      "text": "ing ML)",
+      "bbox": [
+        594,
+        485,
+        624,
+        496
+      ],
+      "confidence": 0.7134466767311096
+    },
+    {
+      "text": "meesurt of exposure thac is sensuiive and spetafic enough for any",
+      "bbox": [
+        104,
+        498,
+        382,
+        514
+      ],
+      "confidence": 0.922653317451477
+    },
+    {
+      "text": "breachung other people's smoke (\"pans/ve smokung\") as the lac'i of a",
+      "bbox": [
+        105,
+        489,
+        382,
+        502
+      ],
+      "confidence": 0.8890244364738464
+    },
+    {
+      "text": "10th",
+      "bbox": [
+        548,
+        499,
+        569,
+        511
+      ],
+      "confidence": 0.9958836436271667
+    },
+    {
+      "text": "#hh",
+      "bbox": [
+        649,
+        500,
+        670,
+        511
+      ],
+      "confidence": 0.6715472340583801
+    },
+    {
+      "text": "ssocuatieo with daseme so br demonscrabic Surprusungly, a crude",
+      "bbox": [
+        100,
+        509,
+        382,
+        524
+      ],
+      "confidence": 0.8646528124809265
+    },
+    {
+      "text": "Smosang airgwry",
+      "bbox": [
+        415,
+        505,
+        487,
+        522
+      ],
+      "confidence": 0.7335498929023743
+    },
+    {
+      "text": "peroeale",
+      "bbox": [
+        539,
+        509,
+        578,
+        520
+      ],
+      "confidence": 0.6316258907318115
+    },
+    {
+      "text": "Med.an",
+      "bbox": [
+        593,
+        507,
+        626,
+        521
+      ],
+      "confidence": 0.8477639555931091
+    },
+    {
+      "text": "petcew cke",
+      "bbox": [
+        640,
+        510,
+        678,
+        521
+      ],
+      "confidence": 0.7180702686309814
+    },
+    {
+      "text": "mcasuire of expasure (inqusry about the smoolkung habits of the",
+      "bbox": [
+        100,
+        519,
+        382,
+        535
+      ],
+      "confidence": 0.9114457368850708
+    },
+    {
+      "text": "apouses of noo-smoiers) has",
+      "bbox": [
+        101,
+        531,
+        223,
+        544
+      ],
+      "confidence": 0.9159098267555237
+    },
+    {
+      "text": "been assocured with posutuve resuls un",
+      "bbox": [
+        218,
+        532,
+        382,
+        545
+      ],
+      "confidence": 0.9064840078353882
+    },
+    {
+      "text": "Now,mahey",
+      "bbox": [
+        404,
+        523,
+        454,
+        534
+      ],
+      "confidence": 0.6810360550880432
+    },
+    {
+      "text": "N'o expmure to echer",
+      "bbox": [
+        408,
+        532,
+        494,
+        547
+      ],
+      "confidence": 0.8961203694343567
+    },
+    {
+      "text": "2-0",
+      "bbox": [
+        598,
+        531,
+        621,
+        550
+      ],
+      "confidence": 0.8444218635559082
+    },
+    {
+      "text": "three' of the four-",
+      "bbox": [
+        100,
+        540,
+        203,
+        554
+      ],
+      "confidence": 0.8854164481163025
+    },
+    {
+      "text": "epadiertudlogasl snudies reporied; alt sthrer",
+      "bbox": [
+        201,
+        543,
+        382,
+        556
+      ],
+      "confidence": 0.8449402451515198
+    },
+    {
+      "text": "_prapike\"'is seobe",
+      "bbox": [
+        413,
+        543,
+        475,
+        556
+      ],
+      "confidence": 0.6766766905784607
+    },
+    {
+      "text": "2",
+      "bbox": [
+        511,
+        534,
+        525,
+        547
+      ],
+      "confidence": 0.9557341933250427
+    },
+    {
+      "text": "•-•",
+      "bbox": [
+        552,
+        534,
+        570,
+        547
+      ],
+      "confidence": 0.7645983099937439
+    },
+    {
+      "text": "wert coosistcot with ao increasc",
+      "bbox": [
+        102,
+        551,
+        245,
+        567
+      ],
+      "confidence": 0.824244499206543
+    },
+    {
+      "text": "eof about 30% is the rak of hang",
+      "bbox": [
+        237,
+        550,
+        384,
+        570
+      ],
+      "confidence": 0.8228464126586914
+    },
+    {
+      "text": "Saponed se ahe",
+      "bbox": [
+        409,
+        552,
+        477,
+        562
+      ],
+      "confidence": 0.6765246987342834
+    },
+    {
+      "text": "Y",
+      "bbox": [
+        509,
+        555,
+        524,
+        564
+      ],
+      "confidence": 0.8793570399284363
+    },
+    {
+      "text": "1-4",
+      "bbox": [
+        553,
+        553,
+        571,
+        567
+      ],
+      "confidence": 0.8960638642311096
+    },
+    {
+      "text": "6-0",
+      "bbox": [
+        602,
+        553,
+        620,
+        567
+      ],
+      "confidence": 0.8510525226593018
+    },
+    {
+      "text": "x·0",
+      "bbox": [
+        649,
+        552,
+        673,
+        568
+      ],
+      "confidence": 0.6405197381973267
+    },
+    {
+      "text": "cancer. We wondered",
+      "bbox": [
+        99,
+        563,
+        205,
+        576
+      ],
+      "confidence": 0.9752662181854248
+    },
+    {
+      "text": "etabolite of sicotine, would",
+      "bbox": [
+        103,
+        573,
+        231,
+        587
+      ],
+      "confidence": 0.918739378452301
+    },
+    {
+      "text": "of",
+      "bbox": [
+        281,
+        567,
+        293,
+        576
+      ],
+      "confidence": 0.8812626004219055
+    },
+    {
+      "text": "wrher or",
+      "bbox": [
+        286,
+        574,
+        333,
+        588
+      ],
+      "confidence": 0.7494998574256897
+    },
+    {
+      "text": "wriaury",
+      "bbox": [
+        292,
+        567,
+        332,
+        577
+      ],
+      "confidence": 0.7687466740608215
+    },
+    {
+      "text": "CLunie,",
+      "bbox": [
+        329,
+        564,
+        374,
+        578
+      ],
+      "confidence": 0.6155466437339783
+    },
+    {
+      "text": "prmpir\"ts smoke",
+      "bbox": [
+        414,
+        564,
+        475,
+        575
+      ],
+      "confidence": 0.8475894331932068
+    },
+    {
+      "text": "2-0",
+      "bbox": [
+        554,
+        572,
+        571,
+        585
+      ],
+      "confidence": 0.7993030548095703
+    },
+    {
+      "text": "4-0",
+      "bbox": [
+        603,
+        573,
+        621,
+        585
+      ],
+      "confidence": 0.9905176758766174
+    },
+    {
+      "text": "17-0",
+      "bbox": [
+        650,
+        571,
+        675,
+        586
+      ],
+      "confidence": 0.8670327663421631
+    },
+    {
+      "text": "wther peopie's smoke.",
+      "bbox": [
+        100,
+        585,
+        195,
+        598
+      ],
+      "confidence": 0.9301643371582031
+    },
+    {
+      "text": "exposure to",
+      "bbox": [
+        330,
+        578,
+        383,
+        588
+      ],
+      "confidence": 0.8668434619903564
+    },
+    {
+      "text": "Ceoarvae ely",
+      "bbox": [
+        410,
+        591,
+        471,
+        602
+      ],
+      "confidence": 0.6929197907447815
+    },
+    {
+      "text": "1S1",
+      "bbox": [
+        509,
+        592,
+        525,
+        604
+      ],
+      "confidence": 0.710573673248291
+    },
+    {
+      "text": "$37",
+      "bbox": [
+        553,
+        590,
+        572,
+        606
+      ],
+      "confidence": 0.8664748668670654
+    },
+    {
+      "text": "1445",
+      "bbox": [
+        602,
+        590,
+        624,
+        605
+      ],
+      "confidence": 0.765060544013977
+    },
+    {
+      "text": "T0 colicaguta is Caford wbo",
+      "bbox": [
+        98,
+        604,
+        226,
+        620
+      ],
+      "confidence": 0.8856304883956909
+    },
+    {
+      "text": "151 socs erbe artended the BUPA Medical Ceacre in London and",
+      "bbox": [
+        108,
+        594,
+        383,
+        611
+      ],
+      "confidence": 0.926654577255249
+    },
+    {
+      "text": "xcurrcnt smokers complred a",
+      "bbox": [
+        254,
+        607,
+        384,
+        622
+      ],
+      "confidence": 0.8559325933456421
+    },
+    {
+      "text": "Cean n",
+      "bbox": [
+        410,
+        603,
+        454,
+        613
+      ],
+      "confidence": 0.8831973671913147
+    },
+    {
+      "text": "2138",
+      "bbox": [
+        651,
+        601,
+        673,
+        613
+      ],
+      "confidence": 0.8690719604492188
+    },
+    {
+      "text": "quessiotunaire on their exrpoeure to erher people's smcike and aho",
+      "bbox": [
+        101,
+        616,
+        383,
+        633
+      ],
+      "confidence": 0.9542126655578613
+    },
+    {
+      "text": "175",
+      "bbox": [
+        553,
+        619,
+        571,
+        631
+      ],
+      "confidence": 0.8236834406852722
+    },
+    {
+      "text": "1920",
+      "bbox": [
+        603,
+        611,
+        623,
+        623
+      ],
+      "confidence": 0.9658399224281311
+    },
+    {
+      "text": "1474",
+      "bbox": [
+        603,
+        620,
+        623,
+        632
+      ],
+      "confidence": 0.9989975690841675
+    },
+    {
+      "text": " other prople's sobecce samoke",
+      "bbox": [
+        98,
+        637,
+        242,
+        653
+      ],
+      "confidence": 0.8712214231491089
+    },
+    {
+      "text": "provided a urine sumnpis. They were ashed if shey had bees mxposed",
+      "bbox": [
+        101,
+        627,
+        383,
+        644
+      ],
+      "confidence": 0.9336947202682495
+    },
+    {
+      "text": "the day of artendanee), if they had they were ashad about the",
+      "bbox": [
+        97,
+        647,
+        384,
+        666
+      ],
+      "confidence": 0.9017593264579773
+    },
+    {
+      "text": "withue the",
+      "bbox": [
+        243,
+        642,
+        286,
+        652
+      ],
+      "confidence": 0.9767637252807617
+    },
+    {
+      "text": "pai 7 days (inchudaing",
+      "bbox": [
+        286,
+        641,
+        383,
+        654
+      ],
+      "confidence": 0.9165923595428467
+    },
+    {
+      "text": "TAELE E-DISTRURLTION OF LRINARY COTDATNT (g/E) LEVELS IN",
+      "bbox": [
+        405,
+        643,
+        686,
+        658
+      ],
+      "confidence": 0.7936238646507263
+    },
+    {
+      "text": "durarice of exposures during which the sumoke could be smeliled.",
+      "bbox": [
+        99,
+        658,
+        382,
+        677
+      ],
+      "confidence": 0.9096848964691162
+    },
+    {
+      "text": "MOA SNOLERS AND SMOEIRS ACCORDING TO EETENT OF EX POSL'RI",
+      "bbox": [
+        405,
+        655,
+        687,
+        669
+      ],
+      "confidence": 0.8403165936470032
+    },
+    {
+      "text": "TO OTHER PEOPLF'S TOBACCO SNOKE ENON SMOKERS) AND",
+      "bbox": [
+        424,
+        665,
+        672,
+        678
+      ],
+      "confidence": 0.8990775346755981
+    },
+    {
+      "text": "described using w indlioe",
+      "bbox": [
+        99,
+        680,
+        217,
+        697
+      ],
+      "confidence": 0.9058634042739868
+    },
+    {
+      "text": "ACCOEDING TO YYPE OF TOB SCCD SMOKED (BADEEUS)",
+      "bbox": [
+        433,
+        676,
+        664,
+        691
+      ],
+      "confidence": 0.8702681064605713
+    },
+    {
+      "text": " amupocium mulphaxr te seperate bound frocs frer iebel sincr this",
+      "bbox": [
+        98,
+        691,
+        383,
+        708
+      ],
+      "confidence": 0.8660417199134827
+    },
+    {
+      "text": "PT",
+      "bbox": [
+        230,
+        686,
+        252,
+        695
+      ],
+      "confidence": 0.6379101276397705
+    },
+    {
+      "text": "'bur with thue snodifiatiacs",
+      "bbox": [
+        248,
+        684,
+        383,
+        698
+      ],
+      "confidence": 0.7772031426429749
+    },
+    {
+      "text": "Noosmhers",
+      "bbox": [
+        502,
+        697,
+        555,
+        708
+      ],
+      "confidence": 0.7147778272628784
+    },
+    {
+      "text": "Smshens",
+      "bbox": [
+        619,
+        695,
+        656,
+        709
+      ],
+      "confidence": 0.8094356656074524
+    },
+    {
+      "text": "was simp ler and less emxpensive thsm wming a secrund ancibody, (in) 5%,",
+      "bbox": [
+        99,
+        703,
+        382,
+        720
+      ],
+      "confidence": 0.9154500961303711
+    },
+    {
+      "text": "borse serum'barbutatr Eph 9) a the snay bufter, sthd (aui) horsc",
+      "bbox": [
+        99,
+        714,
+        383,
+        731
+      ],
+      "confidence": 0.8253062963485718
+    },
+    {
+      "text": "werum as the dilueans fer the corinine iamdards. Horse serus eras",
+      "bbox": [
+        100,
+        725,
+        383,
+        741
+      ],
+      "confidence": 0.8856233358383179
+    },
+    {
+      "text": "Eneory",
+      "bbox": [
+        422,
+        722,
+        456,
+        735
+      ],
+      "confidence": 0.7230613827705383
+    },
+    {
+      "text": "wed uastead of bumad srtucn to msute that the buffer aad the",
+      "bbox": [
+        100,
+        735,
+        382,
+        752
+      ],
+      "confidence": 0.8623363971710205
+    },
+    {
+      "text": "wes",
+      "bbox": [
+        525,
+        739,
+        545,
+        750
+      ],
+      "confidence": 0.7474645972251892
+    },
+    {
+      "text": ">7",
+      "bbox": [
+        548,
+        740,
+        560,
+        749
+      ],
+      "confidence": 0.8429006338119507
+    },
+    {
+      "text": "elv",
+      "bbox": [
+        642,
+        742,
+        654,
+        749
+      ],
+      "confidence": 0.7774187922477722
+    },
+    {
+      "text": "etandard contsi ned ne cotunine. Cotinine leveds were alae mestured",
+      "bbox": [
+        99,
+        746,
+        381,
+        763
+      ],
+      "confidence": 0.9039102792739868
+    },
+    {
+      "text": "for 232 wee (al) froes BU.PA) sho wer currett steokers.",
+      "bbox": [
+        99,
+        756,
+        346,
+        773
+      ],
+      "confidence": 0.8370806574821472
+    },
+    {
+      "text": "<1-0",
+      "bbox": [
+        410,
+        756,
+        436,
+        768
+      ],
+      "confidence": 0.8599714636802673
+    },
+    {
+      "text": "2-0-",
+      "bbox": [
+        416,
+        767,
+        442,
+        778
+      ],
+      "confidence": 0.8554860353469849
+    },
+    {
+      "text": "54",
+      "bbox": [
+        525,
+        758,
+        536,
+        766
+      ],
+      "confidence": 0.6442680358886719
+    },
+    {
+      "text": "3-0-",
+      "bbox": [
+        416,
+        776,
+        441,
+        787
+      ],
+      "confidence": 0.9909248948097229
+    },
+    {
+      "text": "4-8-",
+      "bbox": [
+        416,
+        786,
+        441,
+        797
+      ],
+      "confidence": 0.9519795775413513
+    },
+    {
+      "text": "2505498630",
+      "bbox": [
+        721,
+        778,
+        745,
+        884
+      ],
+      "confidence": 0.9999597668647766
+    },
+    {
+      "text": "B-0-",
+      "bbox": [
+        417,
+        797,
+        440,
+        805
+      ],
+      "confidence": 0.7218740582466125
+    },
+    {
+      "text": "32-•-",
+      "bbox": [
+        412,
+        816,
+        441,
+        826
+      ],
+      "confidence": 0.8286735415458679
+    },
+    {
+      "text": "s0-0-",
+      "bbox": [
+        413,
+        805,
+        441,
+        817
+      ],
+      "confidence": 0.7711724638938904
+    },
+    {
+      "text": "34",
+      "bbox": [
+        559,
+        803,
+        569,
+        814
+      ],
+      "confidence": 0.9673884510993958
+    },
+    {
+      "text": "128-0-",
+      "bbox": [
+        409,
+        834,
+        441,
+        845
+      ],
+      "confidence": 0.9090361595153809
+    },
+    {
+      "text": "254-0-",
+      "bbox": [
+        409,
+        843,
+        442,
+        854
+      ],
+      "confidence": 0.795799195766449
+    },
+    {
+      "text": "134-8-",
+      "bbox": [
+        406,
+        862,
+        442,
+        873
+      ],
+      "confidence": 0.7833978533744812
+    },
+    {
+      "text": "912-0-",
+      "bbox": [
+        408,
+        853,
+        442,
+        863
+      ],
+      "confidence": 0.9016720652580261
+    },
+    {
+      "text": "17",
+      "bbox": [
+        604,
+        862,
+        614,
+        871
+      ],
+      "confidence": 0.7769647836685181
+    },
+    {
+      "text": "17",
+      "bbox": [
+        605,
+        853,
+        614,
+        861
+      ],
+      "confidence": 0.9967342019081116
+    },
+    {
+      "text": "ET",
+      "bbox": [
+        641,
+        862,
+        650,
+        871
+      ],
+      "confidence": 0.6210143566131592
+    },
+    {
+      "text": "1",
+      "bbox": [
+        672,
+        862,
+        680,
+        871
+      ],
+      "confidence": 0.7912014126777649
+    },
+    {
+      "text": "o4--",
+      "bbox": [
+        409,
+        873,
+        443,
+        883
+      ],
+      "confidence": 0.7947052717208862
+    },
+    {
+      "text": "ao",
+      "bbox": [
+        604,
+        871,
+        615,
+        881
+      ],
+      "confidence": 0.7140181064605713
+    },
+    {
+      "text": "7",
+      "bbox": [
+        643,
+        871,
+        651,
+        880
+      ],
+      "confidence": 0.9905684590339661
+    },
+    {
+      "text": "14",
+      "bbox": [
+        671,
+        870,
+        683,
+        883
+      ],
+      "confidence": 0.9984111785888672
+    },
+    {
+      "text": "11",
+      "bbox": [
+        598,
+        896,
+        615,
+        908
+      ],
+      "confidence": 0.6376411318778992
+    }
+  ],
+  "full_text": "230\nTHELANCET JANUARY28.1984\nTOLDS D CULTLRE PILTRATES OF CJOUSI AND C COL\nii). The medhan level among noo-sumokers\nCpm\nw slso mauch iower than thar fouad among current sahokers (uabie\n)There was subscantial separes ios bet wren cotunume levets in non-\nHamis\nNar\nscaokcrs who wrire sot exposcd toe ether people's smoke and in\nTes\n(n-45)\n(8•7)\nHums\n(-37)\n(a-12)\nberwwen sbe noe-smokers wto reparted exposure to ocher propie's\ncurrent smokers (able suj There was,\nhoeever, some overiap\nTmat arpaine\n3w\nsmhokr and the active smokers.\nCTa.CT-.\n50w\no\n2475/)\n4Dw\nUrinary cexiniox secga to be e semsitive marker of exposure to\nCTE-CTE.\nCTa.CT--\n2\nNO\n30w\n409\ncoxinine is she mayer metabolite of nuegrine and is derived from\nocher people's sobecce amobe. Is is alse likely to be spee-lit sunce\nsebecco only. The halF-tufe of eat shune in blood is sabout one day, so\nurinaty extinine levels maphr sherefore be expected to reliect\nthe prescocr of soxis is boch biphasic culure supernaanuns and\nTAELEE-UEINART COTININT (ENgEM) IN NOS IMOKERS ACCORDING\nstas erens sade by Wadatrbemn et al chat, bosed on a lumnited sample,\npolymysan-B-released meerial. We cannax agree with the general\nTO NL'MEER OF REPORTED MDURS OF ESPOSLRE TO OTHER PLOPLES\nsexua-producing sraunus are uncemmcn us Europe, Asus, snd Auinca.\nTORACOD SASOKE VTTXIN TKE PAST SEVEN DAYS (INCLUDING DAY\nURNE SAMPLE WAS COLLECTED\nOut studuas indluded toaun-produc ng serans of C xewe and C cn's\nDursc on of expeurt\ninclas ed ins several\nmolates.\nEuropean coubtrics in aldarion to our Caneduan\nThr clinical sugnsficance of sodin-mediua ed derrhoes! responec un\nQusttule\nLAsTh\nUranan coaune (nepi)\nthe pethophysuology of\nexablusbed In our study, wt huve emcounier ed a bugh frequency of\ncmpyiobstenosa\nrEmaInS ID b\nlus\n8-0-\nwean\"sSD\nsomigrnic scrauna in a wide varieny of saratypms and mo darect\n2\n1-5-\n2-8x 3·0\n3-4= 2-7\nrelatsocab:p berwers aererype, baox ype, and tozugenucity is evidiens\n3\n4ch\n4-5-\n5-3n 43\na the precn este.\nMimanad Beleranee Coumn Sr Bamore \n200-80-0\n14-7x19 5\nall\n0-0-0-0\n221\nI\n12-2t35s\nC\nW.M. JOKNIOS\n\"T aend with \nKLAOL.Cn\nH. LOA\nTABL B-MEDIAN LRUNARY COTDNINE CONCENTRATION IAND J0tH\nURINARY COTINTNE AS MARKER OF BREATHING\nAND 9O1G PERCENTILE EN NON EMOKERS AND SMOLERS\nOTHER PEOPLE'S TOBACCO SMOKE\nSia,-Ooe dafbucubty with the srudy\n of hazards msboatud with\nUnasry cekshung (ecetersion\ning ML)\nmeesurt of exposure thac is sensuiive and spetafic enough for any\nbreachung other people's smoke (\"pans/ve smokung\") as the lac'i of a\n10th\n#hh\nssocuatieo with daseme so br demonscrabic Surprusungly, a crude\nSmosang airgwry\nperoeale\nMed.an\npetcew cke\nmcasuire of expasure (inqusry about the smoolkung habits of the\napouses of noo-smoiers) has\nbeen assocured with posutuve resuls un\nNow,mahey\nN'o expmure to echer\n2-0\nthree' of the four-\nepadiertudlogasl snudies reporied; alt sthrer\n_prapike\"'is seobe\n2\n•-•\nwert coosistcot with ao increasc\neof about 30% is the rak of hang\nSaponed se ahe\nY\n1-4\n6-0\nx·0\ncancer. We wondered\netabolite of sicotine, would\nof\nwrher or\nwriaury\nCLunie,\nprmpir\"ts smoke\n2-0\n4-0\n17-0\nwther peopie's smoke.\nexposure to\nCeoarvae ely\n1S1\n$37\n1445\nT0 colicaguta is Caford wbo\n151 socs erbe artended the BUPA Medical Ceacre in London and\nxcurrcnt smokers complred a\nCean n\n2138\nquessiotunaire on their exrpoeure to erher people's smcike and aho\n175\n1920\n1474\n other prople's sobecce samoke\nprovided a urine sumnpis. They were ashed if shey had bees mxposed\nthe day of artendanee), if they had they were ashad about the\nwithue the\npai 7 days (inchudaing\nTAELE E-DISTRURLTION OF LRINARY COTDATNT (g/E) LEVELS IN\ndurarice of exposures during which the sumoke could be smeliled.\nMOA SNOLERS AND SMOEIRS ACCORDING TO EETENT OF EX POSL'RI\nTO OTHER PEOPLF'S TOBACCO SNOKE ENON SMOKERS) AND\ndescribed using w indlioe\nACCOEDING TO YYPE OF TOB SCCD SMOKED (BADEEUS)\n amupocium mulphaxr te seperate bound frocs frer iebel sincr this\nPT\n'bur with thue snodifiatiacs\nNoosmhers\nSmshens\nwas simp ler and less emxpensive thsm wming a secrund ancibody, (in) 5%,\nborse serum'barbutatr Eph 9) a the snay bufter, sthd (aui) horsc\nwerum as the dilueans fer the corinine iamdards. Horse serus eras\nEneory\nwed uastead of bumad srtucn to msute that the buffer aad the\nwes\n>7\nelv\netandard contsi ned ne cotunine. Cotinine leveds were alae mestured\nfor 232 wee (al) froes BU.PA) sho wer currett steokers.\n<1-0\n2-0-\n54\n3-0-\n4-8-\n2505498630\nB-0-\n32-•-\ns0-0-\n34\n128-0-\n254-0-\n134-8-\n912-0-\n17\n17\nET\n1\no4--\nao\n7\n14\n11"
+}

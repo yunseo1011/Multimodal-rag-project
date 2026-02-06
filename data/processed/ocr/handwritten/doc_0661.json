@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0661.png",
+    "image_width": 793,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "alsle 124",
+      "bbox": [
+        70,
+        101,
+        205,
+        148
+      ],
+      "confidence": 0.6994929909706116
+    },
+    {
+      "text": "1Da Dinowits said the hed gpoed min to cigautte",
+      "bbox": [
+        58,
+        262,
+        759,
+        305
+      ],
+      "confidence": 0.743450403213501
+    },
+    {
+      "text": "Sormsks fap t 1ss dago and then was a 3-5",
+      "bbox": [
+        127,
+        297,
+        748,
+        336
+      ],
+      "confidence": 0.6349713206291199
+    },
+    {
+      "text": "a chaafenstie g t pomates tt theis",
+      "bbox": [
+        145,
+        484,
+        738,
+        520
+      ],
+      "confidence": 0.6232792139053345
+    },
+    {
+      "text": "i cnt limitednlt purters. op  aso inss",
+      "bbox": [
+        154,
+        517,
+        791,
+        551
+      ],
+      "confidence": 0.6414175033569336
+    },
+    {
+      "text": "in utls tht an sioing, diffeentiatins,n",
+      "bbox": [
+        161,
+        546,
+        732,
+        585
+      ],
+      "confidence": 0.7090603709220886
+    },
+    {
+      "text": "beanig todand pnatinten de thongt.",
+      "bbox": [
+        173,
+        607,
+        745,
+        644
+      ],
+      "confidence": 0.6928990483283997
+    },
+    {
+      "text": "50165 4862",
+      "bbox": [
+        766,
+        606,
+        790,
+        707
+      ],
+      "confidence": 0.9989930987358093
+    },
+    {
+      "text": "hs  Sutint hi coeenig thr",
+      "bbox": [
+        151,
+        631,
+        760,
+        685
+      ],
+      "confidence": 0.6095486879348755
+    },
+    {
+      "text": "Significdne 7 this, he saidy",
+      "bbox": [
+        158,
+        677,
+        600,
+        719
+      ],
+      "confidence": 0.6417196989059448
+    },
+    {
+      "text": "o Kinenity said thy did it hnneshid",
+      "bbox": [
+        160,
+        733,
+        767,
+        773
+      ],
+      "confidence": 0.6909498572349548
+    },
+    {
+      "text": "atls in th lug ane spailhe fr",
+      "bbox": [
+        167,
+        770,
+        725,
+        805
+      ],
+      "confidence": 0.6204005479812622
+    },
+    {
+      "text": "wned itks t finl mt.",
+      "bbox": [
+        164,
+        833,
+        527,
+        872
+      ],
+      "confidence": 0.6981991529464722
+    },
+    {
+      "text": "thi~ paphe wae pont putts sopsils",
+      "bbox": [
+        238,
+        860,
+        786,
+        907
+      ],
+      "confidence": 0.6145749092102051
+    },
+    {
+      "text": "f rtnt is thir foth. wnk.",
+      "bbox": [
+        166,
+        923,
+        595,
+        981
+      ],
+      "confidence": 0.6608498096466064
+    }
+  ],
+  "full_text": "alsle 124\n1Da Dinowits said the hed gpoed min to cigautte\nSormsks fap t 1ss dago and then was a 3-5\na chaafenstie g t pomates tt theis\ni cnt limitednlt purters. op  aso inss\nin utls tht an sioing, diffeentiatins,n\nbeanig todand pnatinten de thongt.\n50165 4862\nhs  Sutint hi coeenig thr\nSignificdne 7 this, he saidy\no Kinenity said thy did it hnneshid\natls in th lug ane spailhe fr\nwned itks t finl mt.\nthi~ paphe wae pont putts sopsils\nf rtnt is thir foth. wnk."
+}

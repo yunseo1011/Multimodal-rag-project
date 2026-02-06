@@ -1,0 +1,211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0667.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Dr. R. B. Seligman",
+      "bbox": [
+        113,
+        65,
+        282,
+        85
+      ],
+      "confidence": 0.9931986927986145
+    },
+    {
+      "text": "August 4, 1964",
+      "bbox": [
+        522,
+        61,
+        656,
+        85
+      ],
+      "confidence": 0.9788524508476257
+    },
+    {
+      "text": "H. C. Silberman",
+      "bbox": [
+        111,
+        97,
+        257,
+        119
+      ],
+      "confidence": 0.993665874004364
+    },
+    {
+      "text": "Meeting with Mr. Howard Kothe",
+      "bbox": [
+        111,
+        129,
+        383,
+        150
+      ],
+      "confidence": 0.9809677004814148
+    },
+    {
+      "text": "On July 28, 1964, I visited Mr. Kothe at his office in",
+      "bbox": [
+        156,
+        190,
+        667,
+        217
+      ],
+      "confidence": 0.9666717052459717
+    },
+    {
+      "text": "New York to discuss enzyme work.",
+      "bbox": [
+        110,
+        211,
+        409,
+        232
+      ],
+      "confidence": 0.9993243217468262
+    },
+    {
+      "text": "Mr. Kothe confirmed our opinion that our new work on smoke",
+      "bbox": [
+        154,
+        240,
+        701,
+        263
+      ],
+      "confidence": 0.9899803400039673
+    },
+    {
+      "text": "modification by enzymes is not eovered by our patent application",
+      "bbox": [
+        108,
+        256,
+        711,
+        279
+      ],
+      "confidence": 0.977292537689209
+    },
+    {
+      "text": "PM 393. He advised that in the future we submit to him drafts",
+      "bbox": [
+        109,
+        272,
+        691,
+        295
+      ],
+      "confidence": 0.9844192266464233
+    },
+    {
+      "text": "of proposed letters to Rohm and Haas. He also advised to use",
+      "bbox": [
+        108,
+        287,
+        683,
+        313
+      ],
+      "confidence": 0.9749945402145386
+    },
+    {
+      "text": "enzymes from other manufacturers as well as those from Rohm and",
+      "bbox": [
+        108,
+        304,
+        701,
+        328
+      ],
+      "confidence": 0.9957836270332336
+    },
+    {
+      "text": "Haas in our evaluations.",
+      "bbox": [
+        109,
+        325,
+        336,
+        343
+      ],
+      "confidence": 0.986595630645752
+    },
+    {
+      "text": "On his next trip to Washington, Mr. Kothe will try to get all",
+      "bbox": [
+        154,
+        351,
+        728,
+        377
+      ],
+      "confidence": 0.9792709350585938
+    },
+    {
+      "text": "the information on file about US 3, 132, 65l, by Julius E, Kiefer,",
+      "bbox": [
+        109,
+        367,
+        726,
+        394
+      ],
+      "confidence": 0.9707791805267334
+    },
+    {
+      "text": "smoking products and manufacture of the same. This patent issued",
+      "bbox": [
+        108,
+        383,
+        722,
+        411
+      ],
+      "confidence": 0.988944947719574
+    },
+    {
+      "text": "on May 12, 1964, covers the use of enzyme preparations without",
+      "bbox": [
+        108,
+        400,
+        694,
+        427
+      ],
+      "confidence": 0.9715834856033325
+    },
+    {
+      "text": "havingany example or proof for the claims.",
+      "bbox": [
+        107,
+        419,
+        517,
+        443
+      ],
+      "confidence": 0.9885172247886658
+    },
+    {
+      "text": "/sjm",
+      "bbox": [
+        105,
+        484,
+        156,
+        511
+      ],
+      "confidence": 0.9373238682746887
+    },
+    {
+      "text": "C64-01747",
+      "bbox": [
+        397,
+        553,
+        609,
+        685
+      ],
+      "confidence": 0.9995067119598389
+    },
+    {
+      "text": "2022214317",
+      "bbox": [
+        727,
+        812,
+        773,
+        983
+      ],
+      "confidence": 0.9998852014541626
+    }
+  ],
+  "full_text": "Dr. R. B. Seligman\nAugust 4, 1964\nH. C. Silberman\nMeeting with Mr. Howard Kothe\nOn July 28, 1964, I visited Mr. Kothe at his office in\nNew York to discuss enzyme work.\nMr. Kothe confirmed our opinion that our new work on smoke\nmodification by enzymes is not eovered by our patent application\nPM 393. He advised that in the future we submit to him drafts\nof proposed letters to Rohm and Haas. He also advised to use\nenzymes from other manufacturers as well as those from Rohm and\nHaas in our evaluations.\nOn his next trip to Washington, Mr. Kothe will try to get all\nthe information on file about US 3, 132, 65l, by Julius E, Kiefer,\nsmoking products and manufacture of the same. This patent issued\non May 12, 1964, covers the use of enzyme preparations without\nhavingany example or proof for the claims.\n/sjm\nC64-01747\n2022214317"
+}

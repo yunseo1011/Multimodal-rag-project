@@ -1,0 +1,211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0837.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FOR YOUR INFORMATION",
+      "bbox": [
+        449,
+        105,
+        691,
+        129
+      ],
+      "confidence": 0.9989883303642273
+    },
+    {
+      "text": "Mary Coughlin",
+      "bbox": [
+        578,
+        130,
+        693,
+        153
+      ],
+      "confidence": 0.9997982382774353
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        55,
+        161,
+        90,
+        176
+      ],
+      "confidence": 0.9976973533630371
+    },
+    {
+      "text": "November 19, 1996",
+      "bbox": [
+        130,
+        158,
+        252,
+        179
+      ],
+      "confidence": 0.9878696203231812
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        52,
+        188,
+        77,
+        208
+      ],
+      "confidence": 0.9965298175811768
+    },
+    {
+      "text": "See Distribution",
+      "bbox": [
+        131,
+        190,
+        226,
+        207
+      ],
+      "confidence": 0.9900095462799072
+    },
+    {
+      "text": "Sound Science and Pleasure Revenge News Clips",
+      "bbox": [
+        129,
+        217,
+        483,
+        237
+      ],
+      "confidence": 0.9907428026199341
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        53,
+        222,
+        104,
+        236
+      ],
+      "confidence": 0.9995267391204834
+    },
+    {
+      "text": "Attached are news clips from Arizona on sound science and pleasure revenge.",
+      "bbox": [
+        128,
+        259,
+        600,
+        281
+      ],
+      "confidence": 0.9773900508880615
+    },
+    {
+      "text": "Kudos to our M. A.N. consultant in Arizona on the successful pitches.",
+      "bbox": [
+        126,
+        289,
+        555,
+        311
+      ],
+      "confidence": 0.982926070690155
+    },
+    {
+      "text": "Distribution:",
+      "bbox": [
+        125,
+        352,
+        219,
+        370
+      ],
+      "confidence": 0.9994084239006042
+    },
+    {
+      "text": "Media Affairs",
+      "bbox": [
+        123,
+        398,
+        207,
+        415
+      ],
+      "confidence": 0.9963893890380859
+    },
+    {
+      "text": "T. Borelli",
+      "bbox": [
+        122,
+        413,
+        185,
+        430
+      ],
+      "confidence": 0.9966713190078735
+    },
+    {
+      "text": "D. Cooper",
+      "bbox": [
+        122,
+        429,
+        189,
+        448
+      ],
+      "confidence": 0.9925920963287354
+    },
+    {
+      "text": "E. Merlo",
+      "bbox": [
+        121,
+        446,
+        179,
+        463
+      ],
+      "confidence": 0.997635006904602
+    },
+    {
+      "text": "E. Woodward",
+      "bbox": [
+        121,
+        461,
+        210,
+        478
+      ],
+      "confidence": 0.9955589771270752
+    },
+    {
+      "text": "D. Evans, B-M/Pittsburgh",
+      "bbox": [
+        120,
+        477,
+        286,
+        494
+      ],
+      "confidence": 0.9831588864326477
+    },
+    {
+      "text": "W. Leavell, B-M/DC",
+      "bbox": [
+        121,
+        493,
+        253,
+        510
+      ],
+      "confidence": 0.9950717091560364
+    },
+    {
+      "text": "J. Reiss, B-M/NY",
+      "bbox": [
+        119,
+        509,
+        237,
+        526
+      ],
+      "confidence": 0.9921199083328247
+    },
+    {
+      "text": "2072197032",
+      "bbox": [
+        731,
+        831,
+        752,
+        931
+      ],
+      "confidence": 0.9999599456787109
+    }
+  ],
+  "full_text": "FOR YOUR INFORMATION\nMary Coughlin\nDATE:\nNovember 19, 1996\nTO:\nSee Distribution\nSound Science and Pleasure Revenge News Clips\nSUBJECT:\nAttached are news clips from Arizona on sound science and pleasure revenge.\nKudos to our M. A.N. consultant in Arizona on the successful pitches.\nDistribution:\nMedia Affairs\nT. Borelli\nD. Cooper\nE. Merlo\nE. Woodward\nD. Evans, B-M/Pittsburgh\nW. Leavell, B-M/DC\nJ. Reiss, B-M/NY\n2072197032"
+}

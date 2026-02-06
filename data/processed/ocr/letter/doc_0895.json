@@ -1,0 +1,281 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0895.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "\".",
+      "bbox": [
+        711,
+        36,
+        735,
+        60
+      ],
+      "confidence": 0.6737768650054932
+    },
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        267,
+        72,
+        474,
+        112
+      ],
+      "confidence": 0.9710063934326172
+    },
+    {
+      "text": "COMPANIES INC.",
+      "bbox": [
+        331,
+        110,
+        411,
+        123
+      ],
+      "confidence": 0.998203694820404
+    },
+    {
+      "text": "120 PARK AVENUE - NEW YORK, NY 10017-5592 - (212) 880-5000",
+      "bbox": [
+        218,
+        119,
+        522,
+        135
+      ],
+      "confidence": 0.954010546207428
+    },
+    {
+      "text": "MURRay H. BrINg",
+      "bbox": [
+        131,
+        178,
+        231,
+        193
+      ],
+      "confidence": 0.7783299088478088
+    },
+    {
+      "text": "PRESIDENT",
+      "bbox": [
+        142,
+        195,
+        199,
+        205
+      ],
+      "confidence": 0.9989842176437378
+    },
+    {
+      "text": "EXTERNAL AFFAIRS",
+      "bbox": [
+        201,
+        195,
+        297,
+        205
+      ],
+      "confidence": 0.9894815683364868
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        122,
+        207,
+        143,
+        215
+      ],
+      "confidence": 0.9986853003501892
+    },
+    {
+      "text": "GENERAL COUNSEL",
+      "bbox": [
+        143,
+        206,
+        240,
+        216
+      ],
+      "confidence": 0.98580402135849
+    },
+    {
+      "text": "(212) 880-4150",
+      "bbox": [
+        590,
+        205,
+        678,
+        224
+      ],
+      "confidence": 0.9832610487937927
+    },
+    {
+      "text": "February 17, 1995",
+      "bbox": [
+        336,
+        238,
+        472,
+        257
+      ],
+      "confidence": 0.9789465665817261
+    },
+    {
+      "text": "Donald T. Fox, Esq.",
+      "bbox": [
+        83,
+        323,
+        238,
+        346
+      ],
+      "confidence": 0.998978853225708
+    },
+    {
+      "text": "Fox & Horan",
+      "bbox": [
+        84,
+        342,
+        187,
+        363
+      ],
+      "confidence": 0.9867399334907532
+    },
+    {
+      "text": "One Broadway",
+      "bbox": [
+        83,
+        359,
+        202,
+        383
+      ],
+      "confidence": 0.9762411713600159
+    },
+    {
+      "text": "New York, NY 10004",
+      "bbox": [
+        84,
+        379,
+        247,
+        396
+      ],
+      "confidence": 0.9410746693611145
+    },
+    {
+      "text": "Dear Don:",
+      "bbox": [
+        84,
+        414,
+        166,
+        432
+      ],
+      "confidence": 0.9737828373908997
+    },
+    {
+      "text": "Thank you very much for your letter of February 15, 1995, and",
+      "bbox": [
+        132,
+        444,
+        609,
+        470
+      ],
+      "confidence": 0.9913950562477112
+    },
+    {
+      "text": "for informing me about the product contamination that a friend of",
+      "bbox": [
+        83,
+        463,
+        590,
+        485
+      ],
+      "confidence": 0.9989802241325378
+    },
+    {
+      "text": "yours found recently in a Marlboro cigarette. I have forwarded your",
+      "bbox": [
+        83,
+        480,
+        610,
+        504
+      ],
+      "confidence": 0.9921978712081909
+    },
+    {
+      "text": "letter to our PM USA personnel, and have asked them to investigate the",
+      "bbox": [
+        82,
+        497,
+        628,
+        520
+      ],
+      "confidence": 0.9852964282035828
+    },
+    {
+      "text": "situation.\" I will let you know as soon as I receive a report.",
+      "bbox": [
+        85,
+        518,
+        525,
+        535
+      ],
+      "confidence": 0.9862279295921326
+    },
+    {
+      "text": "I hope that all goes well with you.",
+      "bbox": [
+        133,
+        549,
+        392,
+        570
+      ],
+      "confidence": 0.964189887046814
+    },
+    {
+      "text": "With warm regards,",
+      "bbox": [
+        134,
+        586,
+        287,
+        603
+      ],
+      "confidence": 0.9997590184211731
+    },
+    {
+      "text": "Sincerely yours,",
+      "bbox": [
+        332,
+        617,
+        458,
+        640
+      ],
+      "confidence": 0.9862949848175049
+    },
+    {
+      "text": "Mrrg",
+      "bbox": [
+        335,
+        638,
+        464,
+        692
+      ],
+      "confidence": 0.6395934820175171
+    },
+    {
+      "text": "Murray H. Bring",
+      "bbox": [
+        333,
+        688,
+        461,
+        708
+      ],
+      "confidence": 0.9995869994163513
+    },
+    {
+      "text": "2045757044",
+      "bbox": [
+        706,
+        853,
+        727,
+        987
+      ],
+      "confidence": 0.9994713664054871
+    }
+  ],
+  "full_text": "\".\nPHILIP MORRIS\nCOMPANIES INC.\n120 PARK AVENUE - NEW YORK, NY 10017-5592 - (212) 880-5000\nMURRay H. BrINg\nPRESIDENT\nEXTERNAL AFFAIRS\nAND\nGENERAL COUNSEL\n(212) 880-4150\nFebruary 17, 1995\nDonald T. Fox, Esq.\nFox & Horan\nOne Broadway\nNew York, NY 10004\nDear Don:\nThank you very much for your letter of February 15, 1995, and\nfor informing me about the product contamination that a friend of\nyours found recently in a Marlboro cigarette. I have forwarded your\nletter to our PM USA personnel, and have asked them to investigate the\nsituation.\" I will let you know as soon as I receive a report.\nI hope that all goes well with you.\nWith warm regards,\nSincerely yours,\nMrrg\nMurray H. Bring\n2045757044"
+}

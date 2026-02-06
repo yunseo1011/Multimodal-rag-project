@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0190.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SIDESTREAM VERSUS MAINSTREAM",
+      "bbox": [
+        229,
+        269,
+        503,
+        297
+      ],
+      "confidence": 0.9851179718971252
+    },
+    {
+      "text": "INHALATION - IN PROGRESS",
+      "bbox": [
+        248,
+        395,
+        487,
+        426
+      ],
+      "confidence": 0.9941630363464355
+    },
+    {
+      "text": "MOUSE SKIN PAINTING - IN PROGRESS",
+      "bbox": [
+        195,
+        522,
+        526,
+        554
+      ],
+      "confidence": 0.9994082450866699
+    },
+    {
+      "text": "2021642793",
+      "bbox": [
+        687,
+        825,
+        728,
+        985
+      ],
+      "confidence": 0.9999831914901733
+    }
+  ],
+  "full_text": "SIDESTREAM VERSUS MAINSTREAM\nINHALATION - IN PROGRESS\nMOUSE SKIN PAINTING - IN PROGRESS\n2021642793"
+}

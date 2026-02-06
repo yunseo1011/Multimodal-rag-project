@@ -1,0 +1,761 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0394.png",
+    "image_width": 778,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Appendix D",
+      "bbox": [
+        25,
+        49,
+        109,
+        74
+      ],
+      "confidence": 0.9969249963760376
+    },
+    {
+      "text": "Document for IRB Review",
+      "bbox": [
+        559,
+        65,
+        715,
+        82
+      ],
+      "confidence": 0.9731478691101074
+    },
+    {
+      "text": "Evaluation of Ventilation Strategies for ….",
+      "bbox": [
+        26,
+        68,
+        291,
+        103
+      ],
+      "confidence": 0.9495849609375
+    },
+    {
+      "text": "February 22, 1995",
+      "bbox": [
+        604,
+        83,
+        715,
+        103
+      ],
+      "confidence": 0.998789370059967
+    },
+    {
+      "text": "INVO-1A YTUMALHJL",
+      "bbox": [
+        301,
+        104,
+        473,
+        121
+      ],
+      "confidence": 0.6713328957557678
+    },
+    {
+      "text": "rem Investgstor(s):",
+      "bbox": [
+        58,
+        123,
+        183,
+        141
+      ],
+      "confidence": 0.7276819348335266
+    },
+    {
+      "text": "Dr. James E. Woods, G. Thomas Holbrcok",
+      "bbox": [
+        201,
+        116,
+        467,
+        133
+      ],
+      "confidence": 0.9731119871139526
+    },
+    {
+      "text": "95-012",
+      "bbox": [
+        559,
+        113,
+        685,
+        141
+      ],
+      "confidence": 0.9710023999214172
+    },
+    {
+      "text": "De Srumenus):",
+      "bbox": [
+        57,
+        147,
+        137,
+        168
+      ],
+      "confidence": 0.9302144646644592
+    },
+    {
+      "text": "Indcor Environment Program, Building Construction",
+      "bbox": [
+        142,
+        147,
+        488,
+        169
+      ],
+      "confidence": 0.9856066107749939
+    },
+    {
+      "text": "Pr jeet Tide: Evaluation of Ventilation Strategies for Indoor Air Quality Control in Office",
+      "bbox": [
+        57,
+        175,
+        671,
+        198
+      ],
+      "confidence": 0.978762686252594
+    },
+    {
+      "text": "Environments.",
+      "bbox": [
+        128,
+        191,
+        225,
+        207
+      ],
+      "confidence": 0.9824975728988647
+    },
+    {
+      "text": ".ree of Sueport: Deparumenusi Resenret",
+      "bbox": [
+        67,
+        205,
+        276,
+        221
+      ],
+      "confidence": 0.8921810984611511
+    },
+    {
+      "text": "_Sponsored Remeareh _Pr90osal Vo.25-1009-01",
+      "bbox": [
+        308,
+        205,
+        587,
+        224
+      ],
+      "confidence": 0.8206747174263
+    },
+    {
+      "text": "I.",
+      "bbox": [
+        59,
+        235,
+        70,
+        244
+      ],
+      "confidence": 0.8308846950531006
+    },
+    {
+      "text": "a listed helow. Mease imidial all spplicnble cenditions and previce die runstanuaung statement of pretocot.",
+      "bbox": [
+        82,
+        244,
+        588,
+        261
+      ],
+      "confidence": 0.9034908413887024
+    },
+    {
+      "text": "The sriteria for \"exemouion\" from review by dhe TRn for i nroicet inveiving 2he vse of human subrects and wiun no risk to the subiect",
+      "bbox": [
+        83,
+        233,
+        713,
+        250
+      ],
+      "confidence": 0.9071500301361084
+    },
+    {
+      "text": "The research will be conducted in ssuahlished or commdiniy meablished edvcational settings, invmiving normal",
+      "bbox": [
+        105,
+        275,
+        623,
+        292
+      ],
+      "confidence": 0.9373086094856262
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        82,
+        278,
+        93,
+        288
+      ],
+      "confidence": 0.9045813679695129
+    },
+    {
+      "text": "educauon praetices. Fer exampie:",
+      "bbox": [
+        107,
+        288,
+        276,
+        301
+      ],
+      "confidence": 0.9485988616943359
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        108,
+        307,
+        124,
+        318
+      ],
+      "confidence": 0.8645710945129395
+    },
+    {
+      "text": "Research on regular and special educauion instruedional surntegies:",
+      "bbox": [
+        125,
+        304,
+        443,
+        321
+      ],
+      "confidence": 0.9391763806343079
+    },
+    {
+      "text": "2) Research on efTecsiveness of insurucuional tecnniaues. currieula or classroom manngament cechnigues.",
+      "bbox": [
+        104,
+        324,
+        609,
+        341
+      ],
+      "confidence": 0.9391063451766968
+    },
+    {
+      "text": "JAN 1 3",
+      "bbox": [
+        614,
+        344,
+        676,
+        361
+      ],
+      "confidence": 0.9622731804847717
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        670,
+        341,
+        707,
+        364
+      ],
+      "confidence": 0.9963636994361877
+    },
+    {
+      "text": "b.",
+      "bbox": [
+        80,
+        357,
+        93,
+        370
+      ],
+      "confidence": 0.997577428817749
+    },
+    {
+      "text": "The research invoives use of education tesis (__ cogniive. _ dingnosic. _ anutude.  ienievementl, and the subjecs",
+      "bbox": [
+        102,
+        355,
+        673,
+        376
+      ],
+      "confidence": 0.8938277959823608
+    },
+    {
+      "text": "cannot be idenulied direedy or through idenuliers wiu she iniermation.",
+      "bbox": [
+        104,
+        367,
+        443,
+        383
+      ],
+      "confidence": 0.8839644193649292
+    },
+    {
+      "text": "The research invalves survey or interview procedures, in wisich:",
+      "bbox": [
+        102,
+        390,
+        405,
+        406
+      ],
+      "confidence": 0.9517252445220947
+    },
+    {
+      "text": "Subjects cannot be idenuified direcdy or through idegufiers wigh dhe informauan:",
+      "bbox": [
+        124,
+        427,
+        508,
+        445
+      ],
+      "confidence": 0.9487842321395874
+    },
+    {
+      "text": "x",
+      "bbox": [
+        82,
+        428,
+        96,
+        443
+      ],
+      "confidence": 0.6106207966804504
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        102,
+        428,
+        115,
+        442
+      ],
+      "confidence": 0.9842638969421387
+    },
+    {
+      "text": "x",
+      "bbox": [
+        82,
+        457,
+        95,
+        470
+      ],
+      "confidence": 0.661222517490387
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        100,
+        457,
+        114,
+        471
+      ],
+      "confidence": 0.9909988045692444
+    },
+    {
+      "text": "Subieet's responses. if 'known, will not placs she subjeet at risk of crminai or civil liahility or he damaging to dre",
+      "bbox": [
+        124,
+        457,
+        665,
+        472
+      ],
+      "confidence": 0.9475255012512207
+    },
+    {
+      "text": "subject's financial standing or empieyseilitv:",
+      "bbox": [
+        125,
+        469,
+        341,
+        482
+      ],
+      "confidence": 0.9217472076416016
+    },
+    {
+      "text": "x",
+      "bbox": [
+        81,
+        485,
+        93,
+        499
+      ],
+      "confidence": 0.9620731472969055
+    },
+    {
+      "text": "J)",
+      "bbox": [
+        99,
+        491,
+        113,
+        505
+      ],
+      "confidence": 0.8406688570976257
+    },
+    {
+      "text": "The research does not deal wich sensiuve asoees of\"'subjeet's gwn behavier (llegal conduet. drug use. sexual",
+      "bbox": [
+        122,
+        490,
+        644,
+        506
+      ],
+      "confidence": 0.9264426231384277
+    },
+    {
+      "text": "behavior or alcohol use):",
+      "bbox": [
+        124,
+        502,
+        249,
+        515
+      ],
+      "confidence": 0.9577488899230957
+    },
+    {
+      "text": "4y",
+      "bbox": [
+        100,
+        526,
+        110,
+        537
+      ],
+      "confidence": 0.6547207832336426
+    },
+    {
+      "text": "The research invaives survey or interview precedures wich elected or sepointed public ofTieiais. or candidates for",
+      "bbox": [
+        122,
+        524,
+        665,
+        540
+      ],
+      "confidence": 0.9611621499061584
+    },
+    {
+      "text": "public office.",
+      "bbox": [
+        123,
+        535,
+        188,
+        549
+      ],
+      "confidence": 0.935991108417511
+    },
+    {
+      "text": "d.",
+      "bbox": [
+        74,
+        569,
+        84,
+        579
+      ],
+      "confidence": 0.985613226890564
+    },
+    {
+      "text": "The research invoives the ohservauion of publie benavior,\"in which:",
+      "bbox": [
+        96,
+        565,
+        420,
+        582
+      ],
+      "confidence": 0.9609040021896362
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        98,
+        604,
+        111,
+        617
+      ],
+      "confidence": 0.9480582475662231
+    },
+    {
+      "text": "The subiects cannot be idenuified direedy or chrough idenufiers:",
+      "bbox": [
+        119,
+        603,
+        427,
+        620
+      ],
+      "confidence": 0.9260271787643433
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        97,
+        632,
+        111,
+        646
+      ],
+      "confidence": 0.8861081600189209
+    },
+    {
+      "text": "The observations recorded about an individual couid not put the subiect at risk of criminal or civil liability or",
+      "bbox": [
+        120,
+        630,
+        650,
+        650
+      ],
+      "confidence": 0.9615112543106079
+    },
+    {
+      "text": "be damaging to the subject's Sinancial standing or cimoioyabilicy:",
+      "bbox": [
+        120,
+        642,
+        433,
+        660
+      ],
+      "confidence": 0.9555171728134155
+    },
+    {
+      "text": "J)",
+      "bbox": [
+        98,
+        665,
+        111,
+        678
+      ],
+      "confidence": 0.6247004270553589
+    },
+    {
+      "text": "The research does not deal with sensitive aspecus of the rubject's hehavior (illegal conduct. drug use, sexunl",
+      "bbox": [
+        118,
+        663,
+        636,
+        685
+      ],
+      "confidence": 0.9539003372192383
+    },
+    {
+      "text": "behavior or use of sicohol).",
+      "bbox": [
+        122,
+        676,
+        259,
+        692
+      ],
+      "confidence": 0.9441249966621399
+    },
+    {
+      "text": "The rerearch invoives collecsion or study of exising daua. documencs, recording pathologicnl specimens or diagnosic",
+      "bbox": [
+        95,
+        696,
+        658,
+        718
+      ],
+      "confidence": 0.9354578256607056
+    },
+    {
+      "text": "specimens, of which:",
+      "bbox": [
+        98,
+        709,
+        202,
+        724
+      ],
+      "confidence": 0.9700590372085571
+    },
+    {
+      "text": "The sourcm are publicly svailabie: or",
+      "bbox": [
+        97,
+        737,
+        308,
+        757
+      ],
+      "confidence": 0.9525254964828491
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        100,
+        767,
+        115,
+        780
+      ],
+      "confidence": 0.844646692276001
+    },
+    {
+      "text": "The information is recorded such hat the subject cannet be idenuified direcdy or indirecdy through idenuiliers.",
+      "bbox": [
+        117,
+        765,
+        642,
+        785
+      ],
+      "confidence": 0.9602113962173462
+    },
+    {
+      "text": "! further ceruify that the project wil not be changed to inerease the cisk or exceed exempt conditon(s) without fling an additional",
+      "bbox": [
+        72,
+        787,
+        684,
+        810
+      ],
+      "confidence": 0.903940737247467
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        52,
+        789,
+        66,
+        802
+      ],
+      "confidence": 0.998561680316925
+    },
+    {
+      "text": "cerification or application for use by the Human Subiecu Review Board.",
+      "bbox": [
+        75,
+        798,
+        422,
+        819
+      ],
+      "confidence": 0.8153796195983887
+    },
+    {
+      "text": "Note: If children are in any way at risk while this projeet is underway, he chairman of IRB should be nouified immediately in order to wake",
+      "bbox": [
+        50,
+        816,
+        699,
+        839
+      ],
+      "confidence": 0.9574446678161621
+    },
+    {
+      "text": "correetive sction.",
+      "bbox": [
+        50,
+        827,
+        138,
+        845
+      ],
+      "confidence": 0.8264041543006897
+    },
+    {
+      "text": "Y.Thirmaitolhok Jan 13,95",
+      "bbox": [
+        55,
+        848,
+        347,
+        879
+      ],
+      "confidence": 0.6476927399635315
+    },
+    {
+      "text": "Princioni Investigator(x)",
+      "bbox": [
+        53,
+        874,
+        172,
+        891
+      ],
+      "confidence": 0.9368067979812622
+    },
+    {
+      "text": "Prinepel Inxequeaspr(s)",
+      "bbox": [
+        381,
+        876,
+        491,
+        891
+      ],
+      "confidence": 0.8702638149261475
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        511,
+        876,
+        539,
+        894
+      ],
+      "confidence": 0.9657862782478333
+    },
+    {
+      "text": "B.P. ScJ1-13-95",
+      "bbox": [
+        55,
+        891,
+        364,
+        924
+      ],
+      "confidence": 0.8134253025054932
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        204,
+        878,
+        232,
+        891
+      ],
+      "confidence": 0.989251434803009
+    },
+    {
+      "text": "17- 9s",
+      "bbox": [
+        599,
+        896,
+        677,
+        922
+      ],
+      "confidence": 0.7866417765617371
+    },
+    {
+      "text": "Degarumencal Reviewer",
+      "bbox": [
+        55,
+        920,
+        173,
+        936
+      ],
+      "confidence": 0.9420202970504761
+    },
+    {
+      "text": "Oate",
+      "bbox": [
+        191,
+        919,
+        222,
+        938
+      ],
+      "confidence": 0.820736825466156
+    },
+    {
+      "text": "hair, Institutional Review Noard",
+      "bbox": [
+        382,
+        921,
+        538,
+        937
+      ],
+      "confidence": 0.9065176844596863
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        557,
+        921,
+        586,
+        940
+      ],
+      "confidence": 0.8819463849067688
+    },
+    {
+      "text": "43",
+      "bbox": [
+        365,
+        935,
+        390,
+        957
+      ],
+      "confidence": 0.9998897314071655
+    }
+  ],
+  "full_text": "Appendix D\nDocument for IRB Review\nEvaluation of Ventilation Strategies for ….\nFebruary 22, 1995\nINVO-1A YTUMALHJL\nrem Investgstor(s):\nDr. James E. Woods, G. Thomas Holbrcok\n95-012\nDe Srumenus):\nIndcor Environment Program, Building Construction\nPr jeet Tide: Evaluation of Ventilation Strategies for Indoor Air Quality Control in Office\nEnvironments.\n.ree of Sueport: Deparumenusi Resenret\n_Sponsored Remeareh _Pr90osal Vo.25-1009-01\nI.\na listed helow. Mease imidial all spplicnble cenditions and previce die runstanuaung statement of pretocot.\nThe sriteria for \"exemouion\" from review by dhe TRn for i nroicet inveiving 2he vse of human subrects and wiun no risk to the subiect\nThe research will be conducted in ssuahlished or commdiniy meablished edvcational settings, invmiving normal\n3.\neducauon praetices. Fer exampie:\n1)\nResearch on regular and special educauion instruedional surntegies:\n2) Research on efTecsiveness of insurucuional tecnniaues. currieula or classroom manngament cechnigues.\nJAN 1 3\n1995\nb.\nThe research invoives use of education tesis (__ cogniive. _ dingnosic. _ anutude.  ienievementl, and the subjecs\ncannot be idenulied direedy or through idenuliers wiu she iniermation.\nThe research invalves survey or interview procedures, in wisich:\nSubjects cannot be idenuified direcdy or through idegufiers wigh dhe informauan:\nx\n1)\nx\n2)\nSubieet's responses. if 'known, will not placs she subjeet at risk of crminai or civil liahility or he damaging to dre\nsubject's financial standing or empieyseilitv:\nx\nJ)\nThe research does not deal wich sensiuve asoees of\"'subjeet's gwn behavier (llegal conduet. drug use. sexual\nbehavior or alcohol use):\n4y\nThe research invaives survey or interview precedures wich elected or sepointed public ofTieiais. or candidates for\npublic office.\nd.\nThe research invoives the ohservauion of publie benavior,\"in which:\n1)\nThe subiects cannot be idenuified direedy or chrough idenufiers:\n2)\nThe observations recorded about an individual couid not put the subiect at risk of criminal or civil liability or\nbe damaging to the subject's Sinancial standing or cimoioyabilicy:\nJ)\nThe research does not deal with sensitive aspecus of the rubject's hehavior (illegal conduct. drug use, sexunl\nbehavior or use of sicohol).\nThe rerearch invoives collecsion or study of exising daua. documencs, recording pathologicnl specimens or diagnosic\nspecimens, of which:\nThe sourcm are publicly svailabie: or\n2)\nThe information is recorded such hat the subject cannet be idenuified direcdy or indirecdy through idenuiliers.\n! further ceruify that the project wil not be changed to inerease the cisk or exceed exempt conditon(s) without fling an additional\n2.\ncerification or application for use by the Human Subiecu Review Board.\nNote: If children are in any way at risk while this projeet is underway, he chairman of IRB should be nouified immediately in order to wake\ncorreetive sction.\nY.Thirmaitolhok Jan 13,95\nPrincioni Investigator(x)\nPrinepel Inxequeaspr(s)\nDate\nB.P. ScJ1-13-95\nDate\n17- 9s\nDegarumencal Reviewer\nOate\nhair, Institutional Review Noard\nDate\n43"
+}

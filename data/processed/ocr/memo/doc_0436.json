@@ -1,0 +1,501 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0436.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard",
+      "bbox": [
+        304,
+        4,
+        446,
+        46
+      ],
+      "confidence": 0.9989697337150574
+    },
+    {
+      "text": "TOBACCO COMPANY",
+      "bbox": [
+        356,
+        36,
+        439,
+        52
+      ],
+      "confidence": 0.9657497406005859
+    },
+    {
+      "text": ".MEMORANDUM",
+      "bbox": [
+        304,
+        62,
+        438,
+        82
+      ],
+      "confidence": 0.9849948287010193
+    },
+    {
+      "text": "September 3, 1991",
+      "bbox": [
+        503,
+        129,
+        667,
+        151
+      ],
+      "confidence": 0.9995191097259521
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        77,
+        202,
+        108,
+        218
+      ],
+      "confidence": 0.9992615580558777
+    },
+    {
+      "text": "H. J. Minnemeyer",
+      "bbox": [
+        170,
+        197,
+        328,
+        218
+      ],
+      "confidence": 0.9984163045883179
+    },
+    {
+      "text": "L. H. Gains",
+      "bbox": [
+        170,
+        230,
+        280,
+        249
+      ],
+      "confidence": 0.9889764189720154
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        76,
+        233,
+        124,
+        248
+      ],
+      "confidence": 0.9990724325180054
+    },
+    {
+      "text": "1992 Radio-synthesis Budget Request (PROJECT H-414 TP;",
+      "bbox": [
+        167,
+        257,
+        692,
+        280
+      ],
+      "confidence": 0.9890537261962891
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        76,
+        263,
+        156,
+        280
+      ],
+      "confidence": 0.9994903206825256
+    },
+    {
+      "text": "TESTCOMP A231, B31, B167)",
+      "bbox": [
+        171,
+        275,
+        411,
+        296
+      ],
+      "confidence": 0.9929071068763733
+    },
+    {
+      "text": "Complete fate studies of cigarette additives have been defined to",
+      "bbox": [
+        73,
+        304,
+        699,
+        328
+      ],
+      "confidence": 0.9890918731689453
+    },
+    {
+      "text": "include determinations in three areas: migration and equilibra-",
+      "bbox": [
+        73,
+        322,
+        690,
+        343
+      ],
+      "confidence": 0.9915160536766052
+    },
+    {
+      "text": "tion studies; material balance studies; and product-precursor",
+      "bbox": [
+        72,
+        338,
+        664,
+        359
+      ],
+      "confidence": 0.9935721158981323
+    },
+    {
+      "text": "studies.",
+      "bbox": [
+        75,
+        359,
+        170,
+        373
+      ],
+      "confidence": 0.9997625350952148
+    },
+    {
+      "text": "Such investigations into the fate of cigarette additives",
+      "bbox": [
+        167,
+        353,
+        709,
+        375
+      ],
+      "confidence": 0.9967038035392761
+    },
+    {
+      "text": "were formally proposed in October, 1990 and initiated during 1991",
+      "bbox": [
+        71,
+        368,
+        701,
+        393
+      ],
+      "confidence": 0.9872349500656128
+    },
+    {
+      "text": "(1). Criteria used in selecting additives for fate studies",
+      "bbox": [
+        74,
+        386,
+        646,
+        409
+      ],
+      "confidence": 0.9886674284934998
+    },
+    {
+      "text": "include usage levels, degree of occurrence in our product range,",
+      "bbox": [
+        73,
+        403,
+        692,
+        425
+      ],
+      "confidence": 0.9930613040924072
+    },
+    {
+      "text": "and the presence or absence of previously published data on a",
+      "bbox": [
+        73,
+        417,
+        668,
+        443
+      ],
+      "confidence": 0.9866964221000671
+    },
+    {
+      "text": "specific compound. To date, three compounds have been selected",
+      "bbox": [
+        73,
+        433,
+        687,
+        460
+      ],
+      "confidence": 0.9820573329925537
+    },
+    {
+      "text": "for study according to these criteria: citral dimethyl acetal",
+      "bbox": [
+        73,
+        450,
+        677,
+        475
+      ],
+      "confidence": 0.9813470840454102
+    },
+    {
+      "text": "(CDA); (L)-(+)-tartaric acid; and glycyrrhizic acid. Radiolabel-",
+      "bbox": [
+        75,
+        465,
+        706,
+        492
+      ],
+      "confidence": 0.9720718860626221
+    },
+    {
+      "text": "ing syntheses for the first two compounds have been completed.",
+      "bbox": [
+        73,
+        483,
+        677,
+        508
+      ],
+      "confidence": 0.9944683909416199
+    },
+    {
+      "text": "Development work for the labeling synthesis of glycyrrhizic acid",
+      "bbox": [
+        70,
+        496,
+        700,
+        527
+      ],
+      "confidence": 0.9964380860328674
+    },
+    {
+      "text": "is in progress. Completion of the development work, tracer, and",
+      "bbox": [
+        72,
+        514,
+        700,
+        541
+      ],
+      "confidence": 0.9845165610313416
+    },
+    {
+      "text": "master labeling synthesis runs is anticipated for late in i992.",
+      "bbox": [
+        71,
+        530,
+        688,
+        558
+      ],
+      "confidence": 0.9759374856948853
+    },
+    {
+      "text": "CDA was selected for study as a novel example of a filter addi-",
+      "bbox": [
+        72,
+        547,
+        690,
+        574
+      ],
+      "confidence": 0.9755285382270813
+    },
+    {
+      "text": "tive. ",
+      "bbox": [
+        73,
+        570,
+        152,
+        587
+      ],
+      "confidence": 0.9337059855461121
+    },
+    {
+      "text": "(L) -(+)-tartaric acid is used as an additive in virtually",
+      "bbox": [
+        143,
+        564,
+        699,
+        589
+      ],
+      "confidence": 0.9814134240150452
+    },
+    {
+      "text": "all of our packings at about 350 ppm and is a representative non-",
+      "bbox": [
+        71,
+        581,
+        709,
+        605
+      ],
+      "confidence": 0.970629870891571
+    },
+    {
+      "text": "volatile ingredient. Glycyrrhizic acid is also present at a",
+      "bbox": [
+        71,
+        598,
+        665,
+        621
+      ],
+      "confidence": 0.9945991635322571
+    },
+    {
+      "text": "significant level in most of our products and its product-precur-",
+      "bbox": [
+        72,
+        614,
+        711,
+        638
+      ],
+      "confidence": 0.994960606098175
+    },
+    {
+      "text": "sor relationships have been of interest throughout the industry.",
+      "bbox": [
+        71,
+        631,
+        702,
+        653
+      ],
+      "confidence": 0.9773772358894348
+    },
+    {
+      "text": "Changing levels of market interest in new products which contain",
+      "bbox": [
+        71,
+        647,
+        704,
+        670
+      ],
+      "confidence": 0.9825344681739807
+    },
+    {
+      "text": "CDA have relegated CDA fate studies to a lower current priority.",
+      "bbox": [
+        72,
+        665,
+        701,
+        686
+      ],
+      "confidence": 0.9762218594551086
+    },
+    {
+      "text": "The radiolabeling synthesis and resolution of (L)-(+)-tartaric",
+      "bbox": [
+        72,
+        681,
+        685,
+        702
+      ],
+      "confidence": 0.9986366629600525
+    },
+    {
+      "text": "acid together with results of its smoke stream material balance",
+      "bbox": [
+        72,
+        699,
+        695,
+        720
+      ],
+      "confidence": 0.9874465465545654
+    },
+    {
+      "text": "and cigarette migration and equilibration studies will be pre-",
+      "bbox": [
+        72,
+        715,
+        685,
+        736
+      ],
+      "confidence": 0.9866830706596375
+    },
+    {
+      "text": "sented at the TcRc this October. Data for glycyrrhizic acid will",
+      "bbox": [
+        71,
+        729,
+        714,
+        754
+      ],
+      "confidence": 0.9884588718414307
+    },
+    {
+      "text": "be obtained when the labeled compound becomes available and will",
+      "bbox": [
+        70,
+        745,
+        704,
+        769
+      ],
+      "confidence": 0.9914262890815735
+    },
+    {
+      "text": "also be published. Syntheses of other additives of interest will",
+      "bbox": [
+        71,
+        761,
+        713,
+        784
+      ],
+      "confidence": 0.9874897599220276
+    },
+    {
+      "text": "be initiated as directed by management.",
+      "bbox": [
+        69,
+        779,
+        456,
+        800
+      ],
+      "confidence": 0.9991328120231628
+    },
+    {
+      "text": "Current hourly technical labor costs for radiolabeling syntheses",
+      "bbox": [
+        72,
+        811,
+        701,
+        832
+      ],
+      "confidence": 0.996382474899292
+    },
+    {
+      "text": "billed at $77.88 for a maximum of 2090 hours totaling $162,769 and",
+      "bbox": [
+        70,
+        827,
+        722,
+        849
+      ],
+      "confidence": 0.9893643856048584
+    },
+    {
+      "text": "other direct costs of $45,ooo were included and are being expended",
+      "bbox": [
+        71,
+        843,
+        722,
+        865
+      ],
+      "confidence": 0.9718555212020874
+    },
+    {
+      "text": "as part of the 199l budget. Continued funding for the technical",
+      "bbox": [
+        71,
+        858,
+        701,
+        881
+      ],
+      "confidence": 0.9624247550964355
+    },
+    {
+      "text": "labor and other direct costs associated with the labeling synthe-",
+      "bbox": [
+        71,
+        875,
+        710,
+        896
+      ],
+      "confidence": 0.9826641082763672
+    },
+    {
+      "text": "ses is requested for the 1992 budget. These funds will be needed",
+      "bbox": [
+        72,
+        892,
+        710,
+        910
+      ],
+      "confidence": 0.9875166416168213
+    }
+  ],
+  "full_text": "Lorillard\nTOBACCO COMPANY\n.MEMORANDUM\nSeptember 3, 1991\nTO:\nH. J. Minnemeyer\nL. H. Gains\nFROM:\n1992 Radio-synthesis Budget Request (PROJECT H-414 TP;\nSubject:\nTESTCOMP A231, B31, B167)\nComplete fate studies of cigarette additives have been defined to\ninclude determinations in three areas: migration and equilibra-\ntion studies; material balance studies; and product-precursor\nstudies.\nSuch investigations into the fate of cigarette additives\nwere formally proposed in October, 1990 and initiated during 1991\n(1). Criteria used in selecting additives for fate studies\ninclude usage levels, degree of occurrence in our product range,\nand the presence or absence of previously published data on a\nspecific compound. To date, three compounds have been selected\nfor study according to these criteria: citral dimethyl acetal\n(CDA); (L)-(+)-tartaric acid; and glycyrrhizic acid. Radiolabel-\ning syntheses for the first two compounds have been completed.\nDevelopment work for the labeling synthesis of glycyrrhizic acid\nis in progress. Completion of the development work, tracer, and\nmaster labeling synthesis runs is anticipated for late in i992.\nCDA was selected for study as a novel example of a filter addi-\ntive. \n(L) -(+)-tartaric acid is used as an additive in virtually\nall of our packings at about 350 ppm and is a representative non-\nvolatile ingredient. Glycyrrhizic acid is also present at a\nsignificant level in most of our products and its product-precur-\nsor relationships have been of interest throughout the industry.\nChanging levels of market interest in new products which contain\nCDA have relegated CDA fate studies to a lower current priority.\nThe radiolabeling synthesis and resolution of (L)-(+)-tartaric\nacid together with results of its smoke stream material balance\nand cigarette migration and equilibration studies will be pre-\nsented at the TcRc this October. Data for glycyrrhizic acid will\nbe obtained when the labeled compound becomes available and will\nalso be published. Syntheses of other additives of interest will\nbe initiated as directed by management.\nCurrent hourly technical labor costs for radiolabeling syntheses\nbilled at $77.88 for a maximum of 2090 hours totaling $162,769 and\nother direct costs of $45,ooo were included and are being expended\nas part of the 199l budget. Continued funding for the technical\nlabor and other direct costs associated with the labeling synthe-\nses is requested for the 1992 budget. These funds will be needed"
+}

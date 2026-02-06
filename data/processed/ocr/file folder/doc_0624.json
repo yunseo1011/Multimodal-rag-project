@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0624.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "(",
+      "bbox": [
+        236,
+        834,
+        261,
+        864
+      ],
+      "confidence": 0.8913906216621399
+    },
+    {
+      "text": "i.",
+      "bbox": [
+        636,
+        839,
+        658,
+        862
+      ],
+      "confidence": 0.8892254829406738
+    }
+  ],
+  "full_text": "(\ni."
+}

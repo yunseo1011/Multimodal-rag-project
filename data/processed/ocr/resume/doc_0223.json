@@ -1,0 +1,541 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0223.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Curriculun Vitae",
+      "bbox": [
+        239,
+        0,
+        360,
+        21
+      ],
+      "confidence": 0.9729421138763428
+    },
+    {
+      "text": "Barbara Abrams",
+      "bbox": [
+        245,
+        32,
+        354,
+        52
+      ],
+      "confidence": 0.9959022402763367
+    },
+    {
+      "text": "308 South Brooks Street",
+      "bbox": [
+        45,
+        60,
+        222,
+        82
+      ],
+      "confidence": 0.9987393021583557
+    },
+    {
+      "text": "Madison, Wisconsin 53715",
+      "bbox": [
+        44,
+        75,
+        236,
+        98
+      ],
+      "confidence": 0.9962599873542786
+    },
+    {
+      "text": "(608)255-8319",
+      "bbox": [
+        46,
+        90,
+        148,
+        112
+      ],
+      "confidence": 0.9889399409294128
+    },
+    {
+      "text": "Born",
+      "bbox": [
+        45,
+        124,
+        81,
+        139
+      ],
+      "confidence": 0.9982745051383972
+    },
+    {
+      "text": "April 23, 1952",
+      "bbox": [
+        143,
+        125,
+        251,
+        144
+      ],
+      "confidence": 0.9975214004516602
+    },
+    {
+      "text": "Education",
+      "bbox": [
+        44,
+        153,
+        117,
+        175
+      ],
+      "confidence": 0.9946073889732361
+    },
+    {
+      "text": "Ohio University, Athens, Ohio",
+      "bbox": [
+        142,
+        155,
+        361,
+        175
+      ],
+      "confidence": 0.9863203167915344
+    },
+    {
+      "text": "1970-1971",
+      "bbox": [
+        438,
+        156,
+        509,
+        170
+      ],
+      "confidence": 0.9506571888923645
+    },
+    {
+      "text": "Biology",
+      "bbox": [
+        504,
+        152,
+        574,
+        173
+      ],
+      "confidence": 0.9982171654701233
+    },
+    {
+      "text": "New York University, Bronx, NY",
+      "bbox": [
+        141,
+        171,
+        367,
+        191
+      ],
+      "confidence": 0.9964444041252136
+    },
+    {
+      "text": "1971-1972",
+      "bbox": [
+        438,
+        171,
+        508,
+        185
+      ],
+      "confidence": 0.9992988109588623
+    },
+    {
+      "text": "Biology",
+      "bbox": [
+        514,
+        170,
+        573,
+        188
+      ],
+      "confidence": 0.9979785680770874
+    },
+    {
+      "text": "University of Wisconsin, Madison, WI",
+      "bbox": [
+        141,
+        186,
+        410,
+        208
+      ],
+      "confidence": 0.989791750907898
+    },
+    {
+      "text": "Zoology",
+      "bbox": [
+        514,
+        183,
+        575,
+        204
+      ],
+      "confidence": 0.9852022528648376
+    },
+    {
+      "text": "B.S.",
+      "bbox": [
+        669,
+        180,
+        705,
+        199
+      ],
+      "confidence": 0.9967339038848877
+    },
+    {
+      "text": "University of Wisconsin, Madison, WI",
+      "bbox": [
+        141,
+        202,
+        412,
+        223
+      ],
+      "confidence": 0.9855912327766418
+    },
+    {
+      "text": "1972-1974",
+      "bbox": [
+        438,
+        188,
+        508,
+        202
+      ],
+      "confidence": 0.9989088773727417
+    },
+    {
+      "text": "Veterinary Science M.S.",
+      "bbox": [
+        514,
+        197,
+        705,
+        219
+      ],
+      "confidence": 0.9993810057640076
+    },
+    {
+      "text": "Oregon State University, Corvallis, OR 198o-198l Pisheries & Wildlife",
+      "bbox": [
+        141,
+        214,
+        675,
+        239
+      ],
+      "confidence": 0.9875496029853821
+    },
+    {
+      "text": "1974-1976",
+      "bbox": [
+        439,
+        203,
+        509,
+        217
+      ],
+      "confidence": 0.9849392771720886
+    },
+    {
+      "text": "Specialist/Life Science Research, Department of Anatomy, University of",
+      "bbox": [
+        139,
+        245,
+        669,
+        271
+      ],
+      "confidence": 0.9897719025611877
+    },
+    {
+      "text": "Experience",
+      "bbox": [
+        43,
+        251,
+        123,
+        271
+      ],
+      "confidence": 0.9996064305305481
+    },
+    {
+      "text": "Wisconsin, Madison, WI. Responsible for tissue cultures, preparation of",
+      "bbox": [
+        139,
+        261,
+        684,
+        286
+      ],
+      "confidence": 0.9836993217468262
+    },
+    {
+      "text": "reagents and culture supplies, supervising technical staff and maintenance",
+      "bbox": [
+        139,
+        279,
+        698,
+        301
+      ],
+      "confidence": 0.9986782670021057
+    },
+    {
+      "text": "of laboratory. P'rincipal Investigator: Dr. Bruce Lipton. Vct. 198l-Feb. 1982.",
+      "bbox": [
+        139,
+        291,
+        748,
+        321
+      ],
+      "confidence": 0.9691982865333557
+    },
+    {
+      "text": "Department of Structural and Functional Sciences, University of Wisconsin",
+      "bbox": [
+        140,
+        312,
+        718,
+        337
+      ],
+      "confidence": 0.9927147626876831
+    },
+    {
+      "text": "Feb. 15, 1982 - present",
+      "bbox": [
+        140,
+        333,
+        325,
+        351
+      ],
+      "confidence": 0.9938017129898071
+    },
+    {
+      "text": "Stream Ecologist, Department of Fisheries and Wildlife, Oregon State",
+      "bbox": [
+        139,
+        344,
+        655,
+        366
+      ],
+      "confidence": 0.9841369390487671
+    },
+    {
+      "text": "Uiniversity, Corvallis, OR. Worked towards Phd in stream ecology.",
+      "bbox": [
+        139,
+        360,
+        631,
+        383
+      ],
+      "confidence": 0.9721406102180481
+    },
+    {
+      "text": "Advisor: Dr. Kenneth Cummins. Jan. 198l-June 1981",
+      "bbox": [
+        139,
+        377,
+        525,
+        398
+      ],
+      "confidence": 0.9713466167449951
+    },
+    {
+      "text": "Aquatic Entomologist, Department of Intomology, Oregon State University,",
+      "bbox": [
+        138,
+        405,
+        687,
+        433
+      ],
+      "confidence": 0.9786349534988403
+    },
+    {
+      "text": "Corvallis, Ok. Identified aquatic macroinvertebrates from Mt. St. Helens,",
+      "bbox": [
+        139,
+        420,
+        702,
+        449
+      ],
+      "confidence": 0.9945859313011169
+    },
+    {
+      "text": "WA. Advisor: Dr. Norman Anderson. Sept. 198o-June 1981",
+      "bbox": [
+        139,
+        440,
+        571,
+        463
+      ],
+      "confidence": 0.9791122674942017
+    },
+    {
+      "text": "Aquatic Intomologist, Department of Entomology, University of Wisconsin,",
+      "bbox": [
+        139,
+        469,
+        688,
+        498
+      ],
+      "confidence": 0.9731966853141785
+    },
+    {
+      "text": "Madison, WI. Determined the water quality of streams in Wisconsin using",
+      "bbox": [
+        140,
+        485,
+        689,
+        513
+      ],
+      "confidence": 0.9799065589904785
+    },
+    {
+      "text": "aquatic macroinvertebrates and chirononids. Advisor: Dr. William Hilsenhoff.",
+      "bbox": [
+        140,
+        499,
+        733,
+        530
+      ],
+      "confidence": 0.9791246652603149
+    },
+    {
+      "text": "Peb. 1980-Sept.1980",
+      "bbox": [
+        141,
+        523,
+        289,
+        545
+      ],
+      "confidence": 0.9642910957336426
+    },
+    {
+      "text": "Scientific Researcher, invironmental Decade, Madison, WI. Environmental",
+      "bbox": [
+        142,
+        550,
+        687,
+        576
+      ],
+      "confidence": 0.981357753276825
+    },
+    {
+      "text": "research pertaining to water pollution and copper/zinc mining to establish",
+      "bbox": [
+        142,
+        566,
+        703,
+        593
+      ],
+      "confidence": 0.9958648681640625
+    },
+    {
+      "text": "long term liability laws in Wisconsin. Aug. 1979-Feb.1980",
+      "bbox": [
+        142,
+        584,
+        581,
+        609
+      ],
+      "confidence": 0.9707748889923096
+    },
+    {
+      "text": "Aquatic Biologist Research Assistant, Rocky Mountain Biological Laboratory,",
+      "bbox": [
+        143,
+        614,
+        709,
+        641
+      ],
+      "confidence": 0.9917401075363159
+    },
+    {
+      "text": "Crested Butte, C0. Assessed the impact of molybdenum mining on the aquatic",
+      "bbox": [
+        143,
+        631,
+        710,
+        656
+      ],
+      "confidence": 0.9841213822364807
+    },
+    {
+      "text": "macroinvertebrated of a Rocky Mountain stream. Advisors: Dr. Stanley I.",
+      "bbox": [
+        143,
+        647,
+        693,
+        672
+      ],
+      "confidence": 0.9839765429496765
+    },
+    {
+      "text": "Dodson and Dr. Barbara Peckarsky. June 1979-Aug.1979",
+      "bbox": [
+        143,
+        664,
+        543,
+        689
+      ],
+      "confidence": 0.9934495687484741
+    },
+    {
+      "text": "Produce Manager, Greenleaf Pood Collective, Madison, WI. June 1978-Peb.1980",
+      "bbox": [
+        143,
+        693,
+        719,
+        722
+      ],
+      "confidence": 0.9873835444450378
+    },
+    {
+      "text": "Human Oncology Specialist, Wisconsin Clinical Cancer Center, University of",
+      "bbox": [
+        144,
+        726,
+        704,
+        753
+      ],
+      "confidence": 0.9938491582870483
+    },
+    {
+      "text": "Wisconsin, Madison, WI. Examined exfoliated urinary bladder cells using",
+      "bbox": [
+        145,
+        743,
+        689,
+        769
+      ],
+      "confidence": 0.9857339859008789
+    },
+    {
+      "text": "scanning electron microscopy (SEM). Dvc. 1977-May 1978",
+      "bbox": [
+        147,
+        760,
+        560,
+        784
+      ],
+      "confidence": 0.9669586420059204
+    },
+    {
+      "text": "using macroinvertebrates. Research ADvisor: Dr. Gordon Chesters, chairman.",
+      "bbox": [
+        146,
+        820,
+        721,
+        850
+      ],
+      "confidence": 0.938353955745697
+    },
+    {
+      "text": "Aug. 1976-Dec.1977",
+      "bbox": [
+        149,
+        843,
+        289,
+        864
+      ],
+      "confidence": 0.9882525205612183
+    },
+    {
+      "text": "Zooplankton Research Assistant, Douglas Lake Biological Station, Pellston,",
+      "bbox": [
+        149,
+        866,
+        707,
+        897
+      ],
+      "confidence": 0.9955806136131287
+    }
+  ],
+  "full_text": "Curriculun Vitae\nBarbara Abrams\n308 South Brooks Street\nMadison, Wisconsin 53715\n(608)255-8319\nBorn\nApril 23, 1952\nEducation\nOhio University, Athens, Ohio\n1970-1971\nBiology\nNew York University, Bronx, NY\n1971-1972\nBiology\nUniversity of Wisconsin, Madison, WI\nZoology\nB.S.\nUniversity of Wisconsin, Madison, WI\n1972-1974\nVeterinary Science M.S.\nOregon State University, Corvallis, OR 198o-198l Pisheries & Wildlife\n1974-1976\nSpecialist/Life Science Research, Department of Anatomy, University of\nExperience\nWisconsin, Madison, WI. Responsible for tissue cultures, preparation of\nreagents and culture supplies, supervising technical staff and maintenance\nof laboratory. P'rincipal Investigator: Dr. Bruce Lipton. Vct. 198l-Feb. 1982.\nDepartment of Structural and Functional Sciences, University of Wisconsin\nFeb. 15, 1982 - present\nStream Ecologist, Department of Fisheries and Wildlife, Oregon State\nUiniversity, Corvallis, OR. Worked towards Phd in stream ecology.\nAdvisor: Dr. Kenneth Cummins. Jan. 198l-June 1981\nAquatic Entomologist, Department of Intomology, Oregon State University,\nCorvallis, Ok. Identified aquatic macroinvertebrates from Mt. St. Helens,\nWA. Advisor: Dr. Norman Anderson. Sept. 198o-June 1981\nAquatic Intomologist, Department of Entomology, University of Wisconsin,\nMadison, WI. Determined the water quality of streams in Wisconsin using\naquatic macroinvertebrates and chirononids. Advisor: Dr. William Hilsenhoff.\nPeb. 1980-Sept.1980\nScientific Researcher, invironmental Decade, Madison, WI. Environmental\nresearch pertaining to water pollution and copper/zinc mining to establish\nlong term liability laws in Wisconsin. Aug. 1979-Feb.1980\nAquatic Biologist Research Assistant, Rocky Mountain Biological Laboratory,\nCrested Butte, C0. Assessed the impact of molybdenum mining on the aquatic\nmacroinvertebrated of a Rocky Mountain stream. Advisors: Dr. Stanley I.\nDodson and Dr. Barbara Peckarsky. June 1979-Aug.1979\nProduce Manager, Greenleaf Pood Collective, Madison, WI. June 1978-Peb.1980\nHuman Oncology Specialist, Wisconsin Clinical Cancer Center, University of\nWisconsin, Madison, WI. Examined exfoliated urinary bladder cells using\nscanning electron microscopy (SEM). Dvc. 1977-May 1978\nusing macroinvertebrates. Research ADvisor: Dr. Gordon Chesters, chairman.\nAug. 1976-Dec.1977\nZooplankton Research Assistant, Douglas Lake Biological Station, Pellston,"
+}

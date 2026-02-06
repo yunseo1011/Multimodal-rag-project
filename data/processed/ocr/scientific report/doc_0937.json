@@ -1,0 +1,561 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0937.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TEST NUMBER:",
+      "bbox": [
+        81,
+        89,
+        190,
+        103
+      ],
+      "confidence": 0.9988834857940674
+    },
+    {
+      "text": "D3224",
+      "bbox": [
+        204,
+        86,
+        254,
+        104
+      ],
+      "confidence": 0.999955952167511
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        79,
+        118,
+        132,
+        139
+      ],
+      "confidence": 0.9980766177177429
+    },
+    {
+      "text": "April 16, 1984",
+      "bbox": [
+        206,
+        115,
+        338,
+        138
+      ],
+      "confidence": 0.9698214530944824
+    },
+    {
+      "text": "RE QUESTER:",
+      "bbox": [
+        82,
+        152,
+        174,
+        170
+      ],
+      "confidence": 0.9958981871604919
+    },
+    {
+      "text": "Karla Parrish - 2304",
+      "bbox": [
+        208,
+        148,
+        393,
+        167
+      ],
+      "confidence": 0.9911985397338867
+    },
+    {
+      "text": "TITLE:",
+      "bbox": [
+        80,
+        181,
+        141,
+        202
+      ],
+      "confidence": 0.9895264506340027
+    },
+    {
+      "text": "Marlboro Y-72 Blend Structure with ET, ES, and BL",
+      "bbox": [
+        207,
+        179,
+        662,
+        200
+      ],
+      "confidence": 0.9986092448234558
+    },
+    {
+      "text": "Current Casings_and Flavor vs Marlborò Y-72 Blend",
+      "bbox": [
+        207,
+        195,
+        661,
+        216
+      ],
+      "confidence": 0.9577516317367554
+    },
+    {
+      "text": "Structure with ET, ES, and RL-TC.",
+      "bbox": [
+        209,
+        213,
+        512,
+        230
+      ],
+      "confidence": 0.998904824256897
+    },
+    {
+      "text": "PURPOSE:",
+      "bbox": [
+        81,
+        246,
+        158,
+        263
+      ],
+      "confidence": 0.999627947807312
+    },
+    {
+      "text": "To determine if there were any detectable differences",
+      "bbox": [
+        207,
+        241,
+        698,
+        263
+      ],
+      "confidence": 0.9965415000915527
+    },
+    {
+      "text": "between Marlboro Y-72 Blend Structure with ET, ES",
+      "bbox": [
+        206,
+        257,
+        664,
+        279
+      ],
+      "confidence": 0.9798360466957092
+    },
+    {
+      "text": "and BL current casings and flavor vs Marlboro'Y-72",
+      "bbox": [
+        208,
+        274,
+        670,
+        293
+      ],
+      "confidence": 0.9948601722717285
+    },
+    {
+      "text": "Blend Structure with ET, ES, and RL-TC.",
+      "bbox": [
+        208,
+        290,
+        566,
+        310
+      ],
+      "confidence": 0.9796870350837708
+    },
+    {
+      "text": "Operation Center Panel",
+      "bbox": [
+        209,
+        322,
+        411,
+        339
+      ],
+      "confidence": 0.9949859380722046
+    },
+    {
+      "text": "PANEL ISTS:",
+      "bbox": [
+        81,
+        324,
+        176,
+        341
+      ],
+      "confidence": 0.9833385944366455
+    },
+    {
+      "text": "ME THOD:",
+      "bbox": [
+        81,
+        357,
+        147,
+        375
+      ],
+      "confidence": 0.9429551362991333
+    },
+    {
+      "text": "The replicated paired comparison was used to compare",
+      "bbox": [
+        208,
+        354,
+        688,
+        374
+      ],
+      "confidence": 0.9940879344940186
+    },
+    {
+      "text": "these cigarettes.",
+      "bbox": [
+        209,
+        371,
+        365,
+        388
+      ],
+      "confidence": 0.9998981356620789
+    },
+    {
+      "text": "The panelists were given two precoded ballots and",
+      "bbox": [
+        209,
+        403,
+        663,
+        420
+      ],
+      "confidence": 0.9989161491394043
+    },
+    {
+      "text": "four precoded cigarettes. On' the first ballot, half",
+      "bbox": [
+        210,
+        418,
+        691,
+        435
+      ],
+      "confidence": 0.9811386466026306
+    },
+    {
+      "text": "the panelists were instructed to smoke the control",
+      "bbox": [
+        208,
+        432,
+        673,
+        453
+      ],
+      "confidence": 0.9956024885177612
+    },
+    {
+      "text": "first, then the experimental second; on their second",
+      "bbox": [
+        207,
+        447,
+        692,
+        471
+      ],
+      "confidence": 0.9912319183349609
+    },
+    {
+      "text": "ballot, they smoked the experimental first then the",
+      "bbox": [
+        206,
+        463,
+        682,
+        488
+      ],
+      "confidence": 0.9882827401161194
+    },
+    {
+      "text": "control. The other half of the panelists received",
+      "bbox": [
+        207,
+        478,
+        675,
+        504
+      ],
+      "confidence": 0.9621636271476746
+    },
+    {
+      "text": "the experimental, then control on the first ballot,",
+      "bbox": [
+        206,
+        495,
+        679,
+        521
+      ],
+      "confidence": 0.990487277507782
+    },
+    {
+      "text": "and control then experimental for the second ballot.",
+      "bbox": [
+        205,
+        510,
+        689,
+        539
+      ],
+      "confidence": 0.9909156560897827
+    },
+    {
+      "text": "Panelists were instructed to smoke the first two",
+      "bbox": [
+        205,
+        528,
+        654,
+        555
+      ],
+      "confidence": 0.9881513714790344
+    },
+    {
+      "text": "cigarettes then wait at least 2 hours before smoking",
+      "bbox": [
+        206,
+        544,
+        688,
+        571
+      ],
+      "confidence": 0.985535740852356
+    },
+    {
+      "text": "the next two cigarettes.",
+      "bbox": [
+        207,
+        565,
+        430,
+        585
+      ],
+      "confidence": 0.9998418688774109
+    },
+    {
+      "text": "RESULTS:",
+      "bbox": [
+        79,
+        599,
+        154,
+        618
+      ],
+      "confidence": 0.9992700219154358
+    },
+    {
+      "text": "The data from 53 panelists were analyzed using analysis",
+      "bbox": [
+        204,
+        593,
+        716,
+        619
+      ],
+      "confidence": 0.9936043620109558
+    },
+    {
+      "text": "of variance. Two sources of variation are important",
+      "bbox": [
+        204,
+        609,
+        688,
+        636
+      ],
+      "confidence": 0.9808415174484253
+    },
+    {
+      "text": "in interpreting whether cigarettes are different--the",
+      "bbox": [
+        204,
+        625,
+        697,
+        652
+      ],
+      "confidence": 0.9954253435134888
+    },
+    {
+      "text": "cigarette effect and the cigarette/panelist interac-",
+      "bbox": [
+        206,
+        642,
+        687,
+        667
+      ],
+      "confidence": 0.997860312461853
+    },
+    {
+      "text": "tion. There was an indication of a cigarette effect",
+      "bbox": [
+        205,
+        657,
+        689,
+        682
+      ],
+      "confidence": 0.9782381057739258
+    },
+    {
+      "text": "(P<.0l). It appears that the control was generally",
+      "bbox": [
+        207,
+        675,
+        679,
+        698
+      ],
+      "confidence": 0.9611563086509705
+    },
+    {
+      "text": "preferred and there was little evidence that panelists",
+      "bbox": [
+        206,
+        690,
+        707,
+        715
+      ],
+      "confidence": 0.9857735633850098
+    },
+    {
+      "text": "disagreed on the direction and/or strength of prefer-",
+      "bbox": [
+        205,
+        707,
+        698,
+        730
+      ],
+      "confidence": 0.9925901889801025
+    },
+    {
+      "text": "This is primarily a difference test, not an",
+      "bbox": [
+        269,
+        723,
+        673,
+        745
+      ],
+      "confidence": 0.9826785326004028
+    },
+    {
+      "text": "acceptability test. Since all the smokers used",
+      "bbox": [
+        206,
+        738,
+        645,
+        762
+      ],
+      "confidence": 0.970939576625824
+    },
+    {
+      "text": "ence.",
+      "bbox": [
+        208,
+        730,
+        257,
+        744
+      ],
+      "confidence": 0.9999554753303528
+    },
+    {
+      "text": "in this test smoke Philip Morris brands, their",
+      "bbox": [
+        206,
+        754,
+        638,
+        779
+      ],
+      "confidence": 0.9880571961402893
+    },
+    {
+      "text": "preferences might differ from smokers who smoke brands",
+      "bbox": [
+        205,
+        766,
+        711,
+        799
+      ],
+      "confidence": 0.9952442049980164
+    },
+    {
+      "text": "made by other companies.",
+      "bbox": [
+        207,
+        788,
+        430,
+        812
+      ],
+      "confidence": 0.9992475509643555
+    },
+    {
+      "text": "SignedFrances M.Scott",
+      "bbox": [
+        398,
+        834,
+        703,
+        883
+      ],
+      "confidence": 0.8639504313468933
+    },
+    {
+      "text": "2076956303",
+      "bbox": [
+        721,
+        860,
+        752,
+        966
+      ],
+      "confidence": 0.999960720539093
+    },
+    {
+      "text": "c:",
+      "bbox": [
+        79,
+        896,
+        117,
+        911
+      ],
+      "confidence": 0.7132043838500977
+    },
+    {
+      "text": "C. Levy",
+      "bbox": [
+        121,
+        894,
+        193,
+        914
+      ],
+      "confidence": 0.9985982775688171
+    },
+    {
+      "text": "J. Tindall",
+      "bbox": [
+        124,
+        911,
+        220,
+        928
+      ],
+      "confidence": 0.9924270510673523
+    },
+    {
+      "text": "H. Spielberg",
+      "bbox": [
+        124,
+        928,
+        240,
+        946
+      ],
+      "confidence": 0.9972817897796631
+    },
+    {
+      "text": "M. Jeltema",
+      "bbox": [
+        123,
+        942,
+        221,
+        963
+      ],
+      "confidence": 0.9916841387748718
+    },
+    {
+      "text": "H. Lanzillotti",
+      "bbox": [
+        124,
+        960,
+        258,
+        977
+      ],
+      "confidence": 0.9752369523048401
+    },
+    {
+      "text": "A. Manwaring",
+      "bbox": [
+        123,
+        974,
+        244,
+        997
+      ],
+      "confidence": 0.9789369702339172
+    }
+  ],
+  "full_text": "TEST NUMBER:\nD3224\nDATE:\nApril 16, 1984\nRE QUESTER:\nKarla Parrish - 2304\nTITLE:\nMarlboro Y-72 Blend Structure with ET, ES, and BL\nCurrent Casings_and Flavor vs Marlborò Y-72 Blend\nStructure with ET, ES, and RL-TC.\nPURPOSE:\nTo determine if there were any detectable differences\nbetween Marlboro Y-72 Blend Structure with ET, ES\nand BL current casings and flavor vs Marlboro'Y-72\nBlend Structure with ET, ES, and RL-TC.\nOperation Center Panel\nPANEL ISTS:\nME THOD:\nThe replicated paired comparison was used to compare\nthese cigarettes.\nThe panelists were given two precoded ballots and\nfour precoded cigarettes. On' the first ballot, half\nthe panelists were instructed to smoke the control\nfirst, then the experimental second; on their second\nballot, they smoked the experimental first then the\ncontrol. The other half of the panelists received\nthe experimental, then control on the first ballot,\nand control then experimental for the second ballot.\nPanelists were instructed to smoke the first two\ncigarettes then wait at least 2 hours before smoking\nthe next two cigarettes.\nRESULTS:\nThe data from 53 panelists were analyzed using analysis\nof variance. Two sources of variation are important\nin interpreting whether cigarettes are different--the\ncigarette effect and the cigarette/panelist interac-\ntion. There was an indication of a cigarette effect\n(P<.0l). It appears that the control was generally\npreferred and there was little evidence that panelists\ndisagreed on the direction and/or strength of prefer-\nThis is primarily a difference test, not an\nacceptability test. Since all the smokers used\nence.\nin this test smoke Philip Morris brands, their\npreferences might differ from smokers who smoke brands\nmade by other companies.\nSignedFrances M.Scott\n2076956303\nc:\nC. Levy\nJ. Tindall\nH. Spielberg\nM. Jeltema\nH. Lanzillotti\nA. Manwaring"
+}

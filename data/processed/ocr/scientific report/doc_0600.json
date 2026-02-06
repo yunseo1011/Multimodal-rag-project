@@ -1,0 +1,2001 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0600.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PROdECT M3.: 3-453",
+      "bbox": [
+        277,
+        25,
+        382,
+        49
+      ],
+      "confidence": 0.6832730174064636
+    },
+    {
+      "text": "FROJECT NAME: ETS-1986",
+      "bbox": [
+        195,
+        41,
+        321,
+        60
+      ],
+      "confidence": 0.8708482384681702
+    },
+    {
+      "text": "PRDTECT DEBCRIPTION:",
+      "bbox": [
+        0,
+        61,
+        115,
+        86
+      ],
+      "confidence": 0.8454197645187378
+    },
+    {
+      "text": "Ine opjactives cf this study are to estinate the concentrations cf nicot:ne, respirable particlss and carben nonoxide contributed by",
+      "bbox": [
+        0,
+        80,
+        726,
+        123
+      ],
+      "confidence": 0.9746003746986389
+    },
+    {
+      "text": "envirennental tubacce store (ETs) within a representative crcss-section oi 35-4o restaurants located in Greensboro, NC. Similar",
+      "bbox": [
+        0,
+        98,
+        703,
+        136
+      ],
+      "confidence": 0.9353927969932556
+    },
+    {
+      "text": "beasurexents will be zade ir office spaces at Lcrillard's Ereensborc facility. Ai-borne sasples will be gathered unobtrusively",
+      "bbox": [
+        0,
+        115,
+        698,
+        151
+      ],
+      "confidence": 0.9573604464530945
+    },
+    {
+      "text": "sirg the cortatie air saapling systes (Pass) briefcases. The data will te statistically analyzad and conpared to data previeusly",
+      "bbox": [
+        0,
+        130,
+        713,
+        167
+      ],
+      "confidence": 0.9456312656402588
+    },
+    {
+      "text": "atharei by ihe Tobacce Irstitute in New York and Dallas.",
+      "bbox": [
+        0,
+        147,
+        318,
+        173
+      ],
+      "confidence": 0.9407976865768433
+    },
+    {
+      "text": ".COSTS",
+      "bbox": [
+        0,
+        179,
+        40,
+        198
+      ],
+      "confidence": 0.9129550457000732
+    },
+    {
+      "text": "HeUrs",
+      "bbox": [
+        102,
+        200,
+        138,
+        218
+      ],
+      "confidence": 0.7281097173690796
+    },
+    {
+      "text": "WASES/OVERHEAD",
+      "bbox": [
+        215,
+        200,
+        296,
+        218
+      ],
+      "confidence": 0.9437540769577026
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        373,
+        202,
+        406,
+        221
+      ],
+      "confidence": 0.9991589784622192
+    },
+    {
+      "text": "MONTH",
+      "bbox": [
+        10,
+        213,
+        45,
+        228
+      ],
+      "confidence": 0.9279847145080566
+    },
+    {
+      "text": "BUCGET",
+      "bbox": [
+        73,
+        212,
+        115,
+        233
+      ],
+      "confidence": 0.8640475273132324
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        515,
+        207,
+        546,
+        223
+      ],
+      "confidence": 0.9980579614639282
+    },
+    {
+      "text": "CUMULATIVE",
+      "bbox": [
+        629,
+        208,
+        687,
+        226
+      ],
+      "confidence": 0.9807428121566772
+    },
+    {
+      "text": "ACTUAL",
+      "bbox": [
+        132,
+        218,
+        169,
+        232
+      ],
+      "confidence": 0.9290909767150879
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        209,
+        218,
+        247,
+        233
+      ],
+      "confidence": 0.9906238913536072
+    },
+    {
+      "text": "ACTURL",
+      "bbox": [
+        264,
+        219,
+        300,
+        234
+      ],
+      "confidence": 0.9458858370780945
+    },
+    {
+      "text": "BUDSET",
+      "bbox": [
+        353,
+        220,
+        390,
+        235
+      ],
+      "confidence": 0.9931877255439758
+    },
+    {
+      "text": "ACTUAL",
+      "bbox": [
+        407,
+        221,
+        442,
+        235
+      ],
+      "confidence": 0.9988808631896973
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        483,
+        222,
+        518,
+        237
+      ],
+      "confidence": 0.8640671372413635
+    },
+    {
+      "text": "ACTUPL",
+      "bbox": [
+        534,
+        220,
+        578,
+        240
+      ],
+      "confidence": 0.9641619324684143
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        613,
+        225,
+        650,
+        240
+      ],
+      "confidence": 0.9781948924064636
+    },
+    {
+      "text": "ACTUAL",
+      "bbox": [
+        664,
+        225,
+        703,
+        243
+      ],
+      "confidence": 0.9959611296653748
+    },
+    {
+      "text": "JAN E9",
+      "bbox": [
+        1,
+        244,
+        44,
+        259
+      ],
+      "confidence": 0.8373498916625977
+    },
+    {
+      "text": "275",
+      "bbox": [
+        89,
+        244,
+        114,
+        264
+      ],
+      "confidence": 0.9998987317085266
+    },
+    {
+      "text": "$",
+      "bbox": [
+        220,
+        234,
+        232,
+        248
+      ],
+      "confidence": 0.9988014698028564
+    },
+    {
+      "text": "$",
+      "bbox": [
+        275,
+        236,
+        284,
+        247
+      ],
+      "confidence": 0.9935170412063599
+    },
+    {
+      "text": "$",
+      "bbox": [
+        363,
+        237,
+        372,
+        249
+      ],
+      "confidence": 0.988066554069519
+    },
+    {
+      "text": "$",
+      "bbox": [
+        412,
+        238,
+        421,
+        249
+      ],
+      "confidence": 0.9993971586227417
+    },
+    {
+      "text": "$",
+      "bbox": [
+        492,
+        238,
+        504,
+        252
+      ],
+      "confidence": 0.9936189651489258
+    },
+    {
+      "text": "$",
+      "bbox": [
+        547,
+        241,
+        557,
+        252
+      ],
+      "confidence": 0.9456200003623962
+    },
+    {
+      "text": "$",
+      "bbox": [
+        624,
+        242,
+        634,
+        253
+      ],
+      "confidence": 0.9885099530220032
+    },
+    {
+      "text": "G",
+      "bbox": [
+        679,
+        243,
+        687,
+        255
+      ],
+      "confidence": 0.6882410049438477
+    },
+    {
+      "text": "FEB",
+      "bbox": [
+        0,
+        259,
+        26,
+        274
+      ],
+      "confidence": 0.9140684604644775
+    },
+    {
+      "text": "89",
+      "bbox": [
+        23,
+        261,
+        41,
+        273
+      ],
+      "confidence": 0.7608084678649902
+    },
+    {
+      "text": "325",
+      "bbox": [
+        91,
+        262,
+        113,
+        278
+      ],
+      "confidence": 0.9998968243598938
+    },
+    {
+      "text": "48)",
+      "bbox": [
+        149,
+        250,
+        170,
+        264
+      ],
+      "confidence": 0.9507061839103699
+    },
+    {
+      "text": "13,567",
+      "bbox": [
+        208,
+        248,
+        247,
+        266
+      ],
+      "confidence": 0.9952544569969177
+    },
+    {
+      "text": "23,729",
+      "bbox": [
+        263,
+        249,
+        303,
+        267
+      ],
+      "confidence": 0.9860109686851501
+    },
+    {
+      "text": "9,856",
+      "bbox": [
+        266,
+        262,
+        303,
+        284
+      ],
+      "confidence": 0.8406049013137817
+    },
+    {
+      "text": "G",
+      "bbox": [
+        375,
+        250,
+        391,
+        268
+      ],
+      "confidence": 0.7172607183456421
+    },
+    {
+      "text": "0",
+      "bbox": [
+        432,
+        252,
+        444,
+        266
+      ],
+      "confidence": 0.9866296052932739
+    },
+    {
+      "text": "13,567",
+      "bbox": [
+        480,
+        250,
+        520,
+        271
+      ],
+      "confidence": 0.9578242301940918
+    },
+    {
+      "text": "23,729",
+      "bbox": [
+        535,
+        253,
+        575,
+        271
+      ],
+      "confidence": 0.9663283824920654
+    },
+    {
+      "text": "13,567",
+      "bbox": [
+        614,
+        256,
+        650,
+        271
+      ],
+      "confidence": 0.9993172287940979
+    },
+    {
+      "text": "23,729",
+      "bbox": [
+        667,
+        256,
+        704,
+        274
+      ],
+      "confidence": 0.9520183205604553
+    },
+    {
+      "text": "MA 89",
+      "bbox": [
+        0,
+        275,
+        41,
+        290
+      ],
+      "confidence": 0.9464777708053589
+    },
+    {
+      "text": "290",
+      "bbox": [
+        90,
+        277,
+        112,
+        293
+      ],
+      "confidence": 0.9957337975502014
+    },
+    {
+      "text": "174",
+      "bbox": [
+        148,
+        264,
+        170,
+        280
+      ],
+      "confidence": 0.9985674023628235
+    },
+    {
+      "text": "17,351",
+      "bbox": [
+        208,
+        264,
+        247,
+        282
+      ],
+      "confidence": 0.9456197619438171
+    },
+    {
+      "text": "0",
+      "bbox": [
+        432,
+        268,
+        444,
+        282
+      ],
+      "confidence": 0.9958263039588928
+    },
+    {
+      "text": "17,351",
+      "bbox": [
+        483,
+        269,
+        518,
+        284
+      ],
+      "confidence": 0.9976231455802917
+    },
+    {
+      "text": "9,836",
+      "bbox": [
+        541,
+        270,
+        573,
+        286
+      ],
+      "confidence": 0.9501468539237976
+    },
+    {
+      "text": "30,919",
+      "bbox": [
+        611,
+        268,
+        652,
+        289
+      ],
+      "confidence": 0.9154627919197083
+    },
+    {
+      "text": "33.565",
+      "bbox": [
+        668,
+        272,
+        704,
+        287
+      ],
+      "confidence": 0.9855247139930725
+    },
+    {
+      "text": "APR 85",
+      "bbox": [
+        0,
+        290,
+        39,
+        305
+      ],
+      "confidence": 0.9391403794288635
+    },
+    {
+      "text": "200",
+      "bbox": [
+        148,
+        279,
+        169,
+        295
+      ],
+      "confidence": 0.8990437388420105
+    },
+    {
+      "text": "16,824",
+      "bbox": [
+        208,
+        279,
+        247,
+        297
+      ],
+      "confidence": 0.926304280757904
+    },
+    {
+      "text": "13,160",
+      "bbox": [
+        264,
+        280,
+        303,
+        298
+      ],
+      "confidence": 0.9983336329460144
+    },
+    {
+      "text": "16,824",
+      "bbox": [
+        483,
+        285,
+        518,
+        300
+      ],
+      "confidence": 0.9994375705718994
+    },
+    {
+      "text": "13.160",
+      "bbox": [
+        537,
+        286,
+        573,
+        301
+      ],
+      "confidence": 0.9889021515846252
+    },
+    {
+      "text": "47,742",
+      "bbox": [
+        611,
+        283,
+        652,
+        304
+      ],
+      "confidence": 0.9870538115501404
+    },
+    {
+      "text": "46,725",
+      "bbox": [
+        667,
+        286,
+        704,
+        304
+      ],
+      "confidence": 0.9927148222923279
+    },
+    {
+      "text": "MAY 88",
+      "bbox": [
+        0,
+        306,
+        39,
+        322
+      ],
+      "confidence": 0.9696404337882996
+    },
+    {
+      "text": "60",
+      "bbox": [
+        96,
+        294,
+        111,
+        308
+      ],
+      "confidence": 0.9997494220733643
+    },
+    {
+      "text": "102",
+      "bbox": [
+        147,
+        295,
+        169,
+        311
+      ],
+      "confidence": 0.9985854625701904
+    },
+    {
+      "text": "4,087",
+      "bbox": [
+        212,
+        295,
+        248,
+        314
+      ],
+      "confidence": 0.988968551158905
+    },
+    {
+      "text": "5,365",
+      "bbox": [
+        267,
+        296,
+        303,
+        315
+      ],
+      "confidence": 0.9939351081848145
+    },
+    {
+      "text": "0",
+      "bbox": [
+        379,
+        301,
+        388,
+        314
+      ],
+      "confidence": 0.7638387084007263
+    },
+    {
+      "text": "0",
+      "bbox": [
+        433,
+        301,
+        442,
+        314
+      ],
+      "confidence": 0.9283125400543213
+    },
+    {
+      "text": "4,087",
+      "bbox": [
+        487,
+        300,
+        518,
+        317
+      ],
+      "confidence": 0.9982759356498718
+    },
+    {
+      "text": "5,365",
+      "bbox": [
+        540,
+        301,
+        574,
+        319
+      ],
+      "confidence": 0.9986239671707153
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        612,
+        300,
+        651,
+        319
+      ],
+      "confidence": 0.9899374842643738
+    },
+    {
+      "text": "52,090",
+      "bbox": [
+        666,
+        301,
+        704,
+        320
+      ],
+      "confidence": 0.958184540271759
+    },
+    {
+      "text": "89 N70",
+      "bbox": [
+        0,
+        321,
+        40,
+        339
+      ],
+      "confidence": 0.6978087425231934
+    },
+    {
+      "text": "130",
+      "bbox": [
+        147,
+        310,
+        169,
+        327
+      ],
+      "confidence": 0.842518150806427
+    },
+    {
+      "text": "7,491",
+      "bbox": [
+        269,
+        312,
+        300,
+        329
+      ],
+      "confidence": 0.9991582632064819
+    },
+    {
+      "text": "0",
+      "bbox": [
+        379,
+        318,
+        388,
+        330
+      ],
+      "confidence": 0.9871276617050171
+    },
+    {
+      "text": "7,491",
+      "bbox": [
+        541,
+        317,
+        573,
+        333
+      ],
+      "confidence": 0.9986031651496887
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        612,
+        316,
+        651,
+        334
+      ],
+      "confidence": 0.9169453978538513
+    },
+    {
+      "text": "59,581",
+      "bbox": [
+        666,
+        317,
+        704,
+        335
+      ],
+      "confidence": 0.9551703333854675
+    },
+    {
+      "text": "0",
+      "bbox": [
+        237,
+        329,
+        246,
+        341
+      ],
+      "confidence": 0.7588574886322021
+    },
+    {
+      "text": "7,157",
+      "bbox": [
+        269,
+        329,
+        300,
+        344
+      ],
+      "confidence": 0.9990741610527039
+    },
+    {
+      "text": "0",
+      "bbox": [
+        377,
+        332,
+        390,
+        346
+      ],
+      "confidence": 0.9999493360519409
+    },
+    {
+      "text": "0",
+      "bbox": [
+        433,
+        332,
+        442,
+        345
+      ],
+      "confidence": 0.9269933104515076
+    },
+    {
+      "text": "7,157",
+      "bbox": [
+        540,
+        333,
+        573,
+        348
+      ],
+      "confidence": 0.9991710782051086
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        613,
+        333,
+        650,
+        348
+      ],
+      "confidence": 0.999392569065094
+    },
+    {
+      "text": "66,738",
+      "bbox": [
+        667,
+        334,
+        703,
+        349
+      ],
+      "confidence": 0.9989559054374695
+    },
+    {
+      "text": "CUL 83",
+      "bbox": [
+        0,
+        338,
+        39,
+        353
+      ],
+      "confidence": 0.7861949801445007
+    },
+    {
+      "text": "AL'S 98",
+      "bbox": [
+        0,
+        352,
+        41,
+        371
+      ],
+      "confidence": 0.8284273147583008
+    },
+    {
+      "text": "141",
+      "bbox": [
+        147,
+        342,
+        169,
+        358
+      ],
+      "confidence": 0.9968788027763367
+    },
+    {
+      "text": "0",
+      "bbox": [
+        237,
+        344,
+        246,
+        356
+      ],
+      "confidence": 0.9866338968276978
+    },
+    {
+      "text": "9,056",
+      "bbox": [
+        269,
+        344,
+        303,
+        361
+      ],
+      "confidence": 0.9987066984176636
+    },
+    {
+      "text": "0",
+      "bbox": [
+        378,
+        348,
+        387,
+        360
+      ],
+      "confidence": 0.8910021781921387
+    },
+    {
+      "text": "0",
+      "bbox": [
+        509,
+        349,
+        518,
+        361
+      ],
+      "confidence": 0.9545490741729736
+    },
+    {
+      "text": ",056",
+      "bbox": [
+        538,
+        344,
+        574,
+        366
+      ],
+      "confidence": 0.9917330741882324
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        611,
+        347,
+        651,
+        365
+      ],
+      "confidence": 0.9966721534729004
+    },
+    {
+      "text": "75,794",
+      "bbox": [
+        667,
+        349,
+        703,
+        364
+      ],
+      "confidence": 0.9999026656150818
+    },
+    {
+      "text": "C",
+      "bbox": [
+        102,
+        358,
+        111,
+        370
+      ],
+      "confidence": 0.9393253922462463
+    },
+    {
+      "text": "42",
+      "bbox": [
+        154,
+        358,
+        169,
+        373
+      ],
+      "confidence": 0.9999058246612549
+    },
+    {
+      "text": "0",
+      "bbox": [
+        237,
+        360,
+        246,
+        372
+      ],
+      "confidence": 0.9976246953010559
+    },
+    {
+      "text": "3,155",
+      "bbox": [
+        269,
+        359,
+        303,
+        376
+      ],
+      "confidence": 0.9993871450424194
+    },
+    {
+      "text": "0",
+      "bbox": [
+        378,
+        364,
+        387,
+        376
+      ],
+      "confidence": 0.9959854483604431
+    },
+    {
+      "text": "0",
+      "bbox": [
+        432,
+        364,
+        441,
+        376
+      ],
+      "confidence": 0.7218520045280457
+    },
+    {
+      "text": "7,155",
+      "bbox": [
+        539,
+        362,
+        573,
+        381
+      ],
+      "confidence": 0.9330485463142395
+    },
+    {
+      "text": "51.829",
+      "bbox": [
+        611,
+        362,
+        649,
+        380
+      ],
+      "confidence": 0.9645857214927673
+    },
+    {
+      "text": "78,949",
+      "bbox": [
+        665,
+        362,
+        704,
+        380
+      ],
+      "confidence": 0.8935878276824951
+    },
+    {
+      "text": "SEP 83",
+      "bbox": [
+        0,
+        368,
+        41,
+        386
+      ],
+      "confidence": 0.9255501627922058
+    },
+    {
+      "text": "5",
+      "bbox": [
+        159,
+        375,
+        168,
+        387
+      ],
+      "confidence": 0.9816893339157104
+    },
+    {
+      "text": "0",
+      "bbox": [
+        237,
+        375,
+        246,
+        388
+      ],
+      "confidence": 0.9995075464248657
+    },
+    {
+      "text": "350",
+      "bbox": [
+        279,
+        374,
+        301,
+        391
+      ],
+      "confidence": 0.9990129470825195
+    },
+    {
+      "text": "0",
+      "bbox": [
+        378,
+        379,
+        387,
+        391
+      ],
+      "confidence": 0.9998080134391785
+    },
+    {
+      "text": "0",
+      "bbox": [
+        508,
+        380,
+        517,
+        392
+      ],
+      "confidence": 0.9941977262496948
+    },
+    {
+      "text": "35C",
+      "bbox": [
+        550,
+        378,
+        572,
+        394
+      ],
+      "confidence": 0.8430525660514832
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        611,
+        379,
+        649,
+        394
+      ],
+      "confidence": 0.9996862411499023
+    },
+    {
+      "text": "79,299",
+      "bbox": [
+        667,
+        379,
+        703,
+        394
+      ],
+      "confidence": 0.9992887377738953
+    },
+    {
+      "text": "OCT 39",
+      "bbox": [
+        0,
+        384,
+        42,
+        402
+      ],
+      "confidence": 0.8539299964904785
+    },
+    {
+      "text": "0",
+      "bbox": [
+        102,
+        389,
+        114,
+        403
+      ],
+      "confidence": 0.9993194341659546
+    },
+    {
+      "text": "1:9",
+      "bbox": [
+        148,
+        389,
+        170,
+        405
+      ],
+      "confidence": 0.9938607215881348
+    },
+    {
+      "text": "6.904",
+      "bbox": [
+        269,
+        390,
+        301,
+        405
+      ],
+      "confidence": 0.9656007885932922
+    },
+    {
+      "text": "0",
+      "bbox": [
+        430,
+        393,
+        442,
+        407
+      ],
+      "confidence": 0.9616817831993103
+    },
+    {
+      "text": "0",
+      "bbox": [
+        508,
+        395,
+        517,
+        407
+      ],
+      "confidence": 0.9400210976600647
+    },
+    {
+      "text": "6,904",
+      "bbox": [
+        539,
+        394,
+        572,
+        409
+      ],
+      "confidence": 0.9258901476860046
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        611,
+        394,
+        649,
+        409
+      ],
+      "confidence": 0.975078284740448
+    },
+    {
+      "text": "86,203",
+      "bbox": [
+        665,
+        393,
+        703,
+        411
+      ],
+      "confidence": 0.9976047873497009
+    },
+    {
+      "text": "NCV 88",
+      "bbox": [
+        0,
+        402,
+        42,
+        417
+      ],
+      "confidence": 0.9610803723335266
+    },
+    {
+      "text": "0",
+      "bbox": [
+        102,
+        405,
+        114,
+        419
+      ],
+      "confidence": 0.7348723411560059
+    },
+    {
+      "text": "90",
+      "bbox": [
+        155,
+        405,
+        170,
+        420
+      ],
+      "confidence": 0.9444570541381836
+    },
+    {
+      "text": "0",
+      "bbox": [
+        238,
+        406,
+        246,
+        418
+      ],
+      "confidence": 0.6404337882995605
+    },
+    {
+      "text": "6,209",
+      "bbox": [
+        269,
+        405,
+        303,
+        422
+      ],
+      "confidence": 0.9988929629325867
+    },
+    {
+      "text": "0",
+      "bbox": [
+        378,
+        410,
+        387,
+        421
+      ],
+      "confidence": 0.9648060202598572
+    },
+    {
+      "text": "0.",
+      "bbox": [
+        425,
+        406,
+        443,
+        424
+      ],
+      "confidence": 0.9790022373199463
+    },
+    {
+      "text": "6,209",
+      "bbox": [
+        539,
+        409,
+        571,
+        425
+      ],
+      "confidence": 0.9847913980484009
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        611,
+        410,
+        648,
+        425
+      ],
+      "confidence": 0.9968736171722412
+    },
+    {
+      "text": "92,412",
+      "bbox": [
+        664,
+        409,
+        703,
+        427
+      ],
+      "confidence": 0.9205427169799805
+    },
+    {
+      "text": "CEC 38",
+      "bbox": [
+        0,
+        416,
+        45,
+        434
+      ],
+      "confidence": 0.9212622046470642
+    },
+    {
+      "text": "68",
+      "bbox": [
+        156,
+        421,
+        170,
+        435
+      ],
+      "confidence": 0.9220408201217651
+    },
+    {
+      "text": "4,639",
+      "bbox": [
+        269,
+        421,
+        301,
+        436
+      ],
+      "confidence": 0.923780083656311
+    },
+    {
+      "text": "0",
+      "bbox": [
+        378,
+        425,
+        387,
+        438
+      ],
+      "confidence": 0.8107789754867554
+    },
+    {
+      "text": "0",
+      "bbox": [
+        430,
+        424,
+        442,
+        439
+      ],
+      "confidence": 0.9176145195960999
+    },
+    {
+      "text": "0",
+      "bbox": [
+        507,
+        425,
+        516,
+        438
+      ],
+      "confidence": 0.9650866985321045
+    },
+    {
+      "text": "4.639",
+      "bbox": [
+        538,
+        424,
+        572,
+        442
+      ],
+      "confidence": 0.8457416296005249
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        610,
+        425,
+        648,
+        441
+      ],
+      "confidence": 0.9402269721031189
+    },
+    {
+      "text": "97,051",
+      "bbox": [
+        664,
+        424,
+        702,
+        443
+      ],
+      "confidence": 0.8707602024078369
+    },
+    {
+      "text": "TSTAL",
+      "bbox": [
+        1,
+        432,
+        38,
+        451
+      ],
+      "confidence": 0.861439049243927
+    },
+    {
+      "text": "950",
+      "bbox": [
+        93,
+        434,
+        116,
+        452
+      ],
+      "confidence": 0.9869679808616638
+    },
+    {
+      "text": "1,620",
+      "bbox": [
+        139,
+        436,
+        172,
+        454
+      ],
+      "confidence": 0.9890009760856628
+    },
+    {
+      "text": "51,829",
+      "bbox": [
+        208,
+        434,
+        249,
+        453
+      ],
+      "confidence": 0.9859206080436707
+    },
+    {
+      "text": "97,051",
+      "bbox": [
+        263,
+        433,
+        302,
+        455
+      ],
+      "confidence": 0.9465858936309814
+    },
+    {
+      "text": "c",
+      "bbox": [
+        377,
+        439,
+        390,
+        453
+      ],
+      "confidence": 0.7665565609931946
+    },
+    {
+      "text": "51.829",
+      "bbox": [
+        480,
+        440,
+        517,
+        455
+      ],
+      "confidence": 0.9009836316108704
+    },
+    {
+      "text": "97.051",
+      "bbox": [
+        533,
+        439,
+        571,
+        457
+      ],
+      "confidence": 0.9398069381713867
+    },
+    {
+      "text": "1.tEcHNIcaL APPROACH",
+      "bbox": [
+        0,
+        465,
+        122,
+        483
+      ],
+      "confidence": 0.7515454292297363
+    },
+    {
+      "text": "ESTIPATED",
+      "bbox": [
+        329,
+        483,
+        383,
+        500
+      ],
+      "confidence": 0.9273279905319214
+    },
+    {
+      "text": "ESTIMATED",
+      "bbox": [
+        526,
+        483,
+        582,
+        503
+      ],
+      "confidence": 0.996444046497345
+    },
+    {
+      "text": "2",
+      "bbox": [
+        630,
+        487,
+        643,
+        501
+      ],
+      "confidence": 0.8571123480796814
+    },
+    {
+      "text": "COMPONENT",
+      "bbox": [
+        37,
+        499,
+        93,
+        513
+      ],
+      "confidence": 0.9804041385650635
+    },
+    {
+      "text": "TIME PERICG",
+      "bbox": [
+        325,
+        498,
+        387,
+        515
+      ],
+      "confidence": 0.96783047914505
+    },
+    {
+      "text": "HCURS",
+      "bbox": [
+        538,
+        501,
+        571,
+        516
+      ],
+      "confidence": 0.995804488658905
+    },
+    {
+      "text": "COMPLETED",
+      "bbox": [
+        610,
+        502,
+        663,
+        516
+      ],
+      "confidence": 0.9995414018630981
+    },
+    {
+      "text": "1. Site selection",
+      "bbox": [
+        3,
+        515,
+        109,
+        529
+      ],
+      "confidence": 0.9299924969673157
+    },
+    {
+      "text": "01/01/88-01/08/68",
+      "bbox": [
+        313,
+        514,
+        418,
+        530
+      ],
+      "confidence": 0.9540441036224365
+    },
+    {
+      "text": "30",
+      "bbox": [
+        559,
+        515,
+        577,
+        533
+      ],
+      "confidence": 0.9997189044952393
+    },
+    {
+      "text": "100",
+      "bbox": [
+        626,
+        516,
+        648,
+        533
+      ],
+      "confidence": 0.9988043904304504
+    },
+    {
+      "text": "2. pA3s Calibraticn/Maintenance",
+      "bbox": [
+        3,
+        529,
+        188,
+        546
+      ],
+      "confidence": 0.900998592376709
+    },
+    {
+      "text": "01/04/88 - 03/15/88",
+      "bbox": [
+        312,
+        528,
+        418,
+        546
+      ],
+      "confidence": 0.935756266117096
+    },
+    {
+      "text": "200",
+      "bbox": [
+        554,
+        531,
+        577,
+        548
+      ],
+      "confidence": 0.9916794300079346
+    },
+    {
+      "text": "130",
+      "bbox": [
+        625,
+        532,
+        649,
+        548
+      ],
+      "confidence": 0.9853283762931824
+    },
+    {
+      "text": "3. Active Saraling",
+      "bbox": [
+        3,
+        544,
+        116,
+        561
+      ],
+      "confidence": 0.9099724888801575
+    },
+    {
+      "text": "C1/01/5E - 03/15/66",
+      "bbox": [
+        311,
+        543,
+        419,
+        563
+      ],
+      "confidence": 0.8741635680198669
+    },
+    {
+      "text": "100",
+      "bbox": [
+        554,
+        546,
+        577,
+        564
+      ],
+      "confidence": 0.822124183177948
+    },
+    {
+      "text": "100",
+      "bbox": [
+        625,
+        547,
+        649,
+        564
+      ],
+      "confidence": 0.9991856217384338
+    },
+    {
+      "text": "4. Cate cownicading",
+      "bbox": [
+        4,
+        559,
+        120,
+        576
+      ],
+      "confidence": 0.8921754956245422
+    },
+    {
+      "text": "01/12/88 - 03/15/98",
+      "bbox": [
+        314,
+        561,
+        418,
+        576
+      ],
+      "confidence": 0.9806342124938965
+    },
+    {
+      "text": "100",
+      "bbox": [
+        554,
+        562,
+        577,
+        579
+      ],
+      "confidence": 0.9999642372131348
+    },
+    {
+      "text": "100",
+      "bbox": [
+        625,
+        562,
+        649,
+        579
+      ],
+      "confidence": 0.9927954077720642
+    },
+    {
+      "text": "5. Avalvticel support",
+      "bbox": [
+        3,
+        573,
+        133,
+        591
+      ],
+      "confidence": 0.9398054480552673
+    },
+    {
+      "text": "01/:2/88 - 03/15/88",
+      "bbox": [
+        314,
+        577,
+        417,
+        591
+      ],
+      "confidence": 0.9889297485351562
+    },
+    {
+      "text": "480",
+      "bbox": [
+        554,
+        577,
+        577,
+        594
+      ],
+      "confidence": 0.9995211958885193
+    },
+    {
+      "text": "6. Date analysis/Report",
+      "bbox": [
+        4,
+        587,
+        144,
+        606
+      ],
+      "confidence": 0.9573887586593628
+    },
+    {
+      "text": "04/01/98 - 04/22/88",
+      "bbox": [
+        313,
+        590,
+        417,
+        607
+      ],
+      "confidence": 0.9510933756828308
+    },
+    {
+      "text": "40",
+      "bbox": [
+        557,
+        592,
+        578,
+        609
+      ],
+      "confidence": 0.9989680647850037
+    },
+    {
+      "text": "100",
+      "bbox": [
+        624,
+        590,
+        648,
+        610
+      ],
+      "confidence": 0.9405353665351868
+    },
+    {
+      "text": "30:",
+      "bbox": [
+        625,
+        578,
+        648,
+        594
+      ],
+      "confidence": 0.7185438275337219
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        475,
+        605,
+        521,
+        625
+      ],
+      "confidence": 0.9961845278739929
+    },
+    {
+      "text": "950",
+      "bbox": [
+        553,
+        607,
+        577,
+        624
+      ],
+      "confidence": 0.9998523592948914
+    },
+    {
+      "text": "IIL. MONTHLY ACTIVITY",
+      "bbox": [
+        0,
+        630,
+        123,
+        651
+      ],
+      "confidence": 0.7844681739807129
+    },
+    {
+      "text": "The revieNe\"'s ceNEents on the paper entitled \"RESULTs FROM A SURVEY oF EnvIRoNMENTAL ToBAcCO SMDKE (ETS) In RESTAURANTs\" were",
+      "bbox": [
+        0,
+        646,
+        690,
+        670
+      ],
+      "confidence": 0.8356623649597168
+    },
+    {
+      "text": "received. anor revisions to the manuscript are in pragress. kork continues on the statistical analyses for the paper entitled \"D%",
+      "bbox": [
+        0,
+        661,
+        723,
+        686
+      ],
+      "confidence": 0.9444090723991394
+    },
+    {
+      "text": "ThE Jse cF EvViRoNmentaL toBaccD sMoke coMponent RatiDs.\"",
+      "bbox": [
+        0,
+        680,
+        315,
+        695
+      ],
+      "confidence": 0.7511651515960693
+    },
+    {
+      "text": "An abstract entitled \"RESULTS FRon A SURVEy OF ENVIRONMENTAL TOBACcO SMOkE (ETS) IN SUPERMARrETS\" was subRitted to the Air Pollution",
+      "bbox": [
+        0,
+        707,
+        722,
+        732
+      ],
+      "confidence": 0.8625053763389587
+    },
+    {
+      "text": "Zoneral Asseciation (apcarrEpal eaeting scheduled in early Mey 19ge. Accitional nicotine satpling will be required in crder to",
+      "bbox": [
+        1,
+        723,
+        694,
+        745
+      ],
+      "confidence": 0.9204838275909424
+    },
+    {
+      "text": ":xcrease the cirrent datsbase.",
+      "bbox": [
+        1,
+        739,
+        171,
+        757
+      ],
+      "confidence": 0.8638465404510498
+    },
+    {
+      "text": "87212659",
+      "bbox": [
+        681,
+        813,
+        714,
+        912
+      ],
+      "confidence": 0.9999554753303528
+    },
+    {
+      "text": "Pill Creuse",
+      "bbox": [
+        58,
+        950,
+        120,
+        964
+      ],
+      "confidence": 0.9202869534492493
+    },
+    {
+      "text": "PREFAPED BY",
+      "bbox": [
+        56,
+        964,
+        121,
+        981
+      ],
+      "confidence": 0.8989400267601013
+    },
+    {
+      "text": "APPROVET",
+      "bbox": [
+        457,
+        967,
+        503,
+        981
+      ],
+      "confidence": 0.9375370740890503
+    }
+  ],
+  "full_text": "PROdECT M3.: 3-453\nFROJECT NAME: ETS-1986\nPRDTECT DEBCRIPTION:\nIne opjactives cf this study are to estinate the concentrations cf nicot:ne, respirable particlss and carben nonoxide contributed by\nenvirennental tubacce store (ETs) within a representative crcss-section oi 35-4o restaurants located in Greensboro, NC. Similar\nbeasurexents will be zade ir office spaces at Lcrillard's Ereensborc facility. Ai-borne sasples will be gathered unobtrusively\nsirg the cortatie air saapling systes (Pass) briefcases. The data will te statistically analyzad and conpared to data previeusly\natharei by ihe Tobacce Irstitute in New York and Dallas.\n.COSTS\nHeUrs\nWASES/OVERHEAD\nOTHER\nMONTH\nBUCGET\nTOTAL\nCUMULATIVE\nACTUAL\nBUDGET\nACTURL\nBUDSET\nACTUAL\nBUDGET\nACTUPL\nBUDGET\nACTUAL\nJAN E9\n275\n$\n$\n$\n$\n$\n$\n$\nG\nFEB\n89\n325\n48)\n13,567\n23,729\n9,856\nG\n0\n13,567\n23,729\n13,567\n23,729\nMA 89\n290\n174\n17,351\n0\n17,351\n9,836\n30,919\n33.565\nAPR 85\n200\n16,824\n13,160\n16,824\n13.160\n47,742\n46,725\nMAY 88\n60\n102\n4,087\n5,365\n0\n0\n4,087\n5,365\n51,829\n52,090\n89 N70\n130\n7,491\n0\n7,491\n51,829\n59,581\n0\n7,157\n0\n0\n7,157\n51,829\n66,738\nCUL 83\nAL'S 98\n141\n0\n9,056\n0\n0\n,056\n51,829\n75,794\nC\n42\n0\n3,155\n0\n0\n7,155\n51.829\n78,949\nSEP 83\n5\n0\n350\n0\n0\n35C\n51,829\n79,299\nOCT 39\n0\n1:9\n6.904\n0\n0\n6,904\n51,829\n86,203\nNCV 88\n0\n90\n0\n6,209\n0\n0.\n6,209\n51,829\n92,412\nCEC 38\n68\n4,639\n0\n0\n0\n4.639\n51,829\n97,051\nTSTAL\n950\n1,620\n51,829\n97,051\nc\n51.829\n97.051\n1.tEcHNIcaL APPROACH\nESTIPATED\nESTIMATED\n2\nCOMPONENT\nTIME PERICG\nHCURS\nCOMPLETED\n1. Site selection\n01/01/88-01/08/68\n30\n100\n2. pA3s Calibraticn/Maintenance\n01/04/88 - 03/15/88\n200\n130\n3. Active Saraling\nC1/01/5E - 03/15/66\n100\n100\n4. Cate cownicading\n01/12/88 - 03/15/98\n100\n100\n5. Avalvticel support\n01/:2/88 - 03/15/88\n480\n6. Date analysis/Report\n04/01/98 - 04/22/88\n40\n100\n30:\nTOTAL\n950\nIIL. MONTHLY ACTIVITY\nThe revieNe\"'s ceNEents on the paper entitled \"RESULTs FROM A SURVEY oF EnvIRoNMENTAL ToBAcCO SMDKE (ETS) In RESTAURANTs\" were\nreceived. anor revisions to the manuscript are in pragress. kork continues on the statistical analyses for the paper entitled \"D%\nThE Jse cF EvViRoNmentaL toBaccD sMoke coMponent RatiDs.\"\nAn abstract entitled \"RESULTS FRon A SURVEy OF ENVIRONMENTAL TOBACcO SMOkE (ETS) IN SUPERMARrETS\" was subRitted to the Air Pollution\nZoneral Asseciation (apcarrEpal eaeting scheduled in early Mey 19ge. Accitional nicotine satpling will be required in crder to\n:xcrease the cirrent datsbase.\n87212659\nPill Creuse\nPREFAPED BY\nAPPROVET"
+}

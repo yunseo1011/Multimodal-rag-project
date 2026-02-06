@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0162.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "87/30/97",
+      "bbox": [
+        185,
+        13,
+        245,
+        31
+      ],
+      "confidence": 0.9447324275970459
+    },
+    {
+      "text": "29:34",
+      "bbox": [
+        274,
+        14,
+        315,
+        32
+      ],
+      "confidence": 0.9793039560317993
+    },
+    {
+      "text": "204",
+      "bbox": [
+        635,
+        9,
+        662,
+        25
+      ],
+      "confidence": 0.9987990856170654
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        53,
+        182,
+        82,
+        202
+      ],
+      "confidence": 0.9970812201499939
+    },
+    {
+      "text": "All Store Managers",
+      "bbox": [
+        143,
+        183,
+        270,
+        201
+      ],
+      "confidence": 0.9806603193283081
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        52,
+        233,
+        97,
+        251
+      ],
+      "confidence": 0.99955815076828
+    },
+    {
+      "text": "Dave Kette",
+      "bbox": [
+        142,
+        233,
+        217,
+        250
+      ],
+      "confidence": 0.9988887906074524
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        50,
+        282,
+        108,
+        300
+      ],
+      "confidence": 0.9993730783462524
+    },
+    {
+      "text": "TEMPORARY DISPLAY AUTHORIZATIONS",
+      "bbox": [
+        140,
+        278,
+        440,
+        299
+      ],
+      "confidence": 0.9957195520401001
+    },
+    {
+      "text": "Your RJR Representative is authorized to place one (1) Red Kamel and one (1) Winston temporary",
+      "bbox": [
+        46,
+        329,
+        709,
+        352
+      ],
+      "confidence": 0.9917334914207458
+    },
+    {
+      "text": "display during the months of August, September and October. Your RJR Representative will place",
+      "bbox": [
+        46,
+        346,
+        707,
+        370
+      ],
+      "confidence": 0.9833943843841553
+    },
+    {
+      "text": "the 2 carton Red Kamel temporary display first (mandatory display). This display should remain in",
+      "bbox": [
+        45,
+        364,
+        713,
+        389
+      ],
+      "confidence": 0.9803205132484436
+    },
+    {
+      "text": "a primary position for 30 days. After completion of the Red Kamel display, an RJR representative",
+      "bbox": [
+        45,
+        381,
+        698,
+        406
+      ],
+      "confidence": 0.9905393123626709
+    },
+    {
+      "text": "will place a 2 or 4 carlon Winston dispiay (mandatory dispiay) and will remain in a primary position",
+      "bbox": [
+        45,
+        399,
+        715,
+        423
+      ],
+      "confidence": 0.9754654169082642
+    },
+    {
+      "text": "for 30 days.",
+      "bbox": [
+        46,
+        422,
+        130,
+        441
+      ],
+      "confidence": 0.9666061997413635
+    },
+    {
+      "text": "Payment will be made to Headquarters for compliance of this program. Therefore, please keep",
+      "bbox": [
+        46,
+        452,
+        682,
+        474
+      ],
+      "confidence": 0.9828720092773438
+    },
+    {
+      "text": "these displays full with the brand load styles designated by your RJR representative.",
+      "bbox": [
+        47,
+        470,
+        613,
+        490
+      ],
+      "confidence": 0.9770082235336304
+    },
+    {
+      "text": "Thank you in advance for your usual fine cooperation.",
+      "bbox": [
+        47,
+        504,
+        407,
+        523
+      ],
+      "confidence": 0.9969255924224854
+    },
+    {
+      "text": "Dave Kette",
+      "bbox": [
+        47,
+        541,
+        127,
+        558
+      ],
+      "confidence": 0.9871646165847778
+    },
+    {
+      "text": "Place on Display",
+      "bbox": [
+        325,
+        691,
+        448,
+        711
+      ],
+      "confidence": 0.9992542266845703
+    },
+    {
+      "text": "R. J. Reynoids is authorized to place a Red Kamel/ Winston temporary displays. Displays are to be",
+      "bbox": [
+        79,
+        719,
+        690,
+        743
+      ],
+      "confidence": 0.9744740128517151
+    },
+    {
+      "text": "maintained in an agreed upon primary position for 30 days each (not consecutivaly).",
+      "bbox": [
+        127,
+        735,
+        650,
+        761
+      ],
+      "confidence": 0.9732552766799927
+    },
+    {
+      "text": "RED KAMEL DISPLAY",
+      "bbox": [
+        155,
+        768,
+        300,
+        788
+      ],
+      "confidence": 0.9953417778015137
+    },
+    {
+      "text": "WINSTON DISPLAY",
+      "bbox": [
+        489,
+        767,
+        623,
+        786
+      ],
+      "confidence": 0.9963645339012146
+    },
+    {
+      "text": "Begiyndale.",
+      "bbox": [
+        95,
+        800,
+        169,
+        822
+      ],
+      "confidence": 0.8579960465431213
+    },
+    {
+      "text": "End date:",
+      "bbox": [
+        244,
+        799,
+        306,
+        817
+      ],
+      "confidence": 0.997503399848938
+    },
+    {
+      "text": "Begin date:",
+      "bbox": [
+        417,
+        798,
+        491,
+        817
+      ],
+      "confidence": 0.9960525631904602
+    },
+    {
+      "text": "End date:",
+      "bbox": [
+        566,
+        797,
+        633,
+        817
+      ],
+      "confidence": 0.9480107426643372
+    },
+    {
+      "text": "Jane",
+      "bbox": [
+        124,
+        823,
+        172,
+        846
+      ],
+      "confidence": 0.7712885141372681
+    },
+    {
+      "text": "Dave Kette",
+      "bbox": [
+        134,
+        843,
+        204,
+        862
+      ],
+      "confidence": 0.9169211387634277
+    },
+    {
+      "text": "Store Manager",
+      "bbox": [
+        346,
+        841,
+        440,
+        861
+      ],
+      "confidence": 0.9989058971405029
+    },
+    {
+      "text": "RJR Representative",
+      "bbox": [
+        554,
+        842,
+        683,
+        862
+      ],
+      "confidence": 0.997294008731842
+    }
+  ],
+  "full_text": "87/30/97\n29:34\n204\nTo:\nAll Store Managers\nFrom:\nDave Kette\nSubject:\nTEMPORARY DISPLAY AUTHORIZATIONS\nYour RJR Representative is authorized to place one (1) Red Kamel and one (1) Winston temporary\ndisplay during the months of August, September and October. Your RJR Representative will place\nthe 2 carton Red Kamel temporary display first (mandatory display). This display should remain in\na primary position for 30 days. After completion of the Red Kamel display, an RJR representative\nwill place a 2 or 4 carlon Winston dispiay (mandatory dispiay) and will remain in a primary position\nfor 30 days.\nPayment will be made to Headquarters for compliance of this program. Therefore, please keep\nthese displays full with the brand load styles designated by your RJR representative.\nThank you in advance for your usual fine cooperation.\nDave Kette\nPlace on Display\nR. J. Reynoids is authorized to place a Red Kamel/ Winston temporary displays. Displays are to be\nmaintained in an agreed upon primary position for 30 days each (not consecutivaly).\nRED KAMEL DISPLAY\nWINSTON DISPLAY\nBegiyndale.\nEnd date:\nBegin date:\nEnd date:\nJane\nDave Kette\nStore Manager\nRJR Representative"
+}

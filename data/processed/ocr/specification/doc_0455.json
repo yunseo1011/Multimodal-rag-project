@@ -1,0 +1,501 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0455.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Nater",
+      "bbox": [
+        52,
+        0,
+        157,
+        27
+      ],
+      "confidence": 0.9176465272903442
+    },
+    {
+      "text": "Cured",
+      "bbox": [
+        473,
+        7,
+        528,
+        30
+      ],
+      "confidence": 0.9980891942977905
+    },
+    {
+      "text": "Non-Leaf",
+      "bbox": [
+        545,
+        7,
+        620,
+        25
+      ],
+      "confidence": 0.9987643957138062
+    },
+    {
+      "text": "Smoke",
+      "bbox": [
+        316,
+        16,
+        370,
+        39
+      ],
+      "confidence": 0.9975143671035767
+    },
+    {
+      "text": "Creen",
+      "bbox": [
+        392,
+        12,
+        442,
+        33
+      ],
+      "confidence": 0.940549373626709
+    },
+    {
+      "text": "Analytical information (detailed)",
+      "bbox": [
+        9,
+        25,
+        253,
+        46
+      ],
+      "confidence": 0.9912029504776001
+    },
+    {
+      "text": "Itemize:",
+      "bbox": [
+        553,
+        23,
+        622,
+        42
+      ],
+      "confidence": 0.9989572167396545
+    },
+    {
+      "text": "Qualitative only",
+      "bbox": [
+        545,
+        131,
+        680,
+        155
+      ],
+      "confidence": 0.9922280311584473
+    },
+    {
+      "text": "Quantitative (all figures)",
+      "bbox": [
+        1,
+        144,
+        198,
+        171
+      ],
+      "confidence": 0.9927930235862732
+    },
+    {
+      "text": "Quoteints or Semi-quant.",
+      "bbox": [
+        468,
+        148,
+        662,
+        174
+      ],
+      "confidence": 0.9925263524055481
+    },
+    {
+      "text": "1-4gm.3",
+      "bbox": [
+        66,
+        168,
+        243,
+        206
+      ],
+      "confidence": 0.8067041635513306
+    },
+    {
+      "text": "5.5./m,5.= 24",
+      "bbox": [
+        72,
+        205,
+        261,
+        242
+      ],
+      "confidence": 0.9128381013870239
+    },
+    {
+      "text": "Structural Formula",
+      "bbox": [
+        0,
+        257,
+        137,
+        274
+      ],
+      "confidence": 0.9989083409309387
+    },
+    {
+      "text": "Mol. Form-",
+      "bbox": [
+        287,
+        249,
+        365,
+        269
+      ],
+      "confidence": 0.9301216006278992
+    },
+    {
+      "text": "B.P.",
+      "bbox": [
+        697,
+        276,
+        744,
+        294
+      ],
+      "confidence": 0.9685470461845398
+    },
+    {
+      "text": "Mol. Weight",
+      "bbox": [
+        287,
+        281,
+        381,
+        305
+      ],
+      "confidence": 0.9945980310440063
+    },
+    {
+      "text": "M.P.",
+      "bbox": [
+        489,
+        281,
+        535,
+        299
+      ],
+      "confidence": 0.9912133812904358
+    },
+    {
+      "text": "Chem. Groups",
+      "bbox": [
+        286,
+        318,
+        381,
+        335
+      ],
+      "confidence": 0.9420239329338074
+    },
+    {
+      "text": "Derivatives",
+      "bbox": [
+        491,
+        315,
+        584,
+        332
+      ],
+      "confidence": 0.9561277627944946
+    },
+    {
+      "text": "Types of Tobacco (all details)",
+      "bbox": [
+        0,
+        397,
+        223,
+        416
+      ],
+      "confidence": 0.9926902055740356
+    },
+    {
+      "text": "Tox.-Pharm. Inform. and other Notes",
+      "bbox": [
+        0,
+        481,
+        269,
+        501
+      ],
+      "confidence": 0.9963580369949341
+    },
+    {
+      "text": "ference",
+      "bbox": [
+        0,
+        597,
+        60,
+        616
+      ],
+      "confidence": 0.9994671940803528
+    },
+    {
+      "text": "RJR CLASS NO. PAMPHLET VI Re-78 s.p",
+      "bbox": [
+        370,
+        661,
+        661,
+        687
+      ],
+      "confidence": 0.9613250494003296
+    },
+    {
+      "text": "Brunnemann, K. D.; Adams, J. D.; Hoffmann, H. O.; Hoffmann, B.",
+      "bbox": [
+        130,
+        675,
+        610,
+        703
+      ],
+      "confidence": 0.9393786787986755
+    },
+    {
+      "text": "(American Health Found. Div. Environ. Carcinogen., Calhalla, N. Y., U. S.)",
+      "bbox": [
+        129,
+        689,
+        705,
+        723
+      ],
+      "confidence": 0.9654244184494019
+    },
+    {
+      "text": "THE INFLUENCE OF TOBACCO SMOKE ON INDOOR ATMOSPHERES. II. VOLATILE",
+      "bbox": [
+        129,
+        707,
+        643,
+        737
+      ],
+      "confidence": 0.9764953255653381
+    },
+    {
+      "text": "AND TOBACCO SPECIFIC NITROSAMINES IN MAIN AND SIDESTREAM SMOKE AND THEIR CONTRIBUTION",
+      "bbox": [
+        25,
+        723,
+        689,
+        754
+      ],
+      "confidence": 0.9858783483505249
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        29,
+        745,
+        54,
+        757
+      ],
+      "confidence": 0.9769408106803894
+    },
+    {
+      "text": "INDOOR POLLUTION.",
+      "bbox": [
+        48,
+        743,
+        187,
+        759
+      ],
+      "confidence": 0.9993842840194702
+    },
+    {
+      "text": "Unpublished manuscript - confidential, 5 p. (1977) (in English)",
+      "bbox": [
+        130,
+        757,
+        616,
+        788
+      ],
+      "confidence": 0.9822131395339966
+    },
+    {
+      "text": "Constituents too numerous to list.",
+      "bbox": [
+        134,
+        775,
+        390,
+        794
+      ],
+      "confidence": 0.9784185886383057
+    },
+    {
+      "text": "Chemical-analytical data were presented",
+      "bbox": [
+        207,
+        800,
+        516,
+        823
+      ],
+      "confidence": 0.996505081653595
+    },
+    {
+      "text": "to illustrate the concantratione of N-",
+      "bbox": [
+        178,
+        815,
+        474,
+        835
+      ],
+      "confidence": 0.9584367871284485
+    },
+    {
+      "text": "nitrosanines and other compounds in main- and",
+      "bbox": [
+        178,
+        829,
+        530,
+        850
+      ],
+      "confidence": 0.9559890627861023
+    },
+    {
+      "text": "sideotream smoke of oigarettes. The amount",
+      "bbox": [
+        179,
+        844,
+        515,
+        864
+      ],
+      "confidence": 0.9733644127845764
+    },
+    {
+      "text": "of volatile nitrosamines in the sideotream",
+      "bbox": [
+        176,
+        857,
+        508,
+        878
+      ],
+      "confidence": 0.9778975248336792
+    },
+    {
+      "text": "liography",
+      "bbox": [
+        2,
+        864,
+        78,
+        878
+      ],
+      "confidence": 0.9973918199539185
+    },
+    {
+      "text": "hat",
+      "bbox": [
+        291,
+        876,
+        317,
+        886
+      ],
+      "confidence": 0.9975631833076477
+    },
+    {
+      "text": "the maingtream smoke",
+      "bbox": [
+        342,
+        873,
+        509,
+        890
+      ],
+      "confidence": 0.9707918167114258
+    },
+    {
+      "text": "50457 0988",
+      "bbox": [
+        699,
+        870,
+        729,
+        971
+      ],
+      "confidence": 0.9952147603034973
+    },
+    {
+      "text": "there",
+      "bbox": [
+        9,
+        883,
+        44,
+        893
+      ],
+      "confidence": 0.913037121295929
+    },
+    {
+      "text": "ls not suffici",
+      "bbox": [
+        57,
+        878,
+        164,
+        894
+      ],
+      "confidence": 0.9283959269523621
+    },
+    {
+      "text": "asy.Poaibencasagories,",
+      "bbox": [
+        341,
+        884,
+        525,
+        903
+      ],
+      "confidence": 0.6418607831001282
+    },
+    {
+      "text": "use",
+      "bbox": [
+        528,
+        891,
+        557,
+        901
+      ],
+      "confidence": 0.9796670079231262
+    },
+    {
+      "text": "tuent",
+      "bbox": [
+        102,
+        913,
+        140,
+        924
+      ],
+      "confidence": 0.9997828602790833
+    },
+    {
+      "text": "and",
+      "bbox": [
+        146,
+        913,
+        172,
+        924
+      ],
+      "confidence": 0.9997426867485046
+    },
+    {
+      "text": "Borseadn indotskyhan and other indoor atmos-",
+      "bbox": [
+        175,
+        910,
+        530,
+        932
+      ],
+      "confidence": 0.8861784338951111
+    },
+    {
+      "text": "phcrss polluted by tobacco smoke.",
+      "bbox": [
+        176,
+        925,
+        435,
+        943
+      ],
+      "confidence": 0.9416475296020508
+    },
+    {
+      "text": "The resulta",
+      "bbox": [
+        444,
+        928,
+        533,
+        944
+      ],
+      "confidence": 0.9851709604263306
+    }
+  ],
+  "full_text": "Nater\nCured\nNon-Leaf\nSmoke\nCreen\nAnalytical information (detailed)\nItemize:\nQualitative only\nQuantitative (all figures)\nQuoteints or Semi-quant.\n1-4gm.3\n5.5./m,5.= 24\nStructural Formula\nMol. Form-\nB.P.\nMol. Weight\nM.P.\nChem. Groups\nDerivatives\nTypes of Tobacco (all details)\nTox.-Pharm. Inform. and other Notes\nference\nRJR CLASS NO. PAMPHLET VI Re-78 s.p\nBrunnemann, K. D.; Adams, J. D.; Hoffmann, H. O.; Hoffmann, B.\n(American Health Found. Div. Environ. Carcinogen., Calhalla, N. Y., U. S.)\nTHE INFLUENCE OF TOBACCO SMOKE ON INDOOR ATMOSPHERES. II. VOLATILE\nAND TOBACCO SPECIFIC NITROSAMINES IN MAIN AND SIDESTREAM SMOKE AND THEIR CONTRIBUTION\nTO\nINDOOR POLLUTION.\nUnpublished manuscript - confidential, 5 p. (1977) (in English)\nConstituents too numerous to list.\nChemical-analytical data were presented\nto illustrate the concantratione of N-\nnitrosanines and other compounds in main- and\nsideotream smoke of oigarettes. The amount\nof volatile nitrosamines in the sideotream\nliography\nhat\nthe maingtream smoke\n50457 0988\nthere\nls not suffici\nasy.Poaibencasagories,\nuse\ntuent\nand\nBorseadn indotskyhan and other indoor atmos-\nphcrss polluted by tobacco smoke.\nThe resulta"
+}

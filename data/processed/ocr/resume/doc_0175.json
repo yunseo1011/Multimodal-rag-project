@@ -1,0 +1,471 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0175.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ronald J. Lukas -",
+      "bbox": [
+        41,
+        0,
+        162,
+        27
+      ],
+      "confidence": 0.9885304570198059
+    },
+    {
+      "text": "PRE-PROPOSAL: NICOTINE REGULATION OF nAChR",
+      "bbox": [
+        331,
+        4,
+        686,
+        27
+      ],
+      "confidence": 0.9978550672531128
+    },
+    {
+      "text": "SENIOR RESEARCH ASSISTANT: Linda LuCerO, M.S.",
+      "bbox": [
+        171,
+        41,
+        581,
+        61
+      ],
+      "confidence": 0.9780572056770325
+    },
+    {
+      "text": "Education:",
+      "bbox": [
+        62,
+        73,
+        136,
+        98
+      ],
+      "confidence": 0.9995193481445312
+    },
+    {
+      "text": "Institution and Location",
+      "bbox": [
+        64,
+        110,
+        214,
+        134
+      ],
+      "confidence": 0.9717667698860168
+    },
+    {
+      "text": "Degree",
+      "bbox": [
+        346,
+        112,
+        400,
+        134
+      ],
+      "confidence": 0.9998841881752014
+    },
+    {
+      "text": "Year Conferred",
+      "bbox": [
+        443,
+        112,
+        544,
+        132
+      ],
+      "confidence": 0.989470899105072
+    },
+    {
+      "text": "Field of Study",
+      "bbox": [
+        585,
+        112,
+        674,
+        130
+      ],
+      "confidence": 0.9871755242347717
+    },
+    {
+      "text": "University of Texas,",
+      "bbox": [
+        64,
+        145,
+        194,
+        170
+      ],
+      "confidence": 0.9862920045852661
+    },
+    {
+      "text": "B.S.",
+      "bbox": [
+        354,
+        145,
+        391,
+        168
+      ],
+      "confidence": 0.9035278558731079
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        441,
+        145,
+        481,
+        167
+      ],
+      "confidence": 0.9999814033508301
+    },
+    {
+      "text": "Microbiology",
+      "bbox": [
+        585,
+        147,
+        666,
+        165
+      ],
+      "confidence": 0.9987185001373291
+    },
+    {
+      "text": "EI Paso, TX",
+      "bbox": [
+        114,
+        164,
+        194,
+        185
+      ],
+      "confidence": 0.9237325191497803
+    },
+    {
+      "text": "University of Colorado Health Sciences",
+      "bbox": [
+        65,
+        180,
+        311,
+        202
+      ],
+      "confidence": 0.9953415393829346
+    },
+    {
+      "text": "M.S.",
+      "bbox": [
+        354,
+        180,
+        391,
+        201
+      ],
+      "confidence": 0.999844491481781
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        440,
+        179,
+        480,
+        202
+      ],
+      "confidence": 0.9999046325683594
+    },
+    {
+      "text": "Microbiology/",
+      "bbox": [
+        582,
+        177,
+        670,
+        201
+      ],
+      "confidence": 0.9986633658409119
+    },
+    {
+      "text": "Center, Denver, CO",
+      "bbox": [
+        115,
+        201,
+        241,
+        218
+      ],
+      "confidence": 0.9775391817092896
+    },
+    {
+      "text": "Inmunology",
+      "bbox": [
+        600,
+        195,
+        682,
+        219
+      ],
+      "confidence": 0.9645532369613647
+    },
+    {
+      "text": "Research and/or Professional Experience: (partial list)",
+      "bbox": [
+        69,
+        250,
+        404,
+        267
+      ],
+      "confidence": 0.9986361861228943
+    },
+    {
+      "text": "1979",
+      "bbox": [
+        67,
+        282,
+        104,
+        301
+      ],
+      "confidence": 0.9999921321868896
+    },
+    {
+      "text": "Alpha Lambda Delta (freshman honor), University of Texas at EI Paso, EI Paso, Texas",
+      "bbox": [
+        150,
+        281,
+        679,
+        301
+      ],
+      "confidence": 0.9711332321166992
+    },
+    {
+      "text": "1980-1981",
+      "bbox": [
+        68,
+        318,
+        139,
+        335
+      ],
+      "confidence": 0.9999726414680481
+    },
+    {
+      "text": "Dean's List, University of Texas at El Paso",
+      "bbox": [
+        133,
+        314,
+        413,
+        334
+      ],
+      "confidence": 0.946139931678772
+    },
+    {
+      "text": "1981-1982",
+      "bbox": [
+        68,
+        351,
+        138,
+        368
+      ],
+      "confidence": 0.9515992403030396
+    },
+    {
+      "text": "Researcher. Performance of numerous assays on surfactant- and ethanol-producing oil",
+      "bbox": [
+        140,
+        350,
+        679,
+        367
+      ],
+      "confidence": 0.9934181571006775
+    },
+    {
+      "text": "field microbial isolates. Petroleum Resources, El Paso, Texas, Dr. James Zajic,",
+      "bbox": [
+        178,
+        366,
+        679,
+        383
+      ],
+      "confidence": 0.9705601930618286
+    },
+    {
+      "text": "Supervisor.",
+      "bbox": [
+        178,
+        383,
+        249,
+        401
+      ],
+      "confidence": 0.9999276995658875
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        66,
+        415,
+        103,
+        434
+      ],
+      "confidence": 0.9999209642410278
+    },
+    {
+      "text": "Beta Beta Beta (biology honor) and Alpha Chi (senior honor). University of Texas at El",
+      "bbox": [
+        148,
+        413,
+        680,
+        432
+      ],
+      "confidence": 0.9903246760368347
+    },
+    {
+      "text": "Paso",
+      "bbox": [
+        174,
+        429,
+        213,
+        451
+      ],
+      "confidence": 0.9995021820068359
+    },
+    {
+      "text": "1983-1985 Graduate Student (3.7 GPA), Teaching Assistant, Research Assistant. Cloning of Herpes",
+      "bbox": [
+        67,
+        464,
+        680,
+        482
+      ],
+      "confidence": 0.9899987578392029
+    },
+    {
+      "text": "and Hepatitis B viral genes in E. coli, instructor in medical microbiology laboratory",
+      "bbox": [
+        176,
+        480,
+        680,
+        498
+      ],
+      "confidence": 0.9744734168052673
+    },
+    {
+      "text": "for medical and dental students, and suspended doctoral dissertation work on T cell",
+      "bbox": [
+        174,
+        495,
+        682,
+        516
+      ],
+      "confidence": 0.9900975823402405
+    },
+    {
+      "text": "receptor immunology. Department of Microbiology/Immunology, University of",
+      "bbox": [
+        175,
+        513,
+        682,
+        533
+      ],
+      "confidence": 0.9891639351844788
+    },
+    {
+      "text": "Colorado Health Sciences Center, Denver, Colorado.",
+      "bbox": [
+        175,
+        528,
+        508,
+        549
+      ],
+      "confidence": 0.9908393025398254
+    },
+    {
+      "text": "1985-1986 Research Associate. Leared and applied techniques in tissue and cell culture,",
+      "bbox": [
+        66,
+        564,
+        681,
+        581
+      ],
+      "confidence": 0.9809253811836243
+    },
+    {
+      "text": "hybridoma technology. ELISA screening, embryo microinjection and transfer,",
+      "bbox": [
+        174,
+        579,
+        682,
+        599
+      ],
+      "confidence": 0.9875509738922119
+    },
+    {
+      "text": "Southern (DNA) transfer, and mRNA isolation. National Jewish Center for",
+      "bbox": [
+        173,
+        594,
+        683,
+        615
+      ],
+      "confidence": 0.9876284599304199
+    },
+    {
+      "text": "Immunological and respiratory Medicine, Denver, Colorado.",
+      "bbox": [
+        172,
+        611,
+        548,
+        632
+      ],
+      "confidence": 0.9892208576202393
+    },
+    {
+      "text": "1988--",
+      "bbox": [
+        60,
+        645,
+        105,
+        663
+      ],
+      "confidence": 0.9098960757255554
+    },
+    {
+      "text": "Senior Research Assistant. Cell culture, radioligand binding assays, immunoassays, ion",
+      "bbox": [
+        144,
+        646,
+        682,
+        663
+      ],
+      "confidence": 0.9888865351676941
+    },
+    {
+      "text": "flux assays, and recombinant DNA studies, all toward characterization of nicotinic",
+      "bbox": [
+        171,
+        662,
+        684,
+        682
+      ],
+      "confidence": 0.9856109619140625
+    },
+    {
+      "text": "acetylcholine receptor subtypes. Laboratory of Neurochemistry. Division of",
+      "bbox": [
+        171,
+        677,
+        685,
+        700
+      ],
+      "confidence": 0.9742831587791443
+    },
+    {
+      "text": "Neurobiology, Barrow Neurological Institute, Phoenix, Arizona.",
+      "bbox": [
+        172,
+        697,
+        565,
+        715
+      ],
+      "confidence": 0.991004228591919
+    },
+    {
+      "text": "8",
+      "bbox": [
+        364,
+        984,
+        377,
+        1000
+      ],
+      "confidence": 0.9999862909317017
+    }
+  ],
+  "full_text": "Ronald J. Lukas -\nPRE-PROPOSAL: NICOTINE REGULATION OF nAChR\nSENIOR RESEARCH ASSISTANT: Linda LuCerO, M.S.\nEducation:\nInstitution and Location\nDegree\nYear Conferred\nField of Study\nUniversity of Texas,\nB.S.\n1982\nMicrobiology\nEI Paso, TX\nUniversity of Colorado Health Sciences\nM.S.\n1985\nMicrobiology/\nCenter, Denver, CO\nInmunology\nResearch and/or Professional Experience: (partial list)\n1979\nAlpha Lambda Delta (freshman honor), University of Texas at EI Paso, EI Paso, Texas\n1980-1981\nDean's List, University of Texas at El Paso\n1981-1982\nResearcher. Performance of numerous assays on surfactant- and ethanol-producing oil\nfield microbial isolates. Petroleum Resources, El Paso, Texas, Dr. James Zajic,\nSupervisor.\n1982\nBeta Beta Beta (biology honor) and Alpha Chi (senior honor). University of Texas at El\nPaso\n1983-1985 Graduate Student (3.7 GPA), Teaching Assistant, Research Assistant. Cloning of Herpes\nand Hepatitis B viral genes in E. coli, instructor in medical microbiology laboratory\nfor medical and dental students, and suspended doctoral dissertation work on T cell\nreceptor immunology. Department of Microbiology/Immunology, University of\nColorado Health Sciences Center, Denver, Colorado.\n1985-1986 Research Associate. Leared and applied techniques in tissue and cell culture,\nhybridoma technology. ELISA screening, embryo microinjection and transfer,\nSouthern (DNA) transfer, and mRNA isolation. National Jewish Center for\nImmunological and respiratory Medicine, Denver, Colorado.\n1988--\nSenior Research Assistant. Cell culture, radioligand binding assays, immunoassays, ion\nflux assays, and recombinant DNA studies, all toward characterization of nicotinic\nacetylcholine receptor subtypes. Laboratory of Neurochemistry. Division of\nNeurobiology, Barrow Neurological Institute, Phoenix, Arizona.\n8"
+}

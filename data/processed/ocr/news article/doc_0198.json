@@ -1,0 +1,781 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0198.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "NEWS JOURNAL",
+      "bbox": [
+        144,
+        91,
+        270,
+        108
+      ],
+      "confidence": 0.9998455047607422
+    },
+    {
+      "text": "MANSFIELD, OH",
+      "bbox": [
+        161,
+        117,
+        254,
+        131
+      ],
+      "confidence": 0.9903755187988281
+    },
+    {
+      "text": "THURSDAY",
+      "bbox": [
+        141,
+        131,
+        200,
+        144
+      ],
+      "confidence": 0.9993129968643188
+    },
+    {
+      "text": "40,000",
+      "bbox": [
+        231,
+        131,
+        276,
+        145
+      ],
+      "confidence": 0.9998318552970886
+    },
+    {
+      "text": "JUN 8 2000",
+      "bbox": [
+        167,
+        143,
+        251,
+        160
+      ],
+      "confidence": 0.9733995199203491
+    },
+    {
+      "text": "BURRELLE'S",
+      "bbox": [
+        175,
+        184,
+        257,
+        204
+      ],
+      "confidence": 0.9834468960762024
+    },
+    {
+      "text": "203",
+      "bbox": [
+        133,
+        216,
+        152,
+        228
+      ],
+      "confidence": 0.9916956424713135
+    },
+    {
+      "text": "ZII",
+      "bbox": [
+        286,
+        217,
+        301,
+        230
+      ],
+      "confidence": 0.7803096771240234
+    },
+    {
+      "text": "CART comes calling",
+      "bbox": [
+        117,
+        230,
+        720,
+        301
+      ],
+      "confidence": 0.9998252391815186
+    },
+    {
+      "text": ".12000",
+      "bbox": [
+        130,
+        226,
+        162,
+        240
+      ],
+      "confidence": 0.6422706246376038
+    },
+    {
+      "text": "13",
+      "bbox": [
+        233,
+        226,
+        248,
+        239
+      ],
+      "confidence": 0.9993223547935486
+    },
+    {
+      "text": "II....",
+      "bbox": [
+        261,
+        223,
+        295,
+        242
+      ],
+      "confidence": 0.9129300713539124
+    },
+    {
+      "text": "at Mid-Ohio course",
+      "bbox": [
+        131,
+        291,
+        702,
+        351
+      ],
+      "confidence": 0.9992417097091675
+    },
+    {
+      "text": "By Rob McCurdy 3839T",
+      "bbox": [
+        124,
+        355,
+        316,
+        386
+      ],
+      "confidence": 0.9920617938041687
+    },
+    {
+      "text": "Roberto Moreno in the points chase, despite",
+      "bbox": [
+        654,
+        356,
+        754,
+        374
+      ],
+      "confidence": 0.9766401052474976
+    },
+    {
+      "text": "News Journal",
+      "bbox": [
+        125,
+        373,
+        204,
+        392
+      ],
+      "confidence": 0.9987453818321228
+    },
+    {
+      "text": "Auto Racing Notebook, page 3C.",
+      "bbox": [
+        387,
+        370,
+        587,
+        384
+      ],
+      "confidence": 0.9856483936309814
+    },
+    {
+      "text": "running mostly ovals so far.",
+      "bbox": [
+        654,
+        372,
+        754,
+        386
+      ],
+      "confidence": 0.9758753776550293
+    },
+    {
+      "text": "lead. \"We didn't have a great car the first",
+      "bbox": [
+        651,
+        397,
+        754,
+        415
+      ],
+      "confidence": 0.9694322943687439
+    },
+    {
+      "text": "\"It's a good feeling,\" Tracy said of his",
+      "bbox": [
+        666,
+        384,
+        754,
+        402
+      ],
+      "confidence": 0.9706681966781616
+    },
+    {
+      "text": "LEXINGTON - Paul Tracy is feeling",
+      "bbox": [
+        137,
+        403,
+        373,
+        416
+      ],
+      "confidence": 0.9794350862503052
+    },
+    {
+      "text": "entering the summer months include:",
+      "bbox": [
+        387,
+        399,
+        601,
+        414
+      ],
+      "confidence": 0.9873866438865662
+    },
+    {
+      "text": "KOOL this week - as he should.",
+      "bbox": [
+        126,
+        415,
+        307,
+        429
+      ],
+      "confidence": 0.9681699275970459
+    },
+    {
+      "text": "without a multiple winner since 1991;",
+      "bbox": [
+        387,
+        425,
+        600,
+        441
+      ],
+      "confidence": 0.9947150945663452
+    },
+    {
+      "text": " CART hasn't been this deep into a year",
+      "bbox": [
+        400,
+        413,
+        641,
+        427
+      ],
+      "confidence": 0.9801148772239685
+    },
+    {
+      "text": "podium finishes. Those are the times you",
+      "bbox": [
+        652,
+        427,
+        754,
+        441
+      ],
+      "confidence": 0.9721755981445312
+    },
+    {
+      "text": "three races, and we had one win and two",
+      "bbox": [
+        653,
+        413,
+        754,
+        427
+      ],
+      "confidence": 0.9752711653709412
+    },
+    {
+      "text": "eran driver leads the CART FedEx Champi-",
+      "bbox": [
+        125,
+        442,
+        374,
+        456
+      ],
+      "confidence": 0.9989930987358093
+    },
+    {
+      "text": "Six races into the 20-race season, the vet-",
+      "bbox": [
+        137,
+        428,
+        374,
+        443
+      ],
+      "confidence": 0.9943297505378723
+    },
+    {
+      "text": "Poor weather delayed races an unprece-",
+      "bbox": [
+        399,
+        439,
+        640,
+        454
+      ],
+      "confidence": 0.9899744987487793
+    },
+    {
+      "text": "have to relish.\"",
+      "bbox": [
+        652,
+        440,
+        742,
+        454
+      ],
+      "confidence": 0.9888348579406738
+    },
+    {
+      "text": "onship Series points list.",
+      "bbox": [
+        125,
+        455,
+        262,
+        468
+      ],
+      "confidence": 0.9929537177085876
+    },
+    {
+      "text": "dented three times in Pennsylvania (snow),",
+      "bbox": [
+        386,
+        451,
+        640,
+        468
+      ],
+      "confidence": 0.9849511384963989
+    },
+    {
+      "text": "Tracy admitted Team KOÖL Green has",
+      "bbox": [
+        664,
+        453,
+        754,
+        466
+      ],
+      "confidence": 0.9793661832809448
+    },
+    {
+      "text": "\"It's a nice situation to be in,\" the Team",
+      "bbox": [
+        137,
+        467,
+        373,
+        481
+      ],
+      "confidence": 0.9768120050430298
+    },
+    {
+      "text": "Japan (rain) and Wisconsin (rain);",
+      "bbox": [
+        386,
+        466,
+        581,
+        480
+      ],
+      "confidence": 0.9975161552429199
+    },
+    {
+      "text": "trouble on oval tracks which makes his early",
+      "bbox": [
+        652,
+        466,
+        754,
+        480
+      ],
+      "confidence": 0.9761207103729248
+    },
+    {
+      "text": "KOOL Green racer said. \"We've had a pretty",
+      "bbox": [
+        125,
+        481,
+        371,
+        495
+      ],
+      "confidence": 0.9825741648674011
+    },
+    {
+      "text": "Ford, which was the preseason pick to",
+      "bbox": [
+        397,
+        477,
+        640,
+        495
+      ],
+      "confidence": 0.9797884821891785
+    },
+    {
+      "text": "lead even more special. His lone win came",
+      "bbox": [
+        651,
+        479,
+        754,
+        493
+      ],
+      "confidence": 0.9903226494789124
+    },
+    {
+      "text": "good season so far. The last couple of weeks",
+      "bbox": [
+        125,
+        495,
+        372,
+        508
+      ],
+      "confidence": 0.985572099685669
+    },
+    {
+      "text": "be the dominant engine, has been solid, but",
+      "bbox": [
+        386,
+        493,
+        639,
+        507
+      ],
+      "confidence": 0.9866933822631836
+    },
+    {
+      "text": "on the street course at Long Beach, one of",
+      "bbox": [
+        650,
+        493,
+        754,
+        507
+      ],
+      "confidence": 0.9921051263809204
+    },
+    {
+      "text": "haven't gone so well, but that's the way",
+      "bbox": [
+        123,
+        505,
+        372,
+        523
+      ],
+      "confidence": 0.9852887988090515
+    },
+    {
+      "text": "not overpowering in winning three races;",
+      "bbox": [
+        385,
+        507,
+        621,
+        520
+      ],
+      "confidence": 0.9849077463150024
+    },
+    {
+      "text": "his fortes.",
+      "bbox": [
+        650,
+        503,
+        711,
+        521
+      ],
+      "confidence": 0.9876632690429688
+    },
+    {
+      "text": "\"To be leading is a bonus,\" Tracy said.",
+      "bbox": [
+        663,
+        517,
+        754,
+        534
+      ],
+      "confidence": 0.965055525302887
+    },
+    {
+      "text": "things go.\"",
+      "bbox": [
+        123,
+        518,
+        188,
+        535
+      ],
+      "confidence": 0.9391308426856995
+    },
+    {
+      "text": "Wednesday and today all the CART teams",
+      "bbox": [
+        136,
+        532,
+        371,
+        547
+      ],
+      "confidence": 0.9898214936256409
+    },
+    {
+      "text": "gave Toyota its first CART victory in five",
+      "bbox": [
+        384,
+        530,
+        639,
+        547
+      ],
+      "confidence": 0.9848299622535706
+    },
+    {
+      "text": "Defending champion Juan Montoya",
+      "bbox": [
+        397,
+        519,
+        639,
+        533
+      ],
+      "confidence": 0.9846335649490356
+    },
+    {
+      "text": "\"We're going to do the best we can now that",
+      "bbox": [
+        650,
+        529,
+        754,
+        548
+      ],
+      "confidence": 0.974723219871521
+    },
+    {
+      "text": "were in Lexington testing their cars and get-",
+      "bbox": [
+        123,
+        546,
+        370,
+        561
+      ],
+      "confidence": 0.9864439964294434
+    },
+    {
+      "text": "years and 78 races, but it didn't come until",
+      "bbox": [
+        384,
+        545,
+        639,
+        559
+      ],
+      "confidence": 0.9884857535362244
+    },
+    {
+      "text": "we're leading the championship and enter-",
+      "bbox": [
+        652,
+        546,
+        754,
+        560
+      ],
+      "confidence": 0.9954512715339661
+    },
+    {
+      "text": "ting them fitted for the second part of the",
+      "bbox": [
+        122,
+        559,
+        371,
+        573
+      ],
+      "confidence": 0.9712357521057129
+    },
+    {
+      "text": "Monday afternoon of the rain-delaved Miller",
+      "bbox": [
+        384,
+        557,
+        639,
+        570
+      ],
+      "confidence": 0.9775443077087402
+    },
+    {
+      "text": "ing the part of the year where we usually do",
+      "bbox": [
+        651,
+        558,
+        754,
+        571
+      ],
+      "confidence": 0.9950746297836304
+    },
+    {
+      "text": "year which is dominated by the twists and",
+      "bbox": [
+        123,
+        571,
+        370,
+        584
+      ],
+      "confidence": 0.9922813773155212
+    },
+    {
+      "text": "Lite 225 at The Milwaukee Mile;",
+      "bbox": [
+        383,
+        571,
+        570,
+        585
+      ],
+      "confidence": 0.9610009789466858
+    },
+    {
+      "text": "well.\"",
+      "bbox": [
+        649,
+        568,
+        689,
+        588
+      ],
+      "confidence": 0.8570136427879333
+    },
+    {
+      "text": "turns like those found at the Mid-Ohio Sports",
+      "bbox": [
+        121,
+        582,
+        370,
+        601
+      ],
+      "confidence": 0.9925075173377991
+    },
+    {
+      "text": "Roger Penske's team finally found the",
+      "bbox": [
+        395,
+        583,
+        639,
+        599
+      ],
+      "confidence": 0.9976266622543335
+    },
+    {
+      "text": "However, Tracy isn't the only driver feel-",
+      "bbox": [
+        663,
+        584,
+        754,
+        601
+      ],
+      "confidence": 0.966101348400116
+    },
+    {
+      "text": "Car Course.",
+      "bbox": [
+        122,
+        596,
+        190,
+        612
+      ],
+      "confidence": 0.975260317325592
+    },
+    {
+      "text": "winner's circle and won his elusive 100th",
+      "bbox": [
+        382,
+        596,
+        639,
+        612
+      ],
+      "confidence": 0.9692225456237793
+    },
+    {
+      "text": "ing good about the season. Everyone's opti-",
+      "bbox": [
+        651,
+        599,
+        754,
+        612
+      ],
+      "confidence": 0.997164249420166
+    },
+    {
+      "text": "twists and turns, even while competing on",
+      "bbox": [
+        121,
+        622,
+        370,
+        638
+      ],
+      "confidence": 0.9872081875801086
+    },
+    {
+      "text": "Fittingly, the season's also had its share of",
+      "bbox": [
+        134,
+        610,
+        371,
+        624
+      ],
+      "confidence": 0.9815126061439514
+    },
+    {
+      "text": "CART race with Gil de Ferran in the cockpit,",
+      "bbox": [
+        382,
+        610,
+        638,
+        625
+      ],
+      "confidence": 0.9526174068450928
+    },
+    {
+      "text": "mistic in this year's wide-open version of",
+      "bbox": [
+        652,
+        613,
+        754,
+        626
+      ],
+      "confidence": 0.9773070216178894
+    },
+    {
+      "text": "five ovals to start. Some of the storylines",
+      "bbox": [
+        121,
+        635,
+        370,
+        652
+      ],
+      "confidence": 0.9850411415100098
+    },
+    {
+      "text": "Marlboro's first victory since 1997;",
+      "bbox": [
+        383,
+        624,
+        586,
+        638
+      ],
+      "confidence": 0.9786999225616455
+    },
+    {
+      "text": "Tracy holds a 59-52 advantage over",
+      "bbox": [
+        394,
+        635,
+        639,
+        654
+      ],
+      "confidence": 0.9892858862876892
+    },
+    {
+      "text": "D",
+      "bbox": [
+        681,
+        634,
+        701,
+        653
+      ],
+      "confidence": 0.9996672868728638
+    },
+    {
+      "text": "See CART, page 3C",
+      "bbox": [
+        711,
+        638,
+        754,
+        658
+      ],
+      "confidence": 0.9952468872070312
+    },
+    {
+      "text": "2080718789",
+      "bbox": [
+        67,
+        710,
+        168,
+        729
+      ],
+      "confidence": 0.9998966455459595
+    }
+  ],
+  "full_text": "NEWS JOURNAL\nMANSFIELD, OH\nTHURSDAY\n40,000\nJUN 8 2000\nBURRELLE'S\n203\nZII\nCART comes calling\n.12000\n13\nII....\nat Mid-Ohio course\nBy Rob McCurdy 3839T\nRoberto Moreno in the points chase, despite\nNews Journal\nAuto Racing Notebook, page 3C.\nrunning mostly ovals so far.\nlead. \"We didn't have a great car the first\n\"It's a good feeling,\" Tracy said of his\nLEXINGTON - Paul Tracy is feeling\nentering the summer months include:\nKOOL this week - as he should.\nwithout a multiple winner since 1991;\n CART hasn't been this deep into a year\npodium finishes. Those are the times you\nthree races, and we had one win and two\neran driver leads the CART FedEx Champi-\nSix races into the 20-race season, the vet-\nPoor weather delayed races an unprece-\nhave to relish.\"\nonship Series points list.\ndented three times in Pennsylvania (snow),\nTracy admitted Team KOÖL Green has\n\"It's a nice situation to be in,\" the Team\nJapan (rain) and Wisconsin (rain);\ntrouble on oval tracks which makes his early\nKOOL Green racer said. \"We've had a pretty\nFord, which was the preseason pick to\nlead even more special. His lone win came\ngood season so far. The last couple of weeks\nbe the dominant engine, has been solid, but\non the street course at Long Beach, one of\nhaven't gone so well, but that's the way\nnot overpowering in winning three races;\nhis fortes.\n\"To be leading is a bonus,\" Tracy said.\nthings go.\"\nWednesday and today all the CART teams\ngave Toyota its first CART victory in five\nDefending champion Juan Montoya\n\"We're going to do the best we can now that\nwere in Lexington testing their cars and get-\nyears and 78 races, but it didn't come until\nwe're leading the championship and enter-\nting them fitted for the second part of the\nMonday afternoon of the rain-delaved Miller\ning the part of the year where we usually do\nyear which is dominated by the twists and\nLite 225 at The Milwaukee Mile;\nwell.\"\nturns like those found at the Mid-Ohio Sports\nRoger Penske's team finally found the\nHowever, Tracy isn't the only driver feel-\nCar Course.\nwinner's circle and won his elusive 100th\ning good about the season. Everyone's opti-\ntwists and turns, even while competing on\nFittingly, the season's also had its share of\nCART race with Gil de Ferran in the cockpit,\nmistic in this year's wide-open version of\nfive ovals to start. Some of the storylines\nMarlboro's first victory since 1997;\nTracy holds a 59-52 advantage over\nD\nSee CART, page 3C\n2080718789"
+}

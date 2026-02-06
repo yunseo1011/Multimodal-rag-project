@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0329.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "03/31/97 MON 10:13 FAX 612 340 6307",
+      "bbox": [
+        0,
+        0,
+        296,
+        28
+      ],
+      "confidence": 0.9698963761329651
+    },
+    {
+      "text": "DORSEY & WHITNEY",
+      "bbox": [
+        357,
+        6,
+        486,
+        29
+      ],
+      "confidence": 0.9917325973510742
+    },
+    {
+      "text": "DORSEY& WHITNEYLLP",
+      "bbox": [
+        236,
+        72,
+        535,
+        94
+      ],
+      "confidence": 0.9889586567878723
+    },
+    {
+      "text": "PILLSBURY CENTERSOUTH",
+      "bbox": [
+        287,
+        96,
+        483,
+        111
+      ],
+      "confidence": 0.9862688779830933
+    },
+    {
+      "text": "220 SOUTH SIXTH STREET",
+      "bbox": [
+        296,
+        109,
+        478,
+        122
+      ],
+      "confidence": 0.9728195667266846
+    },
+    {
+      "text": "MINNEAPOLIS,MINNESOTA55402",
+      "bbox": [
+        264,
+        119,
+        508,
+        133
+      ],
+      "confidence": 0.9858556389808655
+    },
+    {
+      "text": "FACSIMILE COVER SHEET",
+      "bbox": [
+        296,
+        147,
+        478,
+        161
+      ],
+      "confidence": 0.998569130897522
+    },
+    {
+      "text": "(612) 340-2777",
+      "bbox": [
+        337,
+        161,
+        436,
+        178
+      ],
+      "confidence": 0.9632959961891174
+    },
+    {
+      "text": "THE INFORMATION CONTAINED IN THIS FACSIMILE MESSAGE IS LEGALLY PRIVILEGED",
+      "bbox": [
+        38,
+        195,
+        664,
+        212
+      ],
+      "confidence": 0.9894177913665771
+    },
+    {
+      "text": "AND CONFIDENTIAL INFORMATION INTENDED SOLELY FOR THE USE OF THE PERSONS OR",
+      "bbox": [
+        38,
+        211,
+        665,
+        228
+      ],
+      "confidence": 0.9948699474334717
+    },
+    {
+      "text": "ENTITIES NAMED BELOW. IF YOU ARE NOT SUCH PERSONS OR ENTITIES, DO NOT READ",
+      "bbox": [
+        37,
+        226,
+        662,
+        244
+      ],
+      "confidence": 0.989484429359436
+    },
+    {
+      "text": "THE MESSAGE BELOW. ANY DISTRIBUTION, DISSEMINATION OR REPRODUCTION OF THIS",
+      "bbox": [
+        37,
+        241,
+        663,
+        263
+      ],
+      "confidence": 0.9940244555473328
+    },
+    {
+      "text": "FACSIMILE MESSAGE IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS MESSAGE IN",
+      "bbox": [
+        37,
+        256,
+        662,
+        279
+      ],
+      "confidence": 0.9760949611663818
+    },
+    {
+      "text": "ERROR, PLEASE IMMEDIATELY CALL US COLLECT AT (612) 340-2872",
+      "bbox": [
+        38,
+        272,
+        486,
+        295
+      ],
+      "confidence": 0.9926773905754089
+    },
+    {
+      "text": "Date:  March 31, 1997",
+      "bbox": [
+        38,
+        305,
+        200,
+        331
+      ],
+      "confidence": 0.9339932203292847
+    },
+    {
+      "text": "Time:",
+      "bbox": [
+        278,
+        308,
+        321,
+        329
+      ],
+      "confidence": 0.9998078346252441
+    },
+    {
+      "text": "Total Number of Pages (including this cover sheet):",
+      "bbox": [
+        39,
+        336,
+        352,
+        362
+      ],
+      "confidence": 0.985030472278595
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        41,
+        369,
+        93,
+        387
+      ],
+      "confidence": 0.9996439218521118
+    },
+    {
+      "text": "PAUL DIESETH",
+      "bbox": [
+        103,
+        370,
+        207,
+        389
+      ],
+      "confidence": 0.9383120536804199
+    },
+    {
+      "text": "TELEPHONE: (612) 340-7892",
+      "bbox": [
+        352,
+        372,
+        532,
+        392
+      ],
+      "confidence": 0.9899345636367798
+    },
+    {
+      "text": "COUNSEL",
+      "bbox": [
+        41,
+        399,
+        101,
+        419
+      ],
+      "confidence": 0.977580726146698
+    },
+    {
+      "text": "FIRM",
+      "bbox": [
+        247,
+        403,
+        280,
+        422
+      ],
+      "confidence": 0.9719946384429932
+    },
+    {
+      "text": "TELEPHONE",
+      "bbox": [
+        445,
+        405,
+        517,
+        425
+      ],
+      "confidence": 0.9982201457023621
+    },
+    {
+      "text": "TELECOPIER",
+      "bbox": [
+        574,
+        406,
+        646,
+        423
+      ],
+      "confidence": 0.9983612298965454
+    },
+    {
+      "text": "JOHN J. MULDERIG, III",
+      "bbox": [
+        40,
+        424,
+        196,
+        449
+      ],
+      "confidence": 0.9794754981994629
+    },
+    {
+      "text": "PHILIP MORRIS COMPANIES",
+      "bbox": [
+        247,
+        428,
+        435,
+        449
+      ],
+      "confidence": 0.9871858358383179
+    },
+    {
+      "text": "(213) 243-4040",
+      "bbox": [
+        444,
+        433,
+        533,
+        451
+      ],
+      "confidence": 0.9987282156944275
+    },
+    {
+      "text": "(212) 907-5796",
+      "bbox": [
+        574,
+        432,
+        664,
+        450
+      ],
+      "confidence": 0.9936957955360413
+    },
+    {
+      "text": "MAURY LEITER",
+      "bbox": [
+        40,
+        456,
+        148,
+        477
+      ],
+      "confidence": 0.9959695339202881
+    },
+    {
+      "text": "ARNOLD & PORTER",
+      "bbox": [
+        247,
+        459,
+        377,
+        479
+      ],
+      "confidence": 0.9947051405906677
+    },
+    {
+      "text": "(213) 2434040",
+      "bbox": [
+        444,
+        464,
+        531,
+        481
+      ],
+      "confidence": 0.9993756413459778
+    },
+    {
+      "text": "(213) 243-4199",
+      "bbox": [
+        571,
+        463,
+        661,
+        480
+      ],
+      "confidence": 0.9972368478775024
+    },
+    {
+      "text": "CRAIG E. GUSTAFSON",
+      "bbox": [
+        40,
+        488,
+        194,
+        507
+      ],
+      "confidence": 0.9875233769416809
+    },
+    {
+      "text": "SHOOK, HARDY & BACON",
+      "bbox": [
+        246,
+        490,
+        421,
+        510
+      ],
+      "confidence": 0.9819443821907043
+    },
+    {
+      "text": "(816) 474-6550",
+      "bbox": [
+        443,
+        494,
+        529,
+        511
+      ],
+      "confidence": 0.9804795980453491
+    },
+    {
+      "text": "(816) 421-2708",
+      "bbox": [
+        569,
+        494,
+        658,
+        511
+      ],
+      "confidence": 0.9850560426712036
+    },
+    {
+      "text": "ROB ACOSTA LEWIS",
+      "bbox": [
+        39,
+        517,
+        182,
+        536
+      ],
+      "confidence": 0.9988300800323486
+    },
+    {
+      "text": "(914) 335-9374",
+      "bbox": [
+        571,
+        523,
+        658,
+        540
+      ],
+      "confidence": 0.9810793995857239
+    },
+    {
+      "text": "TIMOTHY J. LINDON",
+      "bbox": [
+        37,
+        546,
+        183,
+        568
+      ],
+      "confidence": 0.9967541694641113
+    },
+    {
+      "text": "(212) 907-5796",
+      "bbox": [
+        568,
+        554,
+        656,
+        572
+      ],
+      "confidence": 0.9976806640625
+    },
+    {
+      "text": "4",
+      "bbox": [
+        113,
+        583,
+        120,
+        590
+      ],
+      "confidence": 0.6445353627204895
+    },
+    {
+      "text": "PLEASE CONTACT Rita \" AT (612) 340-7838 IF TRANSMISSION IS INCOMPLETE OR CANNOT READ.",
+      "bbox": [
+        49,
+        631,
+        626,
+        661
+      ],
+      "confidence": 0.9696738719940186
+    },
+    {
+      "text": "Reference # 2703/265451-2",
+      "bbox": [
+        0,
+        687,
+        162,
+        712
+      ],
+      "confidence": 0.955751359462738
+    },
+    {
+      "text": "2076195379",
+      "bbox": [
+        730,
+        848,
+        754,
+        955
+      ],
+      "confidence": 0.9998981356620789
+    }
+  ],
+  "full_text": "03/31/97 MON 10:13 FAX 612 340 6307\nDORSEY & WHITNEY\nDORSEY& WHITNEYLLP\nPILLSBURY CENTERSOUTH\n220 SOUTH SIXTH STREET\nMINNEAPOLIS,MINNESOTA55402\nFACSIMILE COVER SHEET\n(612) 340-2777\nTHE INFORMATION CONTAINED IN THIS FACSIMILE MESSAGE IS LEGALLY PRIVILEGED\nAND CONFIDENTIAL INFORMATION INTENDED SOLELY FOR THE USE OF THE PERSONS OR\nENTITIES NAMED BELOW. IF YOU ARE NOT SUCH PERSONS OR ENTITIES, DO NOT READ\nTHE MESSAGE BELOW. ANY DISTRIBUTION, DISSEMINATION OR REPRODUCTION OF THIS\nFACSIMILE MESSAGE IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS MESSAGE IN\nERROR, PLEASE IMMEDIATELY CALL US COLLECT AT (612) 340-2872\nDate:  March 31, 1997\nTime:\nTotal Number of Pages (including this cover sheet):\nFROM:\nPAUL DIESETH\nTELEPHONE: (612) 340-7892\nCOUNSEL\nFIRM\nTELEPHONE\nTELECOPIER\nJOHN J. MULDERIG, III\nPHILIP MORRIS COMPANIES\n(213) 243-4040\n(212) 907-5796\nMAURY LEITER\nARNOLD & PORTER\n(213) 2434040\n(213) 243-4199\nCRAIG E. GUSTAFSON\nSHOOK, HARDY & BACON\n(816) 474-6550\n(816) 421-2708\nROB ACOSTA LEWIS\n(914) 335-9374\nTIMOTHY J. LINDON\n(212) 907-5796\n4\nPLEASE CONTACT Rita \" AT (612) 340-7838 IF TRANSMISSION IS INCOMPLETE OR CANNOT READ.\nReference # 2703/265451-2\n2076195379"
+}

@@ -1,0 +1,131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0326.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "235",
+      "bbox": [
+        159,
+        38,
+        210,
+        143
+      ],
+      "confidence": 0.9956696629524231
+    },
+    {
+      "text": "imell",
+      "bbox": [
+        339,
+        166,
+        467,
+        418
+      ],
+      "confidence": 0.9440488815307617
+    },
+    {
+      "text": "R taste will prove that in quality, favor,",
+      "bbox": [
+        543,
+        188,
+        579,
+        428
+      ],
+      "confidence": 0.9333372712135315
+    },
+    {
+      "text": "Another feature about Camels-they leave no",
+      "bbox": [
+        707,
+        192,
+        728,
+        422
+      ],
+      "confidence": 0.9218387603759766
+    },
+    {
+      "text": "Camela supeniority is best proved by comparin",
+      "bbox": [
+        751,
+        192,
+        771,
+        422
+      ],
+      "confidence": 0.7972877621650696
+    },
+    {
+      "text": "Camels supply everything",
+      "bbox": [
+        220,
+        225,
+        282,
+        405
+      ],
+      "confidence": 0.9992938041687012
+    },
+    {
+      "text": "you hoped for in cigarettes!",
+      "bbox": [
+        241,
+        228,
+        297,
+        405
+      ],
+      "confidence": 0.9549522995948792
+    },
+    {
+      "text": "In other words",
+      "bbox": [
+        162,
+        249,
+        258,
+        449
+      ],
+      "confidence": 0.98028963804245
+    },
+    {
+      "text": "of tobacco smoked straight",
+      "bbox": [
+        611,
+        302,
+        636,
+        430
+      ],
+      "confidence": 0.9665266275405884
+    },
+    {
+      "text": "tire your taste!",
+      "bbox": [
+        684,
+        354,
+        707,
+        428
+      ],
+      "confidence": 0.9927371740341187
+    },
+    {
+      "text": "retty odor.",
+      "bbox": [
+        737,
+        377,
+        751,
+        429
+      ],
+      "confidence": 0.9475721716880798
+    },
+    {
+      "text": "CAMCL",
+      "bbox": [
+        656,
+        489,
+        703,
+        595
+      ],
+      "confidence": 0.8890954852104187
+    }
+  ],
+  "full_text": "235\nimell\nR taste will prove that in quality, favor,\nAnother feature about Camels-they leave no\nCamela supeniority is best proved by comparin\nCamels supply everything\nyou hoped for in cigarettes!\nIn other words\nof tobacco smoked straight\ntire your taste!\nretty odor.\nCAMCL"
+}

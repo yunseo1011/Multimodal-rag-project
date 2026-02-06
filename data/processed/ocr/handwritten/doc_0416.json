@@ -1,0 +1,251 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0416.png",
+    "image_width": 785,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TAG 4/16/92.",
+      "bbox": [
+        96,
+        35,
+        332,
+        87
+      ],
+      "confidence": 0.8946664333343506
+    },
+    {
+      "text": "Press: Addtmal FullSealeTests dicussion-",
+      "bbox": [
+        108,
+        109,
+        766,
+        143
+      ],
+      "confidence": 0.8722524642944336
+    },
+    {
+      "text": "Brauningn (CpsC):",
+      "bbox": [
+        103,
+        173,
+        355,
+        218
+      ],
+      "confidence": 0.8450027704238892
+    },
+    {
+      "text": "Degpa : Ame oppatenity to disanss tch.mif:",
+      "bbox": [
+        104,
+        242,
+        639,
+        282
+      ],
+      "confidence": 0.7561038136482239
+    },
+    {
+      "text": "Agsud",
+      "bbox": [
+        507,
+        277,
+        593,
+        320
+      ],
+      "confidence": 0.7291444540023804
+    },
+    {
+      "text": "ditrbute drost mnites:",
+      "bbox": [
+        142,
+        283,
+        401,
+        316
+      ],
+      "confidence": 0.8304124474525452
+    },
+    {
+      "text": "ari fliw effects.",
+      "bbox": [
+        194,
+        321,
+        344,
+        349
+      ],
+      "confidence": 0.896843671798706
+    },
+    {
+      "text": "ag. hgitng proudine",
+      "bbox": [
+        441,
+        315,
+        692,
+        348
+      ],
+      "confidence": 0.6538974642753601
+    },
+    {
+      "text": "fakres",
+      "bbox": [
+        189,
+        347,
+        281,
+        387
+      ],
+      "confidence": 0.7349191308021545
+    },
+    {
+      "text": "modprid CORESTA boc.",
+      "bbox": [
+        441,
+        348,
+        699,
+        377
+      ],
+      "confidence": 0.7391291856765747
+    },
+    {
+      "text": "/",
+      "bbox": [
+        369,
+        370,
+        401,
+        408
+      ],
+      "confidence": 0.724077045917511
+    },
+    {
+      "text": "Schedule fa RondRokn",
+      "bbox": [
+        442,
+        378,
+        727,
+        413
+      ],
+      "confidence": 0.7267835140228271
+    },
+    {
+      "text": "rondrobw",
+      "bbox": [
+        193,
+        384,
+        310,
+        411
+      ],
+      "confidence": 0.7740519046783447
+    },
+    {
+      "text": "lcude prerpre RR.",
+      "bbox": [
+        474,
+        411,
+        694,
+        448
+      ],
+      "confidence": 0.7864382266998291
+    },
+    {
+      "text": "remale Ts cijts..",
+      "bbox": [
+        444,
+        449,
+        671,
+        479
+      ],
+      "confidence": 0.8300846219062805
+    },
+    {
+      "text": "2Comments to Deppa by 4/24 >falogof Meting ",
+      "bbox": [
+        70,
+        472,
+        784,
+        523
+      ],
+      "confidence": 0.8370745182037354
+    },
+    {
+      "text": "Goold minutes distribuled to TAb for IufomationBuly",
+      "bbox": [
+        117,
+        518,
+        783,
+        551
+      ],
+      "confidence": 0.833454966545105
+    },
+    {
+      "text": "discussion",
+      "bbox": [
+        182,
+        545,
+        268,
+        571
+      ],
+      "confidence": 0.9667840003967285
+    },
+    {
+      "text": " Meetingdisut on Agouda fo nest muting:",
+      "bbox": [
+        55,
+        554,
+        541,
+        595
+      ],
+      "confidence": 0.8361680507659912
+    },
+    {
+      "text": "NSTAisuals  atthd tone",
+      "bbox": [
+        30,
+        606,
+        492,
+        662
+      ],
+      "confidence": 0.6354387998580933
+    },
+    {
+      "text": "① Selection of substrate ",
+      "bbox": [
+        100,
+        654,
+        402,
+        691
+      ],
+      "confidence": 0.842185914516449
+    },
+    {
+      "text": "# Condtins regund is one! coned be moe. /pass/faige.",
+      "bbox": [
+        175,
+        684,
+        783,
+        733
+      ],
+      "confidence": 0.8085645437240601
+    },
+    {
+      "text": "Vs. saak.",
+      "bbox": [
+        647,
+        731,
+        758,
+        764
+      ],
+      "confidence": 0.8865234851837158
+    },
+    {
+      "text": "all cotten : exist stakly in mankut.",
+      "bbox": [
+        121,
+        759,
+        485,
+        791
+      ],
+      "confidence": 0.8357934355735779
+    }
+  ],
+  "full_text": "TAG 4/16/92.\nPress: Addtmal FullSealeTests dicussion-\nBrauningn (CpsC):\nDegpa : Ame oppatenity to disanss tch.mif:\nAgsud\nditrbute drost mnites:\nari fliw effects.\nag. hgitng proudine\nfakres\nmodprid CORESTA boc.\n/\nSchedule fa RondRokn\nrondrobw\nlcude prerpre RR.\nremale Ts cijts..\n2Comments to Deppa by 4/24 >falogof Meting \nGoold minutes distribuled to TAb for IufomationBuly\ndiscussion\n Meetingdisut on Agouda fo nest muting:\nNSTAisuals  atthd tone\n① Selection of substrate \n# Condtins regund is one! coned be moe. /pass/faige.\nVs. saak.\nall cotten : exist stakly in mankut."
+}

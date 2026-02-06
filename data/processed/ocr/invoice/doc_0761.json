@@ -1,0 +1,421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0761.png",
+    "image_width": 779,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJRIS AC2UNS PAYABLE VOOCHERY U011964",
+      "bbox": [
+        269,
+        218,
+        778,
+        249
+      ],
+      "confidence": 0.7598079442977905
+    },
+    {
+      "text": "RJRT",
+      "bbox": [
+        292,
+        238,
+        357,
+        266
+      ],
+      "confidence": 0.8959415555000305
+    },
+    {
+      "text": "RJRTSTRUCTIONS ON BACKOCTObEL29",
+      "bbox": [
+        290,
+        249,
+        770,
+        281
+      ],
+      "confidence": 0.8271674513816833
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        295,
+        292,
+        356,
+        309
+      ],
+      "confidence": 0.930031955242157
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        486,
+        322,
+        543,
+        344
+      ],
+      "confidence": 0.8951520919799805
+    },
+    {
+      "text": "K Mail to payee",
+      "bbox": [
+        308,
+        324,
+        411,
+        344
+      ],
+      "confidence": 0.7991480231285095
+    },
+    {
+      "text": "Ext.",
+      "bbox": [
+        692,
+        352,
+        729,
+        375
+      ],
+      "confidence": 0.9974096417427063
+    },
+    {
+      "text": "Return Name",
+      "bbox": [
+        297,
+        388,
+        417,
+        411
+      ],
+      "confidence": 0.9912585616111755
+    },
+    {
+      "text": "Dept. Name",
+      "bbox": [
+        567,
+        390,
+        639,
+        407
+      ],
+      "confidence": 0.9988259077072144
+    },
+    {
+      "text": "Bldg.",
+      "bbox": [
+        363,
+        424,
+        410,
+        447
+      ],
+      "confidence": 0.8308946490287781
+    },
+    {
+      "text": "Rm. No.",
+      "bbox": [
+        584,
+        420,
+        641,
+        443
+      ],
+      "confidence": 0.9942787289619446
+    },
+    {
+      "text": "Check to be dated Upon Contract Approval and available",
+      "bbox": [
+        278,
+        448,
+        657,
+        478
+      ],
+      "confidence": 0.966189980506897
+    },
+    {
+      "text": "Time",
+      "bbox": [
+        694,
+        465,
+        724,
+        480
+      ],
+      "confidence": 0.9957728385925293
+    },
+    {
+      "text": "ISSUE CHECK TO:",
+      "bbox": [
+        387,
+        481,
+        503,
+        501
+      ],
+      "confidence": 0.9838586449623108
+    },
+    {
+      "text": "CENTS",
+      "bbox": [
+        737,
+        491,
+        778,
+        506
+      ],
+      "confidence": 0.9971305727958679
+    },
+    {
+      "text": "The Mercado Group",
+      "bbox": [
+        333,
+        515,
+        477,
+        536
+      ],
+      "confidence": 0.987170398235321
+    },
+    {
+      "text": "2,500",
+      "bbox": [
+        638,
+        511,
+        689,
+        537
+      ],
+      "confidence": 0.9979187250137329
+    },
+    {
+      "text": "00",
+      "bbox": [
+        741,
+        512,
+        770,
+        532
+      ],
+      "confidence": 0.9854485988616943
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        281,
+        521,
+        321,
+        539
+      ],
+      "confidence": 0.9995822906494141
+    },
+    {
+      "text": "c/o Mr. Ed Salazar",
+      "bbox": [
+        334,
+        533,
+        491,
+        553
+      ],
+      "confidence": 0.992284893989563
+    },
+    {
+      "text": "Employee Account No. (if applicable)",
+      "bbox": [
+        282,
+        553,
+        498,
+        574
+      ],
+      "confidence": 0.9854424595832825
+    },
+    {
+      "text": "Address _",
+      "bbox": [
+        279,
+        581,
+        347,
+        607
+      ],
+      "confidence": 0.91234290599823
+    },
+    {
+      "text": "5521 10th Avenue",
+      "bbox": [
+        355,
+        579,
+        492,
+        600
+      ],
+      "confidence": 0.9881764054298401
+    },
+    {
+      "text": "State CA",
+      "bbox": [
+        484,
+        604,
+        595,
+        638
+      ],
+      "confidence": 0.9039902091026306
+    },
+    {
+      "text": "Zip 95820",
+      "bbox": [
+        642,
+        606,
+        737,
+        638
+      ],
+      "confidence": 0.9687502384185791
+    },
+    {
+      "text": "City_Sacramentg",
+      "bbox": [
+        277,
+        608,
+        440,
+        639
+      ],
+      "confidence": 0.948417603969574
+    },
+    {
+      "text": "Explanation: Sponsorship'of Concert at RadFsson Hotel on",
+      "bbox": [
+        275,
+        637,
+        728,
+        672
+      ],
+      "confidence": 0.9341669082641602
+    },
+    {
+      "text": "November 9, 1989",
+      "bbox": [
+        375,
+        675,
+        576,
+        703
+      ],
+      "confidence": 0.9508358240127563
+    },
+    {
+      "text": "C9344.-00",
+      "bbox": [
+        408,
+        702,
+        555,
+        732
+      ],
+      "confidence": 0.8956011533737183
+    },
+    {
+      "text": "Special Payment Information to appear on check stub:",
+      "bbox": [
+        285,
+        750,
+        591,
+        767
+      ],
+      "confidence": 0.9902321100234985
+    },
+    {
+      "text": "Related AR/AC/CA Number:",
+      "bbox": [
+        286,
+        806,
+        450,
+        827
+      ],
+      "confidence": 0.9986672401428223
+    },
+    {
+      "text": "G/L Account Code",
+      "bbox": [
+        282,
+        837,
+        395,
+        860
+      ],
+      "confidence": 0.9855259656906128
+    },
+    {
+      "text": "Other Required Code",
+      "bbox": [
+        468,
+        838,
+        594,
+        864
+      ],
+      "confidence": 0.9803321361541748
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        674,
+        846,
+        731,
+        867
+      ],
+      "confidence": 0.9994468092918396
+    },
+    {
+      "text": "04|73:4600 8390 B69",
+      "bbox": [
+        284,
+        858,
+        442,
+        882
+      ],
+      "confidence": 0.8581863045692444
+    },
+    {
+      "text": "_902102 041430",
+      "bbox": [
+        469,
+        862,
+        586,
+        885
+      ],
+      "confidence": 0.9385546445846558
+    },
+    {
+      "text": "$2,500.00",
+      "bbox": [
+        645,
+        866,
+        731,
+        890
+      ],
+      "confidence": 0.9942110776901245
+    },
+    {
+      "text": "W.$.Lindouist",
+      "bbox": [
+        307,
+        966,
+        431,
+        987
+      ],
+      "confidence": 0.9149796962738037
+    },
+    {
+      "text": "Approval Authority Name,",
+      "bbox": [
+        288,
+        982,
+        419,
+        1000
+      ],
+      "confidence": 0.9854984879493713
+    },
+    {
+      "text": "(Type or Print)",
+      "bbox": [
+        431,
+        988,
+        507,
+        1000
+      ],
+      "confidence": 0.974223792552948
+    },
+    {
+      "text": "Extn:",
+      "bbox": [
+        711,
+        983,
+        742,
+        999
+      ],
+      "confidence": 0.9642904996871948
+    }
+  ],
+  "full_text": "RJRIS AC2UNS PAYABLE VOOCHERY U011964\nRJRT\nRJRTSTRUCTIONS ON BACKOCTObEL29\nOTHER\nOther\nK Mail to payee\nExt.\nReturn Name\nDept. Name\nBldg.\nRm. No.\nCheck to be dated Upon Contract Approval and available\nTime\nISSUE CHECK TO:\nCENTS\nThe Mercado Group\n2,500\n00\nName\nc/o Mr. Ed Salazar\nEmployee Account No. (if applicable)\nAddress _\n5521 10th Avenue\nState CA\nZip 95820\nCity_Sacramentg\nExplanation: Sponsorship'of Concert at RadFsson Hotel on\nNovember 9, 1989\nC9344.-00\nSpecial Payment Information to appear on check stub:\nRelated AR/AC/CA Number:\nG/L Account Code\nOther Required Code\nAmount\n04|73:4600 8390 B69\n_902102 041430\n$2,500.00\nW.$.Lindouist\nApproval Authority Name,\n(Type or Print)\nExtn:"
+}

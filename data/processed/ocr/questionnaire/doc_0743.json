@@ -1,0 +1,781 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0743.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "HOME TESTING INSTITUTE",
+      "bbox": [
+        547,
+        186,
+        662,
+        201
+      ],
+      "confidence": 0.9984613060951233
+    },
+    {
+      "text": "3963",
+      "bbox": [
+        73,
+        200,
+        101,
+        215
+      ],
+      "confidence": 0.9451767206192017
+    },
+    {
+      "text": "Box 500",
+      "bbox": [
+        548,
+        201,
+        584,
+        212
+      ],
+      "confidence": 0.9885475039482117
+    },
+    {
+      "text": "576",
+      "bbox": [
+        73,
+        214,
+        95,
+        230
+      ],
+      "confidence": 0.9999372363090515
+    },
+    {
+      "text": "FILTER CIGARETTE REPORT FORM",
+      "bbox": [
+        260,
+        270,
+        430,
+        284
+      ],
+      "confidence": 0.9980287551879883
+    },
+    {
+      "text": "PART A",
+      "bbox": [
+        324,
+        300,
+        365,
+        316
+      ],
+      "confidence": 0.9662230610847473
+    },
+    {
+      "text": "To be Filled Out After You Have Smoked All Of The Q2T Cigorettes,",
+      "bbox": [
+        180,
+        319,
+        512,
+        333
+      ],
+      "confidence": 0.9578354358673096
+    },
+    {
+      "text": "Or At The End Or 3 Days",
+      "bbox": [
+        285,
+        330,
+        407,
+        343
+      ],
+      "confidence": 0.9770649075508118
+    },
+    {
+      "text": "Now that you have tried Cigarette Q21 , we would like you to tell us how you think they compare with other",
+      "bbox": [
+        69,
+        359,
+        600,
+        377
+      ],
+      "confidence": 0.9802184700965881
+    },
+    {
+      "text": "cigarettes you have tried in terms of three charocteristics. For eoch characteristic, simply check the box that",
+      "bbox": [
+        69,
+        371,
+        597,
+        389
+      ],
+      "confidence": 0.9557070136070251
+    },
+    {
+      "text": "comes closest to describing how you feel about Test Cigarette Q21.",
+      "bbox": [
+        69,
+        381,
+        402,
+        402
+      ],
+      "confidence": 0.9884986877441406
+    },
+    {
+      "text": "TASTE",
+      "bbox": [
+        66,
+        409,
+        105,
+        424
+      ],
+      "confidence": 0.9995098114013672
+    },
+    {
+      "text": "Poor",
+      "bbox": [
+        428,
+        442,
+        457,
+        460
+      ],
+      "confidence": 0.9811286926269531
+    },
+    {
+      "text": "Very Good",
+      "bbox": [
+        128,
+        447,
+        187,
+        465
+      ],
+      "confidence": 0.9995871782302856
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        235,
+        456,
+        268,
+        475
+      ],
+      "confidence": 0.9259292483329773
+    },
+    {
+      "text": "Good",
+      "bbox": [
+        237,
+        445,
+        270,
+        462
+      ],
+      "confidence": 0.9998295903205872
+    },
+    {
+      "text": "Averoge",
+      "bbox": [
+        326,
+        445,
+        369,
+        460
+      ],
+      "confidence": 0.999066948890686
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        332,
+        457,
+        362,
+        472
+      ],
+      "confidence": 0.9102245569229126
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        427,
+        457,
+        458,
+        472
+      ],
+      "confidence": 0.997469425201416
+    },
+    {
+      "text": "Very Poor",
+      "bbox": [
+        513,
+        445,
+        567,
+        462
+      ],
+      "confidence": 0.9990704655647278
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        142,
+        461,
+        172,
+        475
+      ],
+      "confidence": 0.9879002571105957
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        526,
+        460,
+        549,
+        472
+      ],
+      "confidence": 0.9903118014335632
+    },
+    {
+      "text": "MILDNESS",
+      "bbox": [
+        65,
+        479,
+        125,
+        493
+      ],
+      "confidence": 0.9993616342544556
+    },
+    {
+      "text": "Very Mild",
+      "bbox": [
+        125,
+        514,
+        182,
+        532
+      ],
+      "confidence": 0.9942046403884888
+    },
+    {
+      "text": "PIIW",
+      "bbox": [
+        236,
+        513,
+        264,
+        529
+      ],
+      "confidence": 0.8326593041419983
+    },
+    {
+      "text": "Averoge Mildness",
+      "bbox": [
+        303,
+        511,
+        393,
+        528
+      ],
+      "confidence": 0.9810903668403625
+    },
+    {
+      "text": "Strong",
+      "bbox": [
+        423,
+        511,
+        461,
+        529
+      ],
+      "confidence": 0.9955551028251648
+    },
+    {
+      "text": "Very Strong",
+      "bbox": [
+        506,
+        511,
+        570,
+        529
+      ],
+      "confidence": 0.9965341687202454
+    },
+    {
+      "text": "OVERALL",
+      "bbox": [
+        64,
+        533,
+        119,
+        550
+      ],
+      "confidence": 0.9989930987358093
+    },
+    {
+      "text": "D",
+      "bbox": [
+        532,
+        549,
+        548,
+        562
+      ],
+      "confidence": 0.6205976605415344
+    },
+    {
+      "text": "Very Much",
+      "bbox": [
+        123,
+        576,
+        185,
+        597
+      ],
+      "confidence": 0.9435819983482361
+    },
+    {
+      "text": "Like It",
+      "bbox": [
+        137,
+        566,
+        177,
+        584
+      ],
+      "confidence": 0.9878441095352173
+    },
+    {
+      "text": "Fairly Well",
+      "bbox": [
+        222,
+        577,
+        282,
+        594
+      ],
+      "confidence": 0.9917400479316711
+    },
+    {
+      "text": "Like It",
+      "bbox": [
+        232,
+        565,
+        272,
+        583
+      ],
+      "confidence": 0.9913951754570007
+    },
+    {
+      "text": "It's Just",
+      "bbox": [
+        326,
+        565,
+        371,
+        583
+      ],
+      "confidence": 0.9453420639038086
+    },
+    {
+      "text": "Don't Like It",
+      "bbox": [
+        410,
+        565,
+        480,
+        582
+      ],
+      "confidence": 0.9948463439941406
+    },
+    {
+      "text": "Very Much",
+      "bbox": [
+        415,
+        577,
+        473,
+        594
+      ],
+      "confidence": 0.987708330154419
+    },
+    {
+      "text": "Don't Like It",
+      "bbox": [
+        506,
+        565,
+        576,
+        582
+      ],
+      "confidence": 0.9956513047218323
+    },
+    {
+      "text": "OK",
+      "bbox": [
+        339,
+        578,
+        363,
+        594
+      ],
+      "confidence": 0.9963071346282959
+    },
+    {
+      "text": "At All",
+      "bbox": [
+        520,
+        578,
+        557,
+        593
+      ],
+      "confidence": 0.9888896942138672
+    },
+    {
+      "text": "PART B",
+      "bbox": [
+        323,
+        654,
+        368,
+        672
+      ],
+      "confidence": 0.8722109794616699
+    },
+    {
+      "text": "To Be Filled Out Aiter You Have Smoked All Of The G56 Cigarettes,",
+      "bbox": [
+        174,
+        674,
+        513,
+        688
+      ],
+      "confidence": 0.9477468132972717
+    },
+    {
+      "text": "Or At The End Of 3 Days",
+      "bbox": [
+        286,
+        685,
+        408,
+        700
+      ],
+      "confidence": 0.9948620200157166
+    },
+    {
+      "text": "\"Now that you have tried Cigarette G56 , we would like you to tell lus how you think they compare with other",
+      "bbox": [
+        68,
+        711,
+        603,
+        733
+      ],
+      "confidence": 0.9786801934242249
+    },
+    {
+      "text": "clgarettes you have tried in terms of three characteristics. For each characteristic, simply check the bax that",
+      "bbox": [
+        69,
+        722,
+        600,
+        746
+      ],
+      "confidence": 0.9368715882301331
+    },
+    {
+      "text": "comes closest to describing how you feel about Test Cigarette G56.",
+      "bbox": [
+        70,
+        736,
+        403,
+        758
+      ],
+      "confidence": 0.9705953001976013
+    },
+    {
+      "text": "TASTE",
+      "bbox": [
+        67,
+        765,
+        107,
+        783
+      ],
+      "confidence": 0.9996563196182251
+    },
+    {
+      "text": "B",
+      "bbox": [
+        433,
+        777,
+        452,
+        794
+      ],
+      "confidence": 0.6146113872528076
+    },
+    {
+      "text": "1002479418",
+      "bbox": [
+        700,
+        785,
+        745,
+        947
+      ],
+      "confidence": 0.999902069568634
+    },
+    {
+      "text": "Very Good",
+      "bbox": [
+        127,
+        798,
+        188,
+        819
+      ],
+      "confidence": 0.9791205525398254
+    },
+    {
+      "text": "Good",
+      "bbox": [
+        238,
+        799,
+        270,
+        815
+      ],
+      "confidence": 0.9999327659606934
+    },
+    {
+      "text": "Averoge",
+      "bbox": [
+        323,
+        795,
+        372,
+        816
+      ],
+      "confidence": 0.9987148642539978
+    },
+    {
+      "text": "Poor",
+      "bbox": [
+        426,
+        795,
+        457,
+        811
+      ],
+      "confidence": 0.9204555749893188
+    },
+    {
+      "text": "Very Poor",
+      "bbox": [
+        512,
+        794,
+        567,
+        811
+      ],
+      "confidence": 0.999573826789856
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        138,
+        815,
+        174,
+        830
+      ],
+      "confidence": 0.9955880045890808
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        238,
+        812,
+        268,
+        828
+      ],
+      "confidence": 0.9515933990478516
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        331,
+        807,
+        366,
+        826
+      ],
+      "confidence": 0.8837176561355591
+    },
+    {
+      "text": "Taste",
+      "bbox": [
+        426,
+        807,
+        457,
+        824
+      ],
+      "confidence": 0.9856799244880676
+    },
+    {
+      "text": "Tgste",
+      "bbox": [
+        522,
+        806,
+        555,
+        825
+      ],
+      "confidence": 0.7996228933334351
+    },
+    {
+      "text": "MILDNESS",
+      "bbox": [
+        67,
+        832,
+        127,
+        850
+      ],
+      "confidence": 0.998119592666626
+    },
+    {
+      "text": "Strong",
+      "bbox": [
+        422,
+        861,
+        460,
+        879
+      ],
+      "confidence": 0.9741830825805664
+    },
+    {
+      "text": "Very Strong",
+      "bbox": [
+        505,
+        859,
+        569,
+        880
+      ],
+      "confidence": 0.9854223132133484
+    },
+    {
+      "text": "Very Mild",
+      "bbox": [
+        126,
+        867,
+        187,
+        886
+      ],
+      "confidence": 0.9990214109420776
+    },
+    {
+      "text": "Mild",
+      "bbox": [
+        238,
+        866,
+        267,
+        882
+      ],
+      "confidence": 0.9934546947479248
+    },
+    {
+      "text": "Averoge Mildness",
+      "bbox": [
+        304,
+        863,
+        391,
+        880
+      ],
+      "confidence": 0.9936296939849854
+    },
+    {
+      "text": "OVERALL",
+      "bbox": [
+        70,
+        888,
+        121,
+        902
+      ],
+      "confidence": 0.9992895126342773
+    },
+    {
+      "text": "Like It",
+      "bbox": [
+        140,
+        921,
+        178,
+        936
+      ],
+      "confidence": 0.9962501525878906
+    },
+    {
+      "text": "Like It",
+      "bbox": [
+        237,
+        919,
+        277,
+        934
+      ],
+      "confidence": 0.9855925440788269
+    },
+    {
+      "text": "It's Just",
+      "bbox": [
+        326,
+        916,
+        368,
+        931
+      ],
+      "confidence": 0.9723780751228333
+    },
+    {
+      "text": "Don't Like It",
+      "bbox": [
+        409,
+        912,
+        476,
+        929
+      ],
+      "confidence": 0.9924797415733337
+    },
+    {
+      "text": "Don't Like It",
+      "bbox": [
+        506,
+        911,
+        572,
+        928
+      ],
+      "confidence": 0.9958629012107849
+    },
+    {
+      "text": "Very Much",
+      "bbox": [
+        128,
+        930,
+        190,
+        951
+      ],
+      "confidence": 0.9554353356361389
+    },
+    {
+      "text": "Foirly Well",
+      "bbox": [
+        223,
+        928,
+        285,
+        948
+      ],
+      "confidence": 0.8990411162376404
+    },
+    {
+      "text": "OK",
+      "bbox": [
+        339,
+        928,
+        363,
+        944
+      ],
+      "confidence": 0.9937750101089478
+    },
+    {
+      "text": "Very Much",
+      "bbox": [
+        411,
+        924,
+        471,
+        943
+      ],
+      "confidence": 0.8916062116622925
+    },
+    {
+      "text": "At All",
+      "bbox": [
+        518,
+        924,
+        554,
+        940
+      ],
+      "confidence": 0.9444540143013
+    },
+    {
+      "text": "PLFASE KEEP THIS REPORT FORM HANDY UNTIL WE TELEPHONF YOU",
+      "bbox": [
+        149,
+        951,
+        531,
+        980
+      ],
+      "confidence": 0.9827548861503601
+    }
+  ],
+  "full_text": "HOME TESTING INSTITUTE\n3963\nBox 500\n576\nFILTER CIGARETTE REPORT FORM\nPART A\nTo be Filled Out After You Have Smoked All Of The Q2T Cigorettes,\nOr At The End Or 3 Days\nNow that you have tried Cigarette Q21 , we would like you to tell us how you think they compare with other\ncigarettes you have tried in terms of three charocteristics. For eoch characteristic, simply check the box that\ncomes closest to describing how you feel about Test Cigarette Q21.\nTASTE\nPoor\nVery Good\nTaste\nGood\nAveroge\nTaste\nTaste\nVery Poor\nTaste\nTaste\nMILDNESS\nVery Mild\nPIIW\nAveroge Mildness\nStrong\nVery Strong\nOVERALL\nD\nVery Much\nLike It\nFairly Well\nLike It\nIt's Just\nDon't Like It\nVery Much\nDon't Like It\nOK\nAt All\nPART B\nTo Be Filled Out Aiter You Have Smoked All Of The G56 Cigarettes,\nOr At The End Of 3 Days\n\"Now that you have tried Cigarette G56 , we would like you to tell lus how you think they compare with other\nclgarettes you have tried in terms of three characteristics. For each characteristic, simply check the bax that\ncomes closest to describing how you feel about Test Cigarette G56.\nTASTE\nB\n1002479418\nVery Good\nGood\nAveroge\nPoor\nVery Poor\nTaste\nTaste\nTaste\nTaste\nTgste\nMILDNESS\nStrong\nVery Strong\nVery Mild\nMild\nAveroge Mildness\nOVERALL\nLike It\nLike It\nIt's Just\nDon't Like It\nDon't Like It\nVery Much\nFoirly Well\nOK\nVery Much\nAt All\nPLFASE KEEP THIS REPORT FORM HANDY UNTIL WE TELEPHONF YOU"
+}

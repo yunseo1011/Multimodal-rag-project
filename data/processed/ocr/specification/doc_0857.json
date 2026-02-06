@@ -1,0 +1,431 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0857.png",
+    "image_width": 776,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "nalytical information (detafled)",
+      "bbox": [
+        19,
+        12,
+        276,
+        37
+      ],
+      "confidence": 0.9828083515167236
+    },
+    {
+      "text": "Smoke",
+      "bbox": [
+        343,
+        10,
+        393,
+        32
+      ],
+      "confidence": 0.9733675718307495
+    },
+    {
+      "text": "Green",
+      "bbox": [
+        420,
+        13,
+        469,
+        32
+      ],
+      "confidence": 0.9805399775505066
+    },
+    {
+      "text": "Cured",
+      "bbox": [
+        498,
+        15,
+        543,
+        34
+      ],
+      "confidence": 0.9994912147521973
+    },
+    {
+      "text": "Non-Leaf",
+      "bbox": [
+        565,
+        16,
+        640,
+        38
+      ],
+      "confidence": 0.9983689188957214
+    },
+    {
+      "text": "Itemize:",
+      "bbox": [
+        572,
+        33,
+        640,
+        54
+      ],
+      "confidence": 0.9975032806396484
+    },
+    {
+      "text": "antitative (all figures)",
+      "bbox": [
+        31,
+        149,
+        213,
+        163
+      ],
+      "confidence": 0.9975206255912781
+    },
+    {
+      "text": "Control) Ammialted",
+      "bbox": [
+        66,
+        155,
+        253,
+        204
+      ],
+      "confidence": 0.6316908597946167
+    },
+    {
+      "text": "Qualitative only",
+      "bbox": [
+        563,
+        144,
+        695,
+        163
+      ],
+      "confidence": 0.9983035922050476
+    },
+    {
+      "text": "C",
+      "bbox": [
+        260,
+        160,
+        279,
+        177
+      ],
+      "confidence": 0.6709637641906738
+    },
+    {
+      "text": "snicotingel",
+      "bbox": [
+        316,
+        158,
+        447,
+        200
+      ],
+      "confidence": 0.7042430639266968
+    },
+    {
+      "text": "Quoteints or Semi-quant.",
+      "bbox": [
+        488,
+        159,
+        678,
+        180
+      ],
+      "confidence": 0.99673992395401
+    },
+    {
+      "text": "y/ig.0.8",
+      "bbox": [
+        24,
+        205,
+        120,
+        250
+      ],
+      "confidence": 0.8388285636901855
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        157,
+        215,
+        203,
+        248
+      ],
+      "confidence": 0.9935620427131653
+    },
+    {
+      "text": "0.7 1.2",
+      "bbox": [
+        247,
+        206,
+        414,
+        251
+      ],
+      "confidence": 0.9688118696212769
+    },
+    {
+      "text": "rictural Formula",
+      "bbox": [
+        29,
+        252,
+        156,
+        273
+      ],
+      "confidence": 0.9836490750312805
+    },
+    {
+      "text": "Mol. Form",
+      "bbox": [
+        307,
+        252,
+        384,
+        271
+      ],
+      "confidence": 0.948024332523346
+    },
+    {
+      "text": "Mol. Weight",
+      "bbox": [
+        303,
+        282,
+        399,
+        308
+      ],
+      "confidence": 0.9529260993003845
+    },
+    {
+      "text": "M. P.",
+      "bbox": [
+        507,
+        284,
+        552,
+        303
+      ],
+      "confidence": 0.9332545399665833
+    },
+    {
+      "text": "Chem. Groups",
+      "bbox": [
+        296,
+        318,
+        406,
+        338
+      ],
+      "confidence": 0.9994961619377136
+    },
+    {
+      "text": "Derivatives",
+      "bbox": [
+        509,
+        318,
+        599,
+        336
+      ],
+      "confidence": 0.9998653531074524
+    },
+    {
+      "text": "pes of Tobacco (all details)",
+      "bbox": [
+        23,
+        396,
+        243,
+        413
+      ],
+      "confidence": 0.9717479348182678
+    },
+    {
+      "text": "Ueniton C7 blind (L-12223A",
+      "bbox": [
+        114,
+        407,
+        425,
+        437
+      ],
+      "confidence": 0.7177594900131226
+    },
+    {
+      "text": "Hinotn C9 blnd anmoniated (2- 12223B)",
+      "bbox": [
+        110,
+        427,
+        576,
+        458
+      ],
+      "confidence": 0.7278046607971191
+    },
+    {
+      "text": "Huniton CF Flend eteamed L-12223C",
+      "bbox": [
+        110,
+        452,
+        492,
+        478
+      ],
+      "confidence": 0.6967830061912537
+    },
+    {
+      "text": "Muristen C7blend denicotiniged (2-12223s",
+      "bbox": [
+        110,
+        468,
+        564,
+        495
+      ],
+      "confidence": 0.7828191518783569
+    },
+    {
+      "text": "ox.-Pharm. Inform. and other Notes",
+      "bbox": [
+        18,
+        484,
+        292,
+        504
+      ],
+      "confidence": 0.8987798690795898
+    },
+    {
+      "text": "erence",
+      "bbox": [
+        14,
+        599,
+        77,
+        617
+      ],
+      "confidence": 0.9940857291221619
+    },
+    {
+      "text": "PDR",
+      "bbox": [
+        218,
+        619,
+        253,
+        641
+      ],
+      "confidence": 0.8353877067565918
+    },
+    {
+      "text": "Green, Charles R.",
+      "bbox": [
+        275,
+        621,
+        415,
+        642
+      ],
+      "confidence": 0.9769813418388367
+    },
+    {
+      "text": "8",
+      "bbox": [
+        220,
+        637,
+        234,
+        653
+      ],
+      "confidence": 0.9998955726623535
+    },
+    {
+      "text": "EFFECTS OF STEAMING, AMMONIATION AND",
+      "bbox": [
+        291,
+        638,
+        586,
+        659
+      ],
+      "confidence": 0.9829127192497253
+    },
+    {
+      "text": "1978",
+      "bbox": [
+        219,
+        654,
+        259,
+        672
+      ],
+      "confidence": 0.9998440146446228
+    },
+    {
+      "text": "DENICOTINIZATION ON FLUE-CURED TOBACCO",
+      "bbox": [
+        275,
+        655,
+        586,
+        675
+      ],
+      "confidence": 0.989651620388031
+    },
+    {
+      "text": "AND SMOKE COMPOSITION, by ChaRles R.",
+      "bbox": [
+        275,
+        671,
+        569,
+        692
+      ],
+      "confidence": 0.9280880689620972
+    },
+    {
+      "text": "Green, Charles W. Miller, and Mari-Jo D.",
+      "bbox": [
+        274,
+        686,
+        602,
+        710
+      ],
+      "confidence": 0.9938596487045288
+    },
+    {
+      "text": "Wellace.",
+      "bbox": [
+        274,
+        703,
+        344,
+        725
+      ],
+      "confidence": 0.8389379978179932
+    },
+    {
+      "text": "RDR, 1978, No. 8",
+      "bbox": [
+        276,
+        737,
+        409,
+        754
+      ],
+      "confidence": 0.9881694316864014
+    },
+    {
+      "text": "Nov. 22, 1978, 71 p.",
+      "bbox": [
+        422,
+        735,
+        592,
+        758
+      ],
+      "confidence": 0.9764510989189148
+    },
+    {
+      "text": "liography:",
+      "bbox": [
+        33,
+        854,
+        115,
+        868
+      ],
+      "confidence": 0.979806125164032
+    },
+    {
+      "text": "there is not sufficient space avnilable for any of the categorics, use reverse side,",
+      "bbox": [
+        31,
+        865,
+        702,
+        888
+      ],
+      "confidence": 0.9820390343666077
+    },
+    {
+      "text": "cnch constituent and do so in index style.",
+      "bbox": [
+        40,
+        899,
+        367,
+        915
+      ],
+      "confidence": 0.9376944303512573
+    }
+  ],
+  "full_text": "nalytical information (detafled)\nSmoke\nGreen\nCured\nNon-Leaf\nItemize:\nantitative (all figures)\nControl) Ammialted\nQualitative only\nC\nsnicotingel\nQuoteints or Semi-quant.\ny/ig.0.8\n1.0\n0.7 1.2\nrictural Formula\nMol. Form\nMol. Weight\nM. P.\nChem. Groups\nDerivatives\npes of Tobacco (all details)\nUeniton C7 blind (L-12223A\nHinotn C9 blnd anmoniated (2- 12223B)\nHuniton CF Flend eteamed L-12223C\nMuristen C7blend denicotiniged (2-12223s\nox.-Pharm. Inform. and other Notes\nerence\nPDR\nGreen, Charles R.\n8\nEFFECTS OF STEAMING, AMMONIATION AND\n1978\nDENICOTINIZATION ON FLUE-CURED TOBACCO\nAND SMOKE COMPOSITION, by ChaRles R.\nGreen, Charles W. Miller, and Mari-Jo D.\nWellace.\nRDR, 1978, No. 8\nNov. 22, 1978, 71 p.\nliography:\nthere is not sufficient space avnilable for any of the categorics, use reverse side,\ncnch constituent and do so in index style."
+}

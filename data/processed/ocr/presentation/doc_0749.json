@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0749.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MARLBORO IMAGE",
+      "bbox": [
+        377,
+        234,
+        542,
+        266
+      ],
+      "confidence": 0.9973694086074829
+    },
+    {
+      "text": "RISK STUDY",
+      "bbox": [
+        401,
+        282,
+        523,
+        314
+      ],
+      "confidence": 0.9879940152168274
+    },
+    {
+      "text": "OCTOBER, 1990",
+      "bbox": [
+        747,
+        560,
+        754,
+        594
+      ],
+      "confidence": 0.9801148176193237
+    },
+    {
+      "text": "2070197728",
+      "bbox": [
+        55,
+        706,
+        160,
+        734
+      ],
+      "confidence": 0.9999154806137085
+    }
+  ],
+  "full_text": "MARLBORO IMAGE\nRISK STUDY\nOCTOBER, 1990\n2070197728"
+}

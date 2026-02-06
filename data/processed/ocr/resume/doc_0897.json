@@ -1,0 +1,521 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0897.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        254,
+        56,
+        430,
+        79
+      ],
+      "confidence": 0.9990116953849792
+    },
+    {
+      "text": "VERNON ROBERT YOUNG",
+      "bbox": [
+        82,
+        100,
+        290,
+        124
+      ],
+      "confidence": 0.9859404563903809
+    },
+    {
+      "text": "Bord:",
+      "bbox": [
+        82,
+        141,
+        131,
+        163
+      ],
+      "confidence": 0.8774919509887695
+    },
+    {
+      "text": "Rhyl, North Wales, 15 November 1937",
+      "bbox": [
+        213,
+        135,
+        514,
+        158
+      ],
+      "confidence": 0.997941792011261
+    },
+    {
+      "text": "United Kingdom",
+      "bbox": [
+        212,
+        172,
+        342,
+        193
+      ],
+      "confidence": 0.9993172287940979
+    },
+    {
+      "text": "Citizenship:",
+      "bbox": [
+        82,
+        173,
+        173,
+        197
+      ],
+      "confidence": 0.9989297389984131
+    },
+    {
+      "text": "Visa Status:",
+      "bbox": [
+        83,
+        211,
+        175,
+        229
+      ],
+      "confidence": 0.9943696856498718
+    },
+    {
+      "text": "Permanent resident",
+      "bbox": [
+        211,
+        207,
+        370,
+        226
+      ],
+      "confidence": 0.9994573593139648
+    },
+    {
+      "text": "Married:",
+      "bbox": [
+        82,
+        244,
+        154,
+        265
+      ],
+      "confidence": 0.9900934100151062
+    },
+    {
+      "text": "Janice Maria Harrington, 10 September 1966",
+      "bbox": [
+        213,
+        243,
+        558,
+        260
+      ],
+      "confidence": 0.987196683883667
+    },
+    {
+      "text": "Children:",
+      "bbox": [
+        83,
+        276,
+        153,
+        298
+      ],
+      "confidence": 0.9421055912971497
+    },
+    {
+      "text": "Christopher Robert, 20 June 1967; Patricia Marie, 23",
+      "bbox": [
+        211,
+        274,
+        622,
+        297
+      ],
+      "confidence": 0.9869895577430725
+    },
+    {
+      "text": "February 1969: Andrew James, 30 July 1970; Michael",
+      "bbox": [
+        210,
+        291,
+        621,
+        316
+      ],
+      "confidence": 0.9665507674217224
+    },
+    {
+      "text": "Vernon, 8 April 1973; and Richard Keith, 25 June 1975.",
+      "bbox": [
+        210,
+        308,
+        632,
+        333
+      ],
+      "confidence": 0.9792385101318359
+    },
+    {
+      "text": "University Education:",
+      "bbox": [
+        84,
+        355,
+        245,
+        372
+      ],
+      "confidence": 0.9986552000045776
+    },
+    {
+      "text": "University of Reading, Englind",
+      "bbox": [
+        84,
+        380,
+        313,
+        397
+      ],
+      "confidence": 0.9754264950752258
+    },
+    {
+      "text": "October 1956-July 1959",
+      "bbox": [
+        419,
+        378,
+        597,
+        402
+      ],
+      "confidence": 0.9942895770072937
+    },
+    {
+      "text": "Degree: B.Sc (Agric.)",
+      "bbox": [
+        84,
+        397,
+        249,
+        414
+      ],
+      "confidence": 0.9887921214103699
+    },
+    {
+      "text": "Emphasis: Animal Production",
+      "bbox": [
+        418,
+        396,
+        641,
+        420
+      ],
+      "confidence": 0.9768063426017761
+    },
+    {
+      "text": "University of Cambridge, England",
+      "bbox": [
+        82,
+        421,
+        334,
+        439
+      ],
+      "confidence": 0.985081672668457
+    },
+    {
+      "text": "Septermber 1959-July 1960",
+      "bbox": [
+        417,
+        421,
+        613,
+        445
+      ],
+      "confidence": 0.9871818423271179
+    },
+    {
+      "text": "Degree: Post Grad. Dip. Agric.",
+      "bbox": [
+        82,
+        440,
+        317,
+        457
+      ],
+      "confidence": 0.9969073534011841
+    },
+    {
+      "text": "Specialized in Animal Nutrition",
+      "bbox": [
+        417,
+        440,
+        647,
+        462
+      ],
+      "confidence": 0.983416736125946
+    },
+    {
+      "text": "and Physiology",
+      "bbox": [
+        455,
+        457,
+        568,
+        480
+      ],
+      "confidence": 0.9976400136947632
+    },
+    {
+      "text": "University of California/Davis",
+      "bbox": [
+        81,
+        479,
+        307,
+        498
+      ],
+      "confidence": 0.9982467889785767
+    },
+    {
+      "text": "September 1960-December 1964",
+      "bbox": [
+        407,
+        482,
+        652,
+        504
+      ],
+      "confidence": 0.9692038893699646
+    },
+    {
+      "text": "Degree: Ph. D. (Nutrition)",
+      "bbox": [
+        81,
+        497,
+        273,
+        516
+      ],
+      "confidence": 0.9754583835601807
+    },
+    {
+      "text": "Mihor' Biochemistry and",
+      "bbox": [
+        415,
+        501,
+        615,
+        521
+      ],
+      "confidence": 0.9610931277275085
+    },
+    {
+      "text": "Physiology-1965",
+      "bbox": [
+        454,
+        518,
+        578,
+        538
+      ],
+      "confidence": 0.9992808699607849
+    },
+    {
+      "text": "Acadernic Honors and Positions:",
+      "bbox": [
+        79,
+        541,
+        317,
+        555
+      ],
+      "confidence": 0.9404601454734802
+    },
+    {
+      "text": "Major County Scholarship for three years' undergraduate study",
+      "bbox": [
+        119,
+        560,
+        593,
+        589
+      ],
+      "confidence": 0.9971638321876526
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        79,
+        564,
+        99,
+        583
+      ],
+      "confidence": 0.9908795356750488
+    },
+    {
+      "text": "at the University of Reading.",
+      "bbox": [
+        121,
+        583,
+        335,
+        600
+      ],
+      "confidence": 0.9573267102241516
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        76,
+        615,
+        98,
+        633
+      ],
+      "confidence": 0.9980154633522034
+    },
+    {
+      "text": "Ministry of Agriculture, Fish and Food Post-Graduate Fellowship",
+      "bbox": [
+        118,
+        613,
+        609,
+        638
+      ],
+      "confidence": 0.9877393841743469
+    },
+    {
+      "text": "for one year's study at the University of Cambridge.",
+      "bbox": [
+        117,
+        631,
+        507,
+        654
+      ],
+      "confidence": 0.9903135895729065
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        76,
+        666,
+        94,
+        684
+      ],
+      "confidence": 0.9981494545936584
+    },
+    {
+      "text": "University of California/Davis:",
+      "bbox": [
+        118,
+        665,
+        352,
+        683
+      ],
+      "confidence": 0.9985849857330322
+    },
+    {
+      "text": "Research Assistantship. September 1960-August 1961",
+      "bbox": [
+        117,
+        681,
+        516,
+        703
+      ],
+      "confidence": 0.9927101135253906
+    },
+    {
+      "text": "Teaching Assistantship, September 196l-August 1962",
+      "bbox": [
+        119,
+        701,
+        512,
+        718
+      ],
+      "confidence": 0.9941357374191284
+    },
+    {
+      "text": "Research Fellowship, September 1962-August 1963",
+      "bbox": [
+        118,
+        717,
+        499,
+        734
+      ],
+      "confidence": 0.9877979159355164
+    },
+    {
+      "text": "EE Brownell Research Fellowship, September 1963-August 1964",
+      "bbox": [
+        117,
+        733,
+        595,
+        751
+      ],
+      "confidence": 0.9852727651596069
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        77,
+        767,
+        92,
+        781
+      ],
+      "confidence": 0.999120831489563
+    },
+    {
+      "text": "Special Travel Award, Cardiff Education Committee, for travel",
+      "bbox": [
+        116,
+        765,
+        585,
+        783
+      ],
+      "confidence": 0.9933610558509827
+    },
+    {
+      "text": "to America.",
+      "bbox": [
+        118,
+        783,
+        205,
+        797
+      ],
+      "confidence": 0.9544830322265625
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        74,
+        814,
+        92,
+        832
+      ],
+      "confidence": 0.9989951252937317
+    },
+    {
+      "text": "Mead Johnson Award - Recipient in 1973 (American Institute of Nutrition)",
+      "bbox": [
+        115,
+        812,
+        652,
+        835
+      ],
+      "confidence": 0.9827041625976562
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        75,
+        844,
+        93,
+        862
+      ],
+      "confidence": 0.9960910081863403
+    },
+    {
+      "text": "Post-Doctoral Research Associate, Department of Nutrition and Food",
+      "bbox": [
+        115,
+        844,
+        627,
+        868
+      ],
+      "confidence": 0.9902039766311646
+    },
+    {
+      "text": "Science, Massachusetts Institute of Technology, Cambridge, Massachusetts.",
+      "bbox": [
+        116,
+        860,
+        672,
+        885
+      ],
+      "confidence": 0.9855114817619324
+    },
+    {
+      "text": "December 1964-July 1965.",
+      "bbox": [
+        118,
+        877,
+        311,
+        897
+      ],
+      "confidence": 0.9898216128349304
+    }
+  ],
+  "full_text": "CURRICULUM VITAE\nVERNON ROBERT YOUNG\nBord:\nRhyl, North Wales, 15 November 1937\nUnited Kingdom\nCitizenship:\nVisa Status:\nPermanent resident\nMarried:\nJanice Maria Harrington, 10 September 1966\nChildren:\nChristopher Robert, 20 June 1967; Patricia Marie, 23\nFebruary 1969: Andrew James, 30 July 1970; Michael\nVernon, 8 April 1973; and Richard Keith, 25 June 1975.\nUniversity Education:\nUniversity of Reading, Englind\nOctober 1956-July 1959\nDegree: B.Sc (Agric.)\nEmphasis: Animal Production\nUniversity of Cambridge, England\nSeptermber 1959-July 1960\nDegree: Post Grad. Dip. Agric.\nSpecialized in Animal Nutrition\nand Physiology\nUniversity of California/Davis\nSeptember 1960-December 1964\nDegree: Ph. D. (Nutrition)\nMihor' Biochemistry and\nPhysiology-1965\nAcadernic Honors and Positions:\nMajor County Scholarship for three years' undergraduate study\n1.\nat the University of Reading.\n2.\nMinistry of Agriculture, Fish and Food Post-Graduate Fellowship\nfor one year's study at the University of Cambridge.\n3.\nUniversity of California/Davis:\nResearch Assistantship. September 1960-August 1961\nTeaching Assistantship, September 196l-August 1962\nResearch Fellowship, September 1962-August 1963\nEE Brownell Research Fellowship, September 1963-August 1964\n4.\nSpecial Travel Award, Cardiff Education Committee, for travel\nto America.\n5.\nMead Johnson Award - Recipient in 1973 (American Institute of Nutrition)\n6.\nPost-Doctoral Research Associate, Department of Nutrition and Food\nScience, Massachusetts Institute of Technology, Cambridge, Massachusetts.\nDecember 1964-July 1965."
+}

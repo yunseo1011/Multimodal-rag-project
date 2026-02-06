@@ -1,0 +1,411 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0374.png",
+    "image_width": 807,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FORSYTH TOBACCO PRODUCTS",
+      "bbox": [
+        300,
+        66,
+        505,
+        87
+      ],
+      "confidence": 0.9957053065299988
+    },
+    {
+      "text": "(A Division of R. J. Reynolds Tobacco Company)",
+      "bbox": [
+        210,
+        81,
+        595,
+        106
+      ],
+      "confidence": 0.9964486956596375
+    },
+    {
+      "text": "RETAIL",
+      "bbox": [
+        126,
+        148,
+        225,
+        167
+      ],
+      "confidence": 0.9991914629936218
+    },
+    {
+      "text": "FEATURE",
+      "bbox": [
+        248,
+        146,
+        366,
+        166
+      ],
+      "confidence": 0.9995293021202087
+    },
+    {
+      "text": "PROMOTION",
+      "bbox": [
+        389,
+        145,
+        544,
+        163
+      ],
+      "confidence": 0.9888436198234558
+    },
+    {
+      "text": "PROGRAM",
+      "bbox": [
+        566,
+        145,
+        681,
+        162
+      ],
+      "confidence": 0.9902663826942444
+    },
+    {
+      "text": "PLAN B",
+      "bbox": [
+        375,
+        162,
+        432,
+        179
+      ],
+      "confidence": 0.9982380867004395
+    },
+    {
+      "text": "Forsyth Tobacco'Products Retail Promotion Program provides an allowance for",
+      "bbox": [
+        109,
+        203,
+        737,
+        230
+      ],
+      "confidence": 0.9884431958198547
+    },
+    {
+      "text": "Retailers that promote Forsyth's black and white and private label cigarettes by",
+      "bbox": [
+        64,
+        218,
+        738,
+        246
+      ],
+      "confidence": 0.979493260383606
+    },
+    {
+      "text": "effectively communicating price information to the consumer and effectively",
+      "bbox": [
+        67,
+        236,
+        697,
+        260
+      ],
+      "confidence": 0.9936525225639343
+    },
+    {
+      "text": "positioning such cigarettes in the retail store. Terms and conditions for",
+      "bbox": [
+        67,
+        250,
+        690,
+        276
+      ],
+      "confidence": 0.9942221641540527
+    },
+    {
+      "text": "participation in the program and qualification for payment are specified below.",
+      "bbox": [
+        66,
+        267,
+        727,
+        291
+      ],
+      "confidence": 0.9898706078529358
+    },
+    {
+      "text": "Forsyth Tobacco Products will pay a qualifying Retailer $.50 per carton for",
+      "bbox": [
+        109,
+        299,
+        738,
+        322
+      ],
+      "confidence": 0.991422712802887
+    },
+    {
+      "text": "each carton of Forsyth's black and white and private label cigarettes purchased",
+      "bbox": [
+        67,
+        314,
+        730,
+        338
+      ],
+      "confidence": 0.9847306609153748
+    },
+    {
+      "text": "by Retailer for resale to consumers. Payments will be made after the end of",
+      "bbox": [
+        67,
+        332,
+        706,
+        354
+      ],
+      "confidence": 0.9922577142715454
+    },
+    {
+      "text": "each calendar quarter.",
+      "bbox": [
+        69,
+        354,
+        251,
+        368
+      ],
+      "confidence": 0.9997117519378662
+    },
+    {
+      "text": "Terms and Conditions",
+      "bbox": [
+        109,
+        383,
+        279,
+        401
+      ],
+      "confidence": 0.9977229833602905
+    },
+    {
+      "text": "Retailer must: (a) feature in the retail store consumer price information",
+      "bbox": [
+        107,
+        411,
+        740,
+        433
+      ],
+      "confidence": 0.9825051426887512
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        67,
+        415,
+        89,
+        432
+      ],
+      "confidence": 0.996231198310852
+    },
+    {
+      "text": "preferred, advantageous in-store position. Price information and product",
+      "bbox": [
+        108,
+        442,
+        731,
+        467
+      ],
+      "confidence": 0.9958771467208862
+    },
+    {
+      "text": "for Forsyth cigarettes, and (b) provide Forsyth cigarettes with a",
+      "bbox": [
+        109,
+        428,
+        739,
+        449
+      ],
+      "confidence": 0.9954095482826233
+    },
+    {
+      "text": "positioning have to be approved by RJRT Sales Representative.",
+      "bbox": [
+        108,
+        461,
+        620,
+        483
+      ],
+      "confidence": 0.991790235042572
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        68,
+        495,
+        90,
+        512
+      ],
+      "confidence": 0.9994411468505859
+    },
+    {
+      "text": "To qualify for payment Retailer must maintain approved price information",
+      "bbox": [
+        109,
+        492,
+        738,
+        511
+      ],
+      "confidence": 0.9917428493499756
+    },
+    {
+      "text": "and product positioning at all participating stores throughout the period",
+      "bbox": [
+        109,
+        507,
+        739,
+        528
+      ],
+      "confidence": 0.9908521175384521
+    },
+    {
+      "text": "for which payment is to be made.",
+      "bbox": [
+        112,
+        526,
+        375,
+        540
+      ],
+      "confidence": 0.9972444772720337
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        68,
+        555,
+        90,
+        574
+      ],
+      "confidence": 0.9959872961044312
+    },
+    {
+      "text": "Payments will be made at each individual store at the time of call by RJRT",
+      "bbox": [
+        110,
+        555,
+        739,
+        573
+      ],
+      "confidence": 0.9898871183395386
+    },
+    {
+      "text": "Sales Representative. To receive payment, retailer must submit supporting",
+      "bbox": [
+        109,
+        570,
+        738,
+        590
+      ],
+      "confidence": 0.9897183179855347
+    },
+    {
+      "text": "proof of purchase to RJRT Sales' Representative for review. Proof of",
+      "bbox": [
+        108,
+        584,
+        740,
+        607
+      ],
+      "confidence": 0.9801141023635864
+    },
+    {
+      "text": "purchase may consist of:",
+      "bbox": [
+        111,
+        602,
+        311,
+        619
+      ],
+      "confidence": 0.9876497387886047
+    },
+    {
+      "text": "original wholesale sales summary sheets",
+      "bbox": [
+        274,
+        634,
+        605,
+        654
+      ],
+      "confidence": 0.9924277067184448
+    },
+    {
+      "text": "•",
+      "bbox": [
+        193,
+        652,
+        203,
+        663
+      ],
+      "confidence": 0.8299282193183899
+    },
+    {
+      "text": "original wholesale invoice",
+      "bbox": [
+        274,
+        650,
+        494,
+        669
+      ],
+      "confidence": 0.9929274916648865
+    },
+    {
+      "text": "original scanner data",
+      "bbox": [
+        274,
+        667,
+        452,
+        686
+      ],
+      "confidence": 0.9987434148788452
+    },
+    {
+      "text": "No payment will be made if supporting proof of purchase is inadequate.",
+      "bbox": [
+        109,
+        696,
+        697,
+        720
+      ],
+      "confidence": 0.9956079721450806
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        67,
+        728,
+        87,
+        744
+      ],
+      "confidence": 0.998884916305542
+    },
+    {
+      "text": "No payments may be deducted from Forsyth Tobacco Products or RJRT invoices.",
+      "bbox": [
+        107,
+        728,
+        737,
+        751
+      ],
+      "confidence": 0.9896354079246521
+    },
+    {
+      "text": "Forsyth Tobacco Products may modify or terminate this program at any time.",
+      "bbox": [
+        108,
+        744,
+        729,
+        767
+      ],
+      "confidence": 0.9882782697677612
+    },
+    {
+      "text": "51857 6995",
+      "bbox": [
+        747,
+        817,
+        772,
+        919
+      ],
+      "confidence": 0.9573786854743958
+    }
+  ],
+  "full_text": "FORSYTH TOBACCO PRODUCTS\n(A Division of R. J. Reynolds Tobacco Company)\nRETAIL\nFEATURE\nPROMOTION\nPROGRAM\nPLAN B\nForsyth Tobacco'Products Retail Promotion Program provides an allowance for\nRetailers that promote Forsyth's black and white and private label cigarettes by\neffectively communicating price information to the consumer and effectively\npositioning such cigarettes in the retail store. Terms and conditions for\nparticipation in the program and qualification for payment are specified below.\nForsyth Tobacco Products will pay a qualifying Retailer $.50 per carton for\neach carton of Forsyth's black and white and private label cigarettes purchased\nby Retailer for resale to consumers. Payments will be made after the end of\neach calendar quarter.\nTerms and Conditions\nRetailer must: (a) feature in the retail store consumer price information\n1.\npreferred, advantageous in-store position. Price information and product\nfor Forsyth cigarettes, and (b) provide Forsyth cigarettes with a\npositioning have to be approved by RJRT Sales Representative.\n2.\nTo qualify for payment Retailer must maintain approved price information\nand product positioning at all participating stores throughout the period\nfor which payment is to be made.\n3.\nPayments will be made at each individual store at the time of call by RJRT\nSales Representative. To receive payment, retailer must submit supporting\nproof of purchase to RJRT Sales' Representative for review. Proof of\npurchase may consist of:\noriginal wholesale sales summary sheets\n•\noriginal wholesale invoice\noriginal scanner data\nNo payment will be made if supporting proof of purchase is inadequate.\n4.\nNo payments may be deducted from Forsyth Tobacco Products or RJRT invoices.\nForsyth Tobacco Products may modify or terminate this program at any time.\n51857 6995"
+}

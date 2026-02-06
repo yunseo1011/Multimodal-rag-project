@@ -1,0 +1,551 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0888.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TSLRPT06_.",
+      "bbox": [
+        39,
+        0,
+        133,
+        19
+      ],
+      "confidence": 0.8785935640335083
+    },
+    {
+      "text": "*** TEST SPECIFICATIONS ***",
+      "bbox": [
+        257,
+        1,
+        496,
+        20
+      ],
+      "confidence": 0.9752233028411865
+    },
+    {
+      "text": "Page",
+      "bbox": [
+        638,
+        5,
+        678,
+        24
+      ],
+      "confidence": 0.9982695579528809
+    },
+    {
+      "text": "1",
+      "bbox": [
+        719,
+        3,
+        732,
+        19
+      ],
+      "confidence": 0.9997616410255432
+    },
+    {
+      "text": "16:06:46.1",
+      "bbox": [
+        41,
+        19,
+        133,
+        36
+      ],
+      "confidence": 0.9998452067375183
+    },
+    {
+      "text": "PARTIAL REPORT",
+      "bbox": [
+        312,
+        20,
+        436,
+        37
+      ],
+      "confidence": 0.9885181784629822
+    },
+    {
+      "text": "02/16/93",
+      "bbox": [
+        654,
+        17,
+        735,
+        42
+      ],
+      "confidence": 0.9924761056900024
+    },
+    {
+      "text": "Test Number: PD 5126",
+      "bbox": [
+        42,
+        48,
+        219,
+        70
+      ],
+      "confidence": 0.9918567538261414
+    },
+    {
+      "text": "Program Number: 222",
+      "bbox": [
+        466,
+        53,
+        633,
+        71
+      ],
+      "confidence": 0.9986228942871094
+    },
+    {
+      "text": "No of Testparts:",
+      "bbox": [
+        44,
+        82,
+        186,
+        101
+      ],
+      "confidence": 0.9987894296646118
+    },
+    {
+      "text": "3",
+      "bbox": [
+        215,
+        84,
+        235,
+        101
+      ],
+      "confidence": 0.9999202489852905
+    },
+    {
+      "text": "Priority: 05",
+      "bbox": [
+        249,
+        83,
+        369,
+        103
+      ],
+      "confidence": 0.9934929013252258
+    },
+    {
+      "text": "Status: LOGGED",
+      "bbox": [
+        465,
+        84,
+        589,
+        104
+      ],
+      "confidence": 0.9971488118171692
+    },
+    {
+      "text": "Requested by: LISA E BROWN (2890)",
+      "bbox": [
+        45,
+        114,
+        332,
+        135
+      ],
+      "confidence": 0.9734888672828674
+    },
+    {
+      "text": "Date Requested: 02/08/93",
+      "bbox": [
+        465,
+        116,
+        675,
+        136
+      ],
+      "confidence": 0.9854227900505066
+    },
+    {
+      "text": "BGTC 611-12/309",
+      "bbox": [
+        168,
+        133,
+        299,
+        150
+      ],
+      "confidence": 0.9991838335990906
+    },
+    {
+      "text": "Backup Contact: RONALD L PARKS (4090)",
+      "bbox": [
+        47,
+        146,
+        366,
+        168
+      ],
+      "confidence": 0.9749920964241028
+    },
+    {
+      "text": "No. of Revisions:",
+      "bbox": [
+        465,
+        148,
+        614,
+        167
+      ],
+      "confidence": 0.9736227989196777
+    },
+    {
+      "text": "Related Test Number: PD-5046",
+      "bbox": [
+        48,
+        180,
+        289,
+        200
+      ],
+      "confidence": 0.9990476369857788
+    },
+    {
+      "text": "Division: 582 .",
+      "bbox": [
+        465,
+        179,
+        593,
+        200
+      ],
+      "confidence": 0.9792576432228088
+    },
+    {
+      "text": "Test Name:",
+      "bbox": [
+        48,
+        212,
+        138,
+        232
+      ],
+      "confidence": 0.9981266260147095
+    },
+    {
+      "text": "BURLEY HEAT TREATMENT, HFCS TOX. TESTING",
+      "bbox": [
+        169,
+        214,
+        511,
+        231
+      ],
+      "confidence": 0.9914056062698364
+    },
+    {
+      "text": "TeSt PUrpOSe: EVALUATE EFFECTS OF HFCS & HTB VS B2/B4 STD BURLEY DRYING",
+      "bbox": [
+        49,
+        243,
+        657,
+        266
+      ],
+      "confidence": 0.9836791157722473
+    },
+    {
+      "text": "Making and Packing Date:",
+      "bbox": [
+        50,
+        276,
+        257,
+        297
+      ],
+      "confidence": 0.9816217422485352
+    },
+    {
+      "text": "Mail Out Date:",
+      "bbox": [
+        479,
+        277,
+        603,
+        298
+      ],
+      "confidence": 0.9709280133247375
+    },
+    {
+      "text": "Machine No: 10",
+      "bbox": [
+        345,
+        278,
+        470,
+        295
+      ],
+      "confidence": 0.9944614171981812
+    },
+    {
+      "text": "Type of Panel Testing: NONE",
+      "bbox": [
+        53,
+        311,
+        283,
+        329
+      ],
+      "confidence": 0.9915179014205933
+    },
+    {
+      "text": "KeyWord(s): BURLEY CASING",
+      "bbox": [
+        53,
+        342,
+        266,
+        362
+      ],
+      "confidence": 0.961608350276947
+    },
+    {
+      "text": "Added by: BATES",
+      "bbox": [
+        463,
+        340,
+        605,
+        363
+      ],
+      "confidence": 0.9805934429168701
+    },
+    {
+      "text": "BURLEY DRYING",
+      "bbox": [
+        152,
+        359,
+        266,
+        376
+      ],
+      "confidence": 0.9989484548568726
+    },
+    {
+      "text": "HFCS",
+      "bbox": [
+        150,
+        374,
+        191,
+        396
+      ],
+      "confidence": 0.9988325834274292
+    },
+    {
+      "text": "Special Instructions for the Pilot Plant:",
+      "bbox": [
+        53,
+        404,
+        398,
+        426
+      ],
+      "confidence": 0.9985337853431702
+    },
+    {
+      "text": "TOBACCO PROCESSING:",
+      "bbox": [
+        84,
+        437,
+        249,
+        457
+      ],
+      "confidence": 0.9977301359176636
+    },
+    {
+      "text": "AA USES B2/B4 STD BURLEY DRYING COND.",
+      "bbox": [
+        259,
+        435,
+        577,
+        457
+      ],
+      "confidence": 0.9913257956504822
+    },
+    {
+      "text": "AB USES HFCS STD BURLEY DRYING COND",
+      "bbox": [
+        260,
+        453,
+        562,
+        471
+      ],
+      "confidence": 0.98478764295578
+    },
+    {
+      "text": "AC USES HFCS AND HEAT TREATED BURLEY (PER",
+      "bbox": [
+        261,
+        468,
+        610,
+        488
+      ],
+      "confidence": 0.9982897043228149
+    },
+    {
+      "text": "ATTACHED INSTRUCTIONS FROM R. PARKS (X4O90)",
+      "bbox": [
+        260,
+        484,
+        627,
+        504
+      ],
+      "confidence": 0.9601355195045471
+    },
+    {
+      "text": "OTHER THAN BURLEY CASING/DRYING COND. ALL",
+      "bbox": [
+        261,
+        501,
+        611,
+        519
+      ],
+      "confidence": 0.9870871305465698
+    },
+    {
+      "text": "REMAINING PORTIONS OF THE BLEND ARE THE SAME.",
+      "bbox": [
+        262,
+        519,
+        641,
+        533
+      ],
+      "confidence": 0.9705564975738525
+    },
+    {
+      "text": "ALL PARTS USE FULL OPT PER ATTACHED INSTRUCTIONS.",
+      "bbox": [
+        263,
+        535,
+        673,
+        549
+      ],
+      "confidence": 0.9954466819763184
+    },
+    {
+      "text": "PLEASE CALL RON PARKS PRIOR TO BURLEY PROCESSING.",
+      "bbox": [
+        263,
+        551,
+        673,
+        566
+      ],
+      "confidence": 0.991211473941803
+    },
+    {
+      "text": "FILTER MAKING:",
+      "bbox": [
+        82,
+        578,
+        204,
+        599
+      ],
+      "confidence": 0.998090386390686
+    },
+    {
+      "text": "ALL PARTS USE SAME FILTER",
+      "bbox": [
+        261,
+        581,
+        478,
+        598
+      ],
+      "confidence": 0.9965016841888428
+    },
+    {
+      "text": "MAKING & PACKING:",
+      "bbox": [
+        81,
+        612,
+        230,
+        631
+      ],
+      "confidence": 0.9976755976676941
+    },
+    {
+      "text": "MAKE ALL PARTS TO CIGT WEIGHT. CHECK FIRMNESS.",
+      "bbox": [
+        260,
+        612,
+        660,
+        630
+      ],
+      "confidence": 0.983646035194397
+    },
+    {
+      "text": "EACH PART WILL USE A DIFFERENT BARREL PRINT (AA ",
+      "bbox": [
+        260,
+        628,
+        677,
+        646
+      ],
+      "confidence": 0.9978844523429871
+    },
+    {
+      "text": "WINSTON DIE # 821; B = SALEM, C = CAMEL) USE",
+      "bbox": [
+        260,
+        644,
+        648,
+        662
+      ],
+      "confidence": 0.9520295858383179
+    },
+    {
+      "text": "BLACK INK-85740 IF AVAILABLE.",
+      "bbox": [
+        260,
+        660,
+        522,
+        678
+      ],
+      "confidence": 0.9937142133712769
+    },
+    {
+      "text": "USE WHITE LABELS",
+      "bbox": [
+        516,
+        663,
+        663,
+        677
+      ],
+      "confidence": 0.993259608745575
+    },
+    {
+      "text": "AND WHITE CARTONS.",
+      "bbox": [
+        261,
+        678,
+        415,
+        693
+      ],
+      "confidence": 0.9699877500534058
+    },
+    {
+      "text": "SAMPLING TYPE:",
+      "bbox": [
+        81,
+        710,
+        203,
+        729
+      ],
+      "confidence": 0.9963951110839844
+    },
+    {
+      "text": "SPC",
+      "bbox": [
+        259,
+        708,
+        292,
+        727
+      ],
+      "confidence": 0.998697817325592
+    },
+    {
+      "text": "CIGT. INVENTORY:",
+      "bbox": [
+        81,
+        741,
+        219,
+        760
+      ],
+      "confidence": 0.9772521257400513
+    },
+    {
+      "text": "AFTER 2 WEEKS AGING, PLACE ALL PRODUCT IN FREEZER",
+      "bbox": [
+        259,
+        739,
+        681,
+        757
+      ],
+      "confidence": 0.9942207336425781
+    }
+  ],
+  "full_text": "TSLRPT06_.\n*** TEST SPECIFICATIONS ***\nPage\n1\n16:06:46.1\nPARTIAL REPORT\n02/16/93\nTest Number: PD 5126\nProgram Number: 222\nNo of Testparts:\n3\nPriority: 05\nStatus: LOGGED\nRequested by: LISA E BROWN (2890)\nDate Requested: 02/08/93\nBGTC 611-12/309\nBackup Contact: RONALD L PARKS (4090)\nNo. of Revisions:\nRelated Test Number: PD-5046\nDivision: 582 .\nTest Name:\nBURLEY HEAT TREATMENT, HFCS TOX. TESTING\nTeSt PUrpOSe: EVALUATE EFFECTS OF HFCS & HTB VS B2/B4 STD BURLEY DRYING\nMaking and Packing Date:\nMail Out Date:\nMachine No: 10\nType of Panel Testing: NONE\nKeyWord(s): BURLEY CASING\nAdded by: BATES\nBURLEY DRYING\nHFCS\nSpecial Instructions for the Pilot Plant:\nTOBACCO PROCESSING:\nAA USES B2/B4 STD BURLEY DRYING COND.\nAB USES HFCS STD BURLEY DRYING COND\nAC USES HFCS AND HEAT TREATED BURLEY (PER\nATTACHED INSTRUCTIONS FROM R. PARKS (X4O90)\nOTHER THAN BURLEY CASING/DRYING COND. ALL\nREMAINING PORTIONS OF THE BLEND ARE THE SAME.\nALL PARTS USE FULL OPT PER ATTACHED INSTRUCTIONS.\nPLEASE CALL RON PARKS PRIOR TO BURLEY PROCESSING.\nFILTER MAKING:\nALL PARTS USE SAME FILTER\nMAKING & PACKING:\nMAKE ALL PARTS TO CIGT WEIGHT. CHECK FIRMNESS.\nEACH PART WILL USE A DIFFERENT BARREL PRINT (AA \nWINSTON DIE # 821; B = SALEM, C = CAMEL) USE\nBLACK INK-85740 IF AVAILABLE.\nUSE WHITE LABELS\nAND WHITE CARTONS.\nSAMPLING TYPE:\nSPC\nCIGT. INVENTORY:\nAFTER 2 WEEKS AGING, PLACE ALL PRODUCT IN FREEZER"
+}

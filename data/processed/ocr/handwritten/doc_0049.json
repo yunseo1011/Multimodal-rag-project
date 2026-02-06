@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0049.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "New York, NY 10019",
+      "bbox": [
+        241,
+        223,
+        617,
+        307
+      ],
+      "confidence": 0.9319902062416077
+    },
+    {
+      "text": "1310 Ave. of The Americs",
+      "bbox": [
+        162,
+        294,
+        610,
+        360
+      ],
+      "confidence": 0.8730399012565613
+    },
+    {
+      "text": "RJR Nabiso",
+      "bbox": [
+        328,
+        345,
+        609,
+        407
+      ],
+      "confidence": 0.7558273077011108
+    },
+    {
+      "text": "Corporote Ha.",
+      "bbox": [
+        327,
+        394,
+        603,
+        453
+      ],
+      "confidence": 0.8817323446273804
+    },
+    {
+      "text": "E0-91220003",
+      "bbox": [
+        99,
+        593,
+        170,
+        611
+      ],
+      "confidence": 0.7400214672088623
+    },
+    {
+      "text": "$0.55",
+      "bbox": [
+        103,
+        600,
+        171,
+        639
+      ],
+      "confidence": 0.8674329519271851
+    },
+    {
+      "text": "0000",
+      "bbox": [
+        245,
+        598,
+        273,
+        613
+      ],
+      "confidence": 0.6803736686706543
+    },
+    {
+      "text": "STrit",
+      "bbox": [
+        104,
+        683,
+        134,
+        694
+      ],
+      "confidence": 0.6411463022232056
+    },
+    {
+      "text": "52412 5206",
+      "bbox": [
+        38,
+        708,
+        144,
+        728
+      ],
+      "confidence": 0.9839059114456177
+    }
+  ],
+  "full_text": "New York, NY 10019\n1310 Ave. of The Americs\nRJR Nabiso\nCorporote Ha.\nE0-91220003\n$0.55\n0000\nSTrit\n52412 5206"
+}

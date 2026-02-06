@@ -1,0 +1,591 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0760.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        306,
+        8,
+        472,
+        28
+      ],
+      "confidence": 0.9997031688690186
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        52,
+        59,
+        91,
+        80
+      ],
+      "confidence": 0.9997954368591309
+    },
+    {
+      "text": "TITLE",
+      "bbox": [
+        349,
+        69,
+        384,
+        84
+      ],
+      "confidence": 0.9990383982658386
+    },
+    {
+      "text": "BIRTHDATE (Mo., Dav, Yr.)",
+      "bbox": [
+        564,
+        69,
+        691,
+        82
+      ],
+      "confidence": 0.8805273175239563
+    },
+    {
+      "text": "KASTURI, Kuppuswamy N.",
+      "bbox": [
+        99,
+        94,
+        269,
+        116
+      ],
+      "confidence": 0.9877191185951233
+    },
+    {
+      "text": "Postdoctoral Fellow",
+      "bbox": [
+        375,
+        99,
+        518,
+        118
+      ],
+      "confidence": 0.9987285733222961
+    },
+    {
+      "text": "Nov.6, 1945",
+      "bbox": [
+        570,
+        99,
+        658,
+        119
+      ],
+      "confidence": 0.9752687811851501
+    },
+    {
+      "text": "EDUCATION (Begin wrth baccalaureate or other initial professional education and include postdoctoral training)",
+      "bbox": [
+        55,
+        114,
+        551,
+        139
+      ],
+      "confidence": 0.9505606889724731
+    },
+    {
+      "text": "DEGREE fcircle",
+      "bbox": [
+        384,
+        135,
+        460,
+        153
+      ],
+      "confidence": 0.9591107368469238
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        491,
+        136,
+        526,
+        155
+      ],
+      "confidence": 0.9982277154922485
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        586,
+        141,
+        680,
+        160
+      ],
+      "confidence": 0.998903751373291
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        144,
+        143,
+        296,
+        157
+      ],
+      "confidence": 0.9996232986450195
+    },
+    {
+      "text": "highest degree)",
+      "bbox": [
+        386,
+        147,
+        457,
+        166
+      ],
+      "confidence": 0.986544668674469
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        475,
+        149,
+        541,
+        166
+      ],
+      "confidence": 0.9921963214874268
+    },
+    {
+      "text": "Madras University, Madras, India",
+      "bbox": [
+        70,
+        175,
+        313,
+        196
+      ],
+      "confidence": 0.9956872463226318
+    },
+    {
+      "text": "B.Sc.",
+      "bbox": [
+        379,
+        176,
+        422,
+        197
+      ],
+      "confidence": 0.9867095947265625
+    },
+    {
+      "text": "1965",
+      "bbox": [
+        484,
+        179,
+        519,
+        199
+      ],
+      "confidence": 0.9999221563339233
+    },
+    {
+      "text": "Botany & Chemistry",
+      "bbox": [
+        557,
+        183,
+        691,
+        198
+      ],
+      "confidence": 0.9756940007209778
+    },
+    {
+      "text": "Madras University, Madras, India",
+      "bbox": [
+        69,
+        190,
+        313,
+        212
+      ],
+      "confidence": 0.992692232131958
+    },
+    {
+      "text": "M.Sc.",
+      "bbox": [
+        379,
+        191,
+        422,
+        212
+      ],
+      "confidence": 0.9866288304328918
+    },
+    {
+      "text": "1968",
+      "bbox": [
+        484,
+        196,
+        519,
+        214
+      ],
+      "confidence": 0.9999849796295166
+    },
+    {
+      "text": "Microbiology",
+      "bbox": [
+        554,
+        195,
+        649,
+        216
+      ],
+      "confidence": 0.9982100129127502
+    },
+    {
+      "text": "Paris University, Paris, France",
+      "bbox": [
+        70,
+        210,
+        305,
+        227
+      ],
+      "confidence": 0.9978259205818176
+    },
+    {
+      "text": "D.E.A.",
+      "bbox": [
+        379,
+        207,
+        429,
+        228
+      ],
+      "confidence": 0.9932581782341003
+    },
+    {
+      "text": "1972",
+      "bbox": [
+        483,
+        212,
+        518,
+        231
+      ],
+      "confidence": 0.9998853802680969
+    },
+    {
+      "text": "Cell Biology",
+      "bbox": [
+        554,
+        210,
+        649,
+        232
+      ],
+      "confidence": 0.9783186912536621
+    },
+    {
+      "text": "Paris University, Paris, France",
+      "bbox": [
+        71,
+        225,
+        305,
+        242
+      ],
+      "confidence": 0.9879853129386902
+    },
+    {
+      "text": "Dr.es. Sc",
+      "bbox": [
+        380,
+        224,
+        453,
+        245
+      ],
+      "confidence": 0.9839759469032288
+    },
+    {
+      "text": "1977",
+      "bbox": [
+        482,
+        225,
+        519,
+        248
+      ],
+      "confidence": 0.9989414215087891
+    },
+    {
+      "text": "Cell Biology",
+      "bbox": [
+        553,
+        225,
+        651,
+        249
+      ],
+      "confidence": 0.9477445483207703
+    },
+    {
+      "text": "RESEARCH AND/OR PROFESSIONAL EXPERIENCE: Concluding With present postion, ist n chronological order previous employment, exper",
+      "bbox": [
+        52,
+        244,
+        716,
+        269
+      ],
+      "confidence": 0.8644067645072937
+    },
+    {
+      "text": "complete references to all publications during the past three years and to representative earlier publications pertinent to this application. Do NOT",
+      "bbox": [
+        50,
+        274,
+        717,
+        295
+      ],
+      "confidence": 0.9714992642402649
+    },
+    {
+      "text": "EXCEED TWO PAGES.",
+      "bbox": [
+        52,
+        290,
+        162,
+        304
+      ],
+      "confidence": 0.9879398345947266
+    },
+    {
+      "text": "POSITIONS HELD:",
+      "bbox": [
+        66,
+        321,
+        183,
+        339
+      ],
+      "confidence": 0.974578857421875
+    },
+    {
+      "text": "1969-1970 - Demonstrator in Microbiology, Jipmer, Pondicherry, India",
+      "bbox": [
+        66,
+        344,
+        584,
+        366
+      ],
+      "confidence": 0.9787911772727966
+    },
+    {
+      "text": "1977-1979 - Postdoctoral Research Fellow, Pasteur Institute, Paris, France",
+      "bbox": [
+        66,
+        368,
+        630,
+        390
+      ],
+      "confidence": 0.9918521046638489
+    },
+    {
+      "text": "1979-1986 - Research Scientist, Beatson Institute for Cancer Res., Glasgow, U.K.",
+      "bbox": [
+        65,
+        393,
+        675,
+        414
+      ],
+      "confidence": 0.9872139096260071
+    },
+    {
+      "text": "1986-Present - Postdoctoral Fellow, Microbiology Dept., Mt.Sinai School of Medicine,NY.",
+      "bbox": [
+        63,
+        416,
+        722,
+        439
+      ],
+      "confidence": 0.9883480668067932
+    },
+    {
+      "text": "HONORS:",
+      "bbox": [
+        60,
+        474,
+        120,
+        492
+      ],
+      "confidence": 0.9957693219184875
+    },
+    {
+      "text": "Member of Scientific Societies",
+      "bbox": [
+        61,
+        501,
+        290,
+        514
+      ],
+      "confidence": 0.9886786937713623
+    },
+    {
+      "text": "PUBLICATIONS RELEVANT TO_RESEARCH PROPOSAL:",
+      "bbox": [
+        59,
+        524,
+        387,
+        541
+      ],
+      "confidence": 0.9717702865600586
+    },
+    {
+      "text": "10. Harrison, P.R., Kasturi, K., and Fleming, J. Monoclonal antibodies against",
+      "bbox": [
+        56,
+        546,
+        674,
+        569
+      ],
+      "confidence": 0.9828546047210693
+    },
+    {
+      "text": "red blood cell antigens expressed at different stages of development.",
+      "bbox": [
+        95,
+        563,
+        625,
+        585
+      ],
+      "confidence": 0.98883056640625
+    },
+    {
+      "text": "Biochem. Soc. Trans. 1981. 9. N0.2,300.",
+      "bbox": [
+        94,
+        580,
+        393,
+        599
+      ],
+      "confidence": 0.9500787258148193
+    },
+    {
+      "text": "11. Harrison, P.R., Affra, N., Goldfarb, P.S., Kasturi, K., Yang, Q.S., Lyons, A.",
+      "bbox": [
+        53,
+        604,
+        685,
+        628
+      ],
+      "confidence": 0.9865519404411316
+    },
+    {
+      "text": "O'Prey, J., Fleming, J., Black, E., and Nichols, R. Analysis of Rcd blood",
+      "bbox": [
+        91,
+        621,
+        666,
+        644
+      ],
+      "confidence": 0.9749732613563538
+    },
+    {
+      "text": "cell differentiation in \"Stability and Switching in Cellular Differentiation\"",
+      "bbox": [
+        91,
+        637,
+        688,
+        660
+      ],
+      "confidence": 0.9797616004943848
+    },
+    {
+      "text": "edited by R.M. Clayton and D.E.S.'Truman, 1982, \"81.",
+      "bbox": [
+        91,
+        654,
+        486,
+        675
+      ],
+      "confidence": 0.9762318134307861
+    },
+    {
+      "text": "12. Kasturi, K., Fleming, J., and Harrison, P.R. A monoclonal antibody against",
+      "bbox": [
+        50,
+        679,
+        671,
+        701
+      ],
+      "confidence": 0.9819010496139526
+    },
+    {
+      "text": "erythrocyte spectrin reacts with both xand βSub-units and detects Spectrin-líke",
+      "bbox": [
+        88,
+        698,
+        701,
+        716
+      ],
+      "confidence": 0.9890339374542236
+    },
+    {
+      "text": "molecules in nonerythroid cells. Exp.cell Res. 1983. 144,241.",
+      "bbox": [
+        89,
+        717,
+        566,
+        731
+      ],
+      "confidence": 0.9749587178230286
+    },
+    {
+      "text": "13.",
+      "bbox": [
+        47,
+        740,
+        75,
+        755
+      ],
+      "confidence": 0.9998416304588318
+    },
+    {
+      "text": "Kasturi, K., and Harrison, P.R, Cell specificity and biosynthesis · of mouse",
+      "bbox": [
+        86,
+        740,
+        682,
+        754
+      ],
+      "confidence": 0.9695823788642883
+    },
+    {
+      "text": "glycophorins studied with monoclonal antibodies. Exp.Cell Res. 1985, 157,253.",
+      "bbox": [
+        87,
+        758,
+        687,
+        772
+      ],
+      "confidence": 0.9773906469345093
+    },
+    {
+      "text": "14. Kasturi, K., O'Prey, J., and Harrison, P.R. Expression and cloning of glyco-",
+      "bbox": [
+        42,
+        779,
+        681,
+        797
+      ],
+      "confidence": 0.9830160140991211
+    },
+    {
+      "text": "phorin genes. Eur. J. Cell Biol. 1985, 36, Suppl.8,33.",
+      "bbox": [
+        83,
+        798,
+        510,
+        812
+      ],
+      "confidence": 0.9669902324676514
+    },
+    {
+      "text": "15. Fleming, J., Thiele, B., Kasturi, K., O'Prey, J., Chester, J., and Harrison, P.R.",
+      "bbox": [
+        39,
+        820,
+        704,
+        840
+      ],
+      "confidence": 0.993841290473938
+    },
+    {
+      "text": "Isolation of Rabbit erythrocyte specific lipoxygenase cDNA clone (In preparation).",
+      "bbox": [
+        82,
+        840,
+        717,
+        854
+      ],
+      "confidence": 0.9752119183540344
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nNAME\nTITLE\nBIRTHDATE (Mo., Dav, Yr.)\nKASTURI, Kuppuswamy N.\nPostdoctoral Fellow\nNov.6, 1945\nEDUCATION (Begin wrth baccalaureate or other initial professional education and include postdoctoral training)\nDEGREE fcircle\nYEAR\nFIELD OF STUDY\nINSTITUTION AND LOCATION\nhighest degree)\nCONFERRED\nMadras University, Madras, India\nB.Sc.\n1965\nBotany & Chemistry\nMadras University, Madras, India\nM.Sc.\n1968\nMicrobiology\nParis University, Paris, France\nD.E.A.\n1972\nCell Biology\nParis University, Paris, France\nDr.es. Sc\n1977\nCell Biology\nRESEARCH AND/OR PROFESSIONAL EXPERIENCE: Concluding With present postion, ist n chronological order previous employment, exper\ncomplete references to all publications during the past three years and to representative earlier publications pertinent to this application. Do NOT\nEXCEED TWO PAGES.\nPOSITIONS HELD:\n1969-1970 - Demonstrator in Microbiology, Jipmer, Pondicherry, India\n1977-1979 - Postdoctoral Research Fellow, Pasteur Institute, Paris, France\n1979-1986 - Research Scientist, Beatson Institute for Cancer Res., Glasgow, U.K.\n1986-Present - Postdoctoral Fellow, Microbiology Dept., Mt.Sinai School of Medicine,NY.\nHONORS:\nMember of Scientific Societies\nPUBLICATIONS RELEVANT TO_RESEARCH PROPOSAL:\n10. Harrison, P.R., Kasturi, K., and Fleming, J. Monoclonal antibodies against\nred blood cell antigens expressed at different stages of development.\nBiochem. Soc. Trans. 1981. 9. N0.2,300.\n11. Harrison, P.R., Affra, N., Goldfarb, P.S., Kasturi, K., Yang, Q.S., Lyons, A.\nO'Prey, J., Fleming, J., Black, E., and Nichols, R. Analysis of Rcd blood\ncell differentiation in \"Stability and Switching in Cellular Differentiation\"\nedited by R.M. Clayton and D.E.S.'Truman, 1982, \"81.\n12. Kasturi, K., Fleming, J., and Harrison, P.R. A monoclonal antibody against\nerythrocyte spectrin reacts with both xand βSub-units and detects Spectrin-líke\nmolecules in nonerythroid cells. Exp.cell Res. 1983. 144,241.\n13.\nKasturi, K., and Harrison, P.R, Cell specificity and biosynthesis · of mouse\nglycophorins studied with monoclonal antibodies. Exp.Cell Res. 1985, 157,253.\n14. Kasturi, K., O'Prey, J., and Harrison, P.R. Expression and cloning of glyco-\nphorin genes. Eur. J. Cell Biol. 1985, 36, Suppl.8,33.\n15. Fleming, J., Thiele, B., Kasturi, K., O'Prey, J., Chester, J., and Harrison, P.R.\nIsolation of Rabbit erythrocyte specific lipoxygenase cDNA clone (In preparation)."
+}

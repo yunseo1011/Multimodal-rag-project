@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0305.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WEBERSHANDWICK",
+      "bbox": [
+        0,
+        71,
+        195,
+        97
+      ],
+      "confidence": 0.9997395873069763
+    },
+    {
+      "text": "WORLDWDS",
+      "bbox": [
+        70,
+        94,
+        194,
+        111
+      ],
+      "confidence": 0.6865036487579346
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        63,
+        183,
+        100,
+        206
+      ],
+      "confidence": 0.9985343813896179
+    },
+    {
+      "text": "Jordan Bressler",
+      "bbox": [
+        168,
+        190,
+        276,
+        207
+      ],
+      "confidence": 0.9998382329940796
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        63,
+        210,
+        124,
+        233
+      ],
+      "confidence": 0.9899979829788208
+    },
+    {
+      "text": "Katy Lauler",
+      "bbox": [
+        167,
+        215,
+        253,
+        233
+      ],
+      "confidence": 0.9914563894271851
+    },
+    {
+      "text": "Jason Niosi",
+      "bbox": [
+        165,
+        230,
+        251,
+        253
+      ],
+      "confidence": 0.9960967898368835
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        65,
+        257,
+        120,
+        275
+      ],
+      "confidence": 0.9971873164176941
+    },
+    {
+      "text": "9/12/2002",
+      "bbox": [
+        167,
+        258,
+        240,
+        276
+      ],
+      "confidence": 0.999957799911499
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        66,
+        281,
+        146,
+        303
+      ],
+      "confidence": 0.9997748136520386
+    },
+    {
+      "text": "Buttoutnow.com August Update",
+      "bbox": [
+        164,
+        280,
+        386,
+        302
+      ],
+      "confidence": 0.9723896980285645
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        64,
+        307,
+        98,
+        328
+      ],
+      "confidence": 0.996090829372406
+    },
+    {
+      "text": "Steve Watson",
+      "bbox": [
+        167,
+        309,
+        263,
+        327
+      ],
+      "confidence": 0.9840095043182373
+    },
+    {
+      "text": "Janet Cabot",
+      "bbox": [
+        165,
+        326,
+        250,
+        345
+      ],
+      "confidence": 0.9993646144866943
+    },
+    {
+      "text": "John Roth",
+      "bbox": [
+        165,
+        344,
+        239,
+        363
+      ],
+      "confidence": 0.9996603727340698
+    },
+    {
+      "text": "Katerina McCarthy",
+      "bbox": [
+        165,
+        362,
+        299,
+        382
+      ],
+      "confidence": 0.9889155030250549
+    },
+    {
+      "text": "Weber Shandwick YSPP Team",
+      "bbox": [
+        166,
+        381,
+        377,
+        399
+      ],
+      "confidence": 0.994873583316803
+    },
+    {
+      "text": "As we mentioned last week, the first five days in September have generated close to 63,000",
+      "bbox": [
+        62,
+        447,
+        682,
+        470
+      ],
+      "confidence": 0.9871360063552856
+    },
+    {
+      "text": "visitors and is on pace to be the biggest month in the Web site's history. As we wait for",
+      "bbox": [
+        62,
+        464,
+        659,
+        489
+      ],
+      "confidence": 0.9920065999031067
+    },
+    {
+      "text": "September to come to an end, the following are key details from the buttoutnow.com Web site",
+      "bbox": [
+        63,
+        483,
+        700,
+        507
+      ],
+      "confidence": 0.984356164932251
+    },
+    {
+      "text": "report for August.",
+      "bbox": [
+        64,
+        504,
+        188,
+        521
+      ],
+      "confidence": 0.9907888770103455
+    },
+    {
+      "text": "There were 75,343 visitors to the site in August, with an average of 2,430 visitors per day.",
+      "bbox": [
+        87,
+        537,
+        694,
+        564
+      ],
+      "confidence": 0.9944159388542175
+    },
+    {
+      "text": "The number of visitors has increased with each passing month in 2002 and is expected to",
+      "bbox": [
+        89,
+        554,
+        688,
+        582
+      ],
+      "confidence": 0.9769188761711121
+    },
+    {
+      "text": "continue to do so as the TeenH.1.P. Awards and \"Stay on the Right Track\" Internet game",
+      "bbox": [
+        89,
+        571,
+        686,
+        601
+      ],
+      "confidence": 0.9715564846992493
+    },
+    {
+      "text": "generate visitors.",
+      "bbox": [
+        90,
+        594,
+        208,
+        613
+      ],
+      "confidence": 0.9388280510902405
+    },
+    {
+      "text": "The Web site has received 460,653 visitors from January through August in 2002, compared",
+      "bbox": [
+        90,
+        610,
+        707,
+        638
+      ],
+      "confidence": 0.9848780035972595
+    },
+    {
+      "text": "to 744,383 visitors from January through August in 2001.",
+      "bbox": [
+        90,
+        630,
+        476,
+        654
+      ],
+      "confidence": 0.997168242931366
+    },
+    {
+      "text": "The most frequently visited pages in August include:",
+      "bbox": [
+        92,
+        650,
+        442,
+        671
+      ],
+      "confidence": 0.9774824380874634
+    },
+    {
+      "text": "ClubHIP (32,233)",
+      "bbox": [
+        115,
+        668,
+        240,
+        689
+      ],
+      "confidence": 0.9915784001350403
+    },
+    {
+      "text": "TeenH.I.P. Awards (24,554)",
+      "bbox": [
+        114,
+        686,
+        306,
+        706
+      ],
+      "confidence": 0.9843375086784363
+    },
+    {
+      "text": "- Grant Program (10,433)",
+      "bbox": [
+        96,
+        706,
+        278,
+        723
+      ],
+      "confidence": 0.996449887752533
+    },
+    {
+      "text": "Cool News (7,892)",
+      "bbox": [
+        118,
+        724,
+        246,
+        741
+      ],
+      "confidence": 0.9754369258880615
+    },
+    {
+      "text": "The average length of time visitors spent on the site was 7 minutes and 12 seconds.",
+      "bbox": [
+        80,
+        739,
+        641,
+        765
+      ],
+      "confidence": 0.9850748181343079
+    },
+    {
+      "text": "Please feel free to call with any questions or comments about the report. Thanks.",
+      "bbox": [
+        70,
+        773,
+        603,
+        800
+      ],
+      "confidence": 0.9905837178230286
+    },
+    {
+      "text": "Katy Lauler",
+      "bbox": [
+        70,
+        810,
+        153,
+        831
+      ],
+      "confidence": 0.9712841510772705
+    },
+    {
+      "text": "312/988-2075",
+      "bbox": [
+        217,
+        812,
+        311,
+        830
+      ],
+      "confidence": 0.9999710917472839
+    },
+    {
+      "text": "Jason Niosi",
+      "bbox": [
+        70,
+        827,
+        150,
+        848
+      ],
+      "confidence": 0.9992944598197937
+    },
+    {
+      "text": "312/988-2217",
+      "bbox": [
+        218,
+        832,
+        310,
+        846
+      ],
+      "confidence": 0.9999642372131348
+    },
+    {
+      "text": "676 North St. Cleir",
+      "bbox": [
+        72,
+        873,
+        140,
+        890
+      ],
+      "confidence": 0.9803309440612793
+    },
+    {
+      "text": "Suite 1000",
+      "bbox": [
+        73,
+        885,
+        114,
+        899
+      ],
+      "confidence": 0.9730596542358398
+    },
+    {
+      "text": "T 312 988 2400",
+      "bbox": [
+        217,
+        878,
+        275,
+        889
+      ],
+      "confidence": 0.9919622540473938
+    },
+    {
+      "text": "F 312 988 2363",
+      "bbox": [
+        218,
+        888,
+        275,
+        899
+      ],
+      "confidence": 0.9812348484992981
+    },
+    {
+      "text": "ww.webershandwick.com",
+      "bbox": [
+        72,
+        907,
+        167,
+        920
+      ],
+      "confidence": 0.9581505060195923
+    },
+    {
+      "text": "Chicago, IL 60611",
+      "bbox": [
+        74,
+        896,
+        138,
+        910
+      ],
+      "confidence": 0.9745497703552246
+    }
+  ],
+  "full_text": "WEBERSHANDWICK\nWORLDWDS\nTO:\nJordan Bressler\nFROM:\nKaty Lauler\nJason Niosi\nDATE:\n9/12/2002\nSUBJECT:\nButtoutnow.com August Update\nCC:\nSteve Watson\nJanet Cabot\nJohn Roth\nKaterina McCarthy\nWeber Shandwick YSPP Team\nAs we mentioned last week, the first five days in September have generated close to 63,000\nvisitors and is on pace to be the biggest month in the Web site's history. As we wait for\nSeptember to come to an end, the following are key details from the buttoutnow.com Web site\nreport for August.\nThere were 75,343 visitors to the site in August, with an average of 2,430 visitors per day.\nThe number of visitors has increased with each passing month in 2002 and is expected to\ncontinue to do so as the TeenH.1.P. Awards and \"Stay on the Right Track\" Internet game\ngenerate visitors.\nThe Web site has received 460,653 visitors from January through August in 2002, compared\nto 744,383 visitors from January through August in 2001.\nThe most frequently visited pages in August include:\nClubHIP (32,233)\nTeenH.I.P. Awards (24,554)\n- Grant Program (10,433)\nCool News (7,892)\nThe average length of time visitors spent on the site was 7 minutes and 12 seconds.\nPlease feel free to call with any questions or comments about the report. Thanks.\nKaty Lauler\n312/988-2075\nJason Niosi\n312/988-2217\n676 North St. Cleir\nSuite 1000\nT 312 988 2400\nF 312 988 2363\nww.webershandwick.com\nChicago, IL 60611"
+}

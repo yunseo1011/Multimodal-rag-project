@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0420.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "—GE 21fL (9.75)",
+      "bbox": [
+        35,
+        32,
+        128,
+        50
+      ],
+      "confidence": 0.9210801720619202
+    },
+    {
+      "text": "LROWN & WILLIAMSON TOBACCO CORPORATIC",
+      "bbox": [
+        280,
+        37,
+        530,
+        53
+      ],
+      "confidence": 0.9667338728904724
+    },
+    {
+      "text": "INTERNAL CORRESPONDENCE",
+      "bbox": [
+        306,
+        53,
+        518,
+        74
+      ],
+      "confidence": 0.999869704246521
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        47,
+        85,
+        70,
+        101
+      ],
+      "confidence": 0.9978063106536865
+    },
+    {
+      "text": "J. L. KNOOP",
+      "bbox": [
+        122,
+        85,
+        219,
+        99
+      ],
+      "confidence": 0.9939305782318115
+    },
+    {
+      "text": "DEPT.",
+      "bbox": [
+        47,
+        101,
+        87,
+        116
+      ],
+      "confidence": 0.9991765022277832
+    },
+    {
+      "text": "C. C. to",
+      "bbox": [
+        46,
+        116,
+        93,
+        134
+      ],
+      "confidence": 0.9328585863113403
+    },
+    {
+      "text": "J. F. NALL",
+      "bbox": [
+        122,
+        113,
+        212,
+        132
+      ],
+      "confidence": 0.9855875968933105
+    },
+    {
+      "text": "\"",
+      "bbox": [
+        64,
+        165,
+        74,
+        173
+      ],
+      "confidence": 0.9232203364372253
+    },
+    {
+      "text": "J. L. EMS/sz/113",
+      "bbox": [
+        119,
+        186,
+        256,
+        210
+      ],
+      "confidence": 0.9106343984603882
+    },
+    {
+      "text": "DATE_ July 29, 1977",
+      "bbox": [
+        496,
+        181,
+        662,
+        208
+      ],
+      "confidence": 0.9455721974372864
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        46,
+        195,
+        86,
+        210
+      ],
+      "confidence": 0.9998989701271057
+    },
+    {
+      "text": "SUBJECT",
+      "bbox": [
+        45,
+        210,
+        103,
+        227
+      ],
+      "confidence": 0.998645007610321
+    },
+    {
+      "text": "EXPORT KENT EVALUATIONS",
+      "bbox": [
+        120,
+        203,
+        310,
+        225
+      ],
+      "confidence": 0.9985837340354919
+    },
+    {
+      "text": "At the request of Quality Assurance, export versions of Kent 80, Kent 85",
+      "bbox": [
+        116,
+        259,
+        704,
+        287
+      ],
+      "confidence": 0.9908581972122192
+    },
+    {
+      "text": "and Kent l00 were evaluated for select physical and chemical properties.",
+      "bbox": [
+        116,
+        274,
+        704,
+        303
+      ],
+      "confidence": 0.9782735109329224
+    },
+    {
+      "text": "Five cartons of each version were received representing July, l977, manu-",
+      "bbox": [
+        116,
+        290,
+        712,
+        318
+      ],
+      "confidence": 0.9848180413246155
+    },
+    {
+      "text": "facture. The results of the evaluations are presented on the attached",
+      "bbox": [
+        118,
+        306,
+        689,
+        334
+      ],
+      "confidence": 0.9912603497505188
+    },
+    {
+      "text": "sheet.",
+      "bbox": [
+        117,
+        332,
+        171,
+        349
+      ],
+      "confidence": 0.969124972820282
+    },
+    {
+      "text": "The data show:",
+      "bbox": [
+        117,
+        361,
+        236,
+        378
+      ],
+      "confidence": 0.9746884107589722
+    },
+    {
+      "text": "1. The density of Kent l00 is low compared to the other versions.",
+      "bbox": [
+        157,
+        386,
+        699,
+        413
+      ],
+      "confidence": 0.9789231419563293
+    },
+    {
+      "text": "2. Tobacco analyses show no apparent differences in the blends.",
+      "bbox": [
+        157,
+        418,
+        683,
+        446
+      ],
+      "confidence": 0.9896254539489746
+    },
+    {
+      "text": "3. The differences in tar and nicotine deliveries can be accounted",
+      "bbox": [
+        157,
+        450,
+        709,
+        477
+      ],
+      "confidence": 0.9985631108283997
+    },
+    {
+      "text": "for with the diffferences in length of tobacco smoked and filter",
+      "bbox": [
+        193,
+        467,
+        715,
+        491
+      ],
+      "confidence": 0.9888491630554199
+    },
+    {
+      "text": "pressure drop.",
+      "bbox": [
+        192,
+        489,
+        307,
+        508
+      ],
+      "confidence": 0.9996787309646606
+    },
+    {
+      "text": "J. L. E.",
+      "bbox": [
+        413,
+        581,
+        480,
+        599
+      ],
+      "confidence": 0.9418025016784668
+    },
+    {
+      "text": "SEcRET, \" Do Not Copy Or Mala Net-s Ct",
+      "bbox": [
+        368,
+        737,
+        687,
+        850
+      ],
+      "confidence": 0.8234647512435913
+    },
+    {
+      "text": "This PiEo And Do 1",
+      "bbox": [
+        377,
+        800,
+        539,
+        864
+      ],
+      "confidence": 0.8778312802314758
+    },
+    {
+      "text": "Information Contan:",
+      "bbox": [
+        383,
+        820,
+        532,
+        881
+      ],
+      "confidence": 0.9061877727508545
+    },
+    {
+      "text": "The Miloorgate Seaccy Proiceat.",
+      "bbox": [
+        392,
+        827,
+        627,
+        917
+      ],
+      "confidence": 0.7569790482521057
+    },
+    {
+      "text": "To Anyons EnXSt",
+      "bbox": [
+        389,
+        840,
+        529,
+        899
+      ],
+      "confidence": 0.7878197431564331
+    },
+    {
+      "text": "M 13",
+      "bbox": [
+        43,
+        930,
+        73,
+        945
+      ],
+      "confidence": 0.9227149486541748
+    },
+    {
+      "text": "620489528",
+      "bbox": [
+        627,
+        964,
+        768,
+        991
+      ],
+      "confidence": 0.9998612999916077
+    }
+  ],
+  "full_text": "—GE 21fL (9.75)\nLROWN & WILLIAMSON TOBACCO CORPORATIC\nINTERNAL CORRESPONDENCE\nTO\nJ. L. KNOOP\nDEPT.\nC. C. to\nJ. F. NALL\n\"\nJ. L. EMS/sz/113\nDATE_ July 29, 1977\nFROM\nSUBJECT\nEXPORT KENT EVALUATIONS\nAt the request of Quality Assurance, export versions of Kent 80, Kent 85\nand Kent l00 were evaluated for select physical and chemical properties.\nFive cartons of each version were received representing July, l977, manu-\nfacture. The results of the evaluations are presented on the attached\nsheet.\nThe data show:\n1. The density of Kent l00 is low compared to the other versions.\n2. Tobacco analyses show no apparent differences in the blends.\n3. The differences in tar and nicotine deliveries can be accounted\nfor with the diffferences in length of tobacco smoked and filter\npressure drop.\nJ. L. E.\nSEcRET, \" Do Not Copy Or Mala Net-s Ct\nThis PiEo And Do 1\nInformation Contan:\nThe Miloorgate Seaccy Proiceat.\nTo Anyons EnXSt\nM 13\n620489528"
+}

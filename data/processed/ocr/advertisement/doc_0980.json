@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0980.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "XCLUSVITE",
+      "bbox": [
+        728,
+        109,
+        777,
+        277
+      ],
+      "confidence": 0.963329017162323
+    },
+    {
+      "text": "ARLES-B",
+      "bbox": [
+        535,
+        119,
+        577,
+        277
+      ],
+      "confidence": 0.9532704949378967
+    },
+    {
+      "text": "UR",
+      "bbox": [
+        574,
+        118,
+        605,
+        168
+      ],
+      "confidence": 0.6837218403816223
+    },
+    {
+      "text": "AR",
+      "bbox": [
+        604,
+        122,
+        622,
+        161
+      ],
+      "confidence": 0.9921733736991882
+    },
+    {
+      "text": "DALLES",
+      "bbox": [
+        625,
+        127,
+        666,
+        241
+      ],
+      "confidence": 0.9167577624320984
+    },
+    {
+      "text": "EN PREMIER",
+      "bbox": [
+        772,
+        116,
+        777,
+        307
+      ],
+      "confidence": 0.9556518793106079
+    },
+    {
+      "text": "DANS LA REGION",
+      "bbox": [
+        711,
+        148,
+        777,
+        411
+      ],
+      "confidence": 0.9926772713661194
+    },
+    {
+      "text": "LABACS",
+      "bbox": [
+        600,
+        175,
+        628,
+        281
+      ],
+      "confidence": 0.8887153267860413
+    },
+    {
+      "text": "du",
+      "bbox": [
+        579,
+        201,
+        597,
+        240
+      ],
+      "confidence": 0.8196909427642822
+    },
+    {
+      "text": "MARSEILLE",
+      "bbox": [
+        659,
+        189,
+        777,
+        370
+      ],
+      "confidence": 0.9558438062667847
+    },
+    {
+      "text": "ACETATE",
+      "bbox": [
+        99,
+        340,
+        115,
+        399
+      ],
+      "confidence": 0.946057140827179
+    },
+    {
+      "text": "*",
+      "bbox": [
+        125,
+        351,
+        158,
+        439
+      ],
+      "confidence": 0.6697604656219482
+    },
+    {
+      "text": ":CHARBO",
+      "bbox": [
+        91,
+        364,
+        103,
+        420
+      ],
+      "confidence": 0.9562346339225769
+    },
+    {
+      "text": "GALLIA",
+      "bbox": [
+        202,
+        363,
+        244,
+        520
+      ],
+      "confidence": 0.9983401298522949
+    },
+    {
+      "text": "ACETATE",
+      "bbox": [
+        103,
+        397,
+        114,
+        457
+      ],
+      "confidence": 0.9997065663337708
+    },
+    {
+      "text": "Uniquement par Iintermediaire",
+      "bbox": [
+        515,
+        410,
+        535,
+        649
+      ],
+      "confidence": 0.9616166949272156
+    },
+    {
+      "text": "SON FILTRE TRIPLE",
+      "bbox": [
+        710,
+        410,
+        726,
+        550
+      ],
+      "confidence": 0.9874834418296814
+    },
+    {
+      "text": "DEUX raisons à cela :",
+      "bbox": [
+        723,
+        410,
+        739,
+        538
+      ],
+      "confidence": 0.9337776899337769
+    },
+    {
+      "text": "dans vos rayonnages.",
+      "bbox": [
+        457,
+        413,
+        473,
+        538
+      ],
+      "confidence": 0.9751035571098328
+    },
+    {
+      "text": "que I'usage du tabac peut nuire à feur sante.",
+      "bbox": [
+        590,
+        425,
+        606,
+        662
+      ],
+      "confidence": 0.9433125257492065
+    },
+    {
+      "text": "Principalement aux fumeurs qul pensent",
+      "bbox": [
+        601,
+        417,
+        617,
+        650
+      ],
+      "confidence": 0.994888186454773
+    },
+    {
+      "text": "A QUI PROPOSER LA \"GALLIA\"?",
+      "bbox": [
+        618,
+        417,
+        635,
+        658
+      ],
+      "confidence": 0.955820620059967
+    },
+    {
+      "text": "leS TAUX DE GOUDRON ET DE NICOTINE SOnt IES",
+      "bbox": [
+        751,
+        415,
+        772,
+        684
+      ],
+      "confidence": 0.9086157083511353
+    },
+    {
+      "text": "C'est une cigarette BRUNE a bout filtre, dont",
+      "bbox": [
+        763,
+        416,
+        777,
+        644
+      ],
+      "confidence": 0.9622454047203064
+    },
+    {
+      "text": "ligne de commande n",
+      "bbox": [
+        197,
+        541,
+        216,
+        656
+      ],
+      "confidence": 0.9309900999069214
+    },
+    {
+      "text": "1--NOVEMABRE 1971",
+      "bbox": [
+        245,
+        539,
+        262,
+        652
+      ],
+      "confidence": 0.9289354085922241
+    },
+    {
+      "text": "a portir ou:",
+      "bbox": [
+        257,
+        541,
+        269,
+        600
+      ],
+      "confidence": 0.9354219436645508
+    },
+    {
+      "text": "4",
+      "bbox": [
+        657,
+        668,
+        668,
+        679
+      ],
+      "confidence": 0.8819807767868042
+    },
+    {
+      "text": "1000214963",
+      "bbox": [
+        33,
+        740,
+        201,
+        777
+      ],
+      "confidence": 0.9997658729553223
+    }
+  ],
+  "full_text": "XCLUSVITE\nARLES-B\nUR\nAR\nDALLES\nEN PREMIER\nDANS LA REGION\nLABACS\ndu\nMARSEILLE\nACETATE\n*\n:CHARBO\nGALLIA\nACETATE\nUniquement par Iintermediaire\nSON FILTRE TRIPLE\nDEUX raisons à cela :\ndans vos rayonnages.\nque I'usage du tabac peut nuire à feur sante.\nPrincipalement aux fumeurs qul pensent\nA QUI PROPOSER LA \"GALLIA\"?\nleS TAUX DE GOUDRON ET DE NICOTINE SOnt IES\nC'est une cigarette BRUNE a bout filtre, dont\nligne de commande n\n1--NOVEMABRE 1971\na portir ou:\n4\n1000214963"
+}

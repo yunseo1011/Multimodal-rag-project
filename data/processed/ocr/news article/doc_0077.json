@@ -1,0 +1,1301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0077.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DURHAM MORNING HERALD",
+      "bbox": [
+        118,
+        13,
+        298,
+        37
+      ],
+      "confidence": 0.9981202483177185
+    },
+    {
+      "text": "Durham, North Carolina",
+      "bbox": [
+        120,
+        32,
+        307,
+        57
+      ],
+      "confidence": 0.9713634252548218
+    },
+    {
+      "text": "November 13, 1960",
+      "bbox": [
+        121,
+        50,
+        267,
+        75
+      ],
+      "confidence": 0.9829756617546082
+    },
+    {
+      "text": "Allen's Election As",
+      "bbox": [
+        96,
+        100,
+        538,
+        170
+      ],
+      "confidence": 0.9575799703598022
+    },
+    {
+      "text": "President Announced",
+      "bbox": [
+        96,
+        171,
+        601,
+        226
+      ],
+      "confidence": 0.9992295503616333
+    },
+    {
+      "text": "By",
+      "bbox": [
+        88,
+        229,
+        170,
+        295
+      ],
+      "confidence": 0.996503472328186
+    },
+    {
+      "text": "Tobacco Institute",
+      "bbox": [
+        174,
+        230,
+        581,
+        292
+      ],
+      "confidence": 0.992712676525116
+    },
+    {
+      "text": "George V. Allen. director of",
+      "bbox": [
+        103,
+        299,
+        255,
+        312
+      ],
+      "confidence": 0.9640889167785645
+    },
+    {
+      "text": "\"Our country's tobacco leaf",
+      "bbox": [
+        280,
+        300,
+        429,
+        314
+      ],
+      "confidence": 0.9832695126533508
+    },
+    {
+      "text": "Entering the Foreign Service",
+      "bbox": [
+        446,
+        303,
+        596,
+        320
+      ],
+      "confidence": 0.9830681681632996
+    },
+    {
+      "text": "the U.S. Information Agency.",
+      "bbox": [
+        92,
+        309,
+        253,
+        325
+      ],
+      "confidence": 0.9601126313209534
+    },
+    {
+      "text": "has been elected president of",
+      "bbox": [
+        92,
+        322,
+        254,
+        335
+      ],
+      "confidence": 0.9983563423156738
+    },
+    {
+      "text": "and tobacco products have been",
+      "bbox": [
+        269,
+        310,
+        430,
+        326
+      ],
+      "confidence": 0.9953940510749817
+    },
+    {
+      "text": "one of the nation's finest am-",
+      "bbox": [
+        269,
+        322,
+        429,
+        337
+      ],
+      "confidence": 0.9579013586044312
+    },
+    {
+      "text": "in 1930, he held consular posts",
+      "bbox": [
+        436,
+        314,
+        596,
+        331
+      ],
+      "confidence": 0.9814165830612183
+    },
+    {
+      "text": "100354333",
+      "bbox": [
+        52,
+        327,
+        86,
+        513
+      ],
+      "confidence": 0.9962701797485352
+    },
+    {
+      "text": "The Tobacco Institute Inc., na-",
+      "bbox": [
+        92,
+        333,
+        255,
+        346
+      ],
+      "confidence": 0.9922875165939331
+    },
+    {
+      "text": "bassadors of good will, ever",
+      "bbox": [
+        270,
+        334,
+        428,
+        347
+      ],
+      "confidence": 0.9889369606971741
+    },
+    {
+      "text": "His first ambassadorial post was",
+      "bbox": [
+        435,
+        336,
+        597,
+        353
+      ],
+      "confidence": 0.9983329176902771
+    },
+    {
+      "text": "in Jamaica. Greece and Egypt.",
+      "bbox": [
+        436,
+        324,
+        596,
+        342
+      ],
+      "confidence": 0.9647266864776611
+    },
+    {
+      "text": "tional organization of",
+      "bbox": [
+        92,
+        344,
+        210,
+        357
+      ],
+      "confidence": 0.9820283651351929
+    },
+    {
+      "text": "tobacco",
+      "bbox": [
+        211,
+        345,
+        253,
+        356
+      ],
+      "confidence": 0.9960135817527771
+    },
+    {
+      "text": "since John Rolfe shipped his",
+      "bbox": [
+        270,
+        344,
+        428,
+        359
+      ],
+      "confidence": 0.9941248893737793
+    },
+    {
+      "text": "to Iran in 1946, and since then",
+      "bbox": [
+        435,
+        347,
+        596,
+        364
+      ],
+      "confidence": 0.9689918160438538
+    },
+    {
+      "text": "manufacturers.",
+      "bbox": [
+        93,
+        357,
+        170,
+        367
+      ],
+      "confidence": 0.9998793601989746
+    },
+    {
+      "text": "This announcement was made",
+      "bbox": [
+        98,
+        366,
+        253,
+        379
+      ],
+      "confidence": 0.9986898899078369
+    },
+    {
+      "text": "first crop from Virginia in 1612.",
+      "bbox": [
+        270,
+        356,
+        428,
+        369
+      ],
+      "confidence": 0.9866523742675781
+    },
+    {
+      "text": "Tobacco has been a cornerstone",
+      "bbox": [
+        270,
+        367,
+        428,
+        380
+      ],
+      "confidence": 0.9976187348365784
+    },
+    {
+      "text": "he has been U.S. ambassador",
+      "bbox": [
+        435,
+        359,
+        596,
+        375
+      ],
+      "confidence": 0.9945228695869446
+    },
+    {
+      "text": "Saturday by Bowman Gray.",
+      "bbox": [
+        91,
+        376,
+        252,
+        390
+      ],
+      "confidence": 0.9932053685188293
+    },
+    {
+      "text": "of the nation's economy and it",
+      "bbox": [
+        270,
+        378,
+        429,
+        392
+      ],
+      "confidence": 0.9969618916511536
+    },
+    {
+      "text": "to India and Nepal. Yugoslavia",
+      "bbox": [
+        436,
+        370,
+        596,
+        385
+      ],
+      "confidence": 0.9847522377967834
+    },
+    {
+      "text": "chairman of the Executive Com-",
+      "bbox": [
+        92,
+        387,
+        253,
+        401
+      ],
+      "confidence": 0.9793316125869751
+    },
+    {
+      "text": "has contributed to the economic",
+      "bbox": [
+        269,
+        388,
+        429,
+        403
+      ],
+      "confidence": 0.9869932532310486
+    },
+    {
+      "text": "and Greece. He was assistant",
+      "bbox": [
+        437,
+        383,
+        597,
+        396
+      ],
+      "confidence": 0.9988700151443481
+    },
+    {
+      "text": "secretary of state for public af-",
+      "bbox": [
+        437,
+        394,
+        597,
+        407
+      ],
+      "confidence": 0.9888964295387268
+    },
+    {
+      "text": "mittee of The Tobacco Insti-",
+      "bbox": [
+        91,
+        399,
+        253,
+        412
+      ],
+      "confidence": 0.9949286580085754
+    },
+    {
+      "text": "tute.",
+      "bbox": [
+        92,
+        410,
+        117,
+        422
+      ],
+      "confidence": 0.9998198747634888
+    },
+    {
+      "text": "welfare and pleasure of man-",
+      "bbox": [
+        269,
+        399,
+        429,
+        414
+      ],
+      "confidence": 0.9925170540809631
+    },
+    {
+      "text": "kind for over 350 years. The To-",
+      "bbox": [
+        269,
+        409,
+        428,
+        425
+      ],
+      "confidence": 0.9869999885559082
+    },
+    {
+      "text": "fairs under President Truman",
+      "bbox": [
+        436,
+        403,
+        597,
+        418
+      ],
+      "confidence": 0.966858446598053
+    },
+    {
+      "text": "Allen will",
+      "bbox": [
+        101,
+        422,
+        157,
+        433
+      ],
+      "confidence": 0.9916911125183105
+    },
+    {
+      "text": "assume",
+      "bbox": [
+        162,
+        422,
+        206,
+        433
+      ],
+      "confidence": 0.9999380111694336
+    },
+    {
+      "text": "his new",
+      "bbox": [
+        202,
+        419,
+        252,
+        434
+      ],
+      "confidence": 0.9919232130050659
+    },
+    {
+      "text": "bacco Institute will continue to",
+      "bbox": [
+        269,
+        421,
+        429,
+        437
+      ],
+      "confidence": 0.9929707050323486
+    },
+    {
+      "text": "and in this time directed the",
+      "bbox": [
+        436,
+        414,
+        597,
+        429
+      ],
+      "confidence": 0.9868056178092957
+    },
+    {
+      "text": "Office of International informa-",
+      "bbox": [
+        437,
+        426,
+        597,
+        440
+      ],
+      "confidence": 0.9700112342834473
+    },
+    {
+      "text": "duties at the Institute's Wash-",
+      "bbox": [
+        91,
+        431,
+        253,
+        446
+      ],
+      "confidence": 0.9655905961990356
+    },
+    {
+      "text": "work for-the advancement of",
+      "bbox": [
+        269,
+        432,
+        429,
+        448
+      ],
+      "confidence": 0.962665855884552
+    },
+    {
+      "text": "tion, progenitor of the U.S. In-",
+      "bbox": [
+        437,
+        438,
+        596,
+        451
+      ],
+      "confidence": 0.9906105995178223
+    },
+    {
+      "text": "ington headquarters on Dec. 1.",
+      "bbox": [
+        90,
+        443,
+        253,
+        456
+      ],
+      "confidence": 0.9892027378082275
+    },
+    {
+      "text": "He will succeed James P. Rich-",
+      "bbox": [
+        90,
+        454,
+        252,
+        468
+      ],
+      "confidence": 0.9801225662231445
+    },
+    {
+      "text": "all segments of this great in-",
+      "bbox": [
+        269,
+        445,
+        429,
+        458
+      ],
+      "confidence": 0.9794399738311768
+    },
+    {
+      "text": "dustry and for public under-",
+      "bbox": [
+        270,
+        456,
+        428,
+        469
+      ],
+      "confidence": 0.9962825775146484
+    },
+    {
+      "text": "forrmation Agency",
+      "bbox": [
+        436,
+        446,
+        529,
+        463
+      ],
+      "confidence": 0.9353498816490173
+    },
+    {
+      "text": "ards, former Congressman from",
+      "bbox": [
+        90,
+        466,
+        254,
+        479
+      ],
+      "confidence": 0.9994014501571655
+    },
+    {
+      "text": "standing of its past, present and",
+      "bbox": [
+        270,
+        467,
+        428,
+        481
+      ],
+      "confidence": 0.9822458028793335
+    },
+    {
+      "text": "U.S. delegation to the UNESCO",
+      "bbox": [
+        437,
+        470,
+        596,
+        483
+      ],
+      "confidence": 0.987642765045166
+    },
+    {
+      "text": "Allen was chairman of the",
+      "bbox": [
+        444,
+        458,
+        596,
+        473
+      ],
+      "confidence": 0.9961428642272949
+    },
+    {
+      "text": "South Carolina and former",
+      "bbox": [
+        92,
+        476,
+        255,
+        493
+      ],
+      "confidence": 0.9639227986335754
+    },
+    {
+      "text": "chairman of the House Foreign",
+      "bbox": [
+        93,
+        487,
+        256,
+        504
+      ],
+      "confidence": 0.995037853717804
+    },
+    {
+      "text": "future.'",
+      "bbox": [
+        269,
+        478,
+        307,
+        492
+      ],
+      "confidence": 0.9760820865631104
+    },
+    {
+      "text": "conferences at Bierut and Paris",
+      "bbox": [
+        436,
+        481,
+        597,
+        494
+      ],
+      "confidence": 0.9958699345588684
+    },
+    {
+      "text": "Affairs Committee.",
+      "bbox": [
+        92,
+        498,
+        195,
+        515
+      ],
+      "confidence": 0.9953955411911011
+    },
+    {
+      "text": "eign Service while he was still",
+      "bbox": [
+        269,
+        502,
+        428,
+        515
+      ],
+      "confidence": 0.9983850121498108
+    },
+    {
+      "text": "Allen decided to enter the For-",
+      "bbox": [
+        277,
+        491,
+        429,
+        504
+      ],
+      "confidence": 0.9972330927848816
+    },
+    {
+      "text": "in 1948 and 1949. He also par-",
+      "bbox": [
+        437,
+        492,
+        597,
+        505
+      ],
+      "confidence": 0.9737275242805481
+    },
+    {
+      "text": "ticipated in major international",
+      "bbox": [
+        437,
+        502,
+        597,
+        515
+      ],
+      "confidence": 0.9936538338661194
+    },
+    {
+      "text": "A native of Durham. Allen",
+      "bbox": [
+        101,
+        507,
+        255,
+        526
+      ],
+      "confidence": 0.9359857439994812
+    },
+    {
+      "text": "an undergraduate at Trinity",
+      "bbox": [
+        270,
+        513,
+        429,
+        526
+      ],
+      "confidence": 0.9943419098854065
+    },
+    {
+      "text": "conferences at Moscow. Cairo",
+      "bbox": [
+        437,
+        514,
+        597,
+        527
+      ],
+      "confidence": 0.9723160862922668
+    },
+    {
+      "text": "Foreign Service. He is one of",
+      "bbox": [
+        90,
+        531,
+        255,
+        546
+      ],
+      "confidence": 0.9577503204345703
+    },
+    {
+      "text": "leaves a long career in the U.S.",
+      "bbox": [
+        91,
+        519,
+        254,
+        536
+      ],
+      "confidence": 0.9947868585586548
+    },
+    {
+      "text": "College (now Duke University).",
+      "bbox": [
+        270,
+        524,
+        429,
+        537
+      ],
+      "confidence": 0.9739260077476501
+    },
+    {
+      "text": "and Potsdam. and the United",
+      "bbox": [
+        436,
+        524,
+        597,
+        537
+      ],
+      "confidence": 0.9837439060211182
+    },
+    {
+      "text": "only eight persons who hold the",
+      "bbox": [
+        91,
+        540,
+        255,
+        559
+      ],
+      "confidence": 0.9168575406074524
+    },
+    {
+      "text": "To help pay for his education,",
+      "bbox": [
+        269,
+        535,
+        430,
+        548
+      ],
+      "confidence": 0.996747612953186
+    },
+    {
+      "text": "he worked in a cigarette fac-",
+      "bbox": [
+        269,
+        546,
+        429,
+        559
+      ],
+      "confidence": 0.9936299920082092
+    },
+    {
+      "text": "Nations Conference at San Fran-",
+      "bbox": [
+        436,
+        535,
+        597,
+        548
+      ],
+      "confidence": 0.9913948774337769
+    },
+    {
+      "text": "cisco in 1945.",
+      "bbox": [
+        437,
+        547,
+        506,
+        558
+      ],
+      "confidence": 0.9951625466346741
+    },
+    {
+      "text": "title of Career Ambassador.",
+      "bbox": [
+        91,
+        552,
+        238,
+        568
+      ],
+      "confidence": 0.8564251661300659
+    },
+    {
+      "text": "\"While it was a difficult de-",
+      "bbox": [
+        100,
+        562,
+        254,
+        578
+      ],
+      "confidence": 0.9211806058883667
+    },
+    {
+      "text": "tory in Durham.",
+      "bbox": [
+        268,
+        556,
+        353,
+        572
+      ],
+      "confidence": 0.9974596500396729
+    },
+    {
+      "text": "cision to leave the government,",
+      "bbox": [
+        91,
+        575,
+        254,
+        590
+      ],
+      "confidence": 0.9866745471954346
+    },
+    {
+      "text": "After graduation, he became a",
+      "bbox": [
+        277,
+        570,
+        430,
+        585
+      ],
+      "confidence": 0.9937121868133545
+    },
+    {
+      "text": "which I have served for 31",
+      "bbox": [
+        91,
+        585,
+        254,
+        601
+      ],
+      "confidence": 0.9853187799453735
+    },
+    {
+      "text": "school teacher and principal.",
+      "bbox": [
+        268,
+        581,
+        428,
+        596
+      ],
+      "confidence": 0.9722379446029663
+    },
+    {
+      "text": "and worked as a reporter for the",
+      "bbox": [
+        268,
+        592,
+        429,
+        607
+      ],
+      "confidence": 0.9862560033798218
+    },
+    {
+      "text": "years,\"",
+      "bbox": [
+        91,
+        597,
+        133,
+        613
+      ],
+      "confidence": 0.9828910827636719
+    },
+    {
+      "text": "prospect of representing Ameri-",
+      "bbox": [
+        91,
+        607,
+        254,
+        623
+      ],
+      "confidence": 0.9956254363059998
+    },
+    {
+      "text": "Mr. Allen said. the",
+      "bbox": [
+        134,
+        596,
+        254,
+        611
+      ],
+      "confidence": 0.985313892364502
+    },
+    {
+      "text": "Durham Herald-Sun and the",
+      "bbox": [
+        267,
+        603,
+        429,
+        618
+      ],
+      "confidence": 0.9674996137619019
+    },
+    {
+      "text": "ca's oldest industry. and one",
+      "bbox": [
+        91,
+        619,
+        254,
+        634
+      ],
+      "confidence": 0.9812545776367188
+    },
+    {
+      "text": "Asheville Times. (While at",
+      "bbox": [
+        267,
+        614,
+        430,
+        629
+      ],
+      "confidence": 0.9731370210647583
+    },
+    {
+      "text": "of its largest., is most interest-",
+      "bbox": [
+        90,
+        629,
+        255,
+        645
+      ],
+      "confidence": 0.9583213925361633
+    },
+    {
+      "text": "Harvard for his master's degree,",
+      "bbox": [
+        268,
+        627,
+        429,
+        640
+      ],
+      "confidence": 0.9920333623886108
+    },
+    {
+      "text": "he won the coveted Charles",
+      "bbox": [
+        268,
+        636,
+        429,
+        652
+      ],
+      "confidence": 0.9774846434593201
+    },
+    {
+      "text": "and challenging.",
+      "bbox": [
+        112,
+        643,
+        198,
+        657
+      ],
+      "confidence": 0.952587902545929
+    },
+    {
+      "text": "Sumner Prize in International",
+      "bbox": [
+        268,
+        648,
+        429,
+        663
+      ],
+      "confidence": 0.9768732786178589
+    },
+    {
+      "text": "Relations.",
+      "bbox": [
+        268,
+        660,
+        320,
+        674
+      ],
+      "confidence": 0.9556697607040405
+    },
+    {
+      "text": "PITTSBURGH PRESS",
+      "bbox": [
+        490,
+        711,
+        623,
+        729
+      ],
+      "confidence": 0.9978513717651367
+    },
+    {
+      "text": "Pittsburgh, Pennsylvania",
+      "bbox": [
+        489,
+        725,
+        688,
+        745
+      ],
+      "confidence": 0.9820697903633118
+    },
+    {
+      "text": "November 12, 1960",
+      "bbox": [
+        488,
+        740,
+        634,
+        761
+      ],
+      "confidence": 0.9864602088928223
+    },
+    {
+      "text": "1003543331A",
+      "bbox": [
+        144,
+        757,
+        190,
+        946
+      ],
+      "confidence": 0.9970942139625549
+    },
+    {
+      "text": "NEWSWEEK",
+      "bbox": [
+        194,
+        782,
+        267,
+        802
+      ],
+      "confidence": 0.9995166659355164
+    },
+    {
+      "text": "George V. Allen, director of",
+      "bbox": [
+        502,
+        777,
+        661,
+        793
+      ],
+      "confidence": 0.9905193448066711
+    },
+    {
+      "text": "New York, New York",
+      "bbox": [
+        194,
+        799,
+        347,
+        820
+      ],
+      "confidence": 0.998602032661438
+    },
+    {
+      "text": "the U. S. Information Agency,",
+      "bbox": [
+        492,
+        792,
+        661,
+        807
+      ],
+      "confidence": 0.9801284074783325
+    },
+    {
+      "text": "1003543331",
+      "bbox": [
+        692,
+        802,
+        742,
+        986
+      ],
+      "confidence": 0.9686048626899719
+    },
+    {
+      "text": "November 21, 1960",
+      "bbox": [
+        195,
+        815,
+        339,
+        836
+      ],
+      "confidence": 0.9707075953483582
+    },
+    {
+      "text": "will become president of the",
+      "bbox": [
+        490,
+        805,
+        661,
+        823
+      ],
+      "confidence": 0.9851718544960022
+    },
+    {
+      "text": "Tobacco Insti-",
+      "bbox": [
+        574,
+        821,
+        661,
+        836
+      ],
+      "confidence": 0.9655271768569946
+    },
+    {
+      "text": "George V. Allen, one of America's most",
+      "bbox": [
+        194,
+        844,
+        424,
+        864
+      ],
+      "confidence": 0.9857012033462524
+    },
+    {
+      "text": "1, the National",
+      "bbox": [
+        572,
+        843,
+        661,
+        860
+      ],
+      "confidence": 0.9500483870506287
+    },
+    {
+      "text": "tute, Inc., Dec.",
+      "bbox": [
+        574,
+        833,
+        661,
+        848
+      ],
+      "confidence": 0.9583127498626709
+    },
+    {
+      "text": "distinguished career diplomats, became",
+      "bbox": [
+        196,
+        859,
+        423,
+        876
+      ],
+      "confidence": 0.9926897287368774
+    },
+    {
+      "text": "Organization of",
+      "bbox": [
+        573,
+        855,
+        661,
+        871
+      ],
+      "confidence": 0.9954073429107666
+    },
+    {
+      "text": "president of the Tobacco Institute, Inc.,",
+      "bbox": [
+        194,
+        870,
+        424,
+        892
+      ],
+      "confidence": 0.9910112023353577
+    },
+    {
+      "text": "Tobacco Manu-",
+      "bbox": [
+        572,
+        866,
+        661,
+        883
+      ],
+      "confidence": 0.9597758650779724
+    },
+    {
+      "text": "replacing former Congressman James P.",
+      "bbox": [
+        194,
+        883,
+        423,
+        906
+      ],
+      "confidence": 0.9862793684005737
+    },
+    {
+      "text": "announced.",
+      "bbox": [
+        572,
+        890,
+        638,
+        908
+      ],
+      "confidence": 0.9968982934951782
+    },
+    {
+      "text": "facturers has",
+      "bbox": [
+        573,
+        879,
+        661,
+        895
+      ],
+      "confidence": 0.9861103296279907
+    },
+    {
+      "text": "Richards who resigned. Allen resigned",
+      "bbox": [
+        193,
+        896,
+        424,
+        920
+      ],
+      "confidence": 0.9680749773979187
+    },
+    {
+      "text": "Mr. Allen an-",
+      "bbox": [
+        585,
+        901,
+        660,
+        919
+      ],
+      "confidence": 0.9510017037391663
+    },
+    {
+      "text": "last week as director of the U.S. Infor.",
+      "bbox": [
+        197,
+        910,
+        423,
+        932
+      ],
+      "confidence": 0.9885522723197937
+    },
+    {
+      "text": "Mr. Allen nounced his",
+      "bbox": [
+        502,
+        911,
+        661,
+        935
+      ],
+      "confidence": 0.9559553265571594
+    },
+    {
+      "text": "mation Agency in Washington.",
+      "bbox": [
+        196,
+        925,
+        371,
+        948
+      ],
+      "confidence": 0.9893255233764648
+    },
+    {
+      "text": "resignation, effective Dec. 1,",
+      "bbox": [
+        488,
+        924,
+        660,
+        945
+      ],
+      "confidence": 0.9666674733161926
+    },
+    {
+      "text": "from the USIA yesterday.",
+      "bbox": [
+        488,
+        937,
+        633,
+        957
+      ],
+      "confidence": 0.9797360301017761
+    }
+  ],
+  "full_text": "DURHAM MORNING HERALD\nDurham, North Carolina\nNovember 13, 1960\nAllen's Election As\nPresident Announced\nBy\nTobacco Institute\nGeorge V. Allen. director of\n\"Our country's tobacco leaf\nEntering the Foreign Service\nthe U.S. Information Agency.\nhas been elected president of\nand tobacco products have been\none of the nation's finest am-\nin 1930, he held consular posts\n100354333\nThe Tobacco Institute Inc., na-\nbassadors of good will, ever\nHis first ambassadorial post was\nin Jamaica. Greece and Egypt.\ntional organization of\ntobacco\nsince John Rolfe shipped his\nto Iran in 1946, and since then\nmanufacturers.\nThis announcement was made\nfirst crop from Virginia in 1612.\nTobacco has been a cornerstone\nhe has been U.S. ambassador\nSaturday by Bowman Gray.\nof the nation's economy and it\nto India and Nepal. Yugoslavia\nchairman of the Executive Com-\nhas contributed to the economic\nand Greece. He was assistant\nsecretary of state for public af-\nmittee of The Tobacco Insti-\ntute.\nwelfare and pleasure of man-\nkind for over 350 years. The To-\nfairs under President Truman\nAllen will\nassume\nhis new\nbacco Institute will continue to\nand in this time directed the\nOffice of International informa-\nduties at the Institute's Wash-\nwork for-the advancement of\ntion, progenitor of the U.S. In-\nington headquarters on Dec. 1.\nHe will succeed James P. Rich-\nall segments of this great in-\ndustry and for public under-\nforrmation Agency\nards, former Congressman from\nstanding of its past, present and\nU.S. delegation to the UNESCO\nAllen was chairman of the\nSouth Carolina and former\nchairman of the House Foreign\nfuture.'\nconferences at Bierut and Paris\nAffairs Committee.\neign Service while he was still\nAllen decided to enter the For-\nin 1948 and 1949. He also par-\nticipated in major international\nA native of Durham. Allen\nan undergraduate at Trinity\nconferences at Moscow. Cairo\nForeign Service. He is one of\nleaves a long career in the U.S.\nCollege (now Duke University).\nand Potsdam. and the United\nonly eight persons who hold the\nTo help pay for his education,\nhe worked in a cigarette fac-\nNations Conference at San Fran-\ncisco in 1945.\ntitle of Career Ambassador.\n\"While it was a difficult de-\ntory in Durham.\ncision to leave the government,\nAfter graduation, he became a\nwhich I have served for 31\nschool teacher and principal.\nand worked as a reporter for the\nyears,\"\nprospect of representing Ameri-\nMr. Allen said. the\nDurham Herald-Sun and the\nca's oldest industry. and one\nAsheville Times. (While at\nof its largest., is most interest-\nHarvard for his master's degree,\nhe won the coveted Charles\nand challenging.\nSumner Prize in International\nRelations.\nPITTSBURGH PRESS\nPittsburgh, Pennsylvania\nNovember 12, 1960\n1003543331A\nNEWSWEEK\nGeorge V. Allen, director of\nNew York, New York\nthe U. S. Information Agency,\n1003543331\nNovember 21, 1960\nwill become president of the\nTobacco Insti-\nGeorge V. Allen, one of America's most\n1, the National\ntute, Inc., Dec.\ndistinguished career diplomats, became\nOrganization of\npresident of the Tobacco Institute, Inc.,\nTobacco Manu-\nreplacing former Congressman James P.\nannounced.\nfacturers has\nRichards who resigned. Allen resigned\nMr. Allen an-\nlast week as director of the U.S. Infor.\nMr. Allen nounced his\nmation Agency in Washington.\nresignation, effective Dec. 1,\nfrom the USIA yesterday."
+}

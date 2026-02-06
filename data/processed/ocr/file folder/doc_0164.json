@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0164.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "YSP/A PGA -AiN LeTTE TE",
+      "bbox": [
+        20,
+        13,
+        462,
+        73
+      ],
+      "confidence": 0.6308137774467468
+    },
+    {
+      "text": "2071005247",
+      "bbox": [
+        664,
+        130,
+        754,
+        153
+      ],
+      "confidence": 0.9999486804008484
+    }
+  ],
+  "full_text": "YSP/A PGA -AiN LeTTE TE\n2071005247"
+}

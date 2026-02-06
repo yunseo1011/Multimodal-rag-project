@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0306.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Anlae Heatring",
+      "bbox": [
+        16,
+        4,
+        73,
+        175
+      ],
+      "confidence": 0.7024837136268616
+    },
+    {
+      "text": "2016007209",
+      "bbox": [
+        75,
+        4,
+        127,
+        149
+      ],
+      "confidence": 0.9542932510375977
+    },
+    {
+      "text": "1960",
+      "bbox": [
+        0,
+        85,
+        31,
+        139
+      ],
+      "confidence": 0.9887191653251648
+    }
+  ],
+  "full_text": "Anlae Heatring\n2016007209\n1960"
+}

@@ -1,0 +1,601 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0053.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Selected in-House Printers - Fair Market Values",
+      "bbox": [
+        234,
+        97,
+        506,
+        115
+      ],
+      "confidence": 0.9839728474617004
+    },
+    {
+      "text": "The Tobacco Institute",
+      "bbox": [
+        309,
+        83,
+        430,
+        97
+      ],
+      "confidence": 0.9771658778190613
+    },
+    {
+      "text": "Printer",
+      "bbox": [
+        104,
+        135,
+        157,
+        155
+      ],
+      "confidence": 0.9998524785041809
+    },
+    {
+      "text": "Location",
+      "bbox": [
+        239,
+        131,
+        301,
+        149
+      ],
+      "confidence": 0.9999293088912964
+    },
+    {
+      "text": "Manuf. Date",
+      "bbox": [
+        327,
+        130,
+        413,
+        147
+      ],
+      "confidence": 0.9697763323783875
+    },
+    {
+      "text": "Est. FMV",
+      "bbox": [
+        420,
+        130,
+        479,
+        147
+      ],
+      "confidence": 0.9981762170791626
+    },
+    {
+      "text": "HP LJ 5P",
+      "bbox": [
+        42,
+        167,
+        107,
+        189
+      ],
+      "confidence": 0.9575729370117188
+    },
+    {
+      "text": "CK",
+      "bbox": [
+        139,
+        171,
+        177,
+        190
+      ],
+      "confidence": 0.7912521362304688
+    },
+    {
+      "text": "Wilson",
+      "bbox": [
+        216,
+        170,
+        259,
+        185
+      ],
+      "confidence": 0.9511913657188416
+    },
+    {
+      "text": "May-95",
+      "bbox": [
+        371,
+        165,
+        418,
+        183
+      ],
+      "confidence": 0.9996549487113953
+    },
+    {
+      "text": "$55",
+      "bbox": [
+        456,
+        166,
+        483,
+        182
+      ],
+      "confidence": 0.9999573826789856
+    },
+    {
+      "text": "HP LJ IID",
+      "bbox": [
+        43,
+        182,
+        108,
+        205
+      ],
+      "confidence": 0.9154803156852722
+    },
+    {
+      "text": "Comp. Rm.",
+      "bbox": [
+        214,
+        183,
+        285,
+        204
+      ],
+      "confidence": 0.9867755174636841
+    },
+    {
+      "text": "Apr-89",
+      "bbox": [
+        375,
+        181,
+        418,
+        200
+      ],
+      "confidence": 0.9982420802116394
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        456,
+        180,
+        484,
+        200
+      ],
+      "confidence": 0.9998399615287781
+    },
+    {
+      "text": "HP LJ IID",
+      "bbox": [
+        40,
+        197,
+        108,
+        220
+      ],
+      "confidence": 0.9563801884651184
+    },
+    {
+      "text": "ok",
+      "bbox": [
+        140,
+        188,
+        175,
+        207
+      ],
+      "confidence": 0.6308594942092896
+    },
+    {
+      "text": "Comp Rm",
+      "bbox": [
+        214,
+        198,
+        285,
+        220
+      ],
+      "confidence": 0.997016966342926
+    },
+    {
+      "text": "Jan-89",
+      "bbox": [
+        375,
+        198,
+        419,
+        216
+      ],
+      "confidence": 0.9995929598808289
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        457,
+        198,
+        485,
+        217
+      ],
+      "confidence": 0.9998440146446228
+    },
+    {
+      "text": "HP LJ H1D",
+      "bbox": [
+        40,
+        212,
+        107,
+        235
+      ],
+      "confidence": 0.8645309209823608
+    },
+    {
+      "text": "Jame",
+      "bbox": [
+        122,
+        205,
+        180,
+        222
+      ],
+      "confidence": 0.8815917372703552
+    },
+    {
+      "text": "Comp Rm",
+      "bbox": [
+        214,
+        215,
+        285,
+        236
+      ],
+      "confidence": 0.9474644660949707
+    },
+    {
+      "text": "Jan-89",
+      "bbox": [
+        375,
+        215,
+        419,
+        233
+      ],
+      "confidence": 0.9992440342903137
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        457,
+        214,
+        486,
+        233
+      ],
+      "confidence": 0.9999081492424011
+    },
+    {
+      "text": "1",
+      "bbox": [
+        504,
+        207,
+        737,
+        237
+      ],
+      "confidence": 0.6888512372970581
+    },
+    {
+      "text": "HP LJII",
+      "bbox": [
+        39,
+        227,
+        100,
+        251
+      ],
+      "confidence": 0.9618287086486816
+    },
+    {
+      "text": "illD",
+      "bbox": [
+        116,
+        220,
+        150,
+        238
+      ],
+      "confidence": 0.7767340540885925
+    },
+    {
+      "text": "HP LJ II",
+      "bbox": [
+        40,
+        245,
+        98,
+        266
+      ],
+      "confidence": 0.9260058999061584
+    },
+    {
+      "text": "Ozechowski",
+      "bbox": [
+        216,
+        233,
+        290,
+        252
+      ],
+      "confidence": 0.9925681352615356
+    },
+    {
+      "text": "Feb-88",
+      "bbox": [
+        376,
+        233,
+        419,
+        248
+      ],
+      "confidence": 0.999922513961792
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        458,
+        233,
+        485,
+        249
+      ],
+      "confidence": 0.9998931884765625
+    },
+    {
+      "text": "HP LJII",
+      "bbox": [
+        39,
+        261,
+        99,
+        283
+      ],
+      "confidence": 0.8146178126335144
+    },
+    {
+      "text": "CK",
+      "bbox": [
+        113,
+        250,
+        141,
+        269
+      ],
+      "confidence": 0.8722150325775146
+    },
+    {
+      "text": "Kelahan",
+      "bbox": [
+        216,
+        251,
+        269,
+        268
+      ],
+      "confidence": 0.998507022857666
+    },
+    {
+      "text": "May-87",
+      "bbox": [
+        374,
+        249,
+        420,
+        267
+      ],
+      "confidence": 0.9996827244758606
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        458,
+        248,
+        488,
+        267
+      ],
+      "confidence": 0.9987174868583679
+    },
+    {
+      "text": "HP LJII",
+      "bbox": [
+        40,
+        277,
+        98,
+        299
+      ],
+      "confidence": 0.9529744386672974
+    },
+    {
+      "text": "Jul-87",
+      "bbox": [
+        382,
+        267,
+        421,
+        282
+      ],
+      "confidence": 0.9906210899353027
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        459,
+        264,
+        488,
+        283
+      ],
+      "confidence": 0.9711796641349792
+    },
+    {
+      "text": "912",
+      "bbox": [
+        129,
+        283,
+        172,
+        301
+      ],
+      "confidence": 0.7813591361045837
+    },
+    {
+      "text": "Comp Rm",
+      "bbox": [
+        217,
+        283,
+        287,
+        300
+      ],
+      "confidence": 0.9980751872062683
+    },
+    {
+      "text": "May-88",
+      "bbox": [
+        376,
+        282,
+        423,
+        300
+      ],
+      "confidence": 0.9997625946998596
+    },
+    {
+      "text": "$45",
+      "bbox": [
+        458,
+        279,
+        489,
+        302
+      ],
+      "confidence": 0.9951357841491699
+    },
+    {
+      "text": "HP LJ IIP",
+      "bbox": [
+        39,
+        293,
+        106,
+        315
+      ],
+      "confidence": 0.9648317694664001
+    },
+    {
+      "text": "ok",
+      "bbox": [
+        124,
+        300,
+        154,
+        320
+      ],
+      "confidence": 0.6170941591262817
+    },
+    {
+      "text": "Comp. Rm.",
+      "bbox": [
+        217,
+        300,
+        288,
+        318
+      ],
+      "confidence": 0.9810001850128174
+    },
+    {
+      "text": "Oct-89",
+      "bbox": [
+        380,
+        299,
+        424,
+        318
+      ],
+      "confidence": 0.999549150466919
+    },
+    {
+      "text": "$40",
+      "bbox": [
+        459,
+        297,
+        490,
+        320
+      ],
+      "confidence": 0.9994707107543945
+    },
+    {
+      "text": "NEC Pinwriter P6200",
+      "bbox": [
+        40,
+        310,
+        179,
+        335
+      ],
+      "confidence": 0.9946089386940002
+    },
+    {
+      "text": "Comp Rm",
+      "bbox": [
+        218,
+        318,
+        287,
+        332
+      ],
+      "confidence": 0.9836402535438538
+    },
+    {
+      "text": "1995 4",
+      "bbox": [
+        382,
+        319,
+        425,
+        334
+      ],
+      "confidence": 0.9425693154335022
+    },
+    {
+      "text": "$5",
+      "bbox": [
+        470,
+        317,
+        491,
+        336
+      ],
+      "confidence": 0.9998733401298523
+    },
+    {
+      "text": "NEC Pinwniter P6200",
+      "bbox": [
+        41,
+        327,
+        177,
+        351
+      ],
+      "confidence": 0.9737497568130493
+    },
+    {
+      "text": "Comp. Rm.",
+      "bbox": [
+        218,
+        335,
+        289,
+        352
+      ],
+      "confidence": 0.9855330586433411
+    },
+    {
+      "text": "$5",
+      "bbox": [
+        470,
+        335,
+        492,
+        353
+      ],
+      "confidence": 0.9998235702514648
+    },
+    {
+      "text": "LJID Duane Pearson",
+      "bbox": [
+        0,
+        450,
+        250,
+        483
+      ],
+      "confidence": 0.7759271860122681
+    },
+    {
+      "text": "PRARCO",
+      "bbox": [
+        86,
+        487,
+        174,
+        521
+      ],
+      "confidence": 0.7399296760559082
+    },
+    {
+      "text": "Page 1 of 1 - 1/15/99",
+      "bbox": [
+        341,
+        959,
+        457,
+        981
+      ],
+      "confidence": 0.9714428186416626
+    }
+  ],
+  "full_text": "Selected in-House Printers - Fair Market Values\nThe Tobacco Institute\nPrinter\nLocation\nManuf. Date\nEst. FMV\nHP LJ 5P\nCK\nWilson\nMay-95\n$55\nHP LJ IID\nComp. Rm.\nApr-89\n$45\nHP LJ IID\nok\nComp Rm\nJan-89\n$45\nHP LJ H1D\nJame\nComp Rm\nJan-89\n$45\n1\nHP LJII\nillD\nHP LJ II\nOzechowski\nFeb-88\n$45\nHP LJII\nCK\nKelahan\nMay-87\n$45\nHP LJII\nJul-87\n$45\n912\nComp Rm\nMay-88\n$45\nHP LJ IIP\nok\nComp. Rm.\nOct-89\n$40\nNEC Pinwriter P6200\nComp Rm\n1995 4\n$5\nNEC Pinwniter P6200\nComp. Rm.\n$5\nLJID Duane Pearson\nPRARCO\nPage 1 of 1 - 1/15/99"
+}

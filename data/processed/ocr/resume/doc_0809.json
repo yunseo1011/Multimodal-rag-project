@@ -1,0 +1,431 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0809.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Curriculum Vitac: Che-Kun James Shen",
+      "bbox": [
+        265,
+        48,
+        480,
+        62
+      ],
+      "confidence": 0.991252064704895
+    },
+    {
+      "text": "Birth Date: July 29, 1949",
+      "bbox": [
+        61,
+        70,
+        208,
+        95
+      ],
+      "confidence": 0.9663575887680054
+    },
+    {
+      "text": "Marital Status: Marricd",
+      "bbox": [
+        62,
+        104,
+        197,
+        127
+      ],
+      "confidence": 0.990617573261261
+    },
+    {
+      "text": "Education:",
+      "bbox": [
+        63,
+        137,
+        125,
+        159
+      ],
+      "confidence": 0.9988764524459839
+    },
+    {
+      "text": "B.S., 1971, Department of Chemistry, National Taiwan",
+      "bbox": [
+        148,
+        139,
+        446,
+        158
+      ],
+      "confidence": 0.9878489375114441
+    },
+    {
+      "text": "University, Republic of China",
+      "bbox": [
+        157,
+        156,
+        321,
+        175
+      ],
+      "confidence": 0.9994173645973206
+    },
+    {
+      "text": "Ph.D., 1977, Department of Chemistry, University of",
+      "bbox": [
+        149,
+        185,
+        439,
+        206
+      ],
+      "confidence": 0.9956134557723999
+    },
+    {
+      "text": "California, Berkeley. Adviser Dr. John E. Hearst",
+      "bbox": [
+        157,
+        201,
+        418,
+        221
+      ],
+      "confidence": 0.9783889651298523
+    },
+    {
+      "text": "Postdoctoral Fellow, 1978-1981, Division of Biology,",
+      "bbox": [
+        150,
+        231,
+        440,
+        251
+      ],
+      "confidence": 0.987528383731842
+    },
+    {
+      "text": "California Institute of Technology, Pasadena.",
+      "bbox": [
+        157,
+        246,
+        397,
+        266
+      ],
+      "confidence": 0.9897320866584778
+    },
+    {
+      "text": "Adviser Dr. Tom Maniatis",
+      "bbox": [
+        158,
+        262,
+        301,
+        280
+      ],
+      "confidence": 0.9986357688903809
+    },
+    {
+      "text": "Professional Experience",
+      "bbox": [
+        66,
+        292,
+        197,
+        314
+      ],
+      "confidence": 0.9899696111679077
+    },
+    {
+      "text": "1973-1977",
+      "bbox": [
+        152,
+        312,
+        209,
+        327
+      ],
+      "confidence": 0.9855482578277588
+    },
+    {
+      "text": "Rescarch Assistant and Teaching Assistant,",
+      "bbox": [
+        242,
+        309,
+        472,
+        329
+      ],
+      "confidence": 0.9814480543136597
+    },
+    {
+      "text": "Department of Chemistry, University of California,",
+      "bbox": [
+        249,
+        326,
+        524,
+        344
+      ],
+      "confidence": 0.9926466941833496
+    },
+    {
+      "text": "Berkeley",
+      "bbox": [
+        249,
+        339,
+        298,
+        359
+      ],
+      "confidence": 0.959134578704834
+    },
+    {
+      "text": "1978-1981",
+      "bbox": [
+        151,
+        358,
+        208,
+        372
+      ],
+      "confidence": 0.9998839497566223
+    },
+    {
+      "text": "Postdoctoral Fellow of Biology,Califomia",
+      "bbox": [
+        241,
+        356,
+        466,
+        375
+      ],
+      "confidence": 0.9867647290229797
+    },
+    {
+      "text": "Institute of Technology, Pasadena",
+      "bbox": [
+        247,
+        371,
+        429,
+        390
+      ],
+      "confidence": 0.9873805046081543
+    },
+    {
+      "text": "1981-1983",
+      "bbox": [
+        150,
+        387,
+        209,
+        404
+      ],
+      "confidence": 0.999902069568634
+    },
+    {
+      "text": "Assistant Professor of Genetics, University of",
+      "bbox": [
+        242,
+        386,
+        487,
+        406
+      ],
+      "confidence": 0.9769687056541443
+    },
+    {
+      "text": "Califomia, Davis",
+      "bbox": [
+        249,
+        403,
+        339,
+        416
+      ],
+      "confidence": 0.9894541501998901
+    },
+    {
+      "text": "1983-1988",
+      "bbox": [
+        151,
+        417,
+        208,
+        431
+      ],
+      "confidence": 0.9998840689659119
+    },
+    {
+      "text": "Associate Professor of Genetics, University of",
+      "bbox": [
+        241,
+        414,
+        488,
+        437
+      ],
+      "confidence": 0.9855848550796509
+    },
+    {
+      "text": "California, Davis",
+      "bbox": [
+        248,
+        432,
+        339,
+        447
+      ],
+      "confidence": 0.9700247645378113
+    },
+    {
+      "text": "1988-present",
+      "bbox": [
+        150,
+        448,
+        219,
+        465
+      ],
+      "confidence": 0.9628140330314636
+    },
+    {
+      "text": "Professor of Genetics, University of Califomnia,",
+      "bbox": [
+        240,
+        445,
+        492,
+        467
+      ],
+      "confidence": 0.966987669467926
+    },
+    {
+      "text": "Davis",
+      "bbox": [
+        247,
+        462,
+        283,
+        480
+      ],
+      "confidence": 0.9355292320251465
+    },
+    {
+      "text": "Academic Honors and Awards",
+      "bbox": [
+        67,
+        494,
+        222,
+        507
+      ],
+      "confidence": 0.9992063045501709
+    },
+    {
+      "text": "Anthony Earle C. Fellowship, 1975-1977",
+      "bbox": [
+        160,
+        510,
+        376,
+        524
+      ],
+      "confidence": 0.9893103241920471
+    },
+    {
+      "text": "NIH Postdoctoral Fellowship, 1978-1981",
+      "bbox": [
+        160,
+        523,
+        374,
+        540
+      ],
+      "confidence": 0.9974890351295471
+    },
+    {
+      "text": "NIH Research Career Developmcnt Award, 1984-1989",
+      "bbox": [
+        158,
+        536,
+        440,
+        558
+      ],
+      "confidence": 0.9900743365287781
+    },
+    {
+      "text": "NIH Fogarty Senior International Fellowship, 1986-1987",
+      "bbox": [
+        158,
+        550,
+        459,
+        574
+      ],
+      "confidence": 0.9832728505134583
+    },
+    {
+      "text": "Professional Associations and Committees",
+      "bbox": [
+        64,
+        579,
+        289,
+        600
+      ],
+      "confidence": 0.9951741099357605
+    },
+    {
+      "text": "NIH Mammalian Genetics Study Section, 1984, 1985",
+      "bbox": [
+        157,
+        595,
+        441,
+        620
+      ],
+      "confidence": 0.9947789311408997
+    },
+    {
+      "text": "Editorial Board, Analytical Biochemistry, 1981-1987",
+      "bbox": [
+        156,
+        611,
+        434,
+        635
+      ],
+      "confidence": 0.9894845485687256
+    },
+    {
+      "text": "American Society of Biochemistry and Molccular Biology",
+      "bbox": [
+        156,
+        625,
+        461,
+        653
+      ],
+      "confidence": 0.9897021055221558
+    },
+    {
+      "text": "Sigma χi",
+      "bbox": [
+        155,
+        640,
+        209,
+        663
+      ],
+      "confidence": 0.9225476980209351
+    },
+    {
+      "text": "AS",
+      "bbox": [
+        154,
+        655,
+        196,
+        677
+      ],
+      "confidence": 0.8308263421058655
+    },
+    {
+      "text": "Current Grant Support",
+      "bbox": [
+        59,
+        687,
+        182,
+        708
+      ],
+      "confidence": 0.9992856383323669
+    },
+    {
+      "text": "NIH DK29800  \"Evolution and Regulation of Primate α-globin Gene Families\"",
+      "bbox": [
+        154,
+        707,
+        591,
+        731
+      ],
+      "confidence": 0.9772034883499146
+    },
+    {
+      "text": "7/1/89-6/30/94 - Annual dircct cost $12,000.00",
+      "bbox": [
+        154,
+        724,
+        412,
+        745
+      ],
+      "confidence": 0.9922201633453369
+    }
+  ],
+  "full_text": "Curriculum Vitac: Che-Kun James Shen\nBirth Date: July 29, 1949\nMarital Status: Marricd\nEducation:\nB.S., 1971, Department of Chemistry, National Taiwan\nUniversity, Republic of China\nPh.D., 1977, Department of Chemistry, University of\nCalifornia, Berkeley. Adviser Dr. John E. Hearst\nPostdoctoral Fellow, 1978-1981, Division of Biology,\nCalifornia Institute of Technology, Pasadena.\nAdviser Dr. Tom Maniatis\nProfessional Experience\n1973-1977\nRescarch Assistant and Teaching Assistant,\nDepartment of Chemistry, University of California,\nBerkeley\n1978-1981\nPostdoctoral Fellow of Biology,Califomia\nInstitute of Technology, Pasadena\n1981-1983\nAssistant Professor of Genetics, University of\nCalifomia, Davis\n1983-1988\nAssociate Professor of Genetics, University of\nCalifornia, Davis\n1988-present\nProfessor of Genetics, University of Califomnia,\nDavis\nAcademic Honors and Awards\nAnthony Earle C. Fellowship, 1975-1977\nNIH Postdoctoral Fellowship, 1978-1981\nNIH Research Career Developmcnt Award, 1984-1989\nNIH Fogarty Senior International Fellowship, 1986-1987\nProfessional Associations and Committees\nNIH Mammalian Genetics Study Section, 1984, 1985\nEditorial Board, Analytical Biochemistry, 1981-1987\nAmerican Society of Biochemistry and Molccular Biology\nSigma χi\nAS\nCurrent Grant Support\nNIH DK29800  \"Evolution and Regulation of Primate α-globin Gene Families\"\n7/1/89-6/30/94 - Annual dircct cost $12,000.00"
+}

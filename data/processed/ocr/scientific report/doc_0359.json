@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0359.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "8501",
+      "bbox": [
+        580,
+        40,
+        626,
+        58
+      ],
+      "confidence": 0.9999028444290161
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        289,
+        124,
+        456,
+        142
+      ],
+      "confidence": 0.996578574180603
+    },
+    {
+      "text": "RESEARCH AND DEVELOPMENT DEPARTMENT",
+      "bbox": [
+        205,
+        155,
+        540,
+        173
+      ],
+      "confidence": 0.9991689324378967
+    },
+    {
+      "text": "AUSTRIA TEST #201 - 02CL",
+      "bbox": [
+        265,
+        343,
+        498,
+        363
+      ],
+      "confidence": 0.9918192028999329
+    },
+    {
+      "text": "C82-02675",
+      "bbox": [
+        294,
+        455,
+        405,
+        484
+      ],
+      "confidence": 0.9990634918212891
+    },
+    {
+      "text": "DISTRIBUTION",
+      "bbox": [
+        314,
+        551,
+        433,
+        574
+      ],
+      "confidence": 0.9997612833976746
+    },
+    {
+      "text": "Mr. J. B. Boder (2)",
+      "bbox": [
+        97,
+        587,
+        271,
+        604
+      ],
+      "confidence": 0.9627888202667236
+    },
+    {
+      "text": "Mr. W. G. Lloyd",
+      "bbox": [
+        465,
+        585,
+        610,
+        602
+      ],
+      "confidence": 0.9968156814575195
+    },
+    {
+      "text": "Mr. P. J. Clarke",
+      "bbox": [
+        96,
+        601,
+        248,
+        620
+      ],
+      "confidence": 0.9156633019447327
+    },
+    {
+      "text": "Mr. w. G. Longest",
+      "bbox": [
+        464,
+        599,
+        627,
+        618
+      ],
+      "confidence": 0.9769920110702515
+    },
+    {
+      "text": "Dr. W. F. Gannon",
+      "bbox": [
+        96,
+        617,
+        247,
+        635
+      ],
+      "confidence": 0.9947377443313599
+    },
+    {
+      "text": "Mr. F. A. Lowman",
+      "bbox": [
+        463,
+        614,
+        619,
+        633
+      ],
+      "confidence": 0.9866564273834229
+    },
+    {
+      "text": "Mr. H. Ganteaume",
+      "bbox": [
+        98,
+        634,
+        246,
+        648
+      ],
+      "confidence": 0.9853882789611816
+    },
+    {
+      "text": "Mr. H. Maxwell",
+      "bbox": [
+        463,
+        629,
+        599,
+        648
+      ],
+      "confidence": 0.9617772698402405
+    },
+    {
+      "text": "Mr. J. Gibson",
+      "bbox": [
+        97,
+        646,
+        221,
+        666
+      ],
+      "confidence": 0.9923068284988403
+    },
+    {
+      "text": "Mr. J. L. Myracle",
+      "bbox": [
+        463,
+        645,
+        625,
+        664
+      ],
+      "confidence": 0.9933362007141113
+    },
+    {
+      "text": "Ms. L. Greher",
+      "bbox": [
+        97,
+        662,
+        222,
+        682
+      ],
+      "confidence": 0.9942379593849182
+    },
+    {
+      "text": "Mr. L. Pollak",
+      "bbox": [
+        463,
+        660,
+        589,
+        680
+      ],
+      "confidence": 0.9848668575286865
+    },
+    {
+      "text": "Ms. M. Jaquith",
+      "bbox": [
+        98,
+        677,
+        231,
+        698
+      ],
+      "confidence": 0.9869713187217712
+    },
+    {
+      "text": "Mr. F. E. Resnik",
+      "bbox": [
+        463,
+        675,
+        617,
+        695
+      ],
+      "confidence": 0.9696953296661377
+    },
+    {
+      "text": "Mr. M. Serrano",
+      "bbox": [
+        464,
+        691,
+        597,
+        710
+      ],
+      "confidence": 0.9642574191093445
+    },
+    {
+      "text": "HLightrer",
+      "bbox": [
+        270,
+        731,
+        439,
+        776
+      ],
+      "confidence": 0.6330536007881165
+    },
+    {
+      "text": "1000807657",
+      "bbox": [
+        654,
+        738,
+        701,
+        892
+      ],
+      "confidence": 0.9998824000358582
+    },
+    {
+      "text": "PREPARED BY:",
+      "bbox": [
+        56,
+        756,
+        170,
+        773
+      ],
+      "confidence": 0.9996189475059509
+    },
+    {
+      "text": "C cBight",
+      "bbox": [
+        264,
+        768,
+        438,
+        825
+      ],
+      "confidence": 0.828069806098938
+    },
+    {
+      "text": "fwble",
+      "bbox": [
+        264,
+        818,
+        436,
+        892
+      ],
+      "confidence": 0.6678436994552612
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        58,
+        847,
+        171,
+        864
+      ],
+      "confidence": 0.999518096446991
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        56,
+        891,
+        110,
+        912
+      ],
+      "confidence": 0.9899978637695312
+    },
+    {
+      "text": "April 20, 1982",
+      "bbox": [
+        310,
+        889,
+        441,
+        909
+      ],
+      "confidence": 0.9694222807884216
+    }
+  ],
+  "full_text": "8501\nPHILIP MORRIS USA\nRESEARCH AND DEVELOPMENT DEPARTMENT\nAUSTRIA TEST #201 - 02CL\nC82-02675\nDISTRIBUTION\nMr. J. B. Boder (2)\nMr. W. G. Lloyd\nMr. P. J. Clarke\nMr. w. G. Longest\nDr. W. F. Gannon\nMr. F. A. Lowman\nMr. H. Ganteaume\nMr. H. Maxwell\nMr. J. Gibson\nMr. J. L. Myracle\nMs. L. Greher\nMr. L. Pollak\nMs. M. Jaquith\nMr. F. E. Resnik\nMr. M. Serrano\nHLightrer\n1000807657\nPREPARED BY:\nC cBight\nfwble\nAPPROVED BY:\nDATE:\nApril 20, 1982"
+}

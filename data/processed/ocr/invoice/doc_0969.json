@@ -1,0 +1,1031 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0969.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "LEO BURNETT U.S.A.",
+      "bbox": [
+        93,
+        15,
+        284,
+        36
+      ],
+      "confidence": 0.9888549447059631
+    },
+    {
+      "text": "P339L",
+      "bbox": [
+        547,
+        13,
+        678,
+        82
+      ],
+      "confidence": 0.8792511820793152
+    },
+    {
+      "text": "DEVEBEON OF LEO BURNETT COMPANY. ING.",
+      "bbox": [
+        106,
+        36,
+        284,
+        49
+      ],
+      "confidence": 0.9185879826545715
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        148,
+        50,
+        238,
+        64
+      ],
+      "confidence": 0.9892498254776001
+    },
+    {
+      "text": "PRINT PRODUCTION ESTIMATE",
+      "bbox": [
+        237,
+        86,
+        466,
+        112
+      ],
+      "confidence": 0.9830058217048645
+    },
+    {
+      "text": "DATE: 11715/94",
+      "bbox": [
+        548,
+        89,
+        689,
+        113
+      ],
+      "confidence": 0.8850250244140625
+    },
+    {
+      "text": "PHILIP MORRIS INC",
+      "bbox": [
+        131,
+        122,
+        290,
+        145
+      ],
+      "confidence": 0.9944338798522949
+    },
+    {
+      "text": "MAR2016-94/PGSP",
+      "bbox": [
+        549,
+        124,
+        689,
+        145
+      ],
+      "confidence": 0.9663465023040771
+    },
+    {
+      "text": "CLIENT:",
+      "bbox": [
+        8,
+        128,
+        74,
+        142
+      ],
+      "confidence": 0.9983706474304199
+    },
+    {
+      "text": "B",
+      "bbox": [
+        27,
+        141,
+        42,
+        151
+      ],
+      "confidence": 0.997672975063324
+    },
+    {
+      "text": "\"JOB*:",
+      "bbox": [
+        39,
+        139,
+        90,
+        153
+      ],
+      "confidence": 0.7929063439369202
+    },
+    {
+      "text": "M41616",
+      "bbox": [
+        134,
+        140,
+        190,
+        154
+      ],
+      "confidence": 0.982203483581543
+    },
+    {
+      "text": "FISCAL YEAR:",
+      "bbox": [
+        392,
+        136,
+        499,
+        156
+      ],
+      "confidence": 0.9623448252677917
+    },
+    {
+      "text": "IENT IDS:",
+      "bbox": [
+        406,
+        129,
+        491,
+        143
+      ],
+      "confidence": 0.9555155634880066
+    },
+    {
+      "text": "94",
+      "bbox": [
+        552,
+        140,
+        573,
+        152
+      ],
+      "confidence": 0.9668340086936951
+    },
+    {
+      "text": "START DATE:",
+      "bbox": [
+        391,
+        151,
+        491,
+        165
+      ],
+      "confidence": 0.9816105365753174
+    },
+    {
+      "text": "01/27/94",
+      "bbox": [
+        550,
+        148,
+        627,
+        166
+      ],
+      "confidence": 0.9711673259735107
+    },
+    {
+      "text": ":",
+      "bbox": [
+        424,
+        164,
+        445,
+        175
+      ],
+      "confidence": 0.81526118516922
+    },
+    {
+      "text": "1/15/94",
+      "bbox": [
+        560,
+        172,
+        637,
+        186
+      ],
+      "confidence": 0.8736048340797424
+    },
+    {
+      "text": "y",
+      "bbox": [
+        562,
+        165,
+        572,
+        174
+      ],
+      "confidence": 0.601653516292572
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        7,
+        182,
+        115,
+        201
+      ],
+      "confidence": 0.9970325827598572
+    },
+    {
+      "text": "DA",
+      "bbox": [
+        66,
+        178,
+        83,
+        185
+      ],
+      "confidence": 0.8674485683441162
+    },
+    {
+      "text": "R\"5'MEDIUM PROMO",
+      "bbox": [
+        133,
+        186,
+        277,
+        201
+      ],
+      "confidence": 0.9115601778030396
+    },
+    {
+      "text": "POS,",
+      "bbox": [
+        134,
+        175,
+        174,
+        190
+      ],
+      "confidence": 0.9356248378753662
+    },
+    {
+      "text": "1994",
+      "bbox": [
+        173,
+        177,
+        217,
+        189
+      ],
+      "confidence": 0.9993953704833984
+    },
+    {
+      "text": "PREV REV DATE:",
+      "bbox": [
+        391,
+        183,
+        515,
+        200
+      ],
+      "confidence": 0.925696849822998
+    },
+    {
+      "text": "REV DATE:",
+      "bbox": [
+        394,
+        173,
+        472,
+        188
+      ],
+      "confidence": 0.9729623794555664
+    },
+    {
+      "text": "04/27/94",
+      "bbox": [
+        552,
+        184,
+        624,
+        199
+      ],
+      "confidence": 0.9416741132736206
+    },
+    {
+      "text": "CLOSED DATE:",
+      "bbox": [
+        391,
+        197,
+        499,
+        211
+      ],
+      "confidence": 0.966188907623291
+    },
+    {
+      "text": "11755/9",
+      "bbox": [
+        548,
+        194,
+        621,
+        211
+      ],
+      "confidence": 0.7106843590736389
+    },
+    {
+      "text": "WALKER",
+      "bbox": [
+        549,
+        202,
+        610,
+        224
+      ],
+      "confidence": 0.9507675766944885
+    },
+    {
+      "text": "PRODUCT:",
+      "bbox": [
+        6,
+        216,
+        82,
+        233
+      ],
+      "confidence": 0.9988100528717041
+    },
+    {
+      "text": "SERVICER:",
+      "bbox": [
+        390,
+        208,
+        471,
+        222
+      ],
+      "confidence": 0.999119758605957
+    },
+    {
+      "text": "10-MARLBORO",
+      "bbox": [
+        129,
+        218,
+        232,
+        235
+      ],
+      "confidence": 0.9749417901039124
+    },
+    {
+      "text": "PREVIOUS",
+      "bbox": [
+        395,
+        236,
+        472,
+        256
+      ],
+      "confidence": 0.9898386001586914
+    },
+    {
+      "text": "FINAL",
+      "bbox": [
+        556,
+        235,
+        612,
+        258
+      ],
+      "confidence": 0.9943501353263855
+    },
+    {
+      "text": "ESTIMATE",
+      "bbox": [
+        398,
+        252,
+        472,
+        266
+      ],
+      "confidence": 0.9433151483535767
+    },
+    {
+      "text": "PRINTS",
+      "bbox": [
+        51,
+        275,
+        107,
+        286
+      ],
+      "confidence": 0.9911406636238098
+    },
+    {
+      "text": "1,304.00",
+      "bbox": [
+        403,
+        273,
+        483,
+        291
+      ],
+      "confidence": 0.9818118810653687
+    },
+    {
+      "text": "1,745.00",
+      "bbox": [
+        566,
+        271,
+        647,
+        292
+      ],
+      "confidence": 0.9888546466827393
+    },
+    {
+      "text": "TION",
+      "bbox": [
+        81,
+        286,
+        116,
+        297
+      ],
+      "confidence": 0.9949332475662231
+    },
+    {
+      "text": "UCTION FEES.",
+      "bbox": [
+        59,
+        306,
+        167,
+        324
+      ],
+      "confidence": 0.9827334880828857
+    },
+    {
+      "text": " 5,855.00",
+      "bbox": [
+        387,
+        295,
+        482,
+        312
+      ],
+      "confidence": 0.9312404990196228
+    },
+    {
+      "text": "6;643.00",
+      "bbox": [
+        562,
+        293,
+        647,
+        315
+      ],
+      "confidence": 0.8979763984680176
+    },
+    {
+      "text": "REF",
+      "bbox": [
+        7,
+        308,
+        33,
+        319
+      ],
+      "confidence": 0.8660988807678223
+    },
+    {
+      "text": "3,241-90",
+      "bbox": [
+        400,
+        314,
+        482,
+        335
+      ],
+      "confidence": 0.8202857375144958
+    },
+    {
+      "text": ".3,235.00",
+      "bbox": [
+        562,
+        318,
+        648,
+        335
+      ],
+      "confidence": 0.9242286682128906
+    },
+    {
+      "text": "TOTAL VISUALS",
+      "bbox": [
+        98,
+        328,
+        216,
+        345
+      ],
+      "confidence": 0.9949734807014465
+    },
+    {
+      "text": "18,400.00",
+      "bbox": [
+        397,
+        326,
+        482,
+        346
+      ],
+      "confidence": 0.902201235294342
+    },
+    {
+      "text": "11;623.00",
+      "bbox": [
+        557,
+        327,
+        646,
+        348
+      ],
+      "confidence": 0.8482504487037659
+    },
+    {
+      "text": "TYPOGRAPHY/LETTERING",
+      "bbox": [
+        6,
+        352,
+        188,
+        366
+      ],
+      "confidence": 0.9962756037712097
+    },
+    {
+      "text": "600.00",
+      "bbox": [
+        426,
+        350,
+        483,
+        367
+      ],
+      "confidence": 0.8921622633934021
+    },
+    {
+      "text": "KEYLINE",
+      "bbox": [
+        5,
+        363,
+        73,
+        377
+      ],
+      "confidence": 0.9988994598388672
+    },
+    {
+      "text": "25;300.00",
+      "bbox": [
+        399,
+        360,
+        483,
+        379
+      ],
+      "confidence": 0.927738606929779
+    },
+    {
+      "text": "::250.00",
+      "bbox": [
+        561,
+        353,
+        646,
+        367
+      ],
+      "confidence": 0.9599602222442627
+    },
+    {
+      "text": "23,123.00",
+      "bbox": [
+        561,
+        365,
+        647,
+        379
+      ],
+      "confidence": 0.9894096851348877
+    },
+    {
+      "text": "PHOTOSTATS",
+      "bbox": [
+        4,
+        371,
+        101,
+        390
+      ],
+      "confidence": 0.9609502553939819
+    },
+    {
+      "text": "TOTAL 'STUDIO",
+      "bbox": [
+        93,
+        380,
+        209,
+        404
+      ],
+      "confidence": 0.9667168855667114
+    },
+    {
+      "text": "29,600.00",
+      "bbox": [
+        401,
+        382,
+        484,
+        402
+      ],
+      "confidence": 0.8770512938499451
+    },
+    {
+      "text": "10000",
+      "bbox": [
+        423,
+        372,
+        482,
+        389
+      ],
+      "confidence": 0.7438482046127319
+    },
+    {
+      "text": ",150.00",
+      "bbox": [
+        579,
+        374,
+        646,
+        391
+      ],
+      "confidence": 0.8587804436683655
+    },
+    {
+      "text": "27,523.00",
+      "bbox": [
+        561,
+        388,
+        647,
+        402
+      ],
+      "confidence": 0.9846717119216919
+    },
+    {
+      "text": "'PRINTING MATERIAL",
+      "bbox": [
+        3,
+        406,
+        164,
+        423
+      ],
+      "confidence": 0.9785251617431641
+    },
+    {
+      "text": "OTHER (SEE NOTES)",
+      "bbox": [
+        2,
+        426,
+        162,
+        448
+      ],
+      "confidence": 0.9483237266540527
+    },
+    {
+      "text": "COMPREHENSIVE LAYOUT\"",
+      "bbox": [
+        2,
+        448,
+        197,
+        470
+      ],
+      "confidence": 0.9686288237571716
+    },
+    {
+      "text": "BIAL COMMISSIONABLE COSTS",
+      "bbox": [
+        40,
+        484,
+        268,
+        503
+      ],
+      "confidence": 0.9727057814598083
+    },
+    {
+      "text": "39,400.00",
+      "bbox": [
+        401,
+        486,
+        484,
+        500
+      ],
+      "confidence": 0.9495728611946106
+    },
+    {
+      "text": "GENCY COMMISSION",
+      "bbox": [
+        40,
+        498,
+        188,
+        512
+      ],
+      "confidence": 0.9461971521377563
+    },
+    {
+      "text": ",910.00",
+      "bbox": [
+        418,
+        500,
+        483,
+        510
+      ],
+      "confidence": 0.8574438095092773
+    },
+    {
+      "text": "39:;146.00",
+      "bbox": [
+        563,
+        488,
+        648,
+        502
+      ],
+      "confidence": 0.9214053153991699
+    },
+    {
+      "text": "SHIPRING ANDDTHERNETCOSTS",
+      "bbox": [
+        31,
+        507,
+        286,
+        524
+      ],
+      "confidence": 0.6920498013496399
+    },
+    {
+      "text": ". TOTAL GROSS COSTS",
+      "bbox": [
+        24,
+        529,
+        188,
+        547
+      ],
+      "confidence": 0.9659969806671143
+    },
+    {
+      "text": "45,400.00",
+      "bbox": [
+        401,
+        530,
+        485,
+        548
+      ],
+      "confidence": 0.9643053412437439
+    },
+    {
+      "text": "45,045.00",
+      "bbox": [
+        561,
+        529,
+        651,
+        550
+      ],
+      "confidence": 0.9903901219367981
+    },
+    {
+      "text": "2084024734",
+      "bbox": [
+        724,
+        541,
+        754,
+        648
+      ],
+      "confidence": 0.9875057339668274
+    },
+    {
+      "text": "NOTES:",
+      "bbox": [
+        1,
+        575,
+        63,
+        592
+      ],
+      "confidence": 0.958679735660553
+    },
+    {
+      "text": "OO. - ESTIMATE FOR,CONP_DEVELOPMENT OF BIG1E MEDIUM OFFER INCLUDING WRAP",
+      "bbox": [
+        19,
+        584,
+        671,
+        608
+      ],
+      "confidence": 0.9130475521087646
+    },
+    {
+      "text": "POSTER HEADER CARD &DANGLER",
+      "bbox": [
+        20,
+        597,
+        287,
+        616
+      ],
+      "confidence": 0.861007571220398
+    },
+    {
+      "text": "PROMOTION_KIT_&.ON PACK_INCENTIVE",
+      "bbox": [
+        377,
+        600,
+        683,
+        618
+      ],
+      "confidence": 0.9150362014770508
+    },
+    {
+      "text": "OFFER PACKAGINGS INCLUD",
+      "bbox": [
+        21,
+        609,
+        232,
+        626
+      ],
+      "confidence": 0.9642563462257385
+    },
+    {
+      "text": "BOTTLE, CAF",
+      "bbox": [
+        21,
+        622,
+        124,
+        638
+      ],
+      "confidence": 0.9179702997207642
+    },
+    {
+      "text": "SELL SHEET FOR FLASHLIGHT WATER",
+      "bbox": [
+        400,
+        610,
+        697,
+        630
+      ],
+      "confidence": 0.895164430141449
+    },
+    {
+      "text": "COMP",
+      "bbox": [
+        253,
+        627,
+        292,
+        637
+      ],
+      "confidence": 0.9954125285148621
+    },
+    {
+      "text": "INCLUDED IN KEYLINE CATEGORY",
+      "bbox": [
+        384,
+        625,
+        640,
+        639
+      ],
+      "confidence": 0.9636873602867126
+    },
+    {
+      "text": "A1",
+      "bbox": [
+        23,
+        645,
+        41,
+        656
+      ],
+      "confidence": 0.6916152238845825
+    },
+    {
+      "text": "REVISED, TO",
+      "bbox": [
+        145,
+        646,
+        242,
+        660
+      ],
+      "confidence": 0.8738243579864502
+    },
+    {
+      "text": "CHANGE DESCRIPTION TO R5 MEDIUM PROMO AND INCREAS",
+      "bbox": [
+        242,
+        644,
+        695,
+        662
+      ],
+      "confidence": 0.9484276175498962
+    },
+    {
+      "text": "GRU",
+      "bbox": [
+        186,
+        660,
+        213,
+        670
+      ],
+      "confidence": 0.7336031794548035
+    },
+    {
+      "text": "SEMBL",
+      "bbox": [
+        237,
+        660,
+        284,
+        671
+      ],
+      "confidence": 0.9700723886489868
+    },
+    {
+      "text": "FINAL",
+      "bbox": [
+        309,
+        660,
+        354,
+        671
+      ],
+      "confidence": 0.9541519284248352
+    },
+    {
+      "text": "ART AND KEYLINESFOR TWD  VERSIONS OF",
+      "bbox": [
+        363,
+        659,
+        691,
+        673
+      ],
+      "confidence": 0.9506206512451172
+    },
+    {
+      "text": "KSLEEVE FOR MEDIUR. BIGIF & B2GIF. -AND",
+      "bbox": [
+        309,
+        671,
+        657,
+        685
+      ],
+      "confidence": 0.8782203793525696
+    },
+    {
+      "text": " COSTS DUE TO CLIENT CHANGES TO KEYLINES",
+      "bbox": [
+        317,
+        699,
+        684,
+        723
+      ],
+      "confidence": 0.951437771320343
+    },
+    {
+      "text": "RETOUCHING",
+      "bbox": [
+        128,
+        716,
+        226,
+        730
+      ],
+      "confidence": 0.9972058534622192
+    },
+    {
+      "text": "COSTS",
+      "bbox": [
+        223,
+        716,
+        277,
+        730
+      ],
+      "confidence": 0.9865943789482117
+    },
+    {
+      "text": "94 NOV 23: PN 12:00",
+      "bbox": [
+        646,
+        732,
+        682,
+        880
+      ],
+      "confidence": 0.9036245942115784
+    },
+    {
+      "text": "O3E ESTIMATE REVISED TO REDUCE COSTS TO ACTUALS. THIS IS. A FINAL",
+      "bbox": [
+        19,
+        743,
+        620,
+        767
+      ],
+      "confidence": 0.9296346306800842
+    },
+    {
+      "text": "ACCOUNTI",
+      "bbox": [
+        683,
+        748,
+        710,
+        833
+      ],
+      "confidence": 0.996624231338501
+    },
+    {
+      "text": "ESTIMATE",
+      "bbox": [
+        22,
+        760,
+        98,
+        774
+      ],
+      "confidence": 0.9919154644012451
+    },
+    {
+      "text": "CLIEN",
+      "bbox": [
+        4,
+        909,
+        49,
+        923
+      ],
+      "confidence": 0.9959937930107117
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        248,
+        910,
+        287,
+        925
+      ],
+      "confidence": 0.9931931495666504
+    },
+    {
+      "text": "CUENT ACCOUNTING",
+      "bbox": [
+        310,
+        961,
+        447,
+        981
+      ],
+      "confidence": 0.9367963075637817
+    }
+  ],
+  "full_text": "LEO BURNETT U.S.A.\nP339L\nDEVEBEON OF LEO BURNETT COMPANY. ING.\nADVERTISING\nPRINT PRODUCTION ESTIMATE\nDATE: 11715/94\nPHILIP MORRIS INC\nMAR2016-94/PGSP\nCLIENT:\nB\n\"JOB*:\nM41616\nFISCAL YEAR:\nIENT IDS:\n94\nSTART DATE:\n01/27/94\n:\n1/15/94\ny\nDESCRIPTION:\nDA\nR\"5'MEDIUM PROMO\nPOS,\n1994\nPREV REV DATE:\nREV DATE:\n04/27/94\nCLOSED DATE:\n11755/9\nWALKER\nPRODUCT:\nSERVICER:\n10-MARLBORO\nPREVIOUS\nFINAL\nESTIMATE\nPRINTS\n1,304.00\n1,745.00\nTION\nUCTION FEES.\n 5,855.00\n6;643.00\nREF\n3,241-90\n.3,235.00\nTOTAL VISUALS\n18,400.00\n11;623.00\nTYPOGRAPHY/LETTERING\n600.00\nKEYLINE\n25;300.00\n::250.00\n23,123.00\nPHOTOSTATS\nTOTAL 'STUDIO\n29,600.00\n10000\n,150.00\n27,523.00\n'PRINTING MATERIAL\nOTHER (SEE NOTES)\nCOMPREHENSIVE LAYOUT\"\nBIAL COMMISSIONABLE COSTS\n39,400.00\nGENCY COMMISSION\n,910.00\n39:;146.00\nSHIPRING ANDDTHERNETCOSTS\n. TOTAL GROSS COSTS\n45,400.00\n45,045.00\n2084024734\nNOTES:\nOO. - ESTIMATE FOR,CONP_DEVELOPMENT OF BIG1E MEDIUM OFFER INCLUDING WRAP\nPOSTER HEADER CARD &DANGLER\nPROMOTION_KIT_&.ON PACK_INCENTIVE\nOFFER PACKAGINGS INCLUD\nBOTTLE, CAF\nSELL SHEET FOR FLASHLIGHT WATER\nCOMP\nINCLUDED IN KEYLINE CATEGORY\nA1\nREVISED, TO\nCHANGE DESCRIPTION TO R5 MEDIUM PROMO AND INCREAS\nGRU\nSEMBL\nFINAL\nART AND KEYLINESFOR TWD  VERSIONS OF\nKSLEEVE FOR MEDIUR. BIGIF & B2GIF. -AND\n COSTS DUE TO CLIENT CHANGES TO KEYLINES\nRETOUCHING\nCOSTS\n94 NOV 23: PN 12:00\nO3E ESTIMATE REVISED TO REDUCE COSTS TO ACTUALS. THIS IS. A FINAL\nACCOUNTI\nESTIMATE\nCLIEN\nDATE\nCUENT ACCOUNTING"
+}

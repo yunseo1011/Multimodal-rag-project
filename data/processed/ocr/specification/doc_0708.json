@@ -1,0 +1,621 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0708.png",
+    "image_width": 840,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Fisher Scientific Company",
+      "bbox": [
+        64,
+        0,
+        477,
+        42
+      ],
+      "confidence": 0.9998940229415894
+    },
+    {
+      "text": "Chemical Manufacturing Division",
+      "bbox": [
+        64,
+        34,
+        345,
+        61
+      ],
+      "confidence": 0.9989824891090393
+    },
+    {
+      "text": "P. O. Box 375. 1 Reagent Lane",
+      "bbox": [
+        63,
+        49,
+        250,
+        72
+      ],
+      "confidence": 0.9449776411056519
+    },
+    {
+      "text": "Fair Lawn, NJ 07410",
+      "bbox": [
+        63,
+        61,
+        192,
+        82
+      ],
+      "confidence": 0.9637954831123352
+    },
+    {
+      "text": "MATERIAL SAFETY DATA SHEET (Adapted from USDL Form LSD-005-4)",
+      "bbox": [
+        61,
+        93,
+        650,
+        123
+      ],
+      "confidence": 0.996727466583252
+    },
+    {
+      "text": "(201) 796-7100",
+      "bbox": [
+        715,
+        106,
+        840,
+        127
+      ],
+      "confidence": 0.9996626973152161
+    },
+    {
+      "text": "SECTION I. IDENTIFICATION OF PRODUCT",
+      "bbox": [
+        248,
+        142,
+        607,
+        167
+      ],
+      "confidence": 0.999113917350769
+    },
+    {
+      "text": "CHEMICAL NAME",
+      "bbox": [
+        3,
+        169,
+        123,
+        191
+      ],
+      "confidence": 0.9993677735328674
+    },
+    {
+      "text": "FORMULA",
+      "bbox": [
+        432,
+        171,
+        503,
+        194
+      ],
+      "confidence": 0.9998810887336731
+    },
+    {
+      "text": "Ammonium Hydroxide",
+      "bbox": [
+        77,
+        188,
+        274,
+        211
+      ],
+      "confidence": 0.9993017911911011
+    },
+    {
+      "text": "NH40H",
+      "bbox": [
+        530,
+        190,
+        596,
+        219
+      ],
+      "confidence": 0.8022869825363159
+    },
+    {
+      "text": "SYNONYM OR CROSS REFERENCE",
+      "bbox": [
+        2,
+        219,
+        235,
+        238
+      ],
+      "confidence": 0.9992894530296326
+    },
+    {
+      "text": "Aqua Ammonia",
+      "bbox": [
+        76,
+        239,
+        209,
+        259
+      ],
+      "confidence": 0.999713659286499
+    },
+    {
+      "text": "SECTION II. HAZARDOUS INGREDIENTS",
+      "bbox": [
+        251,
+        271,
+        594,
+        295
+      ],
+      "confidence": 0.9976603388786316
+    },
+    {
+      "text": "MATERIAL",
+      "bbox": [
+        4,
+        303,
+        77,
+        321
+      ],
+      "confidence": 0.9999480843544006
+    },
+    {
+      "text": "NATURE OF HAZARD",
+      "bbox": [
+        431,
+        304,
+        569,
+        324
+      ],
+      "confidence": 0.999115526676178
+    },
+    {
+      "text": "Ammonium Hydroxide",
+      "bbox": [
+        77,
+        321,
+        272,
+        342
+      ],
+      "confidence": 0.9992684125900269
+    },
+    {
+      "text": "Corrosive",
+      "bbox": [
+        533,
+        324,
+        633,
+        343
+      ],
+      "confidence": 0.9998610019683838
+    },
+    {
+      "text": "SECTION III. PHYSICAL DATA",
+      "bbox": [
+        302,
+        380,
+        549,
+        404
+      ],
+      "confidence": 0.9950361847877502
+    },
+    {
+      "text": "BOILING POINT",
+      "bbox": [
+        3,
+        408,
+        110,
+        429
+      ],
+      "confidence": 0.9987657070159912
+    },
+    {
+      "text": "MELTING POINT",
+      "bbox": [
+        431,
+        411,
+        538,
+        432
+      ],
+      "confidence": 0.998716413974762
+    },
+    {
+      "text": "decomposes",
+      "bbox": [
+        79,
+        423,
+        189,
+        444
+      ],
+      "confidence": 0.9995856285095215
+    },
+    {
+      "text": "NT69.2°C",
+      "bbox": [
+        520,
+        418,
+        602,
+        443
+      ],
+      "confidence": 0.8808894157409668
+    },
+    {
+      "text": "VAPOR PRESSURE(mm Hg)",
+      "bbox": [
+        3,
+        452,
+        183,
+        471
+      ],
+      "confidence": 0.988881528377533
+    },
+    {
+      "text": "570",
+      "bbox": [
+        256,
+        452,
+        298,
+        474
+      ],
+      "confidence": 0.9998481869697571
+    },
+    {
+      "text": "SPECIFIC GRAVITY",
+      "bbox": [
+        430,
+        452,
+        557,
+        472
+      ],
+      "confidence": 0.9922429323196411
+    },
+    {
+      "text": "0.90",
+      "bbox": [
+        585,
+        454,
+        633,
+        476
+      ],
+      "confidence": 0.9996095895767212
+    },
+    {
+      "text": "OR DENSITY (AIR = 1)",
+      "bbox": [
+        25,
+        485,
+        180,
+        504
+      ],
+      "confidence": 0.9419315457344055
+    },
+    {
+      "text": "1.2",
+      "bbox": [
+        259,
+        484,
+        297,
+        504
+      ],
+      "confidence": 0.99863600730896
+    },
+    {
+      "text": "PERCENT VOLATILE BY VOLUME (%)",
+      "bbox": [
+        430,
+        485,
+        667,
+        507
+      ],
+      "confidence": 0.9898574352264404
+    },
+    {
+      "text": "100",
+      "bbox": [
+        680,
+        489,
+        719,
+        508
+      ],
+      "confidence": 0.9997715353965759
+    },
+    {
+      "text": "Complete",
+      "bbox": [
+        151,
+        516,
+        243,
+        539
+      ],
+      "confidence": 0.9998698234558105
+    },
+    {
+      "text": "EVAPORATION RATE",
+      "bbox": [
+        430,
+        515,
+        563,
+        533
+      ],
+      "confidence": 0.999771237373352
+    },
+    {
+      "text": "WATER SOLUBILITY",
+      "bbox": [
+        3,
+        518,
+        137,
+        535
+      ],
+      "confidence": 0.9994451999664307
+    },
+    {
+      "text": "(ether",
+      "bbox": [
+        430,
+        527,
+        497,
+        544
+      ],
+      "confidence": 0.8381020426750183
+    },
+    {
+      "text": "=1",
+      "bbox": [
+        594,
+        530,
+        624,
+        546
+      ],
+      "confidence": 0.7725775837898254
+    },
+    {
+      "text": "greater than 1",
+      "bbox": [
+        649,
+        526,
+        805,
+        548
+      ],
+      "confidence": 0.9750815033912659
+    },
+    {
+      "text": "APPEARANCE",
+      "bbox": [
+        5,
+        550,
+        104,
+        568
+      ],
+      "confidence": 0.9998376965522766
+    },
+    {
+      "text": "Clear colorless liquid with a pungent odor",
+      "bbox": [
+        133,
+        554,
+        581,
+        579
+      ],
+      "confidence": 0.9787365794181824
+    },
+    {
+      "text": "SECTION IV. FIRE AND EXPLOSION HAZARD DATA",
+      "bbox": [
+        219,
+        587,
+        623,
+        611
+      ],
+      "confidence": 0.9988401532173157
+    },
+    {
+      "text": "FLASH POINT (method used)",
+      "bbox": [
+        7,
+        618,
+        189,
+        636
+      ],
+      "confidence": 0.9787963628768921
+    },
+    {
+      "text": "FLAMMABLE LIMITS",
+      "bbox": [
+        432,
+        620,
+        562,
+        637
+      ],
+      "confidence": 0.9991152882575989
+    },
+    {
+      "text": "Uel",
+      "bbox": [
+        690,
+        621,
+        720,
+        641
+      ],
+      "confidence": 0.9980917572975159
+    },
+    {
+      "text": "Lel",
+      "bbox": [
+        781,
+        622,
+        811,
+        642
+      ],
+      "confidence": 0.9917109608650208
+    },
+    {
+      "text": "(oF)",
+      "bbox": [
+        7,
+        644,
+        39,
+        663
+      ],
+      "confidence": 0.7698127031326294
+    },
+    {
+      "text": "- - v",
+      "bbox": [
+        71,
+        642,
+        94,
+        653
+      ],
+      "confidence": 0.6969960927963257
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        207,
+        639,
+        237,
+        660
+      ],
+      "confidence": 0.9992787837982178
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        467,
+        642,
+        500,
+        662
+      ],
+      "confidence": 0.9996827840805054
+    },
+    {
+      "text": "FIRE EXTINGUISHING MEDIA",
+      "bbox": [
+        9,
+        667,
+        196,
+        681
+      ],
+      "confidence": 0.9996156692504883
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        249,
+        672,
+        280,
+        693
+      ],
+      "confidence": 0.9995222091674805
+    },
+    {
+      "text": "SPECIAL FIRE-FIGHTING PROCEDURES,",
+      "bbox": [
+        8,
+        698,
+        267,
+        717
+      ],
+      "confidence": 0.9993119835853577
+    },
+    {
+      "text": "wear self-contained breathing apparatus.",
+      "bbox": [
+        261,
+        704,
+        689,
+        731
+      ],
+      "confidence": 0.9723508954048157
+    },
+    {
+      "text": "UNUSUAL FIRE AND EXPLOSION HAZARD",
+      "bbox": [
+        10,
+        747,
+        280,
+        767
+      ],
+      "confidence": 0.9993529915809631
+    },
+    {
+      "text": "Emits toxic fumes of ammonium",
+      "bbox": [
+        282,
+        753,
+        598,
+        780
+      ],
+      "confidence": 0.984368622303009
+    },
+    {
+      "text": "2057408552",
+      "bbox": [
+        819,
+        786,
+        839,
+        953
+      ],
+      "confidence": 0.9973053932189941
+    },
+    {
+      "text": "SECTION V. HEALTH HAZARD",
+      "bbox": [
+        301,
+        803,
+        555,
+        831
+      ],
+      "confidence": 0.9886875748634338
+    },
+    {
+      "text": "THRESHOLD LIMIT VALUE",
+      "bbox": [
+        12,
+        830,
+        181,
+        850
+      ],
+      "confidence": 0.9943915009498596
+    },
+    {
+      "text": "25 ppm",
+      "bbox": [
+        228,
+        835,
+        302,
+        864
+      ],
+      "confidence": 0.9603213667869568
+    },
+    {
+      "text": "HEALTH HAZARDS",
+      "bbox": [
+        11,
+        883,
+        134,
+        903
+      ],
+      "confidence": 0.9998694062232971
+    },
+    {
+      "text": "Vapor irritating to skin, eyes and mucous membrane",
+      "bbox": [
+        178,
+        887,
+        723,
+        930
+      ],
+      "confidence": 0.9920740723609924
+    },
+    {
+      "text": "Give artificial respiration if necessary. Skin &",
+      "bbox": [
+        0,
+        958,
+        516,
+        993
+      ],
+      "confidence": 0.9884697794914246
+    }
+  ],
+  "full_text": "Fisher Scientific Company\nChemical Manufacturing Division\nP. O. Box 375. 1 Reagent Lane\nFair Lawn, NJ 07410\nMATERIAL SAFETY DATA SHEET (Adapted from USDL Form LSD-005-4)\n(201) 796-7100\nSECTION I. IDENTIFICATION OF PRODUCT\nCHEMICAL NAME\nFORMULA\nAmmonium Hydroxide\nNH40H\nSYNONYM OR CROSS REFERENCE\nAqua Ammonia\nSECTION II. HAZARDOUS INGREDIENTS\nMATERIAL\nNATURE OF HAZARD\nAmmonium Hydroxide\nCorrosive\nSECTION III. PHYSICAL DATA\nBOILING POINT\nMELTING POINT\ndecomposes\nNT69.2°C\nVAPOR PRESSURE(mm Hg)\n570\nSPECIFIC GRAVITY\n0.90\nOR DENSITY (AIR = 1)\n1.2\nPERCENT VOLATILE BY VOLUME (%)\n100\nComplete\nEVAPORATION RATE\nWATER SOLUBILITY\n(ether\n=1\ngreater than 1\nAPPEARANCE\nClear colorless liquid with a pungent odor\nSECTION IV. FIRE AND EXPLOSION HAZARD DATA\nFLASH POINT (method used)\nFLAMMABLE LIMITS\nUel\nLel\n(oF)\n- - v\nNA\nNA\nFIRE EXTINGUISHING MEDIA\nNA\nSPECIAL FIRE-FIGHTING PROCEDURES,\nwear self-contained breathing apparatus.\nUNUSUAL FIRE AND EXPLOSION HAZARD\nEmits toxic fumes of ammonium\n2057408552\nSECTION V. HEALTH HAZARD\nTHRESHOLD LIMIT VALUE\n25 ppm\nHEALTH HAZARDS\nVapor irritating to skin, eyes and mucous membrane\nGive artificial respiration if necessary. Skin &"
+}

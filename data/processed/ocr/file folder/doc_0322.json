@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0322.png",
+    "image_width": 787,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "VIRGINIA SLIMS FASHION FUN FAIP",
+      "bbox": [
+        359,
+        7,
+        656,
+        27
+      ],
+      "confidence": 0.9986245632171631
+    },
+    {
+      "text": "HOUSTON - NOVEMBER 4 TO 17, 1985",
+      "bbox": [
+        360,
+        23,
+        665,
+        42
+      ],
+      "confidence": 0.9757007360458374
+    }
+  ],
+  "full_text": "VIRGINIA SLIMS FASHION FUN FAIP\nHOUSTON - NOVEMBER 4 TO 17, 1985"
+}

@@ -1,0 +1,1031 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0317.png",
+    "image_width": 661,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "100 Sylvan Avenue",
+      "bbox": [
+        13,
+        1,
+        134,
+        17
+      ],
+      "confidence": 0.9989574551582336
+    },
+    {
+      "text": "October, 1986",
+      "bbox": [
+        561,
+        1,
+        660,
+        23
+      ],
+      "confidence": 0.9954423308372498
+    },
+    {
+      "text": "Englewood Cliffs, New Jersey",
+      "bbox": [
+        13,
+        16,
+        212,
+        29
+      ],
+      "confidence": 0.9963662028312683
+    },
+    {
+      "text": "07632",
+      "bbox": [
+        218,
+        12,
+        259,
+        30
+      ],
+      "confidence": 0.9993276596069336
+    },
+    {
+      "text": "1-800-631-1623/201-947-6900",
+      "bbox": [
+        14,
+        27,
+        204,
+        40
+      ],
+      "confidence": 0.9998443126678467
+    },
+    {
+      "text": "NON-MENTHOL_IN-DEPTHS",
+      "bbox": [
+        243,
+        31,
+        391,
+        45
+      ],
+      "confidence": 0.9921839833259583
+    },
+    {
+      "text": "(Screener)",
+      "bbox": [
+        281,
+        48,
+        354,
+        66
+      ],
+      "confidence": 0.9999357461929321
+    },
+    {
+      "text": "Hello, I'm",
+      "bbox": [
+        10,
+        73,
+        87,
+        90
+      ],
+      "confidence": 0.9733176231384277
+    },
+    {
+      "text": "of",
+      "bbox": [
+        201,
+        76,
+        220,
+        92
+      ],
+      "confidence": 0.9998376965522766
+    },
+    {
+      "text": "We're conducting an opinion",
+      "bbox": [
+        379,
+        74,
+        572,
+        93
+      ],
+      "confidence": 0.9857213497161865
+    },
+    {
+      "text": "survey today among people between the ages of 18 and 54 about various products used",
+      "bbox": [
+        8,
+        85,
+        594,
+        106
+      ],
+      "confidence": 0.9797148108482361
+    },
+    {
+      "text": "in the household and I'd like to ask you a few questions.",
+      "bbox": [
+        10,
+        98,
+        411,
+        117
+      ],
+      "confidence": 0.982322096824646
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        10,
+        124,
+        30,
+        140
+      ],
+      "confidence": 0.9987762570381165
+    },
+    {
+      "text": "First of all, are you between the ages of 18 and 54?",
+      "bbox": [
+        55,
+        125,
+        418,
+        139
+      ],
+      "confidence": 0.9571396708488464
+    },
+    {
+      "text": "Yes... ( . )",
+      "bbox": [
+        137,
+        147,
+        240,
+        166
+      ],
+      "confidence": 0.8630773425102234
+    },
+    {
+      "text": "No...",
+      "bbox": [
+        378,
+        148,
+        419,
+        166
+      ],
+      "confidence": 0.8921446800231934
+    },
+    {
+      "text": "(THANK 'AND'TERMINATE)",
+      "bbox": [
+        396,
+        162,
+        541,
+        175
+      ],
+      "confidence": 0.9442314505577087
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        12,
+        185,
+        30,
+        203
+      ],
+      "confidence": 0.9990313053131104
+    },
+    {
+      "text": "And are you between 18 and 34 years of age, or between 35 and 54 years of age?",
+      "bbox": [
+        53,
+        182,
+        599,
+        203
+      ],
+      "confidence": 0.9945409893989563
+    },
+    {
+      "text": "18 - 34..........",
+      "bbox": [
+        242,
+        210,
+        363,
+        224
+      ],
+      "confidence": 0.9313793182373047
+    },
+    {
+      "text": "(",
+      "bbox": [
+        380,
+        210,
+        396,
+        223
+      ],
+      "confidence": 0.9758796691894531
+    },
+    {
+      "text": ")",
+      "bbox": [
+        401,
+        208,
+        419,
+        225
+      ],
+      "confidence": 0.9751424193382263
+    },
+    {
+      "text": "35 - 54..........",
+      "bbox": [
+        241,
+        226,
+        369,
+        243
+      ],
+      "confidence": 0.8903604745864868
+    },
+    {
+      "text": "( )",
+      "bbox": [
+        374,
+        225,
+        420,
+        243
+      ],
+      "confidence": 0.8434595465660095
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        14,
+        253,
+        30,
+        267
+      ],
+      "confidence": 0.9995666742324829
+    },
+    {
+      "text": "OBSERVE AND RECORD.",
+      "bbox": [
+        56,
+        253,
+        188,
+        267
+      ],
+      "confidence": 0.9996097683906555
+    },
+    {
+      "text": "( )",
+      "bbox": [
+        376,
+        261,
+        420,
+        280
+      ],
+      "confidence": 0.9103139042854309
+    },
+    {
+      "text": "Male............",
+      "bbox": [
+        240,
+        263,
+        366,
+        280
+      ],
+      "confidence": 0.9008417725563049
+    },
+    {
+      "text": "Female...........",
+      "bbox": [
+        243,
+        281,
+        366,
+        295
+      ],
+      "confidence": 0.9901642799377441
+    },
+    {
+      "text": "( )",
+      "bbox": [
+        373,
+        279,
+        420,
+        298
+      ],
+      "confidence": 0.8379561901092529
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        11,
+        306,
+        30,
+        324
+      ],
+      "confidence": 0.9992815256118774
+    },
+    {
+      "text": "OBSERVE AND RECORD.",
+      "bbox": [
+        55,
+        307,
+        188,
+        322
+      ],
+      "confidence": 0.9996180534362793
+    },
+    {
+      "text": "White..........….",
+      "bbox": [
+        241,
+        318,
+        364,
+        335
+      ],
+      "confidence": 0.8352655172348022
+    },
+    {
+      "text": "(",
+      "bbox": [
+        377,
+        318,
+        401,
+        335
+      ],
+      "confidence": 0.6922794580459595
+    },
+    {
+      "text": ")",
+      "bbox": [
+        400,
+        318,
+        419,
+        335
+      ],
+      "confidence": 0.9754835963249207
+    },
+    {
+      "text": "Black....",
+      "bbox": [
+        241,
+        336,
+        304,
+        353
+      ],
+      "confidence": 0.9800238013267517
+    },
+    {
+      "text": "(",
+      "bbox": [
+        378,
+        336,
+        402,
+        352
+      ],
+      "confidence": 0.6914581060409546
+    },
+    {
+      "text": ")",
+      "bbox": [
+        400,
+        335,
+        419,
+        352
+      ],
+      "confidence": 0.9539318680763245
+    },
+    {
+      "text": "...",
+      "bbox": [
+        337,
+        342,
+        360,
+        349
+      ],
+      "confidence": 0.8863746523857117
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        10,
+        362,
+        30,
+        379
+      ],
+      "confidence": 0.999759316444397
+    },
+    {
+      "text": "Next, I'm going to read you a list of products. For each one I read, please tell",
+      "bbox": [
+        52,
+        358,
+        619,
+        378
+      ],
+      "confidence": 0.9907242059707642
+    },
+    {
+      "text": "me if you, yourself, use the product. The first one is...",
+      "bbox": [
+        51,
+        372,
+        460,
+        391
+      ],
+      "confidence": 0.9741550087928772
+    },
+    {
+      "text": "READ ENTIRE LIST",
+      "bbox": [
+        467,
+        370,
+        591,
+        388
+      ],
+      "confidence": 0.9482925534248352
+    },
+    {
+      "text": "ONE AT A TIME AND RECORD).",
+      "bbox": [
+        52,
+        385,
+        236,
+        403
+      ],
+      "confidence": 0.9641611576080322
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        356,
+        395,
+        385,
+        415
+      ],
+      "confidence": 0.9989296793937683
+    },
+    {
+      "text": "No",
+      "bbox": [
+        433,
+        397,
+        454,
+        413
+      ],
+      "confidence": 0.9996076822280884
+    },
+    {
+      "text": "Antacid.s..............",
+      "bbox": [
+        170,
+        416,
+        330,
+        433
+      ],
+      "confidence": 0.8438060879707336
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        415,
+        365,
+        431
+      ],
+      "confidence": 0.964837372303009
+    },
+    {
+      "text": ")",
+      "bbox": [
+        378,
+        415,
+        391,
+        431
+      ],
+      "confidence": 0.950000524520874
+    },
+    {
+      "text": "(",
+      "bbox": [
+        429,
+        415,
+        442,
+        431
+      ],
+      "confidence": 0.9722374081611633
+    },
+    {
+      "text": ")",
+      "bbox": [
+        453,
+        416,
+        467,
+        431
+      ],
+      "confidence": 0.9599777460098267
+    },
+    {
+      "text": "Aspirin...............",
+      "bbox": [
+        169,
+        435,
+        330,
+        453
+      ],
+      "confidence": 0.8439469933509827
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        434,
+        364,
+        450
+      ],
+      "confidence": 0.9965954422950745
+    },
+    {
+      "text": ")",
+      "bbox": [
+        378,
+        434,
+        391,
+        451
+      ],
+      "confidence": 0.9882537126541138
+    },
+    {
+      "text": "(",
+      "bbox": [
+        429,
+        434,
+        443,
+        451
+      ],
+      "confidence": 0.98454350233078
+    },
+    {
+      "text": "Beer................",
+      "bbox": [
+        170,
+        456,
+        312,
+        470
+      ],
+      "confidence": 0.9238041639328003
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        454,
+        364,
+        469
+      ],
+      "confidence": 0.9941142201423645
+    },
+    {
+      "text": ")",
+      "bbox": [
+        379,
+        454,
+        391,
+        468
+      ],
+      "confidence": 0.9911730885505676
+    },
+    {
+      "text": "(",
+      "bbox": [
+        429,
+        454,
+        444,
+        468
+      ],
+      "confidence": 0.9791430234909058
+    },
+    {
+      "text": ")",
+      "bbox": [
+        444,
+        451,
+        469,
+        471
+      ],
+      "confidence": 0.9882583618164062
+    },
+    {
+      "text": "Breakfast cereals......",
+      "bbox": [
+        168,
+        471,
+        333,
+        489
+      ],
+      "confidence": 0.982893168926239
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        472,
+        364,
+        487
+      ],
+      "confidence": 0.956106960773468
+    },
+    {
+      "text": ")",
+      "bbox": [
+        379,
+        472,
+        392,
+        487
+      ],
+      "confidence": 0.9872445464134216
+    },
+    {
+      "text": "(",
+      "bbox": [
+        428,
+        471,
+        447,
+        488
+      ],
+      "confidence": 0.9516475200653076
+    },
+    {
+      "text": ")",
+      "bbox": [
+        447,
+        469,
+        470,
+        490
+      ],
+      "confidence": 0.8893880248069763
+    },
+    {
+      "text": "Cigarettes...........",
+      "bbox": [
+        167,
+        491,
+        319,
+        509
+      ],
+      "confidence": 0.9728072881698608
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        492,
+        364,
+        507
+      ],
+      "confidence": 0.9668684005737305
+    },
+    {
+      "text": ")",
+      "bbox": [
+        379,
+        492,
+        391,
+        506
+      ],
+      "confidence": 0.9463603496551514
+    },
+    {
+      "text": "THANK AND TERMINATE",
+      "bbox": [
+        475,
+        488,
+        617,
+        506
+      ],
+      "confidence": 0.9985586404800415
+    },
+    {
+      "text": "Diet Soda..............",
+      "bbox": [
+        168,
+        512,
+        330,
+        526
+      ],
+      "confidence": 0.9800141453742981
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        510,
+        364,
+        526
+      ],
+      "confidence": 0.9923892617225647
+    },
+    {
+      "text": ")",
+      "bbox": [
+        379,
+        511,
+        392,
+        526
+      ],
+      "confidence": 0.940284788608551
+    },
+    {
+      "text": "(",
+      "bbox": [
+        428,
+        509,
+        445,
+        527
+      ],
+      "confidence": 0.9188876152038574
+    },
+    {
+      "text": ")",
+      "bbox": [
+        452,
+        509,
+        470,
+        527
+      ],
+      "confidence": 0.9812125563621521
+    },
+    {
+      "text": "Frozen Vegetables......",
+      "bbox": [
+        169,
+        530,
+        334,
+        544
+      ],
+      "confidence": 0.998426616191864
+    },
+    {
+      "text": "(",
+      "bbox": [
+        351,
+        529,
+        366,
+        543
+      ],
+      "confidence": 0.9118765592575073
+    },
+    {
+      "text": ")",
+      "bbox": [
+        378,
+        528,
+        392,
+        543
+      ],
+      "confidence": 0.8683544397354126
+    },
+    {
+      "text": "( )",
+      "bbox": [
+        428,
+        525,
+        471,
+        547
+      ],
+      "confidence": 0.9789816737174988
+    },
+    {
+      "text": "WHEN ASKING Q.6 AND/OR Q.8, PROBE FOR EXACT OCCUPATION. IF JOURNALISM,",
+      "bbox": [
+        50,
+        564,
+        559,
+        585
+      ],
+      "confidence": 0.9792593717575073
+    },
+    {
+      "text": "PUBLIC RELATIONS, ADVERTISING, OR MARKETING ANSWERED IN EITHER QUESTION,",
+      "bbox": [
+        50,
+        578,
+        568,
+        598
+      ],
+      "confidence": 0.9882194995880127
+    },
+    {
+      "text": "THANK RESPONDENT AND TERMINATE.",
+      "bbox": [
+        50,
+        592,
+        277,
+        610
+      ],
+      "confidence": 0.9770685434341431
+    },
+    {
+      "text": "Since we're talking to people all across the country, we're interested in talking",
+      "bbox": [
+        41,
+        622,
+        625,
+        642
+      ],
+      "confidence": 0.9879767298698425
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        0,
+        628,
+        14,
+        642
+      ],
+      "confidence": 0.9979857802391052
+    },
+    {
+      "text": "to a cross-section of people in different occupations. What is your occupation?",
+      "bbox": [
+        42,
+        635,
+        620,
+        655
+      ],
+      "confidence": 0.9856335520744324
+    },
+    {
+      "text": "(WRITE IN FULL TITLE)",
+      "bbox": [
+        241,
+        677,
+        390,
+        692
+      ],
+      "confidence": 0.9714127779006958
+    },
+    {
+      "text": "(IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:)",
+      "bbox": [
+        44,
+        701,
+        613,
+        718
+      ],
+      "confidence": 0.9850747585296631
+    },
+    {
+      "text": "What products are involved in your occupation? (TERMINATE IF RESPONDENT ANSWERS,",
+      "bbox": [
+        41,
+        714,
+        629,
+        731
+      ],
+      "confidence": 0.959093451499939
+    },
+    {
+      "text": "CIGARETTES.",
+      "bbox": [
+        41,
+        725,
+        149,
+        745
+      ],
+      "confidence": 0.9892053008079529
+    },
+    {
+      "text": "(WRITE IN PRODUCTS)",
+      "bbox": [
+        248,
+        767,
+        383,
+        781
+      ],
+      "confidence": 0.9818986654281616
+    },
+    {
+      "text": "Are you married?",
+      "bbox": [
+        39,
+        789,
+        162,
+        808
+      ],
+      "confidence": 0.9997696280479431
+    },
+    {
+      "text": "Yes...",
+      "bbox": [
+        127,
+        815,
+        181,
+        836
+      ],
+      "confidence": 0.9864239692687988
+    },
+    {
+      "text": "No...",
+      "bbox": [
+        378,
+        816,
+        422,
+        836
+      ],
+      "confidence": 0.9043815732002258
+    },
+    {
+      "text": " )",
+      "bbox": [
+        179,
+        818,
+        236,
+        835
+      ],
+      "confidence": 0.734838604927063
+    },
+    {
+      "text": "(SKIP TO Q.9)",
+      "bbox": [
+        395,
+        828,
+        493,
+        849
+      ],
+      "confidence": 0.975513756275177
+    },
+    {
+      "text": "_",
+      "bbox": [
+        468,
+        824,
+        477,
+        830
+      ],
+      "confidence": 0.6999582052230835
+    },
+    {
+      "text": "What is the occupation of your spouse?",
+      "bbox": [
+        39,
+        853,
+        321,
+        874
+      ],
+      "confidence": 0.9920614957809448
+    },
+    {
+      "text": "(WRITE IN FULL TITLE)",
+      "bbox": [
+        239,
+        893,
+        391,
+        911
+      ],
+      "confidence": 0.9670785069465637
+    },
+    {
+      "text": "(IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:)",
+      "bbox": [
+        40,
+        916,
+        618,
+        940
+      ],
+      "confidence": 0.9944812655448914
+    },
+    {
+      "text": "What products are involved in your spouse's occupation?",
+      "bbox": [
+        37,
+        930,
+        446,
+        952
+      ],
+      "confidence": 0.9876288175582886
+    },
+    {
+      "text": "(TERMINATE IF RESPON-",
+      "bbox": [
+        454,
+        936,
+        610,
+        951
+      ],
+      "confidence": 0.9774166941642761
+    },
+    {
+      "text": "DENT ANSWERS, CIGARETTES\".)",
+      "bbox": [
+        37,
+        943,
+        248,
+        963
+      ],
+      "confidence": 0.9578383564949036
+    },
+    {
+      "text": "PRODUC",
+      "bbox": [
+        315,
+        990,
+        363,
+        997
+      ],
+      "confidence": 0.9352334141731262
+    }
+  ],
+  "full_text": "100 Sylvan Avenue\nOctober, 1986\nEnglewood Cliffs, New Jersey\n07632\n1-800-631-1623/201-947-6900\nNON-MENTHOL_IN-DEPTHS\n(Screener)\nHello, I'm\nof\nWe're conducting an opinion\nsurvey today among people between the ages of 18 and 54 about various products used\nin the household and I'd like to ask you a few questions.\n1.\nFirst of all, are you between the ages of 18 and 54?\nYes... ( . )\nNo...\n(THANK 'AND'TERMINATE)\n2.\nAnd are you between 18 and 34 years of age, or between 35 and 54 years of age?\n18 - 34..........\n(\n)\n35 - 54..........\n( )\n3.\nOBSERVE AND RECORD.\n( )\nMale............\nFemale...........\n( )\n4.\nOBSERVE AND RECORD.\nWhite..........….\n(\n)\nBlack....\n(\n)\n...\n5.\nNext, I'm going to read you a list of products. For each one I read, please tell\nme if you, yourself, use the product. The first one is...\nREAD ENTIRE LIST\nONE AT A TIME AND RECORD).\nYes\nNo\nAntacid.s..............\n(\n)\n(\n)\nAspirin...............\n(\n)\n(\nBeer................\n(\n)\n(\n)\nBreakfast cereals......\n(\n)\n(\n)\nCigarettes...........\n(\n)\nTHANK AND TERMINATE\nDiet Soda..............\n(\n)\n(\n)\nFrozen Vegetables......\n(\n)\n( )\nWHEN ASKING Q.6 AND/OR Q.8, PROBE FOR EXACT OCCUPATION. IF JOURNALISM,\nPUBLIC RELATIONS, ADVERTISING, OR MARKETING ANSWERED IN EITHER QUESTION,\nTHANK RESPONDENT AND TERMINATE.\nSince we're talking to people all across the country, we're interested in talking\n6.\nto a cross-section of people in different occupations. What is your occupation?\n(WRITE IN FULL TITLE)\n(IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:)\nWhat products are involved in your occupation? (TERMINATE IF RESPONDENT ANSWERS,\nCIGARETTES.\n(WRITE IN PRODUCTS)\nAre you married?\nYes...\nNo...\n )\n(SKIP TO Q.9)\n_\nWhat is the occupation of your spouse?\n(WRITE IN FULL TITLE)\n(IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:)\nWhat products are involved in your spouse's occupation?\n(TERMINATE IF RESPON-\nDENT ANSWERS, CIGARETTES\".)\nPRODUC"
+}

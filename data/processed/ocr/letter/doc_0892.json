@@ -1,0 +1,621 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0892.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "477 MADISON AVENUE",
+      "bbox": [
+        85,
+        65,
+        200,
+        88
+      ],
+      "confidence": 0.9956076741218567
+    },
+    {
+      "text": "LAW OFFICES OF",
+      "bbox": [
+        341,
+        54,
+        436,
+        73
+      ],
+      "confidence": 0.974209189414978
+    },
+    {
+      "text": "NEW YORK, NY 10022-5891",
+      "bbox": [
+        76,
+        77,
+        209,
+        103
+      ],
+      "confidence": 0.9935165643692017
+    },
+    {
+      "text": "DECHERT PRICE & RHOADS",
+      "bbox": [
+        268,
+        75,
+        510,
+        103
+      ],
+      "confidence": 0.9799368381500244
+    },
+    {
+      "text": "(212) 326-3500",
+      "bbox": [
+        108,
+        96,
+        177,
+        113
+      ],
+      "confidence": 0.9799529314041138
+    },
+    {
+      "text": "WASHINGTON, DC 20005-1208",
+      "bbox": [
+        571,
+        96,
+        715,
+        113
+      ],
+      "confidence": 0.9739503264427185
+    },
+    {
+      "text": "1500 K STREET, N.W.",
+      "bbox": [
+        593,
+        84,
+        693,
+        100
+      ],
+      "confidence": 0.9609060883522034
+    },
+    {
+      "text": "4000 BELL ATLANTIC TOWER",
+      "bbox": [
+        309,
+        110,
+        467,
+        129
+      ],
+      "confidence": 0.9893717765808105
+    },
+    {
+      "text": "(202) 626-3300",
+      "bbox": [
+        611,
+        112,
+        676,
+        122
+      ],
+      "confidence": 0.9683193564414978
+    },
+    {
+      "text": "PRINCETON PIKE CORPORATE CENTER",
+      "bbox": [
+        45,
+        113,
+        239,
+        141
+      ],
+      "confidence": 0.9873419404029846
+    },
+    {
+      "text": "PRINCETON, NJ 08543-5218",
+      "bbox": [
+        76,
+        141,
+        208,
+        166
+      ],
+      "confidence": 0.9870240092277527
+    },
+    {
+      "text": "P.O. BOX 5218",
+      "bbox": [
+        106,
+        131,
+        178,
+        151
+      ],
+      "confidence": 0.9872614145278931
+    },
+    {
+      "text": "1717 ARCH STREET",
+      "bbox": [
+        337,
+        131,
+        441,
+        148
+      ],
+      "confidence": 0.9849956035614014
+    },
+    {
+      "text": "65 AVENUE LOUISE",
+      "bbox": [
+        595,
+        132,
+        692,
+        145
+      ],
+      "confidence": 0.9864480495452881
+    },
+    {
+      "text": "PHILADELPHIA, PA 19103-2793",
+      "bbox": [
+        307,
+        152,
+        467,
+        170
+      ],
+      "confidence": 0.9797946810722351
+    },
+    {
+      "text": "1050 BRUSSELS, BELGIUM",
+      "bbox": [
+        579,
+        143,
+        709,
+        158
+      ],
+      "confidence": 0.9940736889839172
+    },
+    {
+      "text": "(32-2) 535-5411",
+      "bbox": [
+        608,
+        154,
+        680,
+        171
+      ],
+      "confidence": 0.9593304991722107
+    },
+    {
+      "text": "(609) 520-3200",
+      "bbox": [
+        107,
+        158,
+        176,
+        175
+      ],
+      "confidence": 0.9371922612190247
+    },
+    {
+      "text": "THIRTY NORTH THIRD STREET",
+      "bbox": [
+        64,
+        177,
+        218,
+        201
+      ],
+      "confidence": 0.9807487726211548
+    },
+    {
+      "text": "TITMUSS SAINER DECHERT",
+      "bbox": [
+        574,
+        177,
+        712,
+        194
+      ],
+      "confidence": 0.9728485345840454
+    },
+    {
+      "text": "HARRISBURO, PA 17101-1603",
+      "bbox": [
+        70,
+        191,
+        210,
+        212
+      ],
+      "confidence": 0.9447433352470398
+    },
+    {
+      "text": "TELEPHONE: (215) 994-4000",
+      "bbox": [
+        323,
+        190,
+        452,
+        206
+      ],
+      "confidence": 0.9823468923568726
+    },
+    {
+      "text": "LONDON EC4Y ILT, ENGLAND",
+      "bbox": [
+        568,
+        199,
+        719,
+        217
+      ],
+      "confidence": 0.9722733497619629
+    },
+    {
+      "text": "2 SERJEANTS' INN",
+      "bbox": [
+        597,
+        188,
+        690,
+        205
+      ],
+      "confidence": 0.9756262302398682
+    },
+    {
+      "text": "(717) 237-2000",
+      "bbox": [
+        105,
+        205,
+        174,
+        223
+      ],
+      "confidence": 0.8919309377670288
+    },
+    {
+      "text": "FAX: (215) 994-2222",
+      "bbox": [
+        342,
+        204,
+        433,
+        218
+      ],
+      "confidence": 0.9685093760490417
+    },
+    {
+      "text": "(44-171) 583-5353",
+      "bbox": [
+        604,
+        214,
+        685,
+        227
+      ],
+      "confidence": 0.9577233791351318
+    },
+    {
+      "text": "TEN POST OFFICE SQUARE SOUTH",
+      "bbox": [
+        53,
+        226,
+        224,
+        248
+      ],
+      "confidence": 0.9888628125190735
+    },
+    {
+      "text": "BOSTON, MA 02109-4603",
+      "bbox": [
+        78,
+        241,
+        198,
+        259
+      ],
+      "confidence": 0.9901202917098999
+    },
+    {
+      "text": "151, BOULEVARD HAUSSMANN",
+      "bbox": [
+        566,
+        236,
+        722,
+        252
+      ],
+      "confidence": 0.9962504506111145
+    },
+    {
+      "text": "(617) 728-7100",
+      "bbox": [
+        103,
+        256,
+        172,
+        270
+      ],
+      "confidence": 0.992214024066925
+    },
+    {
+      "text": "75008 PARIS, FRANCE",
+      "bbox": [
+        590,
+        248,
+        698,
+        263
+      ],
+      "confidence": 0.9917813539505005
+    },
+    {
+      "text": "(33-1) 538384 70",
+      "bbox": [
+        604,
+        262,
+        685,
+        275
+      ],
+      "confidence": 0.9581010937690735
+    },
+    {
+      "text": "90 STATE HOUSE SQUARE",
+      "bbox": [
+        71,
+        276,
+        200,
+        295
+      ],
+      "confidence": 0.9744463562965393
+    },
+    {
+      "text": "HARTFORD, CT 06103-3702",
+      "bbox": [
+        70,
+        288,
+        200,
+        306
+      ],
+      "confidence": 0.989264190196991
+    },
+    {
+      "text": "(860) 524-3999",
+      "bbox": [
+        101,
+        302,
+        170,
+        317
+      ],
+      "confidence": 0.943658709526062
+    },
+    {
+      "text": "ROBERT C. HEIM",
+      "bbox": [
+        603,
+        318,
+        694,
+        331
+      ],
+      "confidence": 0.9803451895713806
+    },
+    {
+      "text": "Direet Dial: (215) 994-2570",
+      "bbox": [
+        587,
+        331,
+        711,
+        344
+      ],
+      "confidence": 0.9739158749580383
+    },
+    {
+      "text": "December 29, 1997",
+      "bbox": [
+        322,
+        339,
+        443,
+        356
+      ],
+      "confidence": 0.9611450433731079
+    },
+    {
+      "text": "Charies R. Wall, Esquire",
+      "bbox": [
+        78,
+        443,
+        236,
+        462
+      ],
+      "confidence": 0.9862319827079773
+    },
+    {
+      "text": "Senior Vice President and Deputy General Counsel",
+      "bbox": [
+        77,
+        462,
+        396,
+        481
+      ],
+      "confidence": 0.9946354031562805
+    },
+    {
+      "text": "Philip Morris Companies, Inc.",
+      "bbox": [
+        78,
+        482,
+        266,
+        499
+      ],
+      "confidence": 0.998465359210968
+    },
+    {
+      "text": "120 Park Avenue",
+      "bbox": [
+        77,
+        499,
+        189,
+        516
+      ],
+      "confidence": 0.9974014163017273
+    },
+    {
+      "text": "New York, NY 10017",
+      "bbox": [
+        76,
+        517,
+        225,
+        534
+      ],
+      "confidence": 0.9818857908248901
+    },
+    {
+      "text": "Dear Chuck:",
+      "bbox": [
+        73,
+        549,
+        158,
+        573
+      ],
+      "confidence": 0.998531699180603
+    },
+    {
+      "text": "As you suggested, I am writing in response to your letter of December 4, 1997 to",
+      "bbox": [
+        170,
+        588,
+        682,
+        610
+      ],
+      "confidence": 0.9654315710067749
+    },
+    {
+      "text": "offer some thoughts on the subject of containing costs and maintaining competitive billing rates.",
+      "bbox": [
+        74,
+        607,
+        676,
+        629
+      ],
+      "confidence": 0.9891355633735657
+    },
+    {
+      "text": "At the outset, you are, I hope, aware of how professionally and personally",
+      "bbox": [
+        170,
+        641,
+        642,
+        663
+      ],
+      "confidence": 0.9851205945014954
+    },
+    {
+      "text": "gratifying it is for us to work closely with you, John, Greg, Jim and others - both lawyer and non-",
+      "bbox": [
+        75,
+        662,
+        691,
+        679
+      ],
+      "confidence": 0.9853017926216125
+    },
+    {
+      "text": "lawyer - in the Philip Morris Legal Department. We are mindful of the enormous importance of",
+      "bbox": [
+        74,
+        679,
+        684,
+        699
+      ],
+      "confidence": 0.9584747552871704
+    },
+    {
+      "text": "the work, and the pressures attendant upon it which exist for the inside lawyers at least as much",
+      "bbox": [
+        75,
+        700,
+        683,
+        717
+      ],
+      "confidence": 0.988210141658783
+    },
+    {
+      "text": "as for outside counsel. Having the benefit of the strategic and substantive thinking that comes",
+      "bbox": [
+        73,
+        717,
+        674,
+        736
+      ],
+      "confidence": 0.9929736256599426
+    },
+    {
+      "text": "from the inside PM lawyers, especially when blended with the contributions of other national",
+      "bbox": [
+        74,
+        735,
+        665,
+        753
+      ],
+      "confidence": 0.9931214451789856
+    },
+    {
+      "text": "counsel firms, is invaluable to achieving the \"one firm\" concept that distinguishes this",
+      "bbox": [
+        74,
+        755,
+        618,
+        772
+      ],
+      "confidence": 0.98944091796875
+    },
+    {
+      "text": "representation from all others. You have our commitment to continue to provide the Company",
+      "bbox": [
+        71,
+        772,
+        684,
+        793
+      ],
+      "confidence": 0.9915761947631836
+    },
+    {
+      "text": "with our best lawyers doing everything we can to advance Philip Morris' objectives in 1998 and",
+      "bbox": [
+        73,
+        791,
+        687,
+        810
+      ],
+      "confidence": 0.987335205078125
+    },
+    {
+      "text": "2073883663",
+      "bbox": [
+        734,
+        796,
+        754,
+        906
+      ],
+      "confidence": 0.9996452331542969
+    },
+    {
+      "text": "beyond.",
+      "bbox": [
+        72,
+        809,
+        127,
+        831
+      ],
+      "confidence": 0.9998503923416138
+    },
+    {
+      "text": "On the subject of fees and costs, we are cognizant of how the scope and pace of",
+      "bbox": [
+        169,
+        844,
+        689,
+        866
+      ],
+      "confidence": 0.9867427945137024
+    },
+    {
+      "text": "litigation must have affected fees and costs during the past year. To assist with better controlling",
+      "bbox": [
+        74,
+        863,
+        699,
+        884
+      ],
+      "confidence": 0.9888092279434204
+    },
+    {
+      "text": "costs and administering a number of our document center tasks, we have decided to hire a",
+      "bbox": [
+        75,
+        884,
+        654,
+        901
+      ],
+      "confidence": 0.9805679321289062
+    }
+  ],
+  "full_text": "477 MADISON AVENUE\nLAW OFFICES OF\nNEW YORK, NY 10022-5891\nDECHERT PRICE & RHOADS\n(212) 326-3500\nWASHINGTON, DC 20005-1208\n1500 K STREET, N.W.\n4000 BELL ATLANTIC TOWER\n(202) 626-3300\nPRINCETON PIKE CORPORATE CENTER\nPRINCETON, NJ 08543-5218\nP.O. BOX 5218\n1717 ARCH STREET\n65 AVENUE LOUISE\nPHILADELPHIA, PA 19103-2793\n1050 BRUSSELS, BELGIUM\n(32-2) 535-5411\n(609) 520-3200\nTHIRTY NORTH THIRD STREET\nTITMUSS SAINER DECHERT\nHARRISBURO, PA 17101-1603\nTELEPHONE: (215) 994-4000\nLONDON EC4Y ILT, ENGLAND\n2 SERJEANTS' INN\n(717) 237-2000\nFAX: (215) 994-2222\n(44-171) 583-5353\nTEN POST OFFICE SQUARE SOUTH\nBOSTON, MA 02109-4603\n151, BOULEVARD HAUSSMANN\n(617) 728-7100\n75008 PARIS, FRANCE\n(33-1) 538384 70\n90 STATE HOUSE SQUARE\nHARTFORD, CT 06103-3702\n(860) 524-3999\nROBERT C. HEIM\nDireet Dial: (215) 994-2570\nDecember 29, 1997\nCharies R. Wall, Esquire\nSenior Vice President and Deputy General Counsel\nPhilip Morris Companies, Inc.\n120 Park Avenue\nNew York, NY 10017\nDear Chuck:\nAs you suggested, I am writing in response to your letter of December 4, 1997 to\noffer some thoughts on the subject of containing costs and maintaining competitive billing rates.\nAt the outset, you are, I hope, aware of how professionally and personally\ngratifying it is for us to work closely with you, John, Greg, Jim and others - both lawyer and non-\nlawyer - in the Philip Morris Legal Department. We are mindful of the enormous importance of\nthe work, and the pressures attendant upon it which exist for the inside lawyers at least as much\nas for outside counsel. Having the benefit of the strategic and substantive thinking that comes\nfrom the inside PM lawyers, especially when blended with the contributions of other national\ncounsel firms, is invaluable to achieving the \"one firm\" concept that distinguishes this\nrepresentation from all others. You have our commitment to continue to provide the Company\nwith our best lawyers doing everything we can to advance Philip Morris' objectives in 1998 and\n2073883663\nbeyond.\nOn the subject of fees and costs, we are cognizant of how the scope and pace of\nlitigation must have affected fees and costs during the past year. To assist with better controlling\ncosts and administering a number of our document center tasks, we have decided to hire a"
+}

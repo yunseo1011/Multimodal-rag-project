@@ -1,0 +1,701 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0904.png",
+    "image_width": 826,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RE POPT BRO3_3_5",
+      "bbox": [
+        16,
+        34,
+        136,
+        57
+      ],
+      "confidence": 0.9463098645210266
+    },
+    {
+      "text": "PHILIP MORRIS INC",
+      "bbox": [
+        294,
+        44,
+        419,
+        57
+      ],
+      "confidence": 0.9906611442565918
+    },
+    {
+      "text": "REQUEST NO.: 20",
+      "bbox": [
+        638,
+        48,
+        745,
+        61
+      ],
+      "confidence": 0.9866602420806885
+    },
+    {
+      "text": "DATE: 05/11/77",
+      "bbox": [
+        775,
+        46,
+        826,
+        61
+      ],
+      "confidence": 0.9728989601135254
+    },
+    {
+      "text": "CATEGORY: LOW TAR CIGAPETTES",
+      "bbox": [
+        16,
+        64,
+        230,
+        85
+      ],
+      "confidence": 0.986810028553009
+    },
+    {
+      "text": "COMPETITIVF SPENDING PE POPT - ALL $ AMCUNTS ARF IN THUUSANDS",
+      "bbox": [
+        205,
+        54,
+        639,
+        75
+      ],
+      "confidence": 0.935123860836029
+    },
+    {
+      "text": "CURRFNT PERIOD:",
+      "bbox": [
+        673,
+        73,
+        778,
+        86
+      ],
+      "confidence": 0.9874281287193298
+    },
+    {
+      "text": "OCI 1976",
+      "bbox": [
+        796,
+        73,
+        826,
+        87
+      ],
+      "confidence": 0.9612006545066833
+    },
+    {
+      "text": "RANKED RY TOTAL SPENDING",
+      "bbox": [
+        352,
+        97,
+        523,
+        110
+      ],
+      "confidence": 0.9572150707244873
+    },
+    {
+      "text": "PRIOR PERIOD:",
+      "bbox": [
+        683,
+        97,
+        777,
+        112
+      ],
+      "confidence": 0.9892533421516418
+    },
+    {
+      "text": "OCT 1975",
+      "bbox": [
+        796,
+        100,
+        826,
+        111
+      ],
+      "confidence": 0.8883236646652222
+    },
+    {
+      "text": "RANK",
+      "bbox": [
+        17,
+        133,
+        54,
+        147
+      ],
+      "confidence": 0.8868824243545532
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        72,
+        134,
+        114,
+        148
+      ],
+      "confidence": 0.9883654713630676
+    },
+    {
+      "text": "CURRFNT PERIOD $",
+      "bbox": [
+        386,
+        135,
+        501,
+        150
+      ],
+      "confidence": 0.9546495676040649
+    },
+    {
+      "text": "PRIUR PERIOD $",
+      "bbox": [
+        540,
+        136,
+        644,
+        151
+      ],
+      "confidence": 0.967184841632843
+    },
+    {
+      "text": "% CHANCE",
+      "bbox": [
+        682,
+        138,
+        742,
+        152
+      ],
+      "confidence": 0.9501791000366211
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        36,
+        161,
+        53,
+        174
+      ],
+      "confidence": 0.9102466106414795
+    },
+    {
+      "text": "NEWSPAPFRS",
+      "bbox": [
+        71,
+        160,
+        149,
+        176
+      ],
+      "confidence": 0.9970000982284546
+    },
+    {
+      "text": "30,058",
+      "bbox": [
+        426,
+        160,
+        474,
+        177
+      ],
+      "confidence": 0.9988653063774109
+    },
+    {
+      "text": "6,705",
+      "bbox": [
+        576,
+        163,
+        615,
+        177
+      ],
+      "confidence": 0.9943385124206543
+    },
+    {
+      "text": "348.3",
+      "bbox": [
+        697,
+        164,
+        736,
+        178
+      ],
+      "confidence": 0.9990208745002747
+    },
+    {
+      "text": "Z OF TOTAL CATEGORY",
+      "bbox": [
+        145,
+        175,
+        287,
+        191
+      ],
+      "confidence": 0.931999921798706
+    },
+    {
+      "text": "48.0",
+      "bbox": [
+        439,
+        173,
+        474,
+        191
+      ],
+      "confidence": 0.9997403621673584
+    },
+    {
+      "text": "39.5",
+      "bbox": [
+        580,
+        173,
+        616,
+        191
+      ],
+      "confidence": 0.9312770366668701
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        36,
+        202,
+        53,
+        214
+      ],
+      "confidence": 0.9946484565734863
+    },
+    {
+      "text": "MAGAZ INFS",
+      "bbox": [
+        71,
+        199,
+        142,
+        216
+      ],
+      "confidence": 0.9099187850952148
+    },
+    {
+      "text": "17,456",
+      "bbox": [
+        426,
+        199,
+        472,
+        217
+      ],
+      "confidence": 0.9996344447135925
+    },
+    {
+      "text": "Z PF TOTAL CATFGORY",
+      "bbox": [
+        145,
+        214,
+        286,
+        229
+      ],
+      "confidence": 0.8714919090270996
+    },
+    {
+      "text": "27.9",
+      "bbox": [
+        441,
+        215,
+        473,
+        229
+      ],
+      "confidence": 0.998860239982605
+    },
+    {
+      "text": "6,062",
+      "bbox": [
+        575,
+        203,
+        615,
+        216
+      ],
+      "confidence": 0.9929507374763489
+    },
+    {
+      "text": "35.7",
+      "bbox": [
+        582,
+        215,
+        615,
+        230
+      ],
+      "confidence": 0.9996324181556702
+    },
+    {
+      "text": "188.0",
+      "bbox": [
+        698,
+        204,
+        736,
+        217
+      ],
+      "confidence": 0.9953713417053223
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        34,
+        239,
+        54,
+        255
+      ],
+      "confidence": 0.988480269908905
+    },
+    {
+      "text": "GUTDOOR",
+      "bbox": [
+        75,
+        241,
+        127,
+        252
+      ],
+      "confidence": 0.9407563805580139
+    },
+    {
+      "text": "7,208",
+      "bbox": [
+        434,
+        241,
+        472,
+        256
+      ],
+      "confidence": 0.9995018243789673
+    },
+    {
+      "text": "1,597",
+      "bbox": [
+        576,
+        242,
+        616,
+        256
+      ],
+      "confidence": 0.9965313673019409
+    },
+    {
+      "text": "351.3",
+      "bbox": [
+        698,
+        243,
+        737,
+        257
+      ],
+      "confidence": 0.9994457364082336
+    },
+    {
+      "text": "T OF TOTM CATEGDRY",
+      "bbox": [
+        145,
+        254,
+        287,
+        269
+      ],
+      "confidence": 0.8998286724090576
+    },
+    {
+      "text": "11.5",
+      "bbox": [
+        441,
+        254,
+        472,
+        269
+      ],
+      "confidence": 0.9921340346336365
+    },
+    {
+      "text": "9.4",
+      "bbox": [
+        590,
+        257,
+        616,
+        269
+      ],
+      "confidence": 0.9985519051551819
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        35,
+        280,
+        55,
+        296
+      ],
+      "confidence": 0.9784613847732544
+    },
+    {
+      "text": "SYMOICATFD SUPPLEMENTS",
+      "bbox": [
+        73,
+        280,
+        236,
+        295
+      ],
+      "confidence": 0.9671694040298462
+    },
+    {
+      "text": "3,970",
+      "bbox": [
+        432,
+        279,
+        472,
+        296
+      ],
+      "confidence": 0.9979592561721802
+    },
+    {
+      "text": "1,428",
+      "bbox": [
+        577,
+        282,
+        618,
+        297
+      ],
+      "confidence": 0.991012692451477
+    },
+    {
+      "text": "178.0",
+      "bbox": [
+        701,
+        283,
+        738,
+        297
+      ],
+      "confidence": 0.9997004270553589
+    },
+    {
+      "text": "* OF TOTAL CATEGORY",
+      "bbox": [
+        147,
+        296,
+        287,
+        309
+      ],
+      "confidence": 0.9446040987968445
+    },
+    {
+      "text": "ξ*9",
+      "bbox": [
+        446,
+        295,
+        473,
+        310
+      ],
+      "confidence": 0.7585588097572327
+    },
+    {
+      "text": "8.4",
+      "bbox": [
+        591,
+        298,
+        617,
+        310
+      ],
+      "confidence": 0.9708989262580872
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        37,
+        321,
+        54,
+        335
+      ],
+      "confidence": 0.9626528024673462
+    },
+    {
+      "text": "ENOEPENDENT SUPPLFMENTS",
+      "bbox": [
+        76,
+        320,
+        246,
+        336
+      ],
+      "confidence": 0.9498202204704285
+    },
+    {
+      "text": "2,872",
+      "bbox": [
+        433,
+        322,
+        472,
+        336
+      ],
+      "confidence": 0.998304009437561
+    },
+    {
+      "text": ": DF TOTAL CATFGORY",
+      "bbox": [
+        148,
+        334,
+        289,
+        349
+      ],
+      "confidence": 0.8653539419174194
+    },
+    {
+      "text": "4.6",
+      "bbox": [
+        448,
+        336,
+        472,
+        347
+      ],
+      "confidence": 0.9465441703796387
+    },
+    {
+      "text": "1,065",
+      "bbox": [
+        578,
+        323,
+        618,
+        337
+      ],
+      "confidence": 0.9995015859603882
+    },
+    {
+      "text": "6.3",
+      "bbox": [
+        591,
+        336,
+        619,
+        350
+      ],
+      "confidence": 0.9976316094398499
+    },
+    {
+      "text": "169,7",
+      "bbox": [
+        701,
+        323,
+        739,
+        338
+      ],
+      "confidence": 0.9554145932197571
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        37,
+        361,
+        54,
+        374
+      ],
+      "confidence": 0.9908384084701538
+    },
+    {
+      "text": "TRANSIT",
+      "bbox": [
+        77,
+        360,
+        131,
+        374
+      ],
+      "confidence": 0.9686757922172546
+    },
+    {
+      "text": "1,03€",
+      "bbox": [
+        434,
+        361,
+        474,
+        375
+      ],
+      "confidence": 0.8971403241157532
+    },
+    {
+      "text": "106",
+      "bbox": [
+        591,
+        361,
+        618,
+        376
+      ],
+      "confidence": 0.9999375343322754
+    },
+    {
+      "text": "877.4",
+      "bbox": [
+        701,
+        361,
+        739,
+        375
+      ],
+      "confidence": 0.9981977343559265
+    },
+    {
+      "text": "% OF TOTAL CATEGORY",
+      "bbox": [
+        150,
+        374,
+        290,
+        387
+      ],
+      "confidence": 0.9611283540725708
+    },
+    {
+      "text": "1.7",
+      "bbox": [
+        448,
+        374,
+        473,
+        389
+      ],
+      "confidence": 0.9993176460266113
+    },
+    {
+      "text": ".6",
+      "bbox": [
+        600,
+        376,
+        617,
+        389
+      ],
+      "confidence": 0.8352601528167725
+    },
+    {
+      "text": "TOTAL CATFGORY",
+      "bbox": [
+        38,
+        400,
+        146,
+        415
+      ],
+      "confidence": 0.9536562561988831
+    },
+    {
+      "text": "62,600",
+      "bbox": [
+        426,
+        401,
+        474,
+        415
+      ],
+      "confidence": 0.9996352195739746
+    },
+    {
+      "text": "16,963",
+      "bbox": [
+        570,
+        401,
+        617,
+        415
+      ],
+      "confidence": 0.9990928769111633
+    },
+    {
+      "text": "269.0",
+      "bbox": [
+        701,
+        401,
+        740,
+        415
+      ],
+      "confidence": 0.9997585415840149
+    },
+    {
+      "text": "2040739752",
+      "bbox": [
+        44,
+        793,
+        140,
+        811
+      ],
+      "confidence": 0.9998399019241333
+    }
+  ],
+  "full_text": "RE POPT BRO3_3_5\nPHILIP MORRIS INC\nREQUEST NO.: 20\nDATE: 05/11/77\nCATEGORY: LOW TAR CIGAPETTES\nCOMPETITIVF SPENDING PE POPT - ALL $ AMCUNTS ARF IN THUUSANDS\nCURRFNT PERIOD:\nOCI 1976\nRANKED RY TOTAL SPENDING\nPRIOR PERIOD:\nOCT 1975\nRANK\nMEDIA\nCURRFNT PERIOD $\nPRIUR PERIOD $\n% CHANCE\n1.\nNEWSPAPFRS\n30,058\n6,705\n348.3\nZ OF TOTAL CATEGORY\n48.0\n39.5\n2.\nMAGAZ INFS\n17,456\nZ PF TOTAL CATFGORY\n27.9\n6,062\n35.7\n188.0\n3.\nGUTDOOR\n7,208\n1,597\n351.3\nT OF TOTM CATEGDRY\n11.5\n9.4\n4.\nSYMOICATFD SUPPLEMENTS\n3,970\n1,428\n178.0\n* OF TOTAL CATEGORY\nξ*9\n8.4\n5.\nENOEPENDENT SUPPLFMENTS\n2,872\n: DF TOTAL CATFGORY\n4.6\n1,065\n6.3\n169,7\n6.\nTRANSIT\n1,03€\n106\n877.4\n% OF TOTAL CATEGORY\n1.7\n.6\nTOTAL CATFGORY\n62,600\n16,963\n269.0\n2040739752"
+}

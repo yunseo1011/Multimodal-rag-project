@@ -1,0 +1,171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0186.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Nashville, TN",
+      "bbox": [
+        324,
+        190,
+        401,
+        215
+      ],
+      "confidence": 0.9197933673858643
+    },
+    {
+      "text": "Tennessaan",
+      "bbox": [
+        326,
+        212,
+        393,
+        229
+      ],
+      "confidence": 0.9718376994132996
+    },
+    {
+      "text": "Nashylite",
+      "bbox": [
+        338,
+        228,
+        383,
+        242
+      ],
+      "confidence": 0.8780531883239746
+    },
+    {
+      "text": "Mot Aren",
+      "bbox": [
+        338,
+        241,
+        381,
+        252
+      ],
+      "confidence": 0.8393956422805786
+    },
+    {
+      "text": "Friday",
+      "bbox": [
+        270,
+        255,
+        307,
+        272
+      ],
+      "confidence": 0.99270099401474
+    },
+    {
+      "text": "0163.179",
+      "bbox": [
+        398,
+        256,
+        449,
+        270
+      ],
+      "confidence": 0.9417787194252014
+    },
+    {
+      "text": "JUN 19. 1998",
+      "bbox": [
+        320,
+        289,
+        412,
+        303
+      ],
+      "confidence": 0.9829328656196594
+    },
+    {
+      "text": "N5084",
+      "bbox": [
+        413,
+        324,
+        457,
+        339
+      ],
+      "confidence": 0.9969175457954407
+    },
+    {
+      "text": "LUCE",
+      "bbox": [
+        268,
+        340,
+        348,
+        372
+      ],
+      "confidence": 0.9944276213645935
+    },
+    {
+      "text": "PRESSCLIPPINGS",
+      "bbox": [
+        346,
+        356,
+        452,
+        374
+      ],
+      "confidence": 0.9985297918319702
+    },
+    {
+      "text": "WEEKEND: CONCERTS",
+      "bbox": [
+        232,
+        406,
+        478,
+        431
+      ],
+      "confidence": 0.9960211515426636
+    },
+    {
+      "text": "Virginia Slims Dueling",
+      "bbox": [
+        281,
+        441,
+        402,
+        464
+      ],
+      "confidence": 0.9966171383857727
+    },
+    {
+      "text": "Divas/Nashville CARES! Benefit fea-",
+      "bbox": [
+        266,
+        456,
+        460,
+        476
+      ],
+      "confidence": 0.9713399410247803
+    },
+    {
+      "text": "turing Audra & the Antldote, 10 p.m.",
+      "bbox": [
+        265,
+        469,
+        456,
+        489
+      ],
+      "confidence": 0.9745242595672607
+    },
+    {
+      "text": "Saturday at Exit/n, 2208 Elliston Place.",
+      "bbox": [
+        265,
+        481,
+        463,
+        501
+      ],
+      "confidence": 0.9636474847793579
+    },
+    {
+      "text": "2070898624",
+      "bbox": [
+        714,
+        856,
+        753,
+        974
+      ],
+      "confidence": 0.9999758005142212
+    }
+  ],
+  "full_text": "Nashville, TN\nTennessaan\nNashylite\nMot Aren\nFriday\n0163.179\nJUN 19. 1998\nN5084\nLUCE\nPRESSCLIPPINGS\nWEEKEND: CONCERTS\nVirginia Slims Dueling\nDivas/Nashville CARES! Benefit fea-\nturing Audra & the Antldote, 10 p.m.\nSaturday at Exit/n, 2208 Elliston Place.\n2070898624"
+}

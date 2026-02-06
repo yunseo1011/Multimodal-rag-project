@@ -1,0 +1,971 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0113.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CABARRUS COUNTY",
+      "bbox": [
+        55,
+        75,
+        161,
+        95
+      ],
+      "confidence": 0.996741533279419
+    },
+    {
+      "text": "CIGARETTE SPECIEICATION",
+      "bbox": [
+        302,
+        69,
+        462,
+        82
+      ],
+      "confidence": 0.9844419956207275
+    },
+    {
+      "text": "EFFECTIVE DATE: 08/29/2001",
+      "bbox": [
+        514,
+        74,
+        689,
+        95
+      ],
+      "confidence": 0.9977597594261169
+    },
+    {
+      "text": "MERIT KS MENTHOL SP - \"PAPER SELECT\"",
+      "bbox": [
+        54,
+        91,
+        298,
+        114
+      ],
+      "confidence": 0.9623963236808777
+    },
+    {
+      "text": "STANDARD PRODUCTION",
+      "bbox": [
+        513,
+        92,
+        638,
+        110
+      ],
+      "confidence": 0.9992368817329407
+    },
+    {
+      "text": "BRAND CODE-00720 (STD)",
+      "bbox": [
+        56,
+        106,
+        207,
+        126
+      ],
+      "confidence": 0.9714563488960266
+    },
+    {
+      "text": "CIGARETTE LENGTH",
+      "bbox": [
+        63,
+        150,
+        175,
+        169
+      ],
+      "confidence": 0.9988360404968262
+    },
+    {
+      "text": "84.0",
+      "bbox": [
+        250,
+        157,
+        278,
+        168
+      ],
+      "confidence": 0.999527096748352
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        350,
+        155,
+        369,
+        168
+      ],
+      "confidence": 0.89100182056427
+    },
+    {
+      "text": "FTC TAR",
+      "bbox": [
+        391,
+        155,
+        439,
+        166
+      ],
+      "confidence": 0.9946684837341309
+    },
+    {
+      "text": "8.0",
+      "bbox": [
+        519,
+        154,
+        542,
+        166
+      ],
+      "confidence": 0.9993664622306824
+    },
+    {
+      "text": "MG/CIGT",
+      "bbox": [
+        558,
+        154,
+        605,
+        165
+      ],
+      "confidence": 0.9642242789268494
+    },
+    {
+      "text": "6.8",
+      "bbox": [
+        620,
+        153,
+        644,
+        165
+      ],
+      "confidence": 0.9966321587562561
+    },
+    {
+      "text": "9.2",
+      "bbox": [
+        678,
+        152,
+        702,
+        164
+      ],
+      "confidence": 0.9972580075263977
+    },
+    {
+      "text": "TOBACCO ROD CIRCUM.",
+      "bbox": [
+        63,
+        164,
+        194,
+        185
+      ],
+      "confidence": 0.9890344738960266
+    },
+    {
+      "text": "24.80",
+      "bbox": [
+        250,
+        171,
+        285,
+        182
+      ],
+      "confidence": 0.9866660833358765
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        350,
+        169,
+        369,
+        182
+      ],
+      "confidence": 0.9324384927749634
+    },
+    {
+      "text": "TOBACCO ROD LENGTH",
+      "bbox": [
+        63,
+        178,
+        189,
+        199
+      ],
+      "confidence": 0.9979758858680725
+    },
+    {
+      "text": "57.0",
+      "bbox": [
+        249,
+        184,
+        280,
+        199
+      ],
+      "confidence": 0.9993258118629456
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        350,
+        183,
+        369,
+        197
+      ],
+      "confidence": 0.9330018162727356
+    },
+    {
+      "text": "FILTER LENGTH",
+      "bbox": [
+        63,
+        193,
+        156,
+        212
+      ],
+      "confidence": 0.9982954263687134
+    },
+    {
+      "text": "27.0",
+      "bbox": [
+        249,
+        198,
+        280,
+        212
+      ],
+      "confidence": 0.9997454881668091
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        350,
+        198,
+        369,
+        211
+      ],
+      "confidence": 0.8749381899833679
+    },
+    {
+      "text": "TIPPING LENGTH",
+      "bbox": [
+        64,
+        207,
+        162,
+        226
+      ],
+      "confidence": 0.9987820386886597
+    },
+    {
+      "text": "32.000",
+      "bbox": [
+        248,
+        210,
+        292,
+        227
+      ],
+      "confidence": 0.9858551025390625
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        348,
+        208,
+        371,
+        227
+      ],
+      "confidence": 0.6845521926879883
+    },
+    {
+      "text": "TOTAL R.T.D.",
+      "bbox": [
+        64,
+        223,
+        148,
+        240
+      ],
+      "confidence": 0.9965285658836365
+    },
+    {
+      "text": "132",
+      "bbox": [
+        242,
+        226,
+        267,
+        241
+      ],
+      "confidence": 0.9997677803039551
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        327,
+        227,
+        344,
+        238
+      ],
+      "confidence": 0.6525040864944458
+    },
+    {
+      "text": "H20",
+      "bbox": [
+        350,
+        226,
+        375,
+        238
+      ],
+      "confidence": 0.998403012752533
+    },
+    {
+      "text": "FRESH MENTHOL",
+      "bbox": [
+        390,
+        225,
+        479,
+        238
+      ],
+      "confidence": 0.9646377563476562
+    },
+    {
+      "text": ".55",
+      "bbox": [
+        526,
+        225,
+        549,
+        237
+      ],
+      "confidence": 0.9993042945861816
+    },
+    {
+      "text": "MG/CIGT",
+      "bbox": [
+        556,
+        225,
+        606,
+        236
+      ],
+      "confidence": 0.9576312899589539
+    },
+    {
+      "text": ".50",
+      "bbox": [
+        629,
+        225,
+        652,
+        237
+      ],
+      "confidence": 0.9987177848815918
+    },
+    {
+      "text": ".60",
+      "bbox": [
+        687,
+        225,
+        709,
+        237
+      ],
+      "confidence": 0.9983076453208923
+    },
+    {
+      "text": "DILUTION TARGET",
+      "bbox": [
+        64,
+        237,
+        169,
+        254
+      ],
+      "confidence": 0.9912609457969666
+    },
+    {
+      "text": "35.0",
+      "bbox": [
+        249,
+        240,
+        280,
+        254
+      ],
+      "confidence": 0.9997345209121704
+    },
+    {
+      "text": "+/-",
+      "bbox": [
+        290,
+        241,
+        310,
+        252
+      ],
+      "confidence": 0.929587185382843
+    },
+    {
+      "text": "5.0 %",
+      "bbox": [
+        332,
+        239,
+        377,
+        253
+      ],
+      "confidence": 0.9798213243484497
+    },
+    {
+      "text": "TIPPING PAPER",
+      "bbox": [
+        65,
+        280,
+        155,
+        295
+      ],
+      "confidence": 0.984625518321991
+    },
+    {
+      "text": "64 X 3500 CK/WHT DGL PPT 265M2-36 CAL",
+      "bbox": [
+        248,
+        280,
+        494,
+        295
+      ],
+      "confidence": 0.9677075743675232
+    },
+    {
+      "text": "14-225-A LASER PERF.",
+      "bbox": [
+        496,
+        279,
+        631,
+        294
+      ],
+      "confidence": 0.9807429313659668
+    },
+    {
+      "text": "GLUE ROLLER/",
+      "bbox": [
+        66,
+        310,
+        149,
+        324
+      ],
+      "confidence": 0.9988444447517395
+    },
+    {
+      "text": ": REFER TO ENGINEERINGS GLUE RDLLER VARIABLE PARTS CATALOG -",
+      "bbox": [
+        220,
+        308,
+        605,
+        325
+      ],
+      "confidence": 0.9877813458442688
+    },
+    {
+      "text": "TIPPING INFORMATION",
+      "bbox": [
+        65,
+        324,
+        194,
+        339
+      ],
+      "confidence": 0.9944018125534058
+    },
+    {
+      "text": ": BY TYPE-TIPPER AND CIGARETTE BRAND-CODE-SPECIFICATION",
+      "bbox": [
+        218,
+        324,
+        573,
+        339
+      ],
+      "confidence": 0.9912086725234985
+    },
+    {
+      "text": "TYPE /BAND WIDTH/ TPR. CUT LENGTH/DRY PATCH SIZE",
+      "bbox": [
+        389,
+        350,
+        704,
+        366
+      ],
+      "confidence": 0.9824674725532532
+    },
+    {
+      "text": ": BETWEEN ROWS/",
+      "bbox": [
+        220,
+        354,
+        318,
+        367
+      ],
+      "confidence": 0.997325599193573
+    },
+    {
+      "text": "DILUTION",
+      "bbox": [
+        326,
+        355,
+        383,
+        365
+      ],
+      "confidence": 0.9995102286338806
+    },
+    {
+      "text": "1.50",
+      "bbox": [
+        456,
+        367,
+        486,
+        382
+      ],
+      "confidence": 0.9998264312744141
+    },
+    {
+      "text": "27.00",
+      "bbox": [
+        539,
+        367,
+        574,
+        381
+      ],
+      "confidence": 0.9996110796928406
+    },
+    {
+      "text": "8.5 x",
+      "bbox": [
+        609,
+        365,
+        647,
+        379
+      ],
+      "confidence": 0.8576353788375854
+    },
+    {
+      "text": "20MM",
+      "bbox": [
+        679,
+        364,
+        712,
+        378
+      ],
+      "confidence": 0.9775270819664001
+    },
+    {
+      "text": "24.00",
+      "bbox": [
+        255,
+        368,
+        293,
+        382
+      ],
+      "confidence": 0.9896169900894165
+    },
+    {
+      "text": "PRE-PERF TIPPING",
+      "bbox": [
+        313,
+        368,
+        420,
+        381
+      ],
+      "confidence": 0.9981319904327393
+    },
+    {
+      "text": "TIPPING ADHESIVE",
+      "bbox": [
+        67,
+        397,
+        175,
+        410
+      ],
+      "confidence": 0.9846125245094299
+    },
+    {
+      "text": ": NATIOMAL 32-2037",
+      "bbox": [
+        219,
+        397,
+        336,
+        410
+      ],
+      "confidence": 0.9572327136993408
+    },
+    {
+      "text": "EVA",
+      "bbox": [
+        470,
+        397,
+        494,
+        409
+      ],
+      "confidence": 0.999798595905304
+    },
+    {
+      "text": "61-065-A",
+      "bbox": [
+        501,
+        397,
+        555,
+        408
+      ],
+      "confidence": 0.9995948076248169
+    },
+    {
+      "text": "SEAM ADHESIVE",
+      "bbox": [
+        69,
+        426,
+        158,
+        440
+      ],
+      "confidence": 0.9972060918807983
+    },
+    {
+      "text": ": FULLER WB-3902U",
+      "bbox": [
+        219,
+        426,
+        330,
+        440
+      ],
+      "confidence": 0.9942823052406311
+    },
+    {
+      "text": "PVA",
+      "bbox": [
+        470,
+        425,
+        495,
+        438
+      ],
+      "confidence": 0.9997259974479675
+    },
+    {
+      "text": "61-444-A",
+      "bbox": [
+        504,
+        426,
+        557,
+        438
+      ],
+      "confidence": 0.9969136714935303
+    },
+    {
+      "text": ": FULLER WB 3921L",
+      "bbox": [
+        219,
+        441,
+        330,
+        454
+      ],
+      "confidence": 0.973327100276947
+    },
+    {
+      "text": "PVA",
+      "bbox": [
+        470,
+        441,
+        495,
+        452
+      ],
+      "confidence": 0.9993402361869812
+    },
+    {
+      "text": "61-040-A",
+      "bbox": [
+        504,
+        441,
+        557,
+        452
+      ],
+      "confidence": 0.9992779493331909
+    },
+    {
+      "text": "STD. FILLER - PACK 0.V.: A0720 - 13.00% MERIT MENTHOL",
+      "bbox": [
+        71,
+        469,
+        414,
+        482
+      ],
+      "confidence": 0.9862478971481323
+    },
+    {
+      "text": "CIGARETTE PAPER",
+      "bbox": [
+        72,
+        511,
+        171,
+        524
+      ],
+      "confidence": 0.9994989633560181
+    },
+    {
+      "text": ": 27.00MM X 6000M 60CU/1.0X/6.5MM BW/FLAX",
+      "bbox": [
+        219,
+        511,
+        492,
+        526
+      ],
+      "confidence": 0.9840253591537476
+    },
+    {
+      "text": "08-104-A",
+      "bbox": [
+        506,
+        513,
+        560,
+        524
+      ],
+      "confidence": 0.9978591203689575
+    },
+    {
+      "text": "INK",
+      "bbox": [
+        73,
+        540,
+        94,
+        552
+      ],
+      "confidence": 0.9997225403785706
+    },
+    {
+      "text": "*INK FOR PRINT DIE AND EXPORT OVERPRINTSH",
+      "bbox": [
+        251,
+        539,
+        522,
+        554
+      ],
+      "confidence": 0.9712539315223694
+    },
+    {
+      "text": ": MARLBORO BLACK #370775",
+      "bbox": [
+        219,
+        553,
+        377,
+        569
+      ],
+      "confidence": 0.9829509854316711
+    },
+    {
+      "text": "60-799-A",
+      "bbox": [
+        509,
+        556,
+        562,
+        568
+      ],
+      "confidence": 0.9998916387557983
+    },
+    {
+      "text": "PRINT DIE",
+      "bbox": [
+        71,
+        579,
+        134,
+        595
+      ],
+      "confidence": 0.970474123954773
+    },
+    {
+      "text": ": MACHINE NUMBER",
+      "bbox": [
+        219,
+        581,
+        326,
+        597
+      ],
+      "confidence": 0.9702119827270508
+    },
+    {
+      "text": "SAP CROSS REFERENCE :",
+      "bbox": [
+        245,
+        698,
+        392,
+        713
+      ],
+      "confidence": 0.9955000281333923
+    },
+    {
+      "text": "CIGT:",
+      "bbox": [
+        422,
+        700,
+        458,
+        714
+      ],
+      "confidence": 0.9994996786117554
+    },
+    {
+      "text": "CG0723",
+      "bbox": [
+        476,
+        700,
+        519,
+        714
+      ],
+      "confidence": 0.9901147484779358
+    },
+    {
+      "text": "FILTER:",
+      "bbox": [
+        558,
+        702,
+        609,
+        713
+      ],
+      "confidence": 0.9990601539611816
+    },
+    {
+      "text": "07061A",
+      "bbox": [
+        615,
+        702,
+        659,
+        713
+      ],
+      "confidence": 0.9991638660430908
+    },
+    {
+      "text": "2069723455",
+      "bbox": [
+        718,
+        806,
+        744,
+        892
+      ],
+      "confidence": 0.9999449849128723
+    },
+    {
+      "text": "REASON FOR CHANGE",
+      "bbox": [
+        69,
+        827,
+        184,
+        843
+      ],
+      "confidence": 0.9811485409736633
+    },
+    {
+      "text": ": REMOVED 08-102-A 3 6300M FROM SPEC - INVENTORY",
+      "bbox": [
+        221,
+        828,
+        540,
+        844
+      ],
+      "confidence": 0.9501592516899109
+    },
+    {
+      "text": ": DEPLETED. NO OTHER CHANGES MADE.",
+      "bbox": [
+        223,
+        844,
+        452,
+        857
+      ],
+      "confidence": 0.9675252437591553
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        68,
+        901,
+        145,
+        914
+      ],
+      "confidence": 0.9973053336143494
+    },
+    {
+      "text": ": K. V. SHITH",
+      "bbox": [
+        223,
+        901,
+        310,
+        914
+      ],
+      "confidence": 0.9067208170890808
+    },
+    {
+      "text": "PRINTING DATE",
+      "bbox": [
+        463,
+        901,
+        555,
+        919
+      ],
+      "confidence": 0.9979993104934692
+    },
+    {
+      "text": "PREPARATION DATE",
+      "bbox": [
+        68,
+        915,
+        178,
+        928
+      ],
+      "confidence": 0.9592498540878296
+    },
+    {
+      "text": ": 8/27/01",
+      "bbox": [
+        225,
+        916,
+        291,
+        927
+      ],
+      "confidence": 0.9714730381965637
+    },
+    {
+      "text": "PRINTING TIME",
+      "bbox": [
+        463,
+        915,
+        555,
+        934
+      ],
+      "confidence": 0.9992732405662537
+    },
+    {
+      "text": "1/20/02",
+      "bbox": [
+        640,
+        909,
+        691,
+        923
+      ],
+      "confidence": 0.9996233582496643
+    },
+    {
+      "text": "8:51:58",
+      "bbox": [
+        639,
+        923,
+        692,
+        939
+      ],
+      "confidence": 0.9992238283157349
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        70,
+        946,
+        150,
+        956
+      ],
+      "confidence": 0.9987601637840271
+    },
+    {
+      "text": "SUPERCEDES SPECIFICATION DATED:",
+      "bbox": [
+        451,
+        944,
+        666,
+        967
+      ],
+      "confidence": 0.99677574634552
+    },
+    {
+      "text": "3/05/01",
+      "bbox": [
+        672,
+        953,
+        727,
+        969
+      ],
+      "confidence": 0.9860177636146545
+    }
+  ],
+  "full_text": "CABARRUS COUNTY\nCIGARETTE SPECIEICATION\nEFFECTIVE DATE: 08/29/2001\nMERIT KS MENTHOL SP - \"PAPER SELECT\"\nSTANDARD PRODUCTION\nBRAND CODE-00720 (STD)\nCIGARETTE LENGTH\n84.0\nHM\nFTC TAR\n8.0\nMG/CIGT\n6.8\n9.2\nTOBACCO ROD CIRCUM.\n24.80\nMM\nTOBACCO ROD LENGTH\n57.0\nHM\nFILTER LENGTH\n27.0\nMM\nTIPPING LENGTH\n32.000\nMM\nTOTAL R.T.D.\n132\nHM\nH20\nFRESH MENTHOL\n.55\nMG/CIGT\n.50\n.60\nDILUTION TARGET\n35.0\n+/-\n5.0 %\nTIPPING PAPER\n64 X 3500 CK/WHT DGL PPT 265M2-36 CAL\n14-225-A LASER PERF.\nGLUE ROLLER/\n: REFER TO ENGINEERINGS GLUE RDLLER VARIABLE PARTS CATALOG -\nTIPPING INFORMATION\n: BY TYPE-TIPPER AND CIGARETTE BRAND-CODE-SPECIFICATION\nTYPE /BAND WIDTH/ TPR. CUT LENGTH/DRY PATCH SIZE\n: BETWEEN ROWS/\nDILUTION\n1.50\n27.00\n8.5 x\n20MM\n24.00\nPRE-PERF TIPPING\nTIPPING ADHESIVE\n: NATIOMAL 32-2037\nEVA\n61-065-A\nSEAM ADHESIVE\n: FULLER WB-3902U\nPVA\n61-444-A\n: FULLER WB 3921L\nPVA\n61-040-A\nSTD. FILLER - PACK 0.V.: A0720 - 13.00% MERIT MENTHOL\nCIGARETTE PAPER\n: 27.00MM X 6000M 60CU/1.0X/6.5MM BW/FLAX\n08-104-A\nINK\n*INK FOR PRINT DIE AND EXPORT OVERPRINTSH\n: MARLBORO BLACK #370775\n60-799-A\nPRINT DIE\n: MACHINE NUMBER\nSAP CROSS REFERENCE :\nCIGT:\nCG0723\nFILTER:\n07061A\n2069723455\nREASON FOR CHANGE\n: REMOVED 08-102-A 3 6300M FROM SPEC - INVENTORY\n: DEPLETED. NO OTHER CHANGES MADE.\nPREPARED BY\n: K. V. SHITH\nPRINTING DATE\nPREPARATION DATE\n: 8/27/01\nPRINTING TIME\n1/20/02\n8:51:58\nAPPROVED BY:\nSUPERCEDES SPECIFICATION DATED:\n3/05/01"
+}

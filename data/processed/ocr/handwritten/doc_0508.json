@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0508.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Dean Kg + Sis Disneyland",
+      "bbox": [
+        271,
+        524,
+        577,
+        589
+      ],
+      "confidence": 0.7845657467842102
+    },
+    {
+      "text": "Had t lment on",
+      "bbox": [
+        281,
+        565,
+        444,
+        603
+      ],
+      "confidence": 0.6002931594848633
+    },
+    {
+      "text": "CUate",
+      "bbox": [
+        468,
+        576,
+        499,
+        583
+      ],
+      "confidence": 0.6076699495315552
+    },
+    {
+      "text": "CU",
+      "bbox": [
+        574,
+        566,
+        593,
+        578
+      ],
+      "confidence": 0.7869187593460083
+    },
+    {
+      "text": "good youn lenting 25's ",
+      "bbox": [
+        264,
+        593,
+        505,
+        629
+      ],
+      "confidence": 0.8487518429756165
+    },
+    {
+      "text": "ane!",
+      "bbox": [
+        265,
+        621,
+        316,
+        643
+      ],
+      "confidence": 0.7957339286804199
+    },
+    {
+      "text": " thik thy beet",
+      "bbox": [
+        287,
+        636,
+        470,
+        663
+      ],
+      "confidence": 0.8041740655899048
+    },
+    {
+      "text": "POST CARD",
+      "bbox": [
+        559,
+        635,
+        636,
+        655
+      ],
+      "confidence": 0.9911465048789978
+    },
+    {
+      "text": "ppantboro. lold yor ond",
+      "bbox": [
+        257,
+        660,
+        502,
+        695
+      ],
+      "confidence": 0.6861752271652222
+    },
+    {
+      "text": "R.g.Renolds",
+      "bbox": [
+        533,
+        664,
+        702,
+        707
+      ],
+      "confidence": 0.7146802544593811
+    },
+    {
+      "text": "51751 0057",
+      "bbox": [
+        722,
+        663,
+        748,
+        766
+      ],
+      "confidence": 0.9997702836990356
+    },
+    {
+      "text": "ne a Conpon on Cntiy 25",
+      "bbox": [
+        257,
+        683,
+        506,
+        722
+      ],
+      "confidence": 0.7272428274154663
+    },
+    {
+      "text": "Thondyou bo",
+      "bbox": [
+        336,
+        711,
+        472,
+        743
+      ],
+      "confidence": 0.6521518230438232
+    },
+    {
+      "text": "Jaba lompany",
+      "bbox": [
+        520,
+        700,
+        702,
+        740
+      ],
+      "confidence": 0.8080568909645081
+    },
+    {
+      "text": "1996",
+      "bbox": [
+        272,
+        732,
+        325,
+        761
+      ],
+      "confidence": 0.9993997812271118
+    },
+    {
+      "text": "you tihe",
+      "bbox": [
+        344,
+        730,
+        439,
+        754
+      ],
+      "confidence": 0.6660466194152832
+    },
+    {
+      "text": "Vinston- Salem, M.C.",
+      "bbox": [
+        515,
+        735,
+        705,
+        779
+      ],
+      "confidence": 0.7118790149688721
+    },
+    {
+      "text": "SLEEPING BEAUIY EASTLE FANTASYLAND",
+      "bbox": [
+        273,
+        777,
+        467,
+        805
+      ],
+      "confidence": 0.7557835578918457
+    },
+    {
+      "text": "CanL,0Re.97206",
+      "bbox": [
+        380,
+        773,
+        500,
+        799
+      ],
+      "confidence": 0.7164188623428345
+    },
+    {
+      "text": "27102",
+      "bbox": [
+        566,
+        781,
+        645,
+        806
+      ],
+      "confidence": 0.9265559911727905
+    },
+    {
+      "text": "Maln Stree! where guests disembark for Sleep:",
+      "bbox": [
+        268,
+        799,
+        477,
+        823
+      ],
+      "confidence": 0.9287424683570862
+    },
+    {
+      "text": "A horse-deawn street car arrives al the end of",
+      "bbox": [
+        269,
+        790,
+        478,
+        815
+      ],
+      "confidence": 0.9257348775863647
+    },
+    {
+      "text": "land of fantesy_ where dreams ectuelly come frue",
+      "bbox": [
+        268,
+        815,
+        476,
+        840
+      ],
+      "confidence": 0.9092833399772644
+    },
+    {
+      "text": "Fantasyland",
+      "bbox": [
+        482,
+        805,
+        533,
+        820
+      ],
+      "confidence": 0.9160681366920471
+    },
+    {
+      "text": "U.S.A.",
+      "bbox": [
+        580,
+        807,
+        661,
+        832
+      ],
+      "confidence": 0.9435136318206787
+    },
+    {
+      "text": "for the young at heart.",
+      "bbox": [
+        268,
+        825,
+        368,
+        841
+      ],
+      "confidence": 0.968949019908905
+    }
+  ],
+  "full_text": "Dean Kg + Sis Disneyland\nHad t lment on\nCUate\nCU\ngood youn lenting 25's \nane!\n thik thy beet\nPOST CARD\nppantboro. lold yor ond\nR.g.Renolds\n51751 0057\nne a Conpon on Cntiy 25\nThondyou bo\nJaba lompany\n1996\nyou tihe\nVinston- Salem, M.C.\nSLEEPING BEAUIY EASTLE FANTASYLAND\nCanL,0Re.97206\n27102\nMaln Stree! where guests disembark for Sleep:\nA horse-deawn street car arrives al the end of\nland of fantesy_ where dreams ectuelly come frue\nFantasyland\nU.S.A.\nfor the young at heart."
+}

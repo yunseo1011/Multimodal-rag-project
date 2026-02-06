@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0229.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "OFFER",
+      "bbox": [
+        385,
+        149,
+        450,
+        179
+      ],
+      "confidence": 0.9993913769721985
+    },
+    {
+      "text": "130-95",
+      "bbox": [
+        613,
+        154,
+        711,
+        182
+      ],
+      "confidence": 0.9564288258552551
+    },
+    {
+      "text": "HAS BEEN",
+      "bbox": [
+        370,
+        170,
+        463,
+        195
+      ],
+      "confidence": 0.957797646522522
+    },
+    {
+      "text": "R EMOVED.",
+      "bbox": [
+        366,
+        186,
+        470,
+        215
+      ],
+      "confidence": 0.8431451320648193
+    },
+    {
+      "text": "201243",
+      "bbox": [
+        567,
+        191,
+        720,
+        352
+      ],
+      "confidence": 0.9137845635414124
+    },
+    {
+      "text": "A 1-thit ofter wa ftacted to",
+      "bbox": [
+        365,
+        210,
+        466,
+        231
+      ],
+      "confidence": 0.7520571947097778
+    },
+    {
+      "text": "this pack i it is missing.",
+      "bbox": [
+        374,
+        225,
+        457,
+        241
+      ],
+      "confidence": 0.9183032512664795
+    },
+    {
+      "text": "we will imwestigate the mattec.",
+      "bbox": [
+        367,
+        236,
+        464,
+        253
+      ],
+      "confidence": 0.8668572306632996
+    },
+    {
+      "text": "To assist in this investigation",
+      "bbox": [
+        368,
+        247,
+        463,
+        263
+      ],
+      "confidence": 0.8990556001663208
+    },
+    {
+      "text": "201232",
+      "bbox": [
+        626,
+        247,
+        754,
+        387
+      ],
+      "confidence": 0.932776927947998
+    },
+    {
+      "text": "please send this panel, your",
+      "bbox": [
+        369,
+        259,
+        461,
+        275
+      ],
+      "confidence": 0.957011878490448
+    },
+    {
+      "text": "name, address, the store name,",
+      "bbox": [
+        362,
+        270,
+        465,
+        286
+      ],
+      "confidence": 0.9547946453094482
+    },
+    {
+      "text": "and Iocation from which you",
+      "bbox": [
+        367,
+        283,
+        462,
+        297
+      ],
+      "confidence": 0.9465630650520325
+    },
+    {
+      "text": "Consumer Relations Departmnt,",
+      "bbox": [
+        359,
+        305,
+        468,
+        324
+      ],
+      "confidence": 0.8605497479438782
+    },
+    {
+      "text": "abtained this pack to.",
+      "bbox": [
+        379,
+        293,
+        464,
+        310
+      ],
+      "confidence": 0.930864155292511
+    },
+    {
+      "text": "PO. Box 1618,",
+      "bbox": [
+        390,
+        320,
+        440,
+        334
+      ],
+      "confidence": 0.9337257146835327
+    },
+    {
+      "text": "Winston-Salem, NC 27102.",
+      "bbox": [
+        369,
+        329,
+        460,
+        346
+      ],
+      "confidence": 0.9786285758018494
+    },
+    {
+      "text": "DearSirs,",
+      "bbox": [
+        250,
+        346,
+        397,
+        387
+      ],
+      "confidence": 0.8190939426422119
+    },
+    {
+      "text": "Comebody Already got",
+      "bbox": [
+        274,
+        383,
+        652,
+        420
+      ],
+      "confidence": 0.7947453260421753
+    },
+    {
+      "text": "tho Her Sefele Ibougt",
+      "bbox": [
+        254,
+        418,
+        719,
+        457
+      ],
+      "confidence": 0.6337183713912964
+    },
+    {
+      "text": "th Back BSrokes.",
+      "bbox": [
+        252,
+        452,
+        636,
+        488
+      ],
+      "confidence": 0.7375954985618591
+    },
+    {
+      "text": "I bought thern at Chevoren",
+      "bbox": [
+        254,
+        484,
+        712,
+        521
+      ],
+      "confidence": 0.7958309650421143
+    },
+    {
+      "text": "gas statien. on Oak qrole é",
+      "bbox": [
+        251,
+        519,
+        678,
+        555
+      ],
+      "confidence": 0.8130100965499878
+    },
+    {
+      "text": "treat Blud; Concond calf",
+      "bbox": [
+        259,
+        549,
+        684,
+        595
+      ],
+      "confidence": 0.7762301564216614
+    },
+    {
+      "text": "Ma.Kindi LEE",
+      "bbox": [
+        227,
+        607,
+        459,
+        652
+      ],
+      "confidence": 0.7349861264228821
+    },
+    {
+      "text": "51830 1591",
+      "bbox": [
+        700,
+        622,
+        727,
+        727
+      ],
+      "confidence": 0.9936894178390503
+    },
+    {
+      "text": "8359.Bonifac30",
+      "bbox": [
+        276,
+        651,
+        524,
+        685
+      ],
+      "confidence": 0.7985810041427612
+    },
+    {
+      "text": "Concorod a4. 94520",
+      "bbox": [
+        268,
+        685,
+        530,
+        718
+      ],
+      "confidence": 0.835468590259552
+    },
+    {
+      "text": "510)671-2696 D0b.5-29-65",
+      "bbox": [
+        320,
+        717,
+        659,
+        755
+      ],
+      "confidence": 0.768238365650177
+    },
+    {
+      "text": "It cane og a pack of Camel 1os",
+      "bbox": [
+        302,
+        781,
+        744,
+        822
+      ],
+      "confidence": 0.8407323956489563
+    },
+    {
+      "text": "bougLt on San. 3ous 1990",
+      "bbox": [
+        292,
+        814,
+        649,
+        857
+      ],
+      "confidence": 0.7517806887626648
+    },
+    {
+      "text": "thank yau",
+      "bbox": [
+        349,
+        877,
+        519,
+        915
+      ],
+      "confidence": 0.8555558323860168
+    },
+    {
+      "text": "please",
+      "bbox": [
+        583,
+        880,
+        681,
+        920
+      ],
+      "confidence": 0.8179128170013428
+    },
+    {
+      "text": "TUrN OUR",
+      "bbox": [
+        608,
+        882,
+        747,
+        960
+      ],
+      "confidence": 0.8325524926185608
+    },
+    {
+      "text": "Kreep Smakin Joe!",
+      "bbox": [
+        234,
+        912,
+        521,
+        951
+      ],
+      "confidence": 0.914547324180603
+    },
+    {
+      "text": "A",
+      "bbox": [
+        705,
+        920,
+        737,
+        940
+      ],
+      "confidence": 0.7682552933692932
+    }
+  ],
+  "full_text": "OFFER\n130-95\nHAS BEEN\nR EMOVED.\n201243\nA 1-thit ofter wa ftacted to\nthis pack i it is missing.\nwe will imwestigate the mattec.\nTo assist in this investigation\n201232\nplease send this panel, your\nname, address, the store name,\nand Iocation from which you\nConsumer Relations Departmnt,\nabtained this pack to.\nPO. Box 1618,\nWinston-Salem, NC 27102.\nDearSirs,\nComebody Already got\ntho Her Sefele Ibougt\nth Back BSrokes.\nI bought thern at Chevoren\ngas statien. on Oak qrole é\ntreat Blud; Concond calf\nMa.Kindi LEE\n51830 1591\n8359.Bonifac30\nConcorod a4. 94520\n510)671-2696 D0b.5-29-65\nIt cane og a pack of Camel 1os\nbougLt on San. 3ous 1990\nthank yau\nplease\nTUrN OUR\nKreep Smakin Joe!\nA"
+}

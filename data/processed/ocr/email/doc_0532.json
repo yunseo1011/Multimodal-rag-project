@@ -1,0 +1,151 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0532.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Bryan Brown, Adam",
+      "bbox": [
+        84,
+        46,
+        274,
+        70
+      ],
+      "confidence": 0.9987947344779968
+    },
+    {
+      "text": "To: Smith, Jan Fulton",
+      "bbox": [
+        85,
+        65,
+        236,
+        88
+      ],
+      "confidence": 0.9743176698684692
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        85,
+        86,
+        121,
+        105
+      ],
+      "confidence": 0.9995800852775574
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        84,
+        105,
+        131,
+        123
+      ],
+      "confidence": 0.9997643828392029
+    },
+    {
+      "text": "Primary Date: 1/8/1997 11:55:01 PM",
+      "bbox": [
+        84,
+        123,
+        342,
+        146
+      ],
+      "confidence": 0.9789061546325684
+    },
+    {
+      "text": "Last Modified Date: 2001-Nov-20 15:01:10",
+      "bbox": [
+        83,
+        141,
+        385,
+        166
+      ],
+      "confidence": 0.9920210838317871
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        83,
+        160,
+        228,
+        185
+      ],
+      "confidence": 0.9913676381111145
+    },
+    {
+      "text": "Sent Date: 1997-Jan-08 23:55:00",
+      "bbox": [
+        83,
+        180,
+        309,
+        202
+      ],
+      "confidence": 0.9791187644004822
+    },
+    {
+      "text": "Received Date: 1997-Jan-08 23:55:01",
+      "bbox": [
+        83,
+        201,
+        339,
+        220
+      ],
+      "confidence": 0.9836947917938232
+    },
+    {
+      "text": "Subject: Company dcscription",
+      "bbox": [
+        82,
+        219,
+        290,
+        240
+      ],
+      "confidence": 0.9753898978233337
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        83,
+        260,
+        181,
+        279
+      ],
+      "confidence": 0.9994563460350037
+    },
+    {
+      "text": "RJRIDE_1.DOC",
+      "bbox": [
+        81,
+        276,
+        196,
+        298
+      ],
+      "confidence": 0.985645592212677
+    },
+    {
+      "text": "What do you think of the attached?",
+      "bbox": [
+        82,
+        356,
+        317,
+        376
+      ],
+      "confidence": 0.9881331324577332
+    },
+    {
+      "text": "00508024643",
+      "bbox": [
+        68,
+        986,
+        167,
+        999
+      ],
+      "confidence": 0.9990866184234619
+    }
+  ],
+  "full_text": "From: Bryan Brown, Adam\nTo: Smith, Jan Fulton\nCC:\nBCC:\nPrimary Date: 1/8/1997 11:55:01 PM\nLast Modified Date: 2001-Nov-20 15:01:10\nLast Touched Date:\nSent Date: 1997-Jan-08 23:55:00\nReceived Date: 1997-Jan-08 23:55:01\nSubject: Company dcscription\nAttachments:\nRJRIDE_1.DOC\nWhat do you think of the attached?\n00508024643"
+}

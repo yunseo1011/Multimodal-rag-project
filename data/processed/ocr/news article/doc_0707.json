@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0707.png",
+    "image_width": 739,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "3SSUrIIPPA.S",
+      "bbox": [
+        75,
+        0,
+        401,
+        22
+      ],
+      "confidence": 0.7095025181770325
+    },
+    {
+      "text": "SORLANDET",
+      "bbox": [
+        28,
+        26,
+        129,
+        49
+      ],
+      "confidence": 0.9761902689933777
+    },
+    {
+      "text": "KRISTIANSAND",
+      "bbox": [
+        281,
+        34,
+        400,
+        48
+      ],
+      "confidence": 0.9979496598243713
+    },
+    {
+      "text": "6.600",
+      "bbox": [
+        426,
+        33,
+        480,
+        50
+      ],
+      "confidence": 0.9356614947319031
+    },
+    {
+      "text": "17,08.89",
+      "bbox": [
+        511,
+        33,
+        589,
+        50
+      ],
+      "confidence": 0.9744269847869873
+    },
+    {
+      "text": "AVIS",
+      "bbox": [
+        112,
+        51,
+        144,
+        66
+      ],
+      "confidence": 0.9750794172286987
+    },
+    {
+      "text": "OPPLAG",
+      "bbox": [
+        425,
+        52,
+        477,
+        69
+      ],
+      "confidence": 0.9951648116111755
+    },
+    {
+      "text": "KUNDE",
+      "bbox": [
+        629,
+        52,
+        674,
+        69
+      ],
+      "confidence": 0.9994770884513855
+    },
+    {
+      "text": "STED",
+      "bbox": [
+        304,
+        53,
+        336,
+        68
+      ],
+      "confidence": 0.9916172027587891
+    },
+    {
+      "text": "DATO",
+      "bbox": [
+        533,
+        53,
+        567,
+        68
+      ],
+      "confidence": 0.893130362033844
+    },
+    {
+      "text": "G",
+      "bbox": [
+        672,
+        89,
+        702,
+        123
+      ],
+      "confidence": 0.9995338916778564
+    },
+    {
+      "text": "Nordiske røykere",
+      "bbox": [
+        231,
+        454,
+        405,
+        481
+      ],
+      "confidence": 0.9971534013748169
+    },
+    {
+      "text": "holder seminar",
+      "bbox": [
+        233,
+        482,
+        380,
+        503
+      ],
+      "confidence": 0.9982624053955078
+    },
+    {
+      "text": "Kebenhavn (NTB-RB): De nordis-",
+      "bbox": [
+        233,
+        506,
+        418,
+        520
+      ],
+      "confidence": 0.9790745377540588
+    },
+    {
+      "text": "raykare skad samies il seminar i",
+      "bbox": [
+        230,
+        532,
+        420,
+        550
+      ],
+      "confidence": 0.8971071839332581
+    },
+    {
+      "text": "ke foreninger for hensynsfulle",
+      "bbox": [
+        232,
+        522,
+        418,
+        536
+      ],
+      "confidence": 0.9872381687164307
+    },
+    {
+      "text": "Danmark, for i styrke raykernes",
+      "bbox": [
+        230,
+        545,
+        419,
+        564
+      ],
+      "confidence": 0.9158688187599182
+    },
+    {
+      "text": "argumenter i et - eter deres",
+      "bbox": [
+        232,
+        561,
+        418,
+        575
+      ],
+      "confidence": 0.9846143126487732
+    },
+    {
+      "text": "mening - hjerteritt samfunn med",
+      "bbox": [
+        232,
+        574,
+        418,
+        587
+      ],
+      "confidence": 0.9827231168746948
+    },
+    {
+      "text": "ubegrunnet hets.",
+      "bbox": [
+        232,
+        586,
+        320,
+        600
+      ],
+      "confidence": 0.9851416349411011
+    },
+    {
+      "text": "Foreningen meier debatten ofte",
+      "bbox": [
+        245,
+        598,
+        418,
+        612
+      ],
+      "confidence": 0.9520062804222107
+    },
+    {
+      "text": "mot en stor befoikningsgruppe.",
+      "bbox": [
+        231,
+        622,
+        419,
+        637
+      ],
+      "confidence": 0.9747612476348877
+    },
+    {
+      "text": "or usaklig. og har karakter av hets",
+      "bbox": [
+        232,
+        611,
+        418,
+        624
+      ],
+      "confidence": 0.9818492531776428
+    },
+    {
+      "text": "Derfor er det nedvendig serge",
+      "bbox": [
+        231,
+        632,
+        420,
+        650
+      ],
+      "confidence": 0.9562810659408569
+    },
+    {
+      "text": "for at raykemne skoleres for i pavi-",
+      "bbox": [
+        233,
+        647,
+        418,
+        661
+      ],
+      "confidence": 0.9347836375236511
+    },
+    {
+      "text": "se urimelighetene i motstandernes",
+      "bbox": [
+        233,
+        660,
+        419,
+        674
+      ],
+      "confidence": 0.9777119755744934
+    },
+    {
+      "text": "argumenter og myndighetenes inn-",
+      "bbox": [
+        230,
+        670,
+        420,
+        689
+      ],
+      "confidence": 0.9781975150108337
+    },
+    {
+      "text": "grep.",
+      "bbox": [
+        231,
+        684,
+        263,
+        703
+      ],
+      "confidence": 0.9997658729553223
+    },
+    {
+      "text": "2501066638",
+      "bbox": [
+        585,
+        735,
+        622,
+        844
+      ],
+      "confidence": 0.9998881220817566
+    }
+  ],
+  "full_text": "3SSUrIIPPA.S\nSORLANDET\nKRISTIANSAND\n6.600\n17,08.89\nAVIS\nOPPLAG\nKUNDE\nSTED\nDATO\nG\nNordiske røykere\nholder seminar\nKebenhavn (NTB-RB): De nordis-\nraykare skad samies il seminar i\nke foreninger for hensynsfulle\nDanmark, for i styrke raykernes\nargumenter i et - eter deres\nmening - hjerteritt samfunn med\nubegrunnet hets.\nForeningen meier debatten ofte\nmot en stor befoikningsgruppe.\nor usaklig. og har karakter av hets\nDerfor er det nedvendig serge\nfor at raykemne skoleres for i pavi-\nse urimelighetene i motstandernes\nargumenter og myndighetenes inn-\ngrep.\n2501066638"
+}

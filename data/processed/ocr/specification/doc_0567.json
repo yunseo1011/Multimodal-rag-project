@@ -1,0 +1,1091 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0567.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PhelimimaRt srtuiticatiuns",
+      "bbox": [
+        285,
+        172,
+        516,
+        193
+      ],
+      "confidence": 0.6399778723716736
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        83,
+        222,
+        132,
+        243
+      ],
+      "confidence": 0.9976245760917664
+    },
+    {
+      "text": "MERIT ULTRA LIGHTS 100 MENTHOL",
+      "bbox": [
+        139,
+        226,
+        338,
+        240
+      ],
+      "confidence": 0.9732857942581177
+    },
+    {
+      "text": "IBM CODE",
+      "bbox": [
+        83,
+        242,
+        156,
+        262
+      ],
+      "confidence": 0.9476796984672546
+    },
+    {
+      "text": "TARGET",
+      "bbox": [
+        301,
+        244,
+        355,
+        261
+      ],
+      "confidence": 0.9996302723884583
+    },
+    {
+      "text": "SMOKE",
+      "bbox": [
+        82,
+        256,
+        130,
+        273
+      ],
+      "confidence": 0.9362555742263794
+    },
+    {
+      "text": "Butt Lengtn",
+      "bbox": [
+        91,
+        270,
+        189,
+        287
+      ],
+      "confidence": 0.9538378119468689
+    },
+    {
+      "text": "39",
+      "bbox": [
+        313,
+        268,
+        344,
+        284
+      ],
+      "confidence": 0.9962888956069946
+    },
+    {
+      "text": "39.",
+      "bbox": [
+        427,
+        268,
+        452,
+        284
+      ],
+      "confidence": 0.9799098968505859
+    },
+    {
+      "text": "FTC Tar",
+      "bbox": [
+        91,
+        282,
+        158,
+        301
+      ],
+      "confidence": 0.9495317339897156
+    },
+    {
+      "text": "mg/cizt.",
+      "bbox": [
+        167,
+        287,
+        232,
+        298
+      ],
+      "confidence": 0.9409000873565674
+    },
+    {
+      "text": "5.0",
+      "bbox": [
+        312,
+        283,
+        338,
+        299
+      ],
+      "confidence": 0.999257504940033
+    },
+    {
+      "text": "5.2",
+      "bbox": [
+        427,
+        282,
+        452,
+        299
+      ],
+      "confidence": 0.9982100129127502
+    },
+    {
+      "text": "Nicotine, Rg/cigt.",
+      "bbox": [
+        89,
+        306,
+        241,
+        326
+      ],
+      "confidence": 0.8931882381439209
+    },
+    {
+      "text": "TPM, mg/cigt.",
+      "bbox": [
+        90,
+        294,
+        201,
+        314
+      ],
+      "confidence": 0.9422248601913452
+    },
+    {
+      "text": "Pufr Count",
+      "bbox": [
+        91,
+        319,
+        177,
+        337
+      ],
+      "confidence": 0.9771860837936401
+    },
+    {
+      "text": "9.0",
+      "bbox": [
+        308,
+        318,
+        337,
+        338
+      ],
+      "confidence": 0.9977958798408508
+    },
+    {
+      "text": ".40",
+      "bbox": [
+        312,
+        308,
+        338,
+        325
+      ],
+      "confidence": 0.9986909031867981
+    },
+    {
+      "text": ".41",
+      "bbox": [
+        431,
+        310,
+        448,
+        324
+      ],
+      "confidence": 0.9244136810302734
+    },
+    {
+      "text": "Filtration Efriciency.",
+      "bbox": [
+        89,
+        332,
+        292,
+        350
+      ],
+      "confidence": 0.976841926574707
+    },
+    {
+      "text": "64",
+      "bbox": [
+        310,
+        333,
+        332,
+        350
+      ],
+      "confidence": 0.999845027923584
+    },
+    {
+      "text": "64",
+      "bbox": [
+        425,
+        335,
+        445,
+        351
+      ],
+      "confidence": 0.9998412132263184
+    },
+    {
+      "text": "8.1",
+      "bbox": [
+        426,
+        323,
+        449,
+        338
+      ],
+      "confidence": 0.9994240403175354
+    },
+    {
+      "text": "Filier Rod TPM, mg/cigt.",
+      "bbox": [
+        90,
+        346,
+        287,
+        362
+      ],
+      "confidence": 0.9391109943389893
+    },
+    {
+      "text": "CIGARETTE",
+      "bbox": [
+        82,
+        370,
+        162,
+        387
+      ],
+      "confidence": 0.9972801208496094
+    },
+    {
+      "text": "Total·RTD,",
+      "bbox": [
+        89,
+        384,
+        175,
+        400
+      ],
+      "confidence": 0.9134156107902527
+    },
+    {
+      "text": "in. of H0",
+      "bbox": [
+        180,
+        384,
+        267,
+        401
+      ],
+      "confidence": 0.8779091835021973
+    },
+    {
+      "text": "4.5 ±.5",
+      "bbox": [
+        293,
+        383,
+        367,
+        401
+      ],
+      "confidence": 0.8645680546760559
+    },
+    {
+      "text": "-4.7",
+      "bbox": [
+        421,
+        385,
+        450,
+        401
+      ],
+      "confidence": 0.992825448513031
+    },
+    {
+      "text": "Lengthmm",
+      "bbox": [
+        87,
+        410,
+        177,
+        428
+      ],
+      "confidence": 0.8536061644554138
+    },
+    {
+      "text": "Static Surn.Time, min.",
+      "bbox": [
+        88,
+        398,
+        280,
+        413
+      ],
+      "confidence": 0.9711313843727112
+    },
+    {
+      "text": "6.3",
+      "bbox": [
+        308,
+        398,
+        347,
+        413
+      ],
+      "confidence": 0.9969859719276428
+    },
+    {
+      "text": "99.5",
+      "bbox": [
+        309,
+        411,
+        341,
+        426
+      ],
+      "confidence": 0.9992541074752808
+    },
+    {
+      "text": "6.2",
+      "bbox": [
+        423,
+        400,
+        451,
+        415
+      ],
+      "confidence": 0.9963377118110657
+    },
+    {
+      "text": "Circunterence",
+      "bbox": [
+        87,
+        423,
+        203,
+        442
+      ],
+      "confidence": 0.9918013215065002
+    },
+    {
+      "text": "24.8",
+      "bbox": [
+        308,
+        424,
+        341,
+        442
+      ],
+      "confidence": 0.9994440674781799
+    },
+    {
+      "text": "99.0",
+      "bbox": [
+        420,
+        413,
+        455,
+        428
+      ],
+      "confidence": 0.9982649087905884
+    },
+    {
+      "text": "24.6",
+      "bbox": [
+        423,
+        426,
+        454,
+        443
+      ],
+      "confidence": 0.999823808670044
+    },
+    {
+      "text": "Tipoing Paoer Length, mm",
+      "bbox": [
+        87,
+        437,
+        289,
+        453
+      ],
+      "confidence": 0.9259783625602722
+    },
+    {
+      "text": "36",
+      "bbox": [
+        307,
+        436,
+        327,
+        453
+      ],
+      "confidence": 0.9978748559951782
+    },
+    {
+      "text": "36",
+      "bbox": [
+        423,
+        438,
+        444,
+        454
+      ],
+      "confidence": 0.9994674921035767
+    },
+    {
+      "text": "Dilution,",
+      "bbox": [
+        87,
+        449,
+        183,
+        467
+      ],
+      "confidence": 0.9679667353630066
+    },
+    {
+      "text": "59 ±3",
+      "bbox": [
+        307,
+        450,
+        351,
+        465
+      ],
+      "confidence": 0.9877287745475769
+    },
+    {
+      "text": "52",
+      "bbox": [
+        423,
+        452,
+        443,
+        469
+      ],
+      "confidence": 0.9995948076248169
+    },
+    {
+      "text": "PAPER",
+      "bbox": [
+        74,
+        475,
+        126,
+        494
+      ],
+      "confidence": 0.9986518025398254
+    },
+    {
+      "text": "cit.",
+      "bbox": [
+        305,
+        485,
+        340,
+        504
+      ],
+      "confidence": 0.9991179704666138
+    },
+    {
+      "text": "cit.",
+      "bbox": [
+        420,
+        486,
+        455,
+        505
+      ],
+      "confidence": 0.9990949630737305
+    },
+    {
+      "text": "Additive, type",
+      "bbox": [
+        86,
+        492,
+        206,
+        506
+      ],
+      "confidence": 0.9743723273277283
+    },
+    {
+      "text": "12",
+      "bbox": [
+        304,
+        502,
+        325,
+        519
+      ],
+      "confidence": 0.998788595199585
+    },
+    {
+      "text": "Porosity, sec.",
+      "bbox": [
+        86,
+        505,
+        204,
+        519
+      ],
+      "confidence": 0.9907556772232056
+    },
+    {
+      "text": "17",
+      "bbox": [
+        420,
+        504,
+        443,
+        521
+      ],
+      "confidence": 0.9988223314285278
+    },
+    {
+      "text": "FILTER",
+      "bbox": [
+        73,
+        527,
+        132,
+        544
+      ],
+      "confidence": 0.9978938698768616
+    },
+    {
+      "text": "TOw",
+      "bbox": [
+        84,
+        542,
+        115,
+        558
+      ],
+      "confidence": 0.7745385766029358
+    },
+    {
+      "text": "3.0/48K",
+      "bbox": [
+        304,
+        539,
+        358,
+        557
+      ],
+      "confidence": 0.9954294562339783
+    },
+    {
+      "text": "3.0/48K",
+      "bbox": [
+        420,
+        541,
+        472,
+        559
+      ],
+      "confidence": 0.9959537386894226
+    },
+    {
+      "text": "Inner",
+      "bbox": [
+        92,
+        556,
+        140,
+        571
+      ],
+      "confidence": 0.9998496770858765
+    },
+    {
+      "text": "Outer",
+      "bbox": [
+        91,
+        570,
+        139,
+        584
+      ],
+      "confidence": 0.9983744621276855
+    },
+    {
+      "text": "RTD, in. ofH0",
+      "bbox": [
+        81,
+        579,
+        216,
+        597
+      ],
+      "confidence": 0.8362492918968201
+    },
+    {
+      "text": "5.5",
+      "bbox": [
+        304,
+        579,
+        331,
+        595
+      ],
+      "confidence": 0.9981728196144104
+    },
+    {
+      "text": "5.6",
+      "bbox": [
+        419,
+        579,
+        448,
+        598
+      ],
+      "confidence": 0.998580276966095
+    },
+    {
+      "text": "Inner",
+      "bbox": [
+        91,
+        594,
+        139,
+        611
+      ],
+      "confidence": 0.9972679018974304
+    },
+    {
+      "text": "Lengtn,",
+      "bbox": [
+        83,
+        622,
+        145,
+        636
+      ],
+      "confidence": 0.9478479623794556
+    },
+    {
+      "text": "Outer",
+      "bbox": [
+        90,
+        608,
+        138,
+        623
+      ],
+      "confidence": 0.9993270635604858
+    },
+    {
+      "text": "31.5",
+      "bbox": [
+        303,
+        618,
+        338,
+        636
+      ],
+      "confidence": 0.9989736676216125
+    },
+    {
+      "text": "31.7",
+      "bbox": [
+        420,
+        621,
+        451,
+        637
+      ],
+      "confidence": 0.9998335242271423
+    },
+    {
+      "text": "Inner",
+      "bbox": [
+        91,
+        635,
+        138,
+        649
+      ],
+      "confidence": 0.9998035430908203
+    },
+    {
+      "text": "Outer",
+      "bbox": [
+        83,
+        647,
+        139,
+        664
+      ],
+      "confidence": 0.9987672567367554
+    },
+    {
+      "text": "Weignt,",
+      "bbox": [
+        80,
+        660,
+        145,
+        678
+      ],
+      "confidence": 0.920897901058197
+    },
+    {
+      "text": "gas",
+      "bbox": [
+        149,
+        661,
+        179,
+        675
+      ],
+      "confidence": 0.9591703414916992
+    },
+    {
+      "text": ".22",
+      "bbox": [
+        305,
+        657,
+        329,
+        673
+      ],
+      "confidence": 0.9990313649177551
+    },
+    {
+      "text": "22°",
+      "bbox": [
+        421,
+        658,
+        445,
+        675
+      ],
+      "confidence": 0.8534038662910461
+    },
+    {
+      "text": "Inner",
+      "bbox": [
+        88,
+        673,
+        137,
+        691
+      ],
+      "confidence": 0.9996965527534485
+    },
+    {
+      "text": "Outer",
+      "bbox": [
+        88,
+        689,
+        137,
+        704
+      ],
+      "confidence": 0.9896623492240906
+    },
+    {
+      "text": "Caroon,",
+      "bbox": [
+        81,
+        702,
+        147,
+        716
+      ],
+      "confidence": 0.9383136630058289
+    },
+    {
+      "text": "ng/piug",
+      "bbox": [
+        142,
+        703,
+        212,
+        714
+      ],
+      "confidence": 0.8904315233230591
+    },
+    {
+      "text": "FILLER",
+      "bbox": [
+        73,
+        727,
+        128,
+        741
+      ],
+      "confidence": 0.9977520108222961
+    },
+    {
+      "text": "Total alkaIoids. $",
+      "bbox": [
+        80,
+        736,
+        240,
+        754
+      ],
+      "confidence": 0.8855498433113098
+    },
+    {
+      "text": "1.96",
+      "bbox": [
+        413,
+        734,
+        453,
+        752
+      ],
+      "confidence": 0.9434396624565125
+    },
+    {
+      "text": "Total reducing sugars, ",
+      "bbox": [
+        80,
+        749,
+        290,
+        768
+      ],
+      "confidence": 0.95163893699646
+    },
+    {
+      "text": "4.2",
+      "bbox": [
+        419,
+        749,
+        444,
+        765
+      ],
+      "confidence": 0.9984574913978577
+    },
+    {
+      "text": "RKS,",
+      "bbox": [
+        79,
+        764,
+        140,
+        781
+      ],
+      "confidence": 0.8893737196922302
+    },
+    {
+      "text": "-",
+      "bbox": [
+        318,
+        767,
+        327,
+        775
+      ],
+      "confidence": 0.9990359544754028
+    },
+    {
+      "text": "ES.$$",
+      "bbox": [
+        78,
+        777,
+        129,
+        795
+      ],
+      "confidence": 0.7370641827583313
+    },
+    {
+      "text": "ET.$fra }$",
+      "bbox": [
+        79,
+        789,
+        130,
+        807
+      ],
+      "confidence": 0.6667256951332092
+    },
+    {
+      "text": "22.5",
+      "bbox": [
+        300,
+        800,
+        335,
+        820
+      ],
+      "confidence": 0.9987475872039795
+    },
+    {
+      "text": "20 ± 5 (DIET)",
+      "bbox": [
+        303,
+        789,
+        401,
+        803
+      ],
+      "confidence": 0.9614017009735107
+    },
+    {
+      "text": "Reconstituted Tob.,",
+      "bbox": [
+        81,
+        804,
+        264,
+        819
+      ],
+      "confidence": 0.9891538023948669
+    },
+    {
+      "text": "Compacimetric. firmness",
+      "bbox": [
+        81,
+        844,
+        237,
+        860
+      ],
+      "confidence": 0.9539032578468323
+    },
+    {
+      "text": "30 ±1",
+      "bbox": [
+        296,
+        840,
+        342,
+        862
+      ],
+      "confidence": 0.8153608441352844
+    },
+    {
+      "text": "(24 hrs. in the pack)",
+      "bbox": [
+        94,
+        857,
+        242,
+        872
+      ],
+      "confidence": 0.9264434576034546
+    },
+    {
+      "text": "Wt. of Tob., gms",
+      "bbox": [
+        79,
+        869,
+        223,
+        884
+      ],
+      "confidence": 0.9313436150550842
+    },
+    {
+      "text": ".725",
+      "bbox": [
+        297,
+        867,
+        329,
+        883
+      ],
+      "confidence": 0.9865068197250366
+    },
+    {
+      "text": ".651",
+      "bbox": [
+        414,
+        867,
+        444,
+        883
+      ],
+      "confidence": 0.9989850521087646
+    },
+    {
+      "text": "Rod Lengtn, mm",
+      "bbox": [
+        79,
+        882,
+        206,
+        897
+      ],
+      "confidence": 0.9380325078964233
+    },
+    {
+      "text": "68.0",
+      "bbox": [
+        297,
+        881,
+        329,
+        897
+      ],
+      "confidence": 0.9995176792144775
+    },
+    {
+      "text": ".201",
+      "bbox": [
+        414,
+        891,
+        446,
+        910
+      ],
+      "confidence": 0.9961403012275696
+    },
+    {
+      "text": "Density,.gms/cc",
+      "bbox": [
+        80,
+        897,
+        214,
+        911
+      ],
+      "confidence": 0.9501564502716064
+    },
+    {
+      "text": ".210",
+      "bbox": [
+        292,
+        894,
+        329,
+        912
+      ],
+      "confidence": 0.9946361184120178
+    },
+    {
+      "text": "MENTHOL",
+      "bbox": [
+        69,
+        919,
+        138,
+        937
+      ],
+      "confidence": 0.9691268801689148
+    },
+    {
+      "text": "Smoke",
+      "bbox": [
+        75,
+        932,
+        126,
+        949
+      ],
+      "confidence": 0.8723710179328918
+    },
+    {
+      "text": ".40 ±.05",
+      "bbox": [
+        300,
+        930,
+        359,
+        945
+      ],
+      "confidence": 0.9272638559341431
+    },
+    {
+      "text": "36",
+      "bbox": [
+        421,
+        930,
+        438,
+        943
+      ],
+      "confidence": 0.9995546340942383
+    },
+    {
+      "text": "Filler",
+      "bbox": [
+        76,
+        942,
+        135,
+        960
+      ],
+      "confidence": 0.8807904124259949
+    },
+    {
+      "text": "4.0",
+      "bbox": [
+        299,
+        944,
+        321,
+        955
+      ],
+      "confidence": 0.9544780254364014
+    },
+    {
+      "text": "Filter",
+      "bbox": [
+        76,
+        956,
+        135,
+        970
+      ],
+      "confidence": 0.8702953457832336
+    },
+    {
+      "text": "1.5",
+      "bbox": [
+        303,
+        955,
+        323,
+        967
+      ],
+      "confidence": 0.7427261471748352
+    },
+    {
+      "text": "1.8",
+      "bbox": [
+        415,
+        954,
+        438,
+        966
+      ],
+      "confidence": 0.9983498454093933
+    },
+    {
+      "text": ".",
+      "bbox": [
+        330,
+        972,
+        337,
+        977
+      ],
+      "confidence": 0.621529221534729
+    }
+  ],
+  "full_text": "PhelimimaRt srtuiticatiuns\nBRAND\nMERIT ULTRA LIGHTS 100 MENTHOL\nIBM CODE\nTARGET\nSMOKE\nButt Lengtn\n39\n39.\nFTC Tar\nmg/cizt.\n5.0\n5.2\nNicotine, Rg/cigt.\nTPM, mg/cigt.\nPufr Count\n9.0\n.40\n.41\nFiltration Efriciency.\n64\n64\n8.1\nFilier Rod TPM, mg/cigt.\nCIGARETTE\nTotal·RTD,\nin. of H0\n4.5 ±.5\n-4.7\nLengthmm\nStatic Surn.Time, min.\n6.3\n99.5\n6.2\nCircunterence\n24.8\n99.0\n24.6\nTipoing Paoer Length, mm\n36\n36\nDilution,\n59 ±3\n52\nPAPER\ncit.\ncit.\nAdditive, type\n12\nPorosity, sec.\n17\nFILTER\nTOw\n3.0/48K\n3.0/48K\nInner\nOuter\nRTD, in. ofH0\n5.5\n5.6\nInner\nLengtn,\nOuter\n31.5\n31.7\nInner\nOuter\nWeignt,\ngas\n.22\n22°\nInner\nOuter\nCaroon,\nng/piug\nFILLER\nTotal alkaIoids. $\n1.96\nTotal reducing sugars, \n4.2\nRKS,\n-\nES.$$\nET.$fra }$\n22.5\n20 ± 5 (DIET)\nReconstituted Tob.,\nCompacimetric. firmness\n30 ±1\n(24 hrs. in the pack)\nWt. of Tob., gms\n.725\n.651\nRod Lengtn, mm\n68.0\n.201\nDensity,.gms/cc\n.210\nMENTHOL\nSmoke\n.40 ±.05\n36\nFiller\n4.0\nFilter\n1.5\n1.8\n."
+}

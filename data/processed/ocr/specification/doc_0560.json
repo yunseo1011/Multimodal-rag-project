@@ -1,0 +1,1221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0560.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MANUFACTURING CENTER",
+      "bbox": [
+        31,
+        80,
+        182,
+        100
+      ],
+      "confidence": 0.9988574981689453
+    },
+    {
+      "text": "FINISHED FILTER ROD DESCRIPTIVE",
+      "bbox": [
+        263,
+        73,
+        483,
+        86
+      ],
+      "confidence": 0.9905810356140137
+    },
+    {
+      "text": "MARLBORO KS MENTHOLATED FOIL SP - P98",
+      "bbox": [
+        29,
+        95,
+        302,
+        118
+      ],
+      "confidence": 0.9923371076583862
+    },
+    {
+      "text": "EFFECTIVE DATE: 10/28/1996",
+      "bbox": [
+        513,
+        85,
+        704,
+        101
+      ],
+      "confidence": 0.9934955835342407
+    },
+    {
+      "text": "BRAND CODE-DC210 (STD>(PP)",
+      "bbox": [
+        30,
+        111,
+        222,
+        131
+      ],
+      "confidence": 0.9519068598747253
+    },
+    {
+      "text": "STANDARD PRODUCTION",
+      "bbox": [
+        514,
+        102,
+        650,
+        115
+      ],
+      "confidence": 0.9872968792915344
+    },
+    {
+      "text": "PRODUCT 98 PRODUCTION",
+      "bbox": [
+        514,
+        116,
+        664,
+        130
+      ],
+      "confidence": 0.9944242835044861
+    },
+    {
+      "text": "MACHINE TYPE",
+      "bbox": [
+        75,
+        143,
+        166,
+        160
+      ],
+      "confidence": 0.9924909472465515
+    },
+    {
+      "text": "I",
+      "bbox": [
+        244,
+        152,
+        249,
+        159
+      ],
+      "confidence": 0.9395316243171692
+    },
+    {
+      "text": "KDF-2",
+      "bbox": [
+        291,
+        148,
+        329,
+        159
+      ],
+      "confidence": 0.9995635151863098
+    },
+    {
+      "text": "FILTER ROD LENGTH",
+      "bbox": [
+        74,
+        173,
+        200,
+        192
+      ],
+      "confidence": 0.9825456142425537
+    },
+    {
+      "text": "126.0",
+      "bbox": [
+        284,
+        177,
+        321,
+        189
+      ],
+      "confidence": 0.9998857378959656
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        443,
+        175,
+        464,
+        190
+      ],
+      "confidence": 0.8953340649604797
+    },
+    {
+      "text": "FILTER CIRCUMFERENCE",
+      "bbox": [
+        75,
+        188,
+        222,
+        206
+      ],
+      "confidence": 0.9949334859848022
+    },
+    {
+      "text": ":",
+      "bbox": [
+        242,
+        195,
+        249,
+        204
+      ],
+      "confidence": 0.6284604072570801
+    },
+    {
+      "text": "24.45",
+      "bbox": [
+        284,
+        193,
+        321,
+        204
+      ],
+      "confidence": 0.9997894167900085
+    },
+    {
+      "text": "MM (LASER)",
+      "bbox": [
+        447,
+        193,
+        516,
+        204
+      ],
+      "confidence": 0.9967190623283386
+    },
+    {
+      "text": "NUMBER UP",
+      "bbox": [
+        74,
+        204,
+        144,
+        220
+      ],
+      "confidence": 0.9931437373161316
+    },
+    {
+      "text": "6",
+      "bbox": [
+        311,
+        208,
+        320,
+        219
+      ],
+      "confidence": 0.9999567270278931
+    },
+    {
+      "text": "PLUG LENGTH",
+      "bbox": [
+        74,
+        219,
+        158,
+        236
+      ],
+      "confidence": 0.9992877840995789
+    },
+    {
+      "text": ":",
+      "bbox": [
+        242,
+        224,
+        249,
+        234
+      ],
+      "confidence": 0.8840725421905518
+    },
+    {
+      "text": "21.0",
+      "bbox": [
+        290,
+        222,
+        320,
+        233
+      ],
+      "confidence": 0.9996744990348816
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        445,
+        222,
+        463,
+        234
+      ],
+      "confidence": 0.847615659236908
+    },
+    {
+      "text": "ROD R.T.D.",
+      "bbox": [
+        74,
+        235,
+        150,
+        250
+      ],
+      "confidence": 0.9926798939704895
+    },
+    {
+      "text": ":",
+      "bbox": [
+        242,
+        239,
+        249,
+        249
+      ],
+      "confidence": 0.6593309640884399
+    },
+    {
+      "text": "384",
+      "bbox": [
+        296,
+        237,
+        321,
+        249
+      ],
+      "confidence": 0.9955344200134277
+    },
+    {
+      "text": "HH",
+      "bbox": [
+        409,
+        237,
+        428,
+        249
+      ],
+      "confidence": 0.7585601806640625
+    },
+    {
+      "text": "H20",
+      "bbox": [
+        439,
+        238,
+        465,
+        249
+      ],
+      "confidence": 0.9997835159301758
+    },
+    {
+      "text": "(TOTAL ENCAP)",
+      "bbox": [
+        463,
+        238,
+        559,
+        248
+      ],
+      "confidence": 0.9613062143325806
+    },
+    {
+      "text": "PLUG R.T.D.",
+      "bbox": [
+        74,
+        249,
+        157,
+        265
+      ],
+      "confidence": 0.9934324622154236
+    },
+    {
+      "text": ":",
+      "bbox": [
+        242,
+        254,
+        249,
+        263
+      ],
+      "confidence": 0.9922707080841064
+    },
+    {
+      "text": "66",
+      "bbox": [
+        303,
+        251,
+        321,
+        264
+      ],
+      "confidence": 0.9999024271965027
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        409,
+        252,
+        429,
+        264
+      ],
+      "confidence": 0.8011137247085571
+    },
+    {
+      "text": "H20",
+      "bbox": [
+        438,
+        252,
+        463,
+        264
+      ],
+      "confidence": 0.9990125298500061
+    },
+    {
+      "text": "FILTER ROD",
+      "bbox": [
+        76,
+        279,
+        151,
+        294
+      ],
+      "confidence": 0.9579709768295288
+    },
+    {
+      "text": ": 126/24.45/FT-334/45M1/383MM/7.21% PZ",
+      "bbox": [
+        242,
+        280,
+        511,
+        293
+      ],
+      "confidence": 0.9886987805366516
+    },
+    {
+      "text": "07-039-A",
+      "bbox": [
+        550,
+        280,
+        610,
+        297
+      ],
+      "confidence": 0.9996019005775452
+    },
+    {
+      "text": "PLASTICIZER",
+      "bbox": [
+        76,
+        309,
+        157,
+        325
+      ],
+      "confidence": 0.9998058080673218
+    },
+    {
+      "text": ": ML-27",
+      "bbox": [
+        242,
+        312,
+        291,
+        324
+      ],
+      "confidence": 0.9917839765548706
+    },
+    {
+      "text": "05-599-A",
+      "bbox": [
+        550,
+        309,
+        610,
+        326
+      ],
+      "confidence": 0.9932727813720703
+    },
+    {
+      "text": "APPLICATION PERCENT",
+      "bbox": [
+        76,
+        325,
+        213,
+        340
+      ],
+      "confidence": 0.9993943572044373
+    },
+    {
+      "text": "I",
+      "bbox": [
+        242,
+        332,
+        247,
+        339
+      ],
+      "confidence": 0.9213426113128662
+    },
+    {
+      "text": "7.21",
+      "bbox": [
+        289,
+        327,
+        320,
+        341
+      ],
+      "confidence": 0.9999306201934814
+    },
+    {
+      "text": "× OF DRY WEIGHT",
+      "bbox": [
+        352,
+        328,
+        462,
+        341
+      ],
+      "confidence": 0.9392892718315125
+    },
+    {
+      "text": "APPLICATION WEIGHT",
+      "bbox": [
+        76,
+        340,
+        206,
+        355
+      ],
+      "confidence": 0.9909334182739258
+    },
+    {
+      "text": "#",
+      "bbox": [
+        241,
+        345,
+        248,
+        355
+      ],
+      "confidence": 0.9901453852653503
+    },
+    {
+      "text": "5.68",
+      "bbox": [
+        290,
+        343,
+        320,
+        354
+      ],
+      "confidence": 0.9998762607574463
+    },
+    {
+      "text": "GRAMS/100 RODS",
+      "bbox": [
+        360,
+        342,
+        462,
+        355
+      ],
+      "confidence": 0.9964990615844727
+    },
+    {
+      "text": "1.42",
+      "bbox": [
+        503,
+        343,
+        533,
+        354
+      ],
+      "confidence": 0.9996271133422852
+    },
+    {
+      "text": "GRAMS/25 RODS",
+      "bbox": [
+        542,
+        342,
+        636,
+        355
+      ],
+      "confidence": 0.9968776702880859
+    },
+    {
+      "text": "FILTER TOW",
+      "bbox": [
+        77,
+        370,
+        151,
+        385
+      ],
+      "confidence": 0.9820917248725891
+    },
+    {
+      "text": ": FT-333 #10(EASTMAN)",
+      "bbox": [
+        242,
+        372,
+        389,
+        385
+      ],
+      "confidence": 0.9874224066734314
+    },
+    {
+      "text": "05-333-E",
+      "bbox": [
+        552,
+        373,
+        608,
+        384
+      ],
+      "confidence": 0.9983937740325928
+    },
+    {
+      "text": ": FT-333 #10(CELANESE)",
+      "bbox": [
+        242,
+        389,
+        396,
+        399
+      ],
+      "confidence": 0.9551455974578857
+    },
+    {
+      "text": "05-333-C",
+      "bbox": [
+        552,
+        388,
+        608,
+        399
+      ],
+      "confidence": 0.9985262155532837
+    },
+    {
+      "text": "DENIER PER FILAMENT",
+      "bbox": [
+        79,
+        417,
+        213,
+        430
+      ],
+      "confidence": 0.9989450573921204
+    },
+    {
+      "text": ":",
+      "bbox": [
+        241,
+        420,
+        249,
+        430
+      ],
+      "confidence": 0.7729024887084961
+    },
+    {
+      "text": "3.9",
+      "bbox": [
+        296,
+        418,
+        320,
+        430
+      ],
+      "confidence": 0.9965881705284119
+    },
+    {
+      "text": "TOTAL DENIER",
+      "bbox": [
+        79,
+        432,
+        166,
+        446
+      ],
+      "confidence": 0.9991723895072937
+    },
+    {
+      "text": "‡",
+      "bbox": [
+        241,
+        435,
+        249,
+        446
+      ],
+      "confidence": 0.6818988919258118
+    },
+    {
+      "text": "35,000",
+      "bbox": [
+        276,
+        433,
+        319,
+        445
+      ],
+      "confidence": 0.9719154834747314
+    },
+    {
+      "text": "CROSS SECTION",
+      "bbox": [
+        79,
+        448,
+        174,
+        461
+      ],
+      "confidence": 0.999578058719635
+    },
+    {
+      "text": "#",
+      "bbox": [
+        242,
+        451,
+        249,
+        461
+      ],
+      "confidence": 0.9287758469581604
+    },
+    {
+      "text": "• 10",
+      "bbox": [
+        289,
+        447,
+        321,
+        461
+      ],
+      "confidence": 0.8862799406051636
+    },
+    {
+      "text": "PLUG WRAP",
+      "bbox": [
+        80,
+        480,
+        144,
+        490
+      ],
+      "confidence": 0.9962092638015747
+    },
+    {
+      "text": ": 26.25MN X 6000M KC 45-H1",
+      "bbox": [
+        242,
+        477,
+        424,
+        490
+      ],
+      "confidence": 0.9421759247779846
+    },
+    {
+      "text": "06-362-A",
+      "bbox": [
+        552,
+        477,
+        609,
+        488
+      ],
+      "confidence": 0.9993948340415955
+    },
+    {
+      "text": "ANCHOR ADHESIVE",
+      "bbox": [
+        81,
+        509,
+        188,
+        522
+      ],
+      "confidence": 0.9996140599250793
+    },
+    {
+      "text": ": FULLER WB 3918 RL",
+      "bbox": [
+        242,
+        507,
+        377,
+        520
+      ],
+      "confidence": 0.9433180093765259
+    },
+    {
+      "text": "EVA",
+      "bbox": [
+        515,
+        507,
+        540,
+        519
+      ],
+      "confidence": 0.9998591542243958
+    },
+    {
+      "text": "62-066-A",
+      "bbox": [
+        551,
+        504,
+        611,
+        519
+      ],
+      "confidence": 0.9516553282737732
+    },
+    {
+      "text": "GLUE APP. FOR ANCH. ADH: TWO GLUE LINES",
+      "bbox": [
+        79,
+        535,
+        356,
+        552
+      ],
+      "confidence": 0.9917625188827515
+    },
+    {
+      "text": "LAP ADHESIVE",
+      "bbox": [
+        79,
+        566,
+        167,
+        583
+      ],
+      "confidence": 0.9820759892463684
+    },
+    {
+      "text": ": NATIONAL 34-2760",
+      "bbox": [
+        242,
+        567,
+        370,
+        580
+      ],
+      "confidence": 0.9839891791343689
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        523,
+        567,
+        542,
+        579
+      ],
+      "confidence": 0.9983985424041748
+    },
+    {
+      "text": "61-464-A",
+      "bbox": [
+        552,
+        567,
+        611,
+        578
+      ],
+      "confidence": 0.981959342956543
+    },
+    {
+      "text": "DRY WEIGHT",
+      "bbox": [
+        78,
+        596,
+        152,
+        612
+      ],
+      "confidence": 0.9944621920585632
+    },
+    {
+      "text": "#",
+      "bbox": [
+        242,
+        599,
+        250,
+        609
+      ],
+      "confidence": 0.9510579705238342
+    },
+    {
+      "text": "78.78",
+      "bbox": [
+        284,
+        597,
+        321,
+        608
+      ],
+      "confidence": 0.9996846914291382
+    },
+    {
+      "text": "GRAMS/100",
+      "bbox": [
+        341,
+        597,
+        406,
+        608
+      ],
+      "confidence": 0.9946010112762451
+    },
+    {
+      "text": "RODS",
+      "bbox": [
+        404,
+        597,
+        440,
+        608
+      ],
+      "confidence": 0.9988805651664734
+    },
+    {
+      "text": "19.70",
+      "bbox": [
+        496,
+        597,
+        533,
+        608
+      ],
+      "confidence": 0.9988235235214233
+    },
+    {
+      "text": "GRAMS/25 RODS",
+      "bbox": [
+        544,
+        593,
+        639,
+        609
+      ],
+      "confidence": 0.997840940952301
+    },
+    {
+      "text": "GRAMS/25 RODS",
+      "bbox": [
+        544,
+        607,
+        640,
+        623
+      ],
+      "confidence": 0.994428277015686
+    },
+    {
+      "text": "DRY WEIGHT W/ GLUE",
+      "bbox": [
+        79,
+        610,
+        208,
+        626
+      ],
+      "confidence": 0.984527051448822
+    },
+    {
+      "text": "79.33",
+      "bbox": [
+        283,
+        612,
+        320,
+        623
+      ],
+      "confidence": 0.9986753463745117
+    },
+    {
+      "text": "GRAMS/100",
+      "bbox": [
+        341,
+        612,
+        404,
+        623
+      ],
+      "confidence": 0.9933003187179565
+    },
+    {
+      "text": "RODS",
+      "bbox": [
+        408,
+        612,
+        441,
+        623
+      ],
+      "confidence": 0.999046802520752
+    },
+    {
+      "text": "19.83",
+      "bbox": [
+        496,
+        612,
+        533,
+        622
+      ],
+      "confidence": 0.910373330116272
+    },
+    {
+      "text": "GRAMS/25 RODS",
+      "bbox": [
+        544,
+        622,
+        640,
+        638
+      ],
+      "confidence": 0.9911908507347107
+    },
+    {
+      "text": "WET WEIGHT W/ GLUE",
+      "bbox": [
+        80,
+        625,
+        208,
+        641
+      ],
+      "confidence": 0.9812856316566467
+    },
+    {
+      "text": "I",
+      "bbox": [
+        243,
+        631,
+        250,
+        638
+      ],
+      "confidence": 0.9259628057479858
+    },
+    {
+      "text": "85.01",
+      "bbox": [
+        284,
+        627,
+        320,
+        638
+      ],
+      "confidence": 0.9630001783370972
+    },
+    {
+      "text": "GRAMS/100",
+      "bbox": [
+        341,
+        627,
+        406,
+        638
+      ],
+      "confidence": 0.9983850121498108
+    },
+    {
+      "text": "RODS",
+      "bbox": [
+        405,
+        627,
+        440,
+        638
+      ],
+      "confidence": 0.9975649118423462
+    },
+    {
+      "text": "21.25",
+      "bbox": [
+        495,
+        625,
+        535,
+        639
+      ],
+      "confidence": 0.9999383091926575
+    },
+    {
+      "text": "FILTER:",
+      "bbox": [
+        553,
+        757,
+        607,
+        768
+      ],
+      "confidence": 0.985382616519928
+    },
+    {
+      "text": "SAP CROSS REFERENCE :",
+      "bbox": [
+        219,
+        760,
+        376,
+        773
+      ],
+      "confidence": 0.9968789219856262
+    },
+    {
+      "text": "07059A",
+      "bbox": [
+        617,
+        758,
+        662,
+        768
+      ],
+      "confidence": 0.9310981631278992
+    },
+    {
+      "text": "COMMENTS.",
+      "bbox": [
+        81,
+        793,
+        143,
+        804
+      ],
+      "confidence": 0.9787760972976685
+    },
+    {
+      "text": ": \"STANDARD\" PRODUCT EXCEPT FOR FILLER/FILLER CODE.",
+      "bbox": [
+        239,
+        800,
+        606,
+        821
+      ],
+      "confidence": 0.9734063148498535
+    },
+    {
+      "text": ": SPECIFICATIONS FOR PRODUCT 98 ARE SAME AS",
+      "bbox": [
+        241,
+        788,
+        549,
+        803
+      ],
+      "confidence": 0.984488844871521
+    },
+    {
+      "text": ": DO NOT HIX WITH STANDARD PRODUCT.",
+      "bbox": [
+        242,
+        820,
+        489,
+        833
+      ],
+      "confidence": 0.9880980253219604
+    },
+    {
+      "text": "2069717177",
+      "bbox": [
+        719,
+        834,
+        745,
+        916
+      ],
+      "confidence": 0.9990626573562622
+    },
+    {
+      "text": ": SAP FILTER CODE CHANGED FROM B07039 T0 07039A TO",
+      "bbox": [
+        241,
+        862,
+        598,
+        878
+      ],
+      "confidence": 0.9683724045753479
+    },
+    {
+      "text": "REASON FOR CHANGE",
+      "bbox": [
+        80,
+        867,
+        198,
+        877
+      ],
+      "confidence": 0.9715899229049683
+    },
+    {
+      "text": ": FILTER ROD DESCRIPTION ADDED. ADHESIVES UPDATED",
+      "bbox": [
+        240,
+        891,
+        598,
+        908
+      ],
+      "confidence": 0.9885703921318054
+    },
+    {
+      "text": ": ALLOW FOR WAREHOUSING OF FINISHED FILTERS.",
+      "bbox": [
+        241,
+        878,
+        562,
+        893
+      ],
+      "confidence": 0.987920343875885
+    },
+    {
+      "text": "NEW",
+      "bbox": [
+        565,
+        879,
+        591,
+        889
+      ],
+      "confidence": 0.9989773631095886
+    },
+    {
+      "text": ": IF APPLICABLE. NO OTHER CHANGES MADE.",
+      "bbox": [
+        239,
+        906,
+        525,
+        923
+      ],
+      "confidence": 0.9977351427078247
+    },
+    {
+      "text": ": K. V. SMITH",
+      "bbox": [
+        240,
+        937,
+        336,
+        953
+      ],
+      "confidence": 0.9604462385177612
+    },
+    {
+      "text": "PRINTING DATE",
+      "bbox": [
+        428,
+        934,
+        526,
+        951
+      ],
+      "confidence": 0.9819899797439575
+    },
+    {
+      "text": ": 1/19/02",
+      "bbox": [
+        596,
+        933,
+        668,
+        949
+      ],
+      "confidence": 0.9944722652435303
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        79,
+        939,
+        160,
+        952
+      ],
+      "confidence": 0.9997029900550842
+    },
+    {
+      "text": "PRINTING TIME",
+      "bbox": [
+        428,
+        950,
+        526,
+        965
+      ],
+      "confidence": 0.9713014960289001
+    },
+    {
+      "text": ": 12:55:57",
+      "bbox": [
+        595,
+        947,
+        668,
+        964
+      ],
+      "confidence": 0.9782581329345703
+    },
+    {
+      "text": "PREPARATION DATE",
+      "bbox": [
+        78,
+        953,
+        199,
+        966
+      ],
+      "confidence": 0.999477744102478
+    },
+    {
+      "text": ": 10/24/96",
+      "bbox": [
+        242,
+        955,
+        312,
+        966
+      ],
+      "confidence": 0.9985603094100952
+    },
+    {
+      "text": "SUPERCEDES SPECIFICATION DATED:",
+      "bbox": [
+        415,
+        979,
+        641,
+        995
+      ],
+      "confidence": 0.9986693859100342
+    },
+    {
+      "text": "2/19/96",
+      "bbox": [
+        651,
+        981,
+        701,
+        992
+      ],
+      "confidence": 0.9998888969421387
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        43,
+        983,
+        133,
+        999
+      ],
+      "confidence": 0.976848840713501
+    }
+  ],
+  "full_text": "MANUFACTURING CENTER\nFINISHED FILTER ROD DESCRIPTIVE\nMARLBORO KS MENTHOLATED FOIL SP - P98\nEFFECTIVE DATE: 10/28/1996\nBRAND CODE-DC210 (STD>(PP)\nSTANDARD PRODUCTION\nPRODUCT 98 PRODUCTION\nMACHINE TYPE\nI\nKDF-2\nFILTER ROD LENGTH\n126.0\nMM\nFILTER CIRCUMFERENCE\n:\n24.45\nMM (LASER)\nNUMBER UP\n6\nPLUG LENGTH\n:\n21.0\nMM\nROD R.T.D.\n:\n384\nHH\nH20\n(TOTAL ENCAP)\nPLUG R.T.D.\n:\n66\nHM\nH20\nFILTER ROD\n: 126/24.45/FT-334/45M1/383MM/7.21% PZ\n07-039-A\nPLASTICIZER\n: ML-27\n05-599-A\nAPPLICATION PERCENT\nI\n7.21\n× OF DRY WEIGHT\nAPPLICATION WEIGHT\n#\n5.68\nGRAMS/100 RODS\n1.42\nGRAMS/25 RODS\nFILTER TOW\n: FT-333 #10(EASTMAN)\n05-333-E\n: FT-333 #10(CELANESE)\n05-333-C\nDENIER PER FILAMENT\n:\n3.9\nTOTAL DENIER\n‡\n35,000\nCROSS SECTION\n#\n• 10\nPLUG WRAP\n: 26.25MN X 6000M KC 45-H1\n06-362-A\nANCHOR ADHESIVE\n: FULLER WB 3918 RL\nEVA\n62-066-A\nGLUE APP. FOR ANCH. ADH: TWO GLUE LINES\nLAP ADHESIVE\n: NATIONAL 34-2760\nHM\n61-464-A\nDRY WEIGHT\n#\n78.78\nGRAMS/100\nRODS\n19.70\nGRAMS/25 RODS\nGRAMS/25 RODS\nDRY WEIGHT W/ GLUE\n79.33\nGRAMS/100\nRODS\n19.83\nGRAMS/25 RODS\nWET WEIGHT W/ GLUE\nI\n85.01\nGRAMS/100\nRODS\n21.25\nFILTER:\nSAP CROSS REFERENCE :\n07059A\nCOMMENTS.\n: \"STANDARD\" PRODUCT EXCEPT FOR FILLER/FILLER CODE.\n: SPECIFICATIONS FOR PRODUCT 98 ARE SAME AS\n: DO NOT HIX WITH STANDARD PRODUCT.\n2069717177\n: SAP FILTER CODE CHANGED FROM B07039 T0 07039A TO\nREASON FOR CHANGE\n: FILTER ROD DESCRIPTION ADDED. ADHESIVES UPDATED\n: ALLOW FOR WAREHOUSING OF FINISHED FILTERS.\nNEW\n: IF APPLICABLE. NO OTHER CHANGES MADE.\n: K. V. SMITH\nPRINTING DATE\n: 1/19/02\nPREPARED BY\nPRINTING TIME\n: 12:55:57\nPREPARATION DATE\n: 10/24/96\nSUPERCEDES SPECIFICATION DATED:\n2/19/96\nAPPROVED BY:"
+}

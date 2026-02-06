@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0093.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "L",
+      "bbox": [
+        626,
+        178,
+        658,
+        226
+      ],
+      "confidence": 0.8134676218032837
+    },
+    {
+      "text": "829-5276",
+      "bbox": [
+        39,
+        236,
+        83,
+        257
+      ],
+      "confidence": 0.9365352392196655
+    },
+    {
+      "text": "Adams Letter Co., Inc.",
+      "bbox": [
+        185,
+        257,
+        471,
+        287
+      ],
+      "confidence": 0.9987834692001343
+    },
+    {
+      "text": "55 VANDAM STREET",
+      "bbox": [
+        264,
+        288,
+        386,
+        302
+      ],
+      "confidence": 0.9845612645149231
+    },
+    {
+      "text": "NEW YORK, N. Y. 10013",
+      "bbox": [
+        251,
+        302,
+        399,
+        321
+      ],
+      "confidence": 0.9904081225395203
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        399,
+        371,
+        430,
+        389
+      ],
+      "confidence": 0.9418163895606995
+    },
+    {
+      "text": "HARCH 29, 1972",
+      "bbox": [
+        445,
+        373,
+        562,
+        393
+      ],
+      "confidence": 0.9525035619735718
+    },
+    {
+      "text": "INVOICE HO.",
+      "bbox": [
+        399,
+        399,
+        461,
+        417
+      ],
+      "confidence": 0.9154103994369507
+    },
+    {
+      "text": "51E1",
+      "bbox": [
+        471,
+        403,
+        510,
+        422
+      ],
+      "confidence": 0.8240600824356079
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        20,
+        414,
+        45,
+        429
+      ],
+      "confidence": 0.9888442158699036
+    },
+    {
+      "text": "LEONARD ZAHN ASSOCIATES",
+      "bbox": [
+        55,
+        421,
+        242,
+        439
+      ],
+      "confidence": 0.9936894774436951
+    },
+    {
+      "text": "YOUR ORDER NO.",
+      "bbox": [
+        399,
+        427,
+        483,
+        444
+      ],
+      "confidence": 0.973413348197937
+    },
+    {
+      "text": "P. O. BOX 523",
+      "bbox": [
+        54,
+        434,
+        162,
+        454
+      ],
+      "confidence": 0.929521918296814
+    },
+    {
+      "text": "13 LINCOLN RD.",
+      "bbox": [
+        54,
+        448,
+        169,
+        469
+      ],
+      "confidence": 0.8538240790367126
+    },
+    {
+      "text": "GREAT NECK, N. Y. 11021",
+      "bbox": [
+        53,
+        464,
+        242,
+        484
+      ],
+      "confidence": 0.964230477809906
+    },
+    {
+      "text": "noute",
+      "bbox": [
+        399,
+        458,
+        435,
+        473
+      ],
+      "confidence": 0.8965054750442505
+    },
+    {
+      "text": "TERMS: NET 30",
+      "bbox": [
+        399,
+        486,
+        480,
+        502
+      ],
+      "confidence": 0.8883017897605896
+    },
+    {
+      "text": "COURICIL FOR TORACCO RESEARCH",
+      "bbox": [
+        214,
+        562,
+        434,
+        582
+      ],
+      "confidence": 0.9541393518447876
+    },
+    {
+      "text": "EXHIBITION",
+      "bbox": [
+        274,
+        580,
+        352,
+        594
+      ],
+      "confidence": 0.9777940511703491
+    },
+    {
+      "text": "SET ALL COMPOSITION, SUOMIT PROOFS, MAKE CHANGES, ENLARGE",
+      "bbox": [
+        73,
+        605,
+        530,
+        626
+      ],
+      "confidence": 0.9730370044708252
+    },
+    {
+      "text": "ALL BLOCKS OF CUPY APPHOXIMATELY 3OOS - MAKE CONTACT",
+      "bbox": [
+        73,
+        622,
+        490,
+        640
+      ],
+      "confidence": 0.9423995614051819
+    },
+    {
+      "text": "PRINTS AND POSITIVES.",
+      "bbox": [
+        73,
+        636,
+        245,
+        654
+      ],
+      "confidence": 0.9741933941841125
+    },
+    {
+      "text": "$488.00",
+      "bbox": [
+        451,
+        665,
+        513,
+        683
+      ],
+      "confidence": 0.9533127546310425
+    },
+    {
+      "text": "TAX",
+      "bbox": [
+        353,
+        679,
+        384,
+        699
+      ],
+      "confidence": 0.9950608611106873
+    },
+    {
+      "text": "34.26",
+      "bbox": [
+        467,
+        679,
+        514,
+        698
+      ],
+      "confidence": 0.888454794883728
+    },
+    {
+      "text": "8522.16",
+      "bbox": [
+        450,
+        708,
+        512,
+        726
+      ],
+      "confidence": 0.9038395285606384
+    },
+    {
+      "text": "POR SVEL CONSTRUCTION",
+      "bbox": [
+        69,
+        742,
+        243,
+        763
+      ],
+      "confidence": 0.9913755059242249
+    },
+    {
+      "text": "0l3/29172",
+      "bbox": [
+        70,
+        766,
+        180,
+        814
+      ],
+      "confidence": 0.734031081199646
+    },
+    {
+      "text": "to tuK",
+      "bbox": [
+        81,
+        802,
+        183,
+        860
+      ],
+      "confidence": 0.7452932000160217
+    }
+  ],
+  "full_text": "L\n829-5276\nAdams Letter Co., Inc.\n55 VANDAM STREET\nNEW YORK, N. Y. 10013\nDATE\nHARCH 29, 1972\nINVOICE HO.\n51E1\nTO:\nLEONARD ZAHN ASSOCIATES\nYOUR ORDER NO.\nP. O. BOX 523\n13 LINCOLN RD.\nGREAT NECK, N. Y. 11021\nnoute\nTERMS: NET 30\nCOURICIL FOR TORACCO RESEARCH\nEXHIBITION\nSET ALL COMPOSITION, SUOMIT PROOFS, MAKE CHANGES, ENLARGE\nALL BLOCKS OF CUPY APPHOXIMATELY 3OOS - MAKE CONTACT\nPRINTS AND POSITIVES.\n$488.00\nTAX\n34.26\n8522.16\nPOR SVEL CONSTRUCTION\n0l3/29172\nto tuK"
+}

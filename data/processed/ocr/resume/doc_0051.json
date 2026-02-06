@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0051.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        314,
+        52,
+        447,
+        72
+      ],
+      "confidence": 0.9748807549476624
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        82,
+        100,
+        130,
+        125
+      ],
+      "confidence": 0.998595118522644
+    },
+    {
+      "text": "Elena Burova",
+      "bbox": [
+        204,
+        105,
+        302,
+        122
+      ],
+      "confidence": 0.9995110630989075
+    },
+    {
+      "text": "DOB:",
+      "bbox": [
+        84,
+        137,
+        121,
+        157
+      ],
+      "confidence": 0.9990240931510925
+    },
+    {
+      "text": "August 25, 1956, U.S.S.R.",
+      "bbox": [
+        204,
+        137,
+        401,
+        156
+      ],
+      "confidence": 0.9840870499610901
+    },
+    {
+      "text": "ADDRESS:",
+      "bbox": [
+        84,
+        169,
+        151,
+        191
+      ],
+      "confidence": 0.9994213581085205
+    },
+    {
+      "text": "Institute of Cancer Research",
+      "bbox": [
+        204,
+        170,
+        427,
+        189
+      ],
+      "confidence": 0.9945080876350403
+    },
+    {
+      "text": "Columbia University",
+      "bbox": [
+        202,
+        188,
+        353,
+        205
+      ],
+      "confidence": 0.9994990825653076
+    },
+    {
+      "text": "701 West 168th Street",
+      "bbox": [
+        201,
+        204,
+        371,
+        222
+      ],
+      "confidence": 0.9989497661590576
+    },
+    {
+      "text": "New York, NY 10032",
+      "bbox": [
+        200,
+        220,
+        353,
+        238
+      ],
+      "confidence": 0.9719424843788147
+    },
+    {
+      "text": "(212) 3053705",
+      "bbox": [
+        204,
+        237,
+        314,
+        254
+      ],
+      "confidence": 0.998292088508606
+    },
+    {
+      "text": "EDUCATION:",
+      "bbox": [
+        83,
+        268,
+        164,
+        291
+      ],
+      "confidence": 0.999072253704071
+    },
+    {
+      "text": "1979 M.S.",
+      "bbox": [
+        82,
+        284,
+        158,
+        308
+      ],
+      "confidence": 0.9989896416664124
+    },
+    {
+      "text": "Department of Biophysics, Moscow Staue: University, Moscow,",
+      "bbox": [
+        199,
+        286,
+        663,
+        308
+      ],
+      "confidence": 0.9813619256019592
+    },
+    {
+      "text": "U.S.S.R.",
+      "bbox": [
+        200,
+        304,
+        266,
+        322
+      ],
+      "confidence": 0.9976800084114075
+    },
+    {
+      "text": "POSITIONS HELD:",
+      "bbox": [
+        82,
+        335,
+        202,
+        358
+      ],
+      "confidence": 0.9978168606758118
+    },
+    {
+      "text": "1979-1990",
+      "bbox": [
+        81,
+        351,
+        158,
+        374
+      ],
+      "confidence": 0.9990771412849426
+    },
+    {
+      "text": "Staff Scientist, Institute of riolccular Genetics",
+      "bbox": [
+        238,
+        355,
+        623,
+        378
+      ],
+      "confidence": 0.9631178975105286
+    },
+    {
+      "text": "U.S.S.R. Academy of Sciences, Noscow, U.S.S.R.",
+      "bbox": [
+        239,
+        374,
+        613,
+        395
+      ],
+      "confidence": 0.9869346022605896
+    },
+    {
+      "text": "May, 1991",
+      "bbox": [
+        80,
+        401,
+        158,
+        427
+      ],
+      "confidence": 0.9997056126594543
+    },
+    {
+      "text": "Staff Associate, Institute of Cancer Research,",
+      "bbox": [
+        239,
+        406,
+        605,
+        427
+      ],
+      "confidence": 0.9889535307884216
+    },
+    {
+      "text": "Columbia University",
+      "bbox": [
+        238,
+        422,
+        389,
+        445
+      ],
+      "confidence": 0.9989780783653259
+    },
+    {
+      "text": "PUBLICATIONS:",
+      "bbox": [
+        81,
+        454,
+        185,
+        476
+      ],
+      "confidence": 0.9993702173233032
+    },
+    {
+      "text": "Martin, E., Sagitov, V., Burova, E., Nikiforov, V., and Goldfarb, A. (1991)",
+      "bbox": [
+        80,
+        472,
+        672,
+        499
+      ],
+      "confidence": 0.988949716091156
+    },
+    {
+      "text": "Mutation in gene for beta-subunit of Escherichia coli RNA polymerase which",
+      "bbox": [
+        120,
+        490,
+        706,
+        516
+      ],
+      "confidence": 0.9823835492134094
+    },
+    {
+      "text": "affects promoter binding (in preparation).",
+      "bbox": [
+        120,
+        506,
+        451,
+        531
+      ],
+      "confidence": 0.99798983335495
+    },
+    {
+      "text": "Kalambet, Yu.A., Burova, E.I., Zhuchkov, A.A., Knorre, V.L. and Alexandrov, A.A.",
+      "bbox": [
+        79,
+        540,
+        708,
+        568
+      ],
+      "confidence": 0.9824144244194031
+    },
+    {
+      "text": "(1988) Measurement of DNA-protein binding constants by a corputerizeci",
+      "bbox": [
+        121,
+        557,
+        671,
+        585
+      ],
+      "confidence": 0.9684950709342957
+    },
+    {
+      "text": "chromotograph \"Millichrom\".\" In: Kalasz, H. and Ettre, L.S. (eds)",
+      "bbox": [
+        118,
+        573,
+        629,
+        601
+      ],
+      "confidence": 0.9647043347358704
+    },
+    {
+      "text": "Chromatography-87, 251-268, Budapesr.",
+      "bbox": [
+        118,
+        591,
+        407,
+        614
+      ],
+      "confidence": 0.9698222279548645
+    },
+    {
+      "text": "Zverev, V.V., Kuzmin, N.P., Zuyeva, L.A., Burova, E.i., Alexandrov, A.A., (1984)",
+      "bbox": [
+        76,
+        623,
+        708,
+        652
+      ],
+      "confidence": 0.9848247766494751
+    },
+    {
+      "text": "Regions of homology in small colicinogenic plasmids. Plasmid 12, 203-205.",
+      "bbox": [
+        115,
+        639,
+        703,
+        671
+      ],
+      "confidence": 0.991845965385437
+    },
+    {
+      "text": "Burova, E.I., Golovanov, E.I., Polonskii, Yu.S., andi Alexandrov, A.A. Analysis",
+      "bbox": [
+        75,
+        674,
+        705,
+        704
+      ],
+      "confidence": 0.9851446151733398
+    },
+    {
+      "text": "of transcripts of the ColEl and pA03 plasmicis. Studia Biophysica 87,",
+      "bbox": [
+        113,
+        691,
+        664,
+        721
+      ],
+      "confidence": 0.9872180223464966
+    },
+    {
+      "text": "195-196.",
+      "bbox": [
+        113,
+        709,
+        180,
+        730
+      ],
+      "confidence": 0.9937150478363037
+    }
+  ],
+  "full_text": "CURRICULUM VITAE\nNAME:\nElena Burova\nDOB:\nAugust 25, 1956, U.S.S.R.\nADDRESS:\nInstitute of Cancer Research\nColumbia University\n701 West 168th Street\nNew York, NY 10032\n(212) 3053705\nEDUCATION:\n1979 M.S.\nDepartment of Biophysics, Moscow Staue: University, Moscow,\nU.S.S.R.\nPOSITIONS HELD:\n1979-1990\nStaff Scientist, Institute of riolccular Genetics\nU.S.S.R. Academy of Sciences, Noscow, U.S.S.R.\nMay, 1991\nStaff Associate, Institute of Cancer Research,\nColumbia University\nPUBLICATIONS:\nMartin, E., Sagitov, V., Burova, E., Nikiforov, V., and Goldfarb, A. (1991)\nMutation in gene for beta-subunit of Escherichia coli RNA polymerase which\naffects promoter binding (in preparation).\nKalambet, Yu.A., Burova, E.I., Zhuchkov, A.A., Knorre, V.L. and Alexandrov, A.A.\n(1988) Measurement of DNA-protein binding constants by a corputerizeci\nchromotograph \"Millichrom\".\" In: Kalasz, H. and Ettre, L.S. (eds)\nChromatography-87, 251-268, Budapesr.\nZverev, V.V., Kuzmin, N.P., Zuyeva, L.A., Burova, E.i., Alexandrov, A.A., (1984)\nRegions of homology in small colicinogenic plasmids. Plasmid 12, 203-205.\nBurova, E.I., Golovanov, E.I., Polonskii, Yu.S., andi Alexandrov, A.A. Analysis\nof transcripts of the ColEl and pA03 plasmicis. Studia Biophysica 87,\n195-196."
+}

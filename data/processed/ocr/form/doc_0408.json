@@ -1,0 +1,801 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0408.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS RESEARCH CENTER",
+      "bbox": [
+        275,
+        22,
+        530,
+        39
+      ],
+      "confidence": 0.9919092655181885
+    },
+    {
+      "text": "CR",
+      "bbox": [
+        304,
+        45,
+        429,
+        137
+      ],
+      "confidence": 0.9989233016967773
+    },
+    {
+      "text": "New",
+      "bbox": [
+        60,
+        84,
+        135,
+        115
+      ],
+      "confidence": 0.9999138712882996
+    },
+    {
+      "text": "Known",
+      "bbox": [
+        162,
+        90,
+        239,
+        115
+      ],
+      "confidence": 0.9959375262260437
+    },
+    {
+      "text": "1405",
+      "bbox": [
+        421,
+        86,
+        468,
+        109
+      ],
+      "confidence": 0.9996405839920044
+    },
+    {
+      "text": "Emp. Formula_C12H13NF3C104",
+      "bbox": [
+        509,
+        91,
+        748,
+        113
+      ],
+      "confidence": 0.9128579497337341
+    },
+    {
+      "text": "Mol. Weight",
+      "bbox": [
+        510,
+        115,
+        617,
+        135
+      ],
+      "confidence": 0.9651010036468506
+    },
+    {
+      "text": "327.73",
+      "bbox": [
+        628,
+        116,
+        688,
+        134
+      ],
+      "confidence": 0.9999411702156067
+    },
+    {
+      "text": "Lit. Ref.",
+      "bbox": [
+        62,
+        148,
+        151,
+        172
+      ],
+      "confidence": 0.9828671216964722
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        62,
+        214,
+        103,
+        233
+      ],
+      "confidence": 0.9998965263366699
+    },
+    {
+      "text": "1-Methyl-2-(4-trifluoromethylphenyl)-Δ'-pyrrolinium perchlorate",
+      "bbox": [
+        169,
+        207,
+        737,
+        231
+      ],
+      "confidence": 0.9814853072166443
+    },
+    {
+      "text": "STRUCTURE:",
+      "bbox": [
+        146,
+        269,
+        238,
+        287
+      ],
+      "confidence": 0.9998683929443359
+    },
+    {
+      "text": "METHOD OF PREP:",
+      "bbox": [
+        502,
+        268,
+        643,
+        290
+      ],
+      "confidence": 0.9992833733558655
+    },
+    {
+      "text": "C104-",
+      "bbox": [
+        220,
+        345,
+        274,
+        370
+      ],
+      "confidence": 0.9538050889968872
+    },
+    {
+      "text": "Br",
+      "bbox": [
+        471,
+        344,
+        500,
+        369
+      ],
+      "confidence": 0.9770392179489136
+    },
+    {
+      "text": "FC",
+      "bbox": [
+        87,
+        368,
+        119,
+        388
+      ],
+      "confidence": 0.9894890785217285
+    },
+    {
+      "text": "CH {",
+      "bbox": [
+        190,
+        377,
+        225,
+        396
+      ],
+      "confidence": 0.7644915580749512
+    },
+    {
+      "text": "FC",
+      "bbox": [
+        395,
+        371,
+        426,
+        390
+      ],
+      "confidence": 0.9951383471488953
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        591,
+        373,
+        612,
+        391
+      ],
+      "confidence": 0.9786786437034607
+    },
+    {
+      "text": "n-BuLi",
+      "bbox": [
+        616,
+        370,
+        676,
+        390
+      ],
+      "confidence": 0.9921622276306152
+    },
+    {
+      "text": "+ CR-1405",
+      "bbox": [
+        683,
+        377,
+        767,
+        395
+      ],
+      "confidence": 0.9322890043258667
+    },
+    {
+      "text": "+",
+      "bbox": [
+        485,
+        389,
+        498,
+        402
+      ],
+      "confidence": 0.9994971752166748
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        592,
+        388,
+        612,
+        405
+      ],
+      "confidence": 0.9760832190513611
+    },
+    {
+      "text": "HC10",
+      "bbox": [
+        617,
+        387,
+        668,
+        405
+      ],
+      "confidence": 0.9459872245788574
+    },
+    {
+      "text": "CH{",
+      "bbox": [
+        539,
+        427,
+        581,
+        457
+      ],
+      "confidence": 0.7774505615234375
+    },
+    {
+      "text": "NB#",
+      "bbox": [
+        57,
+        493,
+        96,
+        515
+      ],
+      "confidence": 0.9992271065711975
+    },
+    {
+      "text": "6581",
+      "bbox": [
+        100,
+        490,
+        146,
+        514
+      ],
+      "confidence": 0.9996323585510254
+    },
+    {
+      "text": "Pg #_",
+      "bbox": [
+        192,
+        493,
+        234,
+        517
+      ],
+      "confidence": 0.8717077374458313
+    },
+    {
+      "text": "63",
+      "bbox": [
+        248,
+        491,
+        274,
+        512
+      ],
+      "confidence": 0.9992653727531433
+    },
+    {
+      "text": "Solubility:",
+      "bbox": [
+        407,
+        493,
+        514,
+        514
+      ],
+      "confidence": 0.9974488615989685
+    },
+    {
+      "text": "DMSO",
+      "bbox": [
+        540,
+        490,
+        585,
+        509
+      ],
+      "confidence": 0.997671365737915
+    },
+    {
+      "text": "Sample#",
+      "bbox": [
+        57,
+        516,
+        142,
+        541
+      ],
+      "confidence": 0.9545313715934753
+    },
+    {
+      "text": "6581-63A",
+      "bbox": [
+        157,
+        516,
+        234,
+        534
+      ],
+      "confidence": 0.999657154083252
+    },
+    {
+      "text": "MP_",
+      "bbox": [
+        58,
+        542,
+        85,
+        564
+      ],
+      "confidence": 0.9138817191123962
+    },
+    {
+      "text": "147°-48°C BP",
+      "bbox": [
+        110,
+        538,
+        230,
+        562
+      ],
+      "confidence": 0.968802273273468
+    },
+    {
+      "text": "To be tested for (amounts supplied):",
+      "bbox": [
+        402,
+        556,
+        744,
+        578
+      ],
+      "confidence": 0.9965342283248901
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        130,
+        580,
+        192,
+        601
+      ],
+      "confidence": 0.9999315142631531
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        201,
+        579,
+        248,
+        602
+      ],
+      "confidence": 0.9997106790542603
+    },
+    {
+      "text": "Solvent",
+      "bbox": [
+        274,
+        581,
+        344,
+        602
+      ],
+      "confidence": 0.999871551990509
+    },
+    {
+      "text": "IR",
+      "bbox": [
+        58,
+        611,
+        85,
+        632
+      ],
+      "confidence": 0.9996253252029419
+    },
+    {
+      "text": "26082",
+      "bbox": [
+        118,
+        608,
+        172,
+        629
+      ],
+      "confidence": 0.9996841549873352
+    },
+    {
+      "text": "4/25/7$",
+      "bbox": [
+        201,
+        610,
+        271,
+        631
+      ],
+      "confidence": 0.9285091757774353
+    },
+    {
+      "text": "NM",
+      "bbox": [
+        283,
+        609,
+        312,
+        630
+      ],
+      "confidence": 0.9995949864387512
+    },
+    {
+      "text": "General Screen (1 gram)",
+      "bbox": [
+        415,
+        608,
+        635,
+        631
+      ],
+      "confidence": 0.97479647397995
+    },
+    {
+      "text": "UV",
+      "bbox": [
+        57,
+        634,
+        85,
+        655
+      ],
+      "confidence": 0.9986474514007568
+    },
+    {
+      "text": "Derivatives:",
+      "bbox": [
+        402,
+        651,
+        519,
+        674
+      ],
+      "confidence": 0.9999504089355469
+    },
+    {
+      "text": "NMR",
+      "bbox": [
+        56,
+        656,
+        93,
+        680
+      ],
+      "confidence": 0.9996659159660339
+    },
+    {
+      "text": "3493",
+      "bbox": [
+        127,
+        655,
+        173,
+        677
+      ],
+      "confidence": 0.9997776746749878
+    },
+    {
+      "text": "4/22/7",
+      "bbox": [
+        201,
+        655,
+        267,
+        680
+      ],
+      "confidence": 0.9909180998802185
+    },
+    {
+      "text": "DMSO-d6",
+      "bbox": [
+        285,
+        657,
+        356,
+        678
+      ],
+      "confidence": 0.9828441739082336
+    },
+    {
+      "text": "MS",
+      "bbox": [
+        57,
+        681,
+        83,
+        704
+      ],
+      "confidence": 0.9913963079452515
+    },
+    {
+      "text": "Anal.",
+      "bbox": [
+        56,
+        706,
+        109,
+        728
+      ],
+      "confidence": 0.9979888796806335
+    },
+    {
+      "text": "#",
+      "bbox": [
+        108,
+        709,
+        127,
+        727
+      ],
+      "confidence": 0.9994053840637207
+    },
+    {
+      "text": "S-5826",
+      "bbox": [
+        136,
+        707,
+        199,
+        728
+      ],
+      "confidence": 0.983611524105072
+    },
+    {
+      "text": "From Galbraith",
+      "bbox": [
+        218,
+        704,
+        356,
+        733
+      ],
+      "confidence": 0.9949187636375427
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        57,
+        732,
+        100,
+        751
+      ],
+      "confidence": 0.9997878074645996
+    },
+    {
+      "text": "5/5/75",
+      "bbox": [
+        117,
+        731,
+        180,
+        754
+      ],
+      "confidence": 0.999748706817627
+    },
+    {
+      "text": "Recrystallization, GC, TLC Data:",
+      "bbox": [
+        403,
+        745,
+        705,
+        770
+      ],
+      "confidence": 0.9895009994506836
+    },
+    {
+      "text": "Calcd.",
+      "bbox": [
+        127,
+        761,
+        189,
+        783
+      ],
+      "confidence": 0.9935722351074219
+    },
+    {
+      "text": "Found",
+      "bbox": [
+        240,
+        762,
+        293,
+        784
+      ],
+      "confidence": 0.9998503923416138
+    },
+    {
+      "text": "Recrystallized from MeOH",
+      "bbox": [
+        425,
+        778,
+        664,
+        803
+      ],
+      "confidence": 0.9840941429138184
+    },
+    {
+      "text": "c",
+      "bbox": [
+        56,
+        788,
+        73,
+        808
+      ],
+      "confidence": 0.6490169167518616
+    },
+    {
+      "text": "43.98",
+      "bbox": [
+        116,
+        788,
+        172,
+        809
+      ],
+      "confidence": 0.9999604225158691
+    },
+    {
+      "text": "43.97",
+      "bbox": [
+        248,
+        789,
+        301,
+        810
+      ],
+      "confidence": 0.9998451471328735
+    },
+    {
+      "text": "3.99",
+      "bbox": [
+        126,
+        815,
+        170,
+        837
+      ],
+      "confidence": 0.9998894333839417
+    },
+    {
+      "text": "3.86",
+      "bbox": [
+        257,
+        815,
+        301,
+        837
+      ],
+      "confidence": 0.9998952746391296
+    },
+    {
+      "text": "H",
+      "bbox": [
+        54,
+        818,
+        71,
+        837
+      ],
+      "confidence": 0.9994356036186218
+    },
+    {
+      "text": "N",
+      "bbox": [
+        53,
+        840,
+        71,
+        859
+      ],
+      "confidence": 0.9996888637542725
+    },
+    {
+      "text": "4.28",
+      "bbox": [
+        124,
+        836,
+        172,
+        861
+      ],
+      "confidence": 0.999798059463501
+    },
+    {
+      "text": "4.26",
+      "bbox": [
+        258,
+        841,
+        300,
+        860
+      ],
+      "confidence": 0.9998679161071777
+    },
+    {
+      "text": "F,C1",
+      "bbox": [
+        31,
+        861,
+        77,
+        883
+      ],
+      "confidence": 0.9415230751037598
+    },
+    {
+      "text": "17.39,10.84",
+      "bbox": [
+        99,
+        862,
+        206,
+        882
+      ],
+      "confidence": 0.999822199344635
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        401,
+        854,
+        491,
+        878
+      ],
+      "confidence": 0.9989825487136841
+    },
+    {
+      "text": "17.54,11.01",
+      "bbox": [
+        231,
+        864,
+        335,
+        881
+      ],
+      "confidence": 0.9999125003814697
+    },
+    {
+      "text": "5/6/75",
+      "bbox": [
+        116,
+        891,
+        178,
+        912
+      ],
+      "confidence": 0.999579906463623
+    },
+    {
+      "text": "Dwendolyn . Atkino Project # 2500",
+      "bbox": [
+        317,
+        885,
+        754,
+        933
+      ],
+      "confidence": 0.8285038471221924
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        49,
+        894,
+        94,
+        913
+      ],
+      "confidence": 0.9997979402542114
+    },
+    {
+      "text": "Submitter",
+      "bbox": [
+        230,
+        893,
+        323,
+        917
+      ],
+      "confidence": 0.9996737241744995
+    },
+    {
+      "text": "Approved Clu B Lande",
+      "bbox": [
+        230,
+        917,
+        512,
+        945
+      ],
+      "confidence": 0.7888161540031433
+    }
+  ],
+  "full_text": "PHILIP MORRIS RESEARCH CENTER\nCR\nNew\nKnown\n1405\nEmp. Formula_C12H13NF3C104\nMol. Weight\n327.73\nLit. Ref.\nName\n1-Methyl-2-(4-trifluoromethylphenyl)-Δ'-pyrrolinium perchlorate\nSTRUCTURE:\nMETHOD OF PREP:\nC104-\nBr\nFC\nCH {\nFC\n1)\nn-BuLi\n+ CR-1405\n+\n2)\nHC10\nCH{\nNB#\n6581\nPg #_\n63\nSolubility:\nDMSO\nSample#\n6581-63A\nMP_\n147°-48°C BP\nTo be tested for (amounts supplied):\nNumber\nDate\nSolvent\nIR\n26082\n4/25/7$\nNM\nGeneral Screen (1 gram)\nUV\nDerivatives:\nNMR\n3493\n4/22/7\nDMSO-d6\nMS\nAnal.\n#\nS-5826\nFrom Galbraith\nDate\n5/5/75\nRecrystallization, GC, TLC Data:\nCalcd.\nFound\nRecrystallized from MeOH\nc\n43.98\n43.97\n3.99\n3.86\nH\nN\n4.28\n4.26\nF,C1\n17.39,10.84\nComments:\n17.54,11.01\n5/6/75\nDwendolyn . Atkino Project # 2500\nDate\nSubmitter\nApproved Clu B Lande"
+}

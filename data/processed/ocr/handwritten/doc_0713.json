@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0713.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Kay Qillhees",
+      "bbox": [
+        337,
+        1,
+        551,
+        39
+      ],
+      "confidence": 0.6907283663749695
+    },
+    {
+      "text": ".P.0. B0X 39L",
+      "bbox": [
+        324,
+        29,
+        527,
+        62
+      ],
+      "confidence": 0.7006386518478394
+    },
+    {
+      "text": "COa Hill, AR 72832",
+      "bbox": [
+        318,
+        50,
+        633,
+        91
+      ],
+      "confidence": 0.7722033262252808
+    },
+    {
+      "text": "1595",
+      "bbox": [
+        694,
+        72,
+        736,
+        94
+      ],
+      "confidence": 0.7830181121826172
+    },
+    {
+      "text": "Toral",
+      "bbox": [
+        590,
+        147,
+        754,
+        198
+      ],
+      "confidence": 0.9609387516975403
+    },
+    {
+      "text": "P.O.BOx 3200",
+      "bbox": [
+        595,
+        193,
+        754,
+        250
+      ],
+      "confidence": 0.8491842150688171
+    },
+    {
+      "text": "Winston-Salem,n",
+      "bbox": [
+        618,
+        236,
+        754,
+        290
+      ],
+      "confidence": 0.9059737324714661
+    }
+  ],
+  "full_text": "Kay Qillhees\n.P.0. B0X 39L\nCOa Hill, AR 72832\n1595\nToral\nP.O.BOx 3200\nWinston-Salem,n"
+}

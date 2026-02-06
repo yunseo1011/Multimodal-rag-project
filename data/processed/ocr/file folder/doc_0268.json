@@ -1,0 +1,61 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0268.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "1014",
+      "bbox": [
+        332,
+        259,
+        372,
+        281
+      ],
+      "confidence": 0.9999196529388428
+    },
+    {
+      "text": "Besuct:",
+      "bbox": [
+        303,
+        385,
+        394,
+        417
+      ],
+      "confidence": 0.835848867893219
+    },
+    {
+      "text": "45.Hai91",
+      "bbox": [
+        303,
+        474,
+        395,
+        501
+      ],
+      "confidence": 0.8303093910217285
+    },
+    {
+      "text": "Made in Germany",
+      "bbox": [
+        318,
+        767,
+        386,
+        778
+      ],
+      "confidence": 0.9855606555938721
+    },
+    {
+      "text": "2029241065",
+      "bbox": [
+        700,
+        764,
+        735,
+        915
+      ],
+      "confidence": 0.9998415112495422
+    }
+  ],
+  "full_text": "1014\nBesuct:\n45.Hai91\nMade in Germany\n2029241065"
+}

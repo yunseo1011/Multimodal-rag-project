@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0668.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "R.J. ReyNolds TObAcco ComPANy.",
+      "bbox": [
+        144,
+        0,
+        580,
+        36
+      ],
+      "confidence": 0.7706059813499451
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        599,
+        6,
+        659,
+        30
+      ],
+      "confidence": 0.9389162063598633
+    },
+    {
+      "text": "PA3E ",
+      "bbox": [
+        7,
+        13,
+        39,
+        45
+      ],
+      "confidence": 0.6776328086853027
+    },
+    {
+      "text": "WINSTON SAhEM, N.C, 27102",
+      "bbox": [
+        144,
+        36,
+        539,
+        70
+      ],
+      "confidence": 0.9014254808425903
+    },
+    {
+      "text": "2/12/95",
+      "bbox": [
+        652,
+        34,
+        742,
+        78
+      ],
+      "confidence": 0.928633987903595
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        616,
+        41,
+        640,
+        58
+      ],
+      "confidence": 0.9971969127655029
+    },
+    {
+      "text": "3",
+      "bbox": [
+        85,
+        150,
+        95,
+        161
+      ],
+      "confidence": 0.999968409538269
+    },
+    {
+      "text": "SIR:",
+      "bbox": [
+        171,
+        171,
+        253,
+        216
+      ],
+      "confidence": 0.9123367667198181
+    },
+    {
+      "text": "5",
+      "bbox": [
+        84,
+        217,
+        96,
+        231
+      ],
+      "confidence": 0.9983526468276978
+    },
+    {
+      "text": "I AM WRITING TO INFRM YOR",
+      "bbox": [
+        188,
+        213,
+        700,
+        248
+      ],
+      "confidence": 0.9013775587081909
+    },
+    {
+      "text": "ThAT. ReCeNTLG, I BrOUghT A CARTON",
+      "bbox": [
+        110,
+        239,
+        689,
+        282
+      ],
+      "confidence": 0.8356418013572693
+    },
+    {
+      "text": "8",
+      "bbox": [
+        83,
+        248,
+        96,
+        263
+      ],
+      "confidence": 0.728283703327179
+    },
+    {
+      "text": "OF SALeM 1Oo's ShIMhIghTS, AT-A LO-",
+      "bbox": [
+        112,
+        272,
+        703,
+        318
+      ],
+      "confidence": 0.7713003158569336
+    },
+    {
+      "text": ".7",
+      "bbox": [
+        80,
+        278,
+        96,
+        296
+      ],
+      "confidence": 0.9854317903518677
+    },
+    {
+      "text": "CAL GAS STATION SPACKSWErEVERY",
+      "bbox": [
+        108,
+        306,
+        707,
+        349
+      ],
+      "confidence": 0.8407081961631775
+    },
+    {
+      "text": "6",
+      "bbox": [
+        80,
+        344,
+        95,
+        362
+      ],
+      "confidence": 0.9999792575836182
+    },
+    {
+      "text": "SIANE, As They dId 'WT LIve up To The",
+      "bbox": [
+        104,
+        343,
+        685,
+        378
+      ],
+      "confidence": 0.843647301197052
+    },
+    {
+      "text": "10",
+      "bbox": [
+        77,
+        378,
+        95,
+        396
+      ],
+      "confidence": 0.9999486207962036
+    },
+    {
+      "text": "TASTE IPreFRREd(NO TASTE WhATSO-",
+      "bbox": [
+        102,
+        376,
+        699,
+        408
+      ],
+      "confidence": 0.8489623069763184
+    },
+    {
+      "text": "11",
+      "bbox": [
+        77,
+        409,
+        95,
+        430
+      ],
+      "confidence": 0.9997907876968384
+    },
+    {
+      "text": "EveR, I Wond er, whAT yore Courd do",
+      "bbox": [
+        103,
+        404,
+        703,
+        445
+      ],
+      "confidence": 0.7899301648139954
+    },
+    {
+      "text": "FOR my LosS?",
+      "bbox": [
+        102,
+        434,
+        336,
+        479
+      ],
+      "confidence": 0.8389673829078674
+    },
+    {
+      "text": "12",
+      "bbox": [
+        77,
+        445,
+        96,
+        464
+      ],
+      "confidence": 0.9998670816421509
+    },
+    {
+      "text": "13",
+      "bbox": [
+        78,
+        477,
+        96,
+        495
+      ],
+      "confidence": 0.9998555183410645
+    },
+    {
+      "text": "14",
+      "bbox": [
+        78,
+        509,
+        96,
+        527
+      ],
+      "confidence": 0.9999233484268188
+    },
+    {
+      "text": "4998484",
+      "bbox": [
+        79,
+        508,
+        253,
+        688
+      ],
+      "confidence": 0.9748395085334778
+    },
+    {
+      "text": "SINCerely I RmAIN",
+      "bbox": [
+        395,
+        506,
+        716,
+        536
+      ],
+      "confidence": 0.7847327589988708
+    },
+    {
+      "text": "15",
+      "bbox": [
+        79,
+        541,
+        97,
+        560
+      ],
+      "confidence": 0.9999620318412781
+    },
+    {
+      "text": "MRS. AUDREY NORMAN",
+      "bbox": [
+        380,
+        539,
+        699,
+        569
+      ],
+      "confidence": 0.8955525159835815
+    },
+    {
+      "text": "15",
+      "bbox": [
+        80,
+        576,
+        97,
+        593
+      ],
+      "confidence": 0.9364184141159058
+    },
+    {
+      "text": "342O WESTMINIS TER OR.",
+      "bbox": [
+        372,
+        573,
+        729,
+        602
+      ],
+      "confidence": 0.8389685153961182
+    },
+    {
+      "text": "PORTSMO-U.TH, VA.23707",
+      "bbox": [
+        370,
+        601,
+        726,
+        639
+      ],
+      "confidence": 0.8753319382667542
+    },
+    {
+      "text": "17",
+      "bbox": [
+        81,
+        609,
+        96,
+        623
+      ],
+      "confidence": 0.9999095797538757
+    },
+    {
+      "text": "18",
+      "bbox": [
+        80,
+        640,
+        98,
+        658
+      ],
+      "confidence": 0.999798059463501
+    },
+    {
+      "text": "19",
+      "bbox": [
+        80,
+        671,
+        99,
+        690
+      ],
+      "confidence": 0.9997892379760742
+    },
+    {
+      "text": "20",
+      "bbox": [
+        79,
+        705,
+        99,
+        722
+      ],
+      "confidence": 0.9999489188194275
+    },
+    {
+      "text": "21",
+      "bbox": [
+        80,
+        736,
+        98,
+        753
+      ],
+      "confidence": 0.9994962215423584
+    },
+    {
+      "text": "51830 1376",
+      "bbox": [
+        678,
+        734,
+        710,
+        837
+      ],
+      "confidence": 0.9996925592422485
+    },
+    {
+      "text": "22",
+      "bbox": [
+        80,
+        767,
+        99,
+        785
+      ],
+      "confidence": 0.9997220039367676
+    },
+    {
+      "text": "23",
+      "bbox": [
+        80,
+        798,
+        99,
+        817
+      ],
+      "confidence": 0.9997652769088745
+    },
+    {
+      "text": "24",
+      "bbox": [
+        80,
+        832,
+        99,
+        849
+      ],
+      "confidence": 0.9998427629470825
+    },
+    {
+      "text": "25",
+      "bbox": [
+        81,
+        865,
+        100,
+        881
+      ],
+      "confidence": 0.999955952167511
+    },
+    {
+      "text": "26.",
+      "bbox": [
+        81,
+        897,
+        100,
+        914
+      ],
+      "confidence": 0.9347560405731201
+    }
+  ],
+  "full_text": "R.J. ReyNolds TObAcco ComPANy.\nPREPARED BY\nPA3E \nWINSTON SAhEM, N.C, 27102\n2/12/95\nDATE\n3\nSIR:\n5\nI AM WRITING TO INFRM YOR\nThAT. ReCeNTLG, I BrOUghT A CARTON\n8\nOF SALeM 1Oo's ShIMhIghTS, AT-A LO-\n.7\nCAL GAS STATION SPACKSWErEVERY\n6\nSIANE, As They dId 'WT LIve up To The\n10\nTASTE IPreFRREd(NO TASTE WhATSO-\n11\nEveR, I Wond er, whAT yore Courd do\nFOR my LosS?\n12\n13\n14\n4998484\nSINCerely I RmAIN\n15\nMRS. AUDREY NORMAN\n15\n342O WESTMINIS TER OR.\nPORTSMO-U.TH, VA.23707\n17\n18\n19\n20\n21\n51830 1376\n22\n23\n24\n25\n26."
+}

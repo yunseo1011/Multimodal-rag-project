@@ -1,0 +1,281 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0744.png",
+    "image_width": 784,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "349823-4",
+      "bbox": [
+        466,
+        33,
+        585,
+        64
+      ],
+      "confidence": 0.9990403056144714
+    },
+    {
+      "text": "TEST CODE",
+      "bbox": [
+        40,
+        65,
+        164,
+        106
+      ],
+      "confidence": 0.8593912720680237
+    },
+    {
+      "text": "SUBMITTER CODE 349822-3",
+      "bbox": [
+        309,
+        58,
+        588,
+        111
+      ],
+      "confidence": 0.9341883659362793
+    },
+    {
+      "text": "DATE 6-20-PS",
+      "bbox": [
+        637,
+        68,
+        784,
+        96
+      ],
+      "confidence": 0.8641526103019714
+    },
+    {
+      "text": "SUBMITTER CCBAnejE",
+      "bbox": [
+        44,
+        100,
+        299,
+        138
+      ],
+      "confidence": 0.7085508704185486
+    },
+    {
+      "text": "LOCATION BGTC-W.307",
+      "bbox": [
+        348,
+        103,
+        610,
+        137
+      ],
+      "confidence": 0.8949700593948364
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        606,
+        100,
+        712,
+        136
+      ],
+      "confidence": 0.983498752117157
+    },
+    {
+      "text": "SAUPLE DESCRIPTION/IDENTIFICATION",
+      "bbox": [
+        238,
+        170,
+        659,
+        205
+      ],
+      "confidence": 0.9528629183769226
+    },
+    {
+      "text": "Marumeriged substrate",
+      "bbox": [
+        179,
+        205,
+        441,
+        236
+      ],
+      "confidence": 0.917505145072937
+    },
+    {
+      "text": "ANALYSES REQUESTED",
+      "bbox": [
+        237,
+        371,
+        513,
+        409
+      ],
+      "confidence": 0.963459849357605
+    },
+    {
+      "text": "COMPONENTS",
+      "bbox": [
+        121,
+        411,
+        267,
+        443
+      ],
+      "confidence": 0.9550492167472839
+    },
+    {
+      "text": "SMOKe",
+      "bbox": [
+        541,
+        411,
+        629,
+        442
+      ],
+      "confidence": 0.7329579591751099
+    },
+    {
+      "text": "ReAL DeNSITY",
+      "bbox": [
+        90,
+        442,
+        247,
+        479
+      ],
+      "confidence": 0.7801710963249207
+    },
+    {
+      "text": "WTPM",
+      "bbox": [
+        483,
+        449,
+        562,
+        478
+      ],
+      "confidence": 0.9929697513580322
+    },
+    {
+      "text": "×",
+      "bbox": [
+        30,
+        479,
+        56,
+        508
+      ],
+      "confidence": 0.8818699717521667
+    },
+    {
+      "text": "SURFALE AREA",
+      "bbox": [
+        96,
+        478,
+        265,
+        509
+      ],
+      "confidence": 0.9235207438468933
+    },
+    {
+      "text": "NICOTINE",
+      "bbox": [
+        485,
+        478,
+        584,
+        511
+      ],
+      "confidence": 0.8685304522514343
+    },
+    {
+      "text": "POROSITY",
+      "bbox": [
+        96,
+        512,
+        216,
+        548
+      ],
+      "confidence": 0.9675607681274414
+    },
+    {
+      "text": "GlUCERIN",
+      "bbox": [
+        489,
+        517,
+        593,
+        546
+      ],
+      "confidence": 0.8972430229187012
+    },
+    {
+      "text": "×",
+      "bbox": [
+        21,
+        551,
+        48,
+        580
+      ],
+      "confidence": 0.8654672503471375
+    },
+    {
+      "text": "A≤H",
+      "bbox": [
+        97,
+        549,
+        163,
+        584
+      ],
+      "confidence": 0.9088344573974609
+    },
+    {
+      "text": "WATER",
+      "bbox": [
+        493,
+        551,
+        575,
+        581
+      ],
+      "confidence": 0.9942036867141724
+    },
+    {
+      "text": "Sulfur",
+      "bbox": [
+        99,
+        585,
+        193,
+        625
+      ],
+      "confidence": 0.8679243922233582
+    },
+    {
+      "text": "sent ant",
+      "bbox": [
+        227,
+        589,
+        325,
+        621
+      ],
+      "confidence": 0.8714964389801025
+    },
+    {
+      "text": "7",
+      "bbox": [
+        142,
+        725,
+        154,
+        744
+      ],
+      "confidence": 0.7680492401123047
+    },
+    {
+      "text": "COMMENTS.",
+      "bbox": [
+        54,
+        934,
+        187,
+        969
+      ],
+      "confidence": 0.8782824277877808
+    },
+    {
+      "text": "Do not worh",
+      "bbox": [
+        263,
+        930,
+        433,
+        965
+      ],
+      "confidence": 0.8697252869606018
+    }
+  ],
+  "full_text": "349823-4\nTEST CODE\nSUBMITTER CODE 349822-3\nDATE 6-20-PS\nSUBMITTER CCBAnejE\nLOCATION BGTC-W.307\nPHONE\nSAUPLE DESCRIPTION/IDENTIFICATION\nMarumeriged substrate\nANALYSES REQUESTED\nCOMPONENTS\nSMOKe\nReAL DeNSITY\nWTPM\n×\nSURFALE AREA\nNICOTINE\nPOROSITY\nGlUCERIN\n×\nA≤H\nWATER\nSulfur\nsent ant\n7\nCOMMENTS.\nDo not worh"
+}

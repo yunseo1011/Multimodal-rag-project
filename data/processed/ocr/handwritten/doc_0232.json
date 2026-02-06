@@ -1,0 +1,151 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0232.png",
+    "image_width": 767,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TO: 1n. U.E.Kinn3",
+      "bbox": [
+        35,
+        22,
+        304,
+        74
+      ],
+      "confidence": 0.6666951775550842
+    },
+    {
+      "text": "Ms. IS.M.Krr2",
+      "bbox": [
+        96,
+        59,
+        365,
+        98
+      ],
+      "confidence": 0.6397459506988525
+    },
+    {
+      "text": "Tat",
+      "bbox": [
+        657,
+        61,
+        758,
+        101
+      ],
+      "confidence": 0.7536301016807556
+    },
+    {
+      "text": "FRom: M5. C. 5. N.b2n",
+      "bbox": [
+        53,
+        103,
+        414,
+        146
+      ],
+      "confidence": 0.6449202299118042
+    },
+    {
+      "text": "CONTINNNTV",
+      "bbox": [
+        211,
+        188,
+        415,
+        215
+      ],
+      "confidence": 0.6963192820549011
+    },
+    {
+      "text": "The pnpis ie ssmion is to omde",
+      "bbox": [
+        59,
+        227,
+        712,
+        270
+      ],
+      "confidence": 0.6664409041404724
+    },
+    {
+      "text": "the wwsron Boe-Cntan ohpen,",
+      "bbox": [
+        63,
+        310,
+        606,
+        348
+      ],
+      "confidence": 0.6752117276191711
+    },
+    {
+      "text": "RACKB0.M18:",
+      "bbox": [
+        69,
+        360,
+        302,
+        392
+      ],
+      "confidence": 0.6683539748191833
+    },
+    {
+      "text": "Mpens.",
+      "bbox": [
+        125,
+        669,
+        287,
+        697
+      ],
+      "confidence": 0.7048850059509277
+    },
+    {
+      "text": "• Th2 rlobiv2 21pestivensss as sliAp3",
+      "bbox": [
+        117,
+        710,
+        767,
+        761
+      ],
+      "confidence": 0.6169593930244446
+    },
+    {
+      "text": "S0mpid: t:v2 3mc0s.",
+      "bbox": [
+        142,
+        791,
+        456,
+        830
+      ],
+      "confidence": 0.6935855746269226
+    },
+    {
+      "text": "√",
+      "bbox": [
+        678,
+        813,
+        717,
+        861
+      ],
+      "confidence": 0.6906644105911255
+    },
+    {
+      "text": "ind caswes a ne tn",
+      "bbox": [
+        73,
+        952,
+        516,
+        1000
+      ],
+      "confidence": 0.6281145811080933
+    },
+    {
+      "text": "8 2",
+      "bbox": [
+        82,
+        980,
+        139,
+        1000
+      ],
+      "confidence": 0.8289792537689209
+    }
+  ],
+  "full_text": "TO: 1n. U.E.Kinn3\nMs. IS.M.Krr2\nTat\nFRom: M5. C. 5. N.b2n\nCONTINNNTV\nThe pnpis ie ssmion is to omde\nthe wwsron Boe-Cntan ohpen,\nRACKB0.M18:\nMpens.\n• Th2 rlobiv2 21pestivensss as sliAp3\nS0mpid: t:v2 3mc0s.\n√\nind caswes a ne tn\n8 2"
+}

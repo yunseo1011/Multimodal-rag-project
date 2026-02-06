@@ -1,0 +1,551 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0411.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        307,
+        5,
+        469,
+        29
+      ],
+      "confidence": 0.9975014925003052
+    },
+    {
+      "text": "Director (Last, first, middie): BERGER, MARK S",
+      "bbox": [
+        438,
+        0,
+        675,
+        12
+      ],
+      "confidence": 0.9699541926383972
+    },
+    {
+      "text": "Give the following information for the key personnel and consultants and collaborators. Begin with the principal",
+      "bbox": [
+        72,
+        21,
+        700,
+        56
+      ],
+      "confidence": 0.9853068590164185
+    },
+    {
+      "text": "investigator/program director. Photocopy this page for each person.",
+      "bbox": [
+        194,
+        38,
+        578,
+        70
+      ],
+      "confidence": 0.9809300303459167
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        27,
+        63,
+        68,
+        81
+      ],
+      "confidence": 0.990575909614563
+    },
+    {
+      "text": "Mark S. Berger, M.D.",
+      "bbox": [
+        26,
+        77,
+        188,
+        104
+      ],
+      "confidence": 0.9986070394515991
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        384,
+        73,
+        471,
+        91
+      ],
+      "confidence": 0.9990476369857788
+    },
+    {
+      "text": "Assistant Professor",
+      "bbox": [
+        385,
+        88,
+        515,
+        109
+      ],
+      "confidence": 0.9904919862747192
+    },
+    {
+      "text": "EDUCATioN (Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral",
+      "bbox": [
+        23,
+        110,
+        694,
+        145
+      ],
+      "confidence": 0.9792234301567078
+    },
+    {
+      "text": "training.J",
+      "bbox": [
+        23,
+        126,
+        85,
+        147
+      ],
+      "confidence": 0.9396957159042358
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        515,
+        153,
+        549,
+        168
+      ],
+      "confidence": 0.9998639225959778
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        135,
+        165,
+        292,
+        178
+      ],
+      "confidence": 0.999758243560791
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        418,
+        165,
+        463,
+        180
+      ],
+      "confidence": 0.9997102618217468
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        498,
+        166,
+        565,
+        184
+      ],
+      "confidence": 0.9996035695075989
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        606,
+        169,
+        694,
+        183
+      ],
+      "confidence": 0.9975871443748474
+    },
+    {
+      "text": "Wesleyan University, Middletown, CT",
+      "bbox": [
+        21,
+        174,
+        297,
+        205
+      ],
+      "confidence": 0.9907613396644592
+    },
+    {
+      "text": "B.A.",
+      "bbox": [
+        403,
+        180,
+        432,
+        197
+      ],
+      "confidence": 0.9991161823272705
+    },
+    {
+      "text": "1976",
+      "bbox": [
+        488,
+        181,
+        524,
+        199
+      ],
+      "confidence": 0.999981164932251
+    },
+    {
+      "text": "BIOLOGY",
+      "bbox": [
+        585,
+        183,
+        633,
+        201
+      ],
+      "confidence": 0.9959272742271423
+    },
+    {
+      "text": "University of Virginia, Charlottesville, VA",
+      "bbox": [
+        21,
+        194,
+        325,
+        225
+      ],
+      "confidence": 0.9845884442329407
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        402,
+        200,
+        436,
+        218
+      ],
+      "confidence": 0.9998348951339722
+    },
+    {
+      "text": "1980",
+      "bbox": [
+        487,
+        202,
+        524,
+        220
+      ],
+      "confidence": 0.9999440908432007
+    },
+    {
+      "text": "MEDICINE",
+      "bbox": [
+        583,
+        202,
+        637,
+        223
+      ],
+      "confidence": 0.8309381008148193
+    },
+    {
+      "text": "RESEARCH AND/OR PROFESSIONAL EXPERIENCE: Concluding with present position, list, In chronological order, previous employment, experience, and",
+      "bbox": [
+        20,
+        249,
+        708,
+        279
+      ],
+      "confidence": 0.9761166572570801
+    },
+    {
+      "text": "past three years and to representative earier publications pertinent to this application. DO NOT EXCEED TWO PAGES.",
+      "bbox": [
+        21,
+        312,
+        559,
+        341
+      ],
+      "confidence": 0.9645515084266663
+    },
+    {
+      "text": "Professional Experience:",
+      "bbox": [
+        17,
+        344,
+        195,
+        369
+      ],
+      "confidence": 0.9993688464164734
+    },
+    {
+      "text": "1980-83",
+      "bbox": [
+        20,
+        381,
+        88,
+        405
+      ],
+      "confidence": 0.9999704360961914
+    },
+    {
+      "text": "Residency in Internal Medicine, Thomas Jefferson Univ. Hosp., Phila, PA",
+      "bbox": [
+        130,
+        384,
+        629,
+        411
+      ],
+      "confidence": 0.9881903529167175
+    },
+    {
+      "text": "1983-84",
+      "bbox": [
+        23,
+        418,
+        89,
+        443
+      ],
+      "confidence": 0.9999712109565735
+    },
+    {
+      "text": "Chief Medical Resident, Thomas Jefferson Univ. Hosp., Phila., PA",
+      "bbox": [
+        131,
+        419,
+        581,
+        446
+      ],
+      "confidence": 0.9861835837364197
+    },
+    {
+      "text": "1984-85",
+      "bbox": [
+        27,
+        457,
+        88,
+        479
+      ],
+      "confidence": 0.9998988509178162
+    },
+    {
+      "text": "Fellow in Hematology-Oncology, Hosp. of Univ. of Penn., Phila., PA",
+      "bbox": [
+        131,
+        457,
+        604,
+        482
+      ],
+      "confidence": 0.9862666130065918
+    },
+    {
+      "text": "1985-87",
+      "bbox": [
+        27,
+        496,
+        88,
+        514
+      ],
+      "confidence": 0.9999392628669739
+    },
+    {
+      "text": "Research Fellow, Imperial Cancer Research Fund, London, England",
+      "bbox": [
+        130,
+        493,
+        581,
+        517
+      ],
+      "confidence": 0.989463210105896
+    },
+    {
+      "text": "1987-89",
+      "bbox": [
+        27,
+        530,
+        89,
+        551
+      ],
+      "confidence": 0.9999809861183167
+    },
+    {
+      "text": "Fellow in Hematology-Oncology, Hosp. of Univ. of Penn., Phila., PA",
+      "bbox": [
+        130,
+        529,
+        604,
+        553
+      ],
+      "confidence": 0.9897236824035645
+    },
+    {
+      "text": "1989-90",
+      "bbox": [
+        27,
+        566,
+        89,
+        587
+      ],
+      "confidence": 0.999958336353302
+    },
+    {
+      "text": "Research Associate, Hosp. of Univ. of Penn.., Phila., PA",
+      "bbox": [
+        132,
+        566,
+        516,
+        587
+      ],
+      "confidence": 0.9795455932617188
+    },
+    {
+      "text": "1990-present Staff Physician, Phila. VA Medical Center, Phila., PA",
+      "bbox": [
+        27,
+        600,
+        496,
+        623
+      ],
+      "confidence": 0.9721455574035645
+    },
+    {
+      "text": "1990-present Assistant Professor, Hosp. of Univ. of Penn.., Phila., PA",
+      "bbox": [
+        27,
+        636,
+        517,
+        660
+      ],
+      "confidence": 0.9711881279945374
+    },
+    {
+      "text": "Honors and Awards:",
+      "bbox": [
+        27,
+        706,
+        166,
+        731
+      ],
+      "confidence": 0.9967436194419861
+    },
+    {
+      "text": "1986",
+      "bbox": [
+        25,
+        745,
+        65,
+        768
+      ],
+      "confidence": 0.9999831914901733
+    },
+    {
+      "text": "Physician's Research Training Fellowship from American Cancer Society",
+      "bbox": [
+        141,
+        749,
+        623,
+        774
+      ],
+      "confidence": 0.9843982458114624
+    },
+    {
+      "text": "1988",
+      "bbox": [
+        25,
+        765,
+        65,
+        787
+      ],
+      "confidence": 0.9999656081199646
+    },
+    {
+      "text": "Univ. of Penn. Cancer Center Marlene Shlomchik Fellowship",
+      "bbox": [
+        140,
+        768,
+        545,
+        792
+      ],
+      "confidence": 0.9908533096313477
+    },
+    {
+      "text": "1988-90",
+      "bbox": [
+        25,
+        784,
+        85,
+        807
+      ],
+      "confidence": 0.9999282956123352
+    },
+    {
+      "text": "National Research Service Award from NIH",
+      "bbox": [
+        142,
+        792,
+        427,
+        806
+      ],
+      "confidence": 0.9872342944145203
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        25,
+        803,
+        64,
+        825
+      ],
+      "confidence": 0.9999407529830933
+    },
+    {
+      "text": "Univ. of Penn. Dept. of Medicine Merck Starter Award",
+      "bbox": [
+        139,
+        808,
+        505,
+        829
+      ],
+      "confidence": 0.9873666763305664
+    },
+    {
+      "text": "PHS 398 (Rev. 9/91)",
+      "bbox": [
+        24,
+        949,
+        149,
+        970
+      ],
+      "confidence": 0.9888448119163513
+    },
+    {
+      "text": "Number pages consecutively at the bottom throughout the application. Do nat uce suffixes such as 3a, 3b.",
+      "bbox": [
+        22,
+        961,
+        503,
+        999
+      ],
+      "confidence": 0.9619556665420532
+    },
+    {
+      "text": "(Form Page 6) Page",
+      "bbox": [
+        289,
+        959,
+        404,
+        982
+      ],
+      "confidence": 0.9966043829917908
+    },
+    {
+      "text": "10",
+      "bbox": [
+        420,
+        966,
+        443,
+        981
+      ],
+      "confidence": 0.9998980760574341
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        703,
+        967,
+        725,
+        985
+      ],
+      "confidence": 0.9997931718826294
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nDirector (Last, first, middie): BERGER, MARK S\nGive the following information for the key personnel and consultants and collaborators. Begin with the principal\ninvestigator/program director. Photocopy this page for each person.\nNAME\nMark S. Berger, M.D.\nPOSITION TITLE\nAssistant Professor\nEDUCATioN (Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral\ntraining.J\nYEAR\nINSTITUTION AND LOCATION\nDEGREE\nCONFERRED\nFIELD OF STUDY\nWesleyan University, Middletown, CT\nB.A.\n1976\nBIOLOGY\nUniversity of Virginia, Charlottesville, VA\nM.D.\n1980\nMEDICINE\nRESEARCH AND/OR PROFESSIONAL EXPERIENCE: Concluding with present position, list, In chronological order, previous employment, experience, and\npast three years and to representative earier publications pertinent to this application. DO NOT EXCEED TWO PAGES.\nProfessional Experience:\n1980-83\nResidency in Internal Medicine, Thomas Jefferson Univ. Hosp., Phila, PA\n1983-84\nChief Medical Resident, Thomas Jefferson Univ. Hosp., Phila., PA\n1984-85\nFellow in Hematology-Oncology, Hosp. of Univ. of Penn., Phila., PA\n1985-87\nResearch Fellow, Imperial Cancer Research Fund, London, England\n1987-89\nFellow in Hematology-Oncology, Hosp. of Univ. of Penn., Phila., PA\n1989-90\nResearch Associate, Hosp. of Univ. of Penn.., Phila., PA\n1990-present Staff Physician, Phila. VA Medical Center, Phila., PA\n1990-present Assistant Professor, Hosp. of Univ. of Penn.., Phila., PA\nHonors and Awards:\n1986\nPhysician's Research Training Fellowship from American Cancer Society\n1988\nUniv. of Penn. Cancer Center Marlene Shlomchik Fellowship\n1988-90\nNational Research Service Award from NIH\n1991\nUniv. of Penn. Dept. of Medicine Merck Starter Award\nPHS 398 (Rev. 9/91)\nNumber pages consecutively at the bottom throughout the application. Do nat uce suffixes such as 3a, 3b.\n(Form Page 6) Page\n10\nFF"
+}

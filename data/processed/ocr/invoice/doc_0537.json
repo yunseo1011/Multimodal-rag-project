@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0537.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CRC",
+      "bbox": [
+        37,
+        51,
+        155,
+        109
+      ],
+      "confidence": 0.9992654919624329
+    },
+    {
+      "text": "CONTRACT RESEARCH",
+      "bbox": [
+        167,
+        75,
+        493,
+        107
+      ],
+      "confidence": 0.9815366268157959
+    },
+    {
+      "text": "CENTERBV.BA/S.PRL",
+      "bbox": [
+        505,
+        81,
+        716,
+        108
+      ],
+      "confidence": 0.890818178653717
+    },
+    {
+      "text": "Gesdresseerde / Adressee:.",
+      "bbox": [
+        39,
+        145,
+        187,
+        167
+      ],
+      "confidence": 0.924739420413971
+    },
+    {
+      "text": "B-1932 Zaventem",
+      "bbox": [
+        521,
+        144,
+        615,
+        158
+      ],
+      "confidence": 0.9842665195465088
+    },
+    {
+      "text": "(Sint-Stevens-Woluwe",
+      "bbox": [
+        520,
+        158,
+        637,
+        172
+      ],
+      "confidence": 0.9440951347351074
+    },
+    {
+      "text": "INBIFO",
+      "bbox": [
+        49,
+        186,
+        116,
+        207
+      ],
+      "confidence": 0.9997282028198242
+    },
+    {
+      "text": "Tollaan / Avenue du Peage 101c",
+      "bbox": [
+        521,
+        175,
+        696,
+        189
+      ],
+      "confidence": 0.9775078892707825
+    },
+    {
+      "text": "Institut fur biologische Forschung",
+      "bbox": [
+        49,
+        203,
+        377,
+        225
+      ],
+      "confidence": 0.9901968836784363
+    },
+    {
+      "text": "Teletax / Teletax:02/725.12.09",
+      "bbox": [
+        518,
+        217,
+        694,
+        233
+      ],
+      "confidence": 0.9349039793014526
+    },
+    {
+      "text": "Teletoon / Teiepnone:02/720.8y.74",
+      "bbox": [
+        519,
+        203,
+        708,
+        218
+      ],
+      "confidence": 0.9608759880065918
+    },
+    {
+      "text": "FuggerstraBe 3",
+      "bbox": [
+        49,
+        218,
+        198,
+        240
+      ],
+      "confidence": 0.9457313418388367
+    },
+    {
+      "text": "D-5000 K81n 90",
+      "bbox": [
+        48,
+        248,
+        190,
+        267
+      ],
+      "confidence": 0.9197269678115845
+    },
+    {
+      "text": "JGB/MJV",
+      "bbox": [
+        507,
+        269,
+        581,
+        283
+      ],
+      "confidence": 0.9993139505386353
+    },
+    {
+      "text": "PRO FORMA",
+      "bbox": [
+        47,
+        291,
+        143,
+        311
+      ],
+      "confidence": 0.9540610909461975
+    },
+    {
+      "text": "RECHNUNG NR. 45/92",
+      "bbox": [
+        48,
+        307,
+        226,
+        326
+      ],
+      "confidence": 0.9918768405914307
+    },
+    {
+      "text": "Zaventem, 28.Jul.92",
+      "bbox": [
+        508,
+        298,
+        687,
+        312
+      ],
+      "confidence": 0.9565167427062988
+    },
+    {
+      "text": "LFD.",
+      "bbox": [
+        49,
+        340,
+        93,
+        355
+      ],
+      "confidence": 0.9990947842597961
+    },
+    {
+      "text": "ANZAHL",
+      "bbox": [
+        107,
+        341,
+        168,
+        355
+      ],
+      "confidence": 0.9970199465751648
+    },
+    {
+      "text": "ARTIKEL",
+      "bbox": [
+        194,
+        341,
+        263,
+        355
+      ],
+      "confidence": 0.9998813271522522
+    },
+    {
+      "text": "PREIS",
+      "bbox": [
+        593,
+        344,
+        641,
+        358
+      ],
+      "confidence": 0.9999223947525024
+    },
+    {
+      "text": "NR.",
+      "bbox": [
+        48,
+        354,
+        85,
+        372
+      ],
+      "confidence": 0.8620814681053162
+    },
+    {
+      "text": "LBF1",
+      "bbox": [
+        593,
+        359,
+        632,
+        374
+      ],
+      "confidence": 0.6767938733100891
+    },
+    {
+      "text": "Wert nur fur Zollzwecke bestimmt",
+      "bbox": [
+        287,
+        384,
+        596,
+        404
+      ],
+      "confidence": 0.9771265983581543
+    },
+    {
+      "text": "(waarde alleen voor douanedoeleinden)",
+      "bbox": [
+        289,
+        400,
+        644,
+        420
+      ],
+      "confidence": 0.9909635186195374
+    },
+    {
+      "text": "EXPORT",
+      "bbox": [
+        193,
+        429,
+        255,
+        448
+      ],
+      "confidence": 0.9985563158988953
+    },
+    {
+      "text": "(UITVOER)",
+      "bbox": [
+        194,
+        447,
+        288,
+        464
+      ],
+      "confidence": 0.9937094449996948
+    },
+    {
+      "text": "1",
+      "bbox": [
+        51,
+        480,
+        59,
+        490
+      ],
+      "confidence": 0.974751353263855
+    },
+    {
+      "text": "GlasgefäBe mit Adsorbergaterial",
+      "bbox": [
+        191,
+        476,
+        490,
+        493
+      ],
+      "confidence": 0.9483696818351746
+    },
+    {
+      "text": "80,",
+      "bbox": [
+        631,
+        475,
+        664,
+        494
+      ],
+      "confidence": 0.9952057003974915
+    },
+    {
+      "text": "2m",
+      "bbox": [
+        48,
+        490,
+        62,
+        521
+      ],
+      "confidence": 0.7082434296607971
+    },
+    {
+      "text": "5",
+      "bbox": [
+        109,
+        494,
+        118,
+        507
+      ],
+      "confidence": 0.9999597072601318
+    },
+    {
+      "text": "Glasgefäse mit Filter",
+      "bbox": [
+        191,
+        490,
+        398,
+        508
+      ],
+      "confidence": 0.9637080430984497
+    },
+    {
+      "text": "100",
+      "bbox": [
+        625,
+        493,
+        660,
+        508
+      ],
+      "confidence": 0.998988151550293
+    },
+    {
+      "text": "8",
+      "bbox": [
+        109,
+        508,
+        118,
+        520
+      ],
+      "confidence": 0.9998493194580078
+    },
+    {
+      "text": "Schlachtel mit Bucher und Ordner",
+      "bbox": [
+        192,
+        507,
+        501,
+        524
+      ],
+      "confidence": 0.9827662706375122
+    },
+    {
+      "text": "1.000,",
+      "bbox": [
+        606,
+        509,
+        663,
+        523
+      ],
+      "confidence": 0.9933392405509949
+    },
+    {
+      "text": "VORUBERGEHENDER EXPORT ZUR REPARATUR",
+      "bbox": [
+        192,
+        535,
+        542,
+        554
+      ],
+      "confidence": 0.9900227785110474
+    },
+    {
+      "text": "(TIJDELIJKE UITVOER TER HERSTELLING)",
+      "bbox": [
+        196,
+        553,
+        538,
+        568
+      ],
+      "confidence": 0.9689359664916992
+    },
+    {
+      "text": "Rauchmaschine, Nr. SM 85.8, mit Zubehör",
+      "bbox": [
+        193,
+        584,
+        571,
+        601
+      ],
+      "confidence": 0.9905410408973694
+    },
+    {
+      "text": "CRC Inv. Nr.: 28.1",
+      "bbox": [
+        192,
+        598,
+        368,
+        616
+      ],
+      "confidence": 0.9259833097457886
+    },
+    {
+      "text": "74.179.",
+      "bbox": [
+        596,
+        596,
+        669,
+        615
+      ],
+      "confidence": 0.9432364106178284
+    },
+    {
+      "text": "TOTAL:",
+      "bbox": [
+        509,
+        626,
+        573,
+        647
+      ],
+      "confidence": 0.9988531470298767
+    },
+    {
+      "text": "75.359",
+      "bbox": [
+        597,
+        629,
+        655,
+        643
+      ],
+      "confidence": 0.999775230884552
+    },
+    {
+      "text": "CRC",
+      "bbox": [
+        536,
+        776,
+        576,
+        791
+      ],
+      "confidence": 0.9328098297119141
+    },
+    {
+      "text": "Ccr.i-act Ressarcn Ceiner",
+      "bbox": [
+        530,
+        788,
+        681,
+        806
+      ],
+      "confidence": 0.7956967949867249
+    },
+    {
+      "text": "Tnan 101 c",
+      "bbox": [
+        533,
+        802,
+        613,
+        818
+      ],
+      "confidence": 0.8964453935623169
+    },
+    {
+      "text": "5-1432 Zaventem",
+      "bbox": [
+        534,
+        816,
+        641,
+        830
+      ],
+      "confidence": 0.8117963671684265
+    },
+    {
+      "text": "2 .021720 01.74",
+      "bbox": [
+        535,
+        825,
+        631,
+        845
+      ],
+      "confidence": 0.8718213438987732
+    },
+    {
+      "text": "1010× (02)725.12.09",
+      "bbox": [
+        536,
+        838,
+        663,
+        858
+      ],
+      "confidence": 0.8323271870613098
+    },
+    {
+      "text": "DIESE PRO FORMA-RECHNUNG IST NUR FÜR ZOLLZWECKE BESTIMMT!",
+      "bbox": [
+        40,
+        871,
+        608,
+        897
+      ],
+      "confidence": 0.974850594997406
+    },
+    {
+      "text": "(DEZE PRO FORMA-FAKTUUR IS ALLEEN VOOR DOUANEDOELEINDEN BESTEMDI)",
+      "bbox": [
+        41,
+        890,
+        688,
+        915
+      ],
+      "confidence": 0.9798636436462402
+    }
+  ],
+  "full_text": "CRC\nCONTRACT RESEARCH\nCENTERBV.BA/S.PRL\nGesdresseerde / Adressee:.\nB-1932 Zaventem\n(Sint-Stevens-Woluwe\nINBIFO\nTollaan / Avenue du Peage 101c\nInstitut fur biologische Forschung\nTeletax / Teletax:02/725.12.09\nTeletoon / Teiepnone:02/720.8y.74\nFuggerstraBe 3\nD-5000 K81n 90\nJGB/MJV\nPRO FORMA\nRECHNUNG NR. 45/92\nZaventem, 28.Jul.92\nLFD.\nANZAHL\nARTIKEL\nPREIS\nNR.\nLBF1\nWert nur fur Zollzwecke bestimmt\n(waarde alleen voor douanedoeleinden)\nEXPORT\n(UITVOER)\n1\nGlasgefäBe mit Adsorbergaterial\n80,\n2m\n5\nGlasgefäse mit Filter\n100\n8\nSchlachtel mit Bucher und Ordner\n1.000,\nVORUBERGEHENDER EXPORT ZUR REPARATUR\n(TIJDELIJKE UITVOER TER HERSTELLING)\nRauchmaschine, Nr. SM 85.8, mit Zubehör\nCRC Inv. Nr.: 28.1\n74.179.\nTOTAL:\n75.359\nCRC\nCcr.i-act Ressarcn Ceiner\nTnan 101 c\n5-1432 Zaventem\n2 .021720 01.74\n1010× (02)725.12.09\nDIESE PRO FORMA-RECHNUNG IST NUR FÜR ZOLLZWECKE BESTIMMT!\n(DEZE PRO FORMA-FAKTUUR IS ALLEEN VOOR DOUANEDOELEINDEN BESTEMDI)"
+}

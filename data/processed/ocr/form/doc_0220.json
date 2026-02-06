@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0220.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "1178",
+      "bbox": [
+        621,
+        120,
+        673,
+        143
+      ],
+      "confidence": 0.9461839199066162
+    },
+    {
+      "text": "Philip Morris \"Takedown\" Report",
+      "bbox": [
+        27,
+        153,
+        371,
+        182
+      ],
+      "confidence": 0.9693145155906677
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        21,
+        191,
+        83,
+        221
+      ],
+      "confidence": 0.9994611740112305
+    },
+    {
+      "text": "3/25/99",
+      "bbox": [
+        181,
+        200,
+        242,
+        221
+      ],
+      "confidence": 0.9999476671218872
+    },
+    {
+      "text": "TAS",
+      "bbox": [
+        408,
+        198,
+        477,
+        223
+      ],
+      "confidence": 0.7844241261482239
+    },
+    {
+      "text": "4Q0",
+      "bbox": [
+        475,
+        201,
+        515,
+        223
+      ],
+      "confidence": 0.9981730580329895
+    },
+    {
+      "text": "Market",
+      "bbox": [
+        23,
+        233,
+        135,
+        258
+      ],
+      "confidence": 0.9995649456977844
+    },
+    {
+      "text": "Milwaukee",
+      "bbox": [
+        136,
+        236,
+        224,
+        260
+      ],
+      "confidence": 0.9994599223136902
+    },
+    {
+      "text": "StateW",
+      "bbox": [
+        408,
+        234,
+        507,
+        262
+      ],
+      "confidence": 0.9778647422790527
+    },
+    {
+      "text": "Location:",
+      "bbox": [
+        20,
+        269,
+        131,
+        298
+      ],
+      "confidence": 0.945964515209198
+    },
+    {
+      "text": "1-94 @ Hwy 100 S/S FE (8P)",
+      "bbox": [
+        128,
+        275,
+        350,
+        296
+      ],
+      "confidence": 0.9518387913703918
+    },
+    {
+      "text": "Vendor:",
+      "bbox": [
+        18,
+        307,
+        136,
+        338
+      ],
+      "confidence": 0.9327208399772644
+    },
+    {
+      "text": "Eller",
+      "bbox": [
+        135,
+        310,
+        182,
+        337
+      ],
+      "confidence": 0.9979991912841797
+    },
+    {
+      "text": "Board #",
+      "bbox": [
+        344,
+        311,
+        411,
+        334
+      ],
+      "confidence": 0.9987705945968628
+    },
+    {
+      "text": "1of",
+      "bbox": [
+        461,
+        311,
+        502,
+        336
+      ],
+      "confidence": 0.9742705821990967
+    },
+    {
+      "text": "16",
+      "bbox": [
+        654,
+        315,
+        678,
+        337
+      ],
+      "confidence": 0.9987695813179016
+    },
+    {
+      "text": "Media Type:Bulletin Standard - 19'6\" x 48\"",
+      "bbox": [
+        20,
+        349,
+        358,
+        374
+      ],
+      "confidence": 0.9433119893074036
+    },
+    {
+      "text": "****************************************",
+      "bbox": [
+        26,
+        392,
+        242,
+        402
+      ],
+      "confidence": 0.9695593118667603
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        208,
+        408,
+        262,
+        430
+      ],
+      "confidence": 0.998185932636261
+    },
+    {
+      "text": "No",
+      "bbox": [
+        341,
+        404,
+        415,
+        433
+      ],
+      "confidence": 0.9899051189422607
+    },
+    {
+      "text": "Advertiser",
+      "bbox": [
+        535,
+        408,
+        622,
+        429
+      ],
+      "confidence": 0.999334454536438
+    },
+    {
+      "text": "Posted Over:",
+      "bbox": [
+        25,
+        449,
+        142,
+        473
+      ],
+      "confidence": 0.955803394317627
+    },
+    {
+      "text": "Miller Lite",
+      "bbox": [
+        477,
+        445,
+        554,
+        470
+      ],
+      "confidence": 0.9447721242904663
+    },
+    {
+      "text": "Whited Out:",
+      "bbox": [
+        22,
+        488,
+        146,
+        514
+      ],
+      "confidence": 0.9943589568138123
+    },
+    {
+      "text": "Extensions in place",
+      "bbox": [
+        26,
+        527,
+        209,
+        549
+      ],
+      "confidence": 0.9942688345909119
+    },
+    {
+      "text": "x",
+      "bbox": [
+        236,
+        529,
+        253,
+        547
+      ],
+      "confidence": 0.9193674325942993
+    },
+    {
+      "text": "(Only if 19'6\" x 48')",
+      "bbox": [
+        26,
+        546,
+        157,
+        568
+      ],
+      "confidence": 0.9375318884849548
+    },
+    {
+      "text": "Have you destroyed all remaining copy?*",
+      "bbox": [
+        28,
+        583,
+        353,
+        605
+      ],
+      "confidence": 0.9969290494918823
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        410,
+        582,
+        450,
+        604
+      ],
+      "confidence": 0.9999556541442871
+    },
+    {
+      "text": "Have you removed copy beneath vinyl?*",
+      "bbox": [
+        29,
+        621,
+        349,
+        645
+      ],
+      "confidence": 0.990602433681488
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        411,
+        620,
+        451,
+        643
+      ],
+      "confidence": 0.9996893405914307
+    },
+    {
+      "text": "Conducted inspection with",
+      "bbox": [
+        30,
+        660,
+        245,
+        686
+      ],
+      "confidence": 0.9878084659576416
+    },
+    {
+      "text": "Tom Hochuli",
+      "bbox": [
+        278,
+        660,
+        374,
+        681
+      ],
+      "confidence": 0.9986658692359924
+    },
+    {
+      "text": "from",
+      "bbox": [
+        480,
+        655,
+        527,
+        681
+      ],
+      "confidence": 0.9993195533752441
+    },
+    {
+      "text": "[Eller",
+      "bbox": [
+        550,
+        655,
+        593,
+        678
+      ],
+      "confidence": 0.9257687926292419
+    },
+    {
+      "text": "Miller Lite copy too short in width. About a foot of white space",
+      "bbox": [
+        211,
+        692,
+        663,
+        721
+      ],
+      "confidence": 0.9917006492614746
+    },
+    {
+      "text": "*Notes/Comments:",
+      "bbox": [
+        30,
+        703,
+        185,
+        723
+      ],
+      "confidence": 0.9998325109481812
+    },
+    {
+      "text": "showing on right side of bulletin.",
+      "bbox": [
+        212,
+        716,
+        447,
+        743
+      ],
+      "confidence": 0.9789556860923767
+    },
+    {
+      "text": "2/17/99",
+      "bbox": [
+        414,
+        778,
+        512,
+        819
+      ],
+      "confidence": 0.9943059682846069
+    },
+    {
+      "text": "Brttinusm Reeves",
+      "bbox": [
+        14,
+        793,
+        235,
+        826
+      ],
+      "confidence": 0.7140821218490601
+    },
+    {
+      "text": "Date of copy removal",
+      "bbox": [
+        416,
+        809,
+        587,
+        835
+      ],
+      "confidence": 0.9961904287338257
+    },
+    {
+      "text": "OMS Signature",
+      "bbox": [
+        26,
+        819,
+        154,
+        847
+      ],
+      "confidence": 0.9662082195281982
+    },
+    {
+      "text": "2084607646",
+      "bbox": [
+        740,
+        822,
+        753,
+        921
+      ],
+      "confidence": 0.9974870681762695
+    }
+  ],
+  "full_text": "1178\nPhilip Morris \"Takedown\" Report\nDate:\n3/25/99\nTAS\n4Q0\nMarket\nMilwaukee\nStateW\nLocation:\n1-94 @ Hwy 100 S/S FE (8P)\nVendor:\nEller\nBoard #\n1of\n16\nMedia Type:Bulletin Standard - 19'6\" x 48\"\n****************************************\nYes\nNo\nAdvertiser\nPosted Over:\nMiller Lite\nWhited Out:\nExtensions in place\nx\n(Only if 19'6\" x 48')\nHave you destroyed all remaining copy?*\nYes\nHave you removed copy beneath vinyl?*\nYes\nConducted inspection with\nTom Hochuli\nfrom\n[Eller\nMiller Lite copy too short in width. About a foot of white space\n*Notes/Comments:\nshowing on right side of bulletin.\n2/17/99\nBrttinusm Reeves\nDate of copy removal\nOMS Signature\n2084607646"
+}

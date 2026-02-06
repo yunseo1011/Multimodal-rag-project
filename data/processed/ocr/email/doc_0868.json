@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0868.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Gimbel, Tod on Apr 9, 1997 9:02 AM",
+      "bbox": [
+        14,
+        103,
+        243,
+        117
+      ],
+      "confidence": 0.9893462061882019
+    },
+    {
+      "text": "Subject: FW: GMA",
+      "bbox": [
+        10,
+        114,
+        114,
+        133
+      ],
+      "confidence": 0.9898752570152283
+    },
+    {
+      "text": "To: Carothers, Paul",
+      "bbox": [
+        11,
+        130,
+        117,
+        144
+      ],
+      "confidence": 0.9796713590621948
+    }
+  ],
+  "full_text": "From: Gimbel, Tod on Apr 9, 1997 9:02 AM\nSubject: FW: GMA\nTo: Carothers, Paul"
+}

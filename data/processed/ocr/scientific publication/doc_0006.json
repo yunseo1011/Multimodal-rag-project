@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0006.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "LUNGTUMOURS :HISTOLOGY,",
+      "bbox": [
+        181,
+        131,
+        541,
+        159
+      ],
+      "confidence": 0.9821605086326599
+    },
+    {
+      "text": "AETIOLOGY AND GEOGRAPHIC PATHOLOGY",
+      "bbox": [
+        121,
+        158,
+        623,
+        192
+      ],
+      "confidence": 0.96952885389328
+    },
+    {
+      "text": "Leiv KREYBERG",
+      "bbox": [
+        304,
+        229,
+        422,
+        243
+      ],
+      "confidence": 0.9988253116607666
+    },
+    {
+      "text": "(Institutt for:Generell og Eksperimentell Patologi, Universitetet iOslo).",
+      "bbox": [
+        125,
+        245,
+        606,
+        274
+      ],
+      "confidence": 0.9656500816345215
+    },
+    {
+      "text": "EXTRAIT DE",
+      "bbox": [
+        309,
+        788,
+        402,
+        809
+      ],
+      "confidence": 0.9806551933288574
+    },
+    {
+      "text": "ACTA UNION INTERNATIONALE CONTRE LE CANCER",
+      "bbox": [
+        161,
+        809,
+        545,
+        837
+      ],
+      "confidence": 0.9991685152053833
+    },
+    {
+      "text": "VOLUME XV-",
+      "bbox": [
+        283,
+        841,
+        384,
+        856
+      ],
+      "confidence": 0.89320307970047
+    }
+  ],
+  "full_text": "LUNGTUMOURS :HISTOLOGY,\nAETIOLOGY AND GEOGRAPHIC PATHOLOGY\nLeiv KREYBERG\n(Institutt for:Generell og Eksperimentell Patologi, Universitetet iOslo).\nEXTRAIT DE\nACTA UNION INTERNATIONALE CONTRE LE CANCER\nVOLUME XV-"
+}

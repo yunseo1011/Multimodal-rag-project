@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0046.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Teitelbaum, Shari on Thu, Jul 2, 1998 9:08 AM",
+      "bbox": [
+        18,
+        52,
+        321,
+        77
+      ],
+      "confidence": 0.9714982509613037
+    },
+    {
+      "text": "Subject: July 14th Meeting",
+      "bbox": [
+        17,
+        65,
+        173,
+        88
+      ],
+      "confidence": 0.9934481978416443
+    },
+    {
+      "text": "To: Saloun, Thomas D",
+      "bbox": [
+        17,
+        78,
+        150,
+        98
+      ],
+      "confidence": 0.9669550657272339
+    },
+    {
+      "text": "Cc: Rodriguez, Ana",
+      "bbox": [
+        15,
+        90,
+        134,
+        111
+      ],
+      "confidence": 0.9957720637321472
+    },
+    {
+      "text": "Tom,",
+      "bbox": [
+        12,
+        115,
+        49,
+        135
+      ],
+      "confidence": 0.998030424118042
+    },
+    {
+      "text": "The meeting I spoke to you about the other day with Melissa Jeltema from Richmond is scheduled for July 14th frorn 10-",
+      "bbox": [
+        12,
+        128,
+        713,
+        151
+      ],
+      "confidence": 0.9803392291069031
+    },
+    {
+      "text": "will be there as well since it relates to New Product/Marlboro research.",
+      "bbox": [
+        11,
+        154,
+        413,
+        173
+      ],
+      "confidence": 0.9811608791351318
+    },
+    {
+      "text": "Shari",
+      "bbox": [
+        9,
+        165,
+        47,
+        184
+      ],
+      "confidence": 0.8297117948532104
+    },
+    {
+      "text": "2",
+      "bbox": [
+        360,
+        852,
+        372,
+        866
+      ],
+      "confidence": 0.9999756813049316
+    }
+  ],
+  "full_text": "From: Teitelbaum, Shari on Thu, Jul 2, 1998 9:08 AM\nSubject: July 14th Meeting\nTo: Saloun, Thomas D\nCc: Rodriguez, Ana\nTom,\nThe meeting I spoke to you about the other day with Melissa Jeltema from Richmond is scheduled for July 14th frorn 10-\nwill be there as well since it relates to New Product/Marlboro research.\nShari\n2"
+}

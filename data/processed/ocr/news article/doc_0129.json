@@ -1,0 +1,1141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0129.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PRESSE-SPIEGEL",
+      "bbox": [
+        290,
+        145,
+        770,
+        207
+      ],
+      "confidence": 0.9996706247329712
+    },
+    {
+      "text": "Titel: SUDDEUTSCHE ZFITUNG'",
+      "bbox": [
+        296,
+        216,
+        538,
+        233
+      ],
+      "confidence": 0.8975574970245361
+    },
+    {
+      "text": "Datum:11.10.82.",
+      "bbox": [
+        297,
+        233,
+        413,
+        250
+      ],
+      "confidence": 0.9843528866767883
+    },
+    {
+      "text": "Forschungsergebnis eines Monchner Teams:",
+      "bbox": [
+        240,
+        272,
+        516,
+        297
+      ],
+      "confidence": 0.9892705678939819
+    },
+    {
+      "text": "Cadmium-Verbindung als Krebserreger",
+      "bbox": [
+        258,
+        295,
+        678,
+        332
+      ],
+      "confidence": 0.9901908040046692
+    },
+    {
+      "text": "VierWissenschaftlerderFraunhofer-Gesellschaftwerdenheuteausgezeichnet",
+      "bbox": [
+        251,
+        320,
+        682,
+        347
+      ],
+      "confidence": 0.9908528923988342
+    },
+    {
+      "text": "(FhG) - der Physiker Dieter Hochrainer, der",
+      "bbox": [
+        239,
+        351,
+        457,
+        370
+      ],
+      "confidence": 0.9535593390464783
+    },
+    {
+      "text": "Vier Forscher",
+      "bbox": [
+        241,
+        343,
+        316,
+        355
+      ],
+      "confidence": 0.954850435256958
+    },
+    {
+      "text": "der",
+      "bbox": [
+        314,
+        347,
+        335,
+        355
+      ],
+      "confidence": 0.9904573559761047
+    },
+    {
+      "text": "Fraunhofer-Gesellschaft",
+      "bbox": [
+        338,
+        345,
+        457,
+        360
+      ],
+      "confidence": 0.9338362216949463
+    },
+    {
+      "text": "mium-Chlor-Verbindung.Cadmiumchloridlagert",
+      "bbox": [
+        464,
+        345,
+        703,
+        366
+      ],
+      "confidence": 0.9626031517982483
+    },
+    {
+      "text": "Chemiker Hans Peter Konig.der Tiermediziner",
+      "bbox": [
+        238,
+        360,
+        456,
+        379
+      ],
+      "confidence": 0.9162704348564148
+    },
+    {
+      "text": "sich in Tabakblatten ab. Ein Raucher nimmt beim",
+      "bbox": [
+        463,
+        355,
+        701,
+        375
+      ],
+      "confidence": 0.9192338585853577
+    },
+    {
+      "text": "Konsum von zwanzig Zigaretten täglich etwa ein",
+      "bbox": [
+        463,
+        364,
+        701,
+        385
+      ],
+      "confidence": 0.9495949745178223
+    },
+    {
+      "text": "seet.",
+      "bbox": [
+        167,
+        373,
+        197,
+        385
+      ],
+      "confidence": 0.6864696145057678
+    },
+    {
+      "text": "CTakenaka-werden am heutigen Donnerstag in",
+      "bbox": [
+        237,
+        378,
+        454,
+        398
+      ],
+      "confidence": 0.9200032353401184
+    },
+    {
+      "text": "Cunter Oberddrster und der Pathologe Shinji",
+      "bbox": [
+        238,
+        369,
+        456,
+        389
+      ],
+      "confidence": 0.9238408803939819
+    },
+    {
+      "text": "Mikrogramm Cadmiurm in die Lungen auf, wo es",
+      "bbox": [
+        463,
+        374,
+        701,
+        394
+      ],
+      "confidence": 0.9779004454612732
+    },
+    {
+      "text": "Jahres 1982 ausgezeichnet. Ihnen ist erstmals",
+      "bbox": [
+        236,
+        397,
+        454,
+        417
+      ],
+      "confidence": 0.9521459937095642
+    },
+    {
+      "text": "Mdnchen mit dem Josel-Fraunholer-Preis des",
+      "bbox": [
+        237,
+        388,
+        454,
+        407
+      ],
+      "confidence": 0.9635850787162781
+    },
+    {
+      "text": "zu anderen Organen, vor allem zur Niere, abwan-",
+      "bbox": [
+        462,
+        393,
+        700,
+        412
+      ],
+      "confidence": 0.9804835915565491
+    },
+    {
+      "text": "ungewohnlich lange verbleibt und eur allmkhlich",
+      "bbox": [
+        463,
+        383,
+        700,
+        403
+      ],
+      "confidence": 0.9349625110626221
+    },
+    {
+      "text": "der Nachweis gelungen, daeine chemische",
+      "bbox": [
+        235,
+        406,
+        454,
+        427
+      ],
+      "confidence": 0.9395832419395447
+    },
+    {
+      "text": "dert",
+      "bbox": [
+        463,
+        404,
+        488,
+        415
+      ],
+      "confidence": 0.9996511936187744
+    },
+    {
+      "text": "Die Ratten wurden nun unterschiedlichen Cad-",
+      "bbox": [
+        470,
+        411,
+        701,
+        432
+      ],
+      "confidence": 0.9771245718002319
+    },
+    {
+      "text": "Verbindung des als Umweltgit bekannten",
+      "bbox": [
+        235,
+        415,
+        456,
+        436
+      ],
+      "confidence": 0.9030387997627258
+    },
+    {
+      "text": "ermetallsCadmiumKrebserzeugt. . ",
+      "bbox": [
+        261,
+        427,
+        451,
+        444
+      ],
+      "confidence": 0.9594258069992065
+    },
+    {
+      "text": "mlum-Konzentrationen ausgesetst. Egebnis: Je",
+      "bbox": [
+        461,
+        421,
+        698,
+        441
+      ],
+      "confidence": 0.9616069197654724
+    },
+    {
+      "text": "Professor Werner Stöber vom FhG-Institut for",
+      "bbox": [
+        235,
+        438,
+        454,
+        457
+      ],
+      "confidence": 0.9592239260673523
+    },
+    {
+      "text": "zinome entwickelten sich. Von den Tieren einer",
+      "bbox": [
+        460,
+        438,
+        699,
+        460
+      ],
+      "confidence": 0.9771423935890198
+    },
+    {
+      "text": "h6her die Konzentration desto mehr Lungenkar-",
+      "bbox": [
+        461,
+        429,
+        698,
+        451
+      ],
+      "confidence": 0.937694787979126
+    },
+    {
+      "text": "Toxikologie und Aerosol-Forschung bezeichnete",
+      "bbox": [
+        223,
+        448,
+        453,
+        467
+      ],
+      "confidence": 0.9761208295822144
+    },
+    {
+      "text": "Kontrollgruppe wu",
+      "bbox": [
+        460,
+        447,
+        554,
+        465
+      ],
+      "confidence": 0.9865412712097168
+    },
+    {
+      "text": "kein einziges von",
+      "bbox": [
+        571,
+        452,
+        662,
+        467
+      ],
+      "confidence": 0.9992397427558899
+    },
+    {
+      "text": "Krebs-",
+      "bbox": [
+        659,
+        457,
+        696,
+        467
+      ],
+      "confidence": 0.9924569129943848
+    },
+    {
+      "text": "mium-Chlorid als _aulsehenerregend\". Bis vor",
+      "bbox": [
+        222,
+        467,
+        453,
+        485
+      ],
+      "confidence": 0.901270866394043
+    },
+    {
+      "text": "die Ergebnisse des Langzeitversuchs mit Cad-",
+      "bbox": [
+        223,
+        458,
+        453,
+        476
+      ],
+      "confidence": 0.9945911765098572
+    },
+    {
+      "text": "tumoren befaller",
+      "bbox": [
+        461,
+        459,
+        540,
+        473
+      ],
+      "confidence": 0.9586597681045532
+    },
+    {
+      "text": "eraodlema",
+      "bbox": [
+        144,
+        480,
+        204,
+        490
+      ],
+      "confidence": 0.6300241947174072
+    },
+    {
+      "text": ")",
+      "bbox": [
+        197,
+        473,
+        204,
+        478
+      ],
+      "confidence": 0.8041115403175354
+    },
+    {
+      "text": "Kurzem hatte die Wissenschaft das im Zigaret-",
+      "bbox": [
+        222,
+        476,
+        452,
+        494
+      ],
+      "confidence": 0.9524433612823486
+    },
+    {
+      "text": "tenrauch enthaltene Benapyren fur die Entste-",
+      "bbox": [
+        222,
+        485,
+        451,
+        504
+      ],
+      "confidence": 0.9398653507232666
+    },
+    {
+      "text": "BasisfUrArbeitsplatz-Schutz",
+      "bbox": [
+        460,
+        477,
+        626,
+        495
+      ],
+      "confidence": 0.9709754586219788
+    },
+    {
+      "text": "hung von Lungenkrebs verantwortich gemacht.",
+      "bbox": [
+        221,
+        495,
+        451,
+        513
+      ],
+      "confidence": 0.9358282685279846
+    },
+    {
+      "text": "Wurdigung zur Preisverleihung, würden die wis-",
+      "bbox": [
+        460,
+        499,
+        695,
+        518
+      ],
+      "confidence": 0.9555872082710266
+    },
+    {
+      "text": "Die Forschungsergebnisse, so heibi es in der",
+      "bbox": [
+        469,
+        489,
+        696,
+        509
+      ],
+      "confidence": 0.9874200224876404
+    },
+    {
+      "text": "Eine von der Fraunhofergesellschafs gomeinsam",
+      "bbox": [
+        220,
+        504,
+        452,
+        523
+      ],
+      "confidence": 0.9361762404441833
+    },
+    {
+      "text": "mit dem Chemiekonzern Bayer vorgenommene",
+      "bbox": [
+        220,
+        513,
+        451,
+        532
+      ],
+      "confidence": 0.962812066078186
+    },
+    {
+      "text": "senschaftliche Basis fur GesundheitaschutzmaB-",
+      "bbox": [
+        459,
+        509,
+        695,
+        526
+      ],
+      "confidence": 0.9479838013648987
+    },
+    {
+      "text": "Untersuchung fahrte jedcch zum Ergebnis, du",
+      "bbox": [
+        220,
+        522,
+        451,
+        541
+      ],
+      "confidence": 0.9502801895141602
+    },
+    {
+      "text": "Benapyren keine Lungenkarzinome verursacht.",
+      "bbox": [
+        220,
+        531,
+        442,
+        551
+      ],
+      "confidence": 0.7886329293251038
+    },
+    {
+      "text": "nahmen arm Arbeitsplats _wesestlich festigen\".",
+      "bbox": [
+        459,
+        518,
+        695,
+        536
+      ],
+      "confidence": 0.9312736392021179
+    },
+    {
+      "text": "Jeui solien weitere Cadmium-Verbindungen, et-",
+      "bbox": [
+        459,
+        526,
+        694,
+        545
+      ],
+      "confidence": 0.9409093856811523
+    },
+    {
+      "text": "AblagerunginTabakb!attern",
+      "bbox": [
+        221,
+        543,
+        378,
+        563
+      ],
+      "confidence": 0.9638209342956543
+    },
+    {
+      "text": "wa das in der Flugasche von. Kraftwerken auftre-",
+      "bbox": [
+        459,
+        535,
+        694,
+        555
+      ],
+      "confidence": 0.9613303542137146
+    },
+    {
+      "text": "tende Cadmiumoxid. untersucht werden. Nach",
+      "bbox": [
+        459,
+        544,
+        694,
+        565
+      ],
+      "confidence": 0.9583094716072083
+    },
+    {
+      "text": "Aul der Suche nach dem tatsichlichen Ausio-",
+      "bbox": [
+        230,
+        556,
+        450,
+        576
+      ],
+      "confidence": 0.952914297580719
+    },
+    {
+      "text": "Ansicht von Professor Stober gibt es schon jetzt",
+      "bbox": [
+        458,
+        553,
+        694,
+        574
+      ],
+      "confidence": 0.9739955067634583
+    },
+    {
+      "text": "Anzcichen, da Cadmiumoxid ebenso krebserre-",
+      "bbox": [
+        458,
+        562,
+        692,
+        583
+      ],
+      "confidence": 0.9424874782562256
+    },
+    {
+      "text": "ser stied das Forschertear Hochrainer/Konig/",
+      "bbox": [
+        219,
+        565,
+        450,
+        585
+      ],
+      "confidence": 0.6970517635345459
+    },
+    {
+      "text": "Oberdorster/Takenaka nach eineinhalbjahrigen",
+      "bbox": [
+        219,
+        574,
+        450,
+        595
+      ],
+      "confidence": 0.7033488154411316
+    },
+    {
+      "text": "gend ist wie Cadmiumchlorid\". Letzteres wurde",
+      "bbox": [
+        458,
+        572,
+        694,
+        592
+      ],
+      "confidence": 0.9293261170387268
+    },
+    {
+      "text": "Versuchen. bei denen 120 Ratten cadmiumver-",
+      "bbox": [
+        223,
+        585,
+        451,
+        604
+      ],
+      "confidence": 0.9775248765945435
+    },
+    {
+      "text": "nisse in die Liste der kanzerogenen Stotfe aufge-",
+      "bbox": [
+        457,
+        591,
+        692,
+        611
+      ],
+      "confidence": 0.9488469958305359
+    },
+    {
+      "text": "ubrigens sofort nach Bekanntwerden der Ergeb-",
+      "bbox": [
+        458,
+        581,
+        694,
+        601
+      ],
+      "confidence": 0.9825524091720581
+    },
+    {
+      "text": "euchter",
+      "bbox": [
+        223,
+        597,
+        263,
+        607
+      ],
+      "confidence": 0.9863028526306152
+    },
+    {
+      "text": "usgesetzt wurden, auf eine Cad-",
+      "bbox": [
+        292,
+        597,
+        448,
+        612
+      ],
+      "confidence": 0.9588425755500793
+    },
+    {
+      "text": "WCHNER MERKUR 21.A0.82.",
+      "bbox": [
+        318,
+        633,
+        555,
+        655
+      ],
+      "confidence": 0.9485294222831726
+    },
+    {
+      "text": "Fraunhofer-Wissenschaftler fanden heraus:",
+      "bbox": [
+        291,
+        674,
+        562,
+        699
+      ],
+      "confidence": 0.9882885217666626
+    },
+    {
+      "text": "Krebs durch Cadmium",
+      "bbox": [
+        314,
+        701,
+        601,
+        731
+      ],
+      "confidence": 0.9977095723152161
+    },
+    {
+      "text": "Bern der Fraunhofer-Gesellschaft",
+      "bbox": [
+        288,
+        738,
+        452,
+        754
+      ],
+      "confidence": 0.8644567728042603
+    },
+    {
+      "text": "Munchen (Iby)",
+      "bbox": [
+        299,
+        731,
+        371,
+        743
+      ],
+      "confidence": 0.9415025115013123
+    },
+    {
+      "text": "Wissenschaft-",
+      "bbox": [
+        384,
+        733,
+        451,
+        745
+      ],
+      "confidence": 0.9662485718727112
+    },
+    {
+      "text": "ben, dad bestimmte Stoffe (Benz-",
+      "bbox": [
+        462,
+        742,
+        626,
+        759
+      ],
+      "confidence": 0.9039353728294373
+    },
+    {
+      "text": "mit cinem Chemiekonzern erga-",
+      "bbox": [
+        463,
+        734,
+        627,
+        749
+      ],
+      "confidence": 0.9797513484954834
+    },
+    {
+      "text": "(FhG) ist jetzt der. Nachweis ge-",
+      "bbox": [
+        288,
+        746,
+        453,
+        763
+      ],
+      "confidence": 0.8945150971412659
+    },
+    {
+      "text": "bislang fur Krebs verantwortlich",
+      "bbox": [
+        461,
+        757,
+        627,
+        775
+      ],
+      "confidence": 0.7236452102661133
+    },
+    {
+      "text": "pyren) im Zigarettenrauch, das",
+      "bbox": [
+        462,
+        750,
+        627,
+        767
+      ],
+      "confidence": 0.8902510404586792
+    },
+    {
+      "text": "et Jangem as Umweiigit-be-",
+      "bbox": [
+        288,
+        761,
+        452,
+        778
+      ],
+      "confidence": 0.607582688331604
+    },
+    {
+      "text": "kannten Schwermetalls Cadmium",
+      "bbox": [
+        288,
+        770,
+        452,
+        788
+      ],
+      "confidence": 0.8529555201530457
+    },
+    {
+      "text": "gemacht wurde, keine Lungen-",
+      "bbox": [
+        461,
+        765,
+        627,
+        784
+      ],
+      "confidence": 0.8936353325843811
+    },
+    {
+      "text": "Krebs eracugt. Prof. Werner Stb-",
+      "bbox": [
+        288,
+        780,
+        450,
+        794
+      ],
+      "confidence": 0.941994309425354
+    },
+    {
+      "text": "ber vom FhG-Institut fur Toxi-",
+      "bbox": [
+        288,
+        787,
+        450,
+        804
+      ],
+      "confidence": 0.8518664240837097
+    },
+    {
+      "text": "karzinome ausloste.",
+      "bbox": [
+        463,
+        776,
+        563,
+        790
+      ],
+      "confidence": 0.9562516212463379
+    },
+    {
+      "text": "kologie und Aerosotforschung bel",
+      "bbox": [
+        287,
+        796,
+        452,
+        811
+      ],
+      "confidence": 0.9309563636779785
+    },
+    {
+      "text": "bundesamt mit etwa 300 000 Mark",
+      "bbox": [
+        460,
+        798,
+        624,
+        819
+      ],
+      "confidence": 0.8135483860969543
+    },
+    {
+      "text": "Bei dem vorn Berliner Umwelt-",
+      "bbox": [
+        469,
+        790,
+        624,
+        810
+      ],
+      "confidence": 0.9729325771331787
+    },
+    {
+      "text": "des Langzeitversuchs mit Cad-",
+      "bbox": [
+        287,
+        813,
+        451,
+        828
+      ],
+      "confidence": 0.9406814575195312
+    },
+    {
+      "text": "Rannover wertete die Ergebnisse",
+      "bbox": [
+        287,
+        804,
+        451,
+        820
+      ],
+      "confidence": 0.9744465947151184
+    },
+    {
+      "text": "finanzierten Versuch waren 120",
+      "bbox": [
+        461,
+        807,
+        623,
+        827
+      ],
+      "confidence": 0.8190091848373413
+    },
+    {
+      "text": "miumchlorid als .aufsehenerre-",
+      "bbox": [
+        287,
+        821,
+        449,
+        836
+      ],
+      "confidence": 0.90656977891922
+    },
+    {
+      "text": "gend\". Die Forscher werden am",
+      "bbox": [
+        287,
+        829,
+        450,
+        846
+      ],
+      "confidence": 0.9329877495765686
+    },
+    {
+      "text": "etit worden Jeweils ein Drittel",
+      "bbox": [
+        459,
+        832,
+        622,
+        853
+      ],
+      "confidence": 0.7686262726783752
+    },
+    {
+      "text": "Donnerstog in Munchen mit dem",
+      "bbox": [
+        287,
+        837,
+        449,
+        854
+      ],
+      "confidence": 0.9436277747154236
+    },
+    {
+      "text": "Josef von Fraunhofer-Preis 1982",
+      "bbox": [
+        287,
+        846,
+        448,
+        861
+      ],
+      "confidence": 0.9827079176902771
+    },
+    {
+      "text": "mubte pro Kubikmeter Luft 12.S",
+      "bbox": [
+        459,
+        841,
+        621,
+        861
+      ],
+      "confidence": 0.8745474219322205
+    },
+    {
+      "text": "ausgezeichnet.",
+      "bbox": [
+        289,
+        857,
+        357,
+        867
+      ],
+      "confidence": 0.9910193681716919
+    },
+    {
+      "text": "Mikrogramm, 25 Mikrogramm",
+      "bbox": [
+        458,
+        849,
+        623,
+        872
+      ],
+      "confidence": 0.9090823531150818
+    },
+    {
+      "text": "und 50 Mikrogramm Cadmium-",
+      "bbox": [
+        458,
+        859,
+        620,
+        881
+      ],
+      "confidence": 0.9497069120407104
+    },
+    {
+      "text": "Xinftige Vetsuche sollen prQ-",
+      "bbox": [
+        293,
+        870,
+        449,
+        885
+      ],
+      "confidence": 0.9089981317520142
+    },
+    {
+      "text": "chlorid einatmen. Das Ergebnis:",
+      "bbox": [
+        458,
+        868,
+        620,
+        892
+      ],
+      "confidence": 0.9724683165550232
+    },
+    {
+      "text": "fen, ob Lungenkrebs bei Rau-",
+      "bbox": [
+        286,
+        879,
+        449,
+        894
+      ],
+      "confidence": 0.9506340622901917
+    },
+    {
+      "text": "chem auf Cadmiur, das von den",
+      "bbox": [
+        286,
+        888,
+        449,
+        903
+      ],
+      "confidence": 0.9573252201080322
+    },
+    {
+      "text": "Je höher die Konzentration desto",
+      "bbox": [
+        456,
+        878,
+        619,
+        902
+      ],
+      "confidence": 0.9739217758178711
+    },
+    {
+      "text": "mehr Lungenkarzinome entwik-",
+      "bbox": [
+        457,
+        887,
+        619,
+        912
+      ],
+      "confidence": 0.7536636590957642
+    },
+    {
+      "text": "Tabakblattern angereichert wird,",
+      "bbox": [
+        285,
+        895,
+        449,
+        913
+      ],
+      "confidence": 0.9301996231079102
+    },
+    {
+      "text": "zurdckgefuhrt",
+      "bbox": [
+        286,
+        904,
+        357,
+        917
+      ],
+      "confidence": 0.8477048277854919
+    },
+    {
+      "text": "werden",
+      "bbox": [
+        366,
+        906,
+        408,
+        920
+      ],
+      "confidence": 0.9850804209709167
+    },
+    {
+      "text": "kann.",
+      "bbox": [
+        415,
+        907,
+        449,
+        922
+      ],
+      "confidence": 0.8884661793708801
+    },
+    {
+      "text": "kelten sich. Bei einer Kontroll.",
+      "bbox": [
+        457,
+        897,
+        619,
+        921
+      ],
+      "confidence": 0.9336034655570984
+    },
+    {
+      "text": "gruppe wurde kein einziges Tier",
+      "bbox": [
+        457,
+        907,
+        618,
+        932
+      ],
+      "confidence": 0.9948874115943909
+    },
+    {
+      "text": "FhG-Unjersuchungen zusammen",
+      "bbox": [
+        288,
+        911,
+        447,
+        932
+      ],
+      "confidence": 0.9827105402946472
+    },
+    {
+      "text": "von einem Krebsturmor befatlen.",
+      "bbox": [
+        457,
+        916,
+        617,
+        942
+      ],
+      "confidence": 0.9698197245597839
+    }
+  ],
+  "full_text": "PRESSE-SPIEGEL\nTitel: SUDDEUTSCHE ZFITUNG'\nDatum:11.10.82.\nForschungsergebnis eines Monchner Teams:\nCadmium-Verbindung als Krebserreger\nVierWissenschaftlerderFraunhofer-Gesellschaftwerdenheuteausgezeichnet\n(FhG) - der Physiker Dieter Hochrainer, der\nVier Forscher\nder\nFraunhofer-Gesellschaft\nmium-Chlor-Verbindung.Cadmiumchloridlagert\nChemiker Hans Peter Konig.der Tiermediziner\nsich in Tabakblatten ab. Ein Raucher nimmt beim\nKonsum von zwanzig Zigaretten täglich etwa ein\nseet.\nCTakenaka-werden am heutigen Donnerstag in\nCunter Oberddrster und der Pathologe Shinji\nMikrogramm Cadmiurm in die Lungen auf, wo es\nJahres 1982 ausgezeichnet. Ihnen ist erstmals\nMdnchen mit dem Josel-Fraunholer-Preis des\nzu anderen Organen, vor allem zur Niere, abwan-\nungewohnlich lange verbleibt und eur allmkhlich\nder Nachweis gelungen, daeine chemische\ndert\nDie Ratten wurden nun unterschiedlichen Cad-\nVerbindung des als Umweltgit bekannten\nermetallsCadmiumKrebserzeugt. . \nmlum-Konzentrationen ausgesetst. Egebnis: Je\nProfessor Werner Stöber vom FhG-Institut for\nzinome entwickelten sich. Von den Tieren einer\nh6her die Konzentration desto mehr Lungenkar-\nToxikologie und Aerosol-Forschung bezeichnete\nKontrollgruppe wu\nkein einziges von\nKrebs-\nmium-Chlorid als _aulsehenerregend\". Bis vor\ndie Ergebnisse des Langzeitversuchs mit Cad-\ntumoren befaller\neraodlema\n)\nKurzem hatte die Wissenschaft das im Zigaret-\ntenrauch enthaltene Benapyren fur die Entste-\nBasisfUrArbeitsplatz-Schutz\nhung von Lungenkrebs verantwortich gemacht.\nWurdigung zur Preisverleihung, würden die wis-\nDie Forschungsergebnisse, so heibi es in der\nEine von der Fraunhofergesellschafs gomeinsam\nmit dem Chemiekonzern Bayer vorgenommene\nsenschaftliche Basis fur GesundheitaschutzmaB-\nUntersuchung fahrte jedcch zum Ergebnis, du\nBenapyren keine Lungenkarzinome verursacht.\nnahmen arm Arbeitsplats _wesestlich festigen\".\nJeui solien weitere Cadmium-Verbindungen, et-\nAblagerunginTabakb!attern\nwa das in der Flugasche von. Kraftwerken auftre-\ntende Cadmiumoxid. untersucht werden. Nach\nAul der Suche nach dem tatsichlichen Ausio-\nAnsicht von Professor Stober gibt es schon jetzt\nAnzcichen, da Cadmiumoxid ebenso krebserre-\nser stied das Forschertear Hochrainer/Konig/\nOberdorster/Takenaka nach eineinhalbjahrigen\ngend ist wie Cadmiumchlorid\". Letzteres wurde\nVersuchen. bei denen 120 Ratten cadmiumver-\nnisse in die Liste der kanzerogenen Stotfe aufge-\nubrigens sofort nach Bekanntwerden der Ergeb-\neuchter\nusgesetzt wurden, auf eine Cad-\nWCHNER MERKUR 21.A0.82.\nFraunhofer-Wissenschaftler fanden heraus:\nKrebs durch Cadmium\nBern der Fraunhofer-Gesellschaft\nMunchen (Iby)\nWissenschaft-\nben, dad bestimmte Stoffe (Benz-\nmit cinem Chemiekonzern erga-\n(FhG) ist jetzt der. Nachweis ge-\nbislang fur Krebs verantwortlich\npyren) im Zigarettenrauch, das\net Jangem as Umweiigit-be-\nkannten Schwermetalls Cadmium\ngemacht wurde, keine Lungen-\nKrebs eracugt. Prof. Werner Stb-\nber vom FhG-Institut fur Toxi-\nkarzinome ausloste.\nkologie und Aerosotforschung bel\nbundesamt mit etwa 300 000 Mark\nBei dem vorn Berliner Umwelt-\ndes Langzeitversuchs mit Cad-\nRannover wertete die Ergebnisse\nfinanzierten Versuch waren 120\nmiumchlorid als .aufsehenerre-\ngend\". Die Forscher werden am\netit worden Jeweils ein Drittel\nDonnerstog in Munchen mit dem\nJosef von Fraunhofer-Preis 1982\nmubte pro Kubikmeter Luft 12.S\nausgezeichnet.\nMikrogramm, 25 Mikrogramm\nund 50 Mikrogramm Cadmium-\nXinftige Vetsuche sollen prQ-\nchlorid einatmen. Das Ergebnis:\nfen, ob Lungenkrebs bei Rau-\nchem auf Cadmiur, das von den\nJe höher die Konzentration desto\nmehr Lungenkarzinome entwik-\nTabakblattern angereichert wird,\nzurdckgefuhrt\nwerden\nkann.\nkelten sich. Bei einer Kontroll.\ngruppe wurde kein einziges Tier\nFhG-Unjersuchungen zusammen\nvon einem Krebsturmor befatlen."
+}

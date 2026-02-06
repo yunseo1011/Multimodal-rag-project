@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0534.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DEPENDANT'S",
+      "bbox": [
+        585,
+        82,
+        704,
+        110
+      ],
+      "confidence": 0.9641082882881165
+    },
+    {
+      "text": " EXHIBRT",
+      "bbox": [
+        619,
+        102,
+        681,
+        124
+      ],
+      "confidence": 0.8157466650009155
+    },
+    {
+      "text": "WORLD HEALTH ORGANIZATION",
+      "bbox": [
+        226,
+        116,
+        456,
+        137
+      ],
+      "confidence": 0.9783916473388672
+    },
+    {
+      "text": "DJT-2556",
+      "bbox": [
+        600,
+        121,
+        680,
+        145
+      ],
+      "confidence": 0.875788688659668
+    },
+    {
+      "text": "INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+      "bbox": [
+        110,
+        222,
+        572,
+        244
+      ],
+      "confidence": 0.9873074293136597
+    },
+    {
+      "text": "STATISTICAL METHODS",
+      "bbox": [
+        134,
+        288,
+        554,
+        320
+      ],
+      "confidence": 0.9839392304420471
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        319,
+        334,
+        370,
+        371
+      ],
+      "confidence": 0.9997451305389404
+    },
+    {
+      "text": "CANCER RESEARCH",
+      "bbox": [
+        159,
+        386,
+        528,
+        421
+      ],
+      "confidence": 0.9991365671157837
+    },
+    {
+      "text": "VOLUME 1 - The analysis of case-control studies",
+      "bbox": [
+        138,
+        472,
+        546,
+        495
+      ],
+      "confidence": 0.9791959524154663
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        326,
+        529,
+        354,
+        549
+      ],
+      "confidence": 0.9995905160903931
+    },
+    {
+      "text": "N.E. BRESLOW & N.E. DAY",
+      "bbox": [
+        225,
+        550,
+        455,
+        574
+      ],
+      "confidence": 0.9848993420600891
+    },
+    {
+      "text": "TECHNICAL EDITOR FOR IARC",
+      "bbox": [
+        221,
+        603,
+        459,
+        627
+      ],
+      "confidence": 0.9968183040618896
+    },
+    {
+      "text": "W. DAVIS",
+      "bbox": [
+        294,
+        626,
+        382,
+        649
+      ],
+      "confidence": 0.977573573589325
+    },
+    {
+      "text": "1ARC Scientific Publications No. 32",
+      "bbox": [
+        229,
+        713,
+        454,
+        734
+      ],
+      "confidence": 0.9828896522521973
+    },
+    {
+      "text": "INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+      "bbox": [
+        126,
+        797,
+        561,
+        823
+      ],
+      "confidence": 0.9863547682762146
+    },
+    {
+      "text": "LYON",
+      "bbox": [
+        316,
+        821,
+        367,
+        839
+      ],
+      "confidence": 0.9991723895072937
+    },
+    {
+      "text": "1980",
+      "bbox": [
+        317,
+        840,
+        365,
+        867
+      ],
+      "confidence": 0.9999852180480957
+    }
+  ],
+  "full_text": "DEPENDANT'S\n EXHIBRT\nWORLD HEALTH ORGANIZATION\nDJT-2556\nINTERNATIONAL AGENCY FOR RESEARCH ON CANCER\nSTATISTICAL METHODS\nIN\nCANCER RESEARCH\nVOLUME 1 - The analysis of case-control studies\nBY\nN.E. BRESLOW & N.E. DAY\nTECHNICAL EDITOR FOR IARC\nW. DAVIS\n1ARC Scientific Publications No. 32\nINTERNATIONAL AGENCY FOR RESEARCH ON CANCER\nLYON\n1980"
+}

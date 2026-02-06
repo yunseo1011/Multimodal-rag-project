@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0750.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From:",
+      "bbox": [
+        51,
+        80,
+        87,
+        98
+      ],
+      "confidence": 0.9995409250259399
+    },
+    {
+      "text": "Original Message--",
+      "bbox": [
+        68,
+        70,
+        168,
+        85
+      ],
+      "confidence": 0.9211022853851318
+    },
+    {
+      "text": "Mario Bory [SMTP:mbory@gmrmarketing.com]",
+      "bbox": [
+        122,
+        80,
+        333,
+        97
+      ],
+      "confidence": 0.9875290989875793
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        50,
+        91,
+        83,
+        111
+      ],
+      "confidence": 0.9933283925056458
+    },
+    {
+      "text": "Friday, July 21, 2000 4:02 PM",
+      "bbox": [
+        121,
+        93,
+        258,
+        109
+      ],
+      "confidence": 0.9955885410308838
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        50,
+        106,
+        74,
+        122
+      ],
+      "confidence": 0.9945210814476013
+    },
+    {
+      "text": "May Nivar",
+      "bbox": [
+        120,
+        105,
+        170,
+        122
+      ],
+      "confidence": 0.9546805620193481
+    },
+    {
+      "text": "Cc:",
+      "bbox": [
+        50,
+        117,
+        74,
+        133
+      ],
+      "confidence": 0.9897932410240173
+    },
+    {
+      "text": "Vicki Bemer; Stacey Weeks; Camille Cooke; Bobby Hinners",
+      "bbox": [
+        120,
+        115,
+        389,
+        132
+      ],
+      "confidence": 0.9910862445831299
+    },
+    {
+      "text": "Subjoct:",
+      "bbox": [
+        49,
+        128,
+        95,
+        145
+      ],
+      "confidence": 0.9380314946174622
+    },
+    {
+      "text": "Mustang Incident",
+      "bbox": [
+        120,
+        130,
+        201,
+        145
+      ],
+      "confidence": 0.9995903968811035
+    },
+    {
+      "text": "May-",
+      "bbox": [
+        47,
+        152,
+        85,
+        174
+      ],
+      "confidence": 0.9998818635940552
+    },
+    {
+      "text": "John Knight hit a deer last night with the Mustang on his way home from",
+      "bbox": [
+        47,
+        177,
+        452,
+        202
+      ],
+      "confidence": 0.984224796295166
+    },
+    {
+      "text": "he evenTe deer struck his front/driver side fender. producng a",
+      "bbox": [
+        46,
+        191,
+        423,
+        215
+      ],
+      "confidence": 0.7389577627182007
+    },
+    {
+      "text": "smill dent. It sounds like the fender will have to be replaced and",
+      "bbox": [
+        45,
+        205,
+        411,
+        229
+      ],
+      "confidence": 0.8262389898300171
+    },
+    {
+      "text": "therefore will not be available until repaired or replaced. I'm calling",
+      "bbox": [
+        44,
+        219,
+        422,
+        242
+      ],
+      "confidence": 0.9615510702133179
+    },
+    {
+      "text": "Greg as as soon as complete this e-mail to see if we can get another",
+      "bbox": [
+        44,
+        233,
+        435,
+        257
+      ],
+      "confidence": 0.986251950263977
+    },
+    {
+      "text": "in.",
+      "bbox": [
+        40,
+        277,
+        64,
+        296
+      ],
+      "confidence": 0.9962702393531799
+    },
+    {
+      "text": "Thank you,",
+      "bbox": [
+        40,
+        305,
+        110,
+        327
+      ],
+      "confidence": 0.9960441589355469
+    },
+    {
+      "text": "Mario",
+      "bbox": [
+        38,
+        319,
+        81,
+        341
+      ],
+      "confidence": 0.9117718935012817
+    },
+    {
+      "text": "1",
+      "bbox": [
+        370,
+        639,
+        379,
+        651
+      ],
+      "confidence": 0.9999420642852783
+    }
+  ],
+  "full_text": "From:\nOriginal Message--\nMario Bory [SMTP:mbory@gmrmarketing.com]\nSent:\nFriday, July 21, 2000 4:02 PM\nTo:\nMay Nivar\nCc:\nVicki Bemer; Stacey Weeks; Camille Cooke; Bobby Hinners\nSubjoct:\nMustang Incident\nMay-\nJohn Knight hit a deer last night with the Mustang on his way home from\nhe evenTe deer struck his front/driver side fender. producng a\nsmill dent. It sounds like the fender will have to be replaced and\ntherefore will not be available until repaired or replaced. I'm calling\nGreg as as soon as complete this e-mail to see if we can get another\nin.\nThank you,\nMario\n1"
+}

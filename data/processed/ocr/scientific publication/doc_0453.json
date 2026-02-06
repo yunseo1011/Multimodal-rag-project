@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0453.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        498,
+        42,
+        645,
+        70
+      ],
+      "confidence": 0.997511625289917
+    },
+    {
+      "text": "0CT 11 1985",
+      "bbox": [
+        519,
+        77,
+        630,
+        106
+      ],
+      "confidence": 0.9598479866981506
+    },
+    {
+      "text": "G. WEISSMAN",
+      "bbox": [
+        513,
+        120,
+        625,
+        141
+      ],
+      "confidence": 0.974059522151947
+    },
+    {
+      "text": "Health Physics Society, Chicago, I1linois, May 26-31, 1985",
+      "bbox": [
+        131,
+        238,
+        604,
+        274
+      ],
+      "confidence": 0.9770203232765198
+    },
+    {
+      "text": "The following abstract appeared in Health Physics 49/1: 122,",
+      "bbox": [
+        197,
+        268,
+        684,
+        304
+      ],
+      "confidence": 0.9925786852836609
+    },
+    {
+      "text": "July 1985",
+      "bbox": [
+        129,
+        298,
+        212,
+        323
+      ],
+      "confidence": 0.9905245304107666
+    },
+    {
+      "text": "GIES, R.A., CROSS, F.T. & DAGLE, G.E., Pacific Northwest Laboratories,",
+      "bbox": [
+        128,
+        317,
+        709,
+        355
+      ],
+      "confidence": 0.9739274978637695
+    },
+    {
+      "text": "Richland, Washington",
+      "bbox": [
+        130,
+        348,
+        300,
+        370
+      ],
+      "confidence": 0.9984729886054993
+    },
+    {
+      "text": "\"The protective role of cigarette smoking during exposure to pollutants.\"",
+      "bbox": [
+        130,
+        369,
+        728,
+        404
+      ],
+      "confidence": 0.9976868033409119
+    },
+    {
+      "text": "\"Hypotheses have emerged regarding the protective role of ciga-",
+      "bbox": [
+        196,
+        402,
+        714,
+        437
+      ],
+      "confidence": 0.9941854476928711
+    },
+    {
+      "text": "rette smoking during exposures to pollutants, viz, that clearance of",
+      "bbox": [
+        130,
+        419,
+        690,
+        457
+      ],
+      "confidence": 0.9970402717590332
+    },
+    {
+      "text": "pollutants is facilitated following smoking; mucus produced by cigarette",
+      "bbox": [
+        129,
+        434,
+        727,
+        475
+      ],
+      "confidence": 0.990337610244751
+    },
+    {
+      "text": "smoke exposures provides a shield to underlying sensitive cells; and/or",
+      "bbox": [
+        129,
+        448,
+        721,
+        495
+      ],
+      "confidence": 0.9839922189712524
+    },
+    {
+      "text": "cigarette smoking produces a thickening of bronchial epithelium which",
+      "bbox": [
+        131,
+        467,
+        705,
+        510
+      ],
+      "confidence": 0.9916988611221313
+    },
+    {
+      "text": "also shields underlying sensitive cells. Data examiningthese hypotheses",
+      "bbox": [
+        130,
+        484,
+        725,
+        530
+      ],
+      "confidence": 0.9825652241706848
+    },
+    {
+      "text": "are derived from previous studies of dogs exposed to radon, uranium",
+      "bbox": [
+        131,
+        501,
+        695,
+        548
+      ],
+      "confidence": 0.970361053943634
+    },
+    {
+      "text": "ore dust and cigarette smoke. In these studies it was noted that sig-",
+      "bbox": [
+        131,
+        518,
+        722,
+        563
+      ],
+      "confidence": 0.9736725091934204
+    },
+    {
+      "text": "similarly exposed to radon and uranium ore dust. Similar carcinogenic",
+      "bbox": [
+        132,
+        551,
+        727,
+        596
+      ],
+      "confidence": 0.9824862480163574
+    },
+    {
+      "text": "data exist in certain miner populations. Histopathologic and morpho-",
+      "bbox": [
+        133,
+        574,
+        722,
+        616
+      ],
+      "confidence": 0.9878587126731873
+    },
+    {
+      "text": "metric data regarding mucus cell populations and epithelial thickness",
+      "bbox": [
+        133,
+        591,
+        725,
+        634
+      ],
+      "confidence": 0.971251904964447
+    },
+    {
+      "text": "in the trachea and bronchi of these animals will be presented.\"",
+      "bbox": [
+        134,
+        612,
+        676,
+        650
+      ],
+      "confidence": 0.9838370680809021
+    }
+  ],
+  "full_text": "RECEIVED\n0CT 11 1985\nG. WEISSMAN\nHealth Physics Society, Chicago, I1linois, May 26-31, 1985\nThe following abstract appeared in Health Physics 49/1: 122,\nJuly 1985\nGIES, R.A., CROSS, F.T. & DAGLE, G.E., Pacific Northwest Laboratories,\nRichland, Washington\n\"The protective role of cigarette smoking during exposure to pollutants.\"\n\"Hypotheses have emerged regarding the protective role of ciga-\nrette smoking during exposures to pollutants, viz, that clearance of\npollutants is facilitated following smoking; mucus produced by cigarette\nsmoke exposures provides a shield to underlying sensitive cells; and/or\ncigarette smoking produces a thickening of bronchial epithelium which\nalso shields underlying sensitive cells. Data examiningthese hypotheses\nare derived from previous studies of dogs exposed to radon, uranium\nore dust and cigarette smoke. In these studies it was noted that sig-\nsimilarly exposed to radon and uranium ore dust. Similar carcinogenic\ndata exist in certain miner populations. Histopathologic and morpho-\nmetric data regarding mucus cell populations and epithelial thickness\nin the trachea and bronchi of these animals will be presented.\""
+}

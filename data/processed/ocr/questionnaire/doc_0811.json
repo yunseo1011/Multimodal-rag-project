@@ -1,0 +1,701 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0811.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "AR(EA QODR\"AND PHONE NUMBER)",
+      "bbox": [
+        34,
+        0,
+        200,
+        16
+      ],
+      "confidence": 0.902237057685852
+    },
+    {
+      "text": "Kapuler Marketing Research",
+      "bbox": [
+        412,
+        1,
+        570,
+        14
+      ],
+      "confidence": 0.9860331416130066
+    },
+    {
+      "text": "001186-2553",
+      "bbox": [
+        31,
+        16,
+        293,
+        47
+      ],
+      "confidence": 0.8395001888275146
+    },
+    {
+      "text": "Project #87-2879",
+      "bbox": [
+        410,
+        10,
+        511,
+        27
+      ],
+      "confidence": 0.9636635184288025
+    },
+    {
+      "text": "October 19, 1987",
+      "bbox": [
+        411,
+        22,
+        509,
+        38
+      ],
+      "confidence": 0.9707523584365845
+    },
+    {
+      "text": "Rep :",
+      "bbox": [
+        340,
+        66,
+        379,
+        80
+      ],
+      "confidence": 0.9756908416748047
+    },
+    {
+      "text": "FOR CEPPJCE USE ONLY:",
+      "bbox": [
+        26,
+        69,
+        159,
+        93
+      ],
+      "confidence": 0.8841524720191956
+    },
+    {
+      "text": "Page:",
+      "bbox": [
+        340,
+        78,
+        375,
+        92
+      ],
+      "confidence": 0.999061107635498
+    },
+    {
+      "text": "INTERVIEN#",
+      "bbox": [
+        34,
+        95,
+        109,
+        113
+      ],
+      "confidence": 0.9754392504692078
+    },
+    {
+      "text": "2065",
+      "bbox": [
+        153,
+        92,
+        196,
+        114
+      ],
+      "confidence": 0.9994930028915405
+    },
+    {
+      "text": "Name:",
+      "bbox": [
+        340,
+        91,
+        373,
+        102
+      ],
+      "confidence": 0.9868854284286499
+    },
+    {
+      "text": "Results:",
+      "bbox": [
+        340,
+        103,
+        389,
+        114
+      ],
+      "confidence": 0.9969425201416016
+    },
+    {
+      "text": "(2)2)3)4)",
+      "bbox": [
+        110,
+        114,
+        207,
+        134
+      ],
+      "confidence": 0.84613037109375
+    },
+    {
+      "text": "State:",
+      "bbox": [
+        339,
+        113,
+        380,
+        127
+      ],
+      "confidence": 0.9992707371711731
+    },
+    {
+      "text": "Duration:",
+      "bbox": [
+        340,
+        127,
+        399,
+        138
+      ],
+      "confidence": 0.9945471286773682
+    },
+    {
+      "text": "WAVE:",
+      "bbox": [
+        24,
+        155,
+        64,
+        177
+      ],
+      "confidence": 0.9836209416389465
+    },
+    {
+      "text": "SEX",
+      "bbox": [
+        180,
+        164,
+        202,
+        176
+      ],
+      "confidence": 0.9971206784248352
+    },
+    {
+      "text": "0.21: BRANDS RATED",
+      "bbox": [
+        332,
+        158,
+        451,
+        177
+      ],
+      "confidence": 0.9631021022796631
+    },
+    {
+      "text": "-1 10 weck",
+      "bbox": [
+        28,
+        177,
+        95,
+        192
+      ],
+      "confidence": 0.9035158157348633
+    },
+    {
+      "text": "Male",
+      "bbox": [
+        206,
+        179,
+        236,
+        195
+      ],
+      "confidence": 0.9349400401115417
+    },
+    {
+      "text": "-1",
+      "bbox": [
+        340,
+        182,
+        355,
+        193
+      ],
+      "confidence": 0.9050408005714417
+    },
+    {
+      "text": "Virginia Slime",
+      "bbox": [
+        360,
+        179,
+        449,
+        194
+      ],
+      "confidence": 0.9426769018173218
+    },
+    {
+      "text": "215 week",
+      "bbox": [
+        38,
+        194,
+        96,
+        212
+      ],
+      "confidence": 0.8581284880638123
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        116,
+        196,
+        139,
+        213
+      ],
+      "confidence": 0.9993320107460022
+    },
+    {
+      "text": "Female",
+      "bbox": [
+        206,
+        198,
+        248,
+        213
+      ],
+      "confidence": 0.9749074578285217
+    },
+    {
+      "text": "(6)",
+      "bbox": [
+        268,
+        197,
+        290,
+        214
+      ],
+      "confidence": 0.9893972873687744
+    },
+    {
+      "text": "2",
+      "bbox": [
+        341,
+        199,
+        357,
+        213
+      ],
+      "confidence": 0.7648580074310303
+    },
+    {
+      "text": "More",
+      "bbox": [
+        360,
+        198,
+        390,
+        213
+      ],
+      "confidence": 0.9992557168006897
+    },
+    {
+      "text": "(7)",
+      "bbox": [
+        465,
+        195,
+        485,
+        212
+      ],
+      "confidence": 0.9856407642364502
+    },
+    {
+      "text": "-3 20 weak",
+      "bbox": [
+        26,
+        212,
+        97,
+        229
+      ],
+      "confidence": 0.9150687456130981
+    },
+    {
+      "text": "Capri",
+      "bbox": [
+        362,
+        216,
+        396,
+        231
+      ],
+      "confidence": 0.9774723052978516
+    },
+    {
+      "text": "-4",
+      "bbox": [
+        340,
+        236,
+        355,
+        246
+      ],
+      "confidence": 0.7997638583183289
+    },
+    {
+      "text": "Salen",
+      "bbox": [
+        361,
+        234,
+        397,
+        248
+      ],
+      "confidence": 0.8797649145126343
+    },
+    {
+      "text": "5",
+      "bbox": [
+        340,
+        253,
+        355,
+        266
+      ],
+      "confidence": 0.9418365955352783
+    },
+    {
+      "text": "Benson and Hedges",
+      "bbox": [
+        361,
+        252,
+        467,
+        266
+      ],
+      "confidence": 0.9692451357841492
+    },
+    {
+      "text": "METRO CAPRI A&U",
+      "bbox": [
+        229,
+        302,
+        326,
+        322
+      ],
+      "confidence": 0.9450951218605042
+    },
+    {
+      "text": "Bello, I'm",
+      "bbox": [
+        18,
+        329,
+        87,
+        343
+      ],
+      "confidence": 0.9547405242919922
+    },
+    {
+      "text": "from Kapuler Marketing Research, a public opinion firm",
+      "bbox": [
+        181,
+        327,
+        511,
+        345
+      ],
+      "confidence": 0.987336277961731
+    },
+    {
+      "text": "in Ci:icago. We are condueting a national study about consumers' opinions of some",
+      "bbox": [
+        18,
+        342,
+        515,
+        356
+      ],
+      "confidence": 0.9558557868003845
+    },
+    {
+      "text": "households in the",
+      "bbox": [
+        17,
+        365,
+        131,
+        380
+      ],
+      "confidence": 0.9674094915390015
+    },
+    {
+      "text": "products you may use. Your phone number was selected at random fram all telephone",
+      "bbox": [
+        18,
+        355,
+        521,
+        368
+      ],
+      "confidence": 0.9686443209648132
+    },
+    {
+      "text": "area, and we would really appreciate your opinions for",
+      "bbox": [
+        181,
+        366,
+        509,
+        380
+      ],
+      "confidence": 0.9847115278244019
+    },
+    {
+      "text": "this study. I'd iIke to assure you that we are not selling any products, and your",
+      "bbox": [
+        16,
+        376,
+        521,
+        394
+      ],
+      "confidence": 0.9836318492889404
+    },
+    {
+      "text": "answers will be held in conplete confidence.",
+      "bbox": [
+        18,
+        391,
+        294,
+        404
+      ],
+      "confidence": 0.9686692953109741
+    },
+    {
+      "text": "A. May I please speak to sonecne 21 years of age or older? :'",
+      "bbox": [
+        15,
+        413,
+        401,
+        430
+      ],
+      "confidence": 0.9466696381568909
+    },
+    {
+      "text": "-1",
+      "bbox": [
+        83,
+        440,
+        99,
+        453
+      ],
+      "confidence": 0.7659957408905029
+    },
+    {
+      "text": "No one in household 21 or older ...> (TERMINATE)",
+      "bbox": [
+        113,
+        439,
+        405,
+        453
+      ],
+      "confidence": 0.9606330990791321
+    },
+    {
+      "text": "②",
+      "bbox": [
+        82,
+        454,
+        101,
+        473
+      ],
+      "confidence": 0.8978058099746704
+    },
+    {
+      "text": "On/calied to phone ...> (0o to Q.B)",
+      "bbox": [
+        112,
+        454,
+        330,
+        473
+      ],
+      "confidence": 0.9422767758369446
+    },
+    {
+      "text": "UhaVailable ...> (SET UP CALLBACK)",
+      "bbox": [
+        111,
+        472,
+        323,
+        492
+      ],
+      "confidence": 0.9341139197349548
+    },
+    {
+      "text": "3",
+      "bbox": [
+        80,
+        476,
+        100,
+        492
+      ],
+      "confidence": 0.9688394069671631
+    },
+    {
+      "text": "Loer wary people, 21 years of age or clder, in your household...",
+      "bbox": [
+        45,
+        495,
+        436,
+        517
+      ],
+      "confidence": 0.9604500532150269
+    },
+    {
+      "text": "B",
+      "bbox": [
+        15,
+        503,
+        33,
+        516
+      ],
+      "confidence": 0.9993441700935364
+    },
+    {
+      "text": "Drink diet bevernges?",
+      "bbox": [
+        79,
+        521,
+        214,
+        540
+      ],
+      "confidence": 0.9955452680587769
+    },
+    {
+      "text": "Snoke cigarettes?",
+      "bbox": [
+        78,
+        539,
+        191,
+        559
+      ],
+      "confidence": 0.9702010154724121
+    },
+    {
+      "text": "Bat Mexican food",
+      "bbox": [
+        77,
+        557,
+        185,
+        578
+      ],
+      "confidence": 0.9976051449775696
+    },
+    {
+      "text": "(IF \"NONE\" TO SMOKE CIGARETTES, TERMINATE, IF ONE, ASK POR THAT PERSON THEN",
+      "bbox": [
+        46,
+        577,
+        516,
+        603
+      ],
+      "confidence": 0.947192907333374
+    },
+    {
+      "text": "ASK Q.C AND OO TO Q.E ON THE NEXT PAGE. IF MORE THAN ONE, CONTINUE WITH Q.C",
+      "bbox": [
+        43,
+        590,
+        516,
+        615
+      ],
+      "confidence": 0.9656634330749512
+    },
+    {
+      "text": "AND Q.D)",
+      "bbox": [
+        43,
+        608,
+        102,
+        627
+      ],
+      "confidence": 0.9099153280258179
+    },
+    {
+      "text": "Do you, or does anyone in your immediate family work for...(IP YES To ANY,",
+      "bbox": [
+        45,
+        628,
+        500,
+        650
+      ],
+      "confidence": 0.9728863835334778
+    },
+    {
+      "text": "SEVUNATE Q.C.)",
+      "bbox": [
+        45,
+        643,
+        146,
+        663
+      ],
+      "confidence": 0.7939829230308533
+    },
+    {
+      "text": "N-1",
+      "bbox": [
+        64,
+        667,
+        98,
+        686
+      ],
+      "confidence": 0.746455192565918
+    },
+    {
+      "text": "An advertising agency or advertiaing departnent of a compary",
+      "bbox": [
+        107,
+        665,
+        476,
+        686
+      ],
+      "confidence": 0.9882358908653259
+    },
+    {
+      "text": "N-2 A cigarette mamfacturer or tobaceo distributor",
+      "bbox": [
+        61,
+        681,
+        402,
+        706
+      ],
+      "confidence": 0.9552147388458252
+    },
+    {
+      "text": "A magazine, newspaper, redio or televisicn station",
+      "bbox": [
+        98,
+        702,
+        417,
+        723
+      ],
+      "confidence": 0.9855025410652161
+    },
+    {
+      "text": "N-4",
+      "bbox": [
+        63,
+        723,
+        99,
+        742
+      ],
+      "confidence": 0.6081553101539612
+    },
+    {
+      "text": "A mrketing rescarch compary or marketing research departnent",
+      "bbox": [
+        106,
+        718,
+        483,
+        741
+      ],
+      "confidence": 0.9762036800384521
+    },
+    {
+      "text": "of a carpany",
+      "bbox": [
+        110,
+        737,
+        189,
+        751
+      ],
+      "confidence": 0.9084762930870056
+    },
+    {
+      "text": "466911010",
+      "bbox": [
+        440,
+        911,
+        541,
+        934
+      ],
+      "confidence": 0.999835729598999
+    }
+  ],
+  "full_text": "AR(EA QODR\"AND PHONE NUMBER)\nKapuler Marketing Research\n001186-2553\nProject #87-2879\nOctober 19, 1987\nRep :\nFOR CEPPJCE USE ONLY:\nPage:\nINTERVIEN#\n2065\nName:\nResults:\n(2)2)3)4)\nState:\nDuration:\nWAVE:\nSEX\n0.21: BRANDS RATED\n-1 10 weck\nMale\n-1\nVirginia Slime\n215 week\n(5)\nFemale\n(6)\n2\nMore\n(7)\n-3 20 weak\nCapri\n-4\nSalen\n5\nBenson and Hedges\nMETRO CAPRI A&U\nBello, I'm\nfrom Kapuler Marketing Research, a public opinion firm\nin Ci:icago. We are condueting a national study about consumers' opinions of some\nhouseholds in the\nproducts you may use. Your phone number was selected at random fram all telephone\narea, and we would really appreciate your opinions for\nthis study. I'd iIke to assure you that we are not selling any products, and your\nanswers will be held in conplete confidence.\nA. May I please speak to sonecne 21 years of age or older? :'\n-1\nNo one in household 21 or older ...> (TERMINATE)\n②\nOn/calied to phone ...> (0o to Q.B)\nUhaVailable ...> (SET UP CALLBACK)\n3\nLoer wary people, 21 years of age or clder, in your household...\nB\nDrink diet bevernges?\nSnoke cigarettes?\nBat Mexican food\n(IF \"NONE\" TO SMOKE CIGARETTES, TERMINATE, IF ONE, ASK POR THAT PERSON THEN\nASK Q.C AND OO TO Q.E ON THE NEXT PAGE. IF MORE THAN ONE, CONTINUE WITH Q.C\nAND Q.D)\nDo you, or does anyone in your immediate family work for...(IP YES To ANY,\nSEVUNATE Q.C.)\nN-1\nAn advertising agency or advertiaing departnent of a compary\nN-2 A cigarette mamfacturer or tobaceo distributor\nA magazine, newspaper, redio or televisicn station\nN-4\nA mrketing rescarch compary or marketing research departnent\nof a carpany\n466911010"
+}

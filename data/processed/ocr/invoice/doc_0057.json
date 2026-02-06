@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0057.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJRT FOAM 9B5-ReY. 7/70",
+      "bbox": [
+        18,
+        28,
+        153,
+        41
+      ],
+      "confidence": 0.9266230463981628
+    },
+    {
+      "text": "R.J.Reynolds Tobacco Company",
+      "bbox": [
+        15,
+        47,
+        406,
+        83
+      ],
+      "confidence": 0.9996170401573181
+    },
+    {
+      "text": "Winston-Salem, N.C. 27102",
+      "bbox": [
+        16,
+        76,
+        232,
+        105
+      ],
+      "confidence": 0.999519944190979
+    },
+    {
+      "text": "SOLD TO",
+      "bbox": [
+        16,
+        117,
+        85,
+        139
+      ],
+      "confidence": 0.9991387128829956
+    },
+    {
+      "text": "The Council for Tobacco Research",
+      "bbox": [
+        86,
+        167,
+        305,
+        188
+      ],
+      "confidence": 0.979110836982727
+    },
+    {
+      "text": "August 8, 1972",
+      "bbox": [
+        586,
+        159,
+        690,
+        185
+      ],
+      "confidence": 0.9981732368469238
+    },
+    {
+      "text": "110 East 59th Street",
+      "bbox": [
+        87,
+        185,
+        219,
+        206
+      ],
+      "confidence": 0.9920749664306641
+    },
+    {
+      "text": "New York, New York 10022",
+      "bbox": [
+        86,
+        201,
+        287,
+        223
+      ],
+      "confidence": 0.9523189663887024
+    },
+    {
+      "text": "TERMS:",
+      "bbox": [
+        594,
+        198,
+        651,
+        219
+      ],
+      "confidence": 0.9997326731681824
+    },
+    {
+      "text": "Attention: Mr. W. T. Hoyt, Executive Director",
+      "bbox": [
+        86,
+        233,
+        402,
+        258
+      ],
+      "confidence": 0.972354531288147
+    },
+    {
+      "text": "Services performed on the Mason Research project during month of June, 1972.",
+      "bbox": [
+        85,
+        376,
+        596,
+        400
+      ],
+      "confidence": 0.991396963596344
+    },
+    {
+      "text": "$1,182.00",
+      "bbox": [
+        625,
+        372,
+        704,
+        400
+      ],
+      "confidence": 0.9465389251708984
+    },
+    {
+      "text": "MENTS OF SECTIONS 6, 7 AND 12 OF THE FAIR LABOR STANDARDS ACT. AS AMENDED AND OF REGULATIONS AND",
+      "bbox": [
+        18,
+        583,
+        616,
+        603
+      ],
+      "confidence": 0.9839193224906921
+    },
+    {
+      "text": "ORDERS OF THE UNITED STATES DEPARTMENT OF LABOR ISSUED UNDER SECTION 14 THEREOF.\"",
+      "bbox": [
+        19,
+        594,
+        526,
+        613
+      ],
+      "confidence": 0.9830737709999084
+    },
+    {
+      "text": "CTR CONTRACTS OO1187",
+      "bbox": [
+        375,
+        933,
+        707,
+        963
+      ],
+      "confidence": 0.9513202905654907
+    }
+  ],
+  "full_text": "RJRT FOAM 9B5-ReY. 7/70\nR.J.Reynolds Tobacco Company\nWinston-Salem, N.C. 27102\nSOLD TO\nThe Council for Tobacco Research\nAugust 8, 1972\n110 East 59th Street\nNew York, New York 10022\nTERMS:\nAttention: Mr. W. T. Hoyt, Executive Director\nServices performed on the Mason Research project during month of June, 1972.\n$1,182.00\nMENTS OF SECTIONS 6, 7 AND 12 OF THE FAIR LABOR STANDARDS ACT. AS AMENDED AND OF REGULATIONS AND\nORDERS OF THE UNITED STATES DEPARTMENT OF LABOR ISSUED UNDER SECTION 14 THEREOF.\"\nCTR CONTRACTS OO1187"
+}

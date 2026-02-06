@@ -1,0 +1,901 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0285.png",
+    "image_width": 790,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "West.J.Surg. 63: 265-267",
+      "bbox": [
+        300,
+        0,
+        757,
+        42
+      ],
+      "confidence": 0.8968979716300964
+    },
+    {
+      "text": "(1955,",
+      "bbox": [
+        699,
+        29,
+        784,
+        67
+      ],
+      "confidence": 0.9806491732597351
+    },
+    {
+      "text": "L577 D09",
+      "bbox": [
+        384,
+        43,
+        588,
+        87
+      ],
+      "confidence": 0.912429690361023
+    },
+    {
+      "text": "The Incidence of Lung Tumors",
+      "bbox": [
+        63,
+        77,
+        375,
+        110
+      ],
+      "confidence": 0.9993413090705872
+    },
+    {
+      "text": "In Albino Mice Exposed to the",
+      "bbox": [
+        61,
+        103,
+        374,
+        134
+      ],
+      "confidence": 0.9928066730499268
+    },
+    {
+      "text": "ABSTRACT",
+      "bbox": [
+        507,
+        102,
+        566,
+        112
+      ],
+      "confidence": 0.9983696937561035
+    },
+    {
+      "text": "This study is based on 36 experimental",
+      "bbox": [
+        420,
+        114,
+        669,
+        130
+      ],
+      "confidence": 0.9988341927528381
+    },
+    {
+      "text": "Smoke From Cigarettes Low",
+      "bbox": [
+        71,
+        128,
+        361,
+        161
+      ],
+      "confidence": 0.9927392601966858
+    },
+    {
+      "text": "and 37 control A/Jax mice. The experi-",
+      "bbox": [
+        405,
+        128,
+        669,
+        146
+      ],
+      "confidence": 0.9907591938972473
+    },
+    {
+      "text": "In Nicotine Content",
+      "bbox": [
+        112,
+        155,
+        318,
+        183
+      ],
+      "confidence": 0.9943429827690125
+    },
+    {
+      "text": "mental mice were exposed to the smoke of",
+      "bbox": [
+        404,
+        143,
+        671,
+        162
+      ],
+      "confidence": 0.9853575825691223
+    },
+    {
+      "text": "cigarettes low in nicotine content (0.78 per",
+      "bbox": [
+        404,
+        159,
+        671,
+        180
+      ],
+      "confidence": 0.9923067688941956
+    },
+    {
+      "text": "cent) at the rate of twelve per day for one",
+      "bbox": [
+        404,
+        174,
+        672,
+        195
+      ],
+      "confidence": 0.9955199360847473
+    },
+    {
+      "text": "J. M. EsseNBERG, Pu.D.",
+      "bbox": [
+        131,
+        195,
+        295,
+        216
+      ],
+      "confidence": 0.9078999161720276
+    },
+    {
+      "text": "year. The control nice lived under the same",
+      "bbox": [
+        403,
+        189,
+        672,
+        210
+      ],
+      "confidence": 0.9543218612670898
+    },
+    {
+      "text": "MARCEL HOROWITZ, A.B.",
+      "bbox": [
+        129,
+        211,
+        293,
+        231
+      ],
+      "confidence": 0.8319103717803955
+    },
+    {
+      "text": "condlitions except for the smoke. The results",
+      "bbox": [
+        403,
+        205,
+        672,
+        224
+      ],
+      "confidence": 0.9791197776794434
+    },
+    {
+      "text": "Edward Gaffney",
+      "bbox": [
+        152,
+        227,
+        276,
+        247
+      ],
+      "confidence": 0.947024405002594
+    },
+    {
+      "text": "show that the experimental mice generate",
+      "bbox": [
+        402,
+        220,
+        672,
+        241
+      ],
+      "confidence": 0.9959293603897095
+    },
+    {
+      "text": "CHICAGO, II.LINOIS",
+      "bbox": [
+        157,
+        245,
+        273,
+        260
+      ],
+      "confidence": 0.9648841023445129
+    },
+    {
+      "text": "24 per cent more tumors than the controls.",
+      "bbox": [
+        402,
+        237,
+        671,
+        256
+      ],
+      "confidence": 0.9929831624031067
+    },
+    {
+      "text": "In a previous studly, cigarettes of high nico-",
+      "bbox": [
+        403,
+        253,
+        672,
+        273
+      ],
+      "confidence": 0.984103262424469
+    },
+    {
+      "text": "From tbe Departmient of Anatomy,",
+      "bbox": [
+        96,
+        273,
+        332,
+        297
+      ],
+      "confidence": 0.9132939577102661
+    },
+    {
+      "text": "tine content (2.09 per cent) were used and",
+      "bbox": [
+        403,
+        269,
+        673,
+        289
+      ],
+      "confidence": 0.9693315625190735
+    },
+    {
+      "text": "the Chicago Medical Scbool",
+      "bbox": [
+        128,
+        290,
+        300,
+        311
+      ],
+      "confidence": 0.9821913242340088
+    },
+    {
+      "text": "the preponderance of tumors in this experi-",
+      "bbox": [
+        403,
+        285,
+        673,
+        306
+      ],
+      "confidence": 0.9705934524536133
+    },
+    {
+      "text": "ment was 31.9 per cent. Assuming that the",
+      "bbox": [
+        402,
+        301,
+        674,
+        322
+      ],
+      "confidence": 0.9963032007217407
+    },
+    {
+      "text": "two kinds of cigarettes used are comparable",
+      "bbox": [
+        403,
+        317,
+        674,
+        338
+      ],
+      "confidence": 0.9799968600273132
+    },
+    {
+      "text": "as to ingredients except for the nicotine con-",
+      "bbox": [
+        403,
+        334,
+        674,
+        354
+      ],
+      "confidence": 0.9923483729362488
+    },
+    {
+      "text": "that both adenomas and carcinomas of",
+      "bbox": [
+        89,
+        338,
+        372,
+        363
+      ],
+      "confidence": 0.9833419322967529
+    },
+    {
+      "text": "tent, it appears thait tumor production in the",
+      "bbox": [
+        402,
+        350,
+        674,
+        370
+      ],
+      "confidence": 0.984130859375
+    },
+    {
+      "text": "the lung can be produced in large number by",
+      "bbox": [
+        59,
+        354,
+        371,
+        379
+      ],
+      "confidence": 0.9552479982376099
+    },
+    {
+      "text": "lungs of mice varies with the nicotine con-",
+      "bbox": [
+        402,
+        366,
+        674,
+        386
+      ],
+      "confidence": 0.9821169376373291
+    },
+    {
+      "text": "exposing mice to the smoke of standard brand",
+      "bbox": [
+        58,
+        370,
+        372,
+        395
+      ],
+      "confidence": 0.9890153408050537
+    },
+    {
+      "text": "cigarettes for the duration of 14 months.",
+      "bbox": [
+        58,
+        387,
+        370,
+        409
+      ],
+      "confidence": 0.9953942894935608
+    },
+    {
+      "text": "tent of the cigarette.",
+      "bbox": [
+        402,
+        383,
+        530,
+        401
+      ],
+      "confidence": 0.9967193603515625
+    },
+    {
+      "text": "Since cigarettes contain a number of ingredi-",
+      "bbox": [
+        56,
+        401,
+        370,
+        427
+      ],
+      "confidence": 0.991287887096405
+    },
+    {
+      "text": "ents which may act singly or in combination",
+      "bbox": [
+        57,
+        420,
+        370,
+        442
+      ],
+      "confidence": 0.9873877167701721
+    },
+    {
+      "text": "chine. This machine, as previously described,'",
+      "bbox": [
+        383,
+        424,
+        690,
+        443
+      ],
+      "confidence": 0.9852907657623291
+    },
+    {
+      "text": "as carcinogenic agents on the lung, it is obvi-",
+      "bbox": [
+        56,
+        436,
+        369,
+        458
+      ],
+      "confidence": 0.994833767414093
+    },
+    {
+      "text": "smokes twelve cigarettes daily, one per hour.",
+      "bbox": [
+        382,
+        442,
+        691,
+        460
+      ],
+      "confidence": 0.9757083654403687
+    },
+    {
+      "text": "ous that the most commonly suspected ones",
+      "bbox": [
+        56,
+        453,
+        370,
+        475
+      ],
+      "confidence": 0.9907568097114563
+    },
+    {
+      "text": "should be studied separately and the effects",
+      "bbox": [
+        56,
+        469,
+        369,
+        490
+      ],
+      "confidence": 0.988508939743042
+    },
+    {
+      "text": "A new colony of mice, however, must be in-",
+      "bbox": [
+        383,
+        458,
+        692,
+        476
+      ],
+      "confidence": 0.9792611002922058
+    },
+    {
+      "text": "evaluated. These include the nicotine con-",
+      "bbox": [
+        55,
+        484,
+        370,
+        506
+      ],
+      "confidence": 0.9934792518615723
+    },
+    {
+      "text": "troduced to the smoke on reduced rations,",
+      "bbox": [
+        383,
+        474,
+        692,
+        493
+      ],
+      "confidence": 0.9915265440940857
+    },
+    {
+      "text": "tent, the cigarette paper, and the arsenic in",
+      "bbox": [
+        55,
+        501,
+        369,
+        521
+      ],
+      "confidence": 0.9846958518028259
+    },
+    {
+      "text": "one-third to one-half of a cigarette per hour",
+      "bbox": [
+        382,
+        489,
+        693,
+        508
+      ],
+      "confidence": 0.9925199747085571
+    },
+    {
+      "text": "cigarettes. A study on the nicotine content",
+      "bbox": [
+        55,
+        516,
+        369,
+        536
+      ],
+      "confidence": 0.9832041263580322
+    },
+    {
+      "text": "for the first two days. Then the experimental",
+      "bbox": [
+        384,
+        505,
+        691,
+        523
+      ],
+      "confidence": 0.9862316846847534
+    },
+    {
+      "text": "in the cigarette has been completed and the",
+      "bbox": [
+        54,
+        531,
+        368,
+        551
+      ],
+      "confidence": 0.9938093423843384
+    },
+    {
+      "text": "mice received their full dosage of twelve cig-",
+      "bbox": [
+        382,
+        520,
+        692,
+        539
+      ],
+      "confidence": 0.970242977142334
+    },
+    {
+      "text": "results are reported in the present article.",
+      "bbox": [
+        54,
+        547,
+        337,
+        568
+      ],
+      "confidence": 0.9877321124076843
+    },
+    {
+      "text": "arettes per day, except Sundays, for one year.",
+      "bbox": [
+        382,
+        536,
+        694,
+        554
+      ],
+      "confidence": 0.9916190505027771
+    },
+    {
+      "text": "The control mice had exactly the same envi-",
+      "bbox": [
+        383,
+        551,
+        693,
+        570
+      ],
+      "confidence": 0.9801498055458069
+    },
+    {
+      "text": "MATERIALS AND METHIODS",
+      "bbox": [
+        120,
+        566,
+        304,
+        583
+      ],
+      "confidence": 0.9445238709449768
+    },
+    {
+      "text": "ronment as the experimental animals except",
+      "bbox": [
+        385,
+        570,
+        693,
+        584
+      ],
+      "confidence": 0.987423837184906
+    },
+    {
+      "text": "The experiment was started with 73 young,",
+      "bbox": [
+        72,
+        579,
+        368,
+        601
+      ],
+      "confidence": 0.9910691380500793
+    },
+    {
+      "text": "for the smoke. Fresh air circulated through",
+      "bbox": [
+        383,
+        583,
+        694,
+        602
+      ],
+      "confidence": 0.9878685474395752
+    },
+    {
+      "text": "sexually mature A/Jax mice. Of these, 36",
+      "bbox": [
+        55,
+        596,
+        368,
+        615
+      ],
+      "confidence": 0.971788227558136
+    },
+    {
+      "text": "both cages continually. Food in the form of",
+      "bbox": [
+        385,
+        601,
+        693,
+        615
+      ],
+      "confidence": 0.9901978969573975
+    },
+    {
+      "text": "verved as experimental and 37 as control ani-",
+      "bbox": [
+        58,
+        611,
+        368,
+        631
+      ],
+      "confidence": 0.9620275497436523
+    },
+    {
+      "text": "Purina pellets and water were always avail-",
+      "bbox": [
+        383,
+        614,
+        694,
+        632
+      ],
+      "confidence": 0.9685103893280029
+    },
+    {
+      "text": "mals. The sexes were divided about equally",
+      "bbox": [
+        57,
+        627,
+        368,
+        647
+      ],
+      "confidence": 0.9891113042831421
+    },
+    {
+      "text": "able. At the end of the experiment, all the",
+      "bbox": [
+        383,
+        630,
+        694,
+        648
+      ],
+      "confidence": 0.9881808161735535
+    },
+    {
+      "text": "in both groups. The tobacco of each cigarette",
+      "bbox": [
+        56,
+        642,
+        371,
+        665
+      ],
+      "confidence": 0.9962917566299438
+    },
+    {
+      "text": "animals were killed at the same time and fixed",
+      "bbox": [
+        384,
+        649,
+        692,
+        663
+      ],
+      "confidence": 0.9920304417610168
+    },
+    {
+      "text": "used in this experiment contained 0.78 per",
+      "bbox": [
+        58,
+        659,
+        370,
+        681
+      ],
+      "confidence": 0.972187876701355
+    },
+    {
+      "text": "by the perfusion method. Animals becoming",
+      "bbox": [
+        382,
+        661,
+        694,
+        684
+      ],
+      "confidence": 0.9878017902374268
+    },
+    {
+      "text": "cent nicotine by weight according to chemical",
+      "bbox": [
+        58,
+        675,
+        369,
+        696
+      ],
+      "confidence": 0.9969401955604553
+    },
+    {
+      "text": "ill or dying during the first two months of",
+      "bbox": [
+        383,
+        681,
+        693,
+        696
+      ],
+      "confidence": 0.9685612916946411
+    },
+    {
+      "text": "analysis. The animals were first acclimated",
+      "bbox": [
+        59,
+        691,
+        369,
+        712
+      ],
+      "confidence": 0.9977487325668335
+    },
+    {
+      "text": "the experiment were eliminated from the",
+      "bbox": [
+        382,
+        695,
+        693,
+        713
+      ],
+      "confidence": 0.9907568097114563
+    },
+    {
+      "text": "to their new surroundings; then the experi-",
+      "bbox": [
+        59,
+        708,
+        369,
+        727
+      ],
+      "confidence": 0.9767690896987915
+    },
+    {
+      "text": "mental group of mice was placed in the simok-",
+      "bbox": [
+        59,
+        724,
+        369,
+        742
+      ],
+      "confidence": 0.9820448756217957
+    },
+    {
+      "text": "during the sixth month of the experiment.",
+      "bbox": [
+        383,
+        726,
+        692,
+        745
+      ],
+      "confidence": 0.9924470782279968
+    },
+    {
+      "text": "study. Two experimental mice became ill",
+      "bbox": [
+        384,
+        713,
+        693,
+        727
+      ],
+      "confidence": 0.9891164898872375
+    },
+    {
+      "text": "ing chamber and the control mice in the",
+      "bbox": [
+        59,
+        740,
+        369,
+        758
+      ],
+      "confidence": 0.9874495267868042
+    },
+    {
+      "text": "They also were killed and preserved as above.",
+      "bbox": [
+        382,
+        741,
+        692,
+        761
+      ],
+      "confidence": 0.9985910058021545
+    },
+    {
+      "text": "control cage 'of the automatic smoking ma-",
+      "bbox": [
+        58,
+        756,
+        370,
+        774
+      ],
+      "confidence": 0.9894648194313049
+    },
+    {
+      "text": "The equation was balanced by killing two",
+      "bbox": [
+        382,
+        757,
+        692,
+        778
+      ],
+      "confidence": 0.9736903309822083
+    },
+    {
+      "text": "2029221711",
+      "bbox": [
+        728,
+        782,
+        770,
+        939
+      ],
+      "confidence": 0.999714732170105
+    },
+    {
+      "text": "Received B.S. and Pg.B. Jegrces from the Valapariso University, 1913;",
+      "bbox": [
+        240,
+        811,
+        692,
+        834
+      ],
+      "confidence": 0.9738953113555908
+    },
+    {
+      "text": "Ph.D. degree in Embryology from the University of Chicago, 1922. Taught",
+      "bbox": [
+        238,
+        834,
+        691,
+        855
+      ],
+      "confidence": 0.9913579225540161
+    },
+    {
+      "text": "H istology at the University of Missouri Medical School; Gross Anatomy",
+      "bbox": [
+        239,
+        856,
+        691,
+        876
+      ],
+      "confidence": 0.9727512001991272
+    },
+    {
+      "text": "at the University of Oklahoms School of Medicine; Micro-Anatomy at",
+      "bbox": [
+        238,
+        878,
+        690,
+        898
+      ],
+      "confidence": 0.9721484184265137
+    },
+    {
+      "text": "Loyola University School of Mcdicine. At present is Professor of Mfiero-",
+      "bbox": [
+        239,
+        901,
+        688,
+        917
+      ],
+      "confidence": 0.9647892713546753
+    },
+    {
+      "text": "Anatomy at the Chicago Medical School. Member, American Association",
+      "bbox": [
+        241,
+        923,
+        687,
+        938
+      ],
+      "confidence": 0.9666735529899597
+    },
+    {
+      "text": "of Anatomists; and American Association for the Advancement of Science.",
+      "bbox": [
+        240,
+        945,
+        687,
+        959
+      ],
+      "confidence": 0.9878722429275513
+    }
+  ],
+  "full_text": "West.J.Surg. 63: 265-267\n(1955,\nL577 D09\nThe Incidence of Lung Tumors\nIn Albino Mice Exposed to the\nABSTRACT\nThis study is based on 36 experimental\nSmoke From Cigarettes Low\nand 37 control A/Jax mice. The experi-\nIn Nicotine Content\nmental mice were exposed to the smoke of\ncigarettes low in nicotine content (0.78 per\ncent) at the rate of twelve per day for one\nJ. M. EsseNBERG, Pu.D.\nyear. The control nice lived under the same\nMARCEL HOROWITZ, A.B.\ncondlitions except for the smoke. The results\nEdward Gaffney\nshow that the experimental mice generate\nCHICAGO, II.LINOIS\n24 per cent more tumors than the controls.\nIn a previous studly, cigarettes of high nico-\nFrom tbe Departmient of Anatomy,\ntine content (2.09 per cent) were used and\nthe Chicago Medical Scbool\nthe preponderance of tumors in this experi-\nment was 31.9 per cent. Assuming that the\ntwo kinds of cigarettes used are comparable\nas to ingredients except for the nicotine con-\nthat both adenomas and carcinomas of\ntent, it appears thait tumor production in the\nthe lung can be produced in large number by\nlungs of mice varies with the nicotine con-\nexposing mice to the smoke of standard brand\ncigarettes for the duration of 14 months.\ntent of the cigarette.\nSince cigarettes contain a number of ingredi-\nents which may act singly or in combination\nchine. This machine, as previously described,'\nas carcinogenic agents on the lung, it is obvi-\nsmokes twelve cigarettes daily, one per hour.\nous that the most commonly suspected ones\nshould be studied separately and the effects\nA new colony of mice, however, must be in-\nevaluated. These include the nicotine con-\ntroduced to the smoke on reduced rations,\ntent, the cigarette paper, and the arsenic in\none-third to one-half of a cigarette per hour\ncigarettes. A study on the nicotine content\nfor the first two days. Then the experimental\nin the cigarette has been completed and the\nmice received their full dosage of twelve cig-\nresults are reported in the present article.\narettes per day, except Sundays, for one year.\nThe control mice had exactly the same envi-\nMATERIALS AND METHIODS\nronment as the experimental animals except\nThe experiment was started with 73 young,\nfor the smoke. Fresh air circulated through\nsexually mature A/Jax mice. Of these, 36\nboth cages continually. Food in the form of\nverved as experimental and 37 as control ani-\nPurina pellets and water were always avail-\nmals. The sexes were divided about equally\nable. At the end of the experiment, all the\nin both groups. The tobacco of each cigarette\nanimals were killed at the same time and fixed\nused in this experiment contained 0.78 per\nby the perfusion method. Animals becoming\ncent nicotine by weight according to chemical\nill or dying during the first two months of\nanalysis. The animals were first acclimated\nthe experiment were eliminated from the\nto their new surroundings; then the experi-\nmental group of mice was placed in the simok-\nduring the sixth month of the experiment.\nstudy. Two experimental mice became ill\ning chamber and the control mice in the\nThey also were killed and preserved as above.\ncontrol cage 'of the automatic smoking ma-\nThe equation was balanced by killing two\n2029221711\nReceived B.S. and Pg.B. Jegrces from the Valapariso University, 1913;\nPh.D. degree in Embryology from the University of Chicago, 1922. Taught\nH istology at the University of Missouri Medical School; Gross Anatomy\nat the University of Oklahoms School of Medicine; Micro-Anatomy at\nLoyola University School of Mcdicine. At present is Professor of Mfiero-\nAnatomy at the Chicago Medical School. Member, American Association\nof Anatomists; and American Association for the Advancement of Science."
+}

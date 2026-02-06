@@ -1,0 +1,131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0264.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SCHwEITzeR, (Johann) Paul, chemist; b. Berlin,",
+      "bbox": [
+        63,
+        315,
+        507,
+        341
+      ],
+      "confidence": 0.9119892120361328
+    },
+    {
+      "text": "Germany, Mar. 16. 1840; s. A. F. T. atid Julla",
+      "bbox": [
+        44,
+        333,
+        510,
+        361
+      ],
+      "confidence": 0.9120714664459229
+    },
+    {
+      "text": "(HoTHne S.; Ph.D., U. of GoftingEn, 1SGg;IL.D).",
+      "bbox": [
+        45,
+        351,
+        506,
+        379
+      ],
+      "confidence": 0.757424533367157
+    },
+    {
+      "text": "U. of Mo., 1897; m. Sarah Howard, June 18. 1870.",
+      "bbox": [
+        43,
+        369,
+        509,
+        397
+      ],
+      "confidence": 0.9375723004341125
+    },
+    {
+      "text": "Asst. to H. Rose, Berlin, 18o3, Poly. Inst., Ihila..",
+      "bbox": [
+        43,
+        388,
+        506,
+        414
+      ],
+      "confidence": 0.9125069975852966
+    },
+    {
+      "text": "1865, Seb. of Mines (Columbia), 186b; prof. chemn-",
+      "bbox": [
+        41,
+        404,
+        508,
+        434
+      ],
+      "confidence": 0.8914961218833923
+    },
+    {
+      "text": "istry, 1872-94, prof. agrl. chemistry. 1874-1906, chen-",
+      "bbox": [
+        40,
+        422,
+        508,
+        453
+      ],
+      "confidence": 0.9346432685852051
+    },
+    {
+      "text": "ist, Expt. Sta., 1887-1908, U. of Mo. (eld medal",
+      "bbox": [
+        38,
+        439,
+        508,
+        471
+      ],
+      "confidence": 0.9042157530784607
+    },
+    {
+      "text": "Parls Expn., i9oo. Author of numerous papcrs on",
+      "bbox": [
+        38,
+        458,
+        509,
+        490
+      ],
+      "confidence": 0.8987835645675659
+    },
+    {
+      "text": "chem. subjects in scientifie jours. anì Agri. Sta.",
+      "bbox": [
+        37,
+        478,
+        506,
+        507
+      ],
+      "confidence": 0.9357427358627319
+    },
+    {
+      "text": "bulls. Address: Coluinbia, Mo. Died 19i1.",
+      "bbox": [
+        36,
+        494,
+        418,
+        525
+      ],
+      "confidence": 0.9336956143379211
+    },
+    {
+      "text": ": : i:",
+      "bbox": [
+        621,
+        974,
+        657,
+        985
+      ],
+      "confidence": 0.7031152844429016
+    }
+  ],
+  "full_text": "SCHwEITzeR, (Johann) Paul, chemist; b. Berlin,\nGermany, Mar. 16. 1840; s. A. F. T. atid Julla\n(HoTHne S.; Ph.D., U. of GoftingEn, 1SGg;IL.D).\nU. of Mo., 1897; m. Sarah Howard, June 18. 1870.\nAsst. to H. Rose, Berlin, 18o3, Poly. Inst., Ihila..\n1865, Seb. of Mines (Columbia), 186b; prof. chemn-\nistry, 1872-94, prof. agrl. chemistry. 1874-1906, chen-\nist, Expt. Sta., 1887-1908, U. of Mo. (eld medal\nParls Expn., i9oo. Author of numerous papcrs on\nchem. subjects in scientifie jours. anì Agri. Sta.\nbulls. Address: Coluinbia, Mo. Died 19i1.\n: : i:"
+}

@@ -1,0 +1,1181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0272.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FL-0468",
+      "bbox": [
+        80,
+        212,
+        121,
+        226
+      ],
+      "confidence": 0.960975706577301
+    },
+    {
+      "text": "VERO BERCH. FL",
+      "bbox": [
+        78,
+        237,
+        157,
+        255
+      ],
+      "confidence": 0.9465078711509705
+    },
+    {
+      "text": "(S)35.866",
+      "bbox": [
+        167,
+        244,
+        221,
+        263
+      ],
+      "confidence": 0.9605695009231567
+    },
+    {
+      "text": "CTRC-(M)33.935",
+      "bbox": [
+        79,
+        249,
+        160,
+        264
+      ],
+      "confidence": 0.9097597002983093
+    },
+    {
+      "text": "DRILY NEUSPAPER",
+      "bbox": [
+        81,
+        260,
+        167,
+        273
+      ],
+      "confidence": 0.8531152009963989
+    },
+    {
+      "text": "Unser Jr. Leads From Start",
+      "bbox": [
+        71,
+        272,
+        664,
+        339
+      ],
+      "confidence": 0.9996375441551208
+    },
+    {
+      "text": "JULY 11. 1994",
+      "bbox": [
+        79,
+        267,
+        158,
+        291
+      ],
+      "confidence": 0.9423484802246094
+    },
+    {
+      "text": "To Finish In Cleveland GP",
+      "bbox": [
+        69,
+        322,
+        646,
+        384
+      ],
+      "confidence": 0.9993127584457397
+    },
+    {
+      "text": "That's what this game's all",
+      "bbox": [
+        485,
+        382,
+        698,
+        401
+      ],
+      "confidence": 0.9770392179489136
+    },
+    {
+      "text": "By The Associated Press",
+      "bbox": [
+        101,
+        389,
+        245,
+        406
+      ],
+      "confidence": 0.9904031157493591
+    },
+    {
+      "text": "\"I wouldn't say that,\" Unser",
+      "bbox": [
+        288,
+        384,
+        483,
+        404
+      ],
+      "confidence": 0.9857372045516968
+    },
+    {
+      "text": "about.\"",
+      "bbox": [
+        487,
+        397,
+        534,
+        413
+      ],
+      "confidence": 0.9634495973587036
+    },
+    {
+      "text": "CLEVELAND - Nigel Mansell",
+      "bbox": [
+        85,
+        401,
+        272,
+        417
+      ],
+      "confidence": 0.9498365521430969
+    },
+    {
+      "text": "said. \"You know, Nigel outran two",
+      "bbox": [
+        277,
+        399,
+        481,
+        415
+      ],
+      "confidence": 0.9724070429801941
+    },
+    {
+      "text": "Buick Challenge",
+      "bbox": [
+        487,
+        412,
+        628,
+        439
+      ],
+      "confidence": 0.9997603297233582
+    },
+    {
+      "text": "might just explain the Indy-car",
+      "bbox": [
+        73,
+        424,
+        273,
+        445
+      ],
+      "confidence": 0.9903401136398315
+    },
+    {
+      "text": "has an intriguing theory that",
+      "bbox": [
+        74,
+        413,
+        272,
+        431
+      ],
+      "confidence": 0.9716432094573975
+    },
+    {
+      "text": "you're the champ, the next day",
+      "bbox": [
+        277,
+        424,
+        481,
+        441
+      ],
+      "confidence": 0.9967920184135437
+    },
+    {
+      "text": "of them today. In racing, one day",
+      "bbox": [
+        279,
+        413,
+        481,
+        427
+      ],
+      "confidence": 0.9957739114761353
+    },
+    {
+      "text": "dominance of the Penske racing",
+      "bbox": [
+        73,
+        437,
+        272,
+        457
+      ],
+      "confidence": 0.9785000085830688
+    },
+    {
+      "text": "you're the chump. It changes that",
+      "bbox": [
+        278,
+        436,
+        481,
+        455
+      ],
+      "confidence": 0.9769738912582397
+    },
+    {
+      "text": "CLEVELAND",
+      "bbox": [
+        501,
+        435,
+        591,
+        453
+      ],
+      "confidence": 0.9998692274093628
+    },
+    {
+      "text": "- Eddie Law.",
+      "bbox": [
+        592,
+        436,
+        697,
+        451
+      ],
+      "confidence": 0.9448298811912537
+    },
+    {
+      "text": "team in general, and Al Unser Jr.",
+      "bbox": [
+        73,
+        449,
+        273,
+        471
+      ],
+      "confidence": 0.9917195439338684
+    },
+    {
+      "text": "fast. If we try to rest, in any way,",
+      "bbox": [
+        278,
+        453,
+        483,
+        467
+      ],
+      "confidence": 0.9849198460578918
+    },
+    {
+      "text": "son, who had the fastest laps in",
+      "bbox": [
+        487,
+        448,
+        698,
+        467
+      ],
+      "confidence": 0.9893069863319397
+    },
+    {
+      "text": "in particular.",
+      "bbox": [
+        72,
+        465,
+        156,
+        483
+      ],
+      "confidence": 0.9758583903312683
+    },
+    {
+      "text": "shape or form, we're going to be",
+      "bbox": [
+        279,
+        464,
+        482,
+        480
+      ],
+      "confidence": 0.9700051546096802
+    },
+    {
+      "text": "the morning warm-up, swept past",
+      "bbox": [
+        488,
+        462,
+        698,
+        480
+      ],
+      "confidence": 0.9914692640304565
+    },
+    {
+      "text": "\"Al is more aerodynamic this",
+      "bbox": [
+        82,
+        487,
+        273,
+        507
+      ],
+      "confidence": 0.973230242729187
+    },
+    {
+      "text": "Must be the hair.",
+      "bbox": [
+        83,
+        477,
+        185,
+        494
+      ],
+      "confidence": 0.9682906866073608
+    },
+    {
+      "text": "blown off.\"",
+      "bbox": [
+        280,
+        478,
+        343,
+        492
+      ],
+      "confidence": 0.987292468547821
+    },
+    {
+      "text": "polesitter Pedro Chaves fate in",
+      "bbox": [
+        488,
+        474,
+        698,
+        493
+      ],
+      "confidence": 0.9690403342247009
+    },
+    {
+      "text": "the race and won Sunday's Buick",
+      "bbox": [
+        488,
+        487,
+        699,
+        506
+      ],
+      "confidence": 0.9878519177436829
+    },
+    {
+      "text": "weekend because he got a good",
+      "bbox": [
+        74,
+        501,
+        272,
+        519
+      ],
+      "confidence": 0.9849451184272766
+    },
+    {
+      "text": "Unser, who has been bothered",
+      "bbox": [
+        290,
+        491,
+        482,
+        504
+      ],
+      "confidence": 0.9976873397827148
+    },
+    {
+      "text": "Chailenge of Cleveland for PPG.",
+      "bbox": [
+        490,
+        499,
+        698,
+        519
+      ],
+      "confidence": 0.9783685207366943
+    },
+    {
+      "text": "haircut. I'm going to have one",
+      "bbox": [
+        73,
+        513,
+        272,
+        531
+      ],
+      "confidence": 0.9797447323799133
+    },
+    {
+      "text": "by a sore back, accelerated to the",
+      "bbox": [
+        280,
+        504,
+        483,
+        517
+      ],
+      "confidence": 0.9979914426803589
+    },
+    {
+      "text": "front at the start and steadily",
+      "bbox": [
+        280,
+        516,
+        483,
+        530
+      ],
+      "confidence": 0.9925229549407959
+    },
+    {
+      "text": "Firestone Indy Lights.",
+      "bbox": [
+        488,
+        513,
+        628,
+        531
+      ],
+      "confidence": 0.9650157690048218
+    },
+    {
+      "text": "next week,\" Mansell said, running",
+      "bbox": [
+        72,
+        524,
+        273,
+        544
+      ],
+      "confidence": 0.962820827960968
+    },
+    {
+      "text": "pulled away in his Ilmor-powered",
+      "bbox": [
+        280,
+        529,
+        483,
+        543
+      ],
+      "confidence": 0.9939290881156921
+    },
+    {
+      "text": "Lawson, starting in the No. 2 po-",
+      "bbox": [
+        498,
+        524,
+        698,
+        544
+      ],
+      "confidence": 0.9722430109977722
+    },
+    {
+      "text": "his hands across Unser's forehead",
+      "bbox": [
+        72,
+        536,
+        273,
+        556
+      ],
+      "confidence": 0.9864986538887024
+    },
+    {
+      "text": "after Unser led start to finish In",
+      "bbox": [
+        73,
+        547,
+        273,
+        568
+      ],
+      "confidence": 0.9720165133476257
+    },
+    {
+      "text": "Penske racer. The back, he said,",
+      "bbox": [
+        280,
+        541,
+        482,
+        555
+      ],
+      "confidence": 0.9770140647888184
+    },
+    {
+      "text": "sition, had passed Chaves in the",
+      "bbox": [
+        490,
+        537,
+        698,
+        557
+      ],
+      "confidence": 0.9736002683639526
+    },
+    {
+      "text": "Sunday's Budweiser Cleveland",
+      "bbox": [
+        71,
+        559,
+        273,
+        580
+      ],
+      "confidence": 0.9864091873168945
+    },
+    {
+      "text": "bothered him more during quali-",
+      "bbox": [
+        278,
+        551,
+        484,
+        570
+      ],
+      "confidence": 0.9623488187789917
+    },
+    {
+      "text": "first turn after the grcen flag on",
+      "bbox": [
+        492,
+        553,
+        699,
+        568
+      ],
+      "confidence": 0.9551334381103516
+    },
+    {
+      "text": "Grand Prix.",
+      "bbox": [
+        74,
+        577,
+        146,
+        591
+      ],
+      "confidence": 0.998212456703186
+    },
+    {
+      "text": "fying than it did during the race.",
+      "bbox": [
+        279,
+        565,
+        475,
+        582
+      ],
+      "confidence": 0.9964678287506104
+    },
+    {
+      "text": "the 10-turn, 2.37-miie temporary",
+      "bbox": [
+        492,
+        567,
+        698,
+        581
+      ],
+      "confidence": 0.9815737009048462
+    },
+    {
+      "text": "Unser made it look easy, beat-",
+      "bbox": [
+        81,
+        584,
+        273,
+        604
+      ],
+      "confidence": 0.9644450545310974
+    },
+    {
+      "text": "ternoon battling Fittipaldi for",
+      "bbox": [
+        280,
+        592,
+        484,
+        606
+      ],
+      "confidence": 0.987185001373291
+    },
+    {
+      "text": "Mansell spent most of the af.",
+      "bbox": [
+        290,
+        578,
+        483,
+        592
+      ],
+      "confidence": 0.9933179616928101
+    },
+    {
+      "text": "road course at Burke Lakefront",
+      "bbox": [
+        490,
+        578,
+        698,
+        593
+      ],
+      "confidence": 0.9991854429244995
+    },
+    {
+      "text": "Airport. But Chaves battled back",
+      "bbox": [
+        491,
+        592,
+        698,
+        606
+      ],
+      "confidence": 0.989133358001709
+    },
+    {
+      "text": "ing Mansell by nearly 23 seconds",
+      "bbox": [
+        71,
+        597,
+        274,
+        617
+      ],
+      "confidence": 0.9988481402397156
+    },
+    {
+      "text": "second place, until the back of Fit-",
+      "bbox": [
+        281,
+        605,
+        484,
+        619
+      ],
+      "confidence": 0.9872470498085022
+    },
+    {
+      "text": "in turn five and held the lead for",
+      "bbox": [
+        492,
+        605,
+        698,
+        619
+      ],
+      "confidence": 0.9957341551780701
+    },
+    {
+      "text": "for his third victory from the pole",
+      "bbox": [
+        70,
+        610,
+        273,
+        629
+      ],
+      "confidence": 0.9942729473114014
+    },
+    {
+      "text": "tipaldi's car caught fire 20 laps",
+      "bbox": [
+        281,
+        618,
+        484,
+        632
+      ],
+      "confidence": 0.9802994132041931
+    },
+    {
+      "text": "most of the race.",
+      "bbox": [
+        492,
+        617,
+        595,
+        632
+      ],
+      "confidence": 0.9830000400543213
+    },
+    {
+      "text": "this year.",
+      "bbox": [
+        71,
+        625,
+        131,
+        641
+      ],
+      "confidence": 0.9982007145881653
+    },
+    {
+      "text": "It was Unser's fifth win in cight",
+      "bbox": [
+        79,
+        634,
+        273,
+        654
+      ],
+      "confidence": 0.9536010026931763
+    },
+    {
+      "text": "from the end of the 85-lap, 201.",
+      "bbox": [
+        280,
+        629,
+        484,
+        645
+      ],
+      "confidence": 0.9657702445983887
+    },
+    {
+      "text": "Lawson tried once in turn five",
+      "bbox": [
+        502,
+        630,
+        699,
+        644
+      ],
+      "confidence": 0.9769735932350159
+    },
+    {
+      "text": "Indy-car races, and the seventh",
+      "bbox": [
+        70,
+        646,
+        274,
+        666
+      ],
+      "confidence": 0.9799467921257019
+    },
+    {
+      "text": "mile event.",
+      "bbox": [
+        280,
+        643,
+        349,
+        657
+      ],
+      "confidence": 0.9980867505073547
+    },
+    {
+      "text": "and thrce times in turn one before",
+      "bbox": [
+        493,
+        643,
+        699,
+        657
+      ],
+      "confidence": 0.9903485774993896
+    },
+    {
+      "text": "straight on the circult for Marl.",
+      "bbox": [
+        70,
+        658,
+        273,
+        680
+      ],
+      "confidence": 0.9604730606079102
+    },
+    {
+      "text": "drivers —and technically holding",
+      "bbox": [
+        279,
+        666,
+        486,
+        685
+      ],
+      "confidence": 0.9741679430007935
+    },
+    {
+      "text": "Beating two of the three Penske",
+      "bbox": [
+        290,
+        654,
+        484,
+        668
+      ],
+      "confidence": 0.9847815632820129
+    },
+    {
+      "text": "finally passing Chaves in the 26th",
+      "bbox": [
+        493,
+        655,
+        699,
+        669
+      ],
+      "confidence": 0.9882678985595703
+    },
+    {
+      "text": "boro Team Penske, Paul Tracy",
+      "bbox": [
+        69,
+        672,
+        273,
+        692
+      ],
+      "confidence": 0.9754480719566345
+    },
+    {
+      "text": "the lead for one lap during the",
+      "bbox": [
+        282,
+        681,
+        485,
+        696
+      ],
+      "confidence": 0.99701327085495
+    },
+    {
+      "text": "lap of the 32-lap race. It was his",
+      "bbox": [
+        493,
+        668,
+        699,
+        682
+      ],
+      "confidence": 0.9695779085159302
+    },
+    {
+      "text": "first career victory.",
+      "bbox": [
+        493,
+        680,
+        614,
+        697
+      ],
+      "confidence": 0.9759399890899658
+    },
+    {
+      "text": "and Emerson Fittipaldi have",
+      "bbox": [
+        68,
+        684,
+        274,
+        705
+      ],
+      "confidence": 0.9935572147369385
+    },
+    {
+      "text": "second round of pit stops",
+      "bbox": [
+        279,
+        693,
+        463,
+        711
+      ],
+      "confidence": 0.989844560623169
+    },
+    {
+      "text": "\"I just tried to bide my time and",
+      "bbox": [
+        503,
+        693,
+        701,
+        711
+      ],
+      "confidence": 0.9636543393135071
+    },
+    {
+      "text": "each won once for Penske during",
+      "bbox": [
+        69,
+        698,
+        274,
+        716
+      ],
+      "confidence": 0.9982689023017883
+    },
+    {
+      "text": "helped",
+      "bbox": [
+        281,
+        707,
+        324,
+        722
+      ],
+      "confidence": 0.9994285106658936
+    },
+    {
+      "text": "keep",
+      "bbox": [
+        332,
+        708,
+        364,
+        722
+      ],
+      "confidence": 0.9998775720596313
+    },
+    {
+      "text": "Mansell's spirits",
+      "bbox": [
+        373,
+        708,
+        485,
+        721
+      ],
+      "confidence": 0.9813097715377808
+    },
+    {
+      "text": "keep from making a mistake,\" he",
+      "bbox": [
+        492,
+        705,
+        701,
+        724
+      ],
+      "confidence": 0.9854779243469238
+    },
+    {
+      "text": "thestring.",
+      "bbox": [
+        71,
+        713,
+        134,
+        727
+      ],
+      "confidence": 0.9993637204170227
+    },
+    {
+      "text": "Tracy finished third Sunday;",
+      "bbox": [
+        79,
+        722,
+        274,
+        740
+      ],
+      "confidence": 0.9763888120651245
+    },
+    {
+      "text": "high.",
+      "bbox": [
+        281,
+        720,
+        314,
+        735
+      ],
+      "confidence": 0.9998655319213867
+    },
+    {
+      "text": "said. \"I was a little more aggres.",
+      "bbox": [
+        492,
+        718,
+        701,
+        737
+      ],
+      "confidence": 0.9864897131919861
+    },
+    {
+      "text": "Fittipaldi's car caught fire and",
+      "bbox": [
+        69,
+        733,
+        274,
+        752
+      ],
+      "confidence": 0.9859673380851746
+    },
+    {
+      "text": "\"My second place today almost",
+      "bbox": [
+        292,
+        732,
+        487,
+        746
+      ],
+      "confidence": 0.9926101565361023
+    },
+    {
+      "text": "sive in this race, especially when",
+      "bbox": [
+        493,
+        732,
+        701,
+        748
+      ],
+      "confidence": 0.9940221309661865
+    },
+    {
+      "text": "didn't finish.",
+      "bbox": [
+        70,
+        747,
+        148,
+        764
+      ],
+      "confidence": 0.9838667511940002
+    },
+    {
+      "text": "\"What can I say? I'm driving a",
+      "bbox": [
+        80,
+        757,
+        274,
+        776
+      ],
+      "confidence": 0.9515278339385986
+    },
+    {
+      "text": "feels like a win,\" Mansell said. \"I",
+      "bbox": [
+        281,
+        745,
+        487,
+        758
+      ],
+      "confidence": 0.9765297174453735
+    },
+    {
+      "text": "me.\"",
+      "bbox": [
+        491,
+        755,
+        526,
+        776
+      ],
+      "confidence": 0.9793820381164551
+    },
+    {
+      "text": "Greg (Moore) tried to go around",
+      "bbox": [
+        492,
+        743,
+        701,
+        762
+      ],
+      "confidence": 0.9735386371612549
+    },
+    {
+      "text": "great car, and the team is operat-",
+      "bbox": [
+        70,
+        770,
+        274,
+        789
+      ],
+      "confidence": 0.9802712798118591
+    },
+    {
+      "text": "team did a brilliant job for me,",
+      "bbox": [
+        279,
+        768,
+        487,
+        787
+      ],
+      "confidence": 0.981245756149292
+    },
+    {
+      "text": "feel very satisfied today. The",
+      "bbox": [
+        281,
+        758,
+        488,
+        772
+      ],
+      "confidence": 0.9649250507354736
+    },
+    {
+      "text": "Chaves dropped to third on the",
+      "bbox": [
+        503,
+        769,
+        701,
+        789
+      ],
+      "confidence": 0.984294593334198
+    },
+    {
+      "text": "ing very, very well,\" Unser said.",
+      "bbox": [
+        71,
+        782,
+        260,
+        801
+      ],
+      "confidence": 0.9635258316993713
+    },
+    {
+      "text": "the pit stops were fabulous and I",
+      "bbox": [
+        282,
+        784,
+        488,
+        797
+      ],
+      "confidence": 0.9970158934593201
+    },
+    {
+      "text": "ninth turn of lap 28 when Moore -",
+      "bbox": [
+        492,
+        782,
+        699,
+        801
+      ],
+      "confidence": 0.967265784740448
+    },
+    {
+      "text": "Penske drivers have led 532 of",
+      "bbox": [
+        80,
+        796,
+        274,
+        812
+      ],
+      "confidence": 0.9643656611442566
+    },
+    {
+      "text": "know I drove as hard as I can. We",
+      "bbox": [
+        280,
+        795,
+        488,
+        811
+      ],
+      "confidence": 0.9615119695663452
+    },
+    {
+      "text": "who had moved up from fourth",
+      "bbox": [
+        491,
+        795,
+        702,
+        815
+      ],
+      "confidence": 0.945988655090332
+    },
+    {
+      "text": "534 laps since the Indianapolis",
+      "bbox": [
+        70,
+        807,
+        274,
+        825
+      ],
+      "confidence": 0.983489990234375
+    },
+    {
+      "text": "were beaten on the day by a better",
+      "bbox": [
+        282,
+        809,
+        488,
+        824
+      ],
+      "confidence": 0.9876229763031006
+    },
+    {
+      "text": "two turns earller — squeezed past",
+      "bbox": [
+        491,
+        807,
+        702,
+        829
+      ],
+      "confidence": 0.9601209163665771
+    },
+    {
+      "text": "500. Is the team invincible?",
+      "bbox": [
+        71,
+        821,
+        230,
+        837
+      ],
+      "confidence": 0.9930597543716431
+    },
+    {
+      "text": "team, better car and better driver.",
+      "bbox": [
+        281,
+        822,
+        488,
+        837
+      ],
+      "confidence": 0.9892625212669373
+    },
+    {
+      "text": "him near the pit row entrance.",
+      "bbox": [
+        492,
+        822,
+        677,
+        841
+      ],
+      "confidence": 0.9865108132362366
+    },
+    {
+      "text": "2083780555",
+      "bbox": [
+        727,
+        870,
+        752,
+        978
+      ],
+      "confidence": 0.9999741315841675
+    }
+  ],
+  "full_text": "FL-0468\nVERO BERCH. FL\n(S)35.866\nCTRC-(M)33.935\nDRILY NEUSPAPER\nUnser Jr. Leads From Start\nJULY 11. 1994\nTo Finish In Cleveland GP\nThat's what this game's all\nBy The Associated Press\n\"I wouldn't say that,\" Unser\nabout.\"\nCLEVELAND - Nigel Mansell\nsaid. \"You know, Nigel outran two\nBuick Challenge\nmight just explain the Indy-car\nhas an intriguing theory that\nyou're the champ, the next day\nof them today. In racing, one day\ndominance of the Penske racing\nyou're the chump. It changes that\nCLEVELAND\n- Eddie Law.\nteam in general, and Al Unser Jr.\nfast. If we try to rest, in any way,\nson, who had the fastest laps in\nin particular.\nshape or form, we're going to be\nthe morning warm-up, swept past\n\"Al is more aerodynamic this\nMust be the hair.\nblown off.\"\npolesitter Pedro Chaves fate in\nthe race and won Sunday's Buick\nweekend because he got a good\nUnser, who has been bothered\nChailenge of Cleveland for PPG.\nhaircut. I'm going to have one\nby a sore back, accelerated to the\nfront at the start and steadily\nFirestone Indy Lights.\nnext week,\" Mansell said, running\npulled away in his Ilmor-powered\nLawson, starting in the No. 2 po-\nhis hands across Unser's forehead\nafter Unser led start to finish In\nPenske racer. The back, he said,\nsition, had passed Chaves in the\nSunday's Budweiser Cleveland\nbothered him more during quali-\nfirst turn after the grcen flag on\nGrand Prix.\nfying than it did during the race.\nthe 10-turn, 2.37-miie temporary\nUnser made it look easy, beat-\nternoon battling Fittipaldi for\nMansell spent most of the af.\nroad course at Burke Lakefront\nAirport. But Chaves battled back\ning Mansell by nearly 23 seconds\nsecond place, until the back of Fit-\nin turn five and held the lead for\nfor his third victory from the pole\ntipaldi's car caught fire 20 laps\nmost of the race.\nthis year.\nIt was Unser's fifth win in cight\nfrom the end of the 85-lap, 201.\nLawson tried once in turn five\nIndy-car races, and the seventh\nmile event.\nand thrce times in turn one before\nstraight on the circult for Marl.\ndrivers —and technically holding\nBeating two of the three Penske\nfinally passing Chaves in the 26th\nboro Team Penske, Paul Tracy\nthe lead for one lap during the\nlap of the 32-lap race. It was his\nfirst career victory.\nand Emerson Fittipaldi have\nsecond round of pit stops\n\"I just tried to bide my time and\neach won once for Penske during\nhelped\nkeep\nMansell's spirits\nkeep from making a mistake,\" he\nthestring.\nTracy finished third Sunday;\nhigh.\nsaid. \"I was a little more aggres.\nFittipaldi's car caught fire and\n\"My second place today almost\nsive in this race, especially when\ndidn't finish.\n\"What can I say? I'm driving a\nfeels like a win,\" Mansell said. \"I\nme.\"\nGreg (Moore) tried to go around\ngreat car, and the team is operat-\nteam did a brilliant job for me,\nfeel very satisfied today. The\nChaves dropped to third on the\ning very, very well,\" Unser said.\nthe pit stops were fabulous and I\nninth turn of lap 28 when Moore -\nPenske drivers have led 532 of\nknow I drove as hard as I can. We\nwho had moved up from fourth\n534 laps since the Indianapolis\nwere beaten on the day by a better\ntwo turns earller — squeezed past\n500. Is the team invincible?\nteam, better car and better driver.\nhim near the pit row entrance.\n2083780555"
+}

@@ -1,0 +1,281 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0339.png",
+    "image_width": 835,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Effective Date: 3-9-70",
+      "bbox": [
+        502,
+        120,
+        686,
+        140
+      ],
+      "confidence": 0.9881260395050049
+    },
+    {
+      "text": "Brand - Virginia Slims Menthol",
+      "bbox": [
+        165,
+        189,
+        401,
+        209
+      ],
+      "confidence": 0.9900934100151062
+    },
+    {
+      "text": "Longth - 99.4 mm",
+      "bbox": [
+        163,
+        224,
+        298,
+        245
+      ],
+      "confidence": 0.9446470737457275
+    },
+    {
+      "text": "Circumference - 23.0 mm",
+      "bbox": [
+        162,
+        258,
+        353,
+        280
+      ],
+      "confidence": 0.9844712018966675
+    },
+    {
+      "text": "Filler - Loeg",
+      "bbox": [
+        159,
+        292,
+        274,
+        321
+      ],
+      "confidence": 0.9392096400260925
+    },
+    {
+      "text": "Machine Type - Mork VIII ",
+      "bbox": [
+        162,
+        331,
+        394,
+        351
+      ],
+      "confidence": 0.9495542645454407
+    },
+    {
+      "text": "Reason for chonge - .75% reduction in filler from previous fillor weight of",
+      "bbox": [
+        160,
+        365,
+        720,
+        388
+      ],
+      "confidence": 0.9699861407279968
+    },
+    {
+      "text": "0.8031563",
+      "bbox": [
+        324,
+        383,
+        407,
+        404
+      ],
+      "confidence": 0.999375581741333
+    },
+    {
+      "text": "Authorized by - Mr. B. A. Soyars",
+      "bbox": [
+        160,
+        418,
+        409,
+        442
+      ],
+      "confidence": 0.9760661125183105
+    },
+    {
+      "text": "Poper Width - 25.0 mm",
+      "bbox": [
+        157,
+        451,
+        354,
+        476
+      ],
+      "confidence": 0.9758422374725342
+    },
+    {
+      "text": "0.7971326",
+      "bbox": [
+        598,
+        484,
+        686,
+        511
+      ],
+      "confidence": 0.9997923970222473
+    },
+    {
+      "text": "Filler Weight - 74.4 mm (gms)",
+      "bbox": [
+        158,
+        488,
+        393,
+        510
+      ],
+      "confidence": 0.9652491211891174
+    },
+    {
+      "text": "Paper & Paste - 74.4 mm (gms)",
+      "bbox": [
+        157,
+        522,
+        388,
+        547
+      ],
+      "confidence": 0.9712620973587036
+    },
+    {
+      "text": "0.0432989",
+      "bbox": [
+        599,
+        521,
+        685,
+        545
+      ],
+      "confidence": 0.999828040599823
+    },
+    {
+      "text": "Rod Weight - 74.4 mm (gms)",
+      "bbox": [
+        159,
+        559,
+        387,
+        581
+      ],
+      "confidence": 0.9904200434684753
+    },
+    {
+      "text": "0.8395315",
+      "bbox": [
+        602,
+        558,
+        685,
+        580
+      ],
+      "confidence": 0.9998738765716553
+    },
+    {
+      "text": "Tipping & Adhesive - 32 mm (gms)",
+      "bbox": [
+        158,
+        594,
+        423,
+        619
+      ],
+      "confidence": 0.9752798080444336
+    },
+    {
+      "text": "0.0414796",
+      "bbox": [
+        602,
+        593,
+        686,
+        617
+      ],
+      "confidence": 0.9997978210449219
+    },
+    {
+      "text": "Total Less Plug - (gms)",
+      "bbox": [
+        159,
+        633,
+        326,
+        654
+      ],
+      "confidence": 0.9880680441856384
+    },
+    {
+      "text": "0.8810111",
+      "bbox": [
+        603,
+        631,
+        685,
+        652
+      ],
+      "confidence": 0.9998986721038818
+    },
+    {
+      "text": "Volume (Cubic Millimeters)",
+      "bbox": [
+        161,
+        686,
+        358,
+        707
+      ],
+      "confidence": 0.9724465012550354
+    },
+    {
+      "text": "3131.9710",
+      "bbox": [
+        604,
+        683,
+        685,
+        705
+      ],
+      "confidence": 0.9550540447235107
+    },
+    {
+      "text": "Density (Cgms./cc)",
+      "bbox": [
+        162,
+        720,
+        301,
+        741
+      ],
+      "confidence": 0.9898136854171753
+    },
+    {
+      "text": "25.4515",
+      "bbox": [
+        620,
+        718,
+        686,
+        739
+      ],
+      "confidence": 0.9563536047935486
+    },
+    {
+      "text": "Filler Weight (Lbs.1,000 Cigts.)",
+      "bbox": [
+        163,
+        754,
+        391,
+        774
+      ],
+      "confidence": 0.9676527976989746
+    },
+    {
+      "text": "1.7573",
+      "bbox": [
+        629,
+        753,
+        684,
+        771
+      ],
+      "confidence": 0.9996917843818665
+    },
+    {
+      "text": "2057999750",
+      "bbox": [
+        769,
+        797,
+        802,
+        964
+      ],
+      "confidence": 0.9997221827507019
+    }
+  ],
+  "full_text": "Effective Date: 3-9-70\nBrand - Virginia Slims Menthol\nLongth - 99.4 mm\nCircumference - 23.0 mm\nFiller - Loeg\nMachine Type - Mork VIII \nReason for chonge - .75% reduction in filler from previous fillor weight of\n0.8031563\nAuthorized by - Mr. B. A. Soyars\nPoper Width - 25.0 mm\n0.7971326\nFiller Weight - 74.4 mm (gms)\nPaper & Paste - 74.4 mm (gms)\n0.0432989\nRod Weight - 74.4 mm (gms)\n0.8395315\nTipping & Adhesive - 32 mm (gms)\n0.0414796\nTotal Less Plug - (gms)\n0.8810111\nVolume (Cubic Millimeters)\n3131.9710\nDensity (Cgms./cc)\n25.4515\nFiller Weight (Lbs.1,000 Cigts.)\n1.7573\n2057999750"
+}

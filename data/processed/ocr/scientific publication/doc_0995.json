@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0995.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INDOOR AND",
+      "bbox": [
+        241,
+        104,
+        504,
+        145
+      ],
+      "confidence": 0.9991909265518188
+    },
+    {
+      "text": "AMBIENT AIR",
+      "bbox": [
+        245,
+        141,
+        502,
+        182
+      ],
+      "confidence": 0.9994699954986572
+    },
+    {
+      "text": "QUALITY",
+      "bbox": [
+        285,
+        175,
+        466,
+        227
+      ],
+      "confidence": 0.9997801184654236
+    },
+    {
+      "text": "SE",
+      "bbox": [
+        207,
+        577,
+        235,
+        593
+      ],
+      "confidence": 0.6268255114555359
+    },
+    {
+      "text": "Edited by R. Perry",
+      "bbox": [
+        129,
+        824,
+        303,
+        851
+      ],
+      "confidence": 0.9992687702178955
+    },
+    {
+      "text": "and PW. Kirk",
+      "bbox": [
+        130,
+        845,
+        259,
+        867
+      ],
+      "confidence": 0.9539814591407776
+    },
+    {
+      "text": "2024688995",
+      "bbox": [
+        549,
+        951,
+        718,
+        978
+      ],
+      "confidence": 0.9999149441719055
+    }
+  ],
+  "full_text": "INDOOR AND\nAMBIENT AIR\nQUALITY\nSE\nEdited by R. Perry\nand PW. Kirk\n2024688995"
+}

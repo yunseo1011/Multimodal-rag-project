@@ -1,0 +1,671 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0072.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "1",
+      "bbox": [
+        701,
+        7,
+        715,
+        21
+      ],
+      "confidence": 0.9990240335464478
+    },
+    {
+      "text": "Name: Paul Brian Sydenham CLARKE",
+      "bbox": [
+        23,
+        55,
+        288,
+        75
+      ],
+      "confidence": 0.9844313859939575
+    },
+    {
+      "text": "Position: Assistant Professor",
+      "bbox": [
+        24,
+        88,
+        262,
+        107
+      ],
+      "confidence": 0.9978022575378418
+    },
+    {
+      "text": "Birthdate 9/9/55",
+      "bbox": [
+        399,
+        90,
+        532,
+        104
+      ],
+      "confidence": 0.9993341565132141
+    },
+    {
+      "text": "Education and Positions held:",
+      "bbox": [
+        25,
+        125,
+        260,
+        139
+      ],
+      "confidence": 0.9994422793388367
+    },
+    {
+      "text": "1977",
+      "bbox": [
+        25,
+        140,
+        62,
+        155
+      ],
+      "confidence": 0.999902606010437
+    },
+    {
+      "text": "Cambridge University, England",
+      "bbox": [
+        130,
+        138,
+        367,
+        159
+      ],
+      "confidence": 0.9990432262420654
+    },
+    {
+      "text": "BA, MA Natural Sciences",
+      "bbox": [
+        396,
+        135,
+        598,
+        155
+      ],
+      "confidence": 0.9713118076324463
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        24,
+        155,
+        62,
+        174
+      ],
+      "confidence": 0.9999790191650391
+    },
+    {
+      "text": "London University, England",
+      "bbox": [
+        131,
+        155,
+        343,
+        174
+      ],
+      "confidence": 0.993188202381134
+    },
+    {
+      "text": "PhD",
+      "bbox": [
+        396,
+        155,
+        424,
+        170
+      ],
+      "confidence": 0.9990985989570618
+    },
+    {
+      "text": "Psychopharmacology",
+      "bbox": [
+        460,
+        152,
+        614,
+        170
+      ],
+      "confidence": 0.9994261860847473
+    },
+    {
+      "text": "1982 - 1985",
+      "bbox": [
+        24,
+        171,
+        120,
+        192
+      ],
+      "confidence": 0.9938786029815674
+    },
+    {
+      "text": "Postdoctoral Fellow",
+      "bbox": [
+        395,
+        169,
+        556,
+        187
+      ],
+      "confidence": 0.998740553855896
+    },
+    {
+      "text": "NIMH, Bethesda, MD",
+      "bbox": [
+        130,
+        173,
+        277,
+        191
+      ],
+      "confidence": 0.9917218685150146
+    },
+    {
+      "text": "University of British Columbia",
+      "bbox": [
+        131,
+        186,
+        373,
+        209
+      ],
+      "confidence": 0.97864830493927
+    },
+    {
+      "text": "Postdoctoral Fellow",
+      "bbox": [
+        394,
+        185,
+        555,
+        203
+      ],
+      "confidence": 0.9918991923332214
+    },
+    {
+      "text": "1985 - 1987",
+      "bbox": [
+        25,
+        190,
+        119,
+        207
+      ],
+      "confidence": 0.947506308555603
+    },
+    {
+      "text": "Assistant Professor, Dept of Pharmacology and Therapeutics,",
+      "bbox": [
+        130,
+        198,
+        609,
+        225
+      ],
+      "confidence": 0.9987385869026184
+    },
+    {
+      "text": "1987 -",
+      "bbox": [
+        25,
+        205,
+        81,
+        224
+      ],
+      "confidence": 0.915856659412384
+    },
+    {
+      "text": "McGill University, Montreal, Canada",
+      "bbox": [
+        131,
+        218,
+        413,
+        241
+      ],
+      "confidence": 0.9988949298858643
+    },
+    {
+      "text": "Honors:",
+      "bbox": [
+        25,
+        255,
+        87,
+        272
+      ],
+      "confidence": 0.9989848732948303
+    },
+    {
+      "text": "1982 - 1985",
+      "bbox": [
+        27,
+        272,
+        119,
+        286
+      ],
+      "confidence": 0.9909974932670593
+    },
+    {
+      "text": "Fogarty (NIH) Visiting Fellowship",
+      "bbox": [
+        146,
+        267,
+        413,
+        288
+      ],
+      "confidence": 0.9982313513755798
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        27,
+        288,
+        63,
+        303
+      ],
+      "confidence": 0.9999747276306152
+    },
+    {
+      "text": "MRC (UK) Travelling Fellowship",
+      "bbox": [
+        145,
+        284,
+        390,
+        305
+      ],
+      "confidence": 0.9915621280670166
+    },
+    {
+      "text": "1985 - 1987",
+      "bbox": [
+        27,
+        304,
+        117,
+        319
+      ],
+      "confidence": 0.9652704000473022
+    },
+    {
+      "text": "MRC (Canada) Visiting Fellowship",
+      "bbox": [
+        144,
+        300,
+        413,
+        321
+      ],
+      "confidence": 0.9932205677032471
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        26,
+        322,
+        63,
+        337
+      ],
+      "confidence": 0.999974250793457
+    },
+    {
+      "text": "NATO Scholarship",
+      "bbox": [
+        145,
+        318,
+        277,
+        337
+      ],
+      "confidence": 0.9646174907684326
+    },
+    {
+      "text": "1988 - 1989",
+      "bbox": [
+        24,
+        336,
+        118,
+        355
+      ],
+      "confidence": 0.9979757070541382
+    },
+    {
+      "text": "Fraser-Monat-McPherson Scholarship",
+      "bbox": [
+        145,
+        333,
+        421,
+        353
+      ],
+      "confidence": 0.9993574619293213
+    },
+    {
+      "text": "FRSQ (Quebec) Scholarship (1989-1992)",
+      "bbox": [
+        145,
+        349,
+        444,
+        369
+      ],
+      "confidence": 0.9916192889213562
+    },
+    {
+      "text": "1989 - 1992",
+      "bbox": [
+        25,
+        355,
+        118,
+        369
+      ],
+      "confidence": 0.9553743600845337
+    },
+    {
+      "text": "Young Investigator of the Year Award, Canadian College of",
+      "bbox": [
+        145,
+        363,
+        608,
+        386
+      ],
+      "confidence": 0.9901438355445862
+    },
+    {
+      "text": "1990",
+      "bbox": [
+        25,
+        371,
+        62,
+        386
+      ],
+      "confidence": 0.9999579191207886
+    },
+    {
+      "text": "Neuropsychopharmacology",
+      "bbox": [
+        147,
+        386,
+        332,
+        400
+      ],
+      "confidence": 0.9998132586479187
+    },
+    {
+      "text": "Other Contributions:",
+      "bbox": [
+        25,
+        419,
+        188,
+        433
+      ],
+      "confidence": 0.9952629208564758
+    },
+    {
+      "text": "Contributor, U.s. Surgeon General's 1987 Report on Smoking and Health",
+      "bbox": [
+        23,
+        429,
+        580,
+        452
+      ],
+      "confidence": 0.9848002791404724
+    },
+    {
+      "text": "Member of Committee formed by Royal Society of Canada on behalf of Health",
+      "bbox": [
+        22,
+        446,
+        613,
+        468
+      ],
+      "confidence": 0.9806113839149475
+    },
+    {
+      "text": "and Welfare Canada to advise on the issue of tobacco use",
+      "bbox": [
+        65,
+        463,
+        517,
+        484
+      ],
+      "confidence": 0.9817522764205933
+    },
+    {
+      "text": "Member, IuPHAR committee on nicotinic receptor nomenclature",
+      "bbox": [
+        22,
+        479,
+        502,
+        501
+      ],
+      "confidence": 0.9886146783828735
+    },
+    {
+      "text": "Deputy Field Editor, NeuroReport (l99o - present)",
+      "bbox": [
+        22,
+        497,
+        419,
+        518
+      ],
+      "confidence": 0.9837042093276978
+    },
+    {
+      "text": "Member, FRsQ review committee for mental health grant applications",
+      "bbox": [
+        22,
+        511,
+        557,
+        534
+      ],
+      "confidence": 0.9899912476539612
+    },
+    {
+      "text": "Organization of Symposia:",
+      "bbox": [
+        21,
+        546,
+        228,
+        567
+      ],
+      "confidence": 0.9989789724349976
+    },
+    {
+      "text": "Chairman and organizer, Nicotine Actions in the CNs, symposium at Third",
+      "bbox": [
+        23,
+        559,
+        596,
+        583
+      ],
+      "confidence": 0.9894328713417053
+    },
+    {
+      "text": "IBRo World Congress of Neuroscience, Montreal, Aug 4-9, 1991",
+      "bbox": [
+        66,
+        577,
+        549,
+        599
+      ],
+      "confidence": 0.9894607663154602
+    },
+    {
+      "text": "Member, Local Organizing Committee, International Symposium on Cholinergic",
+      "bbox": [
+        23,
+        593,
+        621,
+        615
+      ],
+      "confidence": 0.9841069579124451
+    },
+    {
+      "text": "Neurotransmission, Montreal, July 26-30, 1992",
+      "bbox": [
+        65,
+        611,
+        428,
+        631
+      ],
+      "confidence": 0.9956903457641602
+    },
+    {
+      "text": "Chairman and organizer, cNs Nicotinic Receptors: Cholinergic Transmission",
+      "bbox": [
+        24,
+        626,
+        613,
+        649
+      ],
+      "confidence": 0.9861626625061035
+    },
+    {
+      "text": "to Immunological Function, symposium at the annual meeting of the",
+      "bbox": [
+        67,
+        642,
+        588,
+        664
+      ],
+      "confidence": 0.9806222319602966
+    },
+    {
+      "text": "Canadian Federation of Biological Societies, Victoria, BC, June 1992",
+      "bbox": [
+        68,
+        658,
+        613,
+        682
+      ],
+      "confidence": 0.9791489839553833
+    },
+    {
+      "text": "Chairman, Coordinating Committee, 8th International Cholinergic Symposium:",
+      "bbox": [
+        26,
+        675,
+        618,
+        699
+      ],
+      "confidence": 0.9917510747909546
+    },
+    {
+      "text": "Cholinergic Neurotransmission, Montreal, July 1992",
+      "bbox": [
+        68,
+        694,
+        466,
+        714
+      ],
+      "confidence": 0.9978958368301392
+    },
+    {
+      "text": "Co-convenor, International Symposium on Nicotine, Montreal, 1994 (to be",
+      "bbox": [
+        26,
+        709,
+        593,
+        731
+      ],
+      "confidence": 0.9917187690734863
+    },
+    {
+      "text": "proposed as a satellite to UIPHAR meeting)",
+      "bbox": [
+        69,
+        729,
+        400,
+        745
+      ],
+      "confidence": 0.9790610074996948
+    },
+    {
+      "text": "Invited speaker at the following symposia (since 1989):",
+      "bbox": [
+        30,
+        760,
+        460,
+        774
+      ],
+      "confidence": 0.9971946477890015
+    },
+    {
+      "text": "Symposium on nicotinic receptors, annual meeting of American Society of Neurochemistry,",
+      "bbox": [
+        31,
+        777,
+        708,
+        791
+      ],
+      "confidence": 0.9920614957809448
+    },
+    {
+      "text": "Chicago March 5-10, 1989",
+      "bbox": [
+        60,
+        791,
+        249,
+        806
+      ],
+      "confidence": 0.9965304732322693
+    },
+    {
+      "text": "Symposium on nicotine and health, annual meeting of the American Psychiatric Association,",
+      "bbox": [
+        30,
+        804,
+        722,
+        824
+      ],
+      "confidence": 0.9907239675521851
+    },
+    {
+      "text": "San Francisco, May 6-12, 1989",
+      "bbox": [
+        60,
+        822,
+        287,
+        837
+      ],
+      "confidence": 0.9787019491195679
+    },
+    {
+      "text": "CIBA Foundation Symposium on The Biology of Nicotine Dependence, London UK, Nov 6-9, 1989",
+      "bbox": [
+        30,
+        835,
+        720,
+        854
+      ],
+      "confidence": 0.9878882765769958
+    },
+    {
+      "text": "International Satellite Symposium on Nicotine, xIth International Congress of",
+      "bbox": [
+        30,
+        850,
+        628,
+        869
+      ],
+      "confidence": 0.9915541410446167
+    },
+    {
+      "text": "Pharmacology, Hamburg, June 28-30, 1990",
+      "bbox": [
+        60,
+        865,
+        363,
+        883
+      ],
+      "confidence": 0.9972480535507202
+    },
+    {
+      "text": "Round table on CNs Nicotinic Receptors, European Society for Neurochemistry, Leipzig, July",
+      "bbox": [
+        29,
+        880,
+        724,
+        900
+      ],
+      "confidence": 0.9905397295951843
+    },
+    {
+      "text": "23-28, 1990",
+      "bbox": [
+        61,
+        898,
+        150,
+        911
+      ],
+      "confidence": 0.9918172955513
+    }
+  ],
+  "full_text": "1\nName: Paul Brian Sydenham CLARKE\nPosition: Assistant Professor\nBirthdate 9/9/55\nEducation and Positions held:\n1977\nCambridge University, England\nBA, MA Natural Sciences\n1982\nLondon University, England\nPhD\nPsychopharmacology\n1982 - 1985\nPostdoctoral Fellow\nNIMH, Bethesda, MD\nUniversity of British Columbia\nPostdoctoral Fellow\n1985 - 1987\nAssistant Professor, Dept of Pharmacology and Therapeutics,\n1987 -\nMcGill University, Montreal, Canada\nHonors:\n1982 - 1985\nFogarty (NIH) Visiting Fellowship\n1985\nMRC (UK) Travelling Fellowship\n1985 - 1987\nMRC (Canada) Visiting Fellowship\n1985\nNATO Scholarship\n1988 - 1989\nFraser-Monat-McPherson Scholarship\nFRSQ (Quebec) Scholarship (1989-1992)\n1989 - 1992\nYoung Investigator of the Year Award, Canadian College of\n1990\nNeuropsychopharmacology\nOther Contributions:\nContributor, U.s. Surgeon General's 1987 Report on Smoking and Health\nMember of Committee formed by Royal Society of Canada on behalf of Health\nand Welfare Canada to advise on the issue of tobacco use\nMember, IuPHAR committee on nicotinic receptor nomenclature\nDeputy Field Editor, NeuroReport (l99o - present)\nMember, FRsQ review committee for mental health grant applications\nOrganization of Symposia:\nChairman and organizer, Nicotine Actions in the CNs, symposium at Third\nIBRo World Congress of Neuroscience, Montreal, Aug 4-9, 1991\nMember, Local Organizing Committee, International Symposium on Cholinergic\nNeurotransmission, Montreal, July 26-30, 1992\nChairman and organizer, cNs Nicotinic Receptors: Cholinergic Transmission\nto Immunological Function, symposium at the annual meeting of the\nCanadian Federation of Biological Societies, Victoria, BC, June 1992\nChairman, Coordinating Committee, 8th International Cholinergic Symposium:\nCholinergic Neurotransmission, Montreal, July 1992\nCo-convenor, International Symposium on Nicotine, Montreal, 1994 (to be\nproposed as a satellite to UIPHAR meeting)\nInvited speaker at the following symposia (since 1989):\nSymposium on nicotinic receptors, annual meeting of American Society of Neurochemistry,\nChicago March 5-10, 1989\nSymposium on nicotine and health, annual meeting of the American Psychiatric Association,\nSan Francisco, May 6-12, 1989\nCIBA Foundation Symposium on The Biology of Nicotine Dependence, London UK, Nov 6-9, 1989\nInternational Satellite Symposium on Nicotine, xIth International Congress of\nPharmacology, Hamburg, June 28-30, 1990\nRound table on CNs Nicotinic Receptors, European Society for Neurochemistry, Leipzig, July\n23-28, 1990"
+}

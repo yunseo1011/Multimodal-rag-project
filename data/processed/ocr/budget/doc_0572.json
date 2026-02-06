@@ -1,0 +1,491 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0572.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Publia Affairs Divi )n Variance Analysis",
+      "bbox": [
+        319,
+        9,
+        701,
+        32
+      ],
+      "confidence": 0.9942386746406555
+    },
+    {
+      "text": "Youth Initiative",
+      "bbox": [
+        41,
+        67,
+        193,
+        83
+      ],
+      "confidence": 0.9991308450698853
+    },
+    {
+      "text": "Cost Center Nane",
+      "bbox": [
+        39,
+        81,
+        194,
+        100
+      ],
+      "confidence": 0.99413001537323
+    },
+    {
+      "text": "1501",
+      "bbox": [
+        38,
+        112,
+        83,
+        130
+      ],
+      "confidence": 0.9998969435691833
+    },
+    {
+      "text": "Cost Center Nunber",
+      "bbox": [
+        38,
+        127,
+        210,
+        147
+      ],
+      "confidence": 0.9606903791427612
+    },
+    {
+      "text": "May",
+      "bbox": [
+        428,
+        113,
+        468,
+        131
+      ],
+      "confidence": 0.9969468116760254
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        486,
+        113,
+        528,
+        131
+      ],
+      "confidence": 0.9998521208763123
+    },
+    {
+      "text": "Month",
+      "bbox": [
+        467,
+        130,
+        519,
+        147
+      ],
+      "confidence": 0.9933691024780273
+    },
+    {
+      "text": "Projected Amt.",
+      "bbox": [
+        643,
+        190,
+        754,
+        204
+      ],
+      "confidence": 0.9809673428535461
+    },
+    {
+      "text": "Account#/",
+      "bbox": [
+        53,
+        216,
+        143,
+        236
+      ],
+      "confidence": 0.9973652958869934
+    },
+    {
+      "text": "Year-to-date",
+      "bbox": [
+        363,
+        217,
+        479,
+        236
+      ],
+      "confidence": 0.9997079372406006
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        501,
+        204,
+        562,
+        221
+      ],
+      "confidence": 0.9967970252037048
+    },
+    {
+      "text": "Over (Under)",
+      "bbox": [
+        641,
+        204,
+        754,
+        221
+      ],
+      "confidence": 0.9843247532844543
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        52,
+        229,
+        164,
+        253
+      ],
+      "confidence": 0.9053927063941956
+    },
+    {
+      "text": "Year-to-date",
+      "bbox": [
+        204,
+        219,
+        323,
+        236
+      ],
+      "confidence": 0.9998227953910828
+    },
+    {
+      "text": "BBudget",
+      "bbox": [
+        361,
+        230,
+        425,
+        255
+      ],
+      "confidence": 0.8069929480552673
+    },
+    {
+      "text": "Over (Under)",
+      "bbox": [
+        502,
+        220,
+        614,
+        237
+      ],
+      "confidence": 0.9997245669364929
+    },
+    {
+      "text": "Budget at",
+      "bbox": [
+        641,
+        220,
+        731,
+        237
+      ],
+      "confidence": 0.9677636027336121
+    },
+    {
+      "text": "Expenses",
+      "bbox": [
+        204,
+        234,
+        284,
+        252
+      ],
+      "confidence": 0.9998788833618164
+    },
+    {
+      "text": "Budget",
+      "bbox": [
+        500,
+        234,
+        562,
+        254
+      ],
+      "confidence": 0.9976426959037781
+    },
+    {
+      "text": "Dec, 31, 1991",
+      "bbox": [
+        639,
+        236,
+        754,
+        252
+      ],
+      "confidence": 0.9679188132286072
+    },
+    {
+      "text": "5100/Postage",
+      "bbox": [
+        45,
+        260,
+        163,
+        281
+      ],
+      "confidence": 0.9995020031929016
+    },
+    {
+      "text": "and Delivery",
+      "bbox": [
+        44,
+        274,
+        163,
+        297
+      ],
+      "confidence": 0.9976072311401367
+    },
+    {
+      "text": "45,056",
+      "bbox": [
+        262,
+        264,
+        323,
+        282
+      ],
+      "confidence": 0.9999404549598694
+    },
+    {
+      "text": "227,473",
+      "bbox": [
+        399,
+        264,
+        469,
+        282
+      ],
+      "confidence": 0.9999551773071289
+    },
+    {
+      "text": "(182,417)",
+      "bbox": [
+        528,
+        263,
+        615,
+        286
+      ],
+      "confidence": 0.9995467662811279
+    },
+    {
+      "text": "(200,000)",
+      "bbox": [
+        679,
+        266,
+        754,
+        284
+      ],
+      "confidence": 0.9998749494552612
+    },
+    {
+      "text": "5200/Repro.,",
+      "bbox": [
+        48,
+        320,
+        162,
+        340
+      ],
+      "confidence": 0.9895813465118408
+    },
+    {
+      "text": "342,756",
+      "bbox": [
+        252,
+        322,
+        323,
+        341
+      ],
+      "confidence": 0.999936044216156
+    },
+    {
+      "text": "Printing and",
+      "bbox": [
+        49,
+        335,
+        165,
+        355
+      ],
+      "confidence": 0.9978525638580322
+    },
+    {
+      "text": "320,834",
+      "bbox": [
+        399,
+        323,
+        467,
+        341
+      ],
+      "confidence": 0.9999604821205139
+    },
+    {
+      "text": "21,922",
+      "bbox": [
+        543,
+        323,
+        603,
+        341
+      ],
+      "confidence": 0.9999697804450989
+    },
+    {
+      "text": "0",
+      "bbox": [
+        739,
+        326,
+        752,
+        341
+      ],
+      "confidence": 0.7360628247261047
+    },
+    {
+      "text": "Drafting",
+      "bbox": [
+        49,
+        349,
+        130,
+        369
+      ],
+      "confidence": 0.9963387250900269
+    },
+    {
+      "text": "6200/",
+      "bbox": [
+        54,
+        408,
+        106,
+        426
+      ],
+      "confidence": 0.9990988969802856
+    },
+    {
+      "text": "775,520",
+      "bbox": [
+        255,
+        409,
+        324,
+        427
+      ],
+      "confidence": 0.9999725222587585
+    },
+    {
+      "text": "1,413,335",
+      "bbox": [
+        382,
+        410,
+        466,
+        427
+      ],
+      "confidence": 0.999958872795105
+    },
+    {
+      "text": "(637,815)",
+      "bbox": [
+        526,
+        411,
+        608,
+        429
+      ],
+      "confidence": 0.9998976588249207
+    },
+    {
+      "text": "(100,000)",
+      "bbox": [
+        675,
+        411,
+        754,
+        429
+      ],
+      "confidence": 0.9996445178985596
+    },
+    {
+      "text": "Advertising",
+      "bbox": [
+        53,
+        421,
+        159,
+        441
+      ],
+      "confidence": 0.9982126355171204
+    },
+    {
+      "text": "Space and",
+      "bbox": [
+        56,
+        440,
+        141,
+        454
+      ],
+      "confidence": 0.9998960494995117
+    },
+    {
+      "text": "Promotion",
+      "bbox": [
+        56,
+        454,
+        141,
+        467
+      ],
+      "confidence": 0.9998257160186768
+    },
+    {
+      "text": "7300/Prof.",
+      "bbox": [
+        56,
+        538,
+        151,
+        555
+      ],
+      "confidence": 0.9993020296096802
+    },
+    {
+      "text": "285,982",
+      "bbox": [
+        257,
+        539,
+        325,
+        556
+      ],
+      "confidence": 0.9999324083328247
+    },
+    {
+      "text": "83,335",
+      "bbox": [
+        407,
+        538,
+        465,
+        555
+      ],
+      "confidence": 0.9997078776359558
+    },
+    {
+      "text": "202,647",
+      "bbox": [
+        531,
+        540,
+        597,
+        554
+      ],
+      "confidence": 0.9994986653327942
+    },
+    {
+      "text": "200,000",
+      "bbox": [
+        679,
+        539,
+        746,
+        556
+      ],
+      "confidence": 0.9999234080314636
+    },
+    {
+      "text": "Fees",
+      "bbox": [
+        56,
+        553,
+        99,
+        567
+      ],
+      "confidence": 0.9998478889465332
+    }
+  ],
+  "full_text": "Publia Affairs Divi )n Variance Analysis\nYouth Initiative\nCost Center Nane\n1501\nCost Center Nunber\nMay\n1991\nMonth\nProjected Amt.\nAccount#/\nYear-to-date\nAmount\nOver (Under)\nDescription\nYear-to-date\nBBudget\nOver (Under)\nBudget at\nExpenses\nBudget\nDec, 31, 1991\n5100/Postage\nand Delivery\n45,056\n227,473\n(182,417)\n(200,000)\n5200/Repro.,\n342,756\nPrinting and\n320,834\n21,922\n0\nDrafting\n6200/\n775,520\n1,413,335\n(637,815)\n(100,000)\nAdvertising\nSpace and\nPromotion\n7300/Prof.\n285,982\n83,335\n202,647\n200,000\nFees"
+}

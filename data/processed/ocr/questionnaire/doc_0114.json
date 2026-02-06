@@ -1,0 +1,641 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0114.png",
+    "image_width": 791,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Jile ",
+      "bbox": [
+        207,
+        97,
+        287,
+        174
+      ],
+      "confidence": 0.7877746224403381
+    },
+    {
+      "text": "stanted ",
+      "bbox": [
+        215,
+        100,
+        364,
+        227
+      ],
+      "confidence": 0.8179656267166138
+    },
+    {
+      "text": "OKE",
+      "bbox": [
+        389,
+        135,
+        415,
+        146
+      ],
+      "confidence": 0.9921908974647522
+    },
+    {
+      "text": "EASY",
+      "bbox": [
+        414,
+        133,
+        461,
+        147
+      ],
+      "confidence": 0.9955383539199829
+    },
+    {
+      "text": "CAMPAIGN COMVTUNICATION-STUDY",
+      "bbox": [
+        465,
+        133,
+        696,
+        150
+      ],
+      "confidence": 0.9489285945892334
+    },
+    {
+      "text": "(CRISS-CROSS)",
+      "bbox": [
+        462,
+        156,
+        566,
+        173
+      ],
+      "confidence": 0.9988652467727661
+    },
+    {
+      "text": "MRD  75-0464",
+      "bbox": [
+        459,
+        183,
+        566,
+        198
+      ],
+      "confidence": 0.9194807410240173
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        273,
+        208,
+        320,
+        222
+      ],
+      "confidence": 0.9990819096565247
+    },
+    {
+      "text": "ADDRESS:",
+      "bbox": [
+        275,
+        231,
+        345,
+        245
+      ],
+      "confidence": 0.9998066425323486
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        626,
+        230,
+        678,
+        247
+      ],
+      "confidence": 0.9991469979286194
+    },
+    {
+      "text": "INTERVIEWER:",
+      "bbox": [
+        276,
+        256,
+        380,
+        269
+      ],
+      "confidence": 0.9996054172515869
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        592,
+        256,
+        639,
+        270
+      ],
+      "confidence": 0.9965603947639465
+    },
+    {
+      "text": "SEX:",
+      "bbox": [
+        275,
+        280,
+        311,
+        294
+      ],
+      "confidence": 0.9991892576217651
+    },
+    {
+      "text": "MALE",
+      "bbox": [
+        325,
+        280,
+        365,
+        294
+      ],
+      "confidence": 0.9995713829994202
+    },
+    {
+      "text": "AGE:",
+      "bbox": [
+        449,
+        280,
+        484,
+        294
+      ],
+      "confidence": 0.9989985823631287
+    },
+    {
+      "text": "18-24",
+      "bbox": [
+        496,
+        280,
+        540,
+        295
+      ],
+      "confidence": 0.9985402226448059
+    },
+    {
+      "text": "35-49",
+      "bbox": [
+        611,
+        280,
+        656,
+        294
+      ],
+      "confidence": 0.9999439120292664
+    },
+    {
+      "text": "Ref.",
+      "bbox": [
+        718,
+        280,
+        752,
+        295
+      ],
+      "confidence": 0.998831570148468
+    },
+    {
+      "text": "FEMALE",
+      "bbox": [
+        325,
+        304,
+        382,
+        319
+      ],
+      "confidence": 0.999743640422821
+    },
+    {
+      "text": "25-34",
+      "bbox": [
+        496,
+        304,
+        540,
+        320
+      ],
+      "confidence": 0.9998902082443237
+    },
+    {
+      "text": "50 & Over",
+      "bbox": [
+        608,
+        302,
+        689,
+        322
+      ],
+      "confidence": 0.9363001585006714
+    },
+    {
+      "text": "CITY:",
+      "bbox": [
+        275,
+        364,
+        319,
+        378
+      ],
+      "confidence": 0.9992206692695618
+    },
+    {
+      "text": "Chicago",
+      "bbox": [
+        330,
+        360,
+        398,
+        380
+      ],
+      "confidence": 0.9943288564682007
+    },
+    {
+      "text": "Atlanta",
+      "bbox": [
+        574,
+        363,
+        638,
+        380
+      ],
+      "confidence": 0.9994786381721497
+    },
+    {
+      "text": "Detroit",
+      "bbox": [
+        331,
+        385,
+        396,
+        402
+      ],
+      "confidence": 0.999790608882904
+    },
+    {
+      "text": "Baltimore",
+      "bbox": [
+        577,
+        386,
+        655,
+        400
+      ],
+      "confidence": 0.9998849034309387
+    },
+    {
+      "text": "Houston",
+      "bbox": [
+        331,
+        409,
+        396,
+        426
+      ],
+      "confidence": 0.9980306625366211
+    },
+    {
+      "text": "Dallas",
+      "bbox": [
+        575,
+        411,
+        630,
+        428
+      ],
+      "confidence": 0.9995320439338684
+    },
+    {
+      "text": "Kansas City, Mo.",
+      "bbox": [
+        332,
+        433,
+        466,
+        448
+      ],
+      "confidence": 0.9944918155670166
+    },
+    {
+      "text": "Los Angeles",
+      "bbox": [
+        574,
+        433,
+        670,
+        453
+      ],
+      "confidence": 0.9996697902679443
+    },
+    {
+      "text": "Boston",
+      "bbox": [
+        331,
+        459,
+        387,
+        473
+      ],
+      "confidence": 0.9998435974121094
+    },
+    {
+      "text": "Cleveland",
+      "bbox": [
+        576,
+        460,
+        654,
+        474
+      ],
+      "confidence": 0.9996448159217834
+    },
+    {
+      "text": "Indianapolis",
+      "bbox": [
+        331,
+        483,
+        436,
+        502
+      ],
+      "confidence": 0.9999051094055176
+    },
+    {
+      "text": "Oakland",
+      "bbox": [
+        576,
+        483,
+        638,
+        497
+      ],
+      "confidence": 0.9987043142318726
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        225,
+        531,
+        246,
+        547
+      ],
+      "confidence": 0.9919069409370422
+    },
+    {
+      "text": "INTRODUTION AND ELIGIBILITY",
+      "bbox": [
+        260,
+        527,
+        491,
+        547
+      ],
+      "confidence": 0.985726535320282
+    },
+    {
+      "text": "\"Hello, I'm calling for Lane Services, a marketing research",
+      "bbox": [
+        261,
+        551,
+        750,
+        570
+      ],
+      "confidence": 0.9858919978141785
+    },
+    {
+      "text": "company, and we're doing a study on products people use.",
+      "bbox": [
+        261,
+        562,
+        727,
+        583
+      ],
+      "confidence": 0.9740313291549683
+    },
+    {
+      "text": "la.",
+      "bbox": [
+        218,
+        592,
+        245,
+        607
+      ],
+      "confidence": 0.9874812960624695
+    },
+    {
+      "text": "\"Have you smoked any cigarettes in the past seven days?\"",
+      "bbox": [
+        260,
+        585,
+        733,
+        606
+      ],
+      "confidence": 0.9853033423423767
+    },
+    {
+      "text": "YES",
+      "bbox": [
+        347,
+        612,
+        378,
+        627
+      ],
+      "confidence": 0.9992203116416931
+    },
+    {
+      "text": "SKIP TO",
+      "bbox": [
+        443,
+        611,
+        526,
+        626
+      ],
+      "confidence": 0.991247832775116
+    },
+    {
+      "text": "ou. lc.",
+      "bbox": [
+        523,
+        612,
+        586,
+        623
+      ],
+      "confidence": 0.8567790389060974
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        347,
+        635,
+        370,
+        650
+      ],
+      "confidence": 0.9995818138122559
+    },
+    {
+      "text": "ASK OU. Ib.",
+      "bbox": [
+        460,
+        634,
+        556,
+        648
+      ],
+      "confidence": 0.9206649661064148
+    },
+    {
+      "text": ".",
+      "bbox": [
+        449,
+        638,
+        460,
+        646
+      ],
+      "confidence": 0.9523338675498962
+    },
+    {
+      "text": "1b.",
+      "bbox": [
+        218,
+        661,
+        246,
+        676
+      ],
+      "confidence": 0.9192582964897156
+    },
+    {
+      "text": "\"Would there be anyone else presently at home, l8 years of age",
+      "bbox": [
+        260,
+        653,
+        774,
+        674
+      ],
+      "confidence": 0.9761561751365662
+    },
+    {
+      "text": "or older, who smokes cigarettes?*",
+      "bbox": [
+        261,
+        666,
+        539,
+        688
+      ],
+      "confidence": 0.936779260635376
+    },
+    {
+      "text": "YES →",
+      "bbox": [
+        347,
+        693,
+        408,
+        710
+      ],
+      "confidence": 0.910544753074646
+    },
+    {
+      "text": "QU. la.",
+      "bbox": [
+        464,
+        705,
+        522,
+        716
+      ],
+      "confidence": 0.8717635869979858
+    },
+    {
+      "text": "NO ",
+      "bbox": [
+        348,
+        735,
+        398,
+        753
+      ],
+      "confidence": 0.9921929240226746
+    },
+    {
+      "text": "TERMINATE AND DO NOT COUNT TOWARD",
+      "bbox": [
+        446,
+        733,
+        735,
+        750
+      ],
+      "confidence": 0.9966088533401489
+    },
+    {
+      "text": "QUOTA.",
+      "bbox": [
+        739,
+        735,
+        787,
+        746
+      ],
+      "confidence": 0.9772544503211975
+    },
+    {
+      "text": "\"How many cigarettes do you usually smoke per day?\"",
+      "bbox": [
+        256,
+        753,
+        685,
+        779
+      ],
+      "confidence": 0.9886189699172974
+    },
+    {
+      "text": "lc.",
+      "bbox": [
+        220,
+        765,
+        248,
+        780
+      ],
+      "confidence": 0.7268729209899902
+    },
+    {
+      "text": "Less than 1→ASK OU.",
+      "bbox": [
+        350,
+        779,
+        553,
+        801
+      ],
+      "confidence": 0.9169376492500305
+    },
+    {
+      "text": "1b.",
+      "bbox": [
+        557,
+        782,
+        584,
+        792
+      ],
+      "confidence": 0.8404801487922668
+    },
+    {
+      "text": "AND IFNO*",
+      "bbox": [
+        594,
+        778,
+        686,
+        793
+      ],
+      "confidence": 0.9370334148406982
+    },
+    {
+      "text": "TERMINATE",
+      "bbox": [
+        688,
+        777,
+        769,
+        792
+      ],
+      "confidence": 0.9997610449790955
+    },
+    {
+      "text": "1-15.",
+      "bbox": [
+        351,
+        805,
+        398,
+        823
+      ],
+      "confidence": 0.9864797592163086
+    },
+    {
+      "text": "16-25..",
+      "bbox": [
+        351,
+        815,
+        413,
+        835
+      ],
+      "confidence": 0.9166097044944763
+    },
+    {
+      "text": "Over 25....-3",
+      "bbox": [
+        351,
+        825,
+        464,
+        848
+      ],
+      "confidence": 0.9573352336883545
+    }
+  ],
+  "full_text": "Jile \nstanted \nOKE\nEASY\nCAMPAIGN COMVTUNICATION-STUDY\n(CRISS-CROSS)\nMRD  75-0464\nNAME:\nADDRESS:\nPHONE:\nINTERVIEWER:\nDATE:\nSEX:\nMALE\nAGE:\n18-24\n35-49\nRef.\nFEMALE\n25-34\n50 & Over\nCITY:\nChicago\nAtlanta\nDetroit\nBaltimore\nHouston\nDallas\nKansas City, Mo.\nLos Angeles\nBoston\nCleveland\nIndianapolis\nOakland\n1.\nINTRODUTION AND ELIGIBILITY\n\"Hello, I'm calling for Lane Services, a marketing research\ncompany, and we're doing a study on products people use.\nla.\n\"Have you smoked any cigarettes in the past seven days?\"\nYES\nSKIP TO\nou. lc.\nNO\nASK OU. Ib.\n.\n1b.\n\"Would there be anyone else presently at home, l8 years of age\nor older, who smokes cigarettes?*\nYES →\nQU. la.\nNO \nTERMINATE AND DO NOT COUNT TOWARD\nQUOTA.\n\"How many cigarettes do you usually smoke per day?\"\nlc.\nLess than 1→ASK OU.\n1b.\nAND IFNO*\nTERMINATE\n1-15.\n16-25..\nOver 25....-3"
+}

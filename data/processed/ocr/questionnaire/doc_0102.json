@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0102.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ATTACHMENT ",
+      "bbox": [
+        314,
+        55,
+        412,
+        77
+      ],
+      "confidence": 0.9756620526313782
+    },
+    {
+      "text": "SCREENER",
+      "bbox": [
+        329,
+        102,
+        393,
+        120
+      ],
+      "confidence": 0.9235756397247314
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        62,
+        182,
+        82,
+        201
+      ],
+      "confidence": 0.9105556011199951
+    },
+    {
+      "text": "Hello, I'm",
+      "bbox": [
+        106,
+        180,
+        192,
+        201
+      ],
+      "confidence": 0.9677111506462097
+    },
+    {
+      "text": "vith",
+      "bbox": [
+        358,
+        177,
+        398,
+        197
+      ],
+      "confidence": 0.9921584129333496
+    },
+    {
+      "text": "an",
+      "bbox": [
+        624,
+        182,
+        642,
+        195
+      ],
+      "confidence": 0.9985863566398621
+    },
+    {
+      "text": "independent research company located in",
+      "bbox": [
+        108,
+        192,
+        410,
+        216
+      ],
+      "confidence": 0.9788486957550049
+    },
+    {
+      "text": "ve",
+      "bbox": [
+        632,
+        196,
+        650,
+        208
+      ],
+      "confidence": 0.8213801383972168
+    },
+    {
+      "text": "are conducting a survey and vould like to Include you or someone",
+      "bbox": [
+        107,
+        205,
+        615,
+        232
+      ],
+      "confidence": 0.9666115045547485
+    },
+    {
+      "text": "in your",
+      "bbox": [
+        613,
+        207,
+        673,
+        225
+      ],
+      "confidence": 0.9768008589744568
+    },
+    {
+      "text": "household among the people we are talking to.",
+      "bbox": [
+        108,
+        223,
+        458,
+        245
+      ],
+      "confidence": 0.9807298183441162
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        62,
+        273,
+        82,
+        291
+      ],
+      "confidence": 0.9989428520202637
+    },
+    {
+      "text": "[TODaY/ToNIGHT], I need to speak to people in various age groups.",
+      "bbox": [
+        107,
+        266,
+        619,
+        291
+      ],
+      "confidence": 0.9590520858764648
+    },
+    {
+      "text": "Please tell me: Are you under 25 years ot age, 25-34, 35-49, or 50 or",
+      "bbox": [
+        108,
+        282,
+        659,
+        305
+      ],
+      "confidence": 0.9703841209411621
+    },
+    {
+      "text": "older?",
+      "bbox": [
+        108,
+        303,
+        161,
+        322
+      ],
+      "confidence": 0.9086787700653076
+    },
+    {
+      "text": "Under 25 [Go To Q.2a].",
+      "bbox": [
+        362,
+        330,
+        536,
+        349
+      ],
+      "confidence": 0.9191476702690125
+    },
+    {
+      "text": "Hale 25-34.",
+      "bbox": [
+        362,
+        347,
+        450,
+        364
+      ],
+      "confidence": 0.9815677404403687
+    },
+    {
+      "text": "Hale 35-49..",
+      "bbox": [
+        362,
+        361,
+        462,
+        380
+      ],
+      "confidence": 0.9705968499183655
+    },
+    {
+      "text": "[CHECK AGE AND SEX QUOTAS.",
+      "bbox": [
+        109,
+        376,
+        314,
+        400
+      ],
+      "confidence": 0.9718191623687744
+    },
+    {
+      "text": "Hale S0 or older",
+      "bbox": [
+        363,
+        378,
+        494,
+        395
+      ],
+      "confidence": 0.9625595211982727
+    },
+    {
+      "text": "IF PULL, CONTINUE TO Q.2a;",
+      "bbox": [
+        116,
+        394,
+        320,
+        413
+      ],
+      "confidence": 0.9000664949417114
+    },
+    {
+      "text": "Pemale 25-34.",
+      "bbox": [
+        364,
+        393,
+        466,
+        410
+      ],
+      "confidence": 0.9523842334747314
+    },
+    {
+      "text": "OTHERVISE, SKIP TO Q.3.]",
+      "bbox": [
+        117,
+        409,
+        306,
+        430
+      ],
+      "confidence": 0.9702803492546082
+    },
+    {
+      "text": "Female 35-49..",
+      "bbox": [
+        365,
+        410,
+        478,
+        424
+      ],
+      "confidence": 0.9643352627754211
+    },
+    {
+      "text": "Female S0 or older.......",
+      "bbox": [
+        365,
+        425,
+        569,
+        440
+      ],
+      "confidence": 0.950270414352417
+    },
+    {
+      "text": "RefuSed Ag• [TALLY AND TERMINaTE]..8",
+      "bbox": [
+        365,
+        440,
+        654,
+        457
+      ],
+      "confidence": 0.8917527794837952
+    },
+    {
+      "text": "Sex/Age Quota Filled....",
+      "bbox": [
+        367,
+        457,
+        555,
+        471
+      ],
+      "confidence": 0.9743970036506653
+    },
+    {
+      "text": "[IF RESPONDENT NOT QUALIFIED, ASK:",
+      "bbox": [
+        107,
+        485,
+        376,
+        509
+      ],
+      "confidence": 0.9792985320091248
+    },
+    {
+      "text": "2a.",
+      "bbox": [
+        63,
+        493,
+        90,
+        509
+      ],
+      "confidence": 0.9276297688484192
+    },
+    {
+      "text": "Is there another member of the household age 25 or older?",
+      "bbox": [
+        110,
+        515,
+        559,
+        540
+      ],
+      "confidence": 0.9974836111068726
+    },
+    {
+      "text": "Yes [SKIP TO Q.1]...",
+      "bbox": [
+        366,
+        548,
+        524,
+        569
+      ],
+      "confidence": 0.9655740857124329
+    },
+    {
+      "text": "(TALLY AND TERMINATE]..",
+      "bbox": [
+        390,
+        562,
+        585,
+        584
+      ],
+      "confidence": 0.9356151819229126
+    },
+    {
+      "text": "1",
+      "bbox": [
+        645,
+        552,
+        653,
+        561
+      ],
+      "confidence": 0.9927398562431335
+    },
+    {
+      "text": "No",
+      "bbox": [
+        367,
+        569,
+        398,
+        584
+      ],
+      "confidence": 0.9971138834953308
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        67,
+        617,
+        88,
+        635
+      ],
+      "confidence": 0.998879611492157
+    },
+    {
+      "text": "And, vhich of the folloving products do you, yourself, use DAILy? (READ",
+      "bbox": [
+        112,
+        608,
+        682,
+        634
+      ],
+      "confidence": 0.9739177823066711
+    },
+    {
+      "text": "LIST AND PAUSE FOR ANSVER AFTER EACH ITEH. RECORD ON GRID BELOV.)",
+      "bbox": [
+        113,
+        624,
+        635,
+        650
+      ],
+      "confidence": 0.9811227321624756
+    },
+    {
+      "text": "USE DAILY",
+      "bbox": [
+        494,
+        655,
+        571,
+        676
+      ],
+      "confidence": 0.9977124333381653
+    },
+    {
+      "text": "No$",
+      "bbox": [
+        566,
+        671,
+        589,
+        695
+      ],
+      "confidence": 0.7467496395111084
+    },
+    {
+      "text": "Hilk.",
+      "bbox": [
+        202,
+        722,
+        246,
+        743
+      ],
+      "confidence": 0.9074281454086304
+    },
+    {
+      "text": "Coffee.",
+      "bbox": [
+        206,
+        756,
+        261,
+        773
+      ],
+      "confidence": 0.9942594766616821
+    },
+    {
+      "text": "Cheving Gum.",
+      "bbox": [
+        206,
+        770,
+        297,
+        789
+      ],
+      "confidence": 0.9951381683349609
+    },
+    {
+      "text": "Orange Juice.",
+      "bbox": [
+        206,
+        785,
+        306,
+        806
+      ],
+      "confidence": 0.9877714514732361
+    },
+    {
+      "text": "Pain Relieve",
+      "bbox": [
+        207,
+        800,
+        297,
+        821
+      ],
+      "confidence": 0.9618569016456604
+    },
+    {
+      "text": "Beer..",
+      "bbox": [
+        209,
+        821,
+        259,
+        835
+      ],
+      "confidence": 0.9911651611328125
+    },
+    {
+      "text": "Houthvash.",
+      "bbox": [
+        209,
+        835,
+        287,
+        849
+      ],
+      "confidence": 0.992732048034668
+    },
+    {
+      "text": "50642 0247",
+      "bbox": [
+        718,
+        842,
+        748,
+        944
+      ],
+      "confidence": 0.9991645812988281
+    },
+    {
+      "text": "Cigarettes.",
+      "bbox": [
+        209,
+        849,
+        296,
+        865
+      ],
+      "confidence": 0.9984548687934875
+    },
+    {
+      "text": "Breath Mints",
+      "bbox": [
+        209,
+        862,
+        303,
+        881
+      ],
+      "confidence": 0.9753027558326721
+    },
+    {
+      "text": "Toothpaste.",
+      "bbox": [
+        209,
+        877,
+        300,
+        896
+      ],
+      "confidence": 0.9598360061645508
+    },
+    {
+      "text": "Soft Drinks....",
+      "bbox": [
+        212,
+        895,
+        325,
+        909
+      ],
+      "confidence": 0.9893120527267456
+    },
+    {
+      "text": "(DO NOT KEAD) NOne of these.",
+      "bbox": [
+        213,
+        904,
+        425,
+        927
+      ],
+      "confidence": 0.8923960328102112
+    }
+  ],
+  "full_text": "ATTACHMENT \nSCREENER\n1)\nHello, I'm\nvith\nan\nindependent research company located in\nve\nare conducting a survey and vould like to Include you or someone\nin your\nhousehold among the people we are talking to.\n2.\n[TODaY/ToNIGHT], I need to speak to people in various age groups.\nPlease tell me: Are you under 25 years ot age, 25-34, 35-49, or 50 or\nolder?\nUnder 25 [Go To Q.2a].\nHale 25-34.\nHale 35-49..\n[CHECK AGE AND SEX QUOTAS.\nHale S0 or older\nIF PULL, CONTINUE TO Q.2a;\nPemale 25-34.\nOTHERVISE, SKIP TO Q.3.]\nFemale 35-49..\nFemale S0 or older.......\nRefuSed Ag• [TALLY AND TERMINaTE]..8\nSex/Age Quota Filled....\n[IF RESPONDENT NOT QUALIFIED, ASK:\n2a.\nIs there another member of the household age 25 or older?\nYes [SKIP TO Q.1]...\n(TALLY AND TERMINATE]..\n1\nNo\n3.\nAnd, vhich of the folloving products do you, yourself, use DAILy? (READ\nLIST AND PAUSE FOR ANSVER AFTER EACH ITEH. RECORD ON GRID BELOV.)\nUSE DAILY\nNo$\nHilk.\nCoffee.\nCheving Gum.\nOrange Juice.\nPain Relieve\nBeer..\nHouthvash.\n50642 0247\nCigarettes.\nBreath Mints\nToothpaste.\nSoft Drinks....\n(DO NOT KEAD) NOne of these."
+}

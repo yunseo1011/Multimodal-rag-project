@@ -1,0 +1,261 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0718.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FOR IMMEDIATE RELEASE",
+      "bbox": [
+        77,
+        161,
+        306,
+        178
+      ],
+      "confidence": 0.9950671195983887
+    },
+    {
+      "text": "CONTACT:",
+      "bbox": [
+        366,
+        160,
+        455,
+        178
+      ],
+      "confidence": 0.9996206760406494
+    },
+    {
+      "text": "DOLLY COLBY",
+      "bbox": [
+        499,
+        158,
+        628,
+        181
+      ],
+      "confidence": 0.9938445687294006
+    },
+    {
+      "text": "212-878-2144",
+      "bbox": [
+        499,
+        176,
+        622,
+        197
+      ],
+      "confidence": 0.9999861717224121
+    },
+    {
+      "text": "PHILIP MORRIS U.S.A. STATEMENT",
+      "bbox": [
+        208,
+        243,
+        515,
+        265
+      ],
+      "confidence": 0.9974716901779175
+    },
+    {
+      "text": "ON RULING IN ENGLE CLASS-ACTION CASE",
+      "bbox": [
+        170,
+        261,
+        555,
+        284
+      ],
+      "confidence": 0.9944825768470764
+    },
+    {
+      "text": "NEW YORK, Jan. 31, 1996 -- Today's decision by a three-judge panel of",
+      "bbox": [
+        124,
+        320,
+        639,
+        343
+      ],
+      "confidence": 0.9717638492584229
+    },
+    {
+      "text": "the District Court of Appeal to allow a limited class, consisting of citizens and",
+      "bbox": [
+        75,
+        345,
+        621,
+        365
+      ],
+      "confidence": 0.9747889041900635
+    },
+    {
+      "text": "residents of Florida who allegedly have been both \"addicted\" and injured as a",
+      "bbox": [
+        75,
+        369,
+        633,
+        389
+      ],
+      "confidence": 0.9866940379142761
+    },
+    {
+      "text": "result of their cigarette smoking, to go forward as a class action is contrary to",
+      "bbox": [
+        76,
+        393,
+        625,
+        413
+      ],
+      "confidence": 0.979336142539978
+    },
+    {
+      "text": "Florida law, and will create an unmanageable litigation nightmare for Florida",
+      "bbox": [
+        76,
+        416,
+        625,
+        436
+      ],
+      "confidence": 0.9913361668586731
+    },
+    {
+      "text": "courts.",
+      "bbox": [
+        74,
+        442,
+        132,
+        463
+      ],
+      "confidence": 0.99997478723526
+    },
+    {
+      "text": "This litigation is no more workable as a statewide class than it would",
+      "bbox": [
+        125,
+        463,
+        617,
+        487
+      ],
+      "confidence": 0.9931402206420898
+    },
+    {
+      "text": "have been as a nationwide class.",
+      "bbox": [
+        75,
+        489,
+        320,
+        511
+      ],
+      "confidence": 0.9875808954238892
+    },
+    {
+      "text": "Philip Morris U.S.A. will ask for a rehearing by the panel and by the entire",
+      "bbox": [
+        124,
+        511,
+        655,
+        535
+      ],
+      "confidence": 0.9903953075408936
+    },
+    {
+      "text": "Third District Court of Appeal and, failing that, will ask the Florida Supreme",
+      "bbox": [
+        76,
+        535,
+        618,
+        559
+      ],
+      "confidence": 0.9859433174133301
+    },
+    {
+      "text": "Court to review the decision.",
+      "bbox": [
+        76,
+        559,
+        286,
+        582
+      ],
+      "confidence": 0.992445707321167
+    },
+    {
+      "text": "Cases brought by smokers against the cigarette companies inevitably",
+      "bbox": [
+        124,
+        582,
+        630,
+        604
+      ],
+      "confidence": 0.9910750985145569
+    },
+    {
+      "text": "turn on highly individual and personalized issues such as injury, reliance and",
+      "bbox": [
+        75,
+        605,
+        638,
+        629
+      ],
+      "confidence": 0.9971461296081543
+    },
+    {
+      "text": "comparative fault. By their very nature, these cases are not capable of being",
+      "bbox": [
+        76,
+        629,
+        632,
+        654
+      ],
+      "confidence": 0.987775444984436
+    },
+    {
+      "text": "tried in one massive class action involving potentially hundreds of thousands, or",
+      "bbox": [
+        76,
+        653,
+        658,
+        678
+      ],
+      "confidence": 0.9843535423278809
+    },
+    {
+      "text": "millions, of claims.",
+      "bbox": [
+        76,
+        681,
+        211,
+        704
+      ],
+      "confidence": 0.9904863238334656
+    },
+    {
+      "text": "#",
+      "bbox": [
+        313,
+        733,
+        325,
+        748
+      ],
+      "confidence": 0.9999539852142334
+    },
+    {
+      "text": "#",
+      "bbox": [
+        358,
+        730,
+        374,
+        749
+      ],
+      "confidence": 0.9999324083328247
+    },
+    {
+      "text": "#",
+      "bbox": [
+        406,
+        732,
+        419,
+        747
+      ],
+      "confidence": 0.9996786117553711
+    }
+  ],
+  "full_text": "FOR IMMEDIATE RELEASE\nCONTACT:\nDOLLY COLBY\n212-878-2144\nPHILIP MORRIS U.S.A. STATEMENT\nON RULING IN ENGLE CLASS-ACTION CASE\nNEW YORK, Jan. 31, 1996 -- Today's decision by a three-judge panel of\nthe District Court of Appeal to allow a limited class, consisting of citizens and\nresidents of Florida who allegedly have been both \"addicted\" and injured as a\nresult of their cigarette smoking, to go forward as a class action is contrary to\nFlorida law, and will create an unmanageable litigation nightmare for Florida\ncourts.\nThis litigation is no more workable as a statewide class than it would\nhave been as a nationwide class.\nPhilip Morris U.S.A. will ask for a rehearing by the panel and by the entire\nThird District Court of Appeal and, failing that, will ask the Florida Supreme\nCourt to review the decision.\nCases brought by smokers against the cigarette companies inevitably\nturn on highly individual and personalized issues such as injury, reliance and\ncomparative fault. By their very nature, these cases are not capable of being\ntried in one massive class action involving potentially hundreds of thousands, or\nmillions, of claims.\n#\n#\n#"
+}

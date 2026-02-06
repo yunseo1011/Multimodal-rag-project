@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0710.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2075174488",
+      "bbox": [
+        93,
+        541,
+        192,
+        564
+      ],
+      "confidence": 0.9999752044677734
+    },
+    {
+      "text": "UK DOAPNESENATION",
+      "bbox": [
+        21,
+        701,
+        306,
+        740
+      ],
+      "confidence": 0.7719938158988953
+    }
+  ],
+  "full_text": "2075174488\nUK DOAPNESENATION"
+}

@@ -1,0 +1,641 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0250.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Eavironment Intemationsl, Vol. 20. Na. 6. pp.693-712, 1994",
+      "bbox": [
+        474,
+        144,
+        698,
+        163
+      ],
+      "confidence": 0.8884342908859253
+    },
+    {
+      "text": "Copyright ©1994 neevier Selence Lid",
+      "bbox": [
+        549,
+        153,
+        698,
+        170
+      ],
+      "confidence": 0.8450033664703369
+    },
+    {
+      "text": "Pergamon",
+      "bbox": [
+        129,
+        165,
+        188,
+        183
+      ],
+      "confidence": 0.9994696378707886
+    },
+    {
+      "text": "histed in the USA., All righte rewered",
+      "bbox": [
+        560,
+        162,
+        698,
+        179
+      ],
+      "confidence": 0.8941459655761719
+    },
+    {
+      "text": "0160-4120/94 $6.00 +.00",
+      "bbox": [
+        599,
+        170,
+        698,
+        186
+      ],
+      "confidence": 0.8983657956123352
+    },
+    {
+      "text": "0160-4120(94)00025-5",
+      "bbox": [
+        305,
+        204,
+        435,
+        223
+      ],
+      "confidence": 0.9834505915641785
+    },
+    {
+      "text": "ASSESSMENT OF PERSONAL EXPOSURES",
+      "bbox": [
+        80,
+        241,
+        494,
+        265
+      ],
+      "confidence": 0.9985803365707397
+    },
+    {
+      "text": "TO ENVIRONMENTAL TOBACCO SMOKE IN",
+      "bbox": [
+        79,
+        260,
+        495,
+        283
+      ],
+      "confidence": 0.9943514466285706
+    },
+    {
+      "text": ". BRITISH NONSMOKERS",
+      "bbox": [
+        75,
+        283,
+        312,
+        300
+      ],
+      "confidence": 0.9865388870239258
+    },
+    {
+      "text": "Keith Phillips, David A. Howard, David Browne, and J. Mark Lewsley",
+      "bbox": [
+        81,
+        328,
+        465,
+        347
+      ],
+      "confidence": 0.9928138256072998
+    },
+    {
+      "text": "Hazloton Europo, Harrogato, North Yorkshire, HG3 1PY, England",
+      "bbox": [
+        82,
+        343,
+        373,
+        359
+      ],
+      "confidence": 0.9794122576713562
+    },
+    {
+      "text": "EI 9405-153 M (Received 12 May 1994; accepted 2 July 1994)",
+      "bbox": [
+        83,
+        377,
+        352,
+        392
+      ],
+      "confidence": 0.9657981395721436
+    },
+    {
+      "text": "Eavironmental Tobscco Smoke (ETS) exposure of 255 nonsmoking subjects was assessed by",
+      "bbox": [
+        82,
+        407,
+        541,
+        427
+      ],
+      "confidence": 0.9812742471694946
+    },
+    {
+      "text": "several methods. Each subject wore a personal air sampler for 24 h, answered a questionnaire",
+      "bbox": [
+        83,
+        419,
+        540,
+        438
+      ],
+      "confidence": 0.9627113938331604
+    },
+    {
+      "text": "about air quality and ET'S exposure, and provided saliva samples for cotinine analysis before and",
+      "bbox": [
+        83,
+        427,
+        540,
+        449
+      ],
+      "confidence": 0.8589233756065369
+    },
+    {
+      "text": "fer the monitoring period. The stedy was conducted in the Leeds and Harrogate areas of northern",
+      "bbox": [
+        83,
+        437,
+        539,
+        459
+      ],
+      "confidence": 0.8506219387054443
+    },
+    {
+      "text": "England. Median exposure to ETS particles was below the detection limit of 4 μg m'. Median",
+      "bbox": [
+        82,
+        448,
+        540,
+        469
+      ],
+      "confidence": 0.9440274834632874
+    },
+    {
+      "text": "exposure to nicotine was 0.5 ug m\" and median saliva cotinine levels were O.7 ng mL and",
+      "bbox": [
+        82,
+        459,
+        540,
+        479
+      ],
+      "confidence": 0.9001418948173523
+    },
+    {
+      "text": "0.6 ng mL. for the pre- and post-cotinine samples. Median exposure to particles from all souroes",
+      "bbox": [
+        83,
+        469,
+        539,
+        489
+      ],
+      "confidence": 0.8959541320800781
+    },
+    {
+      "text": "was 142 ug m'. Approximxtely 80% of subjecis assessed their ETS exposure as none or low. On",
+      "bbox": [
+        82,
+        480,
+        540,
+        500
+      ],
+      "confidence": 0.9029850959777832
+    },
+    {
+      "text": "average, the home mado tho greatest contribution to ETS exposuro, followed by lelaure, and then",
+      "bbox": [
+        82,
+        489,
+        540,
+        510
+      ],
+      "confidence": 0.8731981515884399
+    },
+    {
+      "text": "work. Travel war x minor contributor to exposure. Overell, subjocts with a pertner who smoked",
+      "bbox": [
+        82,
+        500,
+        540,
+        521
+      ],
+      "confidence": 0.9505981802940369
+    },
+    {
+      "text": "were exposed to more ETS than subjects with no partner or & monsmoking partner. However, there",
+      "bbox": [
+        82,
+        510,
+        540,
+        531
+      ],
+      "confidence": 0.9015132188796997
+    },
+    {
+      "text": "was considerable overiap in the exposures of individusls withia these groups. Where subjects",
+      "bbox": [
+        82,
+        520,
+        541,
+        541
+      ],
+      "confidence": 0.9566987156867981
+    },
+    {
+      "text": "assessed thelr Bts exposure as none or low, this was genorally supported by the direct measure-",
+      "bbox": [
+        83,
+        531,
+        540,
+        551
+      ],
+      "confidence": 0.9121792316436768
+    },
+    {
+      "text": "ments of exposure. However, for exposure assessed as moderate or high there was a wids range",
+      "bbox": [
+        82,
+        542,
+        540,
+        561
+      ],
+      "confidence": 0.9706990718841553
+    },
+    {
+      "text": "in the corresponding direct measurements. Thore was a moderate correlation between exposure",
+      "bbox": [
+        82,
+        553,
+        540,
+        571
+      ],
+      "confidence": 0.9620161652565002
+    },
+    {
+      "text": "to nicotine and exposure to ETS particles (R-0.66). but poor correlation between nicotine",
+      "bbox": [
+        82,
+        561,
+        540,
+        582
+      ],
+      "confidence": 0.9099485278129578
+    },
+    {
+      "text": "exposure and saliva cotinine levels (R=0.07 for pre- and R³=0.13 for postcotinine samples).",
+      "bbox": [
+        82,
+        574,
+        540,
+        591
+      ],
+      "confidence": 0.9546030163764954
+    },
+    {
+      "text": "Overall, ETS made only a small (median 2.5%) comtribution to particles from all sources as",
+      "bbox": [
+        82,
+        584,
+        540,
+        601
+      ],
+      "confidence": 0.9848803877830505
+    },
+    {
+      "text": "collected by the personal monitor. Exposure to ETS particles did not correlate (R²-O.04) with",
+      "bbox": [
+        82,
+        595,
+        540,
+        611
+      ],
+      "confidence": 0.9538676738739014
+    },
+    {
+      "text": "exposure to particles from all sources. Out of 327 volunteers recruited as nonsmokers for this",
+      "bbox": [
+        82,
+        603,
+        540,
+        623
+      ],
+      "confidence": 0.9464864730834961
+    },
+    {
+      "text": "study, 53 (16%) were identified as likely smokers by saliva cotinino lovels or detailed questloning.",
+      "bbox": [
+        82,
+        615,
+        540,
+        632
+      ],
+      "confidence": 0.9701390266418457
+    },
+    {
+      "text": "ly measured exposure, It is also important to deter-",
+      "bbox": [
+        391,
+        693,
+        701,
+        715
+      ],
+      "confidence": 0.9882078170776367
+    },
+    {
+      "text": "INTRODUCTION",
+      "bbox": [
+        82,
+        702,
+        177,
+        715
+      ],
+      "confidence": 0.9994966983795166
+    },
+    {
+      "text": "mine how well ETS exposure can be predicted by",
+      "bbox": [
+        390,
+        707,
+        700,
+        728
+      ],
+      "confidence": 0.9842678308486938
+    },
+    {
+      "text": "Two main approaches have been used in the past",
+      "bbox": [
+        94,
+        720,
+        374,
+        737
+      ],
+      "confidence": 0.9966766238212585
+    },
+    {
+      "text": "questionnaire or by mcasurements of saliva cotinine",
+      "bbox": [
+        391,
+        720,
+        701,
+        742
+      ],
+      "confidence": 0.9891999363899231
+    },
+    {
+      "text": "to assess whether thcre is any risk associated with",
+      "bbox": [
+        79,
+        731,
+        373,
+        752
+      ],
+      "confidence": 0.9727857708930969
+    },
+    {
+      "text": "since these approaches are also used as an alternative",
+      "bbox": [
+        390,
+        734,
+        701,
+        755
+      ],
+      "confidence": 0.9959588646888733
+    },
+    {
+      "text": "exposure to ETS. One is based on epidemiology and",
+      "bbox": [
+        79,
+        746,
+        373,
+        764
+      ],
+      "confidence": 0.9730582237243652
+    },
+    {
+      "text": "to direct measurements of exposure. In the case of",
+      "bbox": [
+        389,
+        749,
+        702,
+        768
+      ],
+      "confidence": 0.9868073463439941
+    },
+    {
+      "text": "2502252178",
+      "bbox": [
+        729,
+        744,
+        753,
+        843
+      ],
+      "confidence": 0.9999849200248718
+    },
+    {
+      "text": "the other based on the quantities of smoke constituents",
+      "bbox": [
+        79,
+        759,
+        373,
+        777
+      ],
+      "confidence": 0.9860115051269531
+    },
+    {
+      "text": "cotinine measurements, consideration must be given",
+      "bbox": [
+        389,
+        763,
+        701,
+        781
+      ],
+      "confidence": 0.9961879253387451
+    },
+    {
+      "text": "to which nonsmokers are exposed.",
+      "bbox": [
+        78,
+        773,
+        275,
+        789
+      ],
+      "confidence": 0.9829434752464294
+    },
+    {
+      "text": "A criticism of published epidemiological studies",
+      "bbox": [
+        93,
+        784,
+        372,
+        802
+      ],
+      "confidence": 0.9857290387153625
+    },
+    {
+      "text": "to threshold levels (Etzel 1990) in order to exclude",
+      "bbox": [
+        389,
+        775,
+        701,
+        795
+      ],
+      "confidence": 0.9695618152618408
+    },
+    {
+      "text": "of ETS is that almost all failed to include a direct",
+      "bbox": [
+        78,
+        797,
+        372,
+        816
+      ],
+      "confidence": 0.9627934694290161
+    },
+    {
+      "text": "smokers from ETS exposure evaluation. There have",
+      "bbox": [
+        389,
+        790,
+        701,
+        808
+      ],
+      "confidence": 0.9867391586303711
+    },
+    {
+      "text": "measurement of exposure level (Coultas et al. 1989).",
+      "bbox": [
+        78,
+        810,
+        371,
+        830
+      ],
+      "confidence": 0.9659236073493958
+    },
+    {
+      "text": "been various definitions of a regular smoker. The",
+      "bbox": [
+        389,
+        803,
+        700,
+        823
+      ],
+      "confidence": 0.9889925122261047
+    },
+    {
+      "text": "Although spousal smoking has frequently been used",
+      "bbox": [
+        78,
+        825,
+        372,
+        843
+      ],
+      "confidence": 0.9935242533683777
+    },
+    {
+      "text": "EPA for example defined regular smokers as those",
+      "bbox": [
+        390,
+        819,
+        699,
+        835
+      ],
+      "confidence": 0.9840847849845886
+    },
+    {
+      "text": "as an index of exposure in these studies, the accuracy",
+      "bbox": [
+        77,
+        838,
+        371,
+        857
+      ],
+      "confidence": 0.9912490248680115
+    },
+    {
+      "text": "having more than 30% of the average cotinine level",
+      "bbox": [
+        390,
+        833,
+        700,
+        849
+      ],
+      "confidence": 0.9903578758239746
+    },
+    {
+      "text": "found for smokers.",
+      "bbox": [
+        390,
+        847,
+        502,
+        863
+      ],
+      "confidence": 0.9992483854293823
+    },
+    {
+      "text": "of this approach has been questioncd (Koo ct al.",
+      "bbox": [
+        77,
+        851,
+        372,
+        870
+      ],
+      "confidence": 0.9763129353523254
+    },
+    {
+      "text": "Most of the information about the quantities of",
+      "bbox": [
+        404,
+        858,
+        700,
+        875
+      ],
+      "confidence": 0.9858617782592773
+    },
+    {
+      "text": "1987). Therefore, it is important to determine how",
+      "bbox": [
+        78,
+        864,
+        372,
+        883
+      ],
+      "confidence": 0.9723215699195862
+    },
+    {
+      "text": "smoke constituents to which nonsmokers may be ex-",
+      "bbox": [
+        391,
+        872,
+        700,
+        891
+      ],
+      "confidence": 0.998931884765625
+    },
+    {
+      "text": "well reported spousal smoking correlates with direct-",
+      "bbox": [
+        77,
+        878,
+        372,
+        897
+      ],
+      "confidence": 0.9908547401428223
+    },
+    {
+      "text": "693",
+      "bbox": [
+        372,
+        915,
+        393,
+        931
+      ],
+      "confidence": 0.9996905326843262
+    }
+  ],
+  "full_text": "Eavironment Intemationsl, Vol. 20. Na. 6. pp.693-712, 1994\nCopyright ©1994 neevier Selence Lid\nPergamon\nhisted in the USA., All righte rewered\n0160-4120/94 $6.00 +.00\n0160-4120(94)00025-5\nASSESSMENT OF PERSONAL EXPOSURES\nTO ENVIRONMENTAL TOBACCO SMOKE IN\n. BRITISH NONSMOKERS\nKeith Phillips, David A. Howard, David Browne, and J. Mark Lewsley\nHazloton Europo, Harrogato, North Yorkshire, HG3 1PY, England\nEI 9405-153 M (Received 12 May 1994; accepted 2 July 1994)\nEavironmental Tobscco Smoke (ETS) exposure of 255 nonsmoking subjects was assessed by\nseveral methods. Each subject wore a personal air sampler for 24 h, answered a questionnaire\nabout air quality and ET'S exposure, and provided saliva samples for cotinine analysis before and\nfer the monitoring period. The stedy was conducted in the Leeds and Harrogate areas of northern\nEngland. Median exposure to ETS particles was below the detection limit of 4 μg m'. Median\nexposure to nicotine was 0.5 ug m\" and median saliva cotinine levels were O.7 ng mL and\n0.6 ng mL. for the pre- and post-cotinine samples. Median exposure to particles from all souroes\nwas 142 ug m'. Approximxtely 80% of subjecis assessed their ETS exposure as none or low. On\naverage, the home mado tho greatest contribution to ETS exposuro, followed by lelaure, and then\nwork. Travel war x minor contributor to exposure. Overell, subjocts with a pertner who smoked\nwere exposed to more ETS than subjects with no partner or & monsmoking partner. However, there\nwas considerable overiap in the exposures of individusls withia these groups. Where subjects\nassessed thelr Bts exposure as none or low, this was genorally supported by the direct measure-\nments of exposure. However, for exposure assessed as moderate or high there was a wids range\nin the corresponding direct measurements. Thore was a moderate correlation between exposure\nto nicotine and exposure to ETS particles (R-0.66). but poor correlation between nicotine\nexposure and saliva cotinine levels (R=0.07 for pre- and R³=0.13 for postcotinine samples).\nOverall, ETS made only a small (median 2.5%) comtribution to particles from all sources as\ncollected by the personal monitor. Exposure to ETS particles did not correlate (R²-O.04) with\nexposure to particles from all sources. Out of 327 volunteers recruited as nonsmokers for this\nstudy, 53 (16%) were identified as likely smokers by saliva cotinino lovels or detailed questloning.\nly measured exposure, It is also important to deter-\nINTRODUCTION\nmine how well ETS exposure can be predicted by\nTwo main approaches have been used in the past\nquestionnaire or by mcasurements of saliva cotinine\nto assess whether thcre is any risk associated with\nsince these approaches are also used as an alternative\nexposure to ETS. One is based on epidemiology and\nto direct measurements of exposure. In the case of\n2502252178\nthe other based on the quantities of smoke constituents\ncotinine measurements, consideration must be given\nto which nonsmokers are exposed.\nA criticism of published epidemiological studies\nto threshold levels (Etzel 1990) in order to exclude\nof ETS is that almost all failed to include a direct\nsmokers from ETS exposure evaluation. There have\nmeasurement of exposure level (Coultas et al. 1989).\nbeen various definitions of a regular smoker. The\nAlthough spousal smoking has frequently been used\nEPA for example defined regular smokers as those\nas an index of exposure in these studies, the accuracy\nhaving more than 30% of the average cotinine level\nfound for smokers.\nof this approach has been questioncd (Koo ct al.\nMost of the information about the quantities of\n1987). Therefore, it is important to determine how\nsmoke constituents to which nonsmokers may be ex-\nwell reported spousal smoking correlates with direct-\n693"
+}

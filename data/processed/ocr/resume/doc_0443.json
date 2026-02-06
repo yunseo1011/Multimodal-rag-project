@@ -1,0 +1,201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0443.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        75,
+        19,
+        245,
+        42
+      ],
+      "confidence": 0.9347457885742188
+    },
+    {
+      "text": "NAME VINCKEN",
+      "bbox": [
+        69,
+        73,
+        192,
+        94
+      ],
+      "confidence": 0.942998468875885
+    },
+    {
+      "text": "GIVEN NAMES : WaLter, Guótaaf",
+      "bbox": [
+        65,
+        98,
+        318,
+        121
+      ],
+      "confidence": 0.8627399206161499
+    },
+    {
+      "text": "DATE OF*BIKTH : MarCh 25y1952",
+      "bbox": [
+        59,
+        124,
+        323,
+        144
+      ],
+      "confidence": 0.8312568664550781
+    },
+    {
+      "text": "MARITAL, STATUS: MARE\"",
+      "bbox": [
+        61,
+        170,
+        283,
+        192
+      ],
+      "confidence": 0.8505580425262451
+    },
+    {
+      "text": "SECUNDARY EDUCATION",
+      "bbox": [
+        53,
+        215,
+        229,
+        239
+      ],
+      "confidence": 0.9732344746589661
+    },
+    {
+      "text": "Sint-Piéterscollege, 1090  Brussels",
+      "bbox": [
+        54,
+        247,
+        369,
+        270
+      ],
+      "confidence": 0.9382485747337341
+    },
+    {
+      "text": "Section : Latin-Mathematics",
+      "bbox": [
+        50,
+        272,
+        293,
+        292
+      ],
+      "confidence": 0.96229487657547
+    },
+    {
+      "text": ".1963 - 1969",
+      "bbox": [
+        49,
+        295,
+        157,
+        317
+      ],
+      "confidence": 0.9303646683692932
+    },
+    {
+      "text": "Degree : First Price",
+      "bbox": [
+        55,
+        322,
+        233,
+        342
+      ],
+      "confidence": 0.9990466833114624
+    },
+    {
+      "text": "..UNIVERSITY EDUCAYTON",
+      "bbox": [
+        43,
+        369,
+        230,
+        391
+      ],
+      "confidence": 0.9118592739105225
+    },
+    {
+      "text": "v.U.B. (Free Universit of.Brùssels), Brussels",
+      "bbox": [
+        50,
+        401,
+        452,
+        425
+      ],
+      "confidence": 0.9378049969673157
+    },
+    {
+      "text": "'.1969-1976",
+      "bbox": [
+        45,
+        426,
+        135,
+        447
+      ],
+      "confidence": 0.9517719149589539
+    },
+    {
+      "text": "Degree : doctor in medecine, surgery and obstetrics, with grand distinction.",
+      "bbox": [
+        41,
+        452,
+        711,
+        475
+      ],
+      "confidence": 0.9744804501533508
+    },
+    {
+      "text": "POST GRADUATE COURSES",
+      "bbox": [
+        41,
+        499,
+        232,
+        521
+      ],
+      "confidence": 0.989508867263794
+    },
+    {
+      "text": ".V.U.B. (Free Universitj.of Brussels), Brussels",
+      "bbox": [
+        32,
+        531,
+        450,
+        554
+      ],
+      "confidence": 0.8838403820991516
+    },
+    {
+      "text": "specialization in Internal Medecine and Pneumology, as an assistant to",
+      "bbox": [
+        36,
+        553,
+        664,
+        584
+      ],
+      "confidence": 0.9841970205307007
+    },
+    {
+      "text": "the Brugmann Universtty Hosprtal from 1976 to November 1979, and at the",
+      "bbox": [
+        37,
+        573,
+        670,
+        601
+      ],
+      "confidence": 0.9550253748893738
+    },
+    {
+      "text": "Academic Hospital of:the V.U,B. from November 1979 on.",
+      "bbox": [
+        34,
+        597,
+        515,
+        625
+      ],
+      "confidence": 0.946908175945282
+    }
+  ],
+  "full_text": "CURRICULUM VITAE\nNAME VINCKEN\nGIVEN NAMES : WaLter, Guótaaf\nDATE OF*BIKTH : MarCh 25y1952\nMARITAL, STATUS: MARE\"\nSECUNDARY EDUCATION\nSint-Piéterscollege, 1090  Brussels\nSection : Latin-Mathematics\n.1963 - 1969\nDegree : First Price\n..UNIVERSITY EDUCAYTON\nv.U.B. (Free Universit of.Brùssels), Brussels\n'.1969-1976\nDegree : doctor in medecine, surgery and obstetrics, with grand distinction.\nPOST GRADUATE COURSES\n.V.U.B. (Free Universitj.of Brussels), Brussels\nspecialization in Internal Medecine and Pneumology, as an assistant to\nthe Brugmann Universtty Hosprtal from 1976 to November 1979, and at the\nAcademic Hospital of:the V.U,B. from November 1979 on."
+}

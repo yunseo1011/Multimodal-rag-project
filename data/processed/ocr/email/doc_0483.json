@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0483.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2070091822",
+      "bbox": [
+        330,
+        68,
+        421,
+        85
+      ],
+      "confidence": 0.9996954202651978
+    },
+    {
+      "text": ".--OrigiInai Message---",
+      "bbox": [
+        92,
+        97,
+        214,
+        110
+      ],
+      "confidence": 0.9060117602348328
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        91,
+        109,
+        127,
+        124
+      ],
+      "confidence": 0.9997109174728394
+    },
+    {
+      "text": "Levy, Carolyn J.",
+      "bbox": [
+        186,
+        105,
+        270,
+        121
+      ],
+      "confidence": 0.9952535629272461
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        90,
+        121,
+        123,
+        136
+      ],
+      "confidence": 0.9982770681381226
+    },
+    {
+      "text": "Wednesday, September 15, 1999 1:55 PM",
+      "bbox": [
+        185,
+        115,
+        397,
+        134
+      ],
+      "confidence": 0.9935876727104187
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        90,
+        134,
+        115,
+        150
+      ],
+      "confidence": 0.9989833831787109
+    },
+    {
+      "text": "Hamilton, Theresa",
+      "bbox": [
+        188,
+        132,
+        281,
+        145
+      ],
+      "confidence": 0.9640516638755798
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        90,
+        156,
+        139,
+        177
+      ],
+      "confidence": 0.9944154024124146
+    },
+    {
+      "text": "Cc:",
+      "bbox": [
+        91,
+        146,
+        115,
+        162
+      ],
+      "confidence": 0.9665655493736267
+    },
+    {
+      "text": "RE: WCAN Directory Photos",
+      "bbox": [
+        186,
+        153,
+        328,
+        171
+      ],
+      "confidence": 0.9648464918136597
+    },
+    {
+      "text": "Cusato, Denise",
+      "bbox": [
+        188,
+        144,
+        265,
+        158
+      ],
+      "confidence": 0.9903400540351868
+    },
+    {
+      "text": "I'll ask Denise Cusato to choose the photo for me",
+      "bbox": [
+        92,
+        181,
+        384,
+        204
+      ],
+      "confidence": 0.9623140096664429
+    },
+    {
+      "text": "thanks",
+      "bbox": [
+        92,
+        217,
+        135,
+        235
+      ],
+      "confidence": 0.9999589920043945
+    },
+    {
+      "text": "Carolyn Levy",
+      "bbox": [
+        92,
+        245,
+        166,
+        264
+      ],
+      "confidence": 0.9992033839225769
+    },
+    {
+      "text": "YSP",
+      "bbox": [
+        93,
+        261,
+        120,
+        279
+      ],
+      "confidence": 0.9995682835578918
+    },
+    {
+      "text": "917-663-2253",
+      "bbox": [
+        91,
+        273,
+        171,
+        294
+      ],
+      "confidence": 0.9958073496818542
+    }
+  ],
+  "full_text": "2070091822\n.--OrigiInai Message---\nFrom:\nLevy, Carolyn J.\nSent:\nWednesday, September 15, 1999 1:55 PM\nTo:\nHamilton, Theresa\nSubject:\nCc:\nRE: WCAN Directory Photos\nCusato, Denise\nI'll ask Denise Cusato to choose the photo for me\nthanks\nCarolyn Levy\nYSP\n917-663-2253"
+}

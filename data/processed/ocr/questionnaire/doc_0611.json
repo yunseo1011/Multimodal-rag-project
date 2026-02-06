@@ -1,0 +1,1131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0611.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "{",
+      "bbox": [
+        226,
+        10,
+        249,
+        35
+      ],
+      "confidence": 0.6614790558815002
+    },
+    {
+      "text": "Dear Consumer:",
+      "bbox": [
+        34,
+        45,
+        151,
+        67
+      ],
+      "confidence": 0.9995505213737488
+    },
+    {
+      "text": "telephone to obtain your results.",
+      "bbox": [
+        29,
+        139,
+        298,
+        167
+      ],
+      "confidence": 0.99298095703125
+    },
+    {
+      "text": "Please follow the directions and fill out the questionnaire completely.",
+      "bbox": [
+        26,
+        168,
+        589,
+        203
+      ],
+      "confidence": 0.99164879322052
+    },
+    {
+      "text": "How many cigarettes do you normally smoke per day?",
+      "bbox": [
+        68,
+        202,
+        467,
+        230
+      ],
+      "confidence": 0.9933534264564514
+    },
+    {
+      "text": "Which of these age categories best describes your age?",
+      "bbox": [
+        66,
+        233,
+        494,
+        259
+      ],
+      "confidence": 0.9903557896614075
+    },
+    {
+      "text": "21-24",
+      "bbox": [
+        91,
+        262,
+        140,
+        284
+      ],
+      "confidence": 0.9997272491455078
+    },
+    {
+      "text": "25-34",
+      "bbox": [
+        185,
+        264,
+        235,
+        285
+      ],
+      "confidence": 0.9994141459465027
+    },
+    {
+      "text": "35-44",
+      "bbox": [
+        280,
+        265,
+        328,
+        287
+      ],
+      "confidence": 0.9180607795715332
+    },
+    {
+      "text": "45-54",
+      "bbox": [
+        373,
+        269,
+        419,
+        287
+      ],
+      "confidence": 0.9991886019706726
+    },
+    {
+      "text": "55-65",
+      "bbox": [
+        463,
+        270,
+        519,
+        287
+      ],
+      "confidence": 0.9958361387252808
+    },
+    {
+      "text": "Over 65",
+      "bbox": [
+        548,
+        269,
+        623,
+        289
+      ],
+      "confidence": 0.9980896711349487
+    },
+    {
+      "text": "How long have you been smoking your regular brand?",
+      "bbox": [
+        65,
+        293,
+        470,
+        318
+      ],
+      "confidence": 0.9888508319854736
+    },
+    {
+      "text": "PHASE I",
+      "bbox": [
+        339,
+        348,
+        398,
+        359
+      ],
+      "confidence": 0.9974069595336914
+    },
+    {
+      "text": "Firot smoke the three (3) packs of the cigarettes coded \"H\" at your leisure.",
+      "bbox": [
+        18,
+        366,
+        621,
+        395
+      ],
+      "confidence": 0.9817935824394226
+    },
+    {
+      "text": "Below are pairs of phrases which might be usod to describe the cigarette coded \"H.\"",
+      "bbox": [
+        16,
+        395,
+        676,
+        427
+      ],
+      "confidence": 0.9815707802772522
+    },
+    {
+      "text": "A scale is drawn between each pair of phrases containing the numbers 1-7. Circle the",
+      "bbox": [
+        15,
+        410,
+        691,
+        442
+      ],
+      "confidence": 0.982347846031189
+    },
+    {
+      "text": "position that you feel more nearly describes the cigarette. The more you feel that a",
+      "bbox": [
+        16,
+        428,
+        690,
+        454
+      ],
+      "confidence": 0.9926894903182983
+    },
+    {
+      "text": "particular phrase describes the cigarette, the closer to that phrase you would circle",
+      "bbox": [
+        15,
+        443,
+        689,
+        469
+      ],
+      "confidence": 0.9959161877632141
+    },
+    {
+      "text": "a number. Please circle a number for each pair of phrases.",
+      "bbox": [
+        15,
+        459,
+        487,
+        482
+      ],
+      "confidence": 0.9951597452163696
+    },
+    {
+      "text": "CIGARETTE CODED H",
+      "bbox": [
+        15,
+        505,
+        180,
+        523
+      ],
+      "confidence": 0.9977072477340698
+    },
+    {
+      "text": "Does not have a good taste.",
+      "bbox": [
+        15,
+        535,
+        241,
+        553
+      ],
+      "confidence": 0.9985786080360413
+    },
+    {
+      "text": "1",
+      "bbox": [
+        259,
+        537,
+        274,
+        552
+      ],
+      "confidence": 0.9015408754348755
+    },
+    {
+      "text": "2",
+      "bbox": [
+        289,
+        537,
+        304,
+        552
+      ],
+      "confidence": 0.9997201561927795
+    },
+    {
+      "text": "3",
+      "bbox": [
+        320,
+        537,
+        335,
+        552
+      ],
+      "confidence": 0.9998098015785217
+    },
+    {
+      "text": "4",
+      "bbox": [
+        351,
+        538,
+        365,
+        552
+      ],
+      "confidence": 0.9999768733978271
+    },
+    {
+      "text": "5",
+      "bbox": [
+        382,
+        539,
+        396,
+        554
+      ],
+      "confidence": 0.9997822642326355
+    },
+    {
+      "text": "6",
+      "bbox": [
+        412,
+        539,
+        428,
+        553
+      ],
+      "confidence": 0.9997488856315613
+    },
+    {
+      "text": "7",
+      "bbox": [
+        443,
+        539,
+        458,
+        553
+      ],
+      "confidence": 0.9997379183769226
+    },
+    {
+      "text": "Has a good taste.",
+      "bbox": [
+        472,
+        537,
+        607,
+        555
+      ],
+      "confidence": 0.9617059230804443
+    },
+    {
+      "text": "Is a strong smoke.",
+      "bbox": [
+        93,
+        568,
+        239,
+        582
+      ],
+      "confidence": 0.9773082733154297
+    },
+    {
+      "text": "1",
+      "bbox": [
+        256,
+        565,
+        274,
+        583
+      ],
+      "confidence": 0.9965664148330688
+    },
+    {
+      "text": "2",
+      "bbox": [
+        290,
+        568,
+        304,
+        583
+      ],
+      "confidence": 0.9998308420181274
+    },
+    {
+      "text": "3",
+      "bbox": [
+        320,
+        569,
+        333,
+        584
+      ],
+      "confidence": 0.9999116659164429
+    },
+    {
+      "text": "4",
+      "bbox": [
+        350,
+        569,
+        364,
+        584
+      ],
+      "confidence": 0.9999665021896362
+    },
+    {
+      "text": "5",
+      "bbox": [
+        381,
+        570,
+        395,
+        585
+      ],
+      "confidence": 0.9998925924301147
+    },
+    {
+      "text": "6",
+      "bbox": [
+        412,
+        570,
+        427,
+        584
+      ],
+      "confidence": 0.9998039603233337
+    },
+    {
+      "text": "7",
+      "bbox": [
+        441,
+        568,
+        458,
+        585
+      ],
+      "confidence": 0.9998213648796082
+    },
+    {
+      "text": "Is a mild smoke.",
+      "bbox": [
+        473,
+        570,
+        598,
+        584
+      ],
+      "confidence": 0.9690077304840088
+    },
+    {
+      "text": "Is harsh.",
+      "bbox": [
+        163,
+        593,
+        239,
+        613
+      ],
+      "confidence": 0.998580276966095
+    },
+    {
+      "text": "1",
+      "bbox": [
+        256,
+        595,
+        273,
+        613
+      ],
+      "confidence": 0.9999068975448608
+    },
+    {
+      "text": "2",
+      "bbox": [
+        289,
+        596,
+        303,
+        613
+      ],
+      "confidence": 0.999881386756897
+    },
+    {
+      "text": "3",
+      "bbox": [
+        319,
+        597,
+        333,
+        613
+      ],
+      "confidence": 0.9999140501022339
+    },
+    {
+      "text": "4",
+      "bbox": [
+        348,
+        597,
+        365,
+        615
+      ],
+      "confidence": 0.9999101161956787
+    },
+    {
+      "text": "5",
+      "bbox": [
+        381,
+        599,
+        394,
+        614
+      ],
+      "confidence": 0.9999061822891235
+    },
+    {
+      "text": "6",
+      "bbox": [
+        411,
+        599,
+        426,
+        614
+      ],
+      "confidence": 0.9998144507408142
+    },
+    {
+      "text": "7",
+      "bbox": [
+        441,
+        599,
+        455,
+        614
+      ],
+      "confidence": 0.9991838335990906
+    },
+    {
+      "text": "Is not harsh.",
+      "bbox": [
+        472,
+        599,
+        574,
+        613
+      ],
+      "confidence": 0.9870738983154297
+    },
+    {
+      "text": "Makes my mouth dry.",
+      "bbox": [
+        81,
+        622,
+        237,
+        643
+      ],
+      "confidence": 0.9924327731132507
+    },
+    {
+      "text": "2",
+      "bbox": [
+        255,
+        625,
+        272,
+        643
+      ],
+      "confidence": 0.8892167806625366
+    },
+    {
+      "text": "2",
+      "bbox": [
+        288,
+        626,
+        302,
+        643
+      ],
+      "confidence": 0.9997063279151917
+    },
+    {
+      "text": "3",
+      "bbox": [
+        318,
+        627,
+        332,
+        643
+      ],
+      "confidence": 0.9999314546585083
+    },
+    {
+      "text": "4",
+      "bbox": [
+        349,
+        628,
+        363,
+        644
+      ],
+      "confidence": 0.9997302889823914
+    },
+    {
+      "text": "5",
+      "bbox": [
+        380,
+        628,
+        394,
+        644
+      ],
+      "confidence": 0.9973791837692261
+    },
+    {
+      "text": "6",
+      "bbox": [
+        411,
+        628,
+        425,
+        644
+      ],
+      "confidence": 0.9825802445411682
+    },
+    {
+      "text": "7",
+      "bbox": [
+        439,
+        627,
+        455,
+        645
+      ],
+      "confidence": 0.9998977184295654
+    },
+    {
+      "text": "Does not make my mouth dry.",
+      "bbox": [
+        469,
+        626,
+        684,
+        644
+      ],
+      "confidence": 0.981350839138031
+    },
+    {
+      "text": "Has a bitter taste.",
+      "bbox": [
+        82,
+        656,
+        235,
+        670
+      ],
+      "confidence": 0.9971746206283569
+    },
+    {
+      "text": ".1",
+      "bbox": [
+        250,
+        655,
+        270,
+        673
+      ],
+      "confidence": 0.9700874090194702
+    },
+    {
+      "text": "2",
+      "bbox": [
+        287,
+        656,
+        301,
+        672
+      ],
+      "confidence": 0.9999088048934937
+    },
+    {
+      "text": "3",
+      "bbox": [
+        318,
+        657,
+        331,
+        673
+      ],
+      "confidence": 0.9999148845672607
+    },
+    {
+      "text": "4",
+      "bbox": [
+        347,
+        656,
+        364,
+        674
+      ],
+      "confidence": 0.9999024868011475
+    },
+    {
+      "text": "5",
+      "bbox": [
+        379,
+        658,
+        393,
+        675
+      ],
+      "confidence": 0.9998506307601929
+    },
+    {
+      "text": "6",
+      "bbox": [
+        410,
+        658,
+        424,
+        674
+      ],
+      "confidence": 0.9997945427894592
+    },
+    {
+      "text": "7",
+      "bbox": [
+        439,
+        657,
+        455,
+        675
+      ],
+      "confidence": 0.994158148765564
+    },
+    {
+      "text": "Does not have a bitter taste.",
+      "bbox": [
+        469,
+        654,
+        699,
+        674
+      ],
+      "confidence": 0.9943735599517822
+    },
+    {
+      "text": "Leaves a bad aftertaste.",
+      "bbox": [
+        36,
+        684,
+        234,
+        703
+      ],
+      "confidence": 0.9977362155914307
+    },
+    {
+      "text": "1",
+      "bbox": [
+        254,
+        686,
+        268,
+        703
+      ],
+      "confidence": 0.9943888783454895
+    },
+    {
+      "text": "2",
+      "bbox": [
+        286,
+        686,
+        300,
+        703
+      ],
+      "confidence": 0.9999189376831055
+    },
+    {
+      "text": "3",
+      "bbox": [
+        318,
+        688,
+        331,
+        704
+      ],
+      "confidence": 0.9998823404312134
+    },
+    {
+      "text": "4",
+      "bbox": [
+        347,
+        688,
+        361,
+        705
+      ],
+      "confidence": 0.9998279809951782
+    },
+    {
+      "text": "5",
+      "bbox": [
+        378,
+        688,
+        392,
+        705
+      ],
+      "confidence": 0.9999624490737915
+    },
+    {
+      "text": "6",
+      "bbox": [
+        409,
+        689,
+        423,
+        705
+      ],
+      "confidence": 0.9996885061264038
+    },
+    {
+      "text": "7",
+      "bbox": [
+        438,
+        686,
+        454,
+        705
+      ],
+      "confidence": 0.9953415393829346
+    },
+    {
+      "text": "Leaves a good aftertaste.",
+      "bbox": [
+        467,
+        685,
+        667,
+        705
+      ],
+      "confidence": 0.9738894104957581
+    },
+    {
+      "text": "Is not satisfying.",
+      "bbox": [
+        88,
+        717,
+        233,
+        734
+      ],
+      "confidence": 0.9989926218986511
+    },
+    {
+      "text": "1",
+      "bbox": [
+        254,
+        717,
+        267,
+        733
+      ],
+      "confidence": 0.9994140863418579
+    },
+    {
+      "text": "2",
+      "bbox": [
+        285,
+        717,
+        299,
+        734
+      ],
+      "confidence": 0.9997327923774719
+    },
+    {
+      "text": "3",
+      "bbox": [
+        315,
+        716,
+        331,
+        734
+      ],
+      "confidence": 0.9997503161430359
+    },
+    {
+      "text": "v",
+      "bbox": [
+        346,
+        718,
+        360,
+        734
+      ],
+      "confidence": 0.6931852102279663
+    },
+    {
+      "text": "5",
+      "bbox": [
+        377,
+        718,
+        391,
+        734
+      ],
+      "confidence": 0.999962329864502
+    },
+    {
+      "text": "6",
+      "bbox": [
+        407,
+        717,
+        424,
+        735
+      ],
+      "confidence": 0.9997442364692688
+    },
+    {
+      "text": "7",
+      "bbox": [
+        438,
+        718,
+        452,
+        733
+      ],
+      "confidence": 0.9998300075531006
+    },
+    {
+      "text": "Is satisfying.",
+      "bbox": [
+        468,
+        717,
+        579,
+        734
+      ],
+      "confidence": 0.9657703042030334
+    },
+    {
+      "text": "Burns too fast.",
+      "bbox": [
+        110,
+        745,
+        233,
+        763
+      ],
+      "confidence": 0.978160560131073
+    },
+    {
+      "text": "1",
+      "bbox": [
+        252,
+        747,
+        266,
+        763
+      ],
+      "confidence": 0.9911583065986633
+    },
+    {
+      "text": "2",
+      "bbox": [
+        284,
+        747,
+        298,
+        763
+      ],
+      "confidence": 0.9999582767486572
+    },
+    {
+      "text": "3",
+      "bbox": [
+        314,
+        746,
+        330,
+        764
+      ],
+      "confidence": 0.9999252557754517
+    },
+    {
+      "text": "4",
+      "bbox": [
+        345,
+        748,
+        359,
+        763
+      ],
+      "confidence": 0.9999492168426514
+    },
+    {
+      "text": "5",
+      "bbox": [
+        376,
+        748,
+        390,
+        764
+      ],
+      "confidence": 0.9999111890792847
+    },
+    {
+      "text": "6",
+      "bbox": [
+        407,
+        748,
+        421,
+        762
+      ],
+      "confidence": 0.9999288320541382
+    },
+    {
+      "text": "7",
+      "bbox": [
+        438,
+        748,
+        451,
+        762
+      ],
+      "confidence": 0.9997625946998596
+    },
+    {
+      "text": "Does not burn too fast.",
+      "bbox": [
+        469,
+        747,
+        649,
+        761
+      ],
+      "confidence": 0.991395890712738
+    },
+    {
+      "text": "Has a poor draw,",
+      "bbox": [
+        102,
+        777,
+        231,
+        791
+      ],
+      "confidence": 0.9341583251953125
+    },
+    {
+      "text": "1",
+      "bbox": [
+        252,
+        776,
+        266,
+        792
+      ],
+      "confidence": 0.9987142086029053
+    },
+    {
+      "text": "2",
+      "bbox": [
+        281,
+        775,
+        298,
+        793
+      ],
+      "confidence": 0.9998664855957031
+    },
+    {
+      "text": "3",
+      "bbox": [
+        313,
+        775,
+        329,
+        793
+      ],
+      "confidence": 0.9999251365661621
+    },
+    {
+      "text": "4",
+      "bbox": [
+        344,
+        777,
+        358,
+        792
+      ],
+      "confidence": 0.9999438524246216
+    },
+    {
+      "text": "5",
+      "bbox": [
+        375,
+        776,
+        389,
+        792
+      ],
+      "confidence": 0.9997289776802063
+    },
+    {
+      "text": "6",
+      "bbox": [
+        407,
+        777,
+        421,
+        792
+      ],
+      "confidence": 0.9999175071716309
+    },
+    {
+      "text": "7",
+      "bbox": [
+        437,
+        777,
+        450,
+        792
+      ],
+      "confidence": 0.9998631477355957
+    },
+    {
+      "text": "Has a good draw.",
+      "bbox": [
+        466,
+        773,
+        595,
+        793
+      ],
+      "confidence": 0.9610727429389954
+    },
+    {
+      "text": "I dislike cxtremely.",
+      "bbox": [
+        65,
+        801,
+        230,
+        822
+      ],
+      "confidence": 0.9701620936393738
+    },
+    {
+      "text": "I like extremely.",
+      "bbox": [
+        466,
+        802,
+        601,
+        821
+      ],
+      "confidence": 0.9972752928733826
+    },
+    {
+      "text": "1",
+      "bbox": [
+        251,
+        804,
+        265,
+        821
+      ],
+      "confidence": 0.9942052960395813
+    },
+    {
+      "text": "2",
+      "bbox": [
+        280,
+        804,
+        298,
+        822
+      ],
+      "confidence": 0.999927282333374
+    },
+    {
+      "text": "3",
+      "bbox": [
+        313,
+        805,
+        327,
+        821
+      ],
+      "confidence": 0.999931812286377
+    },
+    {
+      "text": "4",
+      "bbox": [
+        344,
+        805,
+        357,
+        821
+      ],
+      "confidence": 0.9999634027481079
+    },
+    {
+      "text": "5",
+      "bbox": [
+        375,
+        805,
+        388,
+        821
+      ],
+      "confidence": 0.9987332224845886
+    },
+    {
+      "text": "6",
+      "bbox": [
+        406,
+        805,
+        420,
+        821
+      ],
+      "confidence": 0.9973345994949341
+    },
+    {
+      "text": "7",
+      "bbox": [
+        436,
+        805,
+        450,
+        820
+      ],
+      "confidence": 0.9996761083602905
+    },
+    {
+      "text": "-1-",
+      "bbox": [
+        335,
+        879,
+        364,
+        895
+      ],
+      "confidence": 0.8967104554176331
+    }
+  ],
+  "full_text": "{\nDear Consumer:\ntelephone to obtain your results.\nPlease follow the directions and fill out the questionnaire completely.\nHow many cigarettes do you normally smoke per day?\nWhich of these age categories best describes your age?\n21-24\n25-34\n35-44\n45-54\n55-65\nOver 65\nHow long have you been smoking your regular brand?\nPHASE I\nFirot smoke the three (3) packs of the cigarettes coded \"H\" at your leisure.\nBelow are pairs of phrases which might be usod to describe the cigarette coded \"H.\"\nA scale is drawn between each pair of phrases containing the numbers 1-7. Circle the\nposition that you feel more nearly describes the cigarette. The more you feel that a\nparticular phrase describes the cigarette, the closer to that phrase you would circle\na number. Please circle a number for each pair of phrases.\nCIGARETTE CODED H\nDoes not have a good taste.\n1\n2\n3\n4\n5\n6\n7\nHas a good taste.\nIs a strong smoke.\n1\n2\n3\n4\n5\n6\n7\nIs a mild smoke.\nIs harsh.\n1\n2\n3\n4\n5\n6\n7\nIs not harsh.\nMakes my mouth dry.\n2\n2\n3\n4\n5\n6\n7\nDoes not make my mouth dry.\nHas a bitter taste.\n.1\n2\n3\n4\n5\n6\n7\nDoes not have a bitter taste.\nLeaves a bad aftertaste.\n1\n2\n3\n4\n5\n6\n7\nLeaves a good aftertaste.\nIs not satisfying.\n1\n2\n3\nv\n5\n6\n7\nIs satisfying.\nBurns too fast.\n1\n2\n3\n4\n5\n6\n7\nDoes not burn too fast.\nHas a poor draw,\n1\n2\n3\n4\n5\n6\n7\nHas a good draw.\nI dislike cxtremely.\nI like extremely.\n1\n2\n3\n4\n5\n6\n7\n-1-"
+}

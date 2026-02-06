@@ -1,0 +1,1091 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0401.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THe JOURNaL, or HIOLOcICAE, CHPMeTSTRY",
+      "bbox": [
+        28,
+        0,
+        191,
+        16
+      ],
+      "confidence": 0.7067418098449707
+    },
+    {
+      "text": "In press",
+      "bbox": [
+        355,
+        0,
+        452,
+        49
+      ],
+      "confidence": 0.9570378065109253
+    },
+    {
+      "text": "19 by The American Sextty for Hischenuntry und Moleculer Hindagy Inc.",
+      "bbox": [
+        28,
+        8,
+        313,
+        29
+      ],
+      "confidence": 0.7267128825187683
+    },
+    {
+      "text": "Issse st",
+      "bbox": [
+        615,
+        22,
+        653,
+        29
+      ],
+      "confidence": 0.6058793067932129
+    },
+    {
+      "text": "7n 1h",
+      "bbox": [
+        651,
+        21,
+        693,
+        31
+      ],
+      "confidence": 0.6261793971061707
+    },
+    {
+      "text": "Muscarinic Receptor Activation of Phosphatidylcholine Hydrolysis",
+      "bbox": [
+        27,
+        40,
+        653,
+        81
+      ],
+      "confidence": 0.9989453554153442
+    },
+    {
+      "text": "RELATIONSHIP TO PHOSPHOINOSITIDE HYDROLYSIS AND DIACYLGLYCEROL METABOLISM/",
+      "bbox": [
+        27,
+        66,
+        640,
+        102
+      ],
+      "confidence": 0.9943870306015015
+    },
+    {
+      "text": "(Received for publication, Mlay 9. 19591",
+      "bbox": [
+        507,
+        112,
+        692,
+        131
+      ],
+      "confidence": 0.9392791986465454
+    },
+    {
+      "text": "Elizabeth A. Martinsont. David Goidstein, and Joan Heller Brown§",
+      "bbox": [
+        94,
+        136,
+        497,
+        160
+      ],
+      "confidence": 0.9635394811630249
+    },
+    {
+      "text": "From the Department of Pharmscnbngy. M-d35, Unicersity of California. San Diego, La Joila, Califormia 92ugs",
+      "bbox": [
+        93,
+        154,
+        608,
+        180
+      ],
+      "confidence": 0.9226841330528259
+    },
+    {
+      "text": "We examined the relationship between phosphati-",
+      "bbox": [
+        41,
+        197,
+        360,
+        221
+      ],
+      "confidence": 0.9925102591514587
+    },
+    {
+      "text": "dylcholine (PC) hydroiysis. phosphoinositide hydroly-",
+      "bbox": [
+        28,
+        212,
+        360,
+        235
+      ],
+      "confidence": 0.9822131991386414
+    },
+    {
+      "text": "drolysis of phosphatidylcholine (PC)/ couid tead to the pro-",
+      "bbox": [
+        370,
+        204,
+        692,
+        224
+      ],
+      "confidence": 0.9728791117668152
+    },
+    {
+      "text": "sis, and diacyiglycerol (DAG) formation in response to",
+      "bbox": [
+        28,
+        226,
+        360,
+        248
+      ],
+      "confidence": 0.9861466884613037
+    },
+    {
+      "text": "duction of diacyigiycerol (DAG), thought to be an important",
+      "bbox": [
+        372,
+        219,
+        692,
+        236
+      ],
+      "confidence": 0.9790140390396118
+    },
+    {
+      "text": "muscarinic acetylcholine receptor (mAChR) stimula-",
+      "bbox": [
+        28,
+        241,
+        359,
+        260
+      ],
+      "confidence": 0.9880409240722656
+    },
+    {
+      "text": "generation of other potential second messengers such as phos.",
+      "bbox": [
+        371,
+        247,
+        692,
+        263
+      ],
+      "confidence": 0.9923529624938965
+    },
+    {
+      "text": "signal for activation of protein kinase C r t), or perhaps to the",
+      "bbox": [
+        372,
+        233,
+        692,
+        249
+      ],
+      "confidence": 0.966031014919281
+    },
+    {
+      "text": "tion in 1321N1 astrocytoma cells. Carbachol increases",
+      "bbox": [
+        28,
+        254,
+        359,
+        273
+      ],
+      "confidence": 0.9833770394325256
+    },
+    {
+      "text": "phatidie acid (5, 6).",
+      "bbox": [
+        372,
+        261,
+        476,
+        274
+      ],
+      "confidence": 0.9790785908699036
+    },
+    {
+      "text": "the release of ['H]choline and [\"H]phosphorylcholine",
+      "bbox": [
+        27,
+        267,
+        359,
+        286
+      ],
+      "confidence": 0.9763574004173279
+    },
+    {
+      "text": "Phosphatidylcholine constitutes the largest fraction of total",
+      "bbox": [
+        384,
+        274,
+        693,
+        289
+      ],
+      "confidence": 0.9860287308692932
+    },
+    {
+      "text": "(['II]Pchol) from ceils containing ('Hjcholine-labeled",
+      "bbox": [
+        28,
+        281,
+        359,
+        300
+      ],
+      "confidence": 0.9273491501808167
+    },
+    {
+      "text": "plasma membrane phospholipid and was previously thought",
+      "bbox": [
+        371,
+        287,
+        693,
+        303
+      ],
+      "confidence": 0.9849082827568054
+    },
+    {
+      "text": "while choline production continues for at least 30 min.",
+      "bbox": [
+        25,
+        307,
+        360,
+        329
+      ],
+      "confidence": 0.982060432434082
+    },
+    {
+      "text": "PC. The production of Pchol is rapid and transient.",
+      "bbox": [
+        26,
+        293,
+        360,
+        316
+      ],
+      "confidence": 0.9756385684013367
+    },
+    {
+      "text": "to be metabolically stable reiative to the phosphoinositides",
+      "bbox": [
+        371,
+        300,
+        694,
+        317
+      ],
+      "confidence": 0.990774929523468
+    },
+    {
+      "text": "mAChR-stimulated release of Pchol is reduced in cells",
+      "bbox": [
+        25,
+        322,
+        360,
+        342
+      ],
+      "confidence": 0.9925416111946106
+    },
+    {
+      "text": "(7, 8). However, recent studies of the regulation of PC metab-",
+      "bbox": [
+        371,
+        315,
+        695,
+        330
+      ],
+      "confidence": 0.9656696319580078
+    },
+    {
+      "text": "that have been depleted of intracellular Ca* stores by",
+      "bbox": [
+        24,
+        335,
+        360,
+        356
+      ],
+      "confidence": 0.9678711295127869
+    },
+    {
+      "text": "olism have revealed that phorhol esters and certain hormones",
+      "bbox": [
+        372,
+        329,
+        695,
+        344
+      ],
+      "confidence": 0.9920215606689453
+    },
+    {
+      "text": "ionomycin pretreatment, whereas choline release is",
+      "bbox": [
+        25,
+        351,
+        359,
+        367
+      ],
+      "confidence": 0.9833102226257324
+    },
+    {
+      "text": "are able to influence tbe synthesis and breakdown of choline",
+      "bbox": [
+        371,
+        342,
+        695,
+        357
+      ],
+      "confidence": 0.976687490940094
+    },
+    {
+      "text": "unaffected by this pretreatment. Phorbol 12-myristate",
+      "bbox": [
+        25,
+        364,
+        359,
+        380
+      ],
+      "confidence": 0.9818816781044006
+    },
+    {
+      "text": "pbospholipids. Besterman et al. (9). Irving and Exton 110).",
+      "bbox": [
+        371,
+        355,
+        696,
+        370
+      ],
+      "confidence": 0.9624052047729492
+    },
+    {
+      "text": "13-acetate (PMA) increases the release of choline, but",
+      "bbox": [
+        25,
+        376,
+        360,
+        395
+      ],
+      "confidence": 0.9760019779205322
+    },
+    {
+      "text": "and others (11-13) have reported that stimulation of hormone",
+      "bbox": [
+        372,
+        370,
+        696,
+        383
+      ],
+      "confidence": 0.9803386330604553
+    },
+    {
+      "text": "not Pehol, from 1321N1 cells, and down-regulation of",
+      "bbox": [
+        25,
+        391,
+        359,
+        407
+      ],
+      "confidence": 0.9753806591033936
+    },
+    {
+      "text": "receptors or protein kinase C leads to hydrolysis of PC by a",
+      "bbox": [
+        372,
+        383,
+        696,
+        396
+      ],
+      "confidence": 0.9882214069366455
+    },
+    {
+      "text": "phospholipase C, producing phosphoryleholine (Pchol) and",
+      "bbox": [
+        373,
+        396,
+        696,
+        409
+      ],
+      "confidence": 0.9660001397132874
+    },
+    {
+      "text": "protein kinase C biocks the ability of carbuchol to",
+      "bbox": [
+        25,
+        405,
+        359,
+        420
+      ],
+      "confidence": 0.9754072427749634
+    },
+    {
+      "text": "DAG. In contrast, other work has shown that PC can be",
+      "bbox": [
+        372,
+        408,
+        696,
+        423
+      ],
+      "confidence": 0.9879947304725647
+    },
+    {
+      "text": "stimulate choline production. Taken together. these",
+      "bbox": [
+        25,
+        418,
+        359,
+        435
+      ],
+      "confidence": 0.9972149729728699
+    },
+    {
+      "text": "hydrolyzed by a phospholipase D to form choline and phos-",
+      "bbox": [
+        372,
+        423,
+        697,
+        436
+      ],
+      "confidence": 0.9838558435440063
+    },
+    {
+      "text": "results suggest that Ca²* mobilization is involved in",
+      "bbox": [
+        26,
+        433,
+        359,
+        448
+      ],
+      "confidence": 0.975626528263092
+    },
+    {
+      "text": "phatidie acid (PA) (14-18). The latter work includes studies",
+      "bbox": [
+        372,
+        438,
+        697,
+        451
+      ],
+      "confidence": 0.9767800569534302
+    },
+    {
+      "text": "mAChR-mediated hydrolysis of PC by a phospholipase",
+      "bbox": [
+        25,
+        448,
+        359,
+        463
+      ],
+      "confidence": 0.9889371395111084
+    },
+    {
+      "text": "by Loffelholz and coworkers (19-21) that demonstrate that",
+      "bbox": [
+        372,
+        450,
+        697,
+        466
+      ],
+      "confidence": 0.9743334054946899
+    },
+    {
+      "text": "C, whereas protein kinase C aetivation is required for",
+      "bbox": [
+        25,
+        463,
+        357,
+        476
+      ],
+      "confidence": 0.9955238103866577
+    },
+    {
+      "text": "muscarinic receptor activation leads to the release of choline",
+      "bbox": [
+        372,
+        464,
+        697,
+        479
+      ],
+      "confidence": 0.9919204115867615
+    },
+    {
+      "text": "mAChR-stimulated hydrolysis of PC by a phospholi-",
+      "bbox": [
+        24,
+        475,
+        358,
+        490
+      ],
+      "confidence": 0.9746366739273071
+    },
+    {
+      "text": "from perfused heart and brain preparations. The second mes-",
+      "bbox": [
+        373,
+        479,
+        697,
+        492
+      ],
+      "confidence": 0.9846908450126648
+    },
+    {
+      "text": "pase D.",
+      "bbox": [
+        21,
+        490,
+        78,
+        506
+      ],
+      "confidence": 0.9986802339553833
+    },
+    {
+      "text": "Both earbachol and PMA rapidly increase the for-",
+      "bbox": [
+        35,
+        499,
+        360,
+        519
+      ],
+      "confidence": 0.982206404209137
+    },
+    {
+      "text": "senger DAG could also be produced following phospholipase",
+      "bbox": [
+        372,
+        492,
+        698,
+        506
+      ],
+      "confidence": 0.9812123775482178
+    },
+    {
+      "text": "mation of {H]phosphatidic acid ([*H]PA) in cells con-",
+      "bbox": [
+        22,
+        513,
+        359,
+        533
+      ],
+      "confidence": 0.9480516910552979
+    },
+    {
+      "text": "D activation, because it has been demonstrated that DAG can",
+      "bbox": [
+        372,
+        504,
+        699,
+        520
+      ],
+      "confidence": 0.9784144163131714
+    },
+    {
+      "text": "taining ('H]myristate-labeled PC. (H]Diacylglycerol",
+      "bbox": [
+        22,
+        526,
+        360,
+        546
+      ],
+      "confidence": 0.9352946281433105
+    },
+    {
+      "text": "arise from PA by the action of a PA phosphohydrolase (11,",
+      "bbox": [
+        371,
+        518,
+        699,
+        533
+      ],
+      "confidence": 0.9688424468040466
+    },
+    {
+      "text": "18, 22).",
+      "bbox": [
+        372,
+        532,
+        414,
+        546
+      ],
+      "confidence": 0.9861727952957153
+    },
+    {
+      "text": "(['I]DAG) levels increase more slowly, suggesting that",
+      "bbox": [
+        22,
+        540,
+        360,
+        560
+      ],
+      "confidence": 0.9507250189781189
+    },
+    {
+      "text": "Although hydrolysis of PC in response to stimulation of",
+      "bbox": [
+        385,
+        543,
+        700,
+        561
+      ],
+      "confidence": 0.9784513115882874
+    },
+    {
+      "text": "the predominant pathway for PC hydrolysis is via",
+      "bbox": [
+        21,
+        552,
+        360,
+        574
+      ],
+      "confidence": 0.9685993194580078
+    },
+    {
+      "text": "hormone receptors is known to oecur, the mechanism under.",
+      "bbox": [
+        372,
+        558,
+        699,
+        575
+      ],
+      "confidence": 0.9859414100646973
+    },
+    {
+      "text": "lying hormone-mediated PC breskdown is not clear. Sorne",
+      "bbox": [
+        373,
+        573,
+        699,
+        588
+      ],
+      "confidence": 0.9681777954101562
+    },
+    {
+      "text": "ristate and [''C]arachidonate such that there is a much",
+      "bbox": [
+        19,
+        579,
+        361,
+        603
+      ],
+      "confidence": 0.9576407670974731
+    },
+    {
+      "text": "studies (9) have suggested that second messengers. such as",
+      "bbox": [
+        372,
+        586,
+        699,
+        602
+      ],
+      "confidence": 0.9770427346229553
+    },
+    {
+      "text": "DAG or Ca2\", are involved, whereas other results (10. 14)",
+      "bbox": [
+        373,
+        600,
+        699,
+        615
+      ],
+      "confidence": 0.9514087438583374
+    },
+    {
+      "text": "indicate that a guanine nucleotide regulatory protein iG-",
+      "bbox": [
+        372,
+        613,
+        699,
+        628
+      ],
+      "confidence": 0.9743560552597046
+    },
+    {
+      "text": "to carbachol. By analyzing the increase in 'H versus",
+      "bbox": [
+        17,
+        633,
+        362,
+        656
+      ],
+      "confidence": 0.9539070725440979
+    },
+    {
+      "text": "protein) mediates the response. We used 1321 N1 astrocytoma",
+      "bbox": [
+        374,
+        627,
+        699,
+        641
+      ],
+      "confidence": 0.9754734635353088
+    },
+    {
+      "text": "\"*C in DAG, we estimate that the DAG that is formed",
+      "bbox": [
+        18,
+        648,
+        362,
+        667
+      ],
+      "confidence": 0.9813375473022461
+    },
+    {
+      "text": "cells to determine whether the rapid stimulation of phosphoi-",
+      "bbox": [
+        374,
+        641,
+        699,
+        654
+      ],
+      "confidence": 0.9975700974464417
+    },
+    {
+      "text": "nositide breakdown (and generation of second messengers)",
+      "bbox": [
+        375,
+        654,
+        699,
+        668
+      ],
+      "confidence": 0.9982190728187561
+    },
+    {
+      "text": "might be involved in the subsequent hvdrolvsis of PC. Mus-",
+      "bbox": [
+        375,
+        667,
+        699,
+        681
+      ],
+      "confidence": 0.9801650643348694
+    },
+    {
+      "text": "receptor activation also causes formation of DAG from",
+      "bbox": [
+        16,
+        674,
+        363,
+        699
+      ],
+      "confidence": 0.9899937510490417
+    },
+    {
+      "text": "carinie receptor activation of 1321N1 cells leads to production",
+      "bbox": [
+        374,
+        681,
+        699,
+        697
+      ],
+      "confidence": 0.9716011881828308
+    },
+    {
+      "text": "PC. but approximately 20% of carbachol-stimulated",
+      "bbox": [
+        17,
+        687,
+        361,
+        713
+      ],
+      "confidence": 0.9588034749031067
+    },
+    {
+      "text": "of inositol 1,4.5-trisphosphate and mobilization of intracellu-",
+      "bbox": [
+        375,
+        696,
+        698,
+        709
+      ],
+      "confidence": 0.9780111312866211
+    },
+    {
+      "text": "DAG appears to arise from hydrolysis of the phosphoi-",
+      "bbox": [
+        15,
+        702,
+        362,
+        727
+      ],
+      "confidence": 0.9965160489082336
+    },
+    {
+      "text": "tar Ca'* (23-25) as well as an increase in DAG and redistri-",
+      "bbox": [
+        374,
+        709,
+        698,
+        724
+      ],
+      "confidence": 0.959586501121521
+    },
+    {
+      "text": "nositides.",
+      "bbox": [
+        15,
+        719,
+        87,
+        739
+      ],
+      "confidence": 0.9986078143119812
+    },
+    {
+      "text": "bution of protein kinase C (26); any of these second messen-",
+      "bbox": [
+        373,
+        721,
+        699,
+        739
+      ],
+      "confidence": 0.9690781831741333
+    },
+    {
+      "text": "gers could be responsible for stimulating PC hydrolysis.",
+      "bbox": [
+        373,
+        735,
+        670,
+        753
+      ],
+      "confidence": 0.9900124669075012
+    },
+    {
+      "text": "It was also of interest to determine how DAG is increased",
+      "bbox": [
+        387,
+        750,
+        698,
+        765
+      ],
+      "confidence": 0.9898349642753601
+    },
+    {
+      "text": "The ability of a variety of drugs and hormones to stimulate",
+      "bbox": [
+        30,
+        766,
+        362,
+        787
+      ],
+      "confidence": 0.9724375605583191
+    },
+    {
+      "text": "in response to muscarinic receptor activation in a system",
+      "bbox": [
+        373,
+        762,
+        698,
+        781
+      ],
+      "confidence": 0.9756230711936951
+    },
+    {
+      "text": "breakdown of the inositol phosphotipids is well documented",
+      "bbox": [
+        14,
+        779,
+        362,
+        804
+      ],
+      "confidence": 0.9746893644332886
+    },
+    {
+      "text": "where a single stimulus results in hydrolysis of hoth PC and",
+      "bbox": [
+        374,
+        778,
+        698,
+        793
+      ],
+      "confidence": 0.966446042060852
+    },
+    {
+      "text": "(1). but recently much attention has been given to the hy.",
+      "bbox": [
+        12,
+        792,
+        362,
+        821
+      ],
+      "confidence": 0.9814478158950806
+    },
+    {
+      "text": "the phosphoinositides. By using tatty acids to differentially",
+      "bbox": [
+        373,
+        790,
+        699,
+        810
+      ],
+      "confidence": 0.9769512414932251
+    },
+    {
+      "text": "drolysis of phosphatidyleholine (2, 3). Agonist-stimulated hy.",
+      "bbox": [
+        12,
+        807,
+        361,
+        836
+      ],
+      "confidence": 0.9855155944824219
+    },
+    {
+      "text": "label phospholipids (11, 27), we obtained an estimate of the",
+      "bbox": [
+        374,
+        804,
+        699,
+        824
+      ],
+      "confidence": 0.9621449708938599
+    },
+    {
+      "text": "contribution of these two phospholipids to musearinic recep-",
+      "bbox": [
+        372,
+        819,
+        698,
+        838
+      ],
+      "confidence": 0.9802122116088867
+    },
+    {
+      "text": "Grants HL 28143 and GM 36927. The costs of publication of this",
+      "bbox": [
+        11,
+        846,
+        361,
+        874
+      ],
+      "confidence": 0.9379933476448059
+    },
+    {
+      "text": "This work was supported in part by Nationai Institutes of Health",
+      "bbox": [
+        28,
+        835,
+        361,
+        859
+      ],
+      "confidence": 0.9868314266204834
+    },
+    {
+      "text": "tor-stimulated formation of DAG in 1:321N1 cells.",
+      "bbox": [
+        374,
+        835,
+        639,
+        849
+      ],
+      "confidence": 0.9830614924430847
+    },
+    {
+      "text": "' The abbreviations used are: PC. phosphatidyleholine: DAci. 1.2.",
+      "bbox": [
+        386,
+        860,
+        698,
+        877
+      ],
+      "confidence": 0.9416540861129761
+    },
+    {
+      "text": "rticle must thereobe bereby marked \"odcertisement\"in accord.",
+      "bbox": [
+        9,
+        868,
+        362,
+        902
+      ],
+      "confidence": 0.7016982436180115
+    },
+    {
+      "text": "sn-dincylglycerol: Pchol. phospboryleholine: PA. phosphatidie aciel:",
+      "bbox": [
+        372,
+        872,
+        699,
+        889
+      ],
+      "confidence": 0.9127459526062012
+    },
+    {
+      "text": "Supported by United States Public Health Service Grant IIL.",
+      "bbox": [
+        22,
+        891,
+        362,
+        929
+      ],
+      "confidence": 0.9274846315383911
+    },
+    {
+      "text": "C-protein, gunnine nuctentide regulatory protein:Hepes, 4-r2-hv-",
+      "bbox": [
+        372,
+        884,
+        699,
+        901
+      ],
+      "confidence": 0.9449639320373535
+    },
+    {
+      "text": "drexyethyl-1-piperazineethanesulfonic acid: TL.C, rhun-layer ches.",
+      "bbox": [
+        372,
+        897,
+        698,
+        913
+      ],
+      "confidence": 0.9004274010658264
+    },
+    {
+      "text": "matography: PI. phosphatidylinasitol: PMA. phorbol 12-myristate",
+      "bbox": [
+        372,
+        907,
+        699,
+        927
+      ],
+      "confidence": 0.8942394852638245
+    },
+    {
+      "text": "07444-08.",
+      "bbox": [
+        5,
+        920,
+        72,
+        943
+      ],
+      "confidence": 0.9685280919075012
+    },
+    {
+      "text": "$ To whom reprint requests should be addressed.",
+      "bbox": [
+        20,
+        920,
+        277,
+        957
+      ],
+      "confidence": 0.9743277430534363
+    },
+    {
+      "text": "13-acetste.",
+      "bbox": [
+        373,
+        922,
+        428,
+        936
+      ],
+      "confidence": 0.9861358404159546
+    },
+    {
+      "text": "1",
+      "bbox": [
+        362,
+        952,
+        372,
+        967
+      ],
+      "confidence": 0.9818078875541687
+    }
+  ],
+  "full_text": "THe JOURNaL, or HIOLOcICAE, CHPMeTSTRY\nIn press\n19 by The American Sextty for Hischenuntry und Moleculer Hindagy Inc.\nIssse st\n7n 1h\nMuscarinic Receptor Activation of Phosphatidylcholine Hydrolysis\nRELATIONSHIP TO PHOSPHOINOSITIDE HYDROLYSIS AND DIACYLGLYCEROL METABOLISM/\n(Received for publication, Mlay 9. 19591\nElizabeth A. Martinsont. David Goidstein, and Joan Heller Brown§\nFrom the Department of Pharmscnbngy. M-d35, Unicersity of California. San Diego, La Joila, Califormia 92ugs\nWe examined the relationship between phosphati-\ndylcholine (PC) hydroiysis. phosphoinositide hydroly-\ndrolysis of phosphatidylcholine (PC)/ couid tead to the pro-\nsis, and diacyiglycerol (DAG) formation in response to\nduction of diacyigiycerol (DAG), thought to be an important\nmuscarinic acetylcholine receptor (mAChR) stimula-\ngeneration of other potential second messengers such as phos.\nsignal for activation of protein kinase C r t), or perhaps to the\ntion in 1321N1 astrocytoma cells. Carbachol increases\nphatidie acid (5, 6).\nthe release of ['H]choline and [\"H]phosphorylcholine\nPhosphatidylcholine constitutes the largest fraction of total\n(['II]Pchol) from ceils containing ('Hjcholine-labeled\nplasma membrane phospholipid and was previously thought\nwhile choline production continues for at least 30 min.\nPC. The production of Pchol is rapid and transient.\nto be metabolically stable reiative to the phosphoinositides\nmAChR-stimulated release of Pchol is reduced in cells\n(7, 8). However, recent studies of the regulation of PC metab-\nthat have been depleted of intracellular Ca* stores by\nolism have revealed that phorhol esters and certain hormones\nionomycin pretreatment, whereas choline release is\nare able to influence tbe synthesis and breakdown of choline\nunaffected by this pretreatment. Phorbol 12-myristate\npbospholipids. Besterman et al. (9). Irving and Exton 110).\n13-acetate (PMA) increases the release of choline, but\nand others (11-13) have reported that stimulation of hormone\nnot Pehol, from 1321N1 cells, and down-regulation of\nreceptors or protein kinase C leads to hydrolysis of PC by a\nphospholipase C, producing phosphoryleholine (Pchol) and\nprotein kinase C biocks the ability of carbuchol to\nDAG. In contrast, other work has shown that PC can be\nstimulate choline production. Taken together. these\nhydrolyzed by a phospholipase D to form choline and phos-\nresults suggest that Ca²* mobilization is involved in\nphatidie acid (PA) (14-18). The latter work includes studies\nmAChR-mediated hydrolysis of PC by a phospholipase\nby Loffelholz and coworkers (19-21) that demonstrate that\nC, whereas protein kinase C aetivation is required for\nmuscarinic receptor activation leads to the release of choline\nmAChR-stimulated hydrolysis of PC by a phospholi-\nfrom perfused heart and brain preparations. The second mes-\npase D.\nBoth earbachol and PMA rapidly increase the for-\nsenger DAG could also be produced following phospholipase\nmation of {H]phosphatidic acid ([*H]PA) in cells con-\nD activation, because it has been demonstrated that DAG can\ntaining ('H]myristate-labeled PC. (H]Diacylglycerol\narise from PA by the action of a PA phosphohydrolase (11,\n18, 22).\n(['I]DAG) levels increase more slowly, suggesting that\nAlthough hydrolysis of PC in response to stimulation of\nthe predominant pathway for PC hydrolysis is via\nhormone receptors is known to oecur, the mechanism under.\nlying hormone-mediated PC breskdown is not clear. Sorne\nristate and [''C]arachidonate such that there is a much\nstudies (9) have suggested that second messengers. such as\nDAG or Ca2\", are involved, whereas other results (10. 14)\nindicate that a guanine nucleotide regulatory protein iG-\nto carbachol. By analyzing the increase in 'H versus\nprotein) mediates the response. We used 1321 N1 astrocytoma\n\"*C in DAG, we estimate that the DAG that is formed\ncells to determine whether the rapid stimulation of phosphoi-\nnositide breakdown (and generation of second messengers)\nmight be involved in the subsequent hvdrolvsis of PC. Mus-\nreceptor activation also causes formation of DAG from\ncarinie receptor activation of 1321N1 cells leads to production\nPC. but approximately 20% of carbachol-stimulated\nof inositol 1,4.5-trisphosphate and mobilization of intracellu-\nDAG appears to arise from hydrolysis of the phosphoi-\ntar Ca'* (23-25) as well as an increase in DAG and redistri-\nnositides.\nbution of protein kinase C (26); any of these second messen-\ngers could be responsible for stimulating PC hydrolysis.\nIt was also of interest to determine how DAG is increased\nThe ability of a variety of drugs and hormones to stimulate\nin response to muscarinic receptor activation in a system\nbreakdown of the inositol phosphotipids is well documented\nwhere a single stimulus results in hydrolysis of hoth PC and\n(1). but recently much attention has been given to the hy.\nthe phosphoinositides. By using tatty acids to differentially\ndrolysis of phosphatidyleholine (2, 3). Agonist-stimulated hy.\nlabel phospholipids (11, 27), we obtained an estimate of the\ncontribution of these two phospholipids to musearinic recep-\nGrants HL 28143 and GM 36927. The costs of publication of this\nThis work was supported in part by Nationai Institutes of Health\ntor-stimulated formation of DAG in 1:321N1 cells.\n' The abbreviations used are: PC. phosphatidyleholine: DAci. 1.2.\nrticle must thereobe bereby marked \"odcertisement\"in accord.\nsn-dincylglycerol: Pchol. phospboryleholine: PA. phosphatidie aciel:\nSupported by United States Public Health Service Grant IIL.\nC-protein, gunnine nuctentide regulatory protein:Hepes, 4-r2-hv-\ndrexyethyl-1-piperazineethanesulfonic acid: TL.C, rhun-layer ches.\nmatography: PI. phosphatidylinasitol: PMA. phorbol 12-myristate\n07444-08.\n$ To whom reprint requests should be addressed.\n13-acetste.\n1"
+}

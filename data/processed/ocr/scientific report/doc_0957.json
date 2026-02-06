@@ -1,0 +1,451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0957.png",
+    "image_width": 713,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DEEINIT[UN DER ZEICHNUNG NR.",
+      "bbox": [
+        0,
+        6,
+        268,
+        30
+      ],
+      "confidence": 0.9157949090003967
+    },
+    {
+      "text": "371",
+      "bbox": [
+        270,
+        14,
+        301,
+        30
+      ],
+      "confidence": 0.9991774559020996
+    },
+    {
+      "text": "STUDIE",
+      "bbox": [
+        0,
+        62,
+        58,
+        80
+      ],
+      "confidence": 0.9576523303985596
+    },
+    {
+      "text": "AUERAGGEBER",
+      "bbox": [
+        98,
+        62,
+        203,
+        84
+      ],
+      "confidence": 0.9897588491439819
+    },
+    {
+      "text": "ERSTELLER",
+      "bbox": [
+        225,
+        64,
+        309,
+        84
+      ],
+      "confidence": 0.999004602432251
+    },
+    {
+      "text": "DATUM",
+      "bbox": [
+        322,
+        66,
+        373,
+        88
+      ],
+      "confidence": 0.990446925163269
+    },
+    {
+      "text": "TYP",
+      "bbox": [
+        424,
+        75,
+        456,
+        91
+      ],
+      "confidence": 0.9996652603149414
+    },
+    {
+      "text": "3187.000",
+      "bbox": [
+        0,
+        97,
+        75,
+        117
+      ],
+      "confidence": 0.9838623404502869
+    },
+    {
+      "text": "WST",
+      "bbox": [
+        99,
+        101,
+        130,
+        117
+      ],
+      "confidence": 0.9826281070709229
+    },
+    {
+      "text": "KGA",
+      "bbox": [
+        225,
+        102,
+        255,
+        118
+      ],
+      "confidence": 0.9981958270072937
+    },
+    {
+      "text": "01-JUL-92",
+      "bbox": [
+        321,
+        102,
+        409,
+        122
+      ],
+      "confidence": 0.9908336997032166
+    },
+    {
+      "text": "B",
+      "bbox": [
+        424,
+        108,
+        437,
+        122
+      ],
+      "confidence": 0.9893661737442017
+    },
+    {
+      "text": "KURZTITEL:",
+      "bbox": [
+        0,
+        131,
+        92,
+        152
+      ],
+      "confidence": 0.9973400235176086
+    },
+    {
+      "text": "-/3187, 21 VAYS",
+      "bbox": [
+        125,
+        135,
+        262,
+        152
+      ],
+      "confidence": 0.9659987688064575
+    },
+    {
+      "text": "BEMERKUNG:",
+      "bbox": [
+        0,
+        148,
+        92,
+        171
+      ],
+      "confidence": 0.982310950756073
+    },
+    {
+      "text": "DEFINITION DER GRUPPEN ZU ZEICHNUNGS-NR.",
+      "bbox": [
+        0,
+        232,
+        360,
+        253
+      ],
+      "confidence": 0.9927768707275391
+    },
+    {
+      "text": "371",
+      "bbox": [
+        372,
+        235,
+        402,
+        250
+      ],
+      "confidence": 0.9993691444396973
+    },
+    {
+      "text": "GRUPPEN-NR.",
+      "bbox": [
+        0,
+        279,
+        100,
+        301
+      ],
+      "confidence": 0.984724760055542
+    },
+    {
+      "text": "SCHRAFFUR",
+      "bbox": [
+        114,
+        284,
+        197,
+        301
+      ],
+      "confidence": 0.9807505011558533
+    },
+    {
+      "text": "LEGENDE",
+      "bbox": [
+        397,
+        281,
+        467,
+        302
+      ],
+      "confidence": 0.9998292922973633
+    },
+    {
+      "text": "1.00",
+      "bbox": [
+        59,
+        313,
+        102,
+        334
+      ],
+      "confidence": 0.9995271563529968
+    },
+    {
+      "text": "KEINE SCHRAFEUR",
+      "bbox": [
+        114,
+        319,
+        250,
+        333
+      ],
+      "confidence": 0.9246692657470703
+    },
+    {
+      "text": "ZEICHNUNGS-NR.",
+      "bbox": [
+        72,
+        457,
+        204,
+        475
+      ],
+      "confidence": 0.9955152869224548
+    },
+    {
+      "text": "DATEN",
+      "bbox": [
+        0,
+        458,
+        47,
+        472
+      ],
+      "confidence": 0.9971138834953308
+    },
+    {
+      "text": "ZU",
+      "bbox": [
+        54,
+        460,
+        75,
+        472
+      ],
+      "confidence": 0.9843636751174927
+    },
+    {
+      "text": "371",
+      "bbox": [
+        219,
+        460,
+        248,
+        475
+      ],
+      "confidence": 0.9998423457145691
+    },
+    {
+      "text": "GRUPPEN-",
+      "bbox": [
+        0,
+        517,
+        72,
+        538
+      ],
+      "confidence": 0.9959599375724792
+    },
+    {
+      "text": "X",
+      "bbox": [
+        84,
+        522,
+        98,
+        536
+      ],
+      "confidence": 0.6607239246368408
+    },
+    {
+      "text": "Y",
+      "bbox": [
+        200,
+        523,
+        213,
+        539
+      ],
+      "confidence": 0.99981290102005
+    },
+    {
+      "text": "SE",
+      "bbox": [
+        423,
+        525,
+        448,
+        544
+      ],
+      "confidence": 0.9990431070327759
+    },
+    {
+      "text": "RANGE",
+      "bbox": [
+        546,
+        527,
+        595,
+        542
+      ],
+      "confidence": 0.9380083084106445
+    },
+    {
+      "text": "STAT.",
+      "bbox": [
+        665,
+        525,
+        712,
+        540
+      ],
+      "confidence": 0.948083221912384
+    },
+    {
+      "text": "NR.",
+      "bbox": [
+        0,
+        534,
+        27,
+        549
+      ],
+      "confidence": 0.9677804112434387
+    },
+    {
+      "text": "SYMB.",
+      "bbox": [
+        666,
+        541,
+        713,
+        556
+      ],
+      "confidence": 0.9962692260742188
+    },
+    {
+      "text": "1.00",
+      "bbox": [
+        29,
+        577,
+        71,
+        597
+      ],
+      "confidence": 0.9979814887046814
+    },
+    {
+      "text": "1.0000",
+      "bbox": [
+        124,
+        580,
+        184,
+        600
+      ],
+      "confidence": 0.9889650344848633
+    },
+    {
+      "text": "13.0000",
+      "bbox": [
+        232,
+        584,
+        299,
+        604
+      ],
+      "confidence": 0.9995236992835999
+    },
+    {
+      "text": "2.0000",
+      "bbox": [
+        123,
+        596,
+        183,
+        615
+      ],
+      "confidence": 0.9975717067718506
+    },
+    {
+      "text": "12.0000",
+      "bbox": [
+        232,
+        598,
+        298,
+        620
+      ],
+      "confidence": 0.9921396970748901
+    },
+    {
+      "text": "3.0000",
+      "bbox": [
+        122,
+        611,
+        182,
+        632
+      ],
+      "confidence": 0.9983208179473877
+    },
+    {
+      "text": "11.0000",
+      "bbox": [
+        232,
+        617,
+        299,
+        636
+      ],
+      "confidence": 0.9994614720344543
+    },
+    {
+      "text": "?.Jul.92/5r",
+      "bbox": [
+        511,
+        778,
+        658,
+        875
+      ],
+      "confidence": 0.7343804836273193
+    },
+    {
+      "text": "0.U",
+      "bbox": [
+        520,
+        788,
+        571,
+        824
+      ],
+      "confidence": 0.7625057101249695
+    },
+    {
+      "text": "2061998070",
+      "bbox": [
+        643,
+        849,
+        682,
+        958
+      ],
+      "confidence": 0.9998774528503418
+    }
+  ],
+  "full_text": "DEEINIT[UN DER ZEICHNUNG NR.\n371\nSTUDIE\nAUERAGGEBER\nERSTELLER\nDATUM\nTYP\n3187.000\nWST\nKGA\n01-JUL-92\nB\nKURZTITEL:\n-/3187, 21 VAYS\nBEMERKUNG:\nDEFINITION DER GRUPPEN ZU ZEICHNUNGS-NR.\n371\nGRUPPEN-NR.\nSCHRAFFUR\nLEGENDE\n1.00\nKEINE SCHRAFEUR\nZEICHNUNGS-NR.\nDATEN\nZU\n371\nGRUPPEN-\nX\nY\nSE\nRANGE\nSTAT.\nNR.\nSYMB.\n1.00\n1.0000\n13.0000\n2.0000\n12.0000\n3.0000\n11.0000\n?.Jul.92/5r\n0.U\n2061998070"
+}

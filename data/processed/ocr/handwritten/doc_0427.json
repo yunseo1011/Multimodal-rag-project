@@ -1,0 +1,71 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0427.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Giles, J. A.",
+      "bbox": [
+        95,
+        93,
+        192,
+        114
+      ],
+      "confidence": 0.9886730313301086
+    },
+    {
+      "text": "33001--33050",
+      "bbox": [
+        92,
+        125,
+        191,
+        148
+      ],
+      "confidence": 0.9978334307670593
+    },
+    {
+      "text": "s-Butylmalonic acid.",
+      "bbox": [
+        90,
+        161,
+        250,
+        182
+      ],
+      "confidence": 0.9979538917541504
+    },
+    {
+      "text": "RJR",
+      "bbox": [
+        170,
+        216,
+        235,
+        248
+      ],
+      "confidence": 0.9104881882667542
+    },
+    {
+      "text": "SECRET",
+      "bbox": [
+        125,
+        253,
+        272,
+        314
+      ],
+      "confidence": 0.9995205402374268
+    },
+    {
+      "text": "No.26 By.",
+      "bbox": [
+        76,
+        313,
+        216,
+        361
+      ],
+      "confidence": 0.892411470413208
+    }
+  ],
+  "full_text": "Giles, J. A.\n33001--33050\ns-Butylmalonic acid.\nRJR\nSECRET\nNo.26 By."
+}

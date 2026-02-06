@@ -1,0 +1,651 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0882.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PM Corporate Image Advertising Audience/Message",
+      "bbox": [
+        46,
+        0,
+        754,
+        37
+      ],
+      "confidence": 0.9910387992858887
+    },
+    {
+      "text": "Connection",
+      "bbox": [
+        51,
+        35,
+        231,
+        68
+      ],
+      "confidence": 0.9999446868896484
+    },
+    {
+      "text": "Current Message Priorities & Topic Areas By Audience",
+      "bbox": [
+        59,
+        82,
+        634,
+        115
+      ],
+      "confidence": 0.9817835092544556
+    },
+    {
+      "text": "Audience / Rationale",
+      "bbox": [
+        522,
+        180,
+        690,
+        199
+      ],
+      "confidence": 0.9988647699356079
+    },
+    {
+      "text": "Message / Topic",
+      "bbox": [
+        80,
+        199,
+        220,
+        223
+      ],
+      "confidence": 0.995864748954773
+    },
+    {
+      "text": "Opinion Leaders",
+      "bbox": [
+        290,
+        216,
+        414,
+        239
+      ],
+      "confidence": 0.9996193051338196
+    },
+    {
+      "text": "Active Moms",
+      "bbox": [
+        480,
+        219,
+        574,
+        237
+      ],
+      "confidence": 0.989017903804779
+    },
+    {
+      "text": "African Americans",
+      "bbox": [
+        632,
+        219,
+        754,
+        236
+      ],
+      "confidence": 0.9919240474700928
+    },
+    {
+      "text": "Making A Difference",
+      "bbox": [
+        67,
+        249,
+        227,
+        270
+      ],
+      "confidence": 0.9900019764900208
+    },
+    {
+      "text": "• Total scope of effort",
+      "bbox": [
+        280,
+        252,
+        407,
+        269
+      ],
+      "confidence": 0.9722393155097961
+    },
+    {
+      "text": "Opportunistically look",
+      "bbox": [
+        70,
+        276,
+        216,
+        293
+      ],
+      "confidence": 0.9941563010215759
+    },
+    {
+      "text": "important here",
+      "bbox": [
+        289,
+        268,
+        380,
+        288
+      ],
+      "confidence": 0.9643257856369019
+    },
+    {
+      "text": "•Key base message for",
+      "bbox": [
+        455,
+        270,
+        589,
+        292
+      ],
+      "confidence": 0.935685396194458
+    },
+    {
+      "text": "•Key base message for",
+      "bbox": [
+        627,
+        270,
+        754,
+        287
+      ],
+      "confidence": 0.9865186810493469
+    },
+    {
+      "text": "at points of emphasis /",
+      "bbox": [
+        81,
+        292,
+        220,
+        309
+      ],
+      "confidence": 0.9939576983451843
+    },
+    {
+      "text": "driving favorability",
+      "bbox": [
+        465,
+        286,
+        579,
+        307
+      ],
+      "confidence": 0.985495924949646
+    },
+    {
+      "text": "driving favorability",
+      "bbox": [
+        638,
+        287,
+        748,
+        303
+      ],
+      "confidence": 0.986589252948761
+    },
+    {
+      "text": "Key base message for",
+      "bbox": [
+        279,
+        293,
+        415,
+        311
+      ],
+      "confidence": 0.9986836314201355
+    },
+    {
+      "text": "Community Impact is a",
+      "bbox": [
+        629,
+        307,
+        754,
+        324
+      ],
+      "confidence": 0.9849036335945129
+    },
+    {
+      "text": "leverage hot-buttons",
+      "bbox": [
+        83,
+        309,
+        206,
+        323
+      ],
+      "confidence": 0.999560534954071
+    },
+    {
+      "text": "driving favorability",
+      "bbox": [
+        292,
+        311,
+        405,
+        328
+      ],
+      "confidence": 0.9945207834243774
+    },
+    {
+      "text": "•The road to favorability:",
+      "bbox": [
+        455,
+        309,
+        605,
+        328
+      ],
+      "confidence": 0.9887638092041016
+    },
+    {
+      "text": "Talks to O.L.s as",
+      "bbox": [
+        280,
+        332,
+        387,
+        352
+      ],
+      "confidence": 0.998158872127533
+    },
+    {
+      "text": "personal connections via",
+      "bbox": [
+        464,
+        325,
+        596,
+        343
+      ],
+      "confidence": 0.9824984073638916
+    },
+    {
+      "text": "key favorability enabler",
+      "bbox": [
+        639,
+        323,
+        754,
+        341
+      ],
+      "confidence": 0.9937017560005188
+    },
+    {
+      "text": "human beings",
+      "bbox": [
+        291,
+        350,
+        375,
+        367
+      ],
+      "confidence": 0.99405437707901
+    },
+    {
+      "text": "familyhwomen issues",
+      "bbox": [
+        464,
+        342,
+        578,
+        358
+      ],
+      "confidence": 0.9510149955749512
+    },
+    {
+      "text": "Responsible Mktr./Mfctr.",
+      "bbox": [
+        71,
+        377,
+        257,
+        401
+      ],
+      "confidence": 0.9913322925567627
+    },
+    {
+      "text": "Direct link to protecting",
+      "bbox": [
+        455,
+        379,
+        600,
+        400
+      ],
+      "confidence": 0.9996745586395264
+    },
+    {
+      "text": "• Direct link to",
+      "bbox": [
+        632,
+        379,
+        718,
+        396
+      ],
+      "confidence": 0.9501854181289673
+    },
+    {
+      "text": "kids hot-button",
+      "bbox": [
+        465,
+        396,
+        555,
+        412
+      ],
+      "confidence": 0.9938619136810303
+    },
+    {
+      "text": "C\"ommmity hot-button",
+      "bbox": [
+        640,
+        393,
+        754,
+        411
+      ],
+      "confidence": 0.9600659608840942
+    },
+    {
+      "text": "Strengthening Efforts To",
+      "bbox": [
+        72,
+        399,
+        231,
+        423
+      ],
+      "confidence": 0.9784634709358215
+    },
+    {
+      "text": "•Necessary dimension to",
+      "bbox": [
+        282,
+        400,
+        430,
+        416
+      ],
+      "confidence": 0.969672679901123
+    },
+    {
+      "text": "Protect Kids:",
+      "bbox": [
+        83,
+        416,
+        163,
+        435
+      ],
+      "confidence": 0.9742497801780701
+    },
+    {
+      "text": "what we do",
+      "bbox": [
+        292,
+        414,
+        356,
+        431
+      ],
+      "confidence": 0.9509571194648743
+    },
+    {
+      "text": "• Provides permission to",
+      "bbox": [
+        456,
+        418,
+        603,
+        435
+      ],
+      "confidence": 0.9746673107147217
+    },
+    {
+      "text": "• Open/Hionest take-away",
+      "bbox": [
+        632,
+        416,
+        754,
+        433
+      ],
+      "confidence": 0.9652088284492493
+    },
+    {
+      "text": "- Access, Compliance/Voluntary",
+      "bbox": [
+        84,
+        434,
+        262,
+        454
+      ],
+      "confidence": 0.9925091862678528
+    },
+    {
+      "text": "Provides permission to",
+      "bbox": [
+        281,
+        435,
+        426,
+        454
+      ],
+      "confidence": 0.9956840872764587
+    },
+    {
+      "text": "believe stories messages",
+      "bbox": [
+        467,
+        435,
+        606,
+        449
+      ],
+      "confidence": 0.9808745384216309
+    },
+    {
+      "text": "is key for this audience",
+      "bbox": [
+        642,
+        432,
+        754,
+        449
+      ],
+      "confidence": 0.9665781855583191
+    },
+    {
+      "text": "Efforts, States Investing MSA $",
+      "bbox": [
+        96,
+        446,
+        260,
+        468
+      ],
+      "confidence": 0.9650736451148987
+    },
+    {
+      "text": "believe stories messages",
+      "bbox": [
+        292,
+        453,
+        431,
+        469
+      ],
+      "confidence": 0.9973915219306946
+    },
+    {
+      "text": "- Important for those who",
+      "bbox": [
+        465,
+        453,
+        607,
+        470
+      ],
+      "confidence": 0.9842392802238464
+    },
+    {
+      "text": "• Provides permission to",
+      "bbox": [
+        633,
+        454,
+        754,
+        470
+      ],
+      "confidence": 0.9774476885795593
+    },
+    {
+      "text": "•Informed Choices:",
+      "bbox": [
+        73,
+        467,
+        196,
+        487
+      ],
+      "confidence": 0.9818764925003052
+    },
+    {
+      "text": "- Some need to hear this",
+      "bbox": [
+        293,
+        469,
+        426,
+        486
+      ],
+      "confidence": 0.9615592956542969
+    },
+    {
+      "text": "may need to hear this",
+      "bbox": [
+        478,
+        468,
+        593,
+        485
+      ],
+      "confidence": 0.9933165311813354
+    },
+    {
+      "text": "believe stories messages",
+      "bbox": [
+        643,
+        471,
+        754,
+        485
+      ],
+      "confidence": 0.9993831515312195
+    },
+    {
+      "text": "before anything else",
+      "bbox": [
+        478,
+        481,
+        587,
+        500
+      ],
+      "confidence": 0.9662731289863586
+    },
+    {
+      "text": "- Some need to bear this",
+      "bbox": [
+        644,
+        485,
+        754,
+        499
+      ],
+      "confidence": 0.9764464497566223
+    },
+    {
+      "text": "- FDA / Web-based Inko.",
+      "bbox": [
+        84,
+        488,
+        223,
+        506
+      ],
+      "confidence": 0.9853482246398926
+    },
+    {
+      "text": "More Than A Tobacco Co.",
+      "bbox": [
+        73,
+        523,
+        264,
+        545
+      ],
+      "confidence": 0.995705783367157
+    },
+    {
+      "text": "Information sharing is",
+      "bbox": [
+        283,
+        528,
+        423,
+        545
+      ],
+      "confidence": 0.970075249671936
+    },
+    {
+      "text": "valued by this audience",
+      "bbox": [
+        293,
+        544,
+        433,
+        562
+      ],
+      "confidence": 0.9995415806770325
+    },
+    {
+      "text": "• Leverage \"information",
+      "bbox": [
+        634,
+        540,
+        754,
+        554
+      ],
+      "confidence": 0.9724214673042297
+    },
+    {
+      "text": "Brands Focus (vs. OPCOs)",
+      "bbox": [
+        74,
+        549,
+        232,
+        569
+      ],
+      "confidence": 0.9625749588012695
+    },
+    {
+      "text": "gap\" insight",
+      "bbox": [
+        642,
+        554,
+        716,
+        574
+      ],
+      "confidence": 0.9856686592102051
+    },
+    {
+      "text": "•Broaden PMC's frame-",
+      "bbox": [
+        283,
+        565,
+        428,
+        583
+      ],
+      "confidence": 0.9775116443634033
+    },
+    {
+      "text": "of-reference for",
+      "bbox": [
+        293,
+        582,
+        385,
+        599
+      ],
+      "confidence": 0.9975898861885071
+    },
+    {
+      "text": "\"normalization\" among",
+      "bbox": [
+        294,
+        598,
+        433,
+        615
+      ],
+      "confidence": 0.9970129132270813
+    },
+    {
+      "text": "O.L.S",
+      "bbox": [
+        292,
+        613,
+        330,
+        631
+      ],
+      "confidence": 0.9441320300102234
+    },
+    {
+      "text": "2082244537",
+      "bbox": [
+        82,
+        697,
+        193,
+        723
+      ],
+      "confidence": 0.999961256980896
+    }
+  ],
+  "full_text": "PM Corporate Image Advertising Audience/Message\nConnection\nCurrent Message Priorities & Topic Areas By Audience\nAudience / Rationale\nMessage / Topic\nOpinion Leaders\nActive Moms\nAfrican Americans\nMaking A Difference\n• Total scope of effort\nOpportunistically look\nimportant here\n•Key base message for\n•Key base message for\nat points of emphasis /\ndriving favorability\ndriving favorability\nKey base message for\nCommunity Impact is a\nleverage hot-buttons\ndriving favorability\n•The road to favorability:\nTalks to O.L.s as\npersonal connections via\nkey favorability enabler\nhuman beings\nfamilyhwomen issues\nResponsible Mktr./Mfctr.\nDirect link to protecting\n• Direct link to\nkids hot-button\nC\"ommmity hot-button\nStrengthening Efforts To\n•Necessary dimension to\nProtect Kids:\nwhat we do\n• Provides permission to\n• Open/Hionest take-away\n- Access, Compliance/Voluntary\nProvides permission to\nbelieve stories messages\nis key for this audience\nEfforts, States Investing MSA $\nbelieve stories messages\n- Important for those who\n• Provides permission to\n•Informed Choices:\n- Some need to hear this\nmay need to hear this\nbelieve stories messages\nbefore anything else\n- Some need to bear this\n- FDA / Web-based Inko.\nMore Than A Tobacco Co.\nInformation sharing is\nvalued by this audience\n• Leverage \"information\nBrands Focus (vs. OPCOs)\ngap\" insight\n•Broaden PMC's frame-\nof-reference for\n\"normalization\" among\nO.L.S\n2082244537"
+}

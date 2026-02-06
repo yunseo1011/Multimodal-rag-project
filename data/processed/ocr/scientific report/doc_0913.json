@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0913.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Upon Memory Consolidation.\"",
+      "bbox": [
+        7,
+        109,
+        231,
+        128
+      ],
+      "confidence": 0.9946359992027283
+    },
+    {
+      "text": "Kalter B. Essnan, M.D., Ph.D.",
+      "bbox": [
+        6,
+        136,
+        243,
+        158
+      ],
+      "confidence": 0.9798317551612854
+    },
+    {
+      "text": "PROGRESS REPORT",
+      "bbox": [
+        491,
+        131,
+        619,
+        151
+      ],
+      "confidence": 0.9966211915016174
+    },
+    {
+      "text": "Principal Investigator",
+      "bbox": [
+        5,
+        152,
+        192,
+        172
+      ],
+      "confidence": 0.9960746169090271
+    },
+    {
+      "text": "Queens College of the City University",
+      "bbox": [
+        5,
+        164,
+        307,
+        187
+      ],
+      "confidence": 0.9921100735664368
+    },
+    {
+      "text": "January 16, 1973 to",
+      "bbox": [
+        491,
+        158,
+        655,
+        181
+      ],
+      "confidence": 0.9773812294006348
+    },
+    {
+      "text": "of New York",
+      "bbox": [
+        25,
+        181,
+        120,
+        201
+      ],
+      "confidence": 0.997205376625061
+    },
+    {
+      "text": "August 1, 1974.",
+      "bbox": [
+        491,
+        174,
+        618,
+        196
+      ],
+      "confidence": 0.9811190962791443
+    },
+    {
+      "text": "65-30 Kissena Blvd.",
+      "bbox": [
+        6,
+        194,
+        166,
+        216
+      ],
+      "confidence": 0.9204656481742859
+    },
+    {
+      "text": "Flushing, New York",
+      "bbox": [
+        5,
+        209,
+        160,
+        229
+      ],
+      "confidence": 0.9598076343536377
+    },
+    {
+      "text": "11367",
+      "bbox": [
+        175,
+        209,
+        223,
+        227
+      ],
+      "confidence": 0.9999716877937317
+    },
+    {
+      "text": "STUDIES OF NICOTINE ACTION UPON MEMORY CONSOLDIATION",
+      "bbox": [
+        121,
+        245,
+        530,
+        270
+      ],
+      "confidence": 0.9845985174179077
+    },
+    {
+      "text": "Within the past 17 months, or since the submission of a previous progress",
+      "bbox": [
+        64,
+        287,
+        647,
+        311
+      ],
+      "confidence": 0.9761044979095459
+    },
+    {
+      "text": "report for this research project (January 16, 1973 - Aug. 1, 1974), the research",
+      "bbox": [
+        2,
+        317,
+        647,
+        340
+      ],
+      "confidence": 0.9851655960083008
+    },
+    {
+      "text": "has been specifically concerned with the interaction of putative neurotrans-",
+      "bbox": [
+        0,
+        344,
+        613,
+        366
+      ],
+      "confidence": 0.9890739321708679
+    },
+    {
+      "text": "mitters and the central effects of nicotine and several of its biologically active",
+      "bbox": [
+        0,
+        372,
+        661,
+        395
+      ],
+      "confidence": 0.9884752631187439
+    },
+    {
+      "text": "metabolites. Changes in brain serotonin (5-hydroxytryptamine) metabolism have,",
+      "bbox": [
+        0,
+        400,
+        635,
+        423
+      ],
+      "confidence": 0.9845829606056213
+    },
+    {
+      "text": "in previous research, been established in conjunction with several amesic agents",
+      "bbox": [
+        0,
+        428,
+        650,
+        452
+      ],
+      "confidence": 0.9838347434997559
+    },
+    {
+      "text": "and/or events, several of which appear to be temporally contiguous with the amesic",
+      "bbox": [
+        0,
+        454,
+        665,
+        481
+      ],
+      "confidence": 0.9893060922622681
+    },
+    {
+      "text": "associated inhibition of cerebral protein synthesis. Such effects, particularly as",
+      "bbox": [
+        0,
+        484,
+        664,
+        506
+      ],
+      "confidence": 0.9973120093345642
+    },
+    {
+      "text": "brought about experimentally through the administration of electroconvulsive shock",
+      "bbox": [
+        0,
+        509,
+        656,
+        536
+      ],
+      "confidence": 0.989830732345581
+    },
+    {
+      "text": "(ECS) have been antagonized or blocked through the administration, prior to",
+      "bbox": [
+        1,
+        538,
+        599,
+        560
+      ],
+      "confidence": 0.9861363768577576
+    },
+    {
+      "text": "administration of the amesia stimulus of nicotine. These effects have been docu-",
+      "bbox": [
+        0,
+        567,
+        654,
+        588
+      ],
+      "confidence": 0.9872409105300903
+    },
+    {
+      "text": "mented in previous publications fromsour laboratory. Ke have also demonstrated",
+      "bbox": [
+        0,
+        595,
+        631,
+        616
+      ],
+      "confidence": 0.9839345216751099
+    },
+    {
+      "text": "that Several metabolites of nicotine, naxely cotinine and 3-pyridylacetic acid, are",
+      "bbox": [
+        0,
+        625,
+        660,
+        642
+      ],
+      "confidence": 0.9859432578086853
+    },
+    {
+      "text": "capable of antagonizing the amnesic effects brought about by post-training ECs and",
+      "bbox": [
+        2,
+        653,
+        652,
+        670
+      ],
+      "confidence": 0.9803372621536255
+    },
+    {
+      "text": "simi larly alter the effects of such ECS upon brain 5-HT metabolites. These effects",
+      "bbox": [
+        0,
+        680,
+        656,
+        698
+      ],
+      "confidence": 0.9739529490470886
+    },
+    {
+      "text": "have also been shown to be time-dependent to the extent that 45 minutes appears to",
+      "bbox": [
+        0,
+        705,
+        649,
+        726
+      ],
+      "confidence": 0.9846116900444031
+    },
+    {
+      "text": "be optimal following nicotine injection, after which the amesic properties of ECS",
+      "bbox": [
+        0,
+        732,
+        647,
+        752
+      ],
+      "confidence": 0.9743198156356812
+    },
+    {
+      "text": "are antagonized, whereas 15 minutes after treatment, the effects appear to be",
+      "bbox": [
+        0,
+        758,
+        608,
+        779
+      ],
+      "confidence": 0.9835658073425293
+    },
+    {
+      "text": "potentiated. In Figure 1, these behavioral data have been summarized for nicotine",
+      "bbox": [
+        0,
+        784,
+        642,
+        807
+      ],
+      "confidence": 0.9808802604675293
+    },
+    {
+      "text": "and several of its derivatives.",
+      "bbox": [
+        3,
+        816,
+        258,
+        833
+      ],
+      "confidence": 0.9645378589630127
+    },
+    {
+      "text": "- 1 -",
+      "bbox": [
+        327,
+        873,
+        366,
+        888
+      ],
+      "confidence": 0.8661414384841919
+    }
+  ],
+  "full_text": "Upon Memory Consolidation.\"\nKalter B. Essnan, M.D., Ph.D.\nPROGRESS REPORT\nPrincipal Investigator\nQueens College of the City University\nJanuary 16, 1973 to\nof New York\nAugust 1, 1974.\n65-30 Kissena Blvd.\nFlushing, New York\n11367\nSTUDIES OF NICOTINE ACTION UPON MEMORY CONSOLDIATION\nWithin the past 17 months, or since the submission of a previous progress\nreport for this research project (January 16, 1973 - Aug. 1, 1974), the research\nhas been specifically concerned with the interaction of putative neurotrans-\nmitters and the central effects of nicotine and several of its biologically active\nmetabolites. Changes in brain serotonin (5-hydroxytryptamine) metabolism have,\nin previous research, been established in conjunction with several amesic agents\nand/or events, several of which appear to be temporally contiguous with the amesic\nassociated inhibition of cerebral protein synthesis. Such effects, particularly as\nbrought about experimentally through the administration of electroconvulsive shock\n(ECS) have been antagonized or blocked through the administration, prior to\nadministration of the amesia stimulus of nicotine. These effects have been docu-\nmented in previous publications fromsour laboratory. Ke have also demonstrated\nthat Several metabolites of nicotine, naxely cotinine and 3-pyridylacetic acid, are\ncapable of antagonizing the amnesic effects brought about by post-training ECs and\nsimi larly alter the effects of such ECS upon brain 5-HT metabolites. These effects\nhave also been shown to be time-dependent to the extent that 45 minutes appears to\nbe optimal following nicotine injection, after which the amesic properties of ECS\nare antagonized, whereas 15 minutes after treatment, the effects appear to be\npotentiated. In Figure 1, these behavioral data have been summarized for nicotine\nand several of its derivatives.\n- 1 -"
+}

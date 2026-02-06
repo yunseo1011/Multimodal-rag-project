@@ -1,0 +1,131 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0930.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Where there's a Man...",
+      "bbox": [
+        23,
+        65,
+        723,
+        139
+      ],
+      "confidence": 0.985984206199646
+    },
+    {
+      "text": "there's a Marlboro",
+      "bbox": [
+        139,
+        139,
+        695,
+        210
+      ],
+      "confidence": 0.9997637271881104
+    },
+    {
+      "text": "Tac ergurecre desugned jor men shet wcmen lake",
+      "bbox": [
+        400,
+        733,
+        592,
+        747
+      ],
+      "confidence": 0.9109600782394409
+    },
+    {
+      "text": "Mild-burning Marlboro combines a prized",
+      "bbox": [
+        233,
+        755,
+        503,
+        774
+      ],
+      "confidence": 0.996846616268158
+    },
+    {
+      "text": "recipe (created in Richmond. Virginia)",
+      "bbox": [
+        233,
+        777,
+        485,
+        796
+      ],
+      "confidence": 0.9783375263214111
+    },
+    {
+      "text": "2023227011",
+      "bbox": [
+        732,
+        786,
+        775,
+        948
+      ],
+      "confidence": 0.9999663233757019
+    },
+    {
+      "text": "of the world's great tobaccos with a cellulose",
+      "bbox": [
+        232,
+        798,
+        520,
+        819
+      ],
+      "confidence": 0.9850082993507385
+    },
+    {
+      "text": "acetate filter of consistent dependability.",
+      "bbox": [
+        232,
+        820,
+        496,
+        840
+      ],
+      "confidence": 0.9926367402076721
+    },
+    {
+      "text": "You get big friendly flavor with all the",
+      "bbox": [
+        232,
+        843,
+        482,
+        861
+      ],
+      "confidence": 0.9782570004463196
+    },
+    {
+      "text": "mildness a man could ask for.",
+      "bbox": [
+        233,
+        865,
+        425,
+        880
+      ],
+      "confidence": 0.9965575933456421
+    },
+    {
+      "text": "Marlboro",
+      "bbox": [
+        205,
+        887,
+        542,
+        962
+      ],
+      "confidence": 0.999946653842926
+    },
+    {
+      "text": "Marlboro",
+      "bbox": [
+        560,
+        879,
+        680,
+        942
+      ],
+      "confidence": 0.9962441921234131
+    }
+  ],
+  "full_text": "Where there's a Man...\nthere's a Marlboro\nTac ergurecre desugned jor men shet wcmen lake\nMild-burning Marlboro combines a prized\nrecipe (created in Richmond. Virginia)\n2023227011\nof the world's great tobaccos with a cellulose\nacetate filter of consistent dependability.\nYou get big friendly flavor with all the\nmildness a man could ask for.\nMarlboro\nMarlboro"
+}

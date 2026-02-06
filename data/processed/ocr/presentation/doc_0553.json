@@ -1,0 +1,411 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0553.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Tobacco Institute",
+      "bbox": [
+        17,
+        16,
+        209,
+        41
+      ],
+      "confidence": 0.998809814453125
+    },
+    {
+      "text": "1875 I Street, Northwest",
+      "bbox": [
+        19,
+        46,
+        209,
+        70
+      ],
+      "confidence": 0.9960268139839172
+    },
+    {
+      "text": "Washington, DC 20006",
+      "bbox": [
+        18,
+        66,
+        193,
+        89
+      ],
+      "confidence": 0.9919177889823914
+    },
+    {
+      "text": "(800) 424-9876",
+      "bbox": [
+        17,
+        85,
+        132,
+        108
+      ],
+      "confidence": 0.9985950589179993
+    },
+    {
+      "text": "FOR RELEASE:",
+      "bbox": [
+        59,
+        119,
+        182,
+        142
+      ],
+      "confidence": 0.9991462826728821
+    },
+    {
+      "text": "CONTACT:",
+      "bbox": [
+        457,
+        115,
+        546,
+        136
+      ],
+      "confidence": 0.9994507431983948
+    },
+    {
+      "text": "Media Relations",
+      "bbox": [
+        455,
+        152,
+        573,
+        176
+      ],
+      "confidence": 0.9990947842597961
+    },
+    {
+      "text": "September 7, 1993",
+      "bbox": [
+        60,
+        159,
+        195,
+        183
+      ],
+      "confidence": 0.9998743534088135
+    },
+    {
+      "text": "800-424-9876",
+      "bbox": [
+        456,
+        172,
+        555,
+        194
+      ],
+      "confidence": 0.9966924786567688
+    },
+    {
+      "text": "1:00 p.m.",
+      "bbox": [
+        57,
+        176,
+        135,
+        204
+      ],
+      "confidence": 0.996860921382904
+    },
+    {
+      "text": "202-457-9387",
+      "bbox": [
+        457,
+        195,
+        554,
+        213
+      ],
+      "confidence": 0.9998545050621033
+    },
+    {
+      "text": "EPA REPORT CRITICIZED IN ANNAPOLIS HEARING",
+      "bbox": [
+        138,
+        249,
+        630,
+        275
+      ],
+      "confidence": 0.997450590133667
+    },
+    {
+      "text": "Scientists and legal scholars urge Delegates to be cautious of EPA's \"science\" when",
+      "bbox": [
+        86,
+        291,
+        681,
+        317
+      ],
+      "confidence": 0.9910081624984741
+    },
+    {
+      "text": "considering Clean Indoor Air Act",
+      "bbox": [
+        264,
+        311,
+        507,
+        333
+      ],
+      "confidence": 0.984742283821106
+    },
+    {
+      "text": "Annapolis, MD - Critical testimony from prominent scientists and legal scholars about the",
+      "bbox": [
+        69,
+        364,
+        685,
+        390
+      ],
+      "confidence": 0.9926950931549072
+    },
+    {
+      "text": "U.S. Environmental Protection Agency's report on environmental tobacco smoke (ETS) was",
+      "bbox": [
+        69,
+        382,
+        690,
+        408
+      ],
+      "confidence": 0.9918314218521118
+    },
+    {
+      "text": "heard today in the House of Delegates' Environmental Matters Committee.",
+      "bbox": [
+        70,
+        400,
+        573,
+        428
+      ],
+      "confidence": 0.9856140613555908
+    },
+    {
+      "text": "The Committee is hearing testimony on the re-introduction of H1572, the so-called \"Clean",
+      "bbox": [
+        72,
+        434,
+        677,
+        462
+      ],
+      "confidence": 0.9740541577339172
+    },
+    {
+      "text": "Indoor Air Act\" that was defeated in the Maryland Assembly last year and re-introduced in",
+      "bbox": [
+        72,
+        454,
+        683,
+        480
+      ],
+      "confidence": 0.9795952439308167
+    },
+    {
+      "text": "February 1993, after the EPA released its report on ETS. The proposed bill would ban",
+      "bbox": [
+        73,
+        472,
+        661,
+        499
+      ],
+      "confidence": 0.9912291169166565
+    },
+    {
+      "text": "smoking in all enclosed public places and worksites, including restaurants and",
+      "bbox": [
+        75,
+        490,
+        594,
+        517
+      ],
+      "confidence": 0.9863380789756775
+    },
+    {
+      "text": "private businesses.",
+      "bbox": [
+        74,
+        513,
+        198,
+        536
+      ],
+      "confidence": 0.9995934367179871
+    },
+    {
+      "text": "Today, Dr. Gio Batta Gori, former director of the Smoking and Health Program at the",
+      "bbox": [
+        76,
+        544,
+        655,
+        571
+      ],
+      "confidence": 0.986251711845398
+    },
+    {
+      "text": "National Cancer Institute and current president of the International Society of Regulatory",
+      "bbox": [
+        76,
+        562,
+        668,
+        587
+      ],
+      "confidence": 0.99080491065979
+    },
+    {
+      "text": "Toxicology and Pharmacology, expressed concern about the scientific validity of the EPA",
+      "bbox": [
+        77,
+        580,
+        673,
+        605
+      ],
+      "confidence": 0.9894714951515198
+    },
+    {
+      "text": "report which has prompted reconsideration of a public smoking ban: \"Three categories of",
+      "bbox": [
+        76,
+        598,
+        675,
+        623
+      ],
+      "confidence": 0.9800122380256653
+    },
+    {
+      "text": "exposure can be identified in the epidemiological studies on ETS. One group considers",
+      "bbox": [
+        76,
+        616,
+        660,
+        641
+      ],
+      "confidence": 0.9831340909004211
+    },
+    {
+      "text": "people exposed to ETS at work, and indicates no overall increase in lung cancer risk. This",
+      "bbox": [
+        76,
+        634,
+        686,
+        657
+      ],
+      "confidence": 0.9976447820663452
+    },
+    {
+      "text": "absence of overall risk for workplace exposures should be of special interest to this",
+      "bbox": [
+        76,
+        653,
+        629,
+        673
+      ],
+      "confidence": 0.9826236367225647
+    },
+    {
+      "text": "committee.",
+      "bbox": [
+        76,
+        672,
+        151,
+        692
+      ],
+      "confidence": 0.9954434633255005
+    },
+    {
+      "text": "\"A second exposure category addresses people exposed to ETS at home since childhood, and",
+      "bbox": [
+        77,
+        708,
+        695,
+        728
+      ],
+      "confidence": 0.9757080674171448
+    },
+    {
+      "text": "the combined risk estimate from all studies also reports no overall increase of lung cancer",
+      "bbox": [
+        75,
+        724,
+        675,
+        746
+      ],
+      "confidence": 0.9881101250648499
+    },
+    {
+      "text": "risk. The EPA simply did not consider the data from these and the negative workplace",
+      "bbox": [
+        74,
+        741,
+        658,
+        763
+      ],
+      "confidence": 0.9917789697647095
+    },
+    {
+      "text": "studies in its risk assessment.",
+      "bbox": [
+        75,
+        760,
+        267,
+        778
+      ],
+      "confidence": 0.9970550537109375
+    },
+    {
+      "text": "\"A third category of exposure in some 30 studies from all over the worid concerns",
+      "bbox": [
+        73,
+        792,
+        627,
+        817
+      ],
+      "confidence": 0.9861781597137451
+    },
+    {
+      "text": "nonsmoking wives of smoking husbands. Of these studies, some reported a small increase in",
+      "bbox": [
+        72,
+        810,
+        697,
+        835
+      ],
+      "confidence": 0.9806432723999023
+    },
+    {
+      "text": "risk, some no risk change at all, and some actually reported a decrease in risk.\" Dr. Gori",
+      "bbox": [
+        71,
+        828,
+        684,
+        854
+      ],
+      "confidence": 0.9851555824279785
+    },
+    {
+      "text": "also noted that the EPA deviated from accepted statistical standards and ignored data from",
+      "bbox": [
+        70,
+        845,
+        677,
+        872
+      ],
+      "confidence": 0.9737516641616821
+    },
+    {
+      "text": "two important U.S. studies that also reported no overall increase in risk.",
+      "bbox": [
+        71,
+        862,
+        554,
+        888
+      ],
+      "confidence": 0.9929288625717163
+    },
+    {
+      "text": "- more -",
+      "bbox": [
+        352,
+        904,
+        411,
+        921
+      ],
+      "confidence": 0.9058070778846741
+    }
+  ],
+  "full_text": "The Tobacco Institute\n1875 I Street, Northwest\nWashington, DC 20006\n(800) 424-9876\nFOR RELEASE:\nCONTACT:\nMedia Relations\nSeptember 7, 1993\n800-424-9876\n1:00 p.m.\n202-457-9387\nEPA REPORT CRITICIZED IN ANNAPOLIS HEARING\nScientists and legal scholars urge Delegates to be cautious of EPA's \"science\" when\nconsidering Clean Indoor Air Act\nAnnapolis, MD - Critical testimony from prominent scientists and legal scholars about the\nU.S. Environmental Protection Agency's report on environmental tobacco smoke (ETS) was\nheard today in the House of Delegates' Environmental Matters Committee.\nThe Committee is hearing testimony on the re-introduction of H1572, the so-called \"Clean\nIndoor Air Act\" that was defeated in the Maryland Assembly last year and re-introduced in\nFebruary 1993, after the EPA released its report on ETS. The proposed bill would ban\nsmoking in all enclosed public places and worksites, including restaurants and\nprivate businesses.\nToday, Dr. Gio Batta Gori, former director of the Smoking and Health Program at the\nNational Cancer Institute and current president of the International Society of Regulatory\nToxicology and Pharmacology, expressed concern about the scientific validity of the EPA\nreport which has prompted reconsideration of a public smoking ban: \"Three categories of\nexposure can be identified in the epidemiological studies on ETS. One group considers\npeople exposed to ETS at work, and indicates no overall increase in lung cancer risk. This\nabsence of overall risk for workplace exposures should be of special interest to this\ncommittee.\n\"A second exposure category addresses people exposed to ETS at home since childhood, and\nthe combined risk estimate from all studies also reports no overall increase of lung cancer\nrisk. The EPA simply did not consider the data from these and the negative workplace\nstudies in its risk assessment.\n\"A third category of exposure in some 30 studies from all over the worid concerns\nnonsmoking wives of smoking husbands. Of these studies, some reported a small increase in\nrisk, some no risk change at all, and some actually reported a decrease in risk.\" Dr. Gori\nalso noted that the EPA deviated from accepted statistical standards and ignored data from\ntwo important U.S. studies that also reported no overall increase in risk.\n- more -"
+}

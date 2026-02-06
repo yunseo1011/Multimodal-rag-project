@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0148.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Mason, Marie N.",
+      "bbox": [
+        69,
+        55,
+        229,
+        78
+      ],
+      "confidence": 0.9880501627922058
+    },
+    {
+      "text": "To: DL SME Dept",
+      "bbox": [
+        68,
+        73,
+        194,
+        98
+      ],
+      "confidence": 0.9590923190116882
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        69,
+        94,
+        102,
+        114
+      ],
+      "confidence": 0.9989796280860901
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        66,
+        111,
+        112,
+        132
+      ],
+      "confidence": 0.9996800422668457
+    },
+    {
+      "text": "Primary Date: 8/27/1998 6:23:20 AM",
+      "bbox": [
+        67,
+        129,
+        319,
+        153
+      ],
+      "confidence": 0.9736078977584839
+    },
+    {
+      "text": "Last Modified Date: 1998-Aug-27 06:23:20",
+      "bbox": [
+        65,
+        147,
+        357,
+        173
+      ],
+      "confidence": 0.979539692401886
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        66,
+        167,
+        205,
+        192
+      ],
+      "confidence": 0.999096155166626
+    },
+    {
+      "text": "Sent Date: 1998-Aug-27 06:23:02",
+      "bbox": [
+        66,
+        186,
+        292,
+        210
+      ],
+      "confidence": 0.9976788759231567
+    },
+    {
+      "text": "Received Date: 1998-Aug-27 06:23:20",
+      "bbox": [
+        66,
+        205,
+        323,
+        227
+      ],
+      "confidence": 0.977649450302124
+    },
+    {
+      "text": "Subject: NO BULL 5 RELEASE",
+      "bbox": [
+        66,
+        224,
+        285,
+        246
+      ],
+      "confidence": 0.9856376051902771
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        65,
+        262,
+        162,
+        287
+      ],
+      "confidence": 0.9880422949790955
+    },
+    {
+      "text": "98-240.doc",
+      "bbox": [
+        65,
+        281,
+        144,
+        305
+      ],
+      "confidence": 0.9971864819526672
+    },
+    {
+      "text": "52867 7070",
+      "bbox": [
+        685,
+        868,
+        710,
+        971
+      ],
+      "confidence": 0.9996126890182495
+    }
+  ],
+  "full_text": "From: Mason, Marie N.\nTo: DL SME Dept\nCC:\nBCC:\nPrimary Date: 8/27/1998 6:23:20 AM\nLast Modified Date: 1998-Aug-27 06:23:20\nLast Touched Date:\nSent Date: 1998-Aug-27 06:23:02\nReceived Date: 1998-Aug-27 06:23:20\nSubject: NO BULL 5 RELEASE\nAttachments:\n98-240.doc\n52867 7070"
+}

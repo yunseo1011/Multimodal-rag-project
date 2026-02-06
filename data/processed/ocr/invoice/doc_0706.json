@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0706.png",
+    "image_width": 789,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "COVIngtON & BUrLING",
+      "bbox": [
+        275,
+        0,
+        530,
+        23
+      ],
+      "confidence": 0.7578639984130859
+    },
+    {
+      "text": "I2O1 PENNSYLVANIA AVENUE. N. W.",
+      "bbox": [
+        284,
+        21,
+        525,
+        38
+      ],
+      "confidence": 0.9528446197509766
+    },
+    {
+      "text": "P. 0. BOX 7566",
+      "bbox": [
+        348,
+        36,
+        460,
+        51
+      ],
+      "confidence": 0.8804632425308228
+    },
+    {
+      "text": "WASHINGTON,D. C. 2O044",
+      "bbox": [
+        320,
+        51,
+        484,
+        68
+      ],
+      "confidence": 0.9493188261985779
+    },
+    {
+      "text": "TELEPHONE",
+      "bbox": [
+        366,
+        84,
+        439,
+        95
+      ],
+      "confidence": 0.9997507929801941
+    },
+    {
+      "text": "(202) 662-6000",
+      "bbox": [
+        352,
+        99,
+        454,
+        112
+      ],
+      "confidence": 0.9974762797355652
+    },
+    {
+      "text": "EMPLOYER IDENTIFICATION NO.",
+      "bbox": [
+        15,
+        115,
+        246,
+        135
+      ],
+      "confidence": 0.9996256232261658
+    },
+    {
+      "text": "53-0188411",
+      "bbox": [
+        88,
+        130,
+        172,
+        146
+      ],
+      "confidence": 0.9597964286804199
+    },
+    {
+      "text": "ACCOUNT NO.",
+      "bbox": [
+        558,
+        139,
+        660,
+        152
+      ],
+      "confidence": 0.9942547082901001
+    },
+    {
+      "text": "19750-3",
+      "bbox": [
+        679,
+        134,
+        754,
+        151
+      ],
+      "confidence": 0.9998955130577087
+    },
+    {
+      "text": "STATEMENT",
+      "bbox": [
+        353,
+        147,
+        455,
+        162
+      ],
+      "confidence": 0.9998288750648499
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        558,
+        163,
+        602,
+        177
+      ],
+      "confidence": 0.9999308586120605
+    },
+    {
+      "text": "June",
+      "bbox": [
+        616,
+        162,
+        664,
+        183
+      ],
+      "confidence": 0.9999679923057556
+    },
+    {
+      "text": "18,",
+      "bbox": [
+        669,
+        166,
+        706,
+        181
+      ],
+      "confidence": 0.9989793300628662
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        709,
+        167,
+        753,
+        182
+      ],
+      "confidence": 0.9997444152832031
+    },
+    {
+      "text": "PHILIP MORRIS MANAGEMENT CORPORATION",
+      "bbox": [
+        228,
+        251,
+        591,
+        278
+      ],
+      "confidence": 0.9993994235992432
+    },
+    {
+      "text": "To cover the statement of Healthy Buildings",
+      "bbox": [
+        89,
+        298,
+        532,
+        328
+      ],
+      "confidence": 0.994453489780426
+    },
+    {
+      "text": "International relating to the fees and",
+      "bbox": [
+        139,
+        317,
+        532,
+        345
+      ],
+      "confidence": 0.9895607829093933
+    },
+    {
+      "text": "expenses of Gray Robertson in connection",
+      "bbox": [
+        137,
+        335,
+        551,
+        362
+      ],
+      "confidence": 0.9926162958145142
+    },
+    {
+      "text": "with media tour covering Milan, Rome,",
+      "bbox": [
+        134,
+        351,
+        520,
+        380
+      ],
+      "confidence": 0.9691575765609741
+    },
+    {
+      "text": "Naples, June 2-7, 1991",
+      "bbox": [
+        134,
+        370,
+        376,
+        394
+      ],
+      "confidence": 0.9234985113143921
+    },
+    {
+      "text": "$15,269.00",
+      "bbox": [
+        613,
+        377,
+        735,
+        396
+      ],
+      "confidence": 0.9996959567070007
+    },
+    {
+      "text": "JPR/ceb",
+      "bbox": [
+        74,
+        454,
+        157,
+        481
+      ],
+      "confidence": 0.9997997879981995
+    },
+    {
+      "text": "9-301-612",
+      "bbox": [
+        456,
+        636,
+        603,
+        675
+      ],
+      "confidence": 0.9837111234664917
+    },
+    {
+      "text": "ro: Merevaudesiy",
+      "bbox": [
+        453,
+        660,
+        721,
+        707
+      ],
+      "confidence": 0.7788189649581909
+    },
+    {
+      "text": "Say teriefivgo R",
+      "bbox": [
+        483,
+        689,
+        771,
+        747
+      ],
+      "confidence": 0.63145911693573
+    },
+    {
+      "text": "Yeany Pottof 6-2s.4,",
+      "bbox": [
+        476,
+        768,
+        789,
+        822
+      ],
+      "confidence": 0.6454499959945679
+    },
+    {
+      "text": "2029378063",
+      "bbox": [
+        604,
+        936,
+        770,
+        967
+      ],
+      "confidence": 0.9998698234558105
+    },
+    {
+      "text": "ITH PAYMENT",
+      "bbox": [
+        458,
+        984,
+        561,
+        1000
+      ],
+      "confidence": 0.9509861469268799
+    }
+  ],
+  "full_text": "COVIngtON & BUrLING\nI2O1 PENNSYLVANIA AVENUE. N. W.\nP. 0. BOX 7566\nWASHINGTON,D. C. 2O044\nTELEPHONE\n(202) 662-6000\nEMPLOYER IDENTIFICATION NO.\n53-0188411\nACCOUNT NO.\n19750-3\nSTATEMENT\nDATE\nJune\n18,\n1991\nPHILIP MORRIS MANAGEMENT CORPORATION\nTo cover the statement of Healthy Buildings\nInternational relating to the fees and\nexpenses of Gray Robertson in connection\nwith media tour covering Milan, Rome,\nNaples, June 2-7, 1991\n$15,269.00\nJPR/ceb\n9-301-612\nro: Merevaudesiy\nSay teriefivgo R\nYeany Pottof 6-2s.4,\n2029378063\nITH PAYMENT"
+}

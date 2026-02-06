@@ -1,0 +1,321 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0421.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "#79-142",
+      "bbox": [
+        509,
+        194,
+        590,
+        230
+      ],
+      "confidence": 0.9876052141189575
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        123,
+        242,
+        266,
+        256
+      ],
+      "confidence": 0.9674419164657593
+    },
+    {
+      "text": "Septcmber 13, 1979",
+      "bbox": [
+        464,
+        233,
+        605,
+        251
+      ],
+      "confidence": 0.9661715626716614
+    },
+    {
+      "text": "-",
+      "bbox": [
+        457,
+        289,
+        467,
+        297
+      ],
+      "confidence": 0.9741394519805908
+    },
+    {
+      "text": "This memo addresses Marketing Research's concerns of the",
+      "bbox": [
+        178,
+        308,
+        597,
+        336
+      ],
+      "confidence": 0.9740920662879944
+    },
+    {
+      "text": "proposed Brand \"B\" produet and advertising to be used in",
+      "bbox": [
+        179,
+        335,
+        596,
+        361
+      ],
+      "confidence": 0.991679310798645
+    },
+    {
+      "text": "the upcoming \"Assessor\" sinulated test market.",
+      "bbox": [
+        180,
+        362,
+        518,
+        386
+      ],
+      "confidence": 0.9974973201751709
+    },
+    {
+      "text": "I. Assessor = Simulated Test Market",
+      "bbox": [
+        151,
+        391,
+        417,
+        412
+      ],
+      "confidence": 0.9567886590957642
+    },
+    {
+      "text": "The \"Assessor\" model assumes that the product formulation",
+      "bbox": [
+        179,
+        413,
+        602,
+        438
+      ],
+      "confidence": 0.9879530072212219
+    },
+    {
+      "text": "and advertising positioning are representative of that which.",
+      "bbox": [
+        179,
+        439,
+        626,
+        463
+      ],
+      "confidence": 0.9843648076057434
+    },
+    {
+      "text": "would be used at the time of national introduction. This",
+      "bbox": [
+        180,
+        465,
+        603,
+        488
+      ],
+      "confidence": 0.9766516089439392
+    },
+    {
+      "text": "is not the case for Brand \"B.\" Developmental work for",
+      "bbox": [
+        179,
+        490,
+        581,
+        513
+      ],
+      "confidence": 0.9908437132835388
+    },
+    {
+      "text": "Brand \"B\" product and advertisIng has yet to reach chis",
+      "bbox": [
+        179,
+        517,
+        589,
+        540
+      ],
+      "confidence": 0.9883347749710083
+    },
+    {
+      "text": "national introductory level.",
+      "bbox": [
+        179,
+        545,
+        386,
+        566
+      ],
+      "confidence": 0.9986810684204102
+    },
+    {
+      "text": "Listed below is the current status of Brand \"B's\" product",
+      "bbox": [
+        179,
+        582,
+        604,
+        606
+      ],
+      "confidence": 0.9834012389183044
+    },
+    {
+      "text": "and advertising.",
+      "bbox": [
+        179,
+        612,
+        301,
+        631
+      ],
+      "confidence": 0.999614417552948
+    },
+    {
+      "text": "Product",
+      "bbox": [
+        203,
+        652,
+        267,
+        670
+      ],
+      "confidence": 0.974605143070221
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        181,
+        655,
+        204,
+        670
+      ],
+      "confidence": 0.985676646232605
+    },
+    {
+      "text": "The tar level of the upper range produet has not becn",
+      "bbox": [
+        209,
+        673,
+        601,
+        693
+      ],
+      "confidence": 0.9862116575241089
+    },
+    {
+      "text": "determincd. This tar level could range from 7 to 9",
+      "bbox": [
+        211,
+        698,
+        587,
+        719
+      ],
+      "confidence": 0.9839314818382263
+    },
+    {
+      "text": "milligrom.",
+      "bbox": [
+        212,
+        728,
+        287,
+        744
+      ],
+      "confidence": 0.941314697265625
+    },
+    {
+      "text": "- Neithor of the 7 or 8 mg. product formulations have",
+      "bbox": [
+        214,
+        747,
+        598,
+        768
+      ],
+      "confidence": 0.9714924693107605
+    },
+    {
+      "text": "been consumer tested.",
+      "bbox": [
+        227,
+        774,
+        380,
+        794
+      ],
+      "confidence": 0.9798381328582764
+    },
+    {
+      "text": "- The 9 mg. product was tested vs. the current vICEROY",
+      "bbox": [
+        216,
+        794,
+        606,
+        819
+      ],
+      "confidence": 0.9570339322090149
+    },
+    {
+      "text": "Rich Lights, a modified VICERoy Rich Lights blend, and",
+      "bbox": [
+        230,
+        818,
+        620,
+        843
+      ],
+      "confidence": 0.942870557308197
+    },
+    {
+      "text": "a modified BElA1R blend. Among both full-taste and",
+      "bbox": [
+        231,
+        842,
+        598,
+        868
+      ],
+      "confidence": 0.9583806395530701
+    },
+    {
+      "text": "f:",
+      "bbox": [
+        50,
+        872,
+        59,
+        882
+      ],
+      "confidence": 0.8589557409286499
+    },
+    {
+      "text": "677157 2 7",
+      "bbox": [
+        188,
+        936,
+        431,
+        978
+      ],
+      "confidence": 0.8583208322525024
+    },
+    {
+      "text": "ICE, IT IS DUE TO THR",
+      "bbox": [
+        0,
+        952,
+        154,
+        973
+      ],
+      "confidence": 0.9086143970489502
+    },
+    {
+      "text": "FILM IMACE IS LESS CLEAR",
+      "bbox": [
+        3,
+        941,
+        178,
+        961
+      ],
+      "confidence": 0.9603288769721985
+    },
+    {
+      "text": "E DICDMENT BEING FILMED.",
+      "bbox": [
+        0,
+        959,
+        171,
+        984
+      ],
+      "confidence": 0.9474708437919617
+    }
+  ],
+  "full_text": "#79-142\nMEMORANDUM\nSeptcmber 13, 1979\n-\nThis memo addresses Marketing Research's concerns of the\nproposed Brand \"B\" produet and advertising to be used in\nthe upcoming \"Assessor\" sinulated test market.\nI. Assessor = Simulated Test Market\nThe \"Assessor\" model assumes that the product formulation\nand advertising positioning are representative of that which.\nwould be used at the time of national introduction. This\nis not the case for Brand \"B.\" Developmental work for\nBrand \"B\" product and advertisIng has yet to reach chis\nnational introductory level.\nListed below is the current status of Brand \"B's\" product\nand advertising.\nProduct\nA.\nThe tar level of the upper range produet has not becn\ndetermincd. This tar level could range from 7 to 9\nmilligrom.\n- Neithor of the 7 or 8 mg. product formulations have\nbeen consumer tested.\n- The 9 mg. product was tested vs. the current vICEROY\nRich Lights, a modified VICERoy Rich Lights blend, and\na modified BElA1R blend. Among both full-taste and\nf:\n677157 2 7\nICE, IT IS DUE TO THR\nFILM IMACE IS LESS CLEAR\nE DICDMENT BEING FILMED."
+}

@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0548.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "IInice",
+      "bbox": [
+        525,
+        589,
+        696,
+        625
+      ],
+      "confidence": 0.7829647064208984
+    },
+    {
+      "text": " Ii you Hoe",
+      "bbox": [
+        499,
+        680,
+        713,
+        715
+      ],
+      "confidence": 0.6944020390510559
+    },
+    {
+      "text": "Ay Srpls ",
+      "bbox": [
+        533,
+        707,
+        745,
+        741
+      ],
+      "confidence": 0.6187677979469299
+    },
+    {
+      "text": "Poorin Coupons",
+      "bbox": [
+        522,
+        753,
+        732,
+        780
+      ],
+      "confidence": 0.6613630652427673
+    },
+    {
+      "text": " .Miime",
+      "bbox": [
+        501,
+        804,
+        684,
+        828
+      ],
+      "confidence": 0.6493644714355469
+    },
+    {
+      "text": "1730",
+      "bbox": [
+        743,
+        832,
+        753,
+        873
+      ],
+      "confidence": 0.9965476989746094
+    },
+    {
+      "text": "Tthok you.",
+      "bbox": [
+        588,
+        838,
+        730,
+        873
+      ],
+      "confidence": 0.8033507466316223
+    },
+    {
+      "text": "6083",
+      "bbox": [
+        742,
+        877,
+        753,
+        917
+      ],
+      "confidence": 0.9991623163223267
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        501,
+        880,
+        512,
+        894
+      ],
+      "confidence": 0.8607032299041748
+    },
+    {
+      "text": "-7",
+      "bbox": [
+        495,
+        902,
+        513,
+        919
+      ],
+      "confidence": 0.9270138740539551
+    },
+    {
+      "text": "D",
+      "bbox": [
+        503,
+        928,
+        512,
+        940
+      ],
+      "confidence": 0.8757921457290649
+    }
+  ],
+  "full_text": "IInice\n Ii you Hoe\nAy Srpls \nPoorin Coupons\n .Miime\n1730\nTthok you.\n6083\n3.\n-7\nD"
+}

@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0259.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "March 13, 2000",
+      "bbox": [
+        164,
+        188,
+        259,
+        210
+      ],
+      "confidence": 0.94969242811203
+    },
+    {
+      "text": "Shepherd Smith",
+      "bbox": [
+        164,
+        254,
+        260,
+        271
+      ],
+      "confidence": 0.9910331964492798
+    },
+    {
+      "text": "The Institute For Youth Development",
+      "bbox": [
+        163,
+        268,
+        380,
+        289
+      ],
+      "confidence": 0.9975706934928894
+    },
+    {
+      "text": "PO Box 16560",
+      "bbox": [
+        162,
+        286,
+        252,
+        303
+      ],
+      "confidence": 0.9938420653343201
+    },
+    {
+      "text": "Washington, DC 20041",
+      "bbox": [
+        162,
+        301,
+        300,
+        320
+      ],
+      "confidence": 0.9833671450614929
+    },
+    {
+      "text": "Dear Mr. Smith:",
+      "bbox": [
+        163,
+        335,
+        260,
+        349
+      ],
+      "confidence": 0.9898043870925903
+    },
+    {
+      "text": "I am sending this letter to request that the AC Green Youth Foundation and",
+      "bbox": [
+        160,
+        364,
+        592,
+        383
+      ],
+      "confidence": 0.9850538969039917
+    },
+    {
+      "text": "The Institute For Youth Development join together with a cormon goal, to",
+      "bbox": [
+        162,
+        380,
+        593,
+        399
+      ],
+      "confidence": 0.9947967529296875
+    },
+    {
+      "text": "help improve the health of America's youth.",
+      "bbox": [
+        162,
+        397,
+        419,
+        414
+      ],
+      "confidence": 0.9969691038131714
+    },
+    {
+      "text": "I look forward to your response and any helpful resource materials that may",
+      "bbox": [
+        162,
+        430,
+        589,
+        445
+      ],
+      "confidence": 0.9814031720161438
+    },
+    {
+      "text": "help further our programs in the greater Phoenix area",
+      "bbox": [
+        162,
+        447,
+        466,
+        461
+      ],
+      "confidence": 0.993851363658905
+    },
+    {
+      "text": "Thank you for all of your help!",
+      "bbox": [
+        161,
+        476,
+        340,
+        493
+      ],
+      "confidence": 0.9995213747024536
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        159,
+        506,
+        223,
+        526
+      ],
+      "confidence": 0.9975305795669556
+    },
+    {
+      "text": "GinaMaric Scarpa",
+      "bbox": [
+        160,
+        571,
+        269,
+        589
+      ],
+      "confidence": 0.9643764495849609
+    },
+    {
+      "text": "Executive Director",
+      "bbox": [
+        162,
+        589,
+        272,
+        603
+      ],
+      "confidence": 0.9992262721061707
+    },
+    {
+      "text": "2085190878",
+      "bbox": [
+        636,
+        759,
+        660,
+        864
+      ],
+      "confidence": 0.9999513626098633
+    },
+    {
+      "text": "2071980582",
+      "bbox": [
+        677,
+        808,
+        703,
+        905
+      ],
+      "confidence": 0.9999707937240601
+    }
+  ],
+  "full_text": "March 13, 2000\nShepherd Smith\nThe Institute For Youth Development\nPO Box 16560\nWashington, DC 20041\nDear Mr. Smith:\nI am sending this letter to request that the AC Green Youth Foundation and\nThe Institute For Youth Development join together with a cormon goal, to\nhelp improve the health of America's youth.\nI look forward to your response and any helpful resource materials that may\nhelp further our programs in the greater Phoenix area\nThank you for all of your help!\nSincerely,\nGinaMaric Scarpa\nExecutive Director\n2085190878\n2071980582"
+}

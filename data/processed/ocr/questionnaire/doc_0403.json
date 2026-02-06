@@ -1,0 +1,941 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0403.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ALPHA RECOGNITION THRESHOLD ATTRIBUTE PROFILE (ARTAP): 138",
+      "bbox": [
+        105,
+        13,
+        603,
+        42
+      ],
+      "confidence": 0.9814921617507935
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        51,
+        43,
+        98,
+        66
+      ],
+      "confidence": 0.9975259900093079
+    },
+    {
+      "text": "Flavor Division",
+      "bbox": [
+        122,
+        44,
+        318,
+        72
+      ],
+      "confidence": 0.9507300853729248
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        353,
+        50,
+        400,
+        70
+      ],
+      "confidence": 0.9989451169967651
+    },
+    {
+      "text": "5/5/87",
+      "bbox": [
+        414,
+        43,
+        518,
+        74
+      ],
+      "confidence": 0.9772722125053406
+    },
+    {
+      "text": "FFEMA NO:",
+      "bbox": [
+        50,
+        57,
+        123,
+        83
+      ],
+      "confidence": 0.7228808403015137
+    },
+    {
+      "text": "3336",
+      "bbox": [
+        187,
+        66,
+        248,
+        87
+      ],
+      "confidence": 0.9995682239532471
+    },
+    {
+      "text": "CODE NO:",
+      "bbox": [
+        352,
+        66,
+        422,
+        87
+      ],
+      "confidence": 0.9857598543167114
+    },
+    {
+      "text": "AROMA RAW MATERIAL:",
+      "bbox": [
+        50,
+        73,
+        207,
+        101
+      ],
+      "confidence": 0.9904553294181824
+    },
+    {
+      "text": "23-D.eltyl-5-methy1-pyra3ine",
+      "bbox": [
+        242,
+        76,
+        605,
+        111
+      ],
+      "confidence": 0.8928169012069702
+    },
+    {
+      "text": "0.1",
+      "bbox": [
+        309,
+        112,
+        339,
+        128
+      ],
+      "confidence": 0.8787600994110107
+    },
+    {
+      "text": "0'1",
+      "bbox": [
+        379,
+        111,
+        420,
+        130
+      ],
+      "confidence": 0.7719736695289612
+    },
+    {
+      "text": "Det.0.olppm",
+      "bbox": [
+        633,
+        110,
+        766,
+        148
+      ],
+      "confidence": 0.8953468799591064
+    },
+    {
+      "text": "THRESHOLD:",
+      "bbox": [
+        51,
+        120,
+        136,
+        142
+      ],
+      "confidence": 0.9992033839225769
+    },
+    {
+      "text": "ppm",
+      "bbox": [
+        178,
+        115,
+        219,
+        133
+      ],
+      "confidence": 0.9266563057899475
+    },
+    {
+      "text": ".01",
+      "bbox": [
+        244,
+        113,
+        272,
+        129
+      ],
+      "confidence": 0.9897617697715759
+    },
+    {
+      "text": "7",
+      "bbox": [
+        252,
+        125,
+        271,
+        142
+      ],
+      "confidence": 0.6881493926048279
+    },
+    {
+      "text": "-1",
+      "bbox": [
+        562,
+        127,
+        578,
+        147
+      ],
+      "confidence": 0.7276402711868286
+    },
+    {
+      "text": "(D)",
+      "bbox": [
+        53,
+        137,
+        82,
+        156
+      ],
+      "confidence": 0.996009886264801
+    },
+    {
+      "text": "(R)",
+      "bbox": [
+        87,
+        138,
+        119,
+        158
+      ],
+      "confidence": 0.9839619994163513
+    },
+    {
+      "text": "Min",
+      "bbox": [
+        151,
+        138,
+        186,
+        161
+      ],
+      "confidence": 0.90158611536026
+    },
+    {
+      "text": "R",
+      "bbox": [
+        192,
+        142,
+        214,
+        160
+      ],
+      "confidence": 0.9991832375526428
+    },
+    {
+      "text": "5",
+      "bbox": [
+        311,
+        140,
+        339,
+        161
+      ],
+      "confidence": 0.9996706247329712
+    },
+    {
+      "text": "Max",
+      "bbox": [
+        552,
+        138,
+        589,
+        164
+      ],
+      "confidence": 0.9422327876091003
+    },
+    {
+      "text": "ppmRec 0.1ppm",
+      "bbox": [
+        605,
+        131,
+        761,
+        174
+      ],
+      "confidence": 0.9067602753639221
+    },
+    {
+      "text": "2",
+      "bbox": [
+        250,
+        143,
+        268,
+        162
+      ],
+      "confidence": 0.9992340803146362
+    },
+    {
+      "text": "ATTRIBUTE PROFILE",
+      "bbox": [
+        106,
+        168,
+        242,
+        192
+      ],
+      "confidence": 0.9971925020217896
+    },
+    {
+      "text": "ADDITIONAL COMMENTS",
+      "bbox": [
+        469,
+        169,
+        625,
+        193
+      ],
+      "confidence": 0.9989734292030334
+    },
+    {
+      "text": "1. Cigarette-like taste?",
+      "bbox": [
+        50,
+        196,
+        248,
+        222
+      ],
+      "confidence": 0.9705502390861511
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        324,
+        199,
+        360,
+        222
+      ],
+      "confidence": 0.9987413287162781
+    },
+    {
+      "text": "No",
+      "bbox": [
+        364,
+        200,
+        390,
+        221
+      ],
+      "confidence": 0.9975185394287109
+    },
+    {
+      "text": "Dirly surthy misty cocce",
+      "bbox": [
+        403,
+        196,
+        663,
+        231
+      ],
+      "confidence": 0.8218427300453186
+    },
+    {
+      "text": "2. Artificial taste?",
+      "bbox": [
+        51,
+        244,
+        217,
+        265
+      ],
+      "confidence": 0.9751023054122925
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        321,
+        243,
+        361,
+        270
+      ],
+      "confidence": 0.9507115483283997
+    },
+    {
+      "text": "No",
+      "bbox": [
+        363,
+        246,
+        391,
+        267
+      ],
+      "confidence": 0.9995561838150024
+    },
+    {
+      "text": "Carlby meaty metallic",
+      "bbox": [
+        403,
+        243,
+        645,
+        276
+      ],
+      "confidence": 0.8918454051017761
+    },
+    {
+      "text": "3. Fresh tobacco-like taste?",
+      "bbox": [
+        50,
+        289,
+        278,
+        312
+      ],
+      "confidence": 0.9812765121459961
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        325,
+        291,
+        363,
+        315
+      ],
+      "confidence": 0.9974848628044128
+    },
+    {
+      "text": "N\\o",
+      "bbox": [
+        353,
+        289,
+        393,
+        316
+      ],
+      "confidence": 0.6925983428955078
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        51,
+        306,
+        126,
+        327
+      ],
+      "confidence": 0.9991822838783264
+    },
+    {
+      "text": "4. Smoke-like taste?",
+      "bbox": [
+        50,
+        337,
+        217,
+        358
+      ],
+      "confidence": 0.9850101470947266
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        324,
+        335,
+        362,
+        362
+      ],
+      "confidence": 0.9992161393165588
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        51,
+        354,
+        126,
+        374
+      ],
+      "confidence": 0.9991682767868042
+    },
+    {
+      "text": "5. Background mask?",
+      "bbox": [
+        52,
+        387,
+        210,
+        404
+      ],
+      "confidence": 0.9990454316139221
+    },
+    {
+      "text": "Increase",
+      "bbox": [
+        172,
+        400,
+        243,
+        421
+      ],
+      "confidence": 0.9988775253295898
+    },
+    {
+      "text": "Decrease No effect",
+      "bbox": [
+        247,
+        398,
+        405,
+        422
+      ],
+      "confidence": 0.9810872673988342
+    },
+    {
+      "text": "6. Dry puff character:",
+      "bbox": [
+        51,
+        431,
+        233,
+        452
+      ],
+      "confidence": 0.9970720410346985
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        52,
+        451,
+        126,
+        468
+      ],
+      "confidence": 0.9998509287834167
+    },
+    {
+      "text": "slightat 0.lppm",
+      "bbox": [
+        127,
+        449,
+        316,
+        489
+      ],
+      "confidence": 0.9216122031211853
+    },
+    {
+      "text": "7. Aftertaste?",
+      "bbox": [
+        50,
+        509,
+        171,
+        528
+      ],
+      "confidence": 0.9922875165939331
+    },
+    {
+      "text": "Yes.No",
+      "bbox": [
+        323,
+        506,
+        390,
+        532
+      ],
+      "confidence": 0.9165390133857727
+    },
+    {
+      "text": "greeable",
+      "bbox": [
+        126,
+        525,
+        200,
+        542
+      ],
+      "confidence": 0.9432288408279419
+    },
+    {
+      "text": "Disagreeable",
+      "bbox": [
+        213,
+        525,
+        309,
+        542
+      ],
+      "confidence": 0.9999096393585205
+    },
+    {
+      "text": "clean Tingering",
+      "bbox": [
+        81,
+        539,
+        221,
+        562
+      ],
+      "confidence": 0.9565234780311584
+    },
+    {
+      "text": "sweet",
+      "bbox": [
+        220,
+        542,
+        279,
+        560
+      ],
+      "confidence": 0.9290406107902527
+    },
+    {
+      "text": "dirty",
+      "bbox": [
+        77,
+        556,
+        131,
+        578
+      ],
+      "confidence": 0.997972309589386
+    },
+    {
+      "text": "coaling",
+      "bbox": [
+        141,
+        556,
+        201,
+        577
+      ],
+      "confidence": 0.9372967481613159
+    },
+    {
+      "text": "sour",
+      "bbox": [
+        228,
+        558,
+        266,
+        577
+      ],
+      "confidence": 0.998235821723938
+    },
+    {
+      "text": "oily",
+      "bbox": [
+        279,
+        556,
+        321,
+        579
+      ],
+      "confidence": 0.9887924790382385
+    },
+    {
+      "text": "8. Trigeminal sensation?",
+      "bbox": [
+        46,
+        603,
+        247,
+        623
+      ],
+      "confidence": 0.9861621856689453
+    },
+    {
+      "text": "nasal sting",
+      "bbox": [
+        78,
+        619,
+        169,
+        639
+      ],
+      "confidence": 0.9869423508644104
+    },
+    {
+      "text": "tongue bite",
+      "bbox": [
+        212,
+        621,
+        303,
+        641
+      ],
+      "confidence": 0.9986178874969482
+    },
+    {
+      "text": "cooling",
+      "bbox": [
+        310,
+        620,
+        375,
+        645
+      ],
+      "confidence": 0.9994021654129028
+    },
+    {
+      "text": "v.slight",
+      "bbox": [
+        393,
+        622,
+        497,
+        649
+      ],
+      "confidence": 0.9153045415878296
+    },
+    {
+      "text": "throat scratch",
+      "bbox": [
+        79,
+        635,
+        193,
+        654
+      ],
+      "confidence": 0.9996908903121948
+    },
+    {
+      "text": "astringent",
+      "bbox": [
+        211,
+        637,
+        293,
+        658
+      ],
+      "confidence": 0.996545135974884
+    },
+    {
+      "text": "peppery (tingly) soothing",
+      "bbox": [
+        78,
+        652,
+        277,
+        675
+      ],
+      "confidence": 0.9882994294166565
+    },
+    {
+      "text": "salivating",
+      "bbox": [
+        311,
+        652,
+        398,
+        678
+      ],
+      "confidence": 0.9666010141372681
+    },
+    {
+      "text": "heating",
+      "bbox": [
+        312,
+        639,
+        373,
+        660
+      ],
+      "confidence": 0.7612444758415222
+    },
+    {
+      "text": "rying",
+      "bbox": [
+        310,
+        668,
+        367,
+        696
+      ],
+      "confidence": 0.9197988510131836
+    },
+    {
+      "text": "9. Categorization of flavor:",
+      "bbox": [
+        44,
+        699,
+        268,
+        723
+      ],
+      "confidence": 0.9836475253105164
+    },
+    {
+      "text": "artificial",
+      "bbox": [
+        78,
+        719,
+        161,
+        736
+      ],
+      "confidence": 0.9996040463447571
+    },
+    {
+      "text": "chocolate/cocoa flue-cured",
+      "bbox": [
+        166,
+        719,
+        381,
+        739
+      ],
+      "confidence": 0.983518660068512
+    },
+    {
+      "text": "metallic",
+      "bbox": [
+        75,
+        736,
+        144,
+        753
+      ],
+      "confidence": 0.9996386766433716
+    },
+    {
+      "text": "nutty/pyrazine",
+      "bbox": [
+        164,
+        735,
+        298,
+        757
+      ],
+      "confidence": 0.9929585456848145
+    },
+    {
+      "text": "burley",
+      "bbox": [
+        288,
+        735,
+        351,
+        757
+      ],
+      "confidence": 0.9716194272041321
+    },
+    {
+      "text": "phenolic",
+      "bbox": [
+        76,
+        752,
+        143,
+        770
+      ],
+      "confidence": 0.9993326663970947
+    },
+    {
+      "text": "roasted",
+      "bbox": [
+        168,
+        752,
+        230,
+        771
+      ],
+      "confidence": 0.9974870085716248
+    },
+    {
+      "text": "floral",
+      "bbox": [
+        296,
+        753,
+        348,
+        771
+      ],
+      "confidence": 0.9874088764190674
+    },
+    {
+      "text": "green",
+      "bbox": [
+        70,
+        766,
+        137,
+        791
+      ],
+      "confidence": 0.9994864463806152
+    },
+    {
+      "text": "honey",
+      "bbox": [
+        169,
+        768,
+        215,
+        787
+      ],
+      "confidence": 0.9691753387451172
+    },
+    {
+      "text": "fruity/wine",
+      "bbox": [
+        294,
+        767,
+        389,
+        789
+      ],
+      "confidence": 0.9841949343681335
+    },
+    {
+      "text": "sour/acidic Woody",
+      "bbox": [
+        72,
+        782,
+        220,
+        806
+      ],
+      "confidence": 0.918071985244751
+    },
+    {
+      "text": "spicy",
+      "bbox": [
+        295,
+        784,
+        343,
+        806
+      ],
+      "confidence": 0.8970270156860352
+    },
+    {
+      "text": "sweet",
+      "bbox": [
+        73,
+        802,
+        117,
+        821
+      ],
+      "confidence": 0.9985240697860718
+    },
+    {
+      "text": "caramel",
+      "bbox": [
+        169,
+        802,
+        228,
+        821
+      ],
+      "confidence": 0.9937505125999451
+    },
+    {
+      "text": "bitter",
+      "bbox": [
+        294,
+        802,
+        356,
+        821
+      ],
+      "confidence": 0.9941306114196777
+    },
+    {
+      "text": "10. Major character description:",
+      "bbox": [
+        40,
+        836,
+        298,
+        853
+      ],
+      "confidence": 0.9969320297241211
+    },
+    {
+      "text": "Ruttypyruine qreen",
+      "bbox": [
+        72,
+        854,
+        302,
+        874
+      ],
+      "confidence": 0.7458768486976624
+    },
+    {
+      "text": "Woody Wirter",
+      "bbox": [
+        71,
+        868,
+        232,
+        893
+      ],
+      "confidence": 0.8136430382728577
+    },
+    {
+      "text": "50586 2889",
+      "bbox": [
+        717,
+        867,
+        744,
+        971
+      ],
+      "confidence": 0.9943302869796753
+    },
+    {
+      "text": "11. Recommendations: Useful at s.ol ppm for musky ruthy cnd",
+      "bbox": [
+        34,
+        896,
+        672,
+        930
+      ],
+      "confidence": 0.8169087171554565
+    },
+    {
+      "text": "cocoq Notes",
+      "bbox": [
+        75,
+        919,
+        203,
+        940
+      ],
+      "confidence": 0.6495647430419922
+    }
+  ],
+  "full_text": "ALPHA RECOGNITION THRESHOLD ATTRIBUTE PROFILE (ARTAP): 138\nNAME:\nFlavor Division\nDATE:\n5/5/87\nFFEMA NO:\n3336\nCODE NO:\nAROMA RAW MATERIAL:\n23-D.eltyl-5-methy1-pyra3ine\n0.1\n0'1\nDet.0.olppm\nTHRESHOLD:\nppm\n.01\n7\n-1\n(D)\n(R)\nMin\nR\n5\nMax\nppmRec 0.1ppm\n2\nATTRIBUTE PROFILE\nADDITIONAL COMMENTS\n1. Cigarette-like taste?\nYes\nNo\nDirly surthy misty cocce\n2. Artificial taste?\nYes\nNo\nCarlby meaty metallic\n3. Fresh tobacco-like taste?\nYes\nN\\o\nComments:\n4. Smoke-like taste?\nYes\nComments:\n5. Background mask?\nIncrease\nDecrease No effect\n6. Dry puff character:\nComments:\nslightat 0.lppm\n7. Aftertaste?\nYes.No\ngreeable\nDisagreeable\nclean Tingering\nsweet\ndirty\ncoaling\nsour\noily\n8. Trigeminal sensation?\nnasal sting\ntongue bite\ncooling\nv.slight\nthroat scratch\nastringent\npeppery (tingly) soothing\nsalivating\nheating\nrying\n9. Categorization of flavor:\nartificial\nchocolate/cocoa flue-cured\nmetallic\nnutty/pyrazine\nburley\nphenolic\nroasted\nfloral\ngreen\nhoney\nfruity/wine\nsour/acidic Woody\nspicy\nsweet\ncaramel\nbitter\n10. Major character description:\nRuttypyruine qreen\nWoody Wirter\n50586 2889\n11. Recommendations: Useful at s.ol ppm for musky ruthy cnd\ncocoq Notes"
+}

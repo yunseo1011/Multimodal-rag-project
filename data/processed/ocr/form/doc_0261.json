@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0261.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DEEJ19_'9?, 11ESZEM, PHILIE MORRIS LEGAL",
+      "bbox": [
+        61,
+        10,
+        339,
+        34
+      ],
+      "confidence": 0.8807754516601562
+    },
+    {
+      "text": "L. rolkak",
+      "bbox": [
+        513,
+        11,
+        612,
+        41
+      ],
+      "confidence": 0.7563877701759338
+    },
+    {
+      "text": "Po21$",
+      "bbox": [
+        615,
+        19,
+        651,
+        42
+      ],
+      "confidence": 0.6062505841255188
+    },
+    {
+      "text": "Fax R.whiddon",
+      "bbox": [
+        451,
+        31,
+        615,
+        68
+      ],
+      "confidence": 0.8439216613769531
+    },
+    {
+      "text": "C. Celentano in Arentera",
+      "bbox": [
+        513,
+        64,
+        734,
+        108
+      ],
+      "confidence": 0.7939226031303406
+    },
+    {
+      "text": "F. Cala at PN",
+      "bbox": [
+        509,
+        101,
+        659,
+        139
+      ],
+      "confidence": 0.9088295698165894
+    },
+    {
+      "text": "PHLH",
+      "bbox": [
+        325,
+        134,
+        349,
+        145
+      ],
+      "confidence": 0.9049878120422363
+    },
+    {
+      "text": "Facsimile Cover Sheet",
+      "bbox": [
+        167,
+        178,
+        546,
+        225
+      ],
+      "confidence": 0.9997730255126953
+    },
+    {
+      "text": "AssouiatedPress Stry",
+      "bbox": [
+        477,
+        230,
+        687,
+        293
+      ],
+      "confidence": 0.8952188491821289
+    },
+    {
+      "text": "To: Mike Adams",
+      "bbox": [
+        212,
+        254,
+        388,
+        283
+      ],
+      "confidence": 0.9928086400032043
+    },
+    {
+      "text": " be gublshed",
+      "bbox": [
+        493,
+        272,
+        655,
+        330
+      ],
+      "confidence": 0.8047274947166443
+    },
+    {
+      "text": "Company:",
+      "bbox": [
+        167,
+        278,
+        257,
+        308
+      ],
+      "confidence": 0.9997856616973877
+    },
+    {
+      "text": "Phone:",
+      "bbox": [
+        193,
+        300,
+        257,
+        325
+      ],
+      "confidence": 0.9977812170982361
+    },
+    {
+      "text": "Fax: -4000-",
+      "bbox": [
+        214,
+        321,
+        324,
+        346
+      ],
+      "confidence": 0.8633339405059814
+    },
+    {
+      "text": "937.",
+      "bbox": [
+        326,
+        315,
+        392,
+        344
+      ],
+      "confidence": 0.9013917446136475
+    },
+    {
+      "text": "December 21",
+      "bbox": [
+        507,
+        314,
+        628,
+        368
+      ],
+      "confidence": 0.770041286945343
+    },
+    {
+      "text": "From: Wendy G. Burrell",
+      "bbox": [
+        182,
+        365,
+        435,
+        395
+      ],
+      "confidence": 0.9856868982315063
+    },
+    {
+      "text": "Fernando- I belive",
+      "bbox": [
+        498,
+        377,
+        708,
+        451
+      ],
+      "confidence": 0.9071266651153564
+    },
+    {
+      "text": "Company: Philip Morris International Inc.",
+      "bbox": [
+        168,
+        391,
+        496,
+        419
+      ],
+      "confidence": 0.9831845164299011
+    },
+    {
+      "text": "Phone:(914)335-9217",
+      "bbox": [
+        192,
+        414,
+        384,
+        441
+      ],
+      "confidence": 0.9909927845001221
+    },
+    {
+      "text": ".Rogr has called you",
+      "bbox": [
+        472,
+        424,
+        683,
+        502
+      ],
+      "confidence": 0.903128981590271
+    },
+    {
+      "text": "Fax: (914) 335-9974",
+      "bbox": [
+        212,
+        435,
+        384,
+        463
+      ],
+      "confidence": 0.9202198386192322
+    },
+    {
+      "text": "about this sugjet.",
+      "bbox": [
+        491,
+        461,
+        683,
+        530
+      ],
+      "confidence": 0.8792507648468018
+    },
+    {
+      "text": "Date: December 18, 1997",
+      "bbox": [
+        205,
+        479,
+        419,
+        506
+      ],
+      "confidence": 0.9763482213020325
+    },
+    {
+      "text": ".",
+      "bbox": [
+        429,
+        477,
+        443,
+        491
+      ],
+      "confidence": 0.8761892914772034
+    },
+    {
+      "text": "If not, please call",
+      "bbox": [
+        493,
+        487,
+        703,
+        574
+      ],
+      "confidence": 0.8689919710159302
+    },
+    {
+      "text": "Pages including cover : 9",
+      "bbox": [
+        75,
+        519,
+        277,
+        545
+      ],
+      "confidence": 0.991635799407959
+    },
+    {
+      "text": "me.",
+      "bbox": [
+        522,
+        564,
+        574,
+        605
+      ],
+      "confidence": 0.9931491017341614
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        63,
+        596,
+        165,
+        617
+      ],
+      "confidence": 0.9999370574951172
+    },
+    {
+      "text": "2065337993",
+      "bbox": [
+        712,
+        797,
+        738,
+        897
+      ],
+      "confidence": 0.9998084902763367
+    },
+    {
+      "text": "This facsimile transmiasion (and/or the documents aocompanying it) may contain confidential",
+      "bbox": [
+        64,
+        844,
+        652,
+        865
+      ],
+      "confidence": 0.9765482544898987
+    },
+    {
+      "text": "information belonging to the sender. The information is intended only for the use of the",
+      "bbox": [
+        63,
+        862,
+        616,
+        884
+      ],
+      "confidence": 0.9866358041763306
+    },
+    {
+      "text": "addressee or entity named above. If you are not the intended recipient, you are hereby notified",
+      "bbox": [
+        63,
+        880,
+        660,
+        902
+      ],
+      "confidence": 0.971200168132782
+    },
+    {
+      "text": "that any disclosure, copying, distribution or the taking of any action in reliance on the contents of",
+      "bbox": [
+        63,
+        897,
+        680,
+        919
+      ],
+      "confidence": 0.9901408553123474
+    },
+    {
+      "text": "this information is suictly prohibited by law, If you have received this transmission in error,",
+      "bbox": [
+        64,
+        914,
+        647,
+        938
+      ],
+      "confidence": 0.9753499627113342
+    },
+    {
+      "text": "please immediately notify us by telephone to arrange for the return of the documents.",
+      "bbox": [
+        65,
+        934,
+        599,
+        956
+      ],
+      "confidence": 0.9802822470664978
+    }
+  ],
+  "full_text": "DEEJ19_'9?, 11ESZEM, PHILIE MORRIS LEGAL\nL. rolkak\nPo21$\nFax R.whiddon\nC. Celentano in Arentera\nF. Cala at PN\nPHLH\nFacsimile Cover Sheet\nAssouiatedPress Stry\nTo: Mike Adams\n be gublshed\nCompany:\nPhone:\nFax: -4000-\n937.\nDecember 21\nFrom: Wendy G. Burrell\nFernando- I belive\nCompany: Philip Morris International Inc.\nPhone:(914)335-9217\n.Rogr has called you\nFax: (914) 335-9974\nabout this sugjet.\nDate: December 18, 1997\n.\nIf not, please call\nPages including cover : 9\nme.\nComments:\n2065337993\nThis facsimile transmiasion (and/or the documents aocompanying it) may contain confidential\ninformation belonging to the sender. The information is intended only for the use of the\naddressee or entity named above. If you are not the intended recipient, you are hereby notified\nthat any disclosure, copying, distribution or the taking of any action in reliance on the contents of\nthis information is suictly prohibited by law, If you have received this transmission in error,\nplease immediately notify us by telephone to arrange for the return of the documents."
+}

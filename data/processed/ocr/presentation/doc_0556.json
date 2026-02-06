@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0556.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Smoke Research",
+      "bbox": [
+        103,
+        75,
+        382,
+        121
+      ],
+      "confidence": 0.9998453855514526
+    },
+    {
+      "text": "Objective:",
+      "bbox": [
+        96,
+        146,
+        245,
+        188
+      ],
+      "confidence": 0.999774158000946
+    },
+    {
+      "text": "Determine the effect of heating rate on the formation",
+      "bbox": [
+        125,
+        215,
+        754,
+        247
+      ],
+      "confidence": 0.9934871792793274
+    },
+    {
+      "text": "of smoke constituents and develop kinetic models",
+      "bbox": [
+        126,
+        251,
+        754,
+        284
+      ],
+      "confidence": 0.9889370799064636
+    },
+    {
+      "text": "Determine the feasibility of changing smoke",
+      "bbox": [
+        123,
+        295,
+        738,
+        329
+      ],
+      "confidence": 0.9887122511863708
+    },
+    {
+      "text": "chemistry through the development of novel cigarette",
+      "bbox": [
+        124,
+        328,
+        754,
+        368
+      ],
+      "confidence": 0.9952495098114014
+    },
+    {
+      "text": "prototypes",
+      "bbox": [
+        123,
+        369,
+        280,
+        406
+      ],
+      "confidence": 0.9999594688415527
+    },
+    {
+      "text": "2064356284",
+      "bbox": [
+        48,
+        710,
+        154,
+        734
+      ],
+      "confidence": 0.9986621737480164
+    }
+  ],
+  "full_text": "Smoke Research\nObjective:\nDetermine the effect of heating rate on the formation\nof smoke constituents and develop kinetic models\nDetermine the feasibility of changing smoke\nchemistry through the development of novel cigarette\nprototypes\n2064356284"
+}

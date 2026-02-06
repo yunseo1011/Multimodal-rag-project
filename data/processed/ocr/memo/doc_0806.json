@@ -1,0 +1,381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0806.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FORM r3214 (Front) • REV, 5/95",
+      "bbox": [
+        575,
+        57,
+        693,
+        71
+      ],
+      "confidence": 0.8895058035850525
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        497,
+        79,
+        533,
+        97
+      ],
+      "confidence": 0.9086906313896179
+    },
+    {
+      "text": "October 21, 1999",
+      "bbox": [
+        562,
+        75,
+        687,
+        100
+      ],
+      "confidence": 0.9957932233810425
+    },
+    {
+      "text": "ORGANIZATION",
+      "bbox": [
+        289,
+        97,
+        430,
+        125
+      ],
+      "confidence": 0.9996459484100342
+    },
+    {
+      "text": "ANNOUNCEMENT",
+      "bbox": [
+        281,
+        121,
+        439,
+        147
+      ],
+      "confidence": 0.9998723864555359
+    },
+    {
+      "text": "ENTITY:",
+      "bbox": [
+        499,
+        123,
+        540,
+        138
+      ],
+      "confidence": 0.9992868304252625
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        563,
+        113,
+        654,
+        137
+      ],
+      "confidence": 0.9454249739646912
+    },
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        41,
+        128,
+        216,
+        164
+      ],
+      "confidence": 0.9934686422348022
+    },
+    {
+      "text": "Management Corp.",
+      "bbox": [
+        563,
+        131,
+        702,
+        155
+      ],
+      "confidence": 0.9777251482009888
+    },
+    {
+      "text": "NUMBER:",
+      "bbox": [
+        497,
+        163,
+        548,
+        183
+      ],
+      "confidence": 0.9989840388298035
+    },
+    {
+      "text": "PMMC-051-99",
+      "bbox": [
+        565,
+        162,
+        670,
+        183
+      ],
+      "confidence": 0.9999685883522034
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        103,
+        220,
+        141,
+        244
+      ],
+      "confidence": 0.9993926882743835
+    },
+    {
+      "text": "ALL DEPARTMENT HEADS",
+      "bbox": [
+        206,
+        222,
+        409,
+        244
+      ],
+      "confidence": 0.9998623728752136
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        104,
+        247,
+        167,
+        270
+      ],
+      "confidence": 0.9998062252998352
+    },
+    {
+      "text": "Anne L. Skillin",
+      "bbox": [
+        204,
+        249,
+        310,
+        271
+      ],
+      "confidence": 0.9654659032821655
+    },
+    {
+      "text": "In light of David Greenberg's recently announced appointment as Senior Vice",
+      "bbox": [
+        76,
+        288,
+        626,
+        317
+      ],
+      "confidence": 0.9832437038421631
+    },
+    {
+      "text": "President, Corporate Affairs, Philip Morris Interational Inc., Murray H. Bring, Vice",
+      "bbox": [
+        76,
+        306,
+        657,
+        335
+      ],
+      "confidence": 0.9678937196731567
+    },
+    {
+      "text": "Chairman, External Affairs and General Counsel, Philip Morris Companies Inc., and",
+      "bbox": [
+        76,
+        324,
+        671,
+        352
+      ],
+      "confidence": 0.9848618507385254
+    },
+    {
+      "text": "Steven C. Parrish, Senior Vice President, Corporate Affairs, Philip Morris Companies",
+      "bbox": [
+        77,
+        343,
+        680,
+        369
+      ],
+      "confidence": 0.9814014434814453
+    },
+    {
+      "text": "Inc., are pleased to announce the following organizational appointments. These",
+      "bbox": [
+        77,
+        362,
+        647,
+        386
+      ],
+      "confidence": 0.9929167628288269
+    },
+    {
+      "text": "appointments are effective immediately.",
+      "bbox": [
+        78,
+        380,
+        364,
+        402
+      ],
+      "confidence": 0.9978070259094238
+    },
+    {
+      "text": "James Spector is appointed Vice President, Corporate Affairs Strategy and",
+      "bbox": [
+        100,
+        418,
+        636,
+        441
+      ],
+      "confidence": 0.9678820371627808
+    },
+    {
+      "text": "Development, Philip Morris Management Corp. reporting to Steve Parrish. Jim will",
+      "bbox": [
+        102,
+        438,
+        690,
+        458
+      ],
+      "confidence": 0.9896852374076843
+    },
+    {
+      "text": "assume responsibility for strategy and development for Corporate Affairs worldwide",
+      "bbox": [
+        101,
+        454,
+        695,
+        477
+      ],
+      "confidence": 0.9905332922935486
+    },
+    {
+      "text": "in addition to leadership of our PM21 Initiative.",
+      "bbox": [
+        101,
+        473,
+        437,
+        494
+      ],
+      "confidence": 0.9826495051383972
+    },
+    {
+      "text": "Reporting to Jim will be:",
+      "bbox": [
+        101,
+        507,
+        279,
+        529
+      ],
+      "confidence": 0.9951264262199402
+    },
+    {
+      "text": "•George Knox, Vice President Corporate Affairs Strategy, Philip Morris",
+      "bbox": [
+        102,
+        544,
+        622,
+        564
+      ],
+      "confidence": 0.9777071475982666
+    },
+    {
+      "text": "Management Corp. George will continue to be responsible for the professional",
+      "bbox": [
+        128,
+        562,
+        692,
+        583
+      ],
+      "confidence": 0.9850325584411621
+    },
+    {
+      "text": "development strategy for Corporate Affairs and work closely with the Global",
+      "bbox": [
+        130,
+        582,
+        667,
+        599
+      ],
+      "confidence": 0.987043023109436
+    },
+    {
+      "text": "Corporate Affairs Council.",
+      "bbox": [
+        130,
+        601,
+        314,
+        615
+      ],
+      "confidence": 0.997334897518158
+    },
+    {
+      "text": "Clare Purcell, Manager, Corporate Affairs Strategy, Philip Morris Management",
+      "bbox": [
+        101,
+        633,
+        686,
+        654
+      ],
+      "confidence": 0.9965106844902039
+    },
+    {
+      "text": "Corp.",
+      "bbox": [
+        124,
+        650,
+        174,
+        676
+      ],
+      "confidence": 0.9995445013046265
+    },
+    {
+      "text": "Joan Cryan, Manager, Corporate Affairs Policy, Philip Morris Management Corp.",
+      "bbox": [
+        112,
+        688,
+        703,
+        711
+      ],
+      "confidence": 0.9863103032112122
+    },
+    {
+      "text": "• Janine Rosen, Manager, Corporate Affairs, Philip Morris Management Corp.",
+      "bbox": [
+        104,
+        725,
+        671,
+        748
+      ],
+      "confidence": 0.990615963935852
+    },
+    {
+      "text": "Please join us in wishing Jim and George success in their new assignments.",
+      "bbox": [
+        78,
+        760,
+        622,
+        784
+      ],
+      "confidence": 0.9918947219848633
+    },
+    {
+      "text": "2072366545",
+      "bbox": [
+        708,
+        826,
+        735,
+        940
+      ],
+      "confidence": 0.9999664425849915
+    },
+    {
+      "text": "Anse Akellin",
+      "bbox": [
+        422,
+        835,
+        606,
+        869
+      ],
+      "confidence": 0.6475161910057068
+    }
+  ],
+  "full_text": "FORM r3214 (Front) • REV, 5/95\nDATE:\nOctober 21, 1999\nORGANIZATION\nANNOUNCEMENT\nENTITY:\nPhilip Morris\nPHILIP MORRIS\nManagement Corp.\nNUMBER:\nPMMC-051-99\nTO:\nALL DEPARTMENT HEADS\nFROM:\nAnne L. Skillin\nIn light of David Greenberg's recently announced appointment as Senior Vice\nPresident, Corporate Affairs, Philip Morris Interational Inc., Murray H. Bring, Vice\nChairman, External Affairs and General Counsel, Philip Morris Companies Inc., and\nSteven C. Parrish, Senior Vice President, Corporate Affairs, Philip Morris Companies\nInc., are pleased to announce the following organizational appointments. These\nappointments are effective immediately.\nJames Spector is appointed Vice President, Corporate Affairs Strategy and\nDevelopment, Philip Morris Management Corp. reporting to Steve Parrish. Jim will\nassume responsibility for strategy and development for Corporate Affairs worldwide\nin addition to leadership of our PM21 Initiative.\nReporting to Jim will be:\n•George Knox, Vice President Corporate Affairs Strategy, Philip Morris\nManagement Corp. George will continue to be responsible for the professional\ndevelopment strategy for Corporate Affairs and work closely with the Global\nCorporate Affairs Council.\nClare Purcell, Manager, Corporate Affairs Strategy, Philip Morris Management\nCorp.\nJoan Cryan, Manager, Corporate Affairs Policy, Philip Morris Management Corp.\n• Janine Rosen, Manager, Corporate Affairs, Philip Morris Management Corp.\nPlease join us in wishing Jim and George success in their new assignments.\n2072366545\nAnse Akellin"
+}

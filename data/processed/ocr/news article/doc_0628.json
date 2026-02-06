@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0628.png",
+    "image_width": 808,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Sacramento Bee",
+      "bbox": [
+        346,
+        75,
+        495,
+        95
+      ],
+      "confidence": 0.9972010850906372
+    },
+    {
+      "text": "June 21, 1995",
+      "bbox": [
+        158,
+        122,
+        278,
+        143
+      ],
+      "confidence": 0.9991751313209534
+    },
+    {
+      "text": "Recall reason finaccurate'",
+      "bbox": [
+        218,
+        285,
+        407,
+        310
+      ],
+      "confidence": 0.9800900816917419
+    },
+    {
+      "text": "The Philip Morris Companies said",
+      "bbox": [
+        229,
+        306,
+        449,
+        327
+      ],
+      "confidence": 0.9748582243919373
+    },
+    {
+      "text": "Tuesday that the company had \"erred\" by",
+      "bbox": [
+        219,
+        319,
+        478,
+        342
+      ],
+      "confidence": 0.9618069529533386
+    },
+    {
+      "text": "making statements that were.\"inaccu.",
+      "bbox": [
+        221,
+        334,
+        459,
+        356
+      ],
+      "confidence": 0.9620436429977417
+    },
+    {
+      "text": "rate\" about the cause of the company's",
+      "bbox": [
+        219,
+        348,
+        461,
+        371
+      ],
+      "confidence": 0.9706802368164062
+    },
+    {
+      "text": "unprecedented $100 million recall of",
+      "bbox": [
+        222,
+        362,
+        452,
+        385
+      ],
+      "confidence": 0.9823744297027588
+    },
+    {
+      "text": "more than 7 billion cigarettes last month.",
+      "bbox": [
+        221,
+        377,
+        478,
+        399
+      ],
+      "confidence": 0.9807137846946716
+    },
+    {
+      "text": "The company originally said the recall,",
+      "bbox": [
+        235,
+        391,
+        476,
+        412
+      ],
+      "confidence": 0.9755604267120361
+    },
+    {
+      "text": "announced May 26, had been caused by",
+      "bbox": [
+        222,
+        405,
+        468,
+        428
+      ],
+      "confidence": 0.9901682734489441
+    },
+    {
+      "text": "filter contamination involving a plasticiz-",
+      "bbox": [
+        220,
+        419,
+        479,
+        443
+      ],
+      "confidence": 0.952721893787384
+    },
+    {
+      "text": "er, or stiffening agent, supplied by",
+      "bbox": [
+        218,
+        434,
+        439,
+        458
+      ],
+      "confidence": 0.9649805426597595
+    },
+    {
+      "text": "Hoechst Celanese Corp.",
+      "bbox": [
+        220,
+        451,
+        372,
+        470
+      ],
+      "confidence": 0.9548040628433228
+    },
+    {
+      "text": "Philip Morris said the manufacturing",
+      "bbox": [
+        233,
+        464,
+        472,
+        484
+      ],
+      "confidence": 0.9925238490104675
+    },
+    {
+      "text": "defects could cause smokers \"temporary",
+      "bbox": [
+        221,
+        478,
+        473,
+        499
+      ],
+      "confidence": 0.9847953915596008
+    },
+    {
+      "text": "discomfort\" from an irritant, methyl iso.",
+      "bbox": [
+        221,
+        492,
+        475,
+        513
+      ],
+      "confidence": 0.986046552658081
+    },
+    {
+      "text": "thiocyanate, or MITC, which is similar to",
+      "bbox": [
+        219,
+        506,
+        482,
+        527
+      ],
+      "confidence": 0.9870619177818298
+    },
+    {
+      "text": "a commercial pesticide.",
+      "bbox": [
+        218,
+        521,
+        370,
+        543
+      ],
+      "confidence": 0.9979618191719055
+    },
+    {
+      "text": "executive of Philip Morris U.S.A. said",
+      "bbox": [
+        220,
+        547,
+        459,
+        570
+      ],
+      "confidence": 0.9793884754180908
+    },
+    {
+      "text": "James J. Morgan, president and chief",
+      "bbox": [
+        230,
+        533,
+        474,
+        556
+      ],
+      "confidence": 0.9906219840049744
+    },
+    {
+      "text": "Tuesday that the company's scientists",
+      "bbox": [
+        221,
+        562,
+        463,
+        583
+      ],
+      "confidence": 0.9844141602516174
+    },
+    {
+      "text": "had traced the problem to \"a single lot of",
+      "bbox": [
+        220,
+        577,
+        478,
+        597
+      ],
+      "confidence": 0.9698616862297058
+    },
+    {
+      "text": "plasticizer\" furnished by Hoechst that",
+      "bbox": [
+        220,
+        590,
+        463,
+        612
+      ],
+      "confidence": 0.99431973695755
+    },
+    {
+      "text": "caused bad \"taste and odor\" in its ciga-",
+      "bbox": [
+        219,
+        603,
+        469,
+        628
+      ],
+      "confidence": 0.9740228652954102
+    },
+    {
+      "text": "rettes but not the MITC contamination.",
+      "bbox": [
+        220,
+        619,
+        471,
+        641
+      ],
+      "confidence": 0.9874289631843567
+    },
+    {
+      "text": "The recall, which included the world's",
+      "bbox": [
+        231,
+        634,
+        474,
+        654
+      ],
+      "confidence": 0.985151469707489
+    },
+    {
+      "text": "largest-selling cigarette brand, Marlboro,",
+      "bbox": [
+        218,
+        648,
+        482,
+        671
+      ],
+      "confidence": 0.9691023230552673
+    },
+    {
+      "text": "has been an embarrassment for Philip",
+      "bbox": [
+        219,
+        663,
+        462,
+        686
+      ],
+      "confidence": 0.9774882793426514
+    },
+    {
+      "text": "Morris and has prompted weeks of specu-",
+      "bbox": [
+        217,
+        677,
+        483,
+        701
+      ],
+      "confidence": 0.9827255606651306
+    },
+    {
+      "text": "lation by Wall Street and rival cigarette",
+      "bbox": [
+        216,
+        690,
+        472,
+        717
+      ],
+      "confidence": 0.9966291189193726
+    },
+    {
+      "text": "companies about the cause of the prob-",
+      "bbox": [
+        219,
+        705,
+        465,
+        731
+      ],
+      "confidence": 0.9804741740226746
+    },
+    {
+      "text": ".lem",
+      "bbox": [
+        215,
+        729,
+        248,
+        744
+      ],
+      "confidence": 0.9935764074325562
+    }
+  ],
+  "full_text": "The Sacramento Bee\nJune 21, 1995\nRecall reason finaccurate'\nThe Philip Morris Companies said\nTuesday that the company had \"erred\" by\nmaking statements that were.\"inaccu.\nrate\" about the cause of the company's\nunprecedented $100 million recall of\nmore than 7 billion cigarettes last month.\nThe company originally said the recall,\nannounced May 26, had been caused by\nfilter contamination involving a plasticiz-\ner, or stiffening agent, supplied by\nHoechst Celanese Corp.\nPhilip Morris said the manufacturing\ndefects could cause smokers \"temporary\ndiscomfort\" from an irritant, methyl iso.\nthiocyanate, or MITC, which is similar to\na commercial pesticide.\nexecutive of Philip Morris U.S.A. said\nJames J. Morgan, president and chief\nTuesday that the company's scientists\nhad traced the problem to \"a single lot of\nplasticizer\" furnished by Hoechst that\ncaused bad \"taste and odor\" in its ciga-\nrettes but not the MITC contamination.\nThe recall, which included the world's\nlargest-selling cigarette brand, Marlboro,\nhas been an embarrassment for Philip\nMorris and has prompted weeks of specu-\nlation by Wall Street and rival cigarette\ncompanies about the cause of the prob-\n.lem"
+}

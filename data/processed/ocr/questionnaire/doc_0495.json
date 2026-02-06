@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0495.png",
+    "image_width": 847,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WINONA MRB, INC.",
+      "bbox": [
+        8,
+        0,
+        158,
+        10
+      ],
+      "confidence": 0.9927434921264648
+    },
+    {
+      "text": "1991 CONTINUOUS TRACKING STUDY",
+      "bbox": [
+        534,
+        0,
+        808,
+        20
+      ],
+      "confidence": 0.9956743121147156
+    },
+    {
+      "text": "820o Humbolat Ave., So.",
+      "bbox": [
+        7,
+        14,
+        223,
+        28
+      ],
+      "confidence": 0.9664474129676819
+    },
+    {
+      "text": "NO. 1602-10062",
+      "bbox": [
+        533,
+        15,
+        665,
+        36
+      ],
+      "confidence": 0.9980260729789734
+    },
+    {
+      "text": "Minneapolis, MN",
+      "bbox": [
+        7,
+        30,
+        154,
+        44
+      ],
+      "confidence": 0.9970316290855408
+    },
+    {
+      "text": "55431",
+      "bbox": [
+        166,
+        27,
+        215,
+        45
+      ],
+      "confidence": 0.9996965527534485
+    },
+    {
+      "text": "JANUARY, 1991",
+      "bbox": [
+        535,
+        32,
+        656,
+        48
+      ],
+      "confidence": 0.9833340048789978
+    },
+    {
+      "text": "TIME",
+      "bbox": [
+        7,
+        61,
+        50,
+        77
+      ],
+      "confidence": 0.9998442530632019
+    },
+    {
+      "text": "STARTED:",
+      "bbox": [
+        55,
+        61,
+        131,
+        76
+      ],
+      "confidence": 0.9997541904449463
+    },
+    {
+      "text": "TIME",
+      "bbox": [
+        6,
+        76,
+        50,
+        94
+      ],
+      "confidence": 0.9998847246170044
+    },
+    {
+      "text": "ENDED:",
+      "bbox": [
+        55,
+        79,
+        113,
+        93
+      ],
+      "confidence": 0.9995911717414856
+    },
+    {
+      "text": "1a.",
+      "bbox": [
+        7,
+        112,
+        40,
+        127
+      ],
+      "confidence": 0.8535029292106628
+    },
+    {
+      "text": "Hello. I'm",
+      "bbox": [
+        74,
+        110,
+        184,
+        127
+      ],
+      "confidence": 0.9974573254585266
+    },
+    {
+      "text": "of WINONA RESEARCH, a national public opinion firm",
+      "bbox": [
+        332,
+        109,
+        790,
+        130
+      ],
+      "confidence": 0.983940601348877
+    },
+    {
+      "text": "calling long distance from Phoenix, Arizona. I'd like to ask you a few",
+      "bbox": [
+        73,
+        124,
+        729,
+        147
+      ],
+      "confidence": 0.9844872355461121
+    },
+    {
+      "text": "questions, and your answers, of course, will be kept entirely confidential.",
+      "bbox": [
+        76,
+        144,
+        760,
+        161
+      ],
+      "confidence": 0.9944784641265869
+    },
+    {
+      "text": "We're talking to people 18 years of age and over, so first of all, are you I8 or",
+      "bbox": [
+        74,
+        159,
+        809,
+        179
+      ],
+      "confidence": 0.9892913699150085
+    },
+    {
+      "text": "over?",
+      "bbox": [
+        76,
+        179,
+        125,
+        194
+      ],
+      "confidence": 0.9996263384819031
+    },
+    {
+      "text": "Yes . . . 1 ---4",
+      "bbox": [
+        169,
+        208,
+        320,
+        228
+      ],
+      "confidence": 0.861181378364563
+    },
+    {
+      "text": "ASK Q.1b",
+      "bbox": [
+        344,
+        209,
+        421,
+        226
+      ],
+      "confidence": 0.9880537390708923
+    },
+    {
+      "text": "No",
+      "bbox": [
+        171,
+        245,
+        197,
+        261
+      ],
+      "confidence": 0.9995771646499634
+    },
+    {
+      "text": ". . . 2 -=-4",
+      "bbox": [
+        206,
+        242,
+        322,
+        260
+      ],
+      "confidence": 0.8169901371002197
+    },
+    {
+      "text": "ASK:",
+      "bbox": [
+        345,
+        243,
+        385,
+        258
+      ],
+      "confidence": 0.9997632503509521
+    },
+    {
+      "text": "May I speak to someone who is 18 or over?",
+      "bbox": [
+        396,
+        240,
+        774,
+        259
+      ],
+      "confidence": 0.9786816239356995
+    },
+    {
+      "text": "IF NO ONE 18 OR OVER AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND ARRANGE TO",
+      "bbox": [
+        81,
+        289,
+        783,
+        310
+      ],
+      "confidence": 0.9847971796989441
+    },
+    {
+      "text": "CALL BACK - IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED",
+      "bbox": [
+        81,
+        306,
+        619,
+        326
+      ],
+      "confidence": 0.9914971590042114
+    },
+    {
+      "text": "IF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY",
+      "bbox": [
+        81,
+        341,
+        584,
+        359
+      ],
+      "confidence": 0.9983387589454651
+    },
+    {
+      "text": "1b.",
+      "bbox": [
+        16,
+        394,
+        50,
+        411
+      ],
+      "confidence": 0.9879000782966614
+    },
+    {
+      "text": "And since we are talking to a cross-section of people living all over the United",
+      "bbox": [
+        81,
+        387,
+        808,
+        411
+      ],
+      "confidence": 0.9786876440048218
+    },
+    {
+      "text": "States, could you tell me, do you live in a . . . (READ LIST)",
+      "bbox": [
+        82,
+        407,
+        634,
+        427
+      ],
+      "confidence": 0.9824767708778381
+    },
+    {
+      "text": "Big city . . .",
+      "bbox": [
+        309,
+        440,
+        440,
+        460
+      ],
+      "confidence": 0.9545748829841614
+    },
+    {
+      "text": "Small city . . . .",
+      "bbox": [
+        309,
+        457,
+        478,
+        476
+      ],
+      "confidence": 0.9791744947433472
+    },
+    {
+      "text": "1",
+      "bbox": [
+        535,
+        443,
+        549,
+        456
+      ],
+      "confidence": 0.9947113990783691
+    },
+    {
+      "text": "2",
+      "bbox": [
+        535,
+        458,
+        549,
+        473
+      ],
+      "confidence": 0.9999511241912842
+    },
+    {
+      "text": "Town . .",
+      "bbox": [
+        310,
+        474,
+        388,
+        491
+      ],
+      "confidence": 0.9966135025024414
+    },
+    {
+      "text": "3",
+      "bbox": [
+        535,
+        474,
+        550,
+        488
+      ],
+      "confidence": 0.9999500513076782
+    },
+    {
+      "text": "Suburb.",
+      "bbox": [
+        310,
+        491,
+        388,
+        505
+      ],
+      "confidence": 0.9997482299804688
+    },
+    {
+      "text": "4",
+      "bbox": [
+        535,
+        489,
+        550,
+        503
+      ],
+      "confidence": 0.999883770942688
+    },
+    {
+      "text": "Out in the country",
+      "bbox": [
+        310,
+        506,
+        487,
+        523
+      ],
+      "confidence": 0.9910110831260681
+    },
+    {
+      "text": "5",
+      "bbox": [
+        535,
+        505,
+        550,
+        519
+      ],
+      "confidence": 0.9999760389328003
+    },
+    {
+      "text": "or, What?",
+      "bbox": [
+        276,
+        522,
+        361,
+        539
+      ],
+      "confidence": 0.9982464909553528
+    },
+    {
+      "text": "(SPECIFY):",
+      "bbox": [
+        374,
+        521,
+        468,
+        538
+      ],
+      "confidence": 0.9991376996040344
+    },
+    {
+      "text": "6",
+      "bbox": [
+        537,
+        520,
+        551,
+        535
+      ],
+      "confidence": 0.999967098236084
+    },
+    {
+      "text": "DO NOT READ",
+      "bbox": [
+        119,
+        569,
+        226,
+        590
+      ],
+      "confidence": 0.9986985921859741
+    },
+    {
+      "text": "---",
+      "bbox": [
+        250,
+        574,
+        286,
+        585
+      ],
+      "confidence": 0.7792773246765137
+    },
+    {
+      "text": "Don't know .",
+      "bbox": [
+        310,
+        569,
+        421,
+        586
+      ],
+      "confidence": 0.9823670387268066
+    },
+    {
+      "text": "7",
+      "bbox": [
+        537,
+        570,
+        551,
+        584
+      ],
+      "confidence": 0.9999711513519287
+    },
+    {
+      "text": "Refused",
+      "bbox": [
+        312,
+        587,
+        381,
+        604
+      ],
+      "confidence": 0.9999237656593323
+    },
+    {
+      "text": "8",
+      "bbox": [
+        539,
+        586,
+        552,
+        600
+      ],
+      "confidence": 0.9998737573623657
+    },
+    {
+      "text": "Are there any people in this household, including yourself, who are 18 years of",
+      "bbox": [
+        84,
+        649,
+        809,
+        672
+      ],
+      "confidence": 0.9893258810043335
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        18,
+        656,
+        42,
+        673
+      ],
+      "confidence": 0.9972094297409058
+    },
+    {
+      "text": "age or over and smoke cigarettes?",
+      "bbox": [
+        86,
+        669,
+        388,
+        689
+      ],
+      "confidence": 0.9923969507217407
+    },
+    {
+      "text": "Yes . . . 1 ---",
+      "bbox": [
+        354,
+        698,
+        508,
+        721
+      ],
+      "confidence": 0.9100200533866882
+    },
+    {
+      "text": "ASK Q.3",
+      "bbox": [
+        528,
+        700,
+        601,
+        721
+      ],
+      "confidence": 0.9643024802207947
+    },
+    {
+      "text": "No",
+      "bbox": [
+        356,
+        734,
+        395,
+        752
+      ],
+      "confidence": 0.9993181824684143
+    },
+    {
+      "text": ". . . 2 ---4",
+      "bbox": [
+        389,
+        734,
+        507,
+        751
+      ],
+      "confidence": 0.7962988018989563
+    },
+    {
+      "text": "GO TO Q.49",
+      "bbox": [
+        527,
+        731,
+        629,
+        754
+      ],
+      "confidence": 0.9846286773681641
+    },
+    {
+      "text": "CALLBACK DATE:",
+      "bbox": [
+        88,
+        801,
+        217,
+        819
+      ],
+      "confidence": 0.9995716214179993
+    },
+    {
+      "text": "CALLBACK TIME:",
+      "bbox": [
+        512,
+        799,
+        644,
+        818
+      ],
+      "confidence": 0.9993561506271362
+    },
+    {
+      "text": "AGE:",
+      "bbox": [
+        510,
+        830,
+        554,
+        852
+      ],
+      "confidence": 0.9997005462646484
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        87,
+        836,
+        134,
+        851
+      ],
+      "confidence": 0.9995548129081726
+    },
+    {
+      "text": "TELEPHONE:",
+      "bbox": [
+        88,
+        869,
+        179,
+        883
+      ],
+      "confidence": 0.9996265172958374
+    },
+    {
+      "text": ")",
+      "bbox": [
+        244,
+        870,
+        252,
+        879
+      ],
+      "confidence": 0.9646914005279541
+    },
+    {
+      "text": "TIME ZONE:",
+      "bbox": [
+        511,
+        865,
+        609,
+        885
+      ],
+      "confidence": 0.9992012977600098
+    },
+    {
+      "text": "E",
+      "bbox": [
+        630,
+        868,
+        648,
+        886
+      ],
+      "confidence": 0.9996870756149292
+    },
+    {
+      "text": "c",
+      "bbox": [
+        678,
+        869,
+        696,
+        886
+      ],
+      "confidence": 0.8579433560371399
+    },
+    {
+      "text": "M",
+      "bbox": [
+        726,
+        869,
+        744,
+        886
+      ],
+      "confidence": 0.9994226694107056
+    },
+    {
+      "text": "P",
+      "bbox": [
+        775,
+        871,
+        790,
+        886
+      ],
+      "confidence": 0.9995766282081604
+    },
+    {
+      "text": "STATE CODE:",
+      "bbox": [
+        123,
+        900,
+        226,
+        917
+      ],
+      "confidence": 0.9995570778846741
+    },
+    {
+      "text": "COUNTY CODE:",
+      "bbox": [
+        404,
+        896,
+        516,
+        918
+      ],
+      "confidence": 0.9906163811683655
+    },
+    {
+      "text": "12/19/90/cz",
+      "bbox": [
+        14,
+        962,
+        130,
+        993
+      ],
+      "confidence": 0.9998728036880493
+    }
+  ],
+  "full_text": "WINONA MRB, INC.\n1991 CONTINUOUS TRACKING STUDY\n820o Humbolat Ave., So.\nNO. 1602-10062\nMinneapolis, MN\n55431\nJANUARY, 1991\nTIME\nSTARTED:\nTIME\nENDED:\n1a.\nHello. I'm\nof WINONA RESEARCH, a national public opinion firm\ncalling long distance from Phoenix, Arizona. I'd like to ask you a few\nquestions, and your answers, of course, will be kept entirely confidential.\nWe're talking to people 18 years of age and over, so first of all, are you I8 or\nover?\nYes . . . 1 ---4\nASK Q.1b\nNo\n. . . 2 -=-4\nASK:\nMay I speak to someone who is 18 or over?\nIF NO ONE 18 OR OVER AT HOME NOW WHO CAN BE INTERVIEWED, THANK AND ARRANGE TO\nCALL BACK - IF NECESSARY, RE-INTRODUCE YOURSELF AND PROCEED\nIF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY\n1b.\nAnd since we are talking to a cross-section of people living all over the United\nStates, could you tell me, do you live in a . . . (READ LIST)\nBig city . . .\nSmall city . . . .\n1\n2\nTown . .\n3\nSuburb.\n4\nOut in the country\n5\nor, What?\n(SPECIFY):\n6\nDO NOT READ\n---\nDon't know .\n7\nRefused\n8\nAre there any people in this household, including yourself, who are 18 years of\n2.\nage or over and smoke cigarettes?\nYes . . . 1 ---\nASK Q.3\nNo\n. . . 2 ---4\nGO TO Q.49\nCALLBACK DATE:\nCALLBACK TIME:\nAGE:\nNAME:\nTELEPHONE:\n)\nTIME ZONE:\nE\nc\nM\nP\nSTATE CODE:\nCOUNTY CODE:\n12/19/90/cz"
+}

@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0693.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "LOEWS CLEARING CORPORATION",
+      "bbox": [
+        164,
+        277,
+        494,
+        301
+      ],
+      "confidence": 0.9980757236480713
+    },
+    {
+      "text": "666 FIFTH AVENUE",
+      "bbox": [
+        281,
+        300,
+        391,
+        310
+      ],
+      "confidence": 0.9388693571090698
+    },
+    {
+      "text": "YORK, N, V. 10019",
+      "bbox": [
+        307,
+        312,
+        402,
+        322
+      ],
+      "confidence": 0.8738369345664978
+    },
+    {
+      "text": "ThesumofsoOdnlsOOcts",
+      "bbox": [
+        349,
+        335,
+        657,
+        367
+      ],
+      "confidence": 0.8748241662979126
+    },
+    {
+      "text": "1388",
+      "bbox": [
+        165,
+        399,
+        220,
+        421
+      ],
+      "confidence": 0.9975282549858093
+    },
+    {
+      "text": "6-O6-80 TAC  PAC",
+      "bbox": [
+        225,
+        403,
+        404,
+        419
+      ],
+      "confidence": 0.8830374479293823
+    },
+    {
+      "text": "PROCEEDS OF THIS CHECK JOXBE UTILTZED",
+      "bbox": [
+        303,
+        417,
+        703,
+        443
+      ],
+      "confidence": 0.9474564790725708
+    },
+    {
+      "text": "TAC PAC ONLY FOR CALIFORNIASTATEPOLITICAL",
+      "bbox": [
+        310,
+        441,
+        753,
+        458
+      ],
+      "confidence": 0.97965407371521
+    },
+    {
+      "text": "BCTIVITIES*",
+      "bbox": [
+        310,
+        454,
+        424,
+        476
+      ],
+      "confidence": 0.8930288553237915
+    },
+    {
+      "text": "001388:021000306:0009023010",
+      "bbox": [
+        302,
+        543,
+        714,
+        564
+      ],
+      "confidence": 0.9514103531837463
+    },
+    {
+      "text": "03679078",
+      "bbox": [
+        200,
+        652,
+        309,
+        675
+      ],
+      "confidence": 0.9997737407684326
+    }
+  ],
+  "full_text": "LOEWS CLEARING CORPORATION\n666 FIFTH AVENUE\nYORK, N, V. 10019\nThesumofsoOdnlsOOcts\n1388\n6-O6-80 TAC  PAC\nPROCEEDS OF THIS CHECK JOXBE UTILTZED\nTAC PAC ONLY FOR CALIFORNIASTATEPOLITICAL\nBCTIVITIES*\n001388:021000306:0009023010\n03679078"
+}

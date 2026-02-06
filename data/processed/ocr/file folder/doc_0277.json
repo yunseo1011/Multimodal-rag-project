@@ -1,0 +1,21 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0277.png",
+    "image_width": 614,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2050702932",
+      "bbox": [
+        87,
+        328,
+        212,
+        366
+      ],
+      "confidence": 0.9888715744018555
+    }
+  ],
+  "full_text": "2050702932"
+}

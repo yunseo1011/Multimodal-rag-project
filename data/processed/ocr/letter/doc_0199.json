@@ -1,0 +1,291 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0199.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The CouncIl For Tobacco Research-U.S.A.. Inc.",
+      "bbox": [
+        132,
+        20,
+        625,
+        48
+      ],
+      "confidence": 0.8470738530158997
+    },
+    {
+      "text": "900 THIRD AVENUE",
+      "bbox": [
+        308,
+        46,
+        444,
+        66
+      ],
+      "confidence": 0.9806747436523438
+    },
+    {
+      "text": "NEW YORK. N.Y. 10022",
+      "bbox": [
+        295,
+        68,
+        453,
+        82
+      ],
+      "confidence": 0.948527991771698
+    },
+    {
+      "text": "HARMON C. MCALLISTER, PH.D.",
+      "bbox": [
+        35,
+        133,
+        200,
+        146
+      ],
+      "confidence": 0.984967052936554
+    },
+    {
+      "text": "October 1, 1992",
+      "bbox": [
+        420,
+        141,
+        536,
+        158
+      ],
+      "confidence": 0.9899787902832031
+    },
+    {
+      "text": "RESEANUZ DIRECTOR",
+      "bbox": [
+        34,
+        147,
+        126,
+        157
+      ],
+      "confidence": 0.9656431674957275
+    },
+    {
+      "text": "Harvey J. Cohen, M.D., Ph.D.",
+      "bbox": [
+        92,
+        297,
+        306,
+        315
+      ],
+      "confidence": 0.9644106030464172
+    },
+    {
+      "text": "University of Rochestcr Medical Center",
+      "bbox": [
+        90,
+        315,
+        385,
+        332
+      ],
+      "confidence": 0.9849592447280884
+    },
+    {
+      "text": "Department of Pediatrics",
+      "bbox": [
+        89,
+        332,
+        280,
+        349
+      ],
+      "confidence": 0.9890057444572449
+    },
+    {
+      "text": "Div. Pediatric Hematology/Oncology",
+      "bbox": [
+        86,
+        347,
+        362,
+        368
+      ],
+      "confidence": 0.9855945706367493
+    },
+    {
+      "text": "601 Elmwood Ave.",
+      "bbox": [
+        87,
+        366,
+        229,
+        383
+      ],
+      "confidence": 0.9989190101623535
+    },
+    {
+      "text": "Rochester, NY 14642",
+      "bbox": [
+        86,
+        382,
+        244,
+        401
+      ],
+      "confidence": 0.9902529716491699
+    },
+    {
+      "text": "Re: Case #4057",
+      "bbox": [
+        411,
+        399,
+        531,
+        416
+      ],
+      "confidence": 0.9472938179969788
+    },
+    {
+      "text": "Dear Dr. Cohen:",
+      "bbox": [
+        85,
+        435,
+        208,
+        453
+      ],
+      "confidence": 0.9883644580841064
+    },
+    {
+      "text": "Your recent inquiry conccrning support by this Council of a proposed",
+      "bbox": [
+        143,
+        469,
+        660,
+        487
+      ],
+      "confidence": 0.984041690826416
+    },
+    {
+      "text": "research project has now been considered by the Executive Committee of the",
+      "bbox": [
+        81,
+        484,
+        654,
+        507
+      ],
+      "confidence": 0.9801861643791199
+    },
+    {
+      "text": "Scientific Advisory Board.",
+      "bbox": [
+        82,
+        503,
+        285,
+        524
+      ],
+      "confidence": 0.99760901927948
+    },
+    {
+      "text": "The Committee expressed interest in examining a more detailcd plan of the",
+      "bbox": [
+        140,
+        535,
+        700,
+        559
+      ],
+      "confidence": 0.9835851192474365
+    },
+    {
+      "text": "proposcd investigations. I take plcasure in enclosing the necessary forms and",
+      "bbox": [
+        81,
+        552,
+        657,
+        577
+      ],
+      "confidence": 0.9819519519805908
+    },
+    {
+      "text": "rclcvant literature pertaining to the filing of a formal application. Thc next",
+      "bbox": [
+        80,
+        570,
+        655,
+        594
+      ],
+      "confidence": 0.973709225654602
+    },
+    {
+      "text": "deadline for submitting proposals is November 30, 1992.",
+      "bbox": [
+        82,
+        590,
+        498,
+        609
+      ],
+      "confidence": 0.9920719265937805
+    },
+    {
+      "text": "You understand, of course, that no commitment is implied at this timc",
+      "bbox": [
+        138,
+        619,
+        664,
+        648
+      ],
+      "confidence": 0.9855238199234009
+    },
+    {
+      "text": "concerning the final action of our full Scientific Advisory Board on the complete",
+      "bbox": [
+        80,
+        636,
+        688,
+        667
+      ],
+      "confidence": 0.9831674098968506
+    },
+    {
+      "text": "proposal.",
+      "bbox": [
+        81,
+        663,
+        151,
+        680
+      ],
+      "confidence": 0.9591260552406311
+    },
+    {
+      "text": "Sincerely yours,",
+      "bbox": [
+        407,
+        696,
+        527,
+        713
+      ],
+      "confidence": 0.9871461987495422
+    },
+    {
+      "text": "Harmon C. McAllister",
+      "bbox": [
+        405,
+        760,
+        571,
+        779
+      ],
+      "confidence": 0.9525060653686523
+    },
+    {
+      "text": "HCM/s",
+      "bbox": [
+        79,
+        797,
+        139,
+        821
+      ],
+      "confidence": 0.9867298007011414
+    },
+    {
+      "text": "Enc.",
+      "bbox": [
+        76,
+        831,
+        119,
+        858
+      ],
+      "confidence": 0.9995344281196594
+    }
+  ],
+  "full_text": "The CouncIl For Tobacco Research-U.S.A.. Inc.\n900 THIRD AVENUE\nNEW YORK. N.Y. 10022\nHARMON C. MCALLISTER, PH.D.\nOctober 1, 1992\nRESEANUZ DIRECTOR\nHarvey J. Cohen, M.D., Ph.D.\nUniversity of Rochestcr Medical Center\nDepartment of Pediatrics\nDiv. Pediatric Hematology/Oncology\n601 Elmwood Ave.\nRochester, NY 14642\nRe: Case #4057\nDear Dr. Cohen:\nYour recent inquiry conccrning support by this Council of a proposed\nresearch project has now been considered by the Executive Committee of the\nScientific Advisory Board.\nThe Committee expressed interest in examining a more detailcd plan of the\nproposcd investigations. I take plcasure in enclosing the necessary forms and\nrclcvant literature pertaining to the filing of a formal application. Thc next\ndeadline for submitting proposals is November 30, 1992.\nYou understand, of course, that no commitment is implied at this timc\nconcerning the final action of our full Scientific Advisory Board on the complete\nproposal.\nSincerely yours,\nHarmon C. McAllister\nHCM/s\nEnc."
+}

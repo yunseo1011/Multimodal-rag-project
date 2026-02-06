@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0291.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Feb. 8. 199511 8:21AMN41R&D CIGT TECH 0/C · AIR RAD NT01 CH",
+      "bbox": [
+        44,
+        1,
+        479,
+        40
+      ],
+      "confidence": 0.9074918031692505
+    },
+    {
+      "text": "No. 3368 P. 1/4001",
+      "bbox": [
+        557,
+        23,
+        721,
+        49
+      ],
+      "confidence": 0.955155074596405
+    },
+    {
+      "text": "2-14/00:55 9ang",
+      "bbox": [
+        531,
+        43,
+        689,
+        80
+      ],
+      "confidence": 0.6172600388526917
+    },
+    {
+      "text": "PHILIP MORRIS EUROPE",
+      "bbox": [
+        270,
+        117,
+        505,
+        150
+      ],
+      "confidence": 0.997393012046814
+    },
+    {
+      "text": "RESEARCH AND DEVELOPMENT",
+      "bbox": [
+        266,
+        152,
+        501,
+        182
+      ],
+      "confidence": 0.962024986743927
+    },
+    {
+      "text": "CH- 2003 NEUCHATEL / SWITZERLAND",
+      "bbox": [
+        253,
+        182,
+        525,
+        211
+      ],
+      "confidence": 0.9779461622238159
+    },
+    {
+      "text": "RACSIMILE TRANSMISSION CALL NO. 038 - 31 24 76",
+      "bbox": [
+        214,
+        215,
+        561,
+        240
+      ],
+      "confidence": 0.9500843286514282
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        113,
+        289,
+        155,
+        316
+      ],
+      "confidence": 0.9782581925392151
+    },
+    {
+      "text": "See Attached distribution list",
+      "bbox": [
+        188,
+        290,
+        386,
+        314
+      ],
+      "confidence": 0.9603479504585266
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        435,
+        293,
+        484,
+        318
+      ],
+      "confidence": 0.9998831748962402
+    },
+    {
+      "text": "8 February, 1995",
+      "bbox": [
+        488,
+        293,
+        624,
+        321
+      ],
+      "confidence": 0.9983739852905273
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        121,
+        326,
+        168,
+        345
+      ],
+      "confidence": 0.9986551403999329
+    },
+    {
+      "text": "Dr. Jamal Haib",
+      "bbox": [
+        188,
+        325,
+        295,
+        345
+      ],
+      "confidence": 0.9968191385269165
+    },
+    {
+      "text": "NUMBER OF PAGES (INCL. THIS PAGE):",
+      "bbox": [
+        113,
+        418,
+        422,
+        446
+      ],
+      "confidence": 0.9739328026771545
+    },
+    {
+      "text": "4",
+      "bbox": [
+        443,
+        427,
+        457,
+        443
+      ],
+      "confidence": 0.9999732971191406
+    },
+    {
+      "text": "IFNOT PROPERLY RECEIVED, CALL 038 - 32 11 11 - EXT. 7603",
+      "bbox": [
+        111,
+        484,
+        576,
+        507
+      ],
+      "confidence": 0.9614623188972473
+    },
+    {
+      "text": "AND ASK FOR YOUR CORRESPONDENT.",
+      "bbox": [
+        113,
+        503,
+        422,
+        526
+      ],
+      "confidence": 0.9918562173843384
+    },
+    {
+      "text": "Dear colleagues,",
+      "bbox": [
+        111,
+        582,
+        227,
+        603
+      ],
+      "confidence": 0.9931060671806335
+    },
+    {
+      "text": "Please find attached the Proposed Agenda for the 34th mccting of the CORESTA",
+      "bbox": [
+        109,
+        613,
+        651,
+        636
+      ],
+      "confidence": 0.9666330218315125
+    },
+    {
+      "text": "Sub Group on Pesticide Residues to be held on April 24-25, 1995 in Raleigh,",
+      "bbox": [
+        110,
+        631,
+        622,
+        657
+      ],
+      "confidence": 0.9803298115730286
+    },
+    {
+      "text": "North Carolina-USA.",
+      "bbox": [
+        110,
+        651,
+        259,
+        673
+      ],
+      "confidence": 0.9953340291976929
+    },
+    {
+      "text": "Looking forward to seeing you soon in Raleigh,",
+      "bbox": [
+        111,
+        716,
+        424,
+        738
+      ],
+      "confidence": 0.9724106192588806
+    },
+    {
+      "text": "Yours Sincerely",
+      "bbox": [
+        111,
+        749,
+        223,
+        770
+      ],
+      "confidence": 0.9977167248725891
+    },
+    {
+      "text": "Dr. Jamal Haib",
+      "bbox": [
+        107,
+        814,
+        218,
+        834
+      ],
+      "confidence": 0.9943947792053223
+    },
+    {
+      "text": "Secretary CORESTA Sub Group on Pesticide Residues.",
+      "bbox": [
+        112,
+        844,
+        497,
+        867
+      ],
+      "confidence": 0.9843441247940063
+    },
+    {
+      "text": "2073238243",
+      "bbox": [
+        714,
+        854,
+        746,
+        966
+      ],
+      "confidence": 0.9999781847000122
+    }
+  ],
+  "full_text": "Feb. 8. 199511 8:21AMN41R&D CIGT TECH 0/C · AIR RAD NT01 CH\nNo. 3368 P. 1/4001\n2-14/00:55 9ang\nPHILIP MORRIS EUROPE\nRESEARCH AND DEVELOPMENT\nCH- 2003 NEUCHATEL / SWITZERLAND\nRACSIMILE TRANSMISSION CALL NO. 038 - 31 24 76\nTo:\nSee Attached distribution list\nDate:\n8 February, 1995\nFrom:\nDr. Jamal Haib\nNUMBER OF PAGES (INCL. THIS PAGE):\n4\nIFNOT PROPERLY RECEIVED, CALL 038 - 32 11 11 - EXT. 7603\nAND ASK FOR YOUR CORRESPONDENT.\nDear colleagues,\nPlease find attached the Proposed Agenda for the 34th mccting of the CORESTA\nSub Group on Pesticide Residues to be held on April 24-25, 1995 in Raleigh,\nNorth Carolina-USA.\nLooking forward to seeing you soon in Raleigh,\nYours Sincerely\nDr. Jamal Haib\nSecretary CORESTA Sub Group on Pesticide Residues.\n2073238243"
+}

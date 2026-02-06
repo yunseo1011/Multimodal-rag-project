@@ -1,0 +1,191 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0523.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "lCk YOUWG",
+      "bbox": [
+        116,
+        57,
+        307,
+        103
+      ],
+      "confidence": 0.6625821590423584
+    },
+    {
+      "text": "U.M.",
+      "bbox": [
+        358,
+        70,
+        436,
+        111
+      ],
+      "confidence": 0.9504857063293457
+    },
+    {
+      "text": "-SOUTHIANO",
+      "bbox": [
+        202,
+        127,
+        420,
+        176
+      ],
+      "confidence": 0.7636806964874268
+    },
+    {
+      "text": "CORP.",
+      "bbox": [
+        234,
+        165,
+        321,
+        206
+      ],
+      "confidence": 0.836419939994812
+    },
+    {
+      "text": "Defere Progrn ",
+      "bbox": [
+        132,
+        227,
+        392,
+        282
+      ],
+      "confidence": 0.7814823985099792
+    },
+    {
+      "text": ". Mick P.M. Pro",
+      "bbox": [
+        240,
+        286,
+        565,
+        329
+      ],
+      "confidence": 0.7688295245170593
+    },
+    {
+      "text": ".12/19-1/15",
+      "bbox": [
+        246,
+        373,
+        491,
+        421
+      ],
+      "confidence": 0.9352114200592041
+    },
+    {
+      "text": "3 INUEWTONES",
+      "bbox": [
+        241,
+        435,
+        516,
+        473
+      ],
+      "confidence": 0.7054843306541443
+    },
+    {
+      "text": "12/18 Begiing do",
+      "bbox": [
+        242,
+        484,
+        571,
+        536
+      ],
+      "confidence": 0.7421572208404541
+    },
+    {
+      "text": "12/31 Eh Tre. 1BiD.",
+      "bbox": [
+        226,
+        538,
+        704,
+        596
+      ],
+      "confidence": 0.6443063616752625
+    },
+    {
+      "text": "1//5 Ey To.",
+      "bbox": [
+        215,
+        592,
+        514,
+        652
+      ],
+      "confidence": 0.6923303604125977
+    },
+    {
+      "text": "Koneth Fris-",
+      "bbox": [
+        133,
+        673,
+        444,
+        721
+      ],
+      "confidence": 0.7282059192657471
+    },
+    {
+      "text": "- Rnevo  pnt st sold",
+      "bbox": [
+        157,
+        745,
+        603,
+        785
+      ],
+      "confidence": 0.726924479007721
+    },
+    {
+      "text": "f out If lüe ave mill auait",
+      "bbox": [
+        189,
+        779,
+        682,
+        831
+      ],
+      "confidence": 0.7465534210205078
+    },
+    {
+      "text": "Stre",
+      "bbox": [
+        191,
+        821,
+        310,
+        857
+      ],
+      "confidence": 0.8683122396469116
+    },
+    {
+      "text": "51805 6791",
+      "bbox": [
+        687,
+        823,
+        712,
+        921
+      ],
+      "confidence": 0.9988606572151184
+    },
+    {
+      "text": "Shes POS  Sane As1.",
+      "bbox": [
+        176,
+        851,
+        584,
+        916
+      ],
+      "confidence": 0.749310314655304
+    },
+    {
+      "text": "WNOOW BWOE",
+      "bbox": [
+        302,
+        899,
+        524,
+        942
+      ],
+      "confidence": 0.6294161081314087
+    }
+  ],
+  "full_text": "lCk YOUWG\nU.M.\n-SOUTHIANO\nCORP.\nDefere Progrn \n. Mick P.M. Pro\n.12/19-1/15\n3 INUEWTONES\n12/18 Begiing do\n12/31 Eh Tre. 1BiD.\n1//5 Ey To.\nKoneth Fris-\n- Rnevo  pnt st sold\nf out If lüe ave mill auait\nStre\n51805 6791\nShes POS  Sane As1.\nWNOOW BWOE"
+}

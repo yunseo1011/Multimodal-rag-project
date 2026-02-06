@@ -1,0 +1,391 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0562.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INBIFO Institut für biologische Forschung · Köln",
+      "bbox": [
+        84,
+        29,
+        423,
+        61
+      ],
+      "confidence": 0.9805077910423279
+    },
+    {
+      "text": "PAGE 1-1",
+      "bbox": [
+        621,
+        37,
+        707,
+        64
+      ],
+      "confidence": 0.987360417842865
+    },
+    {
+      "text": "UBE141RA4",
+      "bbox": [
+        391,
+        50,
+        481,
+        73
+      ],
+      "confidence": 0.9992018938064575
+    },
+    {
+      "text": "7114",
+      "bbox": [
+        506,
+        47,
+        550,
+        69
+      ],
+      "confidence": 0.9999509453773499
+    },
+    {
+      "text": "INTEGRATING REPORT P 0500/3068",
+      "bbox": [
+        86,
+        55,
+        367,
+        78
+      ],
+      "confidence": 0.984200119972229
+    },
+    {
+      "text": "1",
+      "bbox": [
+        86,
+        169,
+        99,
+        185
+      ],
+      "confidence": 0.9999642372131348
+    },
+    {
+      "text": "SUMMARY",
+      "bbox": [
+        133,
+        170,
+        200,
+        184
+      ],
+      "confidence": 0.9999343752861023
+    },
+    {
+      "text": "1.1 Objective",
+      "bbox": [
+        84,
+        225,
+        219,
+        245
+      ],
+      "confidence": 0.9756308794021606
+    },
+    {
+      "text": "In the present chronic study the tumorigenicVattfvity (tumor inci-",
+      "bbox": [
+        83,
+        264,
+        703,
+        289
+      ],
+      "confidence": 0.9686141014099121
+    },
+    {
+      "text": "dence and multiplicity) of WHOLE SMOKE CONDENSATE (WSC) of main-",
+      "bbox": [
+        83,
+        287,
+        702,
+        312
+      ],
+      "confidence": 0.9768482446670532
+    },
+    {
+      "text": "stream and sidestream smoke of the standard reference cigarette",
+      "bbox": [
+        83,
+        310,
+        701,
+        333
+      ],
+      "confidence": 0.9959931373596191
+    },
+    {
+      "text": "2R1 was determined after applications to the dorsal skin of female",
+      "bbox": [
+        83,
+        334,
+        701,
+        355
+      ],
+      "confidence": 0.9773046374320984
+    },
+    {
+      "text": "CD1 mice for 80 weeks. In addition mainstream condensate was",
+      "bbox": [
+        84,
+        357,
+        700,
+        376
+      ],
+      "confidence": 0.9793708324432373
+    },
+    {
+      "text": "assayed on female B6c3Fi mice (a). wSC was applied to both mouse",
+      "bbox": [
+        85,
+        380,
+        700,
+        398
+      ],
+      "confidence": 0.9564303159713745
+    },
+    {
+      "text": "strains without and with pretreatment of a single, tumor initi-",
+      "bbox": [
+        85,
+        400,
+        702,
+        421
+      ],
+      "confidence": 0.9831258058547974
+    },
+    {
+      "text": "ating dose (200 nanomols per mouse) of 7,12-dimethylbenz(a)an-",
+      "bbox": [
+        87,
+        426,
+        702,
+        444
+      ],
+      "confidence": 0.9949439764022827
+    },
+    {
+      "text": "thracene (DMBA).",
+      "bbox": [
+        87,
+        449,
+        235,
+        466
+      ],
+      "confidence": 0.9957724213600159
+    },
+    {
+      "text": "pobebkity",
+      "bbox": [
+        470,
+        481,
+        537,
+        513
+      ],
+      "confidence": 0.6621626615524292
+    },
+    {
+      "text": "The objectiye (b) of the study was:",
+      "bbox": [
+        87,
+        490,
+        412,
+        509
+      ],
+      "confidence": 0.9773763418197632
+    },
+    {
+      "text": "(1) comparison of the tumorigenicity (incidence, multiplicity",
+      "bbox": [
+        85,
+        508,
+        707,
+        533
+      ],
+      "confidence": 0.9866260290145874
+    },
+    {
+      "text": "and malignancy) of Mwsc-I and Swsc-I of the standard reference",
+      "bbox": [
+        121,
+        531,
+        707,
+        552
+      ],
+      "confidence": 0.977397620677948
+    },
+    {
+      "text": "cigarette 2R1",
+      "bbox": [
+        123,
+        554,
+        247,
+        572
+      ],
+      "confidence": 0.9992069005966187
+    },
+    {
+      "text": "(2) influence of a pretreatment of mice with an initiating dose",
+      "bbox": [
+        87,
+        574,
+        709,
+        597
+      ],
+      "confidence": 0.9894826412200928
+    },
+    {
+      "text": "of DMBA on the tumorigenicity of wSC-I (relative initiating",
+      "bbox": [
+        120,
+        596,
+        708,
+        618
+      ],
+      "confidence": 0.9876756072044373
+    },
+    {
+      "text": "and promoting activity of wsc-I)",
+      "bbox": [
+        122,
+        617,
+        422,
+        637
+      ],
+      "confidence": 0.963786244392395
+    },
+    {
+      "text": "(3) comparison of CD1 and B6c3Fi mice with respect to their sen-",
+      "bbox": [
+        86,
+        637,
+        711,
+        664
+      ],
+      "confidence": 0.9579514861106873
+    },
+    {
+      "text": "sitivity towards the tumorigenic activity of Mwsc-I",
+      "bbox": [
+        121,
+        660,
+        604,
+        684
+      ],
+      "confidence": 0.9817663431167603
+    },
+    {
+      "text": "(4) comparison of the tumorigenicifaetivity of Mwsc-I stored at",
+      "bbox": [
+        84,
+        679,
+        715,
+        711
+      ],
+      "confidence": 0.9647936820983887
+    },
+    {
+      "text": "4 and minus 75 degrees centigrade before application",
+      "bbox": [
+        121,
+        704,
+        613,
+        728
+      ],
+      "confidence": 0.9921406507492065
+    },
+    {
+      "text": "1.2 Method",
+      "bbox": [
+        83,
+        767,
+        192,
+        789
+      ],
+      "confidence": 0.9600110054016113
+    },
+    {
+      "text": "2028969426",
+      "bbox": [
+        752,
+        761,
+        776,
+        920
+      ],
+      "confidence": 0.9997889399528503
+    },
+    {
+      "text": "For the preparation of the application solution Mwsc and SwSc were",
+      "bbox": [
+        83,
+        810,
+        713,
+        845
+      ],
+      "confidence": 0.9858449101448059
+    },
+    {
+      "text": "collected in impaction traps (Mwsc-I and Swsc-I), processed and",
+      "bbox": [
+        83,
+        834,
+        713,
+        867
+      ],
+      "confidence": 0.9817467927932739
+    },
+    {
+      "text": "suspended in acetone. Concentrations of nicotine, water, hydrogen-",
+      "bbox": [
+        82,
+        855,
+        712,
+        890
+      ],
+      "confidence": 0.9961523413658142
+    },
+    {
+      "text": "ions, selected nitrosamines, catechol, polycyclic aromatic hydro-",
+      "bbox": [
+        83,
+        876,
+        712,
+        912
+      ],
+      "confidence": 0.990683913230896
+    },
+    {
+      "text": "(a) hybrid strain used by the National Toxicology Program (NTP)",
+      "bbox": [
+        82,
+        921,
+        712,
+        967
+      ],
+      "confidence": 0.983997106552124
+    },
+    {
+      "text": "ee FIGURE",
+      "bbox": [
+        82,
+        952,
+        223,
+        979
+      ],
+      "confidence": 0.8749656677246094
+    },
+    {
+      "text": "(UsA) for dermal carcinogenesis studies",
+      "bbox": [
+        121,
+        941,
+        490,
+        972
+      ],
+      "confidence": 0.9758392572402954
+    }
+  ],
+  "full_text": "INBIFO Institut für biologische Forschung · Köln\nPAGE 1-1\nUBE141RA4\n7114\nINTEGRATING REPORT P 0500/3068\n1\nSUMMARY\n1.1 Objective\nIn the present chronic study the tumorigenicVattfvity (tumor inci-\ndence and multiplicity) of WHOLE SMOKE CONDENSATE (WSC) of main-\nstream and sidestream smoke of the standard reference cigarette\n2R1 was determined after applications to the dorsal skin of female\nCD1 mice for 80 weeks. In addition mainstream condensate was\nassayed on female B6c3Fi mice (a). wSC was applied to both mouse\nstrains without and with pretreatment of a single, tumor initi-\nating dose (200 nanomols per mouse) of 7,12-dimethylbenz(a)an-\nthracene (DMBA).\npobebkity\nThe objectiye (b) of the study was:\n(1) comparison of the tumorigenicity (incidence, multiplicity\nand malignancy) of Mwsc-I and Swsc-I of the standard reference\ncigarette 2R1\n(2) influence of a pretreatment of mice with an initiating dose\nof DMBA on the tumorigenicity of wSC-I (relative initiating\nand promoting activity of wsc-I)\n(3) comparison of CD1 and B6c3Fi mice with respect to their sen-\nsitivity towards the tumorigenic activity of Mwsc-I\n(4) comparison of the tumorigenicifaetivity of Mwsc-I stored at\n4 and minus 75 degrees centigrade before application\n1.2 Method\n2028969426\nFor the preparation of the application solution Mwsc and SwSc were\ncollected in impaction traps (Mwsc-I and Swsc-I), processed and\nsuspended in acetone. Concentrations of nicotine, water, hydrogen-\nions, selected nitrosamines, catechol, polycyclic aromatic hydro-\n(a) hybrid strain used by the National Toxicology Program (NTP)\nee FIGURE\n(UsA) for dermal carcinogenesis studies"
+}

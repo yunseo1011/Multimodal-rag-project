@@ -1,0 +1,571 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0931.png",
+    "image_width": 787,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Estimate No.",
+      "bbox": [
+        465,
+        0,
+        547,
+        7
+      ],
+      "confidence": 0.9123503565788269
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        513,
+        22,
+        552,
+        44
+      ],
+      "confidence": 0.9999092221260071
+    },
+    {
+      "text": "1/20/78",
+      "bbox": [
+        573,
+        15,
+        637,
+        36
+      ],
+      "confidence": 0.9998622536659241
+    },
+    {
+      "text": "LEO BURNETT U.S.A.",
+      "bbox": [
+        121,
+        52,
+        355,
+        76
+      ],
+      "confidence": 0.9975777864456177
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        573,
+        48,
+        620,
+        67
+      ],
+      "confidence": 0.9998716115951538
+    },
+    {
+      "text": "Media",
+      "bbox": [
+        505,
+        55,
+        549,
+        71
+      ],
+      "confidence": 0.999943733215332
+    },
+    {
+      "text": "A DIVISION OF LEO BURNETT COMPANY, INC.",
+      "bbox": [
+        123,
+        75,
+        352,
+        91
+      ],
+      "confidence": 0.9947507977485657
+    },
+    {
+      "text": "1977",
+      "bbox": [
+        571,
+        78,
+        612,
+        100
+      ],
+      "confidence": 0.9998533725738525
+    },
+    {
+      "text": "Budget Year",
+      "bbox": [
+        463,
+        84,
+        549,
+        103
+      ],
+      "confidence": 0.9995377063751221
+    },
+    {
+      "text": "55334",
+      "bbox": [
+        571,
+        108,
+        619,
+        130
+      ],
+      "confidence": 0.999271035194397
+    },
+    {
+      "text": "Job Number",
+      "bbox": [
+        464,
+        115,
+        549,
+        132
+      ],
+      "confidence": 0.9504817128181458
+    },
+    {
+      "text": "Estimate of Art & Production Cost",
+      "bbox": [
+        120,
+        129,
+        346,
+        147
+      ],
+      "confidence": 0.9940503239631653
+    },
+    {
+      "text": "Print Advertisements and Outdoor",
+      "bbox": [
+        118,
+        146,
+        348,
+        166
+      ],
+      "confidence": 0.9935975670814514
+    },
+    {
+      "text": "Client No.",
+      "bbox": [
+        478,
+        146,
+        548,
+        164
+      ],
+      "confidence": 0.9601273536682129
+    },
+    {
+      "text": "PHILIP MORRIS INC.",
+      "bbox": [
+        119,
+        165,
+        267,
+        182
+      ],
+      "confidence": 0.9991448521614075
+    },
+    {
+      "text": "Brand",
+      "bbox": [
+        503,
+        177,
+        549,
+        196
+      ],
+      "confidence": 0.9999645352363586
+    },
+    {
+      "text": "Marlboro Red & Gold",
+      "bbox": [
+        570,
+        173,
+        735,
+        193
+      ],
+      "confidence": 0.9742076396942139
+    },
+    {
+      "text": "4/c bleed",
+      "bbox": [
+        421,
+        232,
+        503,
+        255
+      ],
+      "confidence": 0.998529851436615
+    },
+    {
+      "text": "Space.",
+      "bbox": [
+        149,
+        244,
+        195,
+        263
+      ],
+      "confidence": 0.9661392569541931
+    },
+    {
+      "text": "Page",
+      "bbox": [
+        228,
+        235,
+        271,
+        256
+      ],
+      "confidence": 0.9981099367141724
+    },
+    {
+      "text": "Color",
+      "bbox": [
+        338,
+        239,
+        387,
+        261
+      ],
+      "confidence": 0.9997788667678833
+    },
+    {
+      "text": "AdNo. 3961",
+      "bbox": [
+        549,
+        234,
+        660,
+        264
+      ],
+      "confidence": 0.9626418352127075
+    },
+    {
+      "text": "Heading",
+      "bbox": [
+        148,
+        275,
+        209,
+        293
+      ],
+      "confidence": 0.9999504089355469
+    },
+    {
+      "text": "\"Marly Coat Morning\"",
+      "bbox": [
+        298,
+        266,
+        466,
+        287
+      ],
+      "confidence": 0.9977490305900574
+    },
+    {
+      "text": "Race Track Programs",
+      "bbox": [
+        307,
+        336,
+        464,
+        350
+      ],
+      "confidence": 0.990054190158844
+    },
+    {
+      "text": "Publications",
+      "bbox": [
+        148,
+        339,
+        233,
+        356
+      ],
+      "confidence": 0.9999811053276062
+    },
+    {
+      "text": "ART (including photography, drawings,",
+      "bbox": [
+        176,
+        513,
+        446,
+        532
+      ],
+      "confidence": 0.9955089688301086
+    },
+    {
+      "text": "lettering, retouching, keyline, etc.).",
+      "bbox": [
+        219,
+        531,
+        453,
+        545
+      ],
+      "confidence": 0.9822683930397034
+    },
+    {
+      "text": "$",
+      "bbox": [
+        563,
+        527,
+        575,
+        542
+      ],
+      "confidence": 0.9999184608459473
+    },
+    {
+      "text": "388.00",
+      "bbox": [
+        619,
+        518,
+        677,
+        539
+      ],
+      "confidence": 0.9992735385894775
+    },
+    {
+      "text": "PRODUCTION",
+      "bbox": [
+        174,
+        555,
+        303,
+        580
+      ],
+      "confidence": 0.9998878240585327
+    },
+    {
+      "text": "$",
+      "bbox": [
+        486,
+        591,
+        498,
+        607
+      ],
+      "confidence": 0.9997085928916931
+    },
+    {
+      "text": "23.70",
+      "bbox": [
+        519,
+        586,
+        569,
+        604
+      ],
+      "confidence": 0.9998739957809448
+    },
+    {
+      "text": "2040649213",
+      "bbox": [
+        729,
+        585,
+        769,
+        720
+      ],
+      "confidence": 0.9997517466545105
+    },
+    {
+      "text": "Composition.",
+      "bbox": [
+        176,
+        593,
+        265,
+        611
+      ],
+      "confidence": 0.9977925419807434
+    },
+    {
+      "text": "4,728.00",
+      "bbox": [
+        495,
+        617,
+        569,
+        638
+      ],
+      "confidence": 0.9994258284568787
+    },
+    {
+      "text": "Engraving ..",
+      "bbox": [
+        176,
+        625,
+        260,
+        643
+      ],
+      "confidence": 0.8904297947883606
+    },
+    {
+      "text": "Duplicate Plates",
+      "bbox": [
+        174,
+        654,
+        292,
+        677
+      ],
+      "confidence": 0.9994304776191711
+    },
+    {
+      "text": "Photostats",
+      "bbox": [
+        174,
+        687,
+        252,
+        707
+      ],
+      "confidence": 0.9999527931213379
+    },
+    {
+      "text": "Misc",
+      "bbox": [
+        174,
+        720,
+        213,
+        739
+      ],
+      "confidence": 0.9998501539230347
+    },
+    {
+      "text": "ART and PRODUCTION",
+      "bbox": [
+        175,
+        748,
+        381,
+        774
+      ],
+      "confidence": 0.9949599504470825
+    },
+    {
+      "text": ".SUBTOTAL $_",
+      "bbox": [
+        475,
+        746,
+        581,
+        766
+      ],
+      "confidence": 0.8829305171966553
+    },
+    {
+      "text": "5,139.70",
+      "bbox": [
+        590,
+        747,
+        680,
+        765
+      ],
+      "confidence": 0.9984292387962341
+    },
+    {
+      "text": "Agency Commission.",
+      "bbox": [
+        176,
+        777,
+        319,
+        802
+      ],
+      "confidence": 0.9565386176109314
+    },
+    {
+      "text": "770.96",
+      "bbox": [
+        619,
+        776,
+        678,
+        798
+      ],
+      "confidence": 0.9997463822364807
+    },
+    {
+      "text": "Packing/Shipping.",
+      "bbox": [
+        176,
+        809,
+        307,
+        833
+      ],
+      "confidence": 0.982751727104187
+    },
+    {
+      "text": "443.99",
+      "bbox": [
+        618,
+        807,
+        678,
+        832
+      ],
+      "confidence": 0.9920775890350342
+    },
+    {
+      "text": "Taxes",
+      "bbox": [
+        177,
+        845,
+        223,
+        864
+      ],
+      "confidence": 0.9998875856399536
+    },
+    {
+      "text": "Date 1/25/78",
+      "bbox": [
+        322,
+        870,
+        523,
+        942
+      ],
+      "confidence": 0.8981781005859375
+    },
+    {
+      "text": "FOTAL $",
+      "bbox": [
+        504,
+        873,
+        582,
+        900
+      ],
+      "confidence": 0.8862094283103943
+    },
+    {
+      "text": "6,354.65",
+      "bbox": [
+        602,
+        871,
+        680,
+        896
+      ],
+      "confidence": 0.9989801049232483
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        44,
+        912,
+        121,
+        940
+      ],
+      "confidence": 0.9998767375946045
+    },
+    {
+      "text": "(Client)",
+      "bbox": [
+        214,
+        926,
+        250,
+        942
+      ],
+      "confidence": 0.9951809644699097
+    },
+    {
+      "text": "Remarks:",
+      "bbox": [
+        44,
+        947,
+        116,
+        971
+      ],
+      "confidence": 0.9998592734336853
+    },
+    {
+      "text": "Revised to reflect increase in cost",
+      "bbox": [
+        180,
+        952,
+        478,
+        984
+      ],
+      "confidence": 0.999237060546875
+    },
+    {
+      "text": "FEB 9 1978",
+      "bbox": [
+        476,
+        941,
+        623,
+        980
+      ],
+      "confidence": 0.9879101514816284
+    }
+  ],
+  "full_text": "Estimate No.\nDate\n1/20/78\nLEO BURNETT U.S.A.\nOther\nMedia\nA DIVISION OF LEO BURNETT COMPANY, INC.\n1977\nBudget Year\n55334\nJob Number\nEstimate of Art & Production Cost\nPrint Advertisements and Outdoor\nClient No.\nPHILIP MORRIS INC.\nBrand\nMarlboro Red & Gold\n4/c bleed\nSpace.\nPage\nColor\nAdNo. 3961\nHeading\n\"Marly Coat Morning\"\nRace Track Programs\nPublications\nART (including photography, drawings,\nlettering, retouching, keyline, etc.).\n$\n388.00\nPRODUCTION\n$\n23.70\n2040649213\nComposition.\n4,728.00\nEngraving ..\nDuplicate Plates\nPhotostats\nMisc\nART and PRODUCTION\n.SUBTOTAL $_\n5,139.70\nAgency Commission.\n770.96\nPacking/Shipping.\n443.99\nTaxes\nDate 1/25/78\nFOTAL $\n6,354.65\nApproved\n(Client)\nRemarks:\nRevised to reflect increase in cost\nFEB 9 1978"
+}

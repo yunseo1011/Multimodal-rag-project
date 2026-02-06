@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0252.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "STARCH",
+      "bbox": [
+        507,
+        99,
+        680,
+        137
+      ],
+      "confidence": 0.9979040622711182
+    },
+    {
+      "text": "INRAO",
+      "bbox": [
+        508,
+        128,
+        678,
+        170
+      ],
+      "confidence": 0.9624707102775574
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        306,
+        153,
+        437,
+        173
+      ],
+      "confidence": 0.9986521005630493
+    },
+    {
+      "text": "HCOPER",
+      "bbox": [
+        506,
+        160,
+        680,
+        204
+      ],
+      "confidence": 0.9696221947669983
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        81,
+        218,
+        118,
+        241
+      ],
+      "confidence": 0.9958515763282776
+    },
+    {
+      "text": "Lis DeLaura",
+      "bbox": [
+        179,
+        221,
+        267,
+        241
+      ],
+      "confidence": 0.9991686344146729
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        82,
+        253,
+        143,
+        275
+      ],
+      "confidence": 0.9997021555900574
+    },
+    {
+      "text": "Staats M. Abrams, Senior Vice President",
+      "bbox": [
+        178,
+        255,
+        458,
+        275
+      ],
+      "confidence": 0.9942963719367981
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        82,
+        286,
+        164,
+        308
+      ],
+      "confidence": 0.9997466802597046
+    },
+    {
+      "text": "Next Steps To Identify New Opportunities For Lorillard IN The",
+      "bbox": [
+        177,
+        288,
+        615,
+        312
+      ],
+      "confidence": 0.9961999654769897
+    },
+    {
+      "text": "Menthol Segment Of The Market",
+      "bbox": [
+        177,
+        305,
+        408,
+        326
+      ],
+      "confidence": 0.9861181378364563
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        81,
+        335,
+        138,
+        356
+      ],
+      "confidence": 0.9992852210998535
+    },
+    {
+      "text": "March 3, 1995",
+      "bbox": [
+        177,
+        338,
+        278,
+        358
+      ],
+      "confidence": 0.990248441696167
+    },
+    {
+      "text": "Described below are the next steps Starch is planning to follow to investigate new",
+      "bbox": [
+        81,
+        386,
+        637,
+        417
+      ],
+      "confidence": 0.9977396726608276
+    },
+    {
+      "text": "opportunities for Lorillard in the menthol segment of the market.",
+      "bbox": [
+        82,
+        405,
+        526,
+        431
+      ],
+      "confidence": 0.9769710302352905
+    },
+    {
+      "text": "The thrust of the proposed analysis is to identify opportunities that will enable",
+      "bbox": [
+        81,
+        439,
+        619,
+        466
+      ],
+      "confidence": 0.9844413995742798
+    },
+    {
+      "text": "Lorillard to increase its share of the menthol market segment by either repositioning",
+      "bbox": [
+        80,
+        456,
+        663,
+        485
+      ],
+      "confidence": 0.9878159761428833
+    },
+    {
+      "text": "existing products or by new line extensions.",
+      "bbox": [
+        80,
+        476,
+        377,
+        496
+      ],
+      "confidence": 0.9775922298431396
+    },
+    {
+      "text": "Opportunities will be defined in terms of unmet sensory needs of specific sub-",
+      "bbox": [
+        77,
+        508,
+        616,
+        536
+      ],
+      "confidence": 0.9872456789016724
+    },
+    {
+      "text": "segments within the menthol market.",
+      "bbox": [
+        77,
+        528,
+        335,
+        546
+      ],
+      "confidence": 0.9990806579589844
+    },
+    {
+      "text": "Procedure",
+      "bbox": [
+        75,
+        562,
+        149,
+        581
+      ],
+      "confidence": 0.999836802482605
+    },
+    {
+      "text": "1. Access past data where panel members rated their regular brand both",
+      "bbox": [
+        120,
+        596,
+        633,
+        624
+      ],
+      "confidence": 0.9809868931770325
+    },
+    {
+      "text": "overall and on the sensory attributes.",
+      "bbox": [
+        169,
+        616,
+        432,
+        639
+      ],
+      "confidence": 0.9995396137237549
+    },
+    {
+      "text": "2. Cross tabulate regular brand overall ratings and sensory ratings by",
+      "bbox": [
+        114,
+        653,
+        615,
+        681
+      ],
+      "confidence": 0.9896141290664673
+    },
+    {
+      "text": "demographic sub-groups on both a stand-alone basis (e.g., age,",
+      "bbox": [
+        164,
+        673,
+        616,
+        699
+      ],
+      "confidence": 0.9915638566017151
+    },
+    {
+      "text": "gender) and in combination (e.g., age within gender).",
+      "bbox": [
+        163,
+        693,
+        548,
+        717
+      ],
+      "confidence": 0.979592502117157
+    },
+    {
+      "text": "3. Identify areas of opportunity, i.e., regular brand weakness. That is, where",
+      "bbox": [
+        112,
+        733,
+        665,
+        750
+      ],
+      "confidence": 0.9891943335533142
+    },
+    {
+      "text": "the ratings of the regular brand are relatively low on one or more",
+      "bbox": [
+        164,
+        751,
+        634,
+        768
+      ],
+      "confidence": 0.9726212024688721
+    },
+    {
+      "text": "specific sensory attributes within a demographic sub-group.",
+      "bbox": [
+        162,
+        766,
+        597,
+        788
+      ],
+      "confidence": 0.9988222122192383
+    },
+    {
+      "text": "4. Cross tabulate regular brand ratings by sensory segments.",
+      "bbox": [
+        110,
+        801,
+        551,
+        825
+      ],
+      "confidence": 0.9859880805015564
+    },
+    {
+      "text": "5. Identify areas of opportunity, i.e., extent to which regular brands do not",
+      "bbox": [
+        110,
+        838,
+        653,
+        863
+      ],
+      "confidence": 0.9880005717277527
+    },
+    {
+      "text": "completely satisfy a sensory need.",
+      "bbox": [
+        164,
+        858,
+        405,
+        880
+      ],
+      "confidence": 0.9827150702476501
+    },
+    {
+      "text": "82878270",
+      "bbox": [
+        716,
+        858,
+        742,
+        935
+      ],
+      "confidence": 0.99996018409729
+    },
+    {
+      "text": "6. Obtain demographic profiles of sensory segments offering an opportunity.",
+      "bbox": [
+        110,
+        890,
+        666,
+        918
+      ],
+      "confidence": 0.9909993410110474
+    },
+    {
+      "text": "205 East 42nd Street, New York, New York 10017 (212) 599-0700",
+      "bbox": [
+        99,
+        952,
+        654,
+        985
+      ],
+      "confidence": 0.996552050113678
+    },
+    {
+      "text": "Starch INRA Hooper, Inc.",
+      "bbox": [
+        235,
+        939,
+        490,
+        963
+      ],
+      "confidence": 0.9746532440185547
+    }
+  ],
+  "full_text": "STARCH\nINRAO\nMEMORANDUM\nHCOPER\nTO:\nLis DeLaura\nFROM:\nStaats M. Abrams, Senior Vice President\nSUBJECT:\nNext Steps To Identify New Opportunities For Lorillard IN The\nMenthol Segment Of The Market\nDATE:\nMarch 3, 1995\nDescribed below are the next steps Starch is planning to follow to investigate new\nopportunities for Lorillard in the menthol segment of the market.\nThe thrust of the proposed analysis is to identify opportunities that will enable\nLorillard to increase its share of the menthol market segment by either repositioning\nexisting products or by new line extensions.\nOpportunities will be defined in terms of unmet sensory needs of specific sub-\nsegments within the menthol market.\nProcedure\n1. Access past data where panel members rated their regular brand both\noverall and on the sensory attributes.\n2. Cross tabulate regular brand overall ratings and sensory ratings by\ndemographic sub-groups on both a stand-alone basis (e.g., age,\ngender) and in combination (e.g., age within gender).\n3. Identify areas of opportunity, i.e., regular brand weakness. That is, where\nthe ratings of the regular brand are relatively low on one or more\nspecific sensory attributes within a demographic sub-group.\n4. Cross tabulate regular brand ratings by sensory segments.\n5. Identify areas of opportunity, i.e., extent to which regular brands do not\ncompletely satisfy a sensory need.\n82878270\n6. Obtain demographic profiles of sensory segments offering an opportunity.\n205 East 42nd Street, New York, New York 10017 (212) 599-0700\nStarch INRA Hooper, Inc."
+}

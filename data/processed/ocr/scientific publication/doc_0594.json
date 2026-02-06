@@ -1,0 +1,481 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0594.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Environmental Techinology Leners. Vol. 10. pp. 013-626",
+      "bbox": [
+        158,
+        66,
+        423,
+        90
+      ],
+      "confidence": 0.9476068019866943
+    },
+    {
+      "text": "(0):",
+      "bbox": [
+        359,
+        55,
+        391,
+        78
+      ],
+      "confidence": 0.8760265111923218
+    },
+    {
+      "text": "Publicatioes Divisioe Sciper Ltd., 1969",
+      "bbox": [
+        157,
+        77,
+        354,
+        99
+      ],
+      "confidence": 0.883621871471405
+    },
+    {
+      "text": "AIR QUALITY IN PASSENGER CABINS OF DC-9 AND MD-80",
+      "bbox": [
+        176,
+        138,
+        723,
+        165
+      ],
+      "confidence": 0.9869260191917419
+    },
+    {
+      "text": "AIRCRAFT",
+      "bbox": [
+        399,
+        161,
+        505,
+        181
+      ],
+      "confidence": 0.9997037649154663
+    },
+    {
+      "text": "Torbjorn Malmfors*\", Deniel Thorburs' and Aree Westlin\"",
+      "bbox": [
+        314,
+        210,
+        588,
+        226
+      ],
+      "confidence": 0.9506881237030029
+    },
+    {
+      "text": "'Maimnfors Coasultiog AB, Kammakargatan 48, S-111 60 Stockhoim. Sweden",
+      "bbox": [
+        272,
+        226,
+        631,
+        243
+      ],
+      "confidence": 0.9513218402862549
+    },
+    {
+      "text": "Department of Statistics, University of Stockhoim, S-106 91 Stockhoim, Sweden",
+      "bbox": [
+        263,
+        240,
+        637,
+        259
+      ],
+      "confidence": 0.9773600101470947
+    },
+    {
+      "text": "\"Igeidammsgatan 14, S-112 49 Stockholm, Sweden",
+      "bbox": [
+        335,
+        259,
+        569,
+        273
+      ],
+      "confidence": 0.9529477953910828
+    },
+    {
+      "text": "(Received 15 Mey 1989; in final form 7 June 1989)",
+      "bbox": [
+        336,
+        279,
+        567,
+        293
+      ],
+      "confidence": 0.9744553565979004
+    },
+    {
+      "text": "ABSTRACT",
+      "bbox": [
+        418,
+        329,
+        472,
+        340
+      ],
+      "confidence": 0.9833194017410278
+    },
+    {
+      "text": "The air quality in the passenger cabins of Dc-9 and MD-so aireraft has been.",
+      "bbox": [
+        168,
+        350,
+        716,
+        370
+      ],
+      "confidence": 0.965469479560852
+    },
+    {
+      "text": "studied on 48 representative flights. A portable air sampling case was used. No",
+      "bbox": [
+        168,
+        364,
+        715,
+        382
+      ],
+      "confidence": 0.9784785509109497
+    },
+    {
+      "text": "observations of health effects were made. The average levels of the components.",
+      "bbox": [
+        167,
+        376,
+        716,
+        395
+      ],
+      "confidence": 0.9680947661399841
+    },
+    {
+      "text": "related to envirormental tobacco smoke, were for respirable suspended particles",
+      "bbox": [
+        167,
+        388,
+        715,
+        408
+      ],
+      "confidence": 0.9824284315109253
+    },
+    {
+      "text": "60, 250, 160 and 220 μg/m3; for nicotine 5, 41, 21 and 32 μg/m3; and for carbcn",
+      "bbox": [
+        167,
+        400,
+        717,
+        420
+      ],
+      "confidence": 0.9291559457778931
+    },
+    {
+      "text": "monoxide 0.6, 1.1, 0.8 and 1.1 ppm in Business Non-Smoking, Business Smoking.",
+      "bbox": [
+        167,
+        413,
+        714,
+        434
+      ],
+      "confidence": 0.965064287185669
+    },
+    {
+      "text": "Tourist Non-Smoking and Tourist Smoking sections respeetively. The levels of",
+      "bbox": [
+        167,
+        426,
+        715,
+        447
+      ],
+      "confidence": 0.9786256551742554
+    },
+    {
+      "text": "carbon dioxide and relative humidity were about 13oo ppm and 2s percent in all",
+      "bbox": [
+        166,
+        436,
+        717,
+        462
+      ],
+      "confidence": 0.9496437311172485
+    },
+    {
+      "text": "sections respectively.",
+      "bbox": [
+        167,
+        455,
+        321,
+        474
+      ],
+      "confidence": 0.9887523651123047
+    },
+    {
+      "text": "INTROOUCTION",
+      "bbox": [
+        406,
+        483,
+        488,
+        496
+      ],
+      "confidence": 0.9496102333068848
+    },
+    {
+      "text": "Very few studies of air quality in aireraft passenger cabins have been performed",
+      "bbox": [
+        166,
+        502,
+        719,
+        528
+      ],
+      "confidence": 0.986815333366394
+    },
+    {
+      "text": "due to the technical problens involved. The development of portable air sampling",
+      "bbox": [
+        165,
+        515,
+        719,
+        541
+      ],
+      "confidence": 0.9735144376754761
+    },
+    {
+      "text": "units has made it possible to do studies under normal operating conditions. Pre-",
+      "bbox": [
+        167,
+        528,
+        718,
+        552
+      ],
+      "confidence": 0.9835250973701477
+    },
+    {
+      "text": "vious studies have dealt mainly with the impact of envirormental tobacco smoke",
+      "bbox": [
+        167,
+        540,
+        719,
+        566
+      ],
+      "confidence": 0.9738193154335022
+    },
+    {
+      "text": "(Ers), with cnly limited attention to humidity, temperature, ozone and chemicals",
+      "bbox": [
+        169,
+        553,
+        719,
+        577
+      ],
+      "confidence": 0.9657633900642395
+    },
+    {
+      "text": "not directiy related to ETs, such as carbon dioxide and nitrogen oxides. They were",
+      "bbox": [
+        167,
+        565,
+        720,
+        590
+      ],
+      "confidence": 0.982638955116272
+    },
+    {
+      "text": "constituents of Ers fail to support claims that exposure levels in aircraft affect",
+      "bbox": [
+        167,
+        590,
+        722,
+        618
+      ],
+      "confidence": 0.9839079976081848
+    },
+    {
+      "text": "reviewed and surmmarized by Holcomb 1988 (1). He concludes that measurements of the",
+      "bbox": [
+        168,
+        578,
+        721,
+        603
+      ],
+      "confidence": 0.9651401042938232
+    },
+    {
+      "text": "adversely the health of non-snoking passengers or crew and that the available",
+      "bbox": [
+        168,
+        603,
+        721,
+        630
+      ],
+      "confidence": 0.9778015613555908
+    },
+    {
+      "text": "scientific evidence does not support the prohibition of smoking on comercial air-",
+      "bbox": [
+        168,
+        618,
+        721,
+        643
+      ],
+      "confidence": 0.9857406616210938
+    },
+    {
+      "text": "craft. Other factors of importance for cabin air quality have also been studied",
+      "bbox": [
+        167,
+        630,
+        722,
+        658
+      ],
+      "confidence": 0.9850677251815796
+    },
+    {
+      "text": "(2,3, 4, 5). The results of those studies show that aircraft cabin air quality is",
+      "bbox": [
+        169,
+        643,
+        723,
+        671
+      ],
+      "confidence": 0.9741495251655579
+    },
+    {
+      "text": "generally similar to indoor air quality. except for partieularly low relative",
+      "bbox": [
+        167,
+        656,
+        723,
+        685
+      ],
+      "confidence": 0.9769805073738098
+    },
+    {
+      "text": "humidity, low air pressure and low oxygen partial pressure.",
+      "bbox": [
+        169,
+        672,
+        570,
+        696
+      ],
+      "confidence": 0.9846130013465881
+    },
+    {
+      "text": "The present study sought to obtain reliable data on air quality on one series of",
+      "bbox": [
+        169,
+        693,
+        726,
+        721
+      ],
+      "confidence": 0.9794282913208008
+    },
+    {
+      "text": "aircraft by analyzing air samples fram a large number of Scandinavian Airline",
+      "bbox": [
+        169,
+        707,
+        727,
+        734
+      ],
+      "confidence": 0.9688320159912109
+    },
+    {
+      "text": "Systen (sAs) flights under various conditions. Besides concentrations of re-",
+      "bbox": [
+        169,
+        719,
+        727,
+        746
+      ],
+      "confidence": 0.9551814198493958
+    },
+    {
+      "text": "spirable suspended particles (Rsp), nicotine and carbon monoxide, which are used",
+      "bbox": [
+        170,
+        731,
+        728,
+        759
+      ],
+      "confidence": 0.9603496789932251
+    },
+    {
+      "text": "rature were used to evaluate cabin air quality. No observations of health effects",
+      "bbox": [
+        169,
+        757,
+        729,
+        783
+      ],
+      "confidence": 0.9847331047058105
+    },
+    {
+      "text": "2022889264",
+      "bbox": [
+        721,
+        770,
+        757,
+        931
+      ],
+      "confidence": 0.9999305605888367
+    },
+    {
+      "text": "were made.",
+      "bbox": [
+        171,
+        777,
+        246,
+        795
+      ],
+      "confidence": 0.9978508949279785
+    },
+    {
+      "text": "613",
+      "bbox": [
+        436,
+        898,
+        461,
+        914
+      ],
+      "confidence": 0.9992939829826355
+    },
+    {
+      "text": "P. 7/8",
+      "bbox": [
+        67,
+        963,
+        142,
+        988
+      ],
+      "confidence": 0.9245807528495789
+    },
+    {
+      "text": "No. 7052",
+      "bbox": [
+        132,
+        961,
+        193,
+        984
+      ],
+      "confidence": 0.9936532974243164
+    },
+    {
+      "text": "SHOOK HARDY & BACON",
+      "bbox": [
+        391,
+        953,
+        534,
+        976
+      ],
+      "confidence": 0.9734779000282288
+    },
+    {
+      "text": "Ocit. 12. 1993 10:40AM",
+      "bbox": [
+        556,
+        953,
+        715,
+        973
+      ],
+      "confidence": 0.9486232995986938
+    }
+  ],
+  "full_text": "Environmental Techinology Leners. Vol. 10. pp. 013-626\n(0):\nPublicatioes Divisioe Sciper Ltd., 1969\nAIR QUALITY IN PASSENGER CABINS OF DC-9 AND MD-80\nAIRCRAFT\nTorbjorn Malmfors*\", Deniel Thorburs' and Aree Westlin\"\n'Maimnfors Coasultiog AB, Kammakargatan 48, S-111 60 Stockhoim. Sweden\nDepartment of Statistics, University of Stockhoim, S-106 91 Stockhoim, Sweden\n\"Igeidammsgatan 14, S-112 49 Stockholm, Sweden\n(Received 15 Mey 1989; in final form 7 June 1989)\nABSTRACT\nThe air quality in the passenger cabins of Dc-9 and MD-so aireraft has been.\nstudied on 48 representative flights. A portable air sampling case was used. No\nobservations of health effects were made. The average levels of the components.\nrelated to envirormental tobacco smoke, were for respirable suspended particles\n60, 250, 160 and 220 μg/m3; for nicotine 5, 41, 21 and 32 μg/m3; and for carbcn\nmonoxide 0.6, 1.1, 0.8 and 1.1 ppm in Business Non-Smoking, Business Smoking.\nTourist Non-Smoking and Tourist Smoking sections respeetively. The levels of\ncarbon dioxide and relative humidity were about 13oo ppm and 2s percent in all\nsections respectively.\nINTROOUCTION\nVery few studies of air quality in aireraft passenger cabins have been performed\ndue to the technical problens involved. The development of portable air sampling\nunits has made it possible to do studies under normal operating conditions. Pre-\nvious studies have dealt mainly with the impact of envirormental tobacco smoke\n(Ers), with cnly limited attention to humidity, temperature, ozone and chemicals\nnot directiy related to ETs, such as carbon dioxide and nitrogen oxides. They were\nconstituents of Ers fail to support claims that exposure levels in aircraft affect\nreviewed and surmmarized by Holcomb 1988 (1). He concludes that measurements of the\nadversely the health of non-snoking passengers or crew and that the available\nscientific evidence does not support the prohibition of smoking on comercial air-\ncraft. Other factors of importance for cabin air quality have also been studied\n(2,3, 4, 5). The results of those studies show that aircraft cabin air quality is\ngenerally similar to indoor air quality. except for partieularly low relative\nhumidity, low air pressure and low oxygen partial pressure.\nThe present study sought to obtain reliable data on air quality on one series of\naircraft by analyzing air samples fram a large number of Scandinavian Airline\nSysten (sAs) flights under various conditions. Besides concentrations of re-\nspirable suspended particles (Rsp), nicotine and carbon monoxide, which are used\nrature were used to evaluate cabin air quality. No observations of health effects\n2022889264\nwere made.\n613\nP. 7/8\nNo. 7052\nSHOOK HARDY & BACON\nOcit. 12. 1993 10:40AM"
+}

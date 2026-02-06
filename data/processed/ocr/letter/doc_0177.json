@@ -1,0 +1,191 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0177.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "C.",
+      "bbox": [
+        224,
+        0,
+        265,
+        39
+      ],
+      "confidence": 0.8193060755729675
+    },
+    {
+      "text": "Cit.fn.",
+      "bbox": [
+        579,
+        0,
+        712,
+        33
+      ],
+      "confidence": 0.6122331023216248
+    },
+    {
+      "text": "(",
+      "bbox": [
+        480,
+        9,
+        517,
+        48
+      ],
+      "confidence": 0.6367444396018982
+    },
+    {
+      "text": "Ets",
+      "bbox": [
+        578,
+        25,
+        738,
+        67
+      ],
+      "confidence": 0.6597118973731995
+    },
+    {
+      "text": "Rpatn-HEW",
+      "bbox": [
+        568,
+        52,
+        753,
+        97
+      ],
+      "confidence": 0.8367711901664734
+    },
+    {
+      "text": "January 12, 1978",
+      "bbox": [
+        34,
+        218,
+        198,
+        246
+      ],
+      "confidence": 0.9441577196121216
+    },
+    {
+      "text": "William W. Shinn, Esq.",
+      "bbox": [
+        32,
+        319,
+        248,
+        345
+      ],
+      "confidence": 0.9913100600242615
+    },
+    {
+      "text": "Shook, Hardy & Bacon",
+      "bbox": [
+        32,
+        335,
+        234,
+        363
+      ],
+      "confidence": 0.9873077273368835
+    },
+    {
+      "text": "2oth Floor, Mercantile Bank Tower",
+      "bbox": [
+        30,
+        353,
+        357,
+        377
+      ],
+      "confidence": 0.9609778523445129
+    },
+    {
+      "text": "1101 Walnut",
+      "bbox": [
+        31,
+        370,
+        147,
+        392
+      ],
+      "confidence": 0.978632926940918
+    },
+    {
+      "text": "Kansas City, MO 64106",
+      "bbox": [
+        28,
+        385,
+        252,
+        412
+      ],
+      "confidence": 0.903791069984436
+    },
+    {
+      "text": "Dear Bill:",
+      "bbox": [
+        27,
+        418,
+        140,
+        443
+      ],
+      "confidence": 0.9797563552856445
+    },
+    {
+      "text": "I don't know why Max wrote to me so I am sending it to you!",
+      "bbox": [
+        29,
+        453,
+        601,
+        476
+      ],
+      "confidence": 0.9924506545066833
+    },
+    {
+      "text": "Best regards,",
+      "bbox": [
+        29,
+        486,
+        163,
+        509
+      ],
+      "confidence": 0.9625845551490784
+    },
+    {
+      "text": "Cordially,",
+      "bbox": [
+        387,
+        515,
+        486,
+        543
+      ],
+      "confidence": 0.9997977018356323
+    },
+    {
+      "text": "EP/dlt",
+      "bbox": [
+        26,
+        586,
+        94,
+        608
+      ],
+      "confidence": 0.9636774659156799
+    },
+    {
+      "text": "Enclosure",
+      "bbox": [
+        28,
+        621,
+        122,
+        639
+      ],
+      "confidence": 0.9997199177742004
+    },
+    {
+      "text": "680204643",
+      "bbox": [
+        693,
+        792,
+        730,
+        930
+      ],
+      "confidence": 0.9994197487831116
+    }
+  ],
+  "full_text": "C.\nCit.fn.\n(\nEts\nRpatn-HEW\nJanuary 12, 1978\nWilliam W. Shinn, Esq.\nShook, Hardy & Bacon\n2oth Floor, Mercantile Bank Tower\n1101 Walnut\nKansas City, MO 64106\nDear Bill:\nI don't know why Max wrote to me so I am sending it to you!\nBest regards,\nCordially,\nEP/dlt\nEnclosure\n680204643"
+}

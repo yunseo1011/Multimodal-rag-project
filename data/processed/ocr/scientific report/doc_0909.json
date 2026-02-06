@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0909.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PROJECT TITLE",
+      "bbox": [
+        126,
+        65,
+        255,
+        84
+      ],
+      "confidence": 0.9992704391479492
+    },
+    {
+      "text": "PROTAGORAS",
+      "bbox": [
+        356,
+        67,
+        457,
+        87
+      ],
+      "confidence": 0.9998136758804321
+    },
+    {
+      "text": ":",
+      "bbox": [
+        331,
+        73,
+        341,
+        84
+      ],
+      "confidence": 0.9897074699401855
+    },
+    {
+      "text": "PERIOD COVERED",
+      "bbox": [
+        124,
+        99,
+        264,
+        117
+      ],
+      "confidence": 0.999537467956543
+    },
+    {
+      "text": ":",
+      "bbox": [
+        331,
+        105,
+        340,
+        116
+      ],
+      "confidence": 0.9960611462593079
+    },
+    {
+      "text": "JANUARY 1981",
+      "bbox": [
+        356,
+        100,
+        476,
+        118
+      ],
+      "confidence": 0.9985492825508118
+    },
+    {
+      "text": "WRITTEN BY",
+      "bbox": [
+        125,
+        134,
+        225,
+        148
+      ],
+      "confidence": 0.9997056722640991
+    },
+    {
+      "text": ":",
+      "bbox": [
+        331,
+        137,
+        340,
+        148
+      ],
+      "confidence": 0.9925762414932251
+    },
+    {
+      "text": "D. SCHULTHESS",
+      "bbox": [
+        355,
+        132,
+        486,
+        151
+      ],
+      "confidence": 0.998090386390686
+    },
+    {
+      "text": "OPTIMIZATION OF PROTEIN EXTRACTION",
+      "bbox": [
+        125,
+        233,
+        454,
+        247
+      ],
+      "confidence": 0.9949663877487183
+    },
+    {
+      "text": "In order to optimize the extraction of proteins from tobacco",
+      "bbox": [
+        123,
+        270,
+        704,
+        291
+      ],
+      "confidence": 0.9875282645225525
+    },
+    {
+      "text": "the influence of the following parameters have been tested :",
+      "bbox": [
+        122,
+        285,
+        704,
+        310
+      ],
+      "confidence": 0.9949000477790833
+    },
+    {
+      "text": "pH, temperature of extraction, time of extraction, and",
+      "bbox": [
+        121,
+        302,
+        648,
+        325
+      ],
+      "confidence": 0.9853838682174683
+    },
+    {
+      "text": "quantity of enzymes used.",
+      "bbox": [
+        124,
+        321,
+        368,
+        338
+      ],
+      "confidence": 0.9819294810295105
+    },
+    {
+      "text": "In each trial only one parameter",
+      "bbox": [
+        391,
+        319,
+        704,
+        340
+      ],
+      "confidence": 0.9961461424827576
+    },
+    {
+      "text": "was changed using the following basic conditions :",
+      "bbox": [
+        122,
+        334,
+        605,
+        356
+      ],
+      "confidence": 0.9920938014984131
+    },
+    {
+      "text": "Tobacco :",
+      "bbox": [
+        162,
+        368,
+        253,
+        385
+      ],
+      "confidence": 0.9996854066848755
+    },
+    {
+      "text": "2Og B - Blend, Project Spotless",
+      "bbox": [
+        336,
+        368,
+        634,
+        388
+      ],
+      "confidence": 0.9843583106994629
+    },
+    {
+      "text": "Water",
+      "bbox": [
+        162,
+        392,
+        217,
+        409
+      ],
+      "confidence": 0.9998002052307129
+    },
+    {
+      "text": ":",
+      "bbox": [
+        241,
+        394,
+        253,
+        408
+      ],
+      "confidence": 0.9642489552497864
+    },
+    {
+      "text": "200 ml",
+      "bbox": [
+        335,
+        390,
+        397,
+        411
+      ],
+      "confidence": 0.9871146082878113
+    },
+    {
+      "text": "Enzyme",
+      "bbox": [
+        162,
+        416,
+        226,
+        434
+      ],
+      "confidence": 0.9998764395713806
+    },
+    {
+      "text": ":",
+      "bbox": [
+        240,
+        417,
+        252,
+        432
+      ],
+      "confidence": 0.9923985600471497
+    },
+    {
+      "text": "Pronase (Boehringer)",
+      "bbox": [
+        334,
+        415,
+        525,
+        436
+      ],
+      "confidence": 0.9797196388244629
+    },
+    {
+      "text": "Enzyme quantity : 150 mg",
+      "bbox": [
+        161,
+        436,
+        397,
+        460
+      ],
+      "confidence": 0.978635847568512
+    },
+    {
+      "text": "pH :",
+      "bbox": [
+        162,
+        463,
+        205,
+        482
+      ],
+      "confidence": 0.9639619588851929
+    },
+    {
+      "text": "7.5",
+      "bbox": [
+        334,
+        462,
+        368,
+        481
+      ],
+      "confidence": 0.9998589158058167
+    },
+    {
+      "text": "37",
+      "bbox": [
+        333,
+        482,
+        378,
+        505
+      ],
+      "confidence": 0.9985895156860352
+    },
+    {
+      "text": "Temperature :",
+      "bbox": [
+        164,
+        489,
+        289,
+        503
+      ],
+      "confidence": 0.999148964881897
+    },
+    {
+      "text": "Time :",
+      "bbox": [
+        160,
+        508,
+        224,
+        527
+      ],
+      "confidence": 0.9996709823608398
+    },
+    {
+      "text": "6 hours",
+      "bbox": [
+        333,
+        508,
+        405,
+        530
+      ],
+      "confidence": 0.9997461438179016
+    },
+    {
+      "text": "pH",
+      "bbox": [
+        122,
+        540,
+        151,
+        561
+      ],
+      "confidence": 0.9905592799186707
+    },
+    {
+      "text": "The optimal activity of the pronase lies between pH 6.8 and",
+      "bbox": [
+        122,
+        571,
+        692,
+        595
+      ],
+      "confidence": 0.9862546324729919
+    },
+    {
+      "text": "8.3. At lower pH levels less proteins are extracted.",
+      "bbox": [
+        123,
+        588,
+        632,
+        610
+      ],
+      "confidence": 0.9958317875862122
+    },
+    {
+      "text": "higher pH levels the activity of the enzyme decreased.",
+      "bbox": [
+        122,
+        604,
+        641,
+        626
+      ],
+      "confidence": 0.9817725419998169
+    },
+    {
+      "text": "At",
+      "bbox": [
+        657,
+        595,
+        684,
+        611
+      ],
+      "confidence": 0.999567985534668
+    },
+    {
+      "text": "pH levels of around lo, more proteins were extracted than",
+      "bbox": [
+        122,
+        620,
+        673,
+        643
+      ],
+      "confidence": 0.9863443970680237
+    },
+    {
+      "text": "At",
+      "bbox": [
+        666,
+        608,
+        694,
+        628
+      ],
+      "confidence": 0.9983483552932739
+    },
+    {
+      "text": "at pH 7.5, due to a chemical hydrolysis and not to a higher",
+      "bbox": [
+        122,
+        636,
+        691,
+        659
+      ],
+      "confidence": 0.9826081395149231
+    },
+    {
+      "text": "enzyme activity (l).",
+      "bbox": [
+        122,
+        652,
+        315,
+        671
+      ],
+      "confidence": 0.9892781972885132
+    },
+    {
+      "text": "Enzyme Quantity",
+      "bbox": [
+        122,
+        683,
+        269,
+        704
+      ],
+      "confidence": 0.9995126724243164
+    },
+    {
+      "text": "Without enzyme, 33% of the tobacco proteins were extracted.",
+      "bbox": [
+        121,
+        715,
+        687,
+        739
+      ],
+      "confidence": 0.9764906167984009
+    },
+    {
+      "text": "This value increases to 65%, if 15o mg pronase are used.",
+      "bbox": [
+        120,
+        729,
+        659,
+        756
+      ],
+      "confidence": 0.9800786375999451
+    },
+    {
+      "text": "Higer amounts of pronase do not improve the result.",
+      "bbox": [
+        121,
+        746,
+        612,
+        769
+      ],
+      "confidence": 0.9918649196624756
+    },
+    {
+      "text": "Lower",
+      "bbox": [
+        635,
+        755,
+        687,
+        771
+      ],
+      "confidence": 0.9999173879623413
+    },
+    {
+      "text": "quantities give a less efficient protein extraction (2).",
+      "bbox": [
+        120,
+        760,
+        657,
+        788
+      ],
+      "confidence": 0.9822037816047668
+    },
+    {
+      "text": "Temperature of Extraction",
+      "bbox": [
+        121,
+        794,
+        362,
+        814
+      ],
+      "confidence": 0.9848284125328064
+    },
+    {
+      "text": "The optimal extraction temperature lies between 37°c and 5o°c.",
+      "bbox": [
+        119,
+        825,
+        712,
+        852
+      ],
+      "confidence": 0.9946807026863098
+    },
+    {
+      "text": "2028626878",
+      "bbox": [
+        714,
+        832,
+        755,
+        990
+      ],
+      "confidence": 0.9997875094413757
+    },
+    {
+      "text": "Higher or lower temperatures result in a less efficient protein",
+      "bbox": [
+        120,
+        840,
+        723,
+        871
+      ],
+      "confidence": 0.9919121861457825
+    },
+    {
+      "text": "extraction (3).",
+      "bbox": [
+        122,
+        861,
+        263,
+        875
+      ],
+      "confidence": 0.9984189867973328
+    },
+    {
+      "text": "- 5 -",
+      "bbox": [
+        369,
+        949,
+        420,
+        967
+      ],
+      "confidence": 0.869493842124939
+    }
+  ],
+  "full_text": "PROJECT TITLE\nPROTAGORAS\n:\nPERIOD COVERED\n:\nJANUARY 1981\nWRITTEN BY\n:\nD. SCHULTHESS\nOPTIMIZATION OF PROTEIN EXTRACTION\nIn order to optimize the extraction of proteins from tobacco\nthe influence of the following parameters have been tested :\npH, temperature of extraction, time of extraction, and\nquantity of enzymes used.\nIn each trial only one parameter\nwas changed using the following basic conditions :\nTobacco :\n2Og B - Blend, Project Spotless\nWater\n:\n200 ml\nEnzyme\n:\nPronase (Boehringer)\nEnzyme quantity : 150 mg\npH :\n7.5\n37\nTemperature :\nTime :\n6 hours\npH\nThe optimal activity of the pronase lies between pH 6.8 and\n8.3. At lower pH levels less proteins are extracted.\nhigher pH levels the activity of the enzyme decreased.\nAt\npH levels of around lo, more proteins were extracted than\nAt\nat pH 7.5, due to a chemical hydrolysis and not to a higher\nenzyme activity (l).\nEnzyme Quantity\nWithout enzyme, 33% of the tobacco proteins were extracted.\nThis value increases to 65%, if 15o mg pronase are used.\nHiger amounts of pronase do not improve the result.\nLower\nquantities give a less efficient protein extraction (2).\nTemperature of Extraction\nThe optimal extraction temperature lies between 37°c and 5o°c.\n2028626878\nHigher or lower temperatures result in a less efficient protein\nextraction (3).\n- 5 -"
+}

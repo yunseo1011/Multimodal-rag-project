@@ -1,0 +1,241 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0991.png",
+    "image_width": 784,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SURGEON GENERAL'S WARNING: Smaking",
+      "bbox": [
+        49,
+        97,
+        198,
+        119
+      ],
+      "confidence": 0.9137904644012451
+    },
+    {
+      "text": "By Proguas",
+      "bbox": [
+        51,
+        107,
+        96,
+        122
+      ],
+      "confidence": 0.7677696943283081
+    },
+    {
+      "text": "Wemes May Resulit in Fatal",
+      "bbox": [
+        100,
+        110,
+        198,
+        126
+      ],
+      "confidence": 0.8794914484024048
+    },
+    {
+      "text": "A \"Heavier, Funkier\"",
+      "bbox": [
+        268,
+        106,
+        478,
+        140
+      ],
+      "confidence": 0.9756475687026978
+    },
+    {
+      "text": "OPiNiON",
+      "bbox": [
+        513,
+        99,
+        737,
+        153
+      ],
+      "confidence": 0.8808965086936951
+    },
+    {
+      "text": "GEET IT.",
+      "bbox": [
+        51,
+        142,
+        239,
+        214
+      ],
+      "confidence": 0.8732509613037109
+    },
+    {
+      "text": "Living Colour",
+      "bbox": [
+        266,
+        136,
+        427,
+        170
+      ],
+      "confidence": 0.9619420766830444
+    },
+    {
+      "text": "TOM CRUISE",
+      "bbox": [
+        779,
+        152,
+        784,
+        192
+      ],
+      "confidence": 0.9673956632614136
+    },
+    {
+      "text": "Vernon R",
+      "bbox": [
+        269,
+        173,
+        312,
+        187
+      ],
+      "confidence": 0.9573979377746582
+    },
+    {
+      "text": "Nicela Xiiman and Stayiag en Top",
+      "bbox": [
+        780,
+        210,
+        784,
+        225
+      ],
+      "confidence": 0.9243016242980957
+    },
+    {
+      "text": "Battle or the Netvoak NevimaGatines",
+      "bbox": [
+        777,
+        269,
+        784,
+        283
+      ],
+      "confidence": 0.8359338045120239
+    },
+    {
+      "text": "Rodeat Downet, Ja. om the Set or Chaplin",
+      "bbox": [
+        771,
+        307,
+        784,
+        322
+      ],
+      "confidence": 0.8193052411079407
+    },
+    {
+      "text": "Nenen CHsaey Doss the Glosal Hip-Hor",
+      "bbox": [
+        774,
+        295,
+        784,
+        308
+      ],
+      "confidence": 0.7922308444976807
+    },
+    {
+      "text": "On Pocks ol",
+      "bbox": [
+        178,
+        328,
+        240,
+        342
+      ],
+      "confidence": 0.9284252524375916
+    },
+    {
+      "text": "Filterud Curnels",
+      "bbox": [
+        162,
+        339,
+        240,
+        353
+      ],
+      "confidence": 0.8250221610069275
+    },
+    {
+      "text": "Chapman",
+      "bbox": [
+        608,
+        340,
+        657,
+        355
+      ],
+      "confidence": 0.9505715370178223
+    },
+    {
+      "text": "killed Lennon",
+      "bbox": [
+        601,
+        359,
+        663,
+        371
+      ],
+      "confidence": 0.9864919185638428
+    },
+    {
+      "text": "to achieve",
+      "bbox": [
+        610,
+        376,
+        657,
+        390
+      ],
+      "confidence": 0.8882994651794434
+    },
+    {
+      "text": "GOT IT?",
+      "bbox": [
+        767,
+        376,
+        784,
+        441
+      ],
+      "confidence": 0.9439805150032043
+    },
+    {
+      "text": "SPEND IT.",
+      "bbox": [
+        51,
+        384,
+        250,
+        441
+      ],
+      "confidence": 0.950512170791626
+    },
+    {
+      "text": "thiskind of",
+      "bbox": [
+        604,
+        393,
+        660,
+        410
+      ],
+      "confidence": 0.879224956035614
+    },
+    {
+      "text": "notariety",
+      "bbox": [
+        610,
+        412,
+        655,
+        428
+      ],
+      "confidence": 0.9443761110305786
+    },
+    {
+      "text": "In Thre Currel Cuah Curalog",
+      "bbox": [
+        113,
+        623,
+        246,
+        639
+      ],
+      "confidence": 0.8047741055488586
+    }
+  ],
+  "full_text": "SURGEON GENERAL'S WARNING: Smaking\nBy Proguas\nWemes May Resulit in Fatal\nA \"Heavier, Funkier\"\nOPiNiON\nGEET IT.\nLiving Colour\nTOM CRUISE\nVernon R\nNicela Xiiman and Stayiag en Top\nBattle or the Netvoak NevimaGatines\nRodeat Downet, Ja. om the Set or Chaplin\nNenen CHsaey Doss the Glosal Hip-Hor\nOn Pocks ol\nFilterud Curnels\nChapman\nkilled Lennon\nto achieve\nGOT IT?\nSPEND IT.\nthiskind of\nnotariety\nIn Thre Currel Cuah Curalog"
+}

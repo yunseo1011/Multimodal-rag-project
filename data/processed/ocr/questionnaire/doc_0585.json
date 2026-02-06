@@ -1,0 +1,761 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0585.png",
+    "image_width": 797,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MARKETING INFORMATION SYSTEMS, INC.",
+      "bbox": [
+        218,
+        0,
+        440,
+        20
+      ],
+      "confidence": 0.9895524382591248
+    },
+    {
+      "text": "100 Sylvan Avenue",
+      "bbox": [
+        219,
+        15,
+        331,
+        30
+      ],
+      "confidence": 0.9835391044616699
+    },
+    {
+      "text": "#838984",
+      "bbox": [
+        684,
+        16,
+        731,
+        31
+      ],
+      "confidence": 0.9997361302375793
+    },
+    {
+      "text": "Englewood Cliffs, New Jersey 07632",
+      "bbox": [
+        219,
+        25,
+        442,
+        44
+      ],
+      "confidence": 0.9671672582626343
+    },
+    {
+      "text": "800-631-1623/201-947-6900",
+      "bbox": [
+        219,
+        38,
+        379,
+        53
+      ],
+      "confidence": 0.9951315522193909
+    },
+    {
+      "text": "March, 1984",
+      "bbox": [
+        685,
+        40,
+        754,
+        51
+      ],
+      "confidence": 0.9891195297241211
+    },
+    {
+      "text": "VSO DISPLAY TEST",
+      "bbox": [
+        435,
+        62,
+        540,
+        83
+      ],
+      "confidence": 0.99070143699646
+    },
+    {
+      "text": "(Screener)",
+      "bbox": [
+        453,
+        80,
+        520,
+        101
+      ],
+      "confidence": 0.9925527572631836
+    },
+    {
+      "text": "Today we 're talking to women 8 through 54 years of age about their opinions",
+      "bbox": [
+        253,
+        127,
+        735,
+        152
+      ],
+      "confidence": 0.961465060710907
+    },
+    {
+      "text": "Hello, my name is",
+      "bbox": [
+        256,
+        119,
+        365,
+        133
+      ],
+      "confidence": 0.9980111122131348
+    },
+    {
+      "text": "from Marketing Information Systems.",
+      "bbox": [
+        517,
+        120,
+        739,
+        139
+      ],
+      "confidence": 0.9912629127502441
+    },
+    {
+      "text": "on certain products and I'd like to ask you a few questions.",
+      "bbox": [
+        254,
+        140,
+        635,
+        161
+      ],
+      "confidence": 0.9680103063583374
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        216,
+        167,
+        232,
+        181
+      ],
+      "confidence": 0.91847825050354
+    },
+    {
+      "text": "First of all, are you between the ages of 18 and 54?",
+      "bbox": [
+        255,
+        167,
+        582,
+        181
+      ],
+      "confidence": 0.982017457485199
+    },
+    {
+      "text": "CARDCOL.6",
+      "bbox": [
+        659,
+        160,
+        787,
+        178
+      ],
+      "confidence": 0.9819152355194092
+    },
+    {
+      "text": "Yes...",
+      "bbox": [
+        337,
+        187,
+        388,
+        208
+      ],
+      "confidence": 0.979508101940155
+    },
+    {
+      "text": "7-",
+      "bbox": [
+        768,
+        184,
+        788,
+        201
+      ],
+      "confidence": 0.9996438026428223
+    },
+    {
+      "text": "( , )",
+      "bbox": [
+        390,
+        190,
+        429,
+        205
+      ],
+      "confidence": 0.8559921383857727
+    },
+    {
+      "text": "No...",
+      "bbox": [
+        559,
+        192,
+        597,
+        206
+      ],
+      "confidence": 0.9148416519165039
+    },
+    {
+      "text": "(THANK AND TERMINATE)",
+      "bbox": [
+        578,
+        201,
+        714,
+        220
+      ],
+      "confidence": 0.9577977061271667
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        213,
+        239,
+        229,
+        253
+      ],
+      "confidence": 0.9989545345306396
+    },
+    {
+      "text": "And are you between 18 and 34 years of age, or 35 and 54 years of age?",
+      "bbox": [
+        249,
+        237,
+        696,
+        255
+      ],
+      "confidence": 0.9818609952926636
+    },
+    {
+      "text": "18 - 34.....",
+      "bbox": [
+        433,
+        262,
+        521,
+        276
+      ],
+      "confidence": 0.9310460686683655
+    },
+    {
+      "text": "8(",
+      "bbox": [
+        516,
+        262,
+        540,
+        278
+      ],
+      "confidence": 0.9812636375427246
+    },
+    {
+      "text": ")-1",
+      "bbox": [
+        553,
+        262,
+        579,
+        278
+      ],
+      "confidence": 0.972061812877655
+    },
+    {
+      "text": "(CHECK QUOTAS)",
+      "bbox": [
+        586,
+        267,
+        677,
+        284
+      ],
+      "confidence": 0.9990657567977905
+    },
+    {
+      "text": "35 - 54.....",
+      "bbox": [
+        433,
+        279,
+        514,
+        293
+      ],
+      "confidence": 0.9165289402008057
+    },
+    {
+      "text": "(",
+      "bbox": [
+        527,
+        279,
+        541,
+        293
+      ],
+      "confidence": 0.8025376796722412
+    },
+    {
+      "text": ")-2",
+      "bbox": [
+        553,
+        278,
+        578,
+        294
+      ],
+      "confidence": 0.9900679588317871
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        209,
+        315,
+        227,
+        332
+      ],
+      "confidence": 0.9992952346801758
+    },
+    {
+      "text": "Observe and record race:",
+      "bbox": [
+        250,
+        317,
+        402,
+        331
+      ],
+      "confidence": 0.9898735880851746
+    },
+    {
+      "text": "White/other.....9(",
+      "bbox": [
+        398,
+        337,
+        556,
+        357
+      ],
+      "confidence": 0.9231094717979431
+    },
+    {
+      "text": ")-1",
+      "bbox": [
+        548,
+        340,
+        578,
+        356
+      ],
+      "confidence": 0.9878344535827637
+    },
+    {
+      "text": "(CHECK QUOTAS)",
+      "bbox": [
+        585,
+        342,
+        677,
+        362
+      ],
+      "confidence": 0.9956967234611511
+    },
+    {
+      "text": "Black.......",
+      "bbox": [
+        399,
+        357,
+        476,
+        374
+      ],
+      "confidence": 0.8502645492553711
+    },
+    {
+      "text": "( )-2",
+      "bbox": [
+        525,
+        357,
+        578,
+        375
+      ],
+      "confidence": 0.9069492220878601
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        208,
+        396,
+        224,
+        410
+      ],
+      "confidence": 0.9990339279174805
+    },
+    {
+      "text": "In the past week or two, have you spent any time looking through or reading",
+      "bbox": [
+        246,
+        392,
+        728,
+        411
+      ],
+      "confidence": 0.9789798259735107
+    },
+    {
+      "text": "a magazine or newspaper at home?",
+      "bbox": [
+        247,
+        406,
+        454,
+        423
+      ],
+      "confidence": 0.9752354025840759
+    },
+    {
+      "text": "Yes... 10( , )-1",
+      "bbox": [
+        336,
+        430,
+        442,
+        448
+      ],
+      "confidence": 0.9197653532028198
+    },
+    {
+      "text": "No...",
+      "bbox": [
+        556,
+        429,
+        592,
+        449
+      ],
+      "confidence": 0.8108270764350891
+    },
+    {
+      "text": "(THANK AND TERMINATE)",
+      "bbox": [
+        577,
+        439,
+        714,
+        459
+      ],
+      "confidence": 0.9535830616950989
+    },
+    {
+      "text": ") -2",
+      "bbox": [
+        637,
+        431,
+        660,
+        444
+      ],
+      "confidence": 0.9045768976211548
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        206,
+        483,
+        223,
+        496
+      ],
+      "confidence": 0.9994648098945618
+    },
+    {
+      "text": "Do you smoke filter cigarettes?",
+      "bbox": [
+        243,
+        478,
+        447,
+        498
+      ],
+      "confidence": 0.9854997992515564
+    },
+    {
+      "text": "Yes...( )-3",
+      "bbox": [
+        334,
+        502,
+        442,
+        521
+      ],
+      "confidence": 0.9502645134925842
+    },
+    {
+      "text": "}-4",
+      "bbox": [
+        632,
+        501,
+        661,
+        519
+      ],
+      "confidence": 0.7612378001213074
+    },
+    {
+      "text": "No...",
+      "bbox": [
+        557,
+        503,
+        594,
+        517
+      ],
+      "confidence": 0.915270209312439
+    },
+    {
+      "text": "(THANK AND TERMINATE)",
+      "bbox": [
+        578,
+        514,
+        713,
+        528
+      ],
+      "confidence": 0.9642699360847473
+    },
+    {
+      "text": "(",
+      "bbox": [
+        608,
+        504,
+        623,
+        516
+      ],
+      "confidence": 0.979662299156189
+    },
+    {
+      "text": "Do you usually smoke the regular king-size cigarettes, or the cigarettes that",
+      "bbox": [
+        243,
+        542,
+        744,
+        564
+      ],
+      "confidence": 0.9768660664558411
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        203,
+        548,
+        223,
+        565
+      ],
+      "confidence": 0.9977717399597168
+    },
+    {
+      "text": "are longer than king-size -- that is, the 100 millimeter or 120 millfmeter size?",
+      "bbox": [
+        243,
+        554,
+        762,
+        577
+      ],
+      "confidence": 0.9472880363464355
+    },
+    {
+      "text": "Regular/kings... ( )-5",
+      "bbox": [
+        302,
+        581,
+        474,
+        602
+      ],
+      "confidence": 0.9398601651191711
+    },
+    {
+      "text": "100's/120's... ( . )-6",
+      "bbox": [
+        552,
+        580,
+        711,
+        598
+      ],
+      "confidence": 0.9252927899360657
+    },
+    {
+      "text": "(THANK\"AND'TERMINATE)",
+      "bbox": [
+        386,
+        593,
+        524,
+        613
+      ],
+      "confidence": 0.9140650629997253
+    },
+    {
+      "text": "Do you usually smoke a menthol or a non-menthol cigarette?",
+      "bbox": [
+        241,
+        630,
+        620,
+        655
+      ],
+      "confidence": 0.9988420009613037
+    },
+    {
+      "text": "7.",
+      "bbox": [
+        204,
+        639,
+        221,
+        653
+      ],
+      "confidence": 0.9996709823608398
+    },
+    {
+      "text": "Menthol...........11(",
+      "bbox": [
+        395,
+        655,
+        547,
+        678
+      ],
+      "confidence": 0.8390763401985168
+    },
+    {
+      "text": ")-1",
+      "bbox": [
+        559,
+        656,
+        584,
+        672
+      ],
+      "confidence": 0.9378304481506348
+    },
+    {
+      "text": "(CHECK QUOTAS)",
+      "bbox": [
+        592,
+        661,
+        684,
+        678
+      ],
+      "confidence": 0.9983707070350647
+    },
+    {
+      "text": "Non-menthol......",
+      "bbox": [
+        395,
+        675,
+        520,
+        697
+      ],
+      "confidence": 0.9428656101226807
+    },
+    {
+      "text": "(",
+      "bbox": [
+        532,
+        677,
+        548,
+        691
+      ],
+      "confidence": 0.8196222186088562
+    },
+    {
+      "text": ")-2",
+      "bbox": [
+        558,
+        675,
+        585,
+        694
+      ],
+      "confidence": 0.9796600341796875
+    },
+    {
+      "text": "What is your regular brand of cigarettes, that is, the brand you smoke most",
+      "bbox": [
+        238,
+        706,
+        735,
+        737
+      ],
+      "confidence": 0.993457019329071
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        202,
+        722,
+        219,
+        736
+      ],
+      "confidence": 0.9993060231208801
+    },
+    {
+      "text": "OTeN? (HAND RESPONDENT BRAND LIST. RECORD THE FULL BRAND NAME AND THE TWO",
+      "bbox": [
+        238,
+        719,
+        742,
+        750
+      ],
+      "confidence": 0.9278872013092041
+    },
+    {
+      "text": "LETTERS EXACTLY AS PRINTED ON THE BRAND LIST; THEN CHECK QUOTAS. IF NO LETTERS",
+      "bbox": [
+        239,
+        733,
+        761,
+        762
+      ],
+      "confidence": 0.9798514246940613
+    },
+    {
+      "text": "APPEAR NEXT TO THE BRAND, THANK AND TERMINATE)",
+      "bbox": [
+        238,
+        750,
+        545,
+        775
+      ],
+      "confidence": 0.9914883971214294
+    },
+    {
+      "text": "BRAND:",
+      "bbox": [
+        239,
+        785,
+        282,
+        800
+      ],
+      "confidence": 0.9974901080131531
+    },
+    {
+      "text": "LETTERS:",
+      "bbox": [
+        567,
+        777,
+        627,
+        794
+      ],
+      "confidence": 0.997734546661377
+    },
+    {
+      "text": "12/13/14-",
+      "bbox": [
+        277,
+        797,
+        341,
+        817
+      ],
+      "confidence": 0.9986271262168884
+    },
+    {
+      "text": "15-",
+      "bbox": [
+        627,
+        793,
+        652,
+        810
+      ],
+      "confidence": 0.9995144009590149
+    },
+    {
+      "text": "IF ELIGIBLE, TELL RESPONDENT THAT WE HAVE SOME ADS WE'D LIKE HER TO LOOK",
+      "bbox": [
+        243,
+        816,
+        729,
+        849
+      ],
+      "confidence": 0.9978523254394531
+    },
+    {
+      "text": "AT, AND ESCORT TO INTERVIEWING AREA.",
+      "bbox": [
+        244,
+        836,
+        484,
+        863
+      ],
+      "confidence": 0.9791785478591919
+    }
+  ],
+  "full_text": "MARKETING INFORMATION SYSTEMS, INC.\n100 Sylvan Avenue\n#838984\nEnglewood Cliffs, New Jersey 07632\n800-631-1623/201-947-6900\nMarch, 1984\nVSO DISPLAY TEST\n(Screener)\nToday we 're talking to women 8 through 54 years of age about their opinions\nHello, my name is\nfrom Marketing Information Systems.\non certain products and I'd like to ask you a few questions.\n1.\nFirst of all, are you between the ages of 18 and 54?\nCARDCOL.6\nYes...\n7-\n( , )\nNo...\n(THANK AND TERMINATE)\n2.\nAnd are you between 18 and 34 years of age, or 35 and 54 years of age?\n18 - 34.....\n8(\n)-1\n(CHECK QUOTAS)\n35 - 54.....\n(\n)-2\n3.\nObserve and record race:\nWhite/other.....9(\n)-1\n(CHECK QUOTAS)\nBlack.......\n( )-2\n4.\nIn the past week or two, have you spent any time looking through or reading\na magazine or newspaper at home?\nYes... 10( , )-1\nNo...\n(THANK AND TERMINATE)\n) -2\n5.\nDo you smoke filter cigarettes?\nYes...( )-3\n}-4\nNo...\n(THANK AND TERMINATE)\n(\nDo you usually smoke the regular king-size cigarettes, or the cigarettes that\n6.\nare longer than king-size -- that is, the 100 millimeter or 120 millfmeter size?\nRegular/kings... ( )-5\n100's/120's... ( . )-6\n(THANK\"AND'TERMINATE)\nDo you usually smoke a menthol or a non-menthol cigarette?\n7.\nMenthol...........11(\n)-1\n(CHECK QUOTAS)\nNon-menthol......\n(\n)-2\nWhat is your regular brand of cigarettes, that is, the brand you smoke most\n8.\nOTeN? (HAND RESPONDENT BRAND LIST. RECORD THE FULL BRAND NAME AND THE TWO\nLETTERS EXACTLY AS PRINTED ON THE BRAND LIST; THEN CHECK QUOTAS. IF NO LETTERS\nAPPEAR NEXT TO THE BRAND, THANK AND TERMINATE)\nBRAND:\nLETTERS:\n12/13/14-\n15-\nIF ELIGIBLE, TELL RESPONDENT THAT WE HAVE SOME ADS WE'D LIKE HER TO LOOK\nAT, AND ESCORT TO INTERVIEWING AREA."
+}

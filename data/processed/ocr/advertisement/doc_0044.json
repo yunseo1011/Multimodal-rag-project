@@ -1,0 +1,81 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0044.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "*",
+      "bbox": [
+        123,
+        166,
+        137,
+        180
+      ],
+      "confidence": 0.8532818555831909
+    },
+    {
+      "text": "2071465790",
+      "bbox": [
+        147,
+        160,
+        176,
+        262
+      ],
+      "confidence": 0.9999150037765503
+    },
+    {
+      "text": "Smoke Contains Carben Monaxide.",
+      "bbox": [
+        482,
+        225,
+        673,
+        239
+      ],
+      "confidence": 0.9672589302062988
+    },
+    {
+      "text": "MENTHOL KINGS",
+      "bbox": [
+        305,
+        246,
+        368,
+        262
+      ],
+      "confidence": 0.8632433414459229
+    },
+    {
+      "text": "SURGEON GENERAL'S WARNING: Cigarette",
+      "bbox": [
+        480,
+        236,
+        675,
+        256
+      ],
+      "confidence": 0.9493672847747803
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        269,
+        336,
+        350,
+        372
+      ],
+      "confidence": 0.9991568922996521
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        198,
+        685,
+        743,
+        901
+      ],
+      "confidence": 0.862549901008606
+    }
+  ],
+  "full_text": "*\n2071465790\nSmoke Contains Carben Monaxide.\nMENTHOL KINGS\nSURGEON GENERAL'S WARNING: Cigarette\nNewport\nNewport"
+}

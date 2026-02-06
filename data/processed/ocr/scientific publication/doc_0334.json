@@ -1,0 +1,1311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0334.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "B688",
+      "bbox": [
+        347,
+        0,
+        372,
+        10
+      ],
+      "confidence": 0.9541240334510803
+    },
+    {
+      "text": "TM481",
+      "bbox": [
+        406,
+        0,
+        438,
+        12
+      ],
+      "confidence": 0.9892157316207886
+    },
+    {
+      "text": "72",
+      "bbox": [
+        471,
+        0,
+        486,
+        12
+      ],
+      "confidence": 0.9995567798614502
+    },
+    {
+      "text": "KAHA",
+      "bbox": [
+        534,
+        0,
+        561,
+        13
+      ],
+      "confidence": 0.8579884171485901
+    },
+    {
+      "text": "(",
+      "bbox": [
+        91,
+        18,
+        102,
+        27
+      ],
+      "confidence": 0.8566011786460876
+    },
+    {
+      "text": "CANCER RES",
+      "bbox": [
+        349,
+        19,
+        404,
+        30
+      ],
+      "confidence": 0.9718332290649414
+    },
+    {
+      "text": "96",
+      "bbox": [
+        465,
+        19,
+        480,
+        32
+      ],
+      "confidence": 0.9993993639945984
+    },
+    {
+      "text": "CANCER RESEARCH 56, 72-76, JAMBMy 1, 1996]",
+      "bbox": [
+        52,
+        30,
+        222,
+        43
+      ],
+      "confidence": 0.8890717029571533
+    },
+    {
+      "text": "(CJAMER ASSOC CANCER RESEAR",
+      "bbox": [
+        347,
+        36,
+        497,
+        48
+      ],
+      "confidence": 0.9611061811447144
+    },
+    {
+      "text": "PA",
+      "bbox": [
+        528,
+        37,
+        544,
+        49
+      ],
+      "confidence": 0.9996123909950256
+    },
+    {
+      "text": "Association of CYP1A1 Germ Line Polymorphisms with Mutations of the p53 Gene",
+      "bbox": [
+        51,
+        49,
+        703,
+        76
+      ],
+      "confidence": 0.9900850057601929
+    },
+    {
+      "text": "in Lung Cancer1-",
+      "bbox": [
+        51,
+        73,
+        201,
+        97
+      ],
+      "confidence": 0.9714006185531616
+    },
+    {
+      "text": "Kaname Kawajiri,² Hidetaka Eguchi, Kei Nakachi, Takno Sekiya, and Mitsunobu Yamamoto",
+      "bbox": [
+        52,
+        106,
+        573,
+        126
+      ],
+      "confidence": 0.9873871803283691
+    },
+    {
+      "text": "Depariments of Biochemusery [K. K, 1H. E.] and Epidemsology (K. N.J. Sastama Cancer Center Researck Instnate, and Departiment of Thoracic Surgery, Santama Comcer Center",
+      "bbox": [
+        52,
+        127,
+        714,
+        145
+      ],
+      "confidence": 0.9425466656684875
+    },
+    {
+      "text": "Tokyo 104 [T. S.]. Japan",
+      "bbox": [
+        53,
+        146,
+        149,
+        165
+      ],
+      "confidence": 0.9188776612281799
+    },
+    {
+      "text": "ABSTRACT",
+      "bbox": [
+        54,
+        177,
+        121,
+        192
+      ],
+      "confidence": 0.9997200965881348
+    },
+    {
+      "text": "derived difference in lung cancer susceptibility has depended on the",
+      "bbox": [
+        388,
+        177,
+        713,
+        196
+      ],
+      "confidence": 0.9883440732955933
+    },
+    {
+      "text": "We reported an association of smoking-induced lung cancer suscepti-",
+      "bbox": [
+        65,
+        199,
+        376,
+        218
+      ],
+      "confidence": 0.9781332612037659
+    },
+    {
+      "text": "cigarette dose, showing a high relative risk at a low dose level of",
+      "bbox": [
+        387,
+        194,
+        714,
+        209
+      ],
+      "confidence": 0.9798244833946228
+    },
+    {
+      "text": "bility with the human cytochrome P450 1A1 (CYP1AI) polymorphisms In",
+      "bbox": [
+        53,
+        212,
+        376,
+        231
+      ],
+      "confidence": 0.9494635462760925
+    },
+    {
+      "text": "cigarette smoking for individuals with susceptible genotypes (10).",
+      "bbox": [
+        385,
+        206,
+        714,
+        225
+      ],
+      "confidence": 0.996054470539093
+    },
+    {
+      "text": "our previous studies. To investigate a relationship between genetically",
+      "bbox": [
+        53,
+        225,
+        376,
+        244
+      ],
+      "confidence": 0.9627249240875244
+    },
+    {
+      "text": "Furthermore, individuals with a susceptible CYPIAl genotype were",
+      "bbox": [
+        385,
+        220,
+        715,
+        239
+      ],
+      "confidence": 0.9890011548995972
+    },
+    {
+      "text": "determined individual predispositions and mutations of target genes in the",
+      "bbox": [
+        54,
+        239,
+        375,
+        255
+      ],
+      "confidence": 0.9833096861839294
+    },
+    {
+      "text": "shown to be at remarkably high risk when the genotype was combined",
+      "bbox": [
+        385,
+        235,
+        714,
+        254
+      ],
+      "confidence": 0.9913764595985413
+    },
+    {
+      "text": "early stage of lung carcinogenesis, we examined p53 mutations in relation",
+      "bbox": [
+        54,
+        252,
+        375,
+        267
+      ],
+      "confidence": 0.9867335557937622
+    },
+    {
+      "text": "with a deficient GSTM1 genotype, GSTMI(-) (11, 12). The func-",
+      "bbox": [
+        386,
+        248,
+        713,
+        269
+      ],
+      "confidence": 0.9788464307785034
+    },
+    {
+      "text": "to germ line polymorphisms of the CYPIAI and GSTMI genes, using",
+      "bbox": [
+        54,
+        266,
+        375,
+        280
+      ],
+      "confidence": 0.9774639010429382
+    },
+    {
+      "text": "surgical specimens of 148 non-small cell lung cancer patients who were",
+      "bbox": [
+        54,
+        277,
+        375,
+        293
+      ],
+      "confidence": 0.9786747694015503
+    },
+    {
+      "text": "tional significance of the polymorphic human CYPlA/ gene may be",
+      "bbox": [
+        385,
+        263,
+        714,
+        284
+      ],
+      "confidence": 0.9889219999313354
+    },
+    {
+      "text": "smokers. The frequency of p53 mutations among heavy smokers was",
+      "bbox": [
+        53,
+        290,
+        375,
+        306
+      ],
+      "confidence": 0.9865290522575378
+    },
+    {
+      "text": "associated with the inducible expression or different catalytic activity",
+      "bbox": [
+        385,
+        278,
+        714,
+        298
+      ],
+      "confidence": 0.9918553829193115
+    },
+    {
+      "text": "of the CYP1A1 enzyme (9, 13, 14). The GSTMI(-) genotype was",
+      "bbox": [
+        385,
+        292,
+        715,
+        314
+      ],
+      "confidence": 0.9781054258346558
+    },
+    {
+      "text": "higher than in patients who bad never smeked [P < 0.01; edds ratio (OR),",
+      "bbox": [
+        54,
+        302,
+        374,
+        319
+      ],
+      "confidence": 0.9824792146682739
+    },
+    {
+      "text": "associated completely with deficient GSTM1 enzyme activity (15).",
+      "bbox": [
+        385,
+        306,
+        707,
+        328
+      ],
+      "confidence": 0.9709755182266235
+    },
+    {
+      "text": "3.74; 95% confidence interval (CT), 1.46-9.56]. By single-strand confor-",
+      "bbox": [
+        53,
+        315,
+        375,
+        331
+      ],
+      "confidence": 0.968242883682251
+    },
+    {
+      "text": "Multiple genetic lesions either activating dominant oncogenes or",
+      "bbox": [
+        396,
+        320,
+        716,
+        343
+      ],
+      "confidence": 0.9713512659072876
+    },
+    {
+      "text": "mational polymorphism, aberrant migration bands of p53 gene fragments",
+      "bbox": [
+        53,
+        329,
+        374,
+        344
+      ],
+      "confidence": 0.9940366744995117
+    },
+    {
+      "text": "inactivating turor suppressor genes have been characterized in hu-",
+      "bbox": [
+        385,
+        337,
+        713,
+        354
+      ],
+      "confidence": 0.9833666682243347
+    },
+    {
+      "text": "were detected in 56 cases (38% ). Smokers with susceptible rare bomozy-",
+      "bbox": [
+        54,
+        343,
+        374,
+        356
+      ],
+      "confidence": 0.9809367060661316
+    },
+    {
+      "text": "man lung cancer(16-18). In NSCL.C, dominant oncogene activation",
+      "bbox": [
+        384,
+        350,
+        714,
+        370
+      ],
+      "confidence": 0.9740119576454163
+    },
+    {
+      "text": "gous alleles of either the MspI or Ie-Val polymorphism of the CYPLA1",
+      "bbox": [
+        54,
+        356,
+        374,
+        369
+      ],
+      "confidence": 0.9752316474914551
+    },
+    {
+      "text": "includes a Ki-Ras mutation, predominantly in adenocarcinoma, and",
+      "bbox": [
+        385,
+        365,
+        714,
+        384
+      ],
+      "confidence": 0.9939277172088623
+    },
+    {
+      "text": "gene have a 4.5-fold (P < 0.005; OR, 4.48; 95% C1, 1.6412.26) or 5.5-fold",
+      "bbox": [
+        54,
+        369,
+        374,
+        382
+      ],
+      "confidence": 0.9728862047195435
+    },
+    {
+      "text": "(P < 0.01; OR, 5.52; 95% CI, 1.55-19.64) higher risk of having a mutation",
+      "bbox": [
+        54,
+        381,
+        374,
+        394
+      ],
+      "confidence": 0.9654796123504639
+    },
+    {
+      "text": "deregulation of growth factor receptor genes. On the other hand,",
+      "bbox": [
+        387,
+        381,
+        712,
+        398
+      ],
+      "confidence": 0.9887715578079224
+    },
+    {
+      "text": "of the p53 gene than those with nonsusceptible predominant homozygous",
+      "bbox": [
+        53,
+        394,
+        375,
+        409
+      ],
+      "confidence": 0.9879924654960632
+    },
+    {
+      "text": "suppressor genes on chromosomes 3p, 13q (RB gene) and 17p (p53",
+      "bbox": [
+        385,
+        396,
+        713,
+        414
+      ],
+      "confidence": 0.9880398511886597
+    },
+    {
+      "text": "alleles of the gene. Non-small cell lung cancer patients with a susceptible",
+      "bbox": [
+        53,
+        406,
+        374,
+        422
+      ],
+      "confidence": 0.9762003421783447
+    },
+    {
+      "text": "gene) are affected frequently by deletions or mutations, resulting in",
+      "bbox": [
+        385,
+        410,
+        713,
+        428
+      ],
+      "confidence": 0.9782301187515259
+    },
+    {
+      "text": "CYPIA genotype were at remarkably high risk of having a mutation of",
+      "bbox": [
+        54,
+        421,
+        376,
+        434
+      ],
+      "confidence": 0.9824899435043335
+    },
+    {
+      "text": "inactivation of the gene products. Among such genetic alterations,",
+      "bbox": [
+        386,
+        424,
+        712,
+        443
+      ],
+      "confidence": 0.9849510192871094
+    },
+    {
+      "text": "the p53 gene when the genotype was combined with a deficient genotype,",
+      "bbox": [
+        53,
+        434,
+        374,
+        448
+      ],
+      "confidence": 0.9835258722305298
+    },
+    {
+      "text": "mutations of the p53 gene seem to be the most common genetic",
+      "bbox": [
+        386,
+        439,
+        711,
+        457
+      ],
+      "confidence": 0.977685809135437
+    },
+    {
+      "text": "GSTMt(-). However, there was no difference between the types of p53",
+      "bbox": [
+        53,
+        447,
+        374,
+        460
+      ],
+      "confidence": 0.9612221717834473
+    },
+    {
+      "text": "changes in iung cancer, existing in about 60% with squamous carci-",
+      "bbox": [
+        385,
+        453,
+        712,
+        473
+      ],
+      "confidence": 0.9826650619506836
+    },
+    {
+      "text": "mutation and genotypes of the drug-metabolizing enzymes. These results",
+      "bbox": [
+        53,
+        460,
+        374,
+        473
+      ],
+      "confidence": 0.9913083910942078
+    },
+    {
+      "text": "noma and 30% with adenocarcinoma (1922). A crucial role of the",
+      "bbox": [
+        385,
+        468,
+        713,
+        487
+      ],
+      "confidence": 0.9865640997886658
+    },
+    {
+      "text": "showed that CYPiA/ germ line polymorphisms, whicb were associated",
+      "bbox": [
+        53,
+        473,
+        375,
+        486
+      ],
+      "confidence": 0.9800722599029541
+    },
+    {
+      "text": "with the genetic predisposition for lung cancer, were related to cigarette",
+      "bbox": [
+        53,
+        486,
+        375,
+        499
+      ],
+      "confidence": 0.986059844493866
+    },
+    {
+      "text": "p53 gene, which regulates cell cycle-related genes as a transcription",
+      "bbox": [
+        386,
+        484,
+        712,
+        501
+      ],
+      "confidence": 0.9891263246536255
+    },
+    {
+      "text": "smoking-associated p53 mutations.",
+      "bbox": [
+        53,
+        499,
+        209,
+        512
+      ],
+      "confidence": 0.9975854158401489
+    },
+    {
+      "text": "factor (23), is also underscored by the finding that wild-type p53",
+      "bbox": [
+        386,
+        498,
+        712,
+        515
+      ],
+      "confidence": 0.9686144590377808
+    },
+    {
+      "text": "suppresses the growth of human lung cancer cell lines bearing other.",
+      "bbox": [
+        385,
+        511,
+        715,
+        530
+      ],
+      "confidence": 0.9873266816139221
+    },
+    {
+      "text": "multiple-genetic lesions (24).",
+      "bbox": [
+        387,
+        528,
+        524,
+        541
+      ],
+      "confidence": 0.9973590970039368
+    },
+    {
+      "text": "INTRODUCTION",
+      "bbox": [
+        52,
+        536,
+        148,
+        553
+      ],
+      "confidence": 0.9998534321784973
+    },
+    {
+      "text": "However, there is no clear understanding of the mechanisms of",
+      "bbox": [
+        397,
+        540,
+        712,
+        559
+      ],
+      "confidence": 0.9953947067260742
+    },
+    {
+      "text": "Human lung carcinogenesis usually requires exposure to the pro-",
+      "bbox": [
+        63,
+        560,
+        374,
+        575
+      ],
+      "confidence": 0.9867204427719116
+    },
+    {
+      "text": "genetic predisposition to lung cancer. Lung carcinogenesis seems to",
+      "bbox": [
+        386,
+        555,
+        712,
+        575
+      ],
+      "confidence": 0.9949753880500793
+    },
+    {
+      "text": "carcinogens that are contained mainly in cigarette smoke, and many",
+      "bbox": [
+        53,
+        574,
+        373,
+        588
+      ],
+      "confidence": 0.9924660921096802
+    },
+    {
+      "text": "start from a clonal expansion of the cells that gained a selective",
+      "bbox": [
+        386,
+        570,
+        712,
+        589
+      ],
+      "confidence": 0.9863592386245728
+    },
+    {
+      "text": "aromatic hydrocarbons, such as benzo(a)pyrene, first require meta-",
+      "bbox": [
+        51,
+        586,
+        375,
+        604
+      ],
+      "confidence": 0.9851217269897461
+    },
+    {
+      "text": "growth advantage by early genetic changes in the cells. Because the",
+      "bbox": [
+        385,
+        585,
+        712,
+        603
+      ],
+      "confidence": 0.9887095093727112
+    },
+    {
+      "text": "bolic activation by CYP1A13 to their ultimate DNA-binding, muta-",
+      "bbox": [
+        51,
+        600,
+        376,
+        618
+      ],
+      "confidence": 0.9889510869979858
+    },
+    {
+      "text": "committed stem cells in the lung are exposed widely to environmental",
+      "bbox": [
+        386,
+        600,
+        710,
+        616
+      ],
+      "confidence": 0.9838718175888062
+    },
+    {
+      "text": "genic, or carcinogenic forms (1, 2). Activated metabolites of benzo-",
+      "bbox": [
+        52,
+        614,
+        375,
+        632
+      ],
+      "confidence": 0.981648862361908
+    },
+    {
+      "text": "carcinogens, such as benzo(a)pyrene in cigarette smoke, early genetic",
+      "bbox": [
+        385,
+        613,
+        711,
+        632
+      ],
+      "confidence": 0.9933938384056091
+    },
+    {
+      "text": "(a)pyrene are subjected in part to metabolic detoxicntion by GSTM1",
+      "bbox": [
+        51,
+        628,
+        375,
+        646
+      ],
+      "confidence": 0.9835444092750549
+    },
+    {
+      "text": "lesions may be present in normal-appearing bronchial mucosa; the",
+      "bbox": [
+        386,
+        629,
+        710,
+        645
+      ],
+      "confidence": 0.9946101307868958
+    },
+    {
+      "text": "(3). Thus, the expression and catalytic activity of CYP1Al and",
+      "bbox": [
+        54,
+        644,
+        374,
+        658
+      ],
+      "confidence": 0.9841174483299255
+    },
+    {
+      "text": "progression toward full tumorigenicity then would be acquired",
+      "bbox": [
+        385,
+        642,
+        710,
+        660
+      ],
+      "confidence": 0.9860037565231323
+    },
+    {
+      "text": "GSTM1 enzymes in the lung and their metabolic balance may be an",
+      "bbox": [
+        53,
+        656,
+        375,
+        673
+      ],
+      "confidence": 0.9973410964012146
+    },
+    {
+      "text": "through accumulation of further genetic alterations. Thus, genetic",
+      "bbox": [
+        386,
+        657,
+        709,
+        674
+      ],
+      "confidence": 0.9960516691207886
+    },
+    {
+      "text": "important determinant host factor underlying lung cancer (4-6).",
+      "bbox": [
+        53,
+        668,
+        354,
+        689
+      ],
+      "confidence": 0.9695578217506409
+    },
+    {
+      "text": "It is an established fact that genetic variations of these drug-",
+      "bbox": [
+        63,
+        682,
+        375,
+        703
+      ],
+      "confidence": 0.9647613763809204
+    },
+    {
+      "text": "predisposing factors to smoking-induced lung cancer, such as",
+      "bbox": [
+        385,
+        670,
+        711,
+        690
+      ],
+      "confidence": 0.9860287308692932
+    },
+    {
+      "text": "metabolizing enzymes exist within a human population, leading to",
+      "bbox": [
+        51,
+        697,
+        376,
+        716
+      ],
+      "confidence": 0.9936110973358154
+    },
+    {
+      "text": "CYP1A/ and GSTM1 polymorphisms, may affect the mutational fre-",
+      "bbox": [
+        387,
+        685,
+        709,
+        703
+      ],
+      "confidence": 0.98773193359375
+    },
+    {
+      "text": "interindividual differences in metabolic capacity (4-6). In our previ-",
+      "bbox": [
+        53,
+        712,
+        374,
+        728
+      ],
+      "confidence": 0.9789840579032898
+    },
+    {
+      "text": "quencies of target genes in early genetic alterations. To date, somatic",
+      "bbox": [
+        386,
+        701,
+        709,
+        718
+      ],
+      "confidence": 0.9834762215614319
+    },
+    {
+      "text": "ous reports, we showed that high susceptibility to lung cancer is",
+      "bbox": [
+        53,
+        726,
+        375,
+        741
+      ],
+      "confidence": 0.9849783182144165
+    },
+    {
+      "text": "alteration of the p53 gene seems to be a candidate in the precancerous",
+      "bbox": [
+        386,
+        714,
+        709,
+        732
+      ],
+      "confidence": 0.9981618523597717
+    },
+    {
+      "text": "associated with two mutually linked polymorphisms (MspI and Ie-",
+      "bbox": [
+        53,
+        740,
+        375,
+        755
+      ],
+      "confidence": 0.9909728765487671
+    },
+    {
+      "text": "genetic event found in both metaplastic and dysplastic lesions of the",
+      "bbox": [
+        386,
+        728,
+        709,
+        746
+      ],
+      "confidence": 0.9887885451316833
+    },
+    {
+      "text": "lung (25, 26). Furthermore, it has been suggested that the incidence of",
+      "bbox": [
+        386,
+        742,
+        709,
+        760
+      ],
+      "confidence": 0.9886369109153748
+    },
+    {
+      "text": "Val polymorphisms) of the CYPIAI gene (7-9). This genetically",
+      "bbox": [
+        54,
+        753,
+        374,
+        769
+      ],
+      "confidence": 0.9549157619476318
+    },
+    {
+      "text": "p53 mutations is associated with lifetime cigarette consumption (22,",
+      "bbox": [
+        386,
+        756,
+        708,
+        775
+      ],
+      "confidence": 0.9924488067626953
+    },
+    {
+      "text": "27). Mutations of the p53 gene in lung tumor DNA are scattered over",
+      "bbox": [
+        386,
+        770,
+        708,
+        790
+      ],
+      "confidence": 0.9976319074630737
+    },
+    {
+      "text": "Received 5/26/95; accepted 10/30/95.",
+      "bbox": [
+        67,
+        785,
+        203,
+        795
+      ],
+      "confidence": 0.9760111570358276
+    },
+    {
+      "text": "many codons, and G to T transversions are observed most frequently",
+      "bbox": [
+        385,
+        785,
+        708,
+        805
+      ],
+      "confidence": 0.9811722636222839
+    },
+    {
+      "text": "The costs of publecation of this articte were defrayed in part by the paymeat of page",
+      "bbox": [
+        64,
+        792,
+        375,
+        809
+      ],
+      "confidence": 0.9306330680847168
+    },
+    {
+      "text": "(19, 20, 27), indicating that benzo(a)pyrene in cigarette smoke may be",
+      "bbox": [
+        386,
+        799,
+        708,
+        820
+      ],
+      "confidence": 0.9897872805595398
+    },
+    {
+      "text": "charges. Thas artice must therefore be bereby marked advertisement in sccordunce with",
+      "bbox": [
+        52,
+        803,
+        375,
+        818
+      ],
+      "confidence": 0.8564238548278809
+    },
+    {
+      "text": "18 U.S.C Section 1734 solely to indicate thus fact.",
+      "bbox": [
+        53,
+        814,
+        242,
+        827
+      ],
+      "confidence": 0.9720664024353027
+    },
+    {
+      "text": "involved as a mutàgeh of the p53 gene (28-30). Thus, it will be",
+      "bbox": [
+        385,
+        813,
+        709,
+        834
+      ],
+      "confidence": 0.9562642574310303
+    },
+    {
+      "text": " Thas work was supported in part by a special grant for advanced research on cancer",
+      "bbox": [
+        65,
+        824,
+        374,
+        839
+      ],
+      "confidence": 0.977034866809845
+    },
+    {
+      "text": "essential in understanding lung carcinogenesis to investigate whether",
+      "bbox": [
+        385,
+        829,
+        709,
+        849
+      ],
+      "confidence": 0.9983553886413574
+    },
+    {
+      "text": "the Mrnistry of Health and Welfare of Japan for 2nd-Term Compreheasave 10-Year",
+      "bbox": [
+        52,
+        846,
+        373,
+        858
+      ],
+      "confidence": 0.9642518758773804
+    },
+    {
+      "text": "froem the Min:stry of Educaton, Culrute, and Science of Japan and a fesearch grant from",
+      "bbox": [
+        53,
+        837,
+        373,
+        847
+      ],
+      "confidence": 0.9573761224746704
+    },
+    {
+      "text": "the mutation frequenicy of the p53 gene in the lung tumor is influenced",
+      "bbox": [
+        385,
+        843,
+        710,
+        864
+      ],
+      "confidence": 0.9848966002464294
+    },
+    {
+      "text": "Strategy for Cancer Control.",
+      "bbox": [
+        51,
+        855,
+        160,
+        869
+      ],
+      "confidence": 0.9701650738716125
+    },
+    {
+      "text": "by lung cancer predisposition factors, such as CYPIAI and GSTM/",
+      "bbox": [
+        384,
+        858,
+        709,
+        878
+      ],
+      "confidence": 0.9624817967414856
+    },
+    {
+      "text": "Sartama Cancer Center Research Institute, 818 Komuro, Ina-mach, Satama 362, Japan.",
+      "bbox": [
+        50,
+        876,
+        373,
+        890
+      ],
+      "confidence": 0.943691611289978
+    },
+    {
+      "text": "2 To whom requests for reprints should be addressed, at Department of Biochemustry,",
+      "bbox": [
+        61,
+        865,
+        374,
+        880
+      ],
+      "confidence": 0.9746683835983276
+    },
+    {
+      "text": "polymorphisms. In this article, we show first that the mutation fre-",
+      "bbox": [
+        384,
+        871,
+        710,
+        894
+      ],
+      "confidence": 0.9895675778388977
+    },
+    {
+      "text": "Fax 81-48-722-1739: E-al: Kawajiri@Saitas-c.g0.p.",
+      "bbox": [
+        47,
+        884,
+        276,
+        902
+      ],
+      "confidence": 0.7599960565567017
+    },
+    {
+      "text": "quency of the p53 geno is associated with cigarette smoking. We then",
+      "bbox": [
+        385,
+        887,
+        711,
+        907
+      ],
+      "confidence": 0.9899927973747253
+    },
+    {
+      "text": "strand conformatsonal polycmorphism; GSTML, glutarhione S-transferase Mu-1: NSCLC.",
+      "bbox": [
+        47,
+        905,
+        373,
+        922
+      ],
+      "confidence": 0.9358665943145752
+    },
+    {
+      "text": "3 The abbreviatons used arr' CYPIA1, human cytochrome P450 1A1; SSCP, single-",
+      "bbox": [
+        59,
+        895,
+        373,
+        910
+      ],
+      "confidence": 0.8942298293113708
+    },
+    {
+      "text": "found that CYP1Ai germ line polymorphisms are related to cigarette",
+      "bbox": [
+        384,
+        899,
+        711,
+        925
+      ],
+      "confidence": 0.9727131128311157
+    },
+    {
+      "text": "non-small cell Jung cancer; OR, odds rato; Cl, conflidence interval.",
+      "bbox": [
+        46,
+        916,
+        300,
+        934
+      ],
+      "confidence": 0.9034690260887146
+    },
+    {
+      "text": "smoking-associated p53 mutations.",
+      "bbox": [
+        385,
+        915,
+        548,
+        934
+      ],
+      "confidence": 0.9968747496604919
+    },
+    {
+      "text": "THIS ARTICLE IS FOR INDIVIDUAL USE ONLY",
+      "bbox": [
+        65,
+        934,
+        279,
+        951
+      ],
+      "confidence": 0.9810322523117065
+    },
+    {
+      "text": "72",
+      "bbox": [
+        372,
+        931,
+        387,
+        945
+      ],
+      "confidence": 0.9999538064002991
+    },
+    {
+      "text": "AND MAY NOT BE FURTHER REPRODUCED OR",
+      "bbox": [
+        64,
+        946,
+        262,
+        961
+      ],
+      "confidence": 0.9834036231040955
+    },
+    {
+      "text": "STORED ELECTRONICALLY WITHOUT WRITTEN",
+      "bbox": [
+        63,
+        956,
+        268,
+        971
+      ],
+      "confidence": 0.9715774059295654
+    },
+    {
+      "text": "PERMISSION FROM THE COPYRIGHT HOLDER.",
+      "bbox": [
+        63,
+        966,
+        266,
+        980
+      ],
+      "confidence": 0.990689754486084
+    },
+    {
+      "text": "2064378955",
+      "bbox": [
+        550,
+        955,
+        652,
+        979
+      ],
+      "confidence": 0.9981020092964172
+    },
+    {
+      "text": "UNAUTHORIZED REPRODUOTION MAY RESULT",
+      "bbox": [
+        62,
+        977,
+        261,
+        990
+      ],
+      "confidence": 0.9702873229980469
+    },
+    {
+      "text": "IN FINANCIAL AND OTHER PENALTIES.",
+      "bbox": [
+        62,
+        986,
+        243,
+        999
+      ],
+      "confidence": 0.9504600763320923
+    }
+  ],
+  "full_text": "B688\nTM481\n72\nKAHA\n(\nCANCER RES\n96\nCANCER RESEARCH 56, 72-76, JAMBMy 1, 1996]\n(CJAMER ASSOC CANCER RESEAR\nPA\nAssociation of CYP1A1 Germ Line Polymorphisms with Mutations of the p53 Gene\nin Lung Cancer1-\nKaname Kawajiri,² Hidetaka Eguchi, Kei Nakachi, Takno Sekiya, and Mitsunobu Yamamoto\nDepariments of Biochemusery [K. K, 1H. E.] and Epidemsology (K. N.J. Sastama Cancer Center Researck Instnate, and Departiment of Thoracic Surgery, Santama Comcer Center\nTokyo 104 [T. S.]. Japan\nABSTRACT\nderived difference in lung cancer susceptibility has depended on the\nWe reported an association of smoking-induced lung cancer suscepti-\ncigarette dose, showing a high relative risk at a low dose level of\nbility with the human cytochrome P450 1A1 (CYP1AI) polymorphisms In\ncigarette smoking for individuals with susceptible genotypes (10).\nour previous studies. To investigate a relationship between genetically\nFurthermore, individuals with a susceptible CYPIAl genotype were\ndetermined individual predispositions and mutations of target genes in the\nshown to be at remarkably high risk when the genotype was combined\nearly stage of lung carcinogenesis, we examined p53 mutations in relation\nwith a deficient GSTM1 genotype, GSTMI(-) (11, 12). The func-\nto germ line polymorphisms of the CYPIAI and GSTMI genes, using\nsurgical specimens of 148 non-small cell lung cancer patients who were\ntional significance of the polymorphic human CYPlA/ gene may be\nsmokers. The frequency of p53 mutations among heavy smokers was\nassociated with the inducible expression or different catalytic activity\nof the CYP1A1 enzyme (9, 13, 14). The GSTMI(-) genotype was\nhigher than in patients who bad never smeked [P < 0.01; edds ratio (OR),\nassociated completely with deficient GSTM1 enzyme activity (15).\n3.74; 95% confidence interval (CT), 1.46-9.56]. By single-strand confor-\nMultiple genetic lesions either activating dominant oncogenes or\nmational polymorphism, aberrant migration bands of p53 gene fragments\ninactivating turor suppressor genes have been characterized in hu-\nwere detected in 56 cases (38% ). Smokers with susceptible rare bomozy-\nman lung cancer(16-18). In NSCL.C, dominant oncogene activation\ngous alleles of either the MspI or Ie-Val polymorphism of the CYPLA1\nincludes a Ki-Ras mutation, predominantly in adenocarcinoma, and\ngene have a 4.5-fold (P < 0.005; OR, 4.48; 95% C1, 1.6412.26) or 5.5-fold\n(P < 0.01; OR, 5.52; 95% CI, 1.55-19.64) higher risk of having a mutation\nderegulation of growth factor receptor genes. On the other hand,\nof the p53 gene than those with nonsusceptible predominant homozygous\nsuppressor genes on chromosomes 3p, 13q (RB gene) and 17p (p53\nalleles of the gene. Non-small cell lung cancer patients with a susceptible\ngene) are affected frequently by deletions or mutations, resulting in\nCYPIA genotype were at remarkably high risk of having a mutation of\ninactivation of the gene products. Among such genetic alterations,\nthe p53 gene when the genotype was combined with a deficient genotype,\nmutations of the p53 gene seem to be the most common genetic\nGSTMt(-). However, there was no difference between the types of p53\nchanges in iung cancer, existing in about 60% with squamous carci-\nmutation and genotypes of the drug-metabolizing enzymes. These results\nnoma and 30% with adenocarcinoma (1922). A crucial role of the\nshowed that CYPiA/ germ line polymorphisms, whicb were associated\nwith the genetic predisposition for lung cancer, were related to cigarette\np53 gene, which regulates cell cycle-related genes as a transcription\nsmoking-associated p53 mutations.\nfactor (23), is also underscored by the finding that wild-type p53\nsuppresses the growth of human lung cancer cell lines bearing other.\nmultiple-genetic lesions (24).\nINTRODUCTION\nHowever, there is no clear understanding of the mechanisms of\nHuman lung carcinogenesis usually requires exposure to the pro-\ngenetic predisposition to lung cancer. Lung carcinogenesis seems to\ncarcinogens that are contained mainly in cigarette smoke, and many\nstart from a clonal expansion of the cells that gained a selective\naromatic hydrocarbons, such as benzo(a)pyrene, first require meta-\ngrowth advantage by early genetic changes in the cells. Because the\nbolic activation by CYP1A13 to their ultimate DNA-binding, muta-\ncommitted stem cells in the lung are exposed widely to environmental\ngenic, or carcinogenic forms (1, 2). Activated metabolites of benzo-\ncarcinogens, such as benzo(a)pyrene in cigarette smoke, early genetic\n(a)pyrene are subjected in part to metabolic detoxicntion by GSTM1\nlesions may be present in normal-appearing bronchial mucosa; the\n(3). Thus, the expression and catalytic activity of CYP1Al and\nprogression toward full tumorigenicity then would be acquired\nGSTM1 enzymes in the lung and their metabolic balance may be an\nthrough accumulation of further genetic alterations. Thus, genetic\nimportant determinant host factor underlying lung cancer (4-6).\nIt is an established fact that genetic variations of these drug-\npredisposing factors to smoking-induced lung cancer, such as\nmetabolizing enzymes exist within a human population, leading to\nCYP1A/ and GSTM1 polymorphisms, may affect the mutational fre-\ninterindividual differences in metabolic capacity (4-6). In our previ-\nquencies of target genes in early genetic alterations. To date, somatic\nous reports, we showed that high susceptibility to lung cancer is\nalteration of the p53 gene seems to be a candidate in the precancerous\nassociated with two mutually linked polymorphisms (MspI and Ie-\ngenetic event found in both metaplastic and dysplastic lesions of the\nlung (25, 26). Furthermore, it has been suggested that the incidence of\nVal polymorphisms) of the CYPIAI gene (7-9). This genetically\np53 mutations is associated with lifetime cigarette consumption (22,\n27). Mutations of the p53 gene in lung tumor DNA are scattered over\nReceived 5/26/95; accepted 10/30/95.\nmany codons, and G to T transversions are observed most frequently\nThe costs of publecation of this articte were defrayed in part by the paymeat of page\n(19, 20, 27), indicating that benzo(a)pyrene in cigarette smoke may be\ncharges. Thas artice must therefore be bereby marked advertisement in sccordunce with\n18 U.S.C Section 1734 solely to indicate thus fact.\ninvolved as a mutàgeh of the p53 gene (28-30). Thus, it will be\n Thas work was supported in part by a special grant for advanced research on cancer\nessential in understanding lung carcinogenesis to investigate whether\nthe Mrnistry of Health and Welfare of Japan for 2nd-Term Compreheasave 10-Year\nfroem the Min:stry of Educaton, Culrute, and Science of Japan and a fesearch grant from\nthe mutation frequenicy of the p53 gene in the lung tumor is influenced\nStrategy for Cancer Control.\nby lung cancer predisposition factors, such as CYPIAI and GSTM/\nSartama Cancer Center Research Institute, 818 Komuro, Ina-mach, Satama 362, Japan.\n2 To whom requests for reprints should be addressed, at Department of Biochemustry,\npolymorphisms. In this article, we show first that the mutation fre-\nFax 81-48-722-1739: E-al: Kawajiri@Saitas-c.g0.p.\nquency of the p53 geno is associated with cigarette smoking. We then\nstrand conformatsonal polycmorphism; GSTML, glutarhione S-transferase Mu-1: NSCLC.\n3 The abbreviatons used arr' CYPIA1, human cytochrome P450 1A1; SSCP, single-\nfound that CYP1Ai germ line polymorphisms are related to cigarette\nnon-small cell Jung cancer; OR, odds rato; Cl, conflidence interval.\nsmoking-associated p53 mutations.\nTHIS ARTICLE IS FOR INDIVIDUAL USE ONLY\n72\nAND MAY NOT BE FURTHER REPRODUCED OR\nSTORED ELECTRONICALLY WITHOUT WRITTEN\nPERMISSION FROM THE COPYRIGHT HOLDER.\n2064378955\nUNAUTHORIZED REPRODUOTION MAY RESULT\nIN FINANCIAL AND OTHER PENALTIES."
+}

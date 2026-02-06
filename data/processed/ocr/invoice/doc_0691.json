@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0691.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "JUN 01 '94 23:01 ENV MED INC USA",
+      "bbox": [
+        111,
+        28,
+        331,
+        47
+      ],
+      "confidence": 0.9721313714981079
+    },
+    {
+      "text": "P.2/9",
+      "bbox": [
+        633,
+        27,
+        677,
+        48
+      ],
+      "confidence": 0.9990366697311401
+    },
+    {
+      "text": "CH/Sidereal Technologies",
+      "bbox": [
+        150,
+        79,
+        362,
+        101
+      ],
+      "confidence": 0.999579906463623
+    },
+    {
+      "text": "263 Center Avenue",
+      "bbox": [
+        176,
+        96,
+        328,
+        114
+      ],
+      "confidence": 0.9800613522529602
+    },
+    {
+      "text": "Westwood, NJ 07675 USA",
+      "bbox": [
+        158,
+        109,
+        354,
+        129
+      ],
+      "confidence": 0.955544650554657
+    },
+    {
+      "text": "TAX ID Number 22-2795977",
+      "bbox": [
+        150,
+        125,
+        361,
+        144
+      ],
+      "confidence": 0.9831724166870117
+    },
+    {
+      "text": "Phone : (201) 666-2335",
+      "bbox": [
+        65,
+        141,
+        263,
+        159
+      ],
+      "confidence": 0.9637893438339233
+    },
+    {
+      "text": "Fax : (201) 666-8119",
+      "bbox": [
+        268,
+        140,
+        446,
+        158
+      ],
+      "confidence": 0.9795472025871277
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        505,
+        157,
+        569,
+        174
+      ],
+      "confidence": 0.9998618364334106
+    },
+    {
+      "text": ": 04/26/94",
+      "bbox": [
+        481,
+        186,
+        567,
+        204
+      ],
+      "confidence": 0.9981927871704102
+    },
+    {
+      "text": "No. : 264",
+      "bbox": [
+        597,
+        185,
+        681,
+        205
+      ],
+      "confidence": 0.9507880806922913
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        410,
+        188,
+        448,
+        203
+      ],
+      "confidence": 0.9998723268508911
+    },
+    {
+      "text": "Due Date: 05/26/94",
+      "bbox": [
+        410,
+        203,
+        567,
+        220
+      ],
+      "confidence": 0.9987077713012695
+    },
+    {
+      "text": "Page: 1",
+      "bbox": [
+        598,
+        204,
+        665,
+        221
+      ],
+      "confidence": 0.9657106399536133
+    },
+    {
+      "text": "Ship To/Remarks",
+      "bbox": [
+        460,
+        230,
+        594,
+        253
+      ],
+      "confidence": 0.999355137348175
+    },
+    {
+      "text": "Institut fur Biologische Forschung",
+      "bbox": [
+        82,
+        248,
+        379,
+        265
+      ],
+      "confidence": 0.9919734001159668
+    },
+    {
+      "text": "Dr. Helmut Sassernicht",
+      "bbox": [
+        81,
+        263,
+        277,
+        280
+      ],
+      "confidence": 0.9652556777000427
+    },
+    {
+      "text": "Fuggerstrasse 3",
+      "bbox": [
+        80,
+        278,
+        215,
+        295
+      ],
+      "confidence": 0.998263955116272
+    },
+    {
+      "text": "PO BOX 90 05 47",
+      "bbox": [
+        81,
+        293,
+        218,
+        312
+      ],
+      "confidence": 0.9401865005493164
+    },
+    {
+      "text": "51149",
+      "bbox": [
+        186,
+        307,
+        237,
+        328
+      ],
+      "confidence": 0.9953261613845825
+    },
+    {
+      "text": "Cologne",
+      "bbox": [
+        81,
+        308,
+        148,
+        329
+      ],
+      "confidence": 0.9994778037071228
+    },
+    {
+      "text": "Via",
+      "bbox": [
+        48,
+        371,
+        81,
+        390
+      ],
+      "confidence": 0.9947115778923035
+    },
+    {
+      "text": "FOB",
+      "bbox": [
+        188,
+        371,
+        221,
+        390
+      ],
+      "confidence": 0.9992877840995789
+    },
+    {
+      "text": "Terms",
+      "bbox": [
+        328,
+        373,
+        374,
+        388
+      ],
+      "confidence": 0.9996414184570312
+    },
+    {
+      "text": "Your#",
+      "bbox": [
+        488,
+        373,
+        535,
+        391
+      ],
+      "confidence": 0.9991246461868286
+    },
+    {
+      "text": "Our#",
+      "bbox": [
+        588,
+        369,
+        631,
+        390
+      ],
+      "confidence": 0.9134504795074463
+    },
+    {
+      "text": "Rep.",
+      "bbox": [
+        693,
+        369,
+        729,
+        387
+      ],
+      "confidence": 0.9996397495269775
+    },
+    {
+      "text": "Fedaral Express Westwood",
+      "bbox": [
+        50,
+        388,
+        263,
+        405
+      ],
+      "confidence": 0.99073725938797
+    },
+    {
+      "text": "0/ 0/ N30",
+      "bbox": [
+        328,
+        387,
+        408,
+        405
+      ],
+      "confidence": 0.9720622301101685
+    },
+    {
+      "text": "B38416.WM",
+      "bbox": [
+        490,
+        390,
+        570,
+        404
+      ],
+      "confidence": 0.9982039928436279
+    },
+    {
+      "text": "VERNAL",
+      "bbox": [
+        590,
+        387,
+        647,
+        404
+      ],
+      "confidence": 0.9998050332069397
+    },
+    {
+      "text": "RJJ",
+      "bbox": [
+        693,
+        385,
+        724,
+        400
+      ],
+      "confidence": 0.9994028210639954
+    },
+    {
+      "text": "Extended",
+      "bbox": [
+        659,
+        412,
+        733,
+        434
+      ],
+      "confidence": 0.9999228715896606
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        156,
+        417,
+        256,
+        436
+      ],
+      "confidence": 0.9998674988746643
+    },
+    {
+      "text": "Ordered",
+      "bbox": [
+        354,
+        416,
+        417,
+        434
+      ],
+      "confidence": 0.9980388879776001
+    },
+    {
+      "text": "Shipped",
+      "bbox": [
+        447,
+        417,
+        511,
+        435
+      ],
+      "confidence": 0.999710202217102
+    },
+    {
+      "text": "Unit Price",
+      "bbox": [
+        540,
+        417,
+        629,
+        434
+      ],
+      "confidence": 0.9674874544143677
+    },
+    {
+      "text": "Item Number",
+      "bbox": [
+        157,
+        433,
+        255,
+        451
+      ],
+      "confidence": 0.9995734691619873
+    },
+    {
+      "text": "Measure",
+      "bbox": [
+        353,
+        432,
+        417,
+        450
+      ],
+      "confidence": 0.9999255537986755
+    },
+    {
+      "text": "Backordered",
+      "bbox": [
+        430,
+        433,
+        528,
+        451
+      ],
+      "confidence": 0.9993720650672913
+    },
+    {
+      "text": "Discount %",
+      "bbox": [
+        540,
+        434,
+        629,
+        449
+      ],
+      "confidence": 0.9982927441596985
+    },
+    {
+      "text": "Smoke Pump 31293-010",
+      "bbox": [
+        47,
+        461,
+        231,
+        485
+      ],
+      "confidence": 0.9960057139396667
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        371,
+        464,
+        401,
+        479
+      ],
+      "confidence": 0.9924740195274353
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        472,
+        464,
+        502,
+        480
+      ],
+      "confidence": 0.998702347278595
+    },
+    {
+      "text": "3395.0000",
+      "bbox": [
+        547,
+        461,
+        628,
+        480
+      ],
+      "confidence": 0.9980908632278442
+    },
+    {
+      "text": "3395.00",
+      "bbox": [
+        676,
+        458,
+        739,
+        478
+      ],
+      "confidence": 0.9989269375801086
+    },
+    {
+      "text": "Shipping and Handling",
+      "bbox": [
+        47,
+        491,
+        240,
+        517
+      ],
+      "confidence": 0.9981944561004639
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        371,
+        494,
+        401,
+        510
+      ],
+      "confidence": 0.998319149017334
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        472,
+        494,
+        502,
+        509
+      ],
+      "confidence": 0.9985243678092957
+    },
+    {
+      "text": "175.0000",
+      "bbox": [
+        556,
+        492,
+        629,
+        509
+      ],
+      "confidence": 0.9997077584266663
+    },
+    {
+      "text": "175.00",
+      "bbox": [
+        684,
+        488,
+        738,
+        507
+      ],
+      "confidence": 0.9998552203178406
+    },
+    {
+      "text": "Customs duties",
+      "bbox": [
+        47,
+        522,
+        178,
+        548
+      ],
+      "confidence": 0.999405562877655
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        372,
+        524,
+        402,
+        539
+      ],
+      "confidence": 0.9982068538665771
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        472,
+        523,
+        502,
+        539
+      ],
+      "confidence": 0.9963059425354004
+    },
+    {
+      "text": "746.1500",
+      "bbox": [
+        557,
+        523,
+        628,
+        537
+      ],
+      "confidence": 0.9375026226043701
+    },
+    {
+      "text": "746.15",
+      "bbox": [
+        684,
+        518,
+        739,
+        538
+      ],
+      "confidence": 0.9993150234222412
+    },
+    {
+      "text": "Sub-Total",
+      "bbox": [
+        543,
+        851,
+        629,
+        868
+      ],
+      "confidence": 0.9994012117385864
+    },
+    {
+      "text": "4316.15",
+      "bbox": [
+        686,
+        851,
+        752,
+        868
+      ],
+      "confidence": 0.9992286562919617
+    },
+    {
+      "text": "Tax",
+      "bbox": [
+        544,
+        867,
+        578,
+        884
+      ],
+      "confidence": 0.9972596168518066
+    },
+    {
+      "text": ":",
+      "bbox": [
+        636,
+        871,
+        644,
+        881
+      ],
+      "confidence": 0.9971977472305298
+    },
+    {
+      "text": "0.00",
+      "bbox": [
+        713,
+        867,
+        751,
+        881
+      ],
+      "confidence": 0.9319714903831482
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        545,
+        881,
+        593,
+        896
+      ],
+      "confidence": 0.9992343783378601
+    },
+    {
+      "text": ":",
+      "bbox": [
+        636,
+        886,
+        644,
+        895
+      ],
+      "confidence": 0.9211306571960449
+    },
+    {
+      "text": "-2163.00",
+      "bbox": [
+        679,
+        892,
+        750,
+        909
+      ],
+      "confidence": 0.9745503067970276
+    },
+    {
+      "text": "4316.15",
+      "bbox": [
+        687,
+        881,
+        750,
+        895
+      ],
+      "confidence": 0.9990181922912598
+    },
+    {
+      "text": "CS",
+      "bbox": [
+        763,
+        879,
+        775,
+        905
+      ],
+      "confidence": 0.6319628953933716
+    },
+    {
+      "text": "Payment",
+      "bbox": [
+        545,
+        895,
+        611,
+        911
+      ],
+      "confidence": 0.9997472167015076
+    },
+    {
+      "text": ":",
+      "bbox": [
+        636,
+        898,
+        645,
+        909
+      ],
+      "confidence": 0.9813186526298523
+    },
+    {
+      "text": "7",
+      "bbox": [
+        764,
+        904,
+        776,
+        920
+      ],
+      "confidence": 0.998927652835846
+    },
+    {
+      "text": "3153.15",
+      "bbox": [
+        688,
+        921,
+        750,
+        935
+      ],
+      "confidence": 0.9995989799499512
+    },
+    {
+      "text": "Net To Pay:",
+      "bbox": [
+        546,
+        923,
+        644,
+        938
+      ],
+      "confidence": 0.9586306214332581
+    }
+  ],
+  "full_text": "JUN 01 '94 23:01 ENV MED INC USA\nP.2/9\nCH/Sidereal Technologies\n263 Center Avenue\nWestwood, NJ 07675 USA\nTAX ID Number 22-2795977\nPhone : (201) 666-2335\nFax : (201) 666-8119\nINVOICE\n: 04/26/94\nNo. : 264\nDate\nDue Date: 05/26/94\nPage: 1\nShip To/Remarks\nInstitut fur Biologische Forschung\nDr. Helmut Sassernicht\nFuggerstrasse 3\nPO BOX 90 05 47\n51149\nCologne\nVia\nFOB\nTerms\nYour#\nOur#\nRep.\nFedaral Express Westwood\n0/ 0/ N30\nB38416.WM\nVERNAL\nRJJ\nExtended\nDescription\nOrdered\nShipped\nUnit Price\nItem Number\nMeasure\nBackordered\nDiscount %\nSmoke Pump 31293-010\n1.0\n1.0\n3395.0000\n3395.00\nShipping and Handling\n1.0\n1.0\n175.0000\n175.00\nCustoms duties\n1.0\n1.0\n746.1500\n746.15\nSub-Total\n4316.15\nTax\n:\n0.00\nTotal\n:\n-2163.00\n4316.15\nCS\nPayment\n:\n7\n3153.15\nNet To Pay:"
+}

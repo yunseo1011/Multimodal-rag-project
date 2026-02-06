@@ -1,0 +1,781 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0325.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SOAP",
+      "bbox": [
+        81,
+        138,
+        188,
+        205
+      ],
+      "confidence": 0.9911379218101501
+    },
+    {
+      "text": "SOAP",
+      "bbox": [
+        582,
+        133,
+        689,
+        199
+      ],
+      "confidence": 0.9973103404045105
+    },
+    {
+      "text": "JUr. 09 RECD",
+      "bbox": [
+        177,
+        145,
+        245,
+        190
+      ],
+      "confidence": 0.7001380324363708
+    },
+    {
+      "text": "OPERA",
+      "bbox": [
+        605,
+        187,
+        681,
+        207
+      ],
+      "confidence": 0.9822968244552612
+    },
+    {
+      "text": "OPERA",
+      "bbox": [
+        109,
+        192,
+        177,
+        211
+      ],
+      "confidence": 0.9920865893363953
+    },
+    {
+      "text": "DIGEST",
+      "bbox": [
+        590,
+        202,
+        677,
+        220
+      ],
+      "confidence": 0.982272207736969
+    },
+    {
+      "text": "DIGEST",
+      "bbox": [
+        89,
+        204,
+        176,
+        225
+      ],
+      "confidence": 0.950803279876709
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        392,
+        212,
+        495,
+        237
+      ],
+      "confidence": 0.9998106360435486
+    },
+    {
+      "text": "LORILLARD MEDIA SERVICES",
+      "bbox": [
+        109,
+        244,
+        254,
+        254
+      ],
+      "confidence": 0.9935727119445801
+    },
+    {
+      "text": "L",
+      "bbox": [
+        293,
+        236,
+        305,
+        249
+      ],
+      "confidence": 0.9964667558670044
+    },
+    {
+      "text": "DATE (7/07/92",
+      "bbox": [
+        347,
+        240,
+        421,
+        256
+      ],
+      "confidence": 0.9355552196502686
+    },
+    {
+      "text": "ATTN: ILENE ANTIONIELLO",
+      "bbox": [
+        109,
+        253,
+        247,
+        263
+      ],
+      "confidence": 0.9847577810287476
+    },
+    {
+      "text": "INVOICE N0:2154020",
+      "bbox": [
+        323,
+        259,
+        420,
+        275
+      ],
+      "confidence": 0.9687302112579346
+    },
+    {
+      "text": "LORILLARD MEDIA SERVICES",
+      "bbox": [
+        559,
+        253,
+        707,
+        267
+      ],
+      "confidence": 0.9946651458740234
+    },
+    {
+      "text": "NEWY0RKNY. 10016",
+      "bbox": [
+        109,
+        273,
+        225,
+        283
+      ],
+      "confidence": 0.9272962808609009
+    },
+    {
+      "text": "ONE. PARK AVENUE",
+      "bbox": [
+        110,
+        263,
+        200,
+        273
+      ],
+      "confidence": 0.9612446427345276
+    },
+    {
+      "text": "DNE PARK AVENUE",
+      "bbox": [
+        559,
+        273,
+        652,
+        285
+      ],
+      "confidence": 0.9177757501602173
+    },
+    {
+      "text": "ATTN:ILENE ANTIONIELLD",
+      "bbox": [
+        560,
+        265,
+        699,
+        275
+      ],
+      "confidence": 0.9888312816619873
+    },
+    {
+      "text": "L",
+      "bbox": [
+        292,
+        290,
+        306,
+        303
+      ],
+      "confidence": 0.8272298574447632
+    },
+    {
+      "text": "NEW YORK, NY. 10016",
+      "bbox": [
+        559,
+        282,
+        676,
+        295
+      ],
+      "confidence": 0.9188984036445618
+    },
+    {
+      "text": "L",
+      "bbox": [
+        698,
+        294,
+        708,
+        303
+      ],
+      "confidence": 0.9742323160171509
+    },
+    {
+      "text": "TERMS: NET 30 DAYS",
+      "bbox": [
+        385,
+        323,
+        480,
+        336
+      ],
+      "confidence": 0.9952366352081299
+    },
+    {
+      "text": "*LORILLARD",
+      "bbox": [
+        543,
+        324,
+        604,
+        334
+      ],
+      "confidence": 0.9652684926986694
+    },
+    {
+      "text": "07/07/92",
+      "bbox": [
+        607,
+        323,
+        656,
+        334
+      ],
+      "confidence": 0.9824153780937195
+    },
+    {
+      "text": "92154020",
+      "bbox": [
+        661,
+        323,
+        711,
+        333
+      ],
+      "confidence": 0.9992598295211792
+    },
+    {
+      "text": "A/C CODE: *LORILLARD",
+      "bbox": [
+        112,
+        343,
+        233,
+        356
+      ],
+      "confidence": 0.9874036908149719
+    },
+    {
+      "text": "A/C CODE: *LORILLARD",
+      "bbox": [
+        559,
+        342,
+        681,
+        355
+      ],
+      "confidence": 0.9788421392440796
+    },
+    {
+      "text": "LORILLARD/TRUE",
+      "bbox": [
+        112,
+        364,
+        195,
+        376
+      ],
+      "confidence": 0.9971150159835815
+    },
+    {
+      "text": "ADVT 10:",
+      "bbox": [
+        113,
+        355,
+        172,
+        365
+      ],
+      "confidence": 0.8933327794075012
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        168,
+        355,
+        196,
+        365
+      ],
+      "confidence": 0.9952839612960815
+    },
+    {
+      "text": "LORILLARD/TRJE",
+      "bbox": [
+        559,
+        360,
+        647,
+        375
+      ],
+      "confidence": 0.9911106824874878
+    },
+    {
+      "text": "ADVT ID:",
+      "bbox": [
+        560,
+        353,
+        608,
+        364
+      ],
+      "confidence": 0.9937030076980591
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        619,
+        353,
+        648,
+        363
+      ],
+      "confidence": 0.8879599571228027
+    },
+    {
+      "text": "ISSUE: JULY 21.1992 SOPD",
+      "bbox": [
+        68,
+        374,
+        209,
+        387
+      ],
+      "confidence": 0.9663215279579163
+    },
+    {
+      "text": ": INV. TOTAL:",
+      "bbox": [
+        537,
+        382,
+        616,
+        394
+      ],
+      "confidence": 0.9640712141990662
+    },
+    {
+      "text": "15.160.60",
+      "bbox": [
+        656,
+        381,
+        712,
+        392
+      ],
+      "confidence": 0.9401633739471436
+    },
+    {
+      "text": "DESCRIPTICN:: PG: 19",
+      "bbox": [
+        68,
+        384,
+        175,
+        396
+      ],
+      "confidence": 0.9133772850036621
+    },
+    {
+      "text": "FULL: PAGE. 4 COLOR: NATIDNAL, RATE TYPE",
+      "bbox": [
+        68,
+        394,
+        289,
+        407
+      ],
+      "confidence": 0.9602653384208679
+    },
+    {
+      "text": "25,480.00",
+      "bbox": [
+        394,
+        394,
+        449,
+        404
+      ],
+      "confidence": 0.9776521325111389
+    },
+    {
+      "text": "INBERTIONS",
+      "bbox": [
+        69,
+        403,
+        130,
+        415
+      ],
+      "confidence": 0.9793551564216614
+    },
+    {
+      "text": "23.A90.00",
+      "bbox": [
+        394,
+        403,
+        448,
+        414
+      ],
+      "confidence": 0.8536635041236877
+    },
+    {
+      "text": "FREQUENCY DISCOUNT RATE 30X",
+      "bbox": [
+        68,
+        413,
+        227,
+        426
+      ],
+      "confidence": 0.9840534329414368
+    },
+    {
+      "text": "GROSS",
+      "bbox": [
+        68,
+        422,
+        101,
+        437
+      ],
+      "confidence": 0.9988320469856262
+    },
+    {
+      "text": "17.836.00",
+      "bbox": [
+        395,
+        422,
+        448,
+        433
+      ],
+      "confidence": 0.9773967266082764
+    },
+    {
+      "text": "7,644.00",
+      "bbox": [
+        398,
+        413,
+        448,
+        423
+      ],
+      "confidence": 0.9407199621200562
+    },
+    {
+      "text": "2.675.40",
+      "bbox": [
+        400,
+        442,
+        449,
+        453
+      ],
+      "confidence": 0.9752988815307617
+    },
+    {
+      "text": "AGENCY COMMISSION",
+      "bbox": [
+        69,
+        443,
+        172,
+        456
+      ],
+      "confidence": 0.9957222938537598
+    },
+    {
+      "text": "NET SPACE",
+      "bbox": [
+        70,
+        454,
+        125,
+        464
+      ],
+      "confidence": 0.9326049089431763
+    },
+    {
+      "text": "15 %",
+      "bbox": [
+        178,
+        443,
+        206,
+        454
+      ],
+      "confidence": 0.8855416774749756
+    },
+    {
+      "text": "15.160.60",
+      "bbox": [
+        395,
+        452,
+        449,
+        462
+      ],
+      "confidence": 0.9578769207000732
+    },
+    {
+      "text": "INVOICE TOTAL",
+      "bbox": [
+        72,
+        481,
+        147,
+        493
+      ],
+      "confidence": 0.9960111975669861
+    },
+    {
+      "text": "15-160.50",
+      "bbox": [
+        395,
+        480,
+        449,
+        490
+      ],
+      "confidence": 0.90858393907547
+    },
+    {
+      "text": "STATEMENT",
+      "bbox": [
+        615,
+        476,
+        657,
+        483
+      ],
+      "confidence": 0.9903346300125122
+    },
+    {
+      "text": "MAGAZIVE",
+      "bbox": [
+        114,
+        523,
+        162,
+        540
+      ],
+      "confidence": 0.9797194004058838
+    },
+    {
+      "text": "SOAP",
+      "bbox": [
+        184,
+        521,
+        223,
+        542
+      ],
+      "confidence": 0.9941138029098511
+    },
+    {
+      "text": "Ictal due. ap",
+      "bbox": [
+        575,
+        521,
+        611,
+        528
+      ],
+      "confidence": 0.7748563289642334
+    },
+    {
+      "text": "CRAND",
+      "bbox": [
+        116,
+        542,
+        147,
+        556
+      ],
+      "confidence": 0.9476000070571899
+    },
+    {
+      "text": "TRue",
+      "bbox": [
+        177,
+        537,
+        216,
+        558
+      ],
+      "confidence": 0.6775562167167664
+    },
+    {
+      "text": "7-21-92",
+      "bbox": [
+        174,
+        554,
+        233,
+        576
+      ],
+      "confidence": 0.993995189666748
+    },
+    {
+      "text": "Vat.",
+      "bbox": [
+        270,
+        552,
+        337,
+        613
+      ],
+      "confidence": 0.7892508506774902
+    },
+    {
+      "text": "101",
+      "bbox": [
+        188,
+        571,
+        215,
+        590
+      ],
+      "confidence": 0.9974860548973083
+    },
+    {
+      "text": "TO: SOAP OPERA DIGEST",
+      "bbox": [
+        577,
+        572,
+        686,
+        584
+      ],
+      "confidence": 0.9826346635818481
+    },
+    {
+      "text": "142",
+      "bbox": [
+        181,
+        591,
+        212,
+        609
+      ],
+      "confidence": 0.6561834812164307
+    },
+    {
+      "text": "45 WEST 25TH STREET",
+      "bbox": [
+        583,
+        581,
+        680,
+        593
+      ],
+      "confidence": 0.9737386107444763
+    },
+    {
+      "text": "NEW YORK. N.Y. 10010",
+      "bbox": [
+        584,
+        589,
+        681,
+        602
+      ],
+      "confidence": 0.9343417882919312
+    },
+    {
+      "text": "PAYMEN.S",
+      "bbox": [
+        114,
+        594,
+        162,
+        605
+      ],
+      "confidence": 0.8149051070213318
+    },
+    {
+      "text": "NV.NO",
+      "bbox": [
+        114,
+        612,
+        147,
+        623
+      ],
+      "confidence": 0.7618526220321655
+    },
+    {
+      "text": "92154020C",
+      "bbox": [
+        172,
+        610,
+        245,
+        627
+      ],
+      "confidence": 0.9436997175216675
+    },
+    {
+      "text": "TOUNT",
+      "bbox": [
+        113,
+        625,
+        151,
+        636
+      ],
+      "confidence": 0.7521735429763794
+    },
+    {
+      "text": "PA5",
+      "bbox": [
+        122,
+        632,
+        143,
+        643
+      ],
+      "confidence": 0.7012016177177429
+    },
+    {
+      "text": "1734.40",
+      "bbox": [
+        168,
+        625,
+        241,
+        644
+      ],
+      "confidence": 0.8638476729393005
+    },
+    {
+      "text": "CORPORNTA",
+      "bbox": [
+        112,
+        641,
+        168,
+        653
+      ],
+      "confidence": 0.9038804173469543
+    },
+    {
+      "text": "2145.80",
+      "bbox": [
+        177,
+        643,
+        240,
+        663
+      ],
+      "confidence": 0.9669597744941711
+    },
+    {
+      "text": "CHECKa",
+      "bbox": [
+        114,
+        663,
+        150,
+        674
+      ],
+      "confidence": 0.9038657546043396
+    },
+    {
+      "text": "004437",
+      "bbox": [
+        177,
+        659,
+        240,
+        680
+      ],
+      "confidence": 0.99151611328125
+    },
+    {
+      "text": "91691051",
+      "bbox": [
+        684,
+        660,
+        706,
+        712
+      ],
+      "confidence": 0.9668982625007629
+    },
+    {
+      "text": "8-10-92",
+      "bbox": [
+        177,
+        676,
+        242,
+        696
+      ],
+      "confidence": 0.9919351935386658
+    }
+  ],
+  "full_text": "SOAP\nSOAP\nJUr. 09 RECD\nOPERA\nOPERA\nDIGEST\nDIGEST\nINVOICE\nLORILLARD MEDIA SERVICES\nL\nDATE (7/07/92\nATTN: ILENE ANTIONIELLO\nINVOICE N0:2154020\nLORILLARD MEDIA SERVICES\nNEWY0RKNY. 10016\nONE. PARK AVENUE\nDNE PARK AVENUE\nATTN:ILENE ANTIONIELLD\nL\nNEW YORK, NY. 10016\nL\nTERMS: NET 30 DAYS\n*LORILLARD\n07/07/92\n92154020\nA/C CODE: *LORILLARD\nA/C CODE: *LORILLARD\nLORILLARD/TRUE\nADVT 10:\nTRUE\nLORILLARD/TRJE\nADVT ID:\nTRUE\nISSUE: JULY 21.1992 SOPD\n: INV. TOTAL:\n15.160.60\nDESCRIPTICN:: PG: 19\nFULL: PAGE. 4 COLOR: NATIDNAL, RATE TYPE\n25,480.00\nINBERTIONS\n23.A90.00\nFREQUENCY DISCOUNT RATE 30X\nGROSS\n17.836.00\n7,644.00\n2.675.40\nAGENCY COMMISSION\nNET SPACE\n15 %\n15.160.60\nINVOICE TOTAL\n15-160.50\nSTATEMENT\nMAGAZIVE\nSOAP\nIctal due. ap\nCRAND\nTRue\n7-21-92\nVat.\n101\nTO: SOAP OPERA DIGEST\n142\n45 WEST 25TH STREET\nNEW YORK. N.Y. 10010\nPAYMEN.S\nNV.NO\n92154020C\nTOUNT\nPA5\n1734.40\nCORPORNTA\n2145.80\nCHECKa\n004437\n91691051\n8-10-92"
+}

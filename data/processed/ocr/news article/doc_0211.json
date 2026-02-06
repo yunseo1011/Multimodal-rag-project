@@ -1,0 +1,1091 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0211.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "(iCM:INTERNATIONAL HO-RE-CA",
+      "bbox": [
+        415,
+        59,
+        611,
+        78
+      ],
+      "confidence": 0.9039818644523621
+    },
+    {
+      "text": "Date: 23.SEP_95",
+      "bbox": [
+        416,
+        85,
+        516,
+        99
+      ],
+      "confidence": 0.8966861367225647
+    },
+    {
+      "text": "Pub!ication: HONG KONG_STANDARD",
+      "bbox": [
+        414,
+        109,
+        615,
+        123
+      ],
+      "confidence": 0.9705449938774109
+    },
+    {
+      "text": "CORPORATE COMMUNICATIONS LTD.",
+      "bbox": [
+        44,
+        121,
+        355,
+        147
+      ],
+      "confidence": 0.9201912879943848
+    },
+    {
+      "text": "Circulation: 55,392",
+      "bbox": [
+        411,
+        129,
+        528,
+        149
+      ],
+      "confidence": 0.9712782502174377
+    },
+    {
+      "text": "Smoking restrictions up to",
+      "bbox": [
+        99,
+        205,
+        680,
+        261
+      ],
+      "confidence": 0.9989631175994873
+    },
+    {
+      "text": "restaurants: trade group",
+      "bbox": [
+        109,
+        250,
+        657,
+        312
+      ],
+      "confidence": 0.992706298828125
+    },
+    {
+      "text": "By Suzanne Dennis",
+      "bbox": [
+        91,
+        303,
+        202,
+        319
+      ],
+      "confidence": 0.9939795136451721
+    },
+    {
+      "text": "INDIVIDUAL restaurant owners",
+      "bbox": [
+        91,
+        318,
+        279,
+        336
+      ],
+      "confidence": 0.9823418855667114
+    },
+    {
+      "text": "should be able to determine how",
+      "bbox": [
+        90,
+        329,
+        279,
+        345
+      ],
+      "confidence": 0.9576508402824402
+    },
+    {
+      "text": "they cope with the issue of smoic-",
+      "bbox": [
+        90,
+        339,
+        279,
+        355
+      ],
+      "confidence": 0.9706408381462097
+    },
+    {
+      "text": "ing. an international service group",
+      "bbox": [
+        90,
+        349,
+        279,
+        367
+      ],
+      "confidence": 0.9831531047821045
+    },
+    {
+      "text": "has resolved.",
+      "bbox": [
+        89,
+        359,
+        164,
+        374
+      ],
+      "confidence": 0.9757451415061951
+    },
+    {
+      "text": "jected the notion that governments",
+      "bbox": [
+        89,
+        381,
+        278,
+        399
+      ],
+      "confidence": 0.9629239439964294
+    },
+    {
+      "text": "International_Ho-Re-Ca has re-",
+      "bbox": [
+        101,
+        371,
+        277,
+        388
+      ],
+      "confidence": 0.9521347284317017
+    },
+    {
+      "text": "should regulate the issue.",
+      "bbox": [
+        89,
+        391,
+        230,
+        408
+      ],
+      "confidence": 0.9834848046302795
+    },
+    {
+      "text": "The decision was made by del-",
+      "bbox": [
+        100,
+        402,
+        277,
+        420
+      ],
+      "confidence": 0.9860773682594299
+    },
+    {
+      "text": "egates at the recent 45th Annual",
+      "bbox": [
+        88,
+        413,
+        277,
+        430
+      ],
+      "confidence": 0.9639974236488342
+    },
+    {
+      "text": "International",
+      "bbox": [
+        88,
+        422,
+        165,
+        438
+      ],
+      "confidence": 0.9482208490371704
+    },
+    {
+      "text": "Ho-Re-Ca (Inter-",
+      "bbox": [
+        174,
+        423,
+        277,
+        442
+      ],
+      "confidence": 0.9672266840934753
+    },
+    {
+      "text": "Restaurants and Cafes) Congress at",
+      "bbox": [
+        87,
+        442,
+        277,
+        461
+      ],
+      "confidence": 0.9868819117546082
+    },
+    {
+      "text": "national Organisation of Hotels,",
+      "bbox": [
+        88,
+        432,
+        277,
+        451
+      ],
+      "confidence": 0.9765503406524658
+    },
+    {
+      "text": "the Holiday Inn Golden Mille.",
+      "bbox": [
+        87,
+        452,
+        246,
+        471
+      ],
+      "confidence": 0.9428956508636475
+    },
+    {
+      "text": "The congress adopted an import-",
+      "bbox": [
+        98,
+        465,
+        276,
+        482
+      ],
+      "confidence": 0.9897378087043762
+    },
+    {
+      "text": "ant resolution on the subject of",
+      "bbox": [
+        87,
+        475,
+        277,
+        492
+      ],
+      "confidence": 0.9726731777191162
+    },
+    {
+      "text": "legislation restricting the behav-",
+      "bbox": [
+        87,
+        485,
+        275,
+        502
+      ],
+      "confidence": 0.9620211124420166
+    },
+    {
+      "text": "iour of customers in hotels, res-",
+      "bbox": [
+        87,
+        495,
+        275,
+        512
+      ],
+      "confidence": 0.9813919067382812
+    },
+    {
+      "text": "taurants and cafes. particularly in",
+      "bbox": [
+        86,
+        505,
+        275,
+        521
+      ],
+      "confidence": 0.9779177904129028
+    },
+    {
+      "text": "reference",
+      "bbox": [
+        88,
+        517,
+        140,
+        528
+      ],
+      "confidence": 0.9998008012771606
+    },
+    {
+      "text": "to",
+      "bbox": [
+        157,
+        517,
+        172,
+        529
+      ],
+      "confidence": 0.9999833106994629
+    },
+    {
+      "text": "accommodating",
+      "bbox": [
+        187,
+        515,
+        275,
+        532
+      ],
+      "confidence": 0.927237868309021
+    },
+    {
+      "text": "smokers and non-smckers in har",
+      "bbox": [
+        86,
+        524,
+        274,
+        541
+      ],
+      "confidence": 0.9863719940185547
+    },
+    {
+      "text": "mony.",
+      "bbox": [
+        84,
+        533,
+        125,
+        550
+      ],
+      "confidence": 0.994707465171814
+    },
+    {
+      "text": "The resolution states the follow.",
+      "bbox": [
+        96,
+        544,
+        274,
+        562
+      ],
+      "confidence": 0.997964084148407
+    },
+    {
+      "text": "ing:",
+      "bbox": [
+        86,
+        556,
+        111,
+        568
+      ],
+      "confidence": 0.9872786998748779
+    },
+    {
+      "text": "cerned about the growing. almost",
+      "bbox": [
+        84,
+        574,
+        273,
+        590
+      ],
+      "confidence": 0.9751838445663452
+    },
+    {
+      "text": "International Ho-Re-Ca is con-",
+      "bbox": [
+        85,
+        563,
+        274,
+        581
+      ],
+      "confidence": 0.9890574216842651
+    },
+    {
+      "text": "puritanical trend in recent years to",
+      "bbox": [
+        84,
+        583,
+        273,
+        601
+      ],
+      "confidence": 0.9887463450431824
+    },
+    {
+      "text": "restrict or even completely pro-",
+      "bbox": [
+        83,
+        593,
+        273,
+        611
+      ],
+      "confidence": 0.9819014072418213
+    },
+    {
+      "text": "hibit any of life's pleasures (eating.",
+      "bbox": [
+        83,
+        602,
+        271,
+        622
+      ],
+      "confidence": 0.972647488117218
+    },
+    {
+      "text": "drinking. smoking etc).",
+      "bbox": [
+        83,
+        613,
+        212,
+        630
+      ],
+      "confidence": 0.9636998176574707
+    },
+    {
+      "text": "Concerning smoking in hotels,",
+      "bbox": [
+        83,
+        624,
+        271,
+        641
+      ],
+      "confidence": 0.9658355712890625
+    },
+    {
+      "text": "restaurants",
+      "bbox": [
+        85,
+        637,
+        151,
+        648
+      ],
+      "confidence": 0.9997310042381287
+    },
+    {
+      "text": "and cafes, Inter-",
+      "bbox": [
+        145,
+        635,
+        271,
+        652
+      ],
+      "confidence": 0.9775848388671875
+    },
+    {
+      "text": "national Ho-Re-Ca represents the",
+      "bbox": [
+        83,
+        644,
+        271,
+        662
+      ],
+      "confidence": 0.9964557886123657
+    },
+    {
+      "text": "opinion that it is a matter for the",
+      "bbox": [
+        77,
+        655,
+        271,
+        672
+      ],
+      "confidence": 0.9682597517967224
+    },
+    {
+      "text": "individual proprietor to determine,",
+      "bbox": [
+        83,
+        665,
+        270,
+        684
+      ],
+      "confidence": 0.9875589609146118
+    },
+    {
+      "text": "with his customers, whether and in",
+      "bbox": [
+        82,
+        675,
+        270,
+        694
+      ],
+      "confidence": 0.9898248314857483
+    },
+    {
+      "text": "areas should be set up.",
+      "bbox": [
+        81,
+        695,
+        206,
+        713
+      ],
+      "confidence": 0.9916607141494751
+    },
+    {
+      "text": "what way non-smoking rooms or",
+      "bbox": [
+        82,
+        685,
+        270,
+        704
+      ],
+      "confidence": 0.9924010038375854
+    },
+    {
+      "text": "International Ho-Re-Ca also re-",
+      "bbox": [
+        81,
+        706,
+        269,
+        723
+      ],
+      "confidence": 0.9878808856010437
+    },
+    {
+      "text": "BUTT OUT: William Mark —pressura from outside to restriot smoking.",
+      "bbox": [
+        289,
+        709,
+        656,
+        732
+      ],
+      "confidence": 0.9745264649391174
+    },
+    {
+      "text": "jects, on behalf of the protection of",
+      "bbox": [
+        81,
+        716,
+        270,
+        734
+      ],
+      "confidence": 0.979877769947052
+    },
+    {
+      "text": "free economic activity, the idea",
+      "bbox": [
+        81,
+        726,
+        269,
+        744
+      ],
+      "confidence": 0.966551661491394
+    },
+    {
+      "text": "the resolution applied to Hong",
+      "bbox": [
+        278,
+        723,
+        469,
+        744
+      ],
+      "confidence": 0.990046501159668
+    },
+    {
+      "text": "that the state should enact legal",
+      "bbox": [
+        82,
+        736,
+        269,
+        755
+      ],
+      "confidence": 0.9935617446899414
+    },
+    {
+      "text": "Kong.",
+      "bbox": [
+        277,
+        735,
+        314,
+        752
+      ],
+      "confidence": 0.9931661486625671
+    },
+    {
+      "text": "said \"no restaurant is in business",
+      "bbox": [
+        477,
+        728,
+        667,
+        745
+      ],
+      "confidence": 0.9926965236663818
+    },
+    {
+      "text": "today because it igncred the wishes",
+      "bbox": [
+        478,
+        739,
+        667,
+        756
+      ],
+      "confidence": 0.9836715459823608
+    },
+    {
+      "text": "regulations in this area.",
+      "bbox": [
+        80,
+        746,
+        213,
+        764
+      ],
+      "confidence": 0.9614786505699158
+    },
+    {
+      "text": "The adoption of the resolution",
+      "bbox": [
+        91,
+        757,
+        267,
+        775
+      ],
+      "confidence": 0.9917502999305725
+    },
+    {
+      "text": "\"Hong Kong poople have always",
+      "bbox": [
+        289,
+        747,
+        467,
+        765
+      ],
+      "confidence": 0.9788027405738831
+    },
+    {
+      "text": "of its patrons, and I believe that no",
+      "bbox": [
+        477,
+        749,
+        667,
+        766
+      ],
+      "confidence": 0.9743545055389404
+    },
+    {
+      "text": "came after discussion sparked by a",
+      "bbox": [
+        80,
+        767,
+        267,
+        786
+      ],
+      "confidence": 0.981346607208252
+    },
+    {
+      "text": "favoured sccommodation when",
+      "bbox": [
+        277,
+        758,
+        467,
+        775
+      ],
+      "confidence": 0.9469589591026306
+    },
+    {
+      "text": "dealing with their fellow man, a",
+      "bbox": [
+        277,
+        767,
+        467,
+        785
+      ],
+      "confidence": 0.9557868242263794
+    },
+    {
+      "text": "restaurant should be compelled by",
+      "bbox": [
+        476,
+        759,
+        666,
+        777
+      ],
+      "confidence": 0.9908634424209595
+    },
+    {
+      "text": "those outside the industry to dis-",
+      "bbox": [
+        477,
+        769,
+        666,
+        786
+      ],
+      "confidence": 0.9792557954788208
+    },
+    {
+      "text": "research study prepared on behalf",
+      "bbox": [
+        80,
+        777,
+        267,
+        797
+      ],
+      "confidence": 0.9776062369346619
+    },
+    {
+      "text": "of International Ho-Re-Ca by",
+      "bbox": [
+        80,
+        786,
+        267,
+        808
+      ],
+      "confidence": 0.9369782209396362
+    },
+    {
+      "text": "non-interference with the rights of",
+      "bbox": [
+        277,
+        778,
+        467,
+        795
+      ],
+      "confidence": 0.9730066657066345
+    },
+    {
+      "text": "miss its customers' preferences",
+      "bbox": [
+        476,
+        779,
+        666,
+        797
+      ],
+      "confidence": 0.9627525806427002
+    },
+    {
+      "text": "Harris Research in London.",
+      "bbox": [
+        79,
+        797,
+        230,
+        816
+      ],
+      "confidence": 0.9816077947616577
+    },
+    {
+      "text": "others when they don't impinge on",
+      "bbox": [
+        276,
+        788,
+        466,
+        806
+      ],
+      "confidence": 0.9805176258087158
+    },
+    {
+      "text": "themselves, which must be ap-",
+      "bbox": [
+        276,
+        798,
+        465,
+        817
+      ],
+      "confidence": 0.9406845569610596
+    },
+    {
+      "text": "lightly\".",
+      "bbox": [
+        475,
+        789,
+        525,
+        806
+      ],
+      "confidence": 0.9793586730957031
+    },
+    {
+      "text": "A key finding in this research,",
+      "bbox": [
+        90,
+        808,
+        265,
+        828
+      ],
+      "confidence": 0.9810690879821777
+    },
+    {
+      "text": "plauded,\" Mr Mark said.",
+      "bbox": [
+        276,
+        810,
+        410,
+        826
+      ],
+      "confidence": 0.9386448860168457
+    },
+    {
+      "text": "worldwide association of hos-",
+      "bbox": [
+        476,
+        811,
+        665,
+        831
+      ],
+      "confidence": 0.9550660848617554
+    },
+    {
+      "text": "International",
+      "bbox": [
+        488,
+        804,
+        564,
+        817
+      ],
+      "confidence": 0.9871845245361328
+    },
+    {
+      "text": "Ho-Re-Ca is a",
+      "bbox": [
+        568,
+        803,
+        665,
+        820
+      ],
+      "confidence": 0.9710267186164856
+    },
+    {
+      "text": "which was conducted in eight",
+      "bbox": [
+        79,
+        818,
+        266,
+        839
+      ],
+      "confidence": 0.9676854014396667
+    },
+    {
+      "text": "countries including Hong Kong.",
+      "bbox": [
+        79,
+        828,
+        265,
+        849
+      ],
+      "confidence": 0.9518450498580933
+    },
+    {
+      "text": "It becomes apparent then that",
+      "bbox": [
+        286,
+        821,
+        466,
+        839
+      ],
+      "confidence": 0.9911514520645142
+    },
+    {
+      "text": "pitality industry employers and",
+      "bbox": [
+        475,
+        822,
+        664,
+        841
+      ],
+      "confidence": 0.9866626262664795
+    },
+    {
+      "text": "was that only 17 per cent thought",
+      "bbox": [
+        79,
+        840,
+        265,
+        859
+      ],
+      "confidence": 0.9901171326637268
+    },
+    {
+      "text": "the driving force for restricting",
+      "bbox": [
+        276,
+        833,
+        465,
+        850
+      ],
+      "confidence": 0.986030101776123
+    },
+    {
+      "text": "smoking has come from elsewhere.",
+      "bbox": [
+        276,
+        844,
+        465,
+        860
+      ],
+      "confidence": 0.9971720576286316
+    },
+    {
+      "text": "organisations, founded in 1949 and",
+      "bbox": [
+        475,
+        834,
+        664,
+        852
+      ],
+      "confidence": 0.9807602167129517
+    },
+    {
+      "text": "based in Switzerland. There are 48",
+      "bbox": [
+        475,
+        844,
+        663,
+        862
+      ],
+      "confidence": 0.9756929874420166
+    },
+    {
+      "text": "in proportioning smoking and non-",
+      "bbox": [
+        78,
+        860,
+        265,
+        879
+      ],
+      "confidence": 0.9877722859382629
+    },
+    {
+      "text": "the government should play a part",
+      "bbox": [
+        79,
+        849,
+        265,
+        869
+      ],
+      "confidence": 0.9817157983779907
+    },
+    {
+      "text": "\"In this case a very vocal min-",
+      "bbox": [
+        286,
+        856,
+        465,
+        872
+      ],
+      "confidence": 0.9690303802490234
+    },
+    {
+      "text": "Ho-Re-Ca members in 20 countries.",
+      "bbox": [
+        475,
+        854,
+        662,
+        873
+      ],
+      "confidence": 0.971842885017395
+    },
+    {
+      "text": "smoking areas.",
+      "bbox": [
+        78,
+        869,
+        163,
+        887
+      ],
+      "confidence": 0.9893893003463745
+    },
+    {
+      "text": "crity, often with a high proportion",
+      "bbox": [
+        275,
+        866,
+        464,
+        883
+      ],
+      "confidence": 0.9800122976303101
+    },
+    {
+      "text": "of forelgn activist involvement, has",
+      "bbox": [
+        275,
+        877,
+        463,
+        893
+      ],
+      "confidence": 0.9785176515579224
+    },
+    {
+      "text": "Speakers representing the terri-",
+      "bbox": [
+        485,
+        867,
+        662,
+        885
+      ],
+      "confidence": 0.9850258231163025
+    },
+    {
+      "text": "Federation of Hong Kong Res.",
+      "bbox": [
+        78,
+        892,
+        265,
+        912
+      ],
+      "confidence": 0.9685162901878357
+    },
+    {
+      "text": "William Mark, president of the",
+      "bbox": [
+        89,
+        882,
+        265,
+        901
+      ],
+      "confidence": 0.9813559651374817
+    },
+    {
+      "text": "sought to influence government",
+      "bbox": [
+        274,
+        888,
+        464,
+        904
+      ],
+      "confidence": 0.9808266162872314
+    },
+    {
+      "text": "tory at the congress included Mr",
+      "bbox": [
+        473,
+        878,
+        661,
+        895
+      ],
+      "confidence": 0.9885842800140381
+    },
+    {
+      "text": "Mark and Martin Barrow, chair-",
+      "bbox": [
+        473,
+        888,
+        660,
+        906
+      ],
+      "confidence": 0.9891993403434753
+    },
+    {
+      "text": "taurant Owners, spoke about how",
+      "bbox": [
+        78,
+        902,
+        265,
+        923
+      ],
+      "confidence": 0.9830095767974854
+    },
+    {
+      "text": "into transplanting Western prac-",
+      "bbox": [
+        275,
+        899,
+        463,
+        914
+      ],
+      "confidence": 0.9746133089065552
+    },
+    {
+      "text": "man of the Hong Kong Tourist",
+      "bbox": [
+        473,
+        899,
+        661,
+        917
+      ],
+      "confidence": 0.9340872764587402
+    },
+    {
+      "text": "tices and influences.\" Mr Mark",
+      "bbox": [
+        274,
+        908,
+        463,
+        924
+      ],
+      "confidence": 0.8636302947998047
+    },
+    {
+      "text": "Assoclation.",
+      "bbox": [
+        473,
+        909,
+        543,
+        926
+      ],
+      "confidence": 0.9824936389923096
+    }
+  ],
+  "full_text": "(iCM:INTERNATIONAL HO-RE-CA\nDate: 23.SEP_95\nPub!ication: HONG KONG_STANDARD\nCORPORATE COMMUNICATIONS LTD.\nCirculation: 55,392\nSmoking restrictions up to\nrestaurants: trade group\nBy Suzanne Dennis\nINDIVIDUAL restaurant owners\nshould be able to determine how\nthey cope with the issue of smoic-\ning. an international service group\nhas resolved.\njected the notion that governments\nInternational_Ho-Re-Ca has re-\nshould regulate the issue.\nThe decision was made by del-\negates at the recent 45th Annual\nInternational\nHo-Re-Ca (Inter-\nRestaurants and Cafes) Congress at\nnational Organisation of Hotels,\nthe Holiday Inn Golden Mille.\nThe congress adopted an import-\nant resolution on the subject of\nlegislation restricting the behav-\niour of customers in hotels, res-\ntaurants and cafes. particularly in\nreference\nto\naccommodating\nsmokers and non-smckers in har\nmony.\nThe resolution states the follow.\ning:\ncerned about the growing. almost\nInternational Ho-Re-Ca is con-\npuritanical trend in recent years to\nrestrict or even completely pro-\nhibit any of life's pleasures (eating.\ndrinking. smoking etc).\nConcerning smoking in hotels,\nrestaurants\nand cafes, Inter-\nnational Ho-Re-Ca represents the\nopinion that it is a matter for the\nindividual proprietor to determine,\nwith his customers, whether and in\nareas should be set up.\nwhat way non-smoking rooms or\nInternational Ho-Re-Ca also re-\nBUTT OUT: William Mark —pressura from outside to restriot smoking.\njects, on behalf of the protection of\nfree economic activity, the idea\nthe resolution applied to Hong\nthat the state should enact legal\nKong.\nsaid \"no restaurant is in business\ntoday because it igncred the wishes\nregulations in this area.\nThe adoption of the resolution\n\"Hong Kong poople have always\nof its patrons, and I believe that no\ncame after discussion sparked by a\nfavoured sccommodation when\ndealing with their fellow man, a\nrestaurant should be compelled by\nthose outside the industry to dis-\nresearch study prepared on behalf\nof International Ho-Re-Ca by\nnon-interference with the rights of\nmiss its customers' preferences\nHarris Research in London.\nothers when they don't impinge on\nthemselves, which must be ap-\nlightly\".\nA key finding in this research,\nplauded,\" Mr Mark said.\nworldwide association of hos-\nInternational\nHo-Re-Ca is a\nwhich was conducted in eight\ncountries including Hong Kong.\nIt becomes apparent then that\npitality industry employers and\nwas that only 17 per cent thought\nthe driving force for restricting\nsmoking has come from elsewhere.\norganisations, founded in 1949 and\nbased in Switzerland. There are 48\nin proportioning smoking and non-\nthe government should play a part\n\"In this case a very vocal min-\nHo-Re-Ca members in 20 countries.\nsmoking areas.\ncrity, often with a high proportion\nof forelgn activist involvement, has\nSpeakers representing the terri-\nFederation of Hong Kong Res.\nWilliam Mark, president of the\nsought to influence government\ntory at the congress included Mr\nMark and Martin Barrow, chair-\ntaurant Owners, spoke about how\ninto transplanting Western prac-\nman of the Hong Kong Tourist\ntices and influences.\" Mr Mark\nAssoclation."
+}

@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0238.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": ".-Original Message--",
+      "bbox": [
+        68,
+        102,
+        193,
+        120
+      ],
+      "confidence": 0.9234260320663452
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        63,
+        118,
+        101,
+        135
+      ],
+      "confidence": 0.9994145631790161
+    },
+    {
+      "text": "Friday, August 10, 2001 11:45 AM",
+      "bbox": [
+        161,
+        123,
+        334,
+        147
+      ],
+      "confidence": 0.9787122011184692
+    },
+    {
+      "text": "Berlind, Mark",
+      "bbox": [
+        162,
+        116,
+        230,
+        132
+      ],
+      "confidence": 0.9916266798973083
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        65,
+        132,
+        99,
+        147
+      ],
+      "confidence": 0.9996902346611023
+    },
+    {
+      "text": "Nicol, David; Lindheim, Jim; Haris, Peter L. (PLH); Poole, Jay; Greenberg, David; Parrish, Steve",
+      "bbox": [
+        162,
+        128,
+        642,
+        159
+      ],
+      "confidence": 0.9610226154327393
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        64,
+        154,
+        115,
+        175
+      ],
+      "confidence": 0.9974037408828735
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        65,
+        144,
+        89,
+        160
+      ],
+      "confidence": 0.996758222579956
+    },
+    {
+      "text": "RE: Judge's Comments",
+      "bbox": [
+        162,
+        153,
+        279,
+        174
+      ],
+      "confidence": 0.964542031288147
+    },
+    {
+      "text": "More on this, with language from the full opinion that did not make it into the media reports:",
+      "bbox": [
+        65,
+        164,
+        623,
+        199
+      ],
+      "confidence": 0.9901344776153564
+    },
+    {
+      "text": "While [the MSA] does prohibit much of the misconduct at issue here, it by no means guarantees that",
+      "bbox": [
+        89,
+        190,
+        709,
+        225
+      ],
+      "confidence": 0.9874076247215271
+    },
+    {
+      "text": "Philip Morris wil now become the model corporate citizen which it now claims to be.",
+      "bbox": [
+        90,
+        206,
+        605,
+        239
+      ],
+      "confidence": 0.9781314134597778
+    },
+    {
+      "text": "Effective deterrence involves more than just prohibiting conduct, and requires changing mindsets.",
+      "bbox": [
+        90,
+        234,
+        687,
+        264
+      ],
+      "confidence": 0.989756166934967
+    },
+    {
+      "text": "Philip Morris has, in the past, demonstrated a willingness and ability to achieve its ends by creative",
+      "bbox": [
+        90,
+        248,
+        695,
+        278
+      ],
+      "confidence": 0.9135882258415222
+    },
+    {
+      "text": "means, and the Court cannot predict what those means might in the future be for a corporation with",
+      "bbox": [
+        89,
+        263,
+        697,
+        291
+      ],
+      "confidence": 0.9964357614517212
+    },
+    {
+      "text": "enormous resources profiting from the sale of a life threatening product. Philip Morris can, of course,",
+      "bbox": [
+        89,
+        277,
+        704,
+        307
+      ],
+      "confidence": 0.9141254425048828
+    },
+    {
+      "text": "continue to lawfully sell is product, but it must do so with a mindset far different from that evidenced",
+      "bbox": [
+        89,
+        292,
+        696,
+        319
+      ],
+      "confidence": 0.8835262656211853
+    },
+    {
+      "text": "byts corporate history to date. Such a sea change may have begun to occur at Philip Morris,",
+      "bbox": [
+        90,
+        306,
+        659,
+        333
+      ],
+      "confidence": 0.923578143119812
+    },
+    {
+      "text": "but.the Court finds that deterrence in the form of substantial punitive damages is both necessary and",
+      "bbox": [
+        90,
+        320,
+        707,
+        345
+      ],
+      "confidence": 0.9766683578491211
+    },
+    {
+      "text": "proper to prevent Philip Morris' return to the old mindset or its crafting of ever-more ingenious ways to",
+      "bbox": [
+        90,
+        335,
+        703,
+        358
+      ],
+      "confidence": 0.9788429141044617
+    },
+    {
+      "text": "generate wealth through tortuous means.",
+      "bbox": [
+        93,
+        354,
+        338,
+        368
+      ],
+      "confidence": 0.977750837802887
+    }
+  ],
+  "full_text": ".-Original Message--\nFrom:\nFriday, August 10, 2001 11:45 AM\nBerlind, Mark\nSent:\nNicol, David; Lindheim, Jim; Haris, Peter L. (PLH); Poole, Jay; Greenberg, David; Parrish, Steve\nSubject:\nTo:\nRE: Judge's Comments\nMore on this, with language from the full opinion that did not make it into the media reports:\nWhile [the MSA] does prohibit much of the misconduct at issue here, it by no means guarantees that\nPhilip Morris wil now become the model corporate citizen which it now claims to be.\nEffective deterrence involves more than just prohibiting conduct, and requires changing mindsets.\nPhilip Morris has, in the past, demonstrated a willingness and ability to achieve its ends by creative\nmeans, and the Court cannot predict what those means might in the future be for a corporation with\nenormous resources profiting from the sale of a life threatening product. Philip Morris can, of course,\ncontinue to lawfully sell is product, but it must do so with a mindset far different from that evidenced\nbyts corporate history to date. Such a sea change may have begun to occur at Philip Morris,\nbut.the Court finds that deterrence in the form of substantial punitive damages is both necessary and\nproper to prevent Philip Morris' return to the old mindset or its crafting of ever-more ingenious ways to\ngenerate wealth through tortuous means."
+}

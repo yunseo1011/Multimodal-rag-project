@@ -1,0 +1,941 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0734.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        297,
+        5,
+        475,
+        22
+      ],
+      "confidence": 0.9846550822257996
+    },
+    {
+      "text": "Give the following information for the key personnel and consultants listed on page . Begin with the Principal",
+      "bbox": [
+        98,
+        22,
+        666,
+        46
+      ],
+      "confidence": 0.9382197856903076
+    },
+    {
+      "text": "Investigator/Program Director. Photocopy this page for each person.",
+      "bbox": [
+        213,
+        41,
+        556,
+        57
+      ],
+      "confidence": 0.9985565543174744
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        16,
+        60,
+        61,
+        82
+      ],
+      "confidence": 0.9998442530632019
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        351,
+        73,
+        436,
+        87
+      ],
+      "confidence": 0.9832020998001099
+    },
+    {
+      "text": "BIRTHDATE (Mo., Day, Yr.)",
+      "bbox": [
+        565,
+        72,
+        701,
+        86
+      ],
+      "confidence": 0.9472572803497314
+    },
+    {
+      "text": "Aurelia M.C. Koros",
+      "bbox": [
+        74,
+        91,
+        229,
+        117
+      ],
+      "confidence": 0.9969501495361328
+    },
+    {
+      "text": "Assistant Research Prof",
+      "bbox": [
+        359,
+        103,
+        540,
+        119
+      ],
+      "confidence": 0.9776402115821838
+    },
+    {
+      "text": "8/28/34",
+      "bbox": [
+        572,
+        106,
+        629,
+        120
+      ],
+      "confidence": 0.9997196793556213
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        122,
+        137,
+        285,
+        152
+      ],
+      "confidence": 0.9966188073158264
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        401,
+        136,
+        449,
+        153
+      ],
+      "confidence": 0.9997403621673584
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        501,
+        133,
+        533,
+        148
+      ],
+      "confidence": 0.9997203350067139
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        601,
+        141,
+        692,
+        154
+      ],
+      "confidence": 0.9862298369407654
+    },
+    {
+      "text": "Radcliffe College, Harvard University",
+      "bbox": [
+        13,
+        152,
+        332,
+        184
+      ],
+      "confidence": 0.993861198425293
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        482,
+        145,
+        551,
+        162
+      ],
+      "confidence": 0.9766413569450378
+    },
+    {
+      "text": "Cambridge, MA",
+      "bbox": [
+        27,
+        170,
+        146,
+        193
+      ],
+      "confidence": 0.9992900490760803
+    },
+    {
+      "text": "A.B.",
+      "bbox": [
+        397,
+        164,
+        431,
+        179
+      ],
+      "confidence": 0.999724805355072
+    },
+    {
+      "text": "1956",
+      "bbox": [
+        497,
+        166,
+        530,
+        181
+      ],
+      "confidence": 0.9999579787254333
+    },
+    {
+      "text": "Biological Science",
+      "bbox": [
+        578,
+        166,
+        723,
+        185
+      ],
+      "confidence": 0.9993516206741333
+    },
+    {
+      "text": "Univ. of Pittsburgh, Pittsburgh, PA",
+      "bbox": [
+        18,
+        186,
+        315,
+        211
+      ],
+      "confidence": 0.9968873262405396
+    },
+    {
+      "text": "M.S.",
+      "bbox": [
+        394,
+        193,
+        431,
+        212
+      ],
+      "confidence": 0.993406355381012
+    },
+    {
+      "text": "1960",
+      "bbox": [
+        495,
+        193,
+        533,
+        214
+      ],
+      "confidence": 0.9999409914016724
+    },
+    {
+      "text": "Zoology",
+      "bbox": [
+        578,
+        196,
+        638,
+        217
+      ],
+      "confidence": 0.9975282549858093
+    },
+    {
+      "text": "Univ. of Pittsburgh, School of Medicine",
+      "bbox": [
+        18,
+        204,
+        346,
+        226
+      ],
+      "confidence": 0.9837684631347656
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        397,
+        211,
+        438,
+        226
+      ],
+      "confidence": 0.9995434880256653
+    },
+    {
+      "text": "1965",
+      "bbox": [
+        496,
+        211,
+        532,
+        229
+      ],
+      "confidence": 0.9996513724327087
+    },
+    {
+      "text": "Microbiology",
+      "bbox": [
+        578,
+        211,
+        676,
+        233
+      ],
+      "confidence": 0.9998586177825928
+    },
+    {
+      "text": "Pittsburgh, PA",
+      "bbox": [
+        28,
+        221,
+        153,
+        239
+      ],
+      "confidence": 0.9826717376708984
+    },
+    {
+      "text": "EXCEED TWO PAGES",
+      "bbox": [
+        23,
+        286,
+        144,
+        301
+      ],
+      "confidence": 0.9847133755683899
+    },
+    {
+      "text": "PROFESSIONAL EXPERIENCE",
+      "bbox": [
+        55,
+        304,
+        242,
+        319
+      ],
+      "confidence": 0.9993144869804382
+    },
+    {
+      "text": "Research Assistant, Department of Obstetrics and Gynecology,",
+      "bbox": [
+        187,
+        319,
+        664,
+        347
+      ],
+      "confidence": 0.9848986268043518
+    },
+    {
+      "text": "1956-1958",
+      "bbox": [
+        56,
+        326,
+        131,
+        340
+      ],
+      "confidence": 0.9942643046379089
+    },
+    {
+      "text": "Peter Bent Brigham, Hospital, Harvard Medical School, Boston,",
+      "bbox": [
+        187,
+        335,
+        673,
+        361
+      ],
+      "confidence": 0.9882805347442627
+    },
+    {
+      "text": "MA",
+      "bbox": [
+        187,
+        349,
+        212,
+        368
+      ],
+      "confidence": 0.9994776248931885
+    },
+    {
+      "text": "1958-1960",
+      "bbox": [
+        56,
+        363,
+        133,
+        382
+      ],
+      "confidence": 0.9986805319786072
+    },
+    {
+      "text": "Graduate Student/Teaching Assistant, Department of Biological",
+      "bbox": [
+        187,
+        361,
+        675,
+        386
+      ],
+      "confidence": 0.9908268451690674
+    },
+    {
+      "text": "Sciences, University of Pittsburgh, Pittsburgh, PA",
+      "bbox": [
+        187,
+        374,
+        589,
+        399
+      ],
+      "confidence": 0.9529562592506409
+    },
+    {
+      "text": "1960-1965",
+      "bbox": [
+        57,
+        390,
+        133,
+        409
+      ],
+      "confidence": 0.9992835521697998
+    },
+    {
+      "text": "Predoctoral Fellow, Department of Microbiology, University of",
+      "bbox": [
+        187,
+        388,
+        677,
+        414
+      ],
+      "confidence": 0.9771433472633362
+    },
+    {
+      "text": "Pittsburgh School of Medicine, Pittsburgh, PA",
+      "bbox": [
+        187,
+        400,
+        552,
+        425
+      ],
+      "confidence": 0.8993504047393799
+    },
+    {
+      "text": "1965-1966",
+      "bbox": [
+        57,
+        416,
+        133,
+        437
+      ],
+      "confidence": 0.9996045231819153
+    },
+    {
+      "text": "Postdoctoral Fellow, Department of Microbiology, University",
+      "bbox": [
+        187,
+        414,
+        661,
+        440
+      ],
+      "confidence": 0.9321748614311218
+    },
+    {
+      "text": "of Pittsburgh, School of Medicine Pittsburgh, PA",
+      "bbox": [
+        187,
+        427,
+        574,
+        453
+      ],
+      "confidence": 0.868747889995575
+    },
+    {
+      "text": "Instructor, Department of Microbiology, University of",
+      "bbox": [
+        186,
+        441,
+        613,
+        467
+      ],
+      "confidence": 0.9668008089065552
+    },
+    {
+      "text": "1966-1967",
+      "bbox": [
+        59,
+        447,
+        132,
+        461
+      ],
+      "confidence": 0.9483372569084167
+    },
+    {
+      "text": "Pittsburgh School of Medicine, Pittsburgh, PA",
+      "bbox": [
+        186,
+        454,
+        552,
+        479
+      ],
+      "confidence": 0.9187899827957153
+    },
+    {
+      "text": "1967-1973",
+      "bbox": [
+        58,
+        471,
+        132,
+        488
+      ],
+      "confidence": 0.9858732223510742
+    },
+    {
+      "text": "Assistant Professor, Department of Microbiology, University",
+      "bbox": [
+        186,
+        469,
+        662,
+        493
+      ],
+      "confidence": 0.9809873700141907
+    },
+    {
+      "text": "of Pittsburgh School of Medicine, Pittsburgh, PA",
+      "bbox": [
+        186,
+        481,
+        574,
+        506
+      ],
+      "confidence": 0.8547254204750061
+    },
+    {
+      "text": "19731977",
+      "bbox": [
+        58,
+        497,
+        131,
+        514
+      ],
+      "confidence": 0.999968409538269
+    },
+    {
+      "text": "Assistant Research Professor, Departments of obstetrics and",
+      "bbox": [
+        185,
+        495,
+        663,
+        520
+      ],
+      "confidence": 0.9771738052368164
+    },
+    {
+      "text": "Gynecology, and Pathology, Magee Womens Hospital, University",
+      "bbox": [
+        186,
+        510,
+        669,
+        532
+      ],
+      "confidence": 0.9868797659873962
+    },
+    {
+      "text": "of Pittsburgh School of Medicine, Pittsburgh, PA",
+      "bbox": [
+        186,
+        522,
+        573,
+        544
+      ],
+      "confidence": 0.9801796078681946
+    },
+    {
+      "text": "1977-1980",
+      "bbox": [
+        58,
+        537,
+        131,
+        554
+      ],
+      "confidence": 0.9988502860069275
+    },
+    {
+      "text": "Research Associate and Assistant Biologist, Division of",
+      "bbox": [
+        185,
+        536,
+        628,
+        559
+      ],
+      "confidence": 0.9736402630805969
+    },
+    {
+      "text": "Radiation Oncology, Allegheny General Hospital, Pittsburgh,",
+      "bbox": [
+        184,
+        548,
+        658,
+        575
+      ],
+      "confidence": 0.9656647443771362
+    },
+    {
+      "text": "Virology Laboratory Supervisor, Allegheny County Health",
+      "bbox": [
+        184,
+        575,
+        628,
+        600
+      ],
+      "confidence": 0.9961830973625183
+    },
+    {
+      "text": "PA",
+      "bbox": [
+        186,
+        564,
+        208,
+        580
+      ],
+      "confidence": 0.9996873140335083
+    },
+    {
+      "text": "1980--1982",
+      "bbox": [
+        57,
+        578,
+        129,
+        592
+      ],
+      "confidence": 0.9521991014480591
+    },
+    {
+      "text": "Department, Pittsburgh, PA",
+      "bbox": [
+        184,
+        589,
+        396,
+        610
+      ],
+      "confidence": 0.9817195534706116
+    },
+    {
+      "text": "1981-present",
+      "bbox": [
+        53,
+        602,
+        152,
+        621
+      ],
+      "confidence": 0.9993066787719727
+    },
+    {
+      "text": "Assistant Research Professor, Department of Infectious",
+      "bbox": [
+        183,
+        601,
+        621,
+        625
+      ],
+      "confidence": 0.9728930592536926
+    },
+    {
+      "text": "Diseases and Microbiology, Graduate School of Public Health,",
+      "bbox": [
+        182,
+        614,
+        665,
+        640
+      ],
+      "confidence": 0.967592179775238
+    },
+    {
+      "text": "University of Pittsburgh, Pittsburgh, PA",
+      "bbox": [
+        183,
+        628,
+        508,
+        653
+      ],
+      "confidence": 0.9687641263008118
+    },
+    {
+      "text": "HONORS",
+      "bbox": [
+        48,
+        653,
+        103,
+        673
+      ],
+      "confidence": 0.9992911219596863
+    },
+    {
+      "text": "1966",
+      "bbox": [
+        50,
+        682,
+        86,
+        698
+      ],
+      "confidence": 0.9999339580535889
+    },
+    {
+      "text": "Special travel award from ASM to 1oth International Congress for",
+      "bbox": [
+        143,
+        682,
+        660,
+        705
+      ],
+      "confidence": 0.9881957769393921
+    },
+    {
+      "text": "Microbiology, Moscow, U.S.S.R.",
+      "bbox": [
+        142,
+        694,
+        383,
+        716
+      ],
+      "confidence": 0.9948753714561462
+    },
+    {
+      "text": "1976",
+      "bbox": [
+        46,
+        705,
+        87,
+        726
+      ],
+      "confidence": 0.9999675750732422
+    },
+    {
+      "text": "Listed in Who's Who of American Wamen",
+      "bbox": [
+        142,
+        708,
+        443,
+        730
+      ],
+      "confidence": 0.9518165588378906
+    },
+    {
+      "text": "1978",
+      "bbox": [
+        46,
+        721,
+        85,
+        739
+      ],
+      "confidence": 0.9972931742668152
+    },
+    {
+      "text": "Listed in American Men and Women in Science",
+      "bbox": [
+        142,
+        721,
+        491,
+        743
+      ],
+      "confidence": 0.9807379245758057
+    },
+    {
+      "text": "1988",
+      "bbox": [
+        45,
+        733,
+        84,
+        751
+      ],
+      "confidence": 0.9988747835159302
+    },
+    {
+      "text": "International Society for the Study of Lung Cancer Travel Award to",
+      "bbox": [
+        142,
+        734,
+        675,
+        759
+      ],
+      "confidence": 0.9881141185760498
+    },
+    {
+      "text": "present talk and poster at Fifth World Conference on Lung Cancer",
+      "bbox": [
+        140,
+        747,
+        660,
+        773
+      ],
+      "confidence": 0.9886417984962463
+    },
+    {
+      "text": "1989",
+      "bbox": [
+        44,
+        762,
+        82,
+        777
+      ],
+      "confidence": 0.9999797344207764
+    },
+    {
+      "text": "Fidia Fellowship to present talk, poster at International Congress",
+      "bbox": [
+        140,
+        760,
+        675,
+        787
+      ],
+      "confidence": 0.9767014384269714
+    },
+    {
+      "text": "on \"Distress, Neuroimmunomodulation, and Ontogeny\" in Madonna di",
+      "bbox": [
+        139,
+        774,
+        658,
+        801
+      ],
+      "confidence": 0.9817480444908142
+    },
+    {
+      "text": "Campiglio, Italy",
+      "bbox": [
+        139,
+        787,
+        274,
+        807
+      ],
+      "confidence": 0.8831256628036499
+    },
+    {
+      "text": "1990",
+      "bbox": [
+        40,
+        801,
+        79,
+        817
+      ],
+      "confidence": 0.9999752044677734
+    },
+    {
+      "text": "Marine Biological Association of the United Kingdom Award to study",
+      "bbox": [
+        136,
+        797,
+        676,
+        829
+      ],
+      "confidence": 0.9886872172355652
+    },
+    {
+      "text": "\"Natural Killer Cells: Evolutionarily Conserved Features\"",
+      "bbox": [
+        137,
+        811,
+        607,
+        841
+      ],
+      "confidence": 0.9725051522254944
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        38,
+        829,
+        78,
+        844
+      ],
+      "confidence": 0.9998857378959656
+    },
+    {
+      "text": "\"Future of Lung Cancer\" Keynote speaker Montpellier, France",
+      "bbox": [
+        136,
+        825,
+        620,
+        855
+      ],
+      "confidence": 0.9871248006820679
+    },
+    {
+      "text": "\"Neuroendocrine Antigen Expression: Practical and Theoretical",
+      "bbox": [
+        137,
+        840,
+        641,
+        868
+      ],
+      "confidence": 0.9840894937515259
+    },
+    {
+      "text": "Aspects Related to Lung Cancer\"",
+      "bbox": [
+        136,
+        854,
+        391,
+        876
+      ],
+      "confidence": 0.9941549897193909
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        36,
+        869,
+        75,
+        884
+      ],
+      "confidence": 0.9999511241912842
+    },
+    {
+      "text": "Best overall poster award from Allegheny-Erie Branch Society of",
+      "bbox": [
+        135,
+        866,
+        652,
+        897
+      ],
+      "confidence": 0.9860324263572693
+    },
+    {
+      "text": "Toxicology for \"Neuroendocrine Marker Expression on Sea Urchin",
+      "bbox": [
+        134,
+        878,
+        644,
+        912
+      ],
+      "confidence": 0.9793882966041565
+    },
+    {
+      "text": "Coelomocytes and other Imunoregulatory Parameters May be Used to",
+      "bbox": [
+        134,
+        892,
+        668,
+        928
+      ],
+      "confidence": 0.9817900657653809
+    },
+    {
+      "text": "Monitor Environmental Changes\"",
+      "bbox": [
+        134,
+        908,
+        381,
+        931
+      ],
+      "confidence": 0.9834555983543396
+    },
+    {
+      "text": "PHS 398 (Rev. 10/8S) (Reprinted 9/89)",
+      "bbox": [
+        10,
+        978,
+        204,
+        992
+      ],
+      "confidence": 0.97200608253479
+    },
+    {
+      "text": "Fage .",
+      "bbox": [
+        343,
+        980,
+        407,
+        1000
+      ],
+      "confidence": 0.8026044368743896
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nGive the following information for the key personnel and consultants listed on page . Begin with the Principal\nInvestigator/Program Director. Photocopy this page for each person.\nNAME\nPOSITION TITLE\nBIRTHDATE (Mo., Day, Yr.)\nAurelia M.C. Koros\nAssistant Research Prof\n8/28/34\nINSTITUTION AND LOCATION\nDEGREE\nYEAR\nFIELD OF STUDY\nRadcliffe College, Harvard University\nCONFERRED\nCambridge, MA\nA.B.\n1956\nBiological Science\nUniv. of Pittsburgh, Pittsburgh, PA\nM.S.\n1960\nZoology\nUniv. of Pittsburgh, School of Medicine\nPh.D.\n1965\nMicrobiology\nPittsburgh, PA\nEXCEED TWO PAGES\nPROFESSIONAL EXPERIENCE\nResearch Assistant, Department of Obstetrics and Gynecology,\n1956-1958\nPeter Bent Brigham, Hospital, Harvard Medical School, Boston,\nMA\n1958-1960\nGraduate Student/Teaching Assistant, Department of Biological\nSciences, University of Pittsburgh, Pittsburgh, PA\n1960-1965\nPredoctoral Fellow, Department of Microbiology, University of\nPittsburgh School of Medicine, Pittsburgh, PA\n1965-1966\nPostdoctoral Fellow, Department of Microbiology, University\nof Pittsburgh, School of Medicine Pittsburgh, PA\nInstructor, Department of Microbiology, University of\n1966-1967\nPittsburgh School of Medicine, Pittsburgh, PA\n1967-1973\nAssistant Professor, Department of Microbiology, University\nof Pittsburgh School of Medicine, Pittsburgh, PA\n19731977\nAssistant Research Professor, Departments of obstetrics and\nGynecology, and Pathology, Magee Womens Hospital, University\nof Pittsburgh School of Medicine, Pittsburgh, PA\n1977-1980\nResearch Associate and Assistant Biologist, Division of\nRadiation Oncology, Allegheny General Hospital, Pittsburgh,\nVirology Laboratory Supervisor, Allegheny County Health\nPA\n1980--1982\nDepartment, Pittsburgh, PA\n1981-present\nAssistant Research Professor, Department of Infectious\nDiseases and Microbiology, Graduate School of Public Health,\nUniversity of Pittsburgh, Pittsburgh, PA\nHONORS\n1966\nSpecial travel award from ASM to 1oth International Congress for\nMicrobiology, Moscow, U.S.S.R.\n1976\nListed in Who's Who of American Wamen\n1978\nListed in American Men and Women in Science\n1988\nInternational Society for the Study of Lung Cancer Travel Award to\npresent talk and poster at Fifth World Conference on Lung Cancer\n1989\nFidia Fellowship to present talk, poster at International Congress\non \"Distress, Neuroimmunomodulation, and Ontogeny\" in Madonna di\nCampiglio, Italy\n1990\nMarine Biological Association of the United Kingdom Award to study\n\"Natural Killer Cells: Evolutionarily Conserved Features\"\n1991\n\"Future of Lung Cancer\" Keynote speaker Montpellier, France\n\"Neuroendocrine Antigen Expression: Practical and Theoretical\nAspects Related to Lung Cancer\"\n1991\nBest overall poster award from Allegheny-Erie Branch Society of\nToxicology for \"Neuroendocrine Marker Expression on Sea Urchin\nCoelomocytes and other Imunoregulatory Parameters May be Used to\nMonitor Environmental Changes\"\nPHS 398 (Rev. 10/8S) (Reprinted 9/89)\nFage ."
+}

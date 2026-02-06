@@ -1,0 +1,211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0253.png",
+    "image_width": 784,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "man.7.- 93",
+      "bbox": [
+        575,
+        301,
+        723,
+        342
+      ],
+      "confidence": 0.7741042971611023
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        347,
+        323,
+        458,
+        363
+      ],
+      "confidence": 0.9871464967727661
+    },
+    {
+      "text": "MAY Dar diis",
+      "bbox": [
+        345,
+        355,
+        559,
+        402
+      ],
+      "confidence": 0.6322891116142273
+    },
+    {
+      "text": "I know Yon don't",
+      "bbox": [
+        454,
+        399,
+        777,
+        435
+      ],
+      "confidence": 0.8164651989936829
+    },
+    {
+      "text": "pay low sitsomony",
+      "bbox": [
+        399,
+        434,
+        783,
+        471
+      ],
+      "confidence": 0.7652268409729004
+    },
+    {
+      "text": "if people tate fou",
+      "bbox": [
+        400,
+        468,
+        770,
+        504
+      ],
+      "confidence": 0.7360684871673584
+    },
+    {
+      "text": "to boust.",
+      "bbox": [
+        394,
+        499,
+        568,
+        539
+      ],
+      "confidence": 0.7946613430976868
+    },
+    {
+      "text": "But l a bepping",
+      "bbox": [
+        439,
+        532,
+        781,
+        574
+      ],
+      "confidence": 0.8448900580406189
+    },
+    {
+      "text": "notfomeformy",
+      "bbox": [
+        396,
+        569,
+        769,
+        612
+      ],
+      "confidence": 0.6267311573028564
+    },
+    {
+      "text": "son.",
+      "bbox": [
+        400,
+        611,
+        489,
+        639
+      ],
+      "confidence": 0.8657844662666321
+    },
+    {
+      "text": "ifis Fatter didn",
+      "bbox": [
+        421,
+        632,
+        771,
+        678
+      ],
+      "confidence": 0.655884861946106
+    },
+    {
+      "text": "1984.he wo215d",
+      "bbox": [
+        401,
+        671,
+        735,
+        711
+      ],
+      "confidence": 0.6968931555747986
+    },
+    {
+      "text": "2otRim though hih",
+      "bbox": [
+        400,
+        707,
+        778,
+        745
+      ],
+      "confidence": 0.6760551929473877
+    },
+    {
+      "text": "Letral.",
+      "bbox": [
+        401,
+        740,
+        530,
+        773
+      ],
+      "confidence": 0.7306985259056091
+    },
+    {
+      "text": "now we hove q 1",
+      "bbox": [
+        413,
+        767,
+        762,
+        815
+      ],
+      "confidence": 0.6471067070960999
+    },
+    {
+      "text": "yeons of loelege lipt",
+      "bbox": [
+        393,
+        807,
+        778,
+        850
+      ],
+      "confidence": 0.7235741019248962
+    },
+    {
+      "text": "andnomon.",
+      "bbox": [
+        399,
+        842,
+        651,
+        888
+      ],
+      "confidence": 0.7756351828575134
+    },
+    {
+      "text": "I wok ara look",
+      "bbox": [
+        417,
+        879,
+        751,
+        921
+      ],
+      "confidence": 0.7739782333374023
+    },
+    {
+      "text": "post temein utinter",
+      "bbox": [
+        390,
+        911,
+        743,
+        959
+      ],
+      "confidence": 0.7141644954681396
+    },
+    {
+      "text": "51360 1254",
+      "bbox": [
+        612,
+        960,
+        716,
+        986
+      ],
+      "confidence": 0.9999171495437622
+    }
+  ],
+  "full_text": "man.7.- 93\nRECEIVED\nMAY Dar diis\nI know Yon don't\npay low sitsomony\nif people tate fou\nto boust.\nBut l a bepping\nnotfomeformy\nson.\nifis Fatter didn\n1984.he wo215d\n2otRim though hih\nLetral.\nnow we hove q 1\nyeons of loelege lipt\nandnomon.\nI wok ara look\npost temein utinter\n51360 1254"
+}

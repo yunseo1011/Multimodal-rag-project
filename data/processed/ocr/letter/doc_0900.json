@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0900.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        113,
+        78,
+        488,
+        115
+      ],
+      "confidence": 0.9902063012123108
+    },
+    {
+      "text": "1875 I STREET. NORTHWEST",
+      "bbox": [
+        305,
+        112,
+        485,
+        129
+      ],
+      "confidence": 0.9818455576896667
+    },
+    {
+      "text": "WASHINGTON. DC 20006",
+      "bbox": [
+        337,
+        127,
+        484,
+        144
+      ],
+      "confidence": 0.9939906001091003
+    },
+    {
+      "text": "WILLIAM KLOEPFER, JR.",
+      "bbox": [
+        575,
+        117,
+        720,
+        137
+      ],
+      "confidence": 0.9957495927810669
+    },
+    {
+      "text": "202/457-4800 • 800/424-9876",
+      "bbox": [
+        323,
+        141,
+        484,
+        158
+      ],
+      "confidence": 0.9707476496696472
+    },
+    {
+      "text": "Senior Vice President-",
+      "bbox": [
+        594,
+        132,
+        720,
+        150
+      ],
+      "confidence": 0.9988284707069397
+    },
+    {
+      "text": "Public Relations",
+      "bbox": [
+        626,
+        145,
+        720,
+        165
+      ],
+      "confidence": 0.9985212087631226
+    },
+    {
+      "text": "202/457-4861",
+      "bbox": [
+        643,
+        163,
+        718,
+        177
+      ],
+      "confidence": 0.9997405409812927
+    },
+    {
+      "text": "November 9, 1981",
+      "bbox": [
+        382,
+        213,
+        562,
+        236
+      ],
+      "confidence": 0.9997807145118713
+    },
+    {
+      "text": "Ms. Anne Shank-Volk",
+      "bbox": [
+        112,
+        365,
+        321,
+        382
+      ],
+      "confidence": 0.9674763083457947
+    },
+    {
+      "text": "President",
+      "bbox": [
+        111,
+        381,
+        215,
+        401
+      ],
+      "confidence": 0.9976384043693542
+    },
+    {
+      "text": "CNBAM",
+      "bbox": [
+        112,
+        399,
+        172,
+        417
+      ],
+      "confidence": 0.9999273419380188
+    },
+    {
+      "text": "34 Nebraska Union",
+      "bbox": [
+        113,
+        417,
+        299,
+        434
+      ],
+      "confidence": 0.9997987151145935
+    },
+    {
+      "text": "1400 R Street",
+      "bbox": [
+        112,
+        434,
+        257,
+        452
+      ],
+      "confidence": 0.9422934055328369
+    },
+    {
+      "text": "Lincoln, NE",
+      "bbox": [
+        111,
+        451,
+        238,
+        471
+      ],
+      "confidence": 0.9990466833114624
+    },
+    {
+      "text": "68588",
+      "bbox": [
+        250,
+        451,
+        313,
+        469
+      ],
+      "confidence": 0.9999029040336609
+    },
+    {
+      "text": "Dear Ms. Shank-Volk:",
+      "bbox": [
+        111,
+        486,
+        330,
+        503
+      ],
+      "confidence": 0.9992219805717468
+    },
+    {
+      "text": "Your October 20 letter reached me for response. We",
+      "bbox": [
+        107,
+        515,
+        669,
+        544
+      ],
+      "confidence": 0.9733624458312988
+    },
+    {
+      "text": "very much appreciate your statement of the importance",
+      "bbox": [
+        107,
+        534,
+        688,
+        562
+      ],
+      "confidence": 0.9989599585533142
+    },
+    {
+      "text": "of college newspapers.",
+      "bbox": [
+        109,
+        552,
+        352,
+        576
+      ],
+      "confidence": 0.9971730709075928
+    },
+    {
+      "text": "On the other hand, The Tobacco Institute itself is not",
+      "bbox": [
+        108,
+        585,
+        700,
+        612
+      ],
+      "confidence": 0.9802441596984863
+    },
+    {
+      "text": "a participant in the development of advertising policies",
+      "bbox": [
+        107,
+        604,
+        721,
+        629
+      ],
+      "confidence": 0.9870714545249939
+    },
+    {
+      "text": "by our individual member companies. The voluntary",
+      "bbox": [
+        107,
+        621,
+        657,
+        646
+      ],
+      "confidence": 0.9973470568656921
+    },
+    {
+      "text": "restraint which they have exercised for about i8 years",
+      "bbox": [
+        107,
+        638,
+        702,
+        664
+      ],
+      "confidence": 0.9913208484649658
+    },
+    {
+      "text": "was a matter of agreement among them.",
+      "bbox": [
+        108,
+        658,
+        515,
+        678
+      ],
+      "confidence": 0.9877063632011414
+    },
+    {
+      "text": "Accordingly I am taking the liberty of forwarding your",
+      "bbox": [
+        108,
+        687,
+        704,
+        716
+      ],
+      "confidence": 0.9955629706382751
+    },
+    {
+      "text": "letter to the individual cigarette manufacturing",
+      "bbox": [
+        109,
+        707,
+        638,
+        731
+      ],
+      "confidence": 0.9922804832458496
+    },
+    {
+      "text": "companies and I am sorry circumstances do not permit",
+      "bbox": [
+        109,
+        725,
+        683,
+        746
+      ],
+      "confidence": 0.992360532283783
+    },
+    {
+      "text": "a direct response from The Institute itself.",
+      "bbox": [
+        111,
+        744,
+        592,
+        761
+      ],
+      "confidence": 0.9914163947105408
+    },
+    {
+      "text": "1005057168",
+      "bbox": [
+        702,
+        757,
+        743,
+        920
+      ],
+      "confidence": 0.9999249577522278
+    },
+    {
+      "text": "Cordially,",
+      "bbox": [
+        383,
+        773,
+        495,
+        798
+      ],
+      "confidence": 0.9998204112052917
+    },
+    {
+      "text": "William Kloepfer,",
+      "bbox": [
+        383,
+        841,
+        580,
+        867
+      ],
+      "confidence": 0.9849090576171875
+    },
+    {
+      "text": "WKjr:mss",
+      "bbox": [
+        111,
+        879,
+        207,
+        903
+      ],
+      "confidence": 0.9678746461868286
+    }
+  ],
+  "full_text": "THE TOBACCO INSTITUTE\n1875 I STREET. NORTHWEST\nWASHINGTON. DC 20006\nWILLIAM KLOEPFER, JR.\n202/457-4800 • 800/424-9876\nSenior Vice President-\nPublic Relations\n202/457-4861\nNovember 9, 1981\nMs. Anne Shank-Volk\nPresident\nCNBAM\n34 Nebraska Union\n1400 R Street\nLincoln, NE\n68588\nDear Ms. Shank-Volk:\nYour October 20 letter reached me for response. We\nvery much appreciate your statement of the importance\nof college newspapers.\nOn the other hand, The Tobacco Institute itself is not\na participant in the development of advertising policies\nby our individual member companies. The voluntary\nrestraint which they have exercised for about i8 years\nwas a matter of agreement among them.\nAccordingly I am taking the liberty of forwarding your\nletter to the individual cigarette manufacturing\ncompanies and I am sorry circumstances do not permit\na direct response from The Institute itself.\n1005057168\nCordially,\nWilliam Kloepfer,\nWKjr:mss"
+}

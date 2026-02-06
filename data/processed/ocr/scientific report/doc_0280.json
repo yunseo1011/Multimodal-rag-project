@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0280.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RECEIPT MAIL",
+      "bbox": [
+        728,
+        12,
+        777,
+        58
+      ],
+      "confidence": 0.9410631060600281
+    },
+    {
+      "text": "CRC",
+      "bbox": [
+        30,
+        34,
+        176,
+        98
+      ],
+      "confidence": 0.9891385436058044
+    },
+    {
+      "text": "CONTRACT RESEARCH CENTER BVBAISPRL",
+      "bbox": [
+        176,
+        57,
+        777,
+        111
+      ],
+      "confidence": 0.9238425493240356
+    },
+    {
+      "text": "B-1932 Zaventem",
+      "bbox": [
+        612,
+        152,
+        743,
+        176
+      ],
+      "confidence": 0.9935195446014404
+    },
+    {
+      "text": "Tollaan / Avenue du Peage 1Olc",
+      "bbox": [
+        610,
+        171,
+        777,
+        196
+      ],
+      "confidence": 0.9159764051437378
+    },
+    {
+      "text": "Fabriques de Tabac Réunles S.A.",
+      "bbox": [
+        60,
+        194,
+        442,
+        229
+      ],
+      "confidence": 0.9725884199142456
+    },
+    {
+      "text": "Telcfova / T€léphone: 02-720 81 74",
+      "bbox": [
+        610,
+        205,
+        777,
+        233
+      ],
+      "confidence": 0.854856014251709
+    },
+    {
+      "text": "CH-2003 Neuchatel",
+      "bbox": [
+        60,
+        231,
+        282,
+        264
+      ],
+      "confidence": 0.9772793054580688
+    },
+    {
+      "text": "Telctax / Teicfax: 02 - 725 12 09.",
+      "bbox": [
+        609,
+        225,
+        777,
+        251
+      ],
+      "confidence": 0.9056405425071716
+    },
+    {
+      "text": "Switzerland",
+      "bbox": [
+        60,
+        288,
+        192,
+        320
+      ],
+      "confidence": 0.9990619421005249
+    },
+    {
+      "text": "DATE-IN",
+      "bbox": [
+        654,
+        321,
+        777,
+        364
+      ],
+      "confidence": 0.9982113838195801
+    },
+    {
+      "text": "5.APR. 1903",
+      "bbox": [
+        695,
+        357,
+        777,
+        395
+      ],
+      "confidence": 0.8837096691131592
+    },
+    {
+      "text": "Projet do.: . B1022",
+      "bbox": [
+        33,
+        410,
+        212,
+        439
+      ],
+      "confidence": 0.7553828954696655
+    },
+    {
+      "text": "P 0500/3136",
+      "bbox": [
+        251,
+        410,
+        387,
+        437
+      ],
+      "confidence": 0.948124349117279
+    },
+    {
+      "text": "Type:",
+      "bbox": [
+        33,
+        574,
+        84,
+        603
+      ],
+      "confidence": 0.9353020787239075
+    },
+    {
+      "text": "Report",
+      "bbox": [
+        129,
+        569,
+        232,
+        604
+      ],
+      "confidence": 0.9996514916419983
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        601,
+        573,
+        657,
+        603
+      ],
+      "confidence": 0.912453830242157
+    },
+    {
+      "text": "2 Apr.93",
+      "bbox": [
+        688,
+        569,
+        777,
+        606
+      ],
+      "confidence": 0.9847517013549805
+    },
+    {
+      "text": ".Lecadion",
+      "bbox": [
+        185,
+        611,
+        293,
+        628
+      ],
+      "confidence": 0.7454617023468018
+    },
+    {
+      "text": "Hesas",
+      "bbox": [
+        355,
+        614,
+        422,
+        628
+      ],
+      "confidence": 0.637169599533081
+    },
+    {
+      "text": "zat",
+      "bbox": [
+        461,
+        612,
+        504,
+        633
+      ],
+      "confidence": 0.9745974540710449
+    },
+    {
+      "text": "Copy no.:",
+      "bbox": [
+        603,
+        613,
+        683,
+        644
+      ],
+      "confidence": 0.9946507215499878
+    },
+    {
+      "text": "2",
+      "bbox": [
+        684,
+        617,
+        726,
+        651
+      ],
+      "confidence": 0.9921155571937561
+    },
+    {
+      "text": "r",
+      "bbox": [
+        190,
+        677,
+        209,
+        689
+      ],
+      "confidence": 0.7258126139640808
+    },
+    {
+      "text": ".minat",
+      "bbox": [
+        432,
+        675,
+        510,
+        692
+      ],
+      "confidence": 0.8465378284454346
+    },
+    {
+      "text": "Plojciude:",
+      "bbox": [
+        27,
+        720,
+        120,
+        744
+      ],
+      "confidence": 0.711510956287384
+    },
+    {
+      "text": "stlstics",
+      "bbox": [
+        152,
+        725,
+        253,
+        747
+      ],
+      "confidence": 0.819697380065918
+    },
+    {
+      "text": "1, 1",
+      "bbox": [
+        131,
+        729,
+        151,
+        741
+      ],
+      "confidence": 0.7586085796356201
+    },
+    {
+      "text": ".:.ion",
+      "bbox": [
+        365,
+        731,
+        430,
+        749
+      ],
+      "confidence": 0.819523274898529
+    }
+  ],
+  "full_text": "RECEIPT MAIL\nCRC\nCONTRACT RESEARCH CENTER BVBAISPRL\nB-1932 Zaventem\nTollaan / Avenue du Peage 1Olc\nFabriques de Tabac Réunles S.A.\nTelcfova / T€léphone: 02-720 81 74\nCH-2003 Neuchatel\nTelctax / Teicfax: 02 - 725 12 09.\nSwitzerland\nDATE-IN\n5.APR. 1903\nProjet do.: . B1022\nP 0500/3136\nType:\nReport\nDate:\n2 Apr.93\n.Lecadion\nHesas\nzat\nCopy no.:\n2\nr\n.minat\nPlojciude:\nstlstics\n1, 1\n.:.ion"
+}

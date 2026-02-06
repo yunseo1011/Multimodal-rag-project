@@ -1,0 +1,1811 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0346.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "TIMES HERALD",
+      "bbox": [
+        11,
+        131,
+        144,
+        155
+      ],
+      "confidence": 0.9996076226234436
+    },
+    {
+      "text": "NORRISTOWN, PA",
+      "bbox": [
+        25,
+        155,
+        132,
+        178
+      ],
+      "confidence": 0.9819669723510742
+    },
+    {
+      "text": "THURSDAY",
+      "bbox": [
+        7,
+        169,
+        71,
+        188
+      ],
+      "confidence": 0.9436511397361755
+    },
+    {
+      "text": "JUN 1 2000",
+      "bbox": [
+        37,
+        184,
+        123,
+        206
+      ],
+      "confidence": 0.992276668548584
+    },
+    {
+      "text": "30,000",
+      "bbox": [
+        103,
+        175,
+        149,
+        191
+      ],
+      "confidence": 0.999584972858429
+    },
+    {
+      "text": "BURRElle'",
+      "bbox": [
+        53,
+        231,
+        125,
+        249
+      ],
+      "confidence": 0.749568521976471
+    },
+    {
+      "text": "Penske celebrates long-awaited 100th win",
+      "bbox": [
+        0,
+        275,
+        712,
+        342
+      ],
+      "confidence": 0.9991176724433899
+    },
+    {
+      "text": "IX..",
+      "bbox": [
+        136,
+        272,
+        156,
+        284
+      ],
+      "confidence": 0.840041995048523
+    },
+    {
+      "text": "EY",
+      "bbox": [
+        160,
+        263,
+        174,
+        277
+      ],
+      "confidence": 0.9976945519447327
+    },
+    {
+      "text": "Dick Brinster",
+      "bbox": [
+        14,
+        345,
+        96,
+        366
+      ],
+      "confidence": 0.9984586238861084
+    },
+    {
+      "text": "his cars were driven by the",
+      "bbox": [
+        185,
+        350,
+        355,
+        368
+      ],
+      "confidence": 0.9871150255203247
+    },
+    {
+      "text": "whelmed Goodyear,",
+      "bbox": [
+        364,
+        351,
+        493,
+        368
+      ],
+      "confidence": 0.9991947412490845
+    },
+    {
+      "text": "with",
+      "bbox": [
+        505,
+        352,
+        534,
+        368
+      ],
+      "confidence": 0.9433034658432007
+    },
+    {
+      "text": "CART titles in 1994, slipped to",
+      "bbox": [
+        544,
+        351,
+        721,
+        369
+      ],
+      "confidence": 0.9820041060447693
+    },
+    {
+      "text": "\"029MT",
+      "bbox": [
+        75,
+        363,
+        170,
+        398
+      ],
+      "confidence": 0.6473353505134583
+    },
+    {
+      "text": "Unsers, Rick Mears, Emerson",
+      "bbox": [
+        185,
+        363,
+        355,
+        382
+      ],
+      "confidence": 0.98499995470047
+    },
+    {
+      "text": "Penske among those on the",
+      "bbox": [
+        365,
+        367,
+        533,
+        381
+      ],
+      "confidence": 0.9632264971733093
+    },
+    {
+      "text": "11th in points in 1998 and",
+      "bbox": [
+        546,
+        367,
+        720,
+        381
+      ],
+      "confidence": 0.9699593186378479
+    },
+    {
+      "text": "Fittipaldi and Danny Sullivan.",
+      "bbox": [
+        185,
+        377,
+        354,
+        396
+      ],
+      "confidence": 0.9762580394744873
+    },
+    {
+      "text": "wrong brand of tires.",
+      "bbox": [
+        366,
+        381,
+        484,
+        395
+      ],
+      "confidence": 0.9878054857254028
+    },
+    {
+      "text": "21st last year.",
+      "bbox": [
+        545,
+        381,
+        625,
+        395
+      ],
+      "confidence": 0.9981220364570618
+    },
+    {
+      "text": "The Captain smiled. Roger",
+      "bbox": [
+        13,
+        388,
+        176,
+        413
+      ],
+      "confidence": 0.9890927672386169
+    },
+    {
+      "text": "Then he moves ahead, quickly.",
+      "bbox": [
+        185,
+        391,
+        346,
+        409
+      ],
+      "confidence": 0.9789929389953613
+    },
+    {
+      "text": "AI Unser Jr. stopped win-",
+      "bbox": [
+        383,
+        394,
+        533,
+        408
+      ],
+      "confidence": 0.9734723567962646
+    },
+    {
+      "text": "Breaking the tie with",
+      "bbox": [
+        562,
+        393,
+        721,
+        410
+      ],
+      "confidence": 0.9889159202575684
+    },
+    {
+      "text": "enske's long wait was over.",
+      "bbox": [
+        1,
+        403,
+        164,
+        425
+      ],
+      "confidence": 0.9983437657356262
+    },
+    {
+      "text": "\"Let's get on to 101,\"he",
+      "bbox": [
+        209,
+        404,
+        355,
+        423
+      ],
+      "confidence": 0.9378157258033752
+    },
+    {
+      "text": "ning. And then, 1999",
+      "bbox": [
+        364,
+        407,
+        507,
+        424
+      ],
+      "confidence": 0.975551962852478
+    },
+    {
+      "text": "hap-",
+      "bbox": [
+        505,
+        410,
+        532,
+        423
+      ],
+      "confidence": 0.951787531375885
+    },
+    {
+      "text": "Unser wasn't easy for Penske,",
+      "bbox": [
+        544,
+        408,
+        720,
+        422
+      ],
+      "confidence": 0.9961254596710205
+    },
+    {
+      "text": "Within",
+      "bbox": [
+        17,
+        417,
+        70,
+        435
+      ],
+      "confidence": 0.9996541142463684
+    },
+    {
+      "text": "minutes,",
+      "bbox": [
+        75,
+        419,
+        133,
+        437
+      ],
+      "confidence": 0.9996503591537476
+    },
+    {
+      "text": "caps",
+      "bbox": [
+        145,
+        423,
+        176,
+        438
+      ],
+      "confidence": 0.9989246129989624
+    },
+    {
+      "text": "said.",
+      "bbox": [
+        183,
+        416,
+        216,
+        437
+      ],
+      "confidence": 0.9997350573539734
+    },
+    {
+      "text": "pened.",
+      "bbox": [
+        363,
+        420,
+        404,
+        439
+      ],
+      "confidence": 0.9987611770629883
+    },
+    {
+      "text": "but dealing with death was far",
+      "bbox": [
+        545,
+        421,
+        720,
+        435
+      ],
+      "confidence": 0.9697415232658386
+    },
+    {
+      "text": "arnouncing his 100th victory",
+      "bbox": [
+        0,
+        430,
+        175,
+        452
+      ],
+      "confidence": 0.9479499459266663
+    },
+    {
+      "text": "That attitude has made",
+      "bbox": [
+        202,
+        431,
+        354,
+        450
+      ],
+      "confidence": 0.9686689972877502
+    },
+    {
+      "text": "\"It's a year I want to for-",
+      "bbox": [
+        390,
+        435,
+        532,
+        450
+      ],
+      "confidence": 0.9520849585533142
+    },
+    {
+      "text": "more difficult.",
+      "bbox": [
+        543,
+        433,
+        627,
+        451
+      ],
+      "confidence": 0.9598749876022339
+    },
+    {
+      "text": "as'a Champ-car owner were all",
+      "bbox": [
+        0,
+        445,
+        175,
+        466
+      ],
+      "confidence": 0.9414934515953064
+    },
+    {
+      "text": "Penske Corp. a giant in the trane",
+      "bbox": [
+        185,
+        446,
+        354,
+        465
+      ],
+      "confidence": 0.9955904483795166
+    },
+    {
+      "text": "get,\" said Penake, a 63-year-old",
+      "bbox": [
+        365,
+        450,
+        532,
+        464
+      ],
+      "confidence": 0.9725580215454102
+    },
+    {
+      "text": "Certainly, it was a tragedy,",
+      "bbox": [
+        567,
+        446,
+        720,
+        466
+      ],
+      "confidence": 0.9736701250076294
+    },
+    {
+      "text": "ver Nazareth Speedway, the",
+      "bbox": [
+        2,
+        459,
+        176,
+        480
+      ],
+      "confidence": 0.9882729649543762
+    },
+    {
+      "text": "portation services industry and",
+      "bbox": [
+        186,
+        461,
+        354,
+        478
+      ],
+      "confidence": 0.992557942867279
+    },
+    {
+      "text": "former sports car racer.",
+      "bbox": [
+        363,
+        461,
+        500,
+        479
+      ],
+      "confidence": 0.9820687770843506
+    },
+    {
+      "text": "the accident in California,\" said",
+      "bbox": [
+        546,
+        463,
+        721,
+        477
+      ],
+      "confidence": 0.9692106246948242
+    },
+    {
+      "text": "in the Lehigh Valley of eastern",
+      "bbox": [
+        0,
+        487,
+        175,
+        508
+      ],
+      "confidence": 0.9945234060287476
+    },
+    {
+      "text": "returesque track Penske built",
+      "bbox": [
+        2,
+        473,
+        176,
+        493
+      ],
+      "confidence": 0.9770606756210327
+    },
+    {
+      "text": "carried its founder and chairman",
+      "bbox": [
+        186,
+        474,
+        354,
+        491
+      ],
+      "confidence": 0.9903554916381836
+    },
+    {
+      "text": "His two-car team used four",
+      "bbox": [
+        381,
+        474,
+        534,
+        492
+      ],
+      "confidence": 0.990536630153656
+    },
+    {
+      "text": "Penske, who has 88 victories since",
+      "bbox": [
+        546,
+        477,
+        722,
+        491
+      ],
+      "confidence": 0.9855560064315796
+    },
+    {
+      "text": "P&ansylvania.",
+      "bbox": [
+        0,
+        501,
+        82,
+        519
+      ],
+      "confidence": 0.8926708698272705
+    },
+    {
+      "text": "to the pinnacle of racing.",
+      "bbox": [
+        185,
+        489,
+        315,
+        506
+      ],
+      "confidence": 0.9756557941436768
+    },
+    {
+      "text": "drivers, among them rookie",
+      "bbox": [
+        363,
+        488,
+        534,
+        506
+      ],
+      "confidence": 0.9931010603904724
+    },
+    {
+      "text": "Gonzalo Rodriguez, killed in",
+      "bbox": [
+        363,
+        501,
+        534,
+        519
+      ],
+      "confidence": 0.9983448386192322
+    },
+    {
+      "text": "the formation after the 1978 sear",
+      "bbox": [
+        546,
+        491,
+        722,
+        505
+      ],
+      "confidence": 0.989037811756134
+    },
+    {
+      "text": "\"It's great to be back,\" he",
+      "bbox": [
+        4,
+        511,
+        176,
+        536
+      ],
+      "confidence": 0.9547263383865356
+    },
+    {
+      "text": "the creme de'la creme, in the",
+      "bbox": [
+        186,
+        516,
+        353,
+        530
+      ],
+      "confidence": 0.9653347134590149
+    },
+    {
+      "text": "He represents the elite,",
+      "bbox": [
+        211,
+        503,
+        352,
+        517
+      ],
+      "confidence": 0.9508225321769714
+    },
+    {
+      "text": "September while practicing in",
+      "bbox": [
+        364,
+        515,
+        533,
+        531
+      ],
+      "confidence": 0.982683002948761
+    },
+    {
+      "text": "son of CART as the car owners'",
+      "bbox": [
+        545,
+        504,
+        721,
+        518
+      ],
+      "confidence": 0.9941854476928711
+    },
+    {
+      "text": "alternative to USAC. \"It was'hard",
+      "bbox": [
+        546,
+        517,
+        722,
+        531
+      ],
+      "confidence": 0.9703477621078491
+    },
+    {
+      "text": "laid.",
+      "bbox": [
+        1,
+        528,
+        30,
+        544
+      ],
+      "confidence": 0.9957610368728638
+    },
+    {
+      "text": "same category as Enzo Ferrari",
+      "bbox": [
+        184,
+        530,
+        353,
+        544
+      ],
+      "confidence": 0.9617636203765869
+    },
+    {
+      "text": "Laguna Seca,",
+      "bbox": [
+        364,
+        529,
+        458,
+        546
+      ],
+      "confidence": 0.9918665289878845
+    },
+    {
+      "text": "Calif. But",
+      "bbox": [
+        462,
+        528,
+        535,
+        545
+      ],
+      "confidence": 0.9845563173294067
+    },
+    {
+      "text": "even to believe we were experi-",
+      "bbox": [
+        546,
+        532,
+        721,
+        546
+      ],
+      "confidence": 0.9873196482658386
+    },
+    {
+      "text": "o Then",
+      "bbox": [
+        6,
+        541,
+        55,
+        558
+      ],
+      "confidence": 0.8176870942115784
+    },
+    {
+      "text": "the normal look of",
+      "bbox": [
+        52,
+        542,
+        176,
+        561
+      ],
+      "confidence": 0.9853012561798096
+    },
+    {
+      "text": "and Colin Chapman,\" said",
+      "bbox": [
+        185,
+        544,
+        353,
+        558
+      ],
+      "confidence": 0.9685441851615906
+    },
+    {
+      "text": "tragedy didn't hide failure.",
+      "bbox": [
+        365,
+        545,
+        513,
+        559
+      ],
+      "confidence": 0.9809901118278503
+    },
+    {
+      "text": "encing that after Rodriguez.'",
+      "bbox": [
+        546,
+        546,
+        693,
+        560
+      ],
+      "confidence": 0.9792174100875854
+    },
+    {
+      "text": "reserve returned to his face,",
+      "bbox": [
+        2,
+        556,
+        173,
+        574
+      ],
+      "confidence": 0.9943072199821472
+    },
+    {
+      "text": "Mario \"Andretti, who won",
+      "bbox": [
+        186,
+        557,
+        353,
+        572
+      ],
+      "confidence": 0.9892213344573975
+    },
+    {
+      "text": "I knew what we had to",
+      "bbox": [
+        386,
+        555,
+        534,
+        575
+      ],
+      "confidence": 0.9694585204124451
+    },
+    {
+      "text": "Penske began talks with",
+      "bbox": [
+        562,
+        556,
+        722,
+        575
+      ],
+      "confidence": 0.9929637312889099
+    },
+    {
+      "text": "nt the man whose world",
+      "bbox": [
+        2,
+        567,
+        175,
+        588
+      ],
+      "confidence": 0.9421715140342712
+    },
+    {
+      "text": "twice for Penske as a moon-",
+      "bbox": [
+        184,
+        569,
+        354,
+        587
+      ],
+      "confidence": 0.9805295467376709
+    },
+    {
+      "text": "do,\" Penske said.",
+      "bbox": [
+        363,
+        567,
+        461,
+        587
+      ],
+      "confidence": 0.9503016471862793
+    },
+    {
+      "text": "Moore in June, and with de",
+      "bbox": [
+        545,
+        573,
+        721,
+        587
+      ],
+      "confidence": 0.9696944952011108
+    },
+    {
+      "text": "renowned team had just bro-",
+      "bbox": [
+        0,
+        583,
+        175,
+        601
+      ],
+      "confidence": 0.9957352876663208
+    },
+    {
+      "text": "lighter while taking the",
+      "bbox": [
+        184,
+        583,
+        354,
+        600
+      ],
+      "confidence": 0.9830339550971985
+    },
+    {
+      "text": "First, he hired for this year",
+      "bbox": [
+        381,
+        582,
+        535,
+        602
+      ],
+      "confidence": 0.9907695651054382
+    },
+    {
+      "text": "Ferran a month later. Both had",
+      "bbox": [
+        546,
+        587,
+        722,
+        601
+      ],
+      "confidence": 0.9985147714614868
+    },
+    {
+      "text": "ken a 54-race losing streak",
+      "bbox": [
+        0,
+        596,
+        175,
+        614
+      ],
+      "confidence": 0.9900143146514893
+    },
+    {
+      "text": "Formula One championship.",
+      "bbox": [
+        184,
+        597,
+        341,
+        612
+      ],
+      "confidence": 0.9651895761489868
+    },
+    {
+      "text": "hard-charging Greg Moore, at",
+      "bbox": [
+        362,
+        596,
+        535,
+        616
+      ],
+      "confidence": 0.998271107673645
+    },
+    {
+      "text": "won with a Reynard chassis, de",
+      "bbox": [
+        547,
+        600,
+        721,
+        614
+      ],
+      "confidence": 0.9967027306556702
+    },
+    {
+      "text": "lked about the difficulty of",
+      "bbox": [
+        0,
+        608,
+        175,
+        627
+      ],
+      "confidence": 0.9637359976768494
+    },
+    {
+      "text": "vinning in CART.",
+      "bbox": [
+        2,
+        621,
+        105,
+        641
+      ],
+      "confidence": 0.9687649011611938
+    },
+    {
+      "text": "Three-time CART champion",
+      "bbox": [
+        201,
+        608,
+        354,
+        627
+      ],
+      "confidence": 0.9909636974334717
+    },
+    {
+      "text": "24 a proven winner on the",
+      "bbox": [
+        362,
+        610,
+        535,
+        629
+      ],
+      "confidence": 0.9621279835700989
+    },
+    {
+      "text": "Ferran with Honda power.",
+      "bbox": [
+        545,
+        612,
+        695,
+        628
+      ],
+      "confidence": 0.9754347801208496
+    },
+    {
+      "text": "There's 28 other people",
+      "bbox": [
+        25,
+        635,
+        175,
+        655
+      ],
+      "confidence": 0.9650722742080688
+    },
+    {
+      "text": "Mears gave Penske four of his",
+      "bbox": [
+        184,
+        623,
+        352,
+        639
+      ],
+      "confidence": 0.9804686903953552
+    },
+    {
+      "text": "cusp of superstardom.",
+      "bbox": [
+        362,
+        624,
+        490,
+        642
+      ],
+      "confidence": 0.9979405403137207
+    },
+    {
+      "text": "But before Moore turned a",
+      "bbox": [
+        381,
+        637,
+        535,
+        655
+      ],
+      "confidence": 0.9736227989196777
+    },
+    {
+      "text": "For Penske, who later",
+      "bbox": [
+        565,
+        627,
+        721,
+        641
+      ],
+      "confidence": 0.9695007801055908
+    },
+    {
+      "text": "ouff there waiting to knock us",
+      "bbox": [
+        0,
+        649,
+        175,
+        668
+      ],
+      "confidence": 0.9371702075004578
+    },
+    {
+      "text": "tories and 29 overall. He says",
+      "bbox": [
+        183,
+        649,
+        353,
+        667
+      ],
+      "confidence": 0.9841951131820679
+    },
+    {
+      "text": "record 10 Indianapolis 500 vic-",
+      "bbox": [
+        185,
+        638,
+        352,
+        652
+      ],
+      "confidence": 0.9601162075996399
+    },
+    {
+      "text": "lap for Penske, the Canadian",
+      "bbox": [
+        362,
+        650,
+        535,
+        668
+      ],
+      "confidence": 0.9974811673164368
+    },
+    {
+      "text": "Castroneves, new sweeping",
+      "bbox": [
+        544,
+        652,
+        722,
+        671
+      ],
+      "confidence": 0.9985185265541077
+    },
+    {
+      "text": "replaced Moore with Helio",
+      "bbox": [
+        546,
+        641,
+        721,
+        655
+      ],
+      "confidence": 0.9872391223907471
+    },
+    {
+      "text": "ff, Penake said after Gil de",
+      "bbox": [
+        0,
+        663,
+        176,
+        680
+      ],
+      "confidence": 0.9279590249061584
+    },
+    {
+      "text": "those numbers were achieved",
+      "bbox": [
+        185,
+        665,
+        351,
+        679
+      ],
+      "confidence": 0.9916571378707886
+    },
+    {
+      "text": "was killed in his final ride for",
+      "bbox": [
+        362,
+        664,
+        534,
+        682
+      ],
+      "confidence": 0.996363639831543
+    },
+    {
+      "text": "changes were needed.",
+      "bbox": [
+        544,
+        665,
+        672,
+        684
+      ],
+      "confidence": 0.9936873316764832
+    },
+    {
+      "text": "erran gave him his landmark",
+      "bbox": [
+        0,
+        677,
+        175,
+        696
+      ],
+      "confidence": 0.9869200587272644
+    },
+    {
+      "text": "in part because of astute plan-",
+      "bbox": [
+        183,
+        676,
+        352,
+        695
+      ],
+      "confidence": 0.9838182330131531
+    },
+    {
+      "text": "Gerald Forsythe, in the sea-",
+      "bbox": [
+        362,
+        677,
+        535,
+        697
+      ],
+      "confidence": 0.9846850633621216
+    },
+    {
+      "text": "Goodyear dropped out",
+      "bbox": [
+        562,
+        679,
+        723,
+        699
+      ],
+      "confidence": 0.9906851649284363
+    },
+    {
+      "text": "victory Saturday in the Bosch",
+      "bbox": [
+        0,
+        690,
+        175,
+        709
+      ],
+      "confidence": 0.9950466752052307
+    },
+    {
+      "text": "ning and race strategy.",
+      "bbox": [
+        185,
+        693,
+        310,
+        707
+      ],
+      "confidence": 0.9991059303283691
+    },
+    {
+      "text": "son-ending Marlboro 500 on",
+      "bbox": [
+        361,
+        691,
+        535,
+        710
+      ],
+      "confidence": 0.9372227191925049
+    },
+    {
+      "text": "after last season, solving the",
+      "bbox": [
+        544,
+        692,
+        722,
+        713
+      ],
+      "confidence": 0.9848747849464417
+    },
+    {
+      "text": "Grand Prix. \"So, we got to get",
+      "bbox": [
+        0,
+        703,
+        175,
+        723
+      ],
+      "confidence": 0.976791262626648
+    },
+    {
+      "text": "His best example was the",
+      "bbox": [
+        200,
+        703,
+        352,
+        722
+      ],
+      "confidence": 0.9977872967720032
+    },
+    {
+      "text": "Oct. 31 at California Speedway",
+      "bbox": [
+        362,
+        704,
+        534,
+        724
+      ],
+      "confidence": 0.9737231731414795
+    },
+    {
+      "text": "tire woes, and the organiza-",
+      "bbox": [
+        544,
+        706,
+        722,
+        726
+      ],
+      "confidence": 0.9894081354141235
+    },
+    {
+      "text": "bnto Milwaukee to show that",
+      "bbox": [
+        0,
+        717,
+        175,
+        735
+      ],
+      "confidence": 0.9666805863380432
+    },
+    {
+      "text": "1991'Indy 500.",
+      "bbox": [
+        183,
+        716,
+        268,
+        735
+      ],
+      "confidence": 0.9965476989746094
+    },
+    {
+      "text": "- another track Penske built.",
+      "bbox": [
+        364,
+        721,
+        528,
+        735
+      ],
+      "confidence": 0.9638772010803223
+    },
+    {
+      "text": "tion was streamlined with Tim",
+      "bbox": [
+        544,
+        720,
+        721,
+        739
+      ],
+      "confidence": 0.9869004487991333
+    },
+    {
+      "text": "Hifs is not just one of a kind.\"",
+      "bbox": [
+        1,
+        730,
+        172,
+        748
+      ],
+      "confidence": 0.9345512986183167
+    },
+    {
+      "text": "iiThat shouldn't be an issue",
+      "bbox": [
+        3,
+        742,
+        173,
+        762
+      ],
+      "confidence": 0.9595485329627991
+    },
+    {
+      "text": "Not just because it was",
+      "bbox": [
+        207,
+        730,
+        354,
+        749
+      ],
+      "confidence": 0.9733427166938782
+    },
+    {
+      "text": "The free fall of the sport's",
+      "bbox": [
+        381,
+        732,
+        534,
+        750
+      ],
+      "confidence": 0.979411244392395
+    },
+    {
+      "text": "Cindric becoming the first",
+      "bbox": [
+        545,
+        733,
+        722,
+        753
+      ],
+      "confidence": 0.9861121773719788
+    },
+    {
+      "text": "Sunday in the Miller Lite 225.",
+      "bbox": [
+        0,
+        756,
+        174,
+        775
+      ],
+      "confidence": 0.9973030090332031
+    },
+    {
+      "text": "our fourth win at Indy, but",
+      "bbox": [
+        182,
+        743,
+        354,
+        762
+      ],
+      "confidence": 0.9857966899871826
+    },
+    {
+      "text": "because everything in the race",
+      "bbox": [
+        182,
+        757,
+        353,
+        776
+      ],
+      "confidence": 0.9896286725997925
+    },
+    {
+      "text": "greatest team began as a big",
+      "bbox": [
+        362,
+        746,
+        535,
+        764
+      ],
+      "confidence": 0.9863148927688599
+    },
+    {
+      "text": "president of Penake Racing.",
+      "bbox": [
+        544,
+        747,
+        707,
+        767
+      ],
+      "confidence": 0.9885489344596863
+    },
+    {
+      "text": "In°the face of competition so",
+      "bbox": [
+        1,
+        769,
+        174,
+        789
+      ],
+      "confidence": 0.9438377618789673
+    },
+    {
+      "text": "went according to our plan,\"",
+      "bbox": [
+        182,
+        771,
+        350,
+        789
+      ],
+      "confidence": 0.9896351099014282
+    },
+    {
+      "text": "slip, when Penske cars were",
+      "bbox": [
+        362,
+        759,
+        535,
+        778
+      ],
+      "confidence": 0.985086977481842
+    },
+    {
+      "text": "We felt good coming in.",
+      "bbox": [
+        568,
+        760,
+        721,
+        782
+      ],
+      "confidence": 0.9792495369911194
+    },
+    {
+      "text": "cotigh there have been differ",
+      "bbox": [
+        0,
+        783,
+        173,
+        801
+      ],
+      "confidence": 0.9427439570426941
+    },
+    {
+      "text": "Mears said.",
+      "bbox": [
+        182,
+        784,
+        249,
+        802
+      ],
+      "confidence": 0.9898710250854492
+    },
+    {
+      "text": "unable to qualify for the 1995",
+      "bbox": [
+        361,
+        773,
+        534,
+        791
+      ],
+      "confidence": 0.9778446555137634
+    },
+    {
+      "text": "Indy 500 after starting 1-2-3 a",
+      "bbox": [
+        362,
+        786,
+        534,
+        806
+      ],
+      "confidence": 0.9767252206802368
+    },
+    {
+      "text": "Penske said. But you still",
+      "bbox": [
+        544,
+        774,
+        721,
+        795
+      ],
+      "confidence": 0.9591153264045715
+    },
+    {
+      "text": "ent winners in each of the",
+      "bbox": [
+        0,
+        795,
+        173,
+        815
+      ],
+      "confidence": 0.9596128463745117
+    },
+    {
+      "text": "It was that way so often, the",
+      "bbox": [
+        199,
+        797,
+        352,
+        817
+      ],
+      "confidence": 0.9752330780029297
+    },
+    {
+      "text": "year earlier and getting victo-",
+      "bbox": [
+        361,
+        800,
+        534,
+        820
+      ],
+      "confidence": 0.9747515320777893
+    },
+    {
+      "text": "have to get up to the podium.\"",
+      "bbox": [
+        543,
+        789,
+        720,
+        809
+      ],
+      "confidence": 0.9754928946495056
+    },
+    {
+      "text": "There, last Saturday, not",
+      "bbox": [
+        561,
+        802,
+        722,
+        823
+      ],
+      "confidence": 0.9907281398773193
+    },
+    {
+      "text": "first five races this season, the",
+      "bbox": [
+        0,
+        807,
+        174,
+        829
+      ],
+      "confidence": 0.990986704826355
+    },
+    {
+      "text": "shump remains particularly baffling.",
+      "bbox": [
+        183,
+        810,
+        352,
+        831
+      ],
+      "confidence": 0.9492075443267822
+    },
+    {
+      "text": "ry No. 10 from Unser.",
+      "bbox": [
+        361,
+        813,
+        489,
+        833
+      ],
+      "confidence": 0.9941849708557129
+    },
+    {
+      "text": "far from Pocono International",
+      "bbox": [
+        544,
+        815,
+        722,
+        836
+      ],
+      "confidence": 0.998638927936554
+    },
+    {
+      "text": "eam has been successfully",
+      "bbox": [
+        2,
+        820,
+        172,
+        842
+      ],
+      "confidence": 0.9589682221412659
+    },
+    {
+      "text": "The vaunted in-house PC",
+      "bbox": [
+        199,
+        823,
+        352,
+        845
+      ],
+      "confidence": 0.9699193835258484
+    },
+    {
+      "text": "Although Paul Tracy won",
+      "bbox": [
+        379,
+        827,
+        534,
+        849
+      ],
+      "confidence": 0.9929994344711304
+    },
+    {
+      "text": "Raceway",
+      "bbox": [
+        544,
+        831,
+        599,
+        849
+      ],
+      "confidence": 0.9998431205749512
+    },
+    {
+      "text": "ebuilt with new management,",
+      "bbox": [
+        1,
+        835,
+        172,
+        854
+      ],
+      "confidence": 0.9914771318435669
+    },
+    {
+      "text": "series chassis that once con-",
+      "bbox": [
+        183,
+        838,
+        352,
+        858
+      ],
+      "confidence": 0.9566535949707031
+    },
+    {
+      "text": "three straight times in 1997,",
+      "bbox": [
+        361,
+        842,
+        534,
+        862
+      ],
+      "confidence": 0.9958946704864502
+    },
+    {
+      "text": "Donohue gave him his break-",
+      "bbox": [
+        543,
+        845,
+        722,
+        864
+      ],
+      "confidence": 0.99822998046875
+    },
+    {
+      "text": "where Mark",
+      "bbox": [
+        633,
+        833,
+        721,
+        850
+      ],
+      "confidence": 0.9899190664291382
+    },
+    {
+      "text": "equipment and drivers.",
+      "bbox": [
+        0,
+        848,
+        136,
+        867
+      ],
+      "confidence": 0.9943284392356873
+    },
+    {
+      "text": "Only The Captain remains to",
+      "bbox": [
+        8,
+        860,
+        175,
+        881
+      ],
+      "confidence": 0.9904842376708984
+    },
+    {
+      "text": "trolied the sport lost the edge",
+      "bbox": [
+        183,
+        851,
+        353,
+        871
+      ],
+      "confidence": 0.9654104709625244
+    },
+    {
+      "text": "neither he nor Unser seriously",
+      "bbox": [
+        360,
+        855,
+        533,
+        876
+      ],
+      "confidence": 0.9890989065170288
+    },
+    {
+      "text": "through victory in 1971 - The",
+      "bbox": [
+        544,
+        859,
+        722,
+        878
+      ],
+      "confidence": 0.983866274356842
+    },
+    {
+      "text": "bdink briefly in the feeling of",
+      "bbox": [
+        1,
+        874,
+        175,
+        894
+      ],
+      "confidence": 0.9373160600662231
+    },
+    {
+      "text": "to the Reynard. The Mercedes",
+      "bbox": [
+        181,
+        864,
+        354,
+        885
+      ],
+      "confidence": 0.9969658255577087
+    },
+    {
+      "text": "contended for the champi-",
+      "bbox": [
+        360,
+        869,
+        534,
+        890
+      ],
+      "confidence": 0.9965537786483765
+    },
+    {
+      "text": "Captain was at the head table",
+      "bbox": [
+        544,
+        873,
+        722,
+        893
+      ],
+      "confidence": 0.9928019046783447
+    },
+    {
+      "text": "euphoria he knew so often when",
+      "bbox": [
+        0,
+        888,
+        175,
+        908
+      ],
+      "confidence": 0.98867267370224
+    },
+    {
+      "text": "engines where outmuscled by.",
+      "bbox": [
+        181,
+        878,
+        355,
+        899
+      ],
+      "confidence": 0.9940630793571472
+    },
+    {
+      "text": "the Hondas. Firestone over-",
+      "bbox": [
+        182,
+        892,
+        355,
+        912
+      ],
+      "confidence": 0.9636008143424988
+    },
+    {
+      "text": "onship. Unser, who gave",
+      "bbox": [
+        359,
+        883,
+        535,
+        904
+      ],
+      "confidence": 0.9940164685249329
+    },
+    {
+      "text": "for the first time in three",
+      "bbox": [
+        544,
+        887,
+        722,
+        906
+      ],
+      "confidence": 0.9885192513465881
+    },
+    {
+      "text": "Penske the last of his seven",
+      "bbox": [
+        358,
+        895,
+        534,
+        919
+      ],
+      "confidence": 0.9593331217765808
+    },
+    {
+      "text": "years.",
+      "bbox": [
+        543,
+        904,
+        581,
+        918
+      ],
+      "confidence": 0.999805748462677
+    },
+    {
+      "text": "2080728742",
+      "bbox": [
+        532,
+        949,
+        641,
+        974
+      ],
+      "confidence": 0.999931812286377
+    }
+  ],
+  "full_text": "TIMES HERALD\nNORRISTOWN, PA\nTHURSDAY\nJUN 1 2000\n30,000\nBURRElle'\nPenske celebrates long-awaited 100th win\nIX..\nEY\nDick Brinster\nhis cars were driven by the\nwhelmed Goodyear,\nwith\nCART titles in 1994, slipped to\n\"029MT\nUnsers, Rick Mears, Emerson\nPenske among those on the\n11th in points in 1998 and\nFittipaldi and Danny Sullivan.\nwrong brand of tires.\n21st last year.\nThe Captain smiled. Roger\nThen he moves ahead, quickly.\nAI Unser Jr. stopped win-\nBreaking the tie with\nenske's long wait was over.\n\"Let's get on to 101,\"he\nning. And then, 1999\nhap-\nUnser wasn't easy for Penske,\nWithin\nminutes,\ncaps\nsaid.\npened.\nbut dealing with death was far\narnouncing his 100th victory\nThat attitude has made\n\"It's a year I want to for-\nmore difficult.\nas'a Champ-car owner were all\nPenske Corp. a giant in the trane\nget,\" said Penake, a 63-year-old\nCertainly, it was a tragedy,\nver Nazareth Speedway, the\nportation services industry and\nformer sports car racer.\nthe accident in California,\" said\nin the Lehigh Valley of eastern\nreturesque track Penske built\ncarried its founder and chairman\nHis two-car team used four\nPenske, who has 88 victories since\nP&ansylvania.\nto the pinnacle of racing.\ndrivers, among them rookie\nGonzalo Rodriguez, killed in\nthe formation after the 1978 sear\n\"It's great to be back,\" he\nthe creme de'la creme, in the\nHe represents the elite,\nSeptember while practicing in\nson of CART as the car owners'\nalternative to USAC. \"It was'hard\nlaid.\nsame category as Enzo Ferrari\nLaguna Seca,\nCalif. But\neven to believe we were experi-\no Then\nthe normal look of\nand Colin Chapman,\" said\ntragedy didn't hide failure.\nencing that after Rodriguez.'\nreserve returned to his face,\nMario \"Andretti, who won\nI knew what we had to\nPenske began talks with\nnt the man whose world\ntwice for Penske as a moon-\ndo,\" Penske said.\nMoore in June, and with de\nrenowned team had just bro-\nlighter while taking the\nFirst, he hired for this year\nFerran a month later. Both had\nken a 54-race losing streak\nFormula One championship.\nhard-charging Greg Moore, at\nwon with a Reynard chassis, de\nlked about the difficulty of\nvinning in CART.\nThree-time CART champion\n24 a proven winner on the\nFerran with Honda power.\nThere's 28 other people\nMears gave Penske four of his\ncusp of superstardom.\nBut before Moore turned a\nFor Penske, who later\nouff there waiting to knock us\ntories and 29 overall. He says\nrecord 10 Indianapolis 500 vic-\nlap for Penske, the Canadian\nCastroneves, new sweeping\nreplaced Moore with Helio\nff, Penake said after Gil de\nthose numbers were achieved\nwas killed in his final ride for\nchanges were needed.\nerran gave him his landmark\nin part because of astute plan-\nGerald Forsythe, in the sea-\nGoodyear dropped out\nvictory Saturday in the Bosch\nning and race strategy.\nson-ending Marlboro 500 on\nafter last season, solving the\nGrand Prix. \"So, we got to get\nHis best example was the\nOct. 31 at California Speedway\ntire woes, and the organiza-\nbnto Milwaukee to show that\n1991'Indy 500.\n- another track Penske built.\ntion was streamlined with Tim\nHifs is not just one of a kind.\"\niiThat shouldn't be an issue\nNot just because it was\nThe free fall of the sport's\nCindric becoming the first\nSunday in the Miller Lite 225.\nour fourth win at Indy, but\nbecause everything in the race\ngreatest team began as a big\npresident of Penake Racing.\nIn°the face of competition so\nwent according to our plan,\"\nslip, when Penske cars were\nWe felt good coming in.\ncotigh there have been differ\nMears said.\nunable to qualify for the 1995\nIndy 500 after starting 1-2-3 a\nPenske said. But you still\nent winners in each of the\nIt was that way so often, the\nyear earlier and getting victo-\nhave to get up to the podium.\"\nThere, last Saturday, not\nfirst five races this season, the\nshump remains particularly baffling.\nry No. 10 from Unser.\nfar from Pocono International\neam has been successfully\nThe vaunted in-house PC\nAlthough Paul Tracy won\nRaceway\nebuilt with new management,\nseries chassis that once con-\nthree straight times in 1997,\nDonohue gave him his break-\nwhere Mark\nequipment and drivers.\nOnly The Captain remains to\ntrolied the sport lost the edge\nneither he nor Unser seriously\nthrough victory in 1971 - The\nbdink briefly in the feeling of\nto the Reynard. The Mercedes\ncontended for the champi-\nCaptain was at the head table\neuphoria he knew so often when\nengines where outmuscled by.\nthe Hondas. Firestone over-\nonship. Unser, who gave\nfor the first time in three\nPenske the last of his seven\nyears.\n2080728742"
+}

@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0634.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "0797641-012",
+      "bbox": [
+        24,
+        581,
+        129,
+        595
+      ],
+      "confidence": 0.9997642636299133
+    },
+    {
+      "text": "Authort zatiOns, arHon mertoned",
+      "bbox": [
+        322,
+        657,
+        635,
+        691
+      ],
+      "confidence": 0.768273115158081
+    },
+    {
+      "text": "2861/h0/50-184/611/21",
+      "bbox": [
+        36,
+        678,
+        290,
+        722
+      ],
+      "confidence": 0.848513126373291
+    },
+    {
+      "text": "Novertisine Andselnne",
+      "bbox": [
+        371,
+        674,
+        634,
+        707
+      ],
+      "confidence": 0.6483778953552246
+    }
+  ],
+  "full_text": "0797641-012\nAuthort zatiOns, arHon mertoned\n2861/h0/50-184/611/21\nNovertisine Andselnne"
+}

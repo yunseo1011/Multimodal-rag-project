@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0782.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FAY CAL 5327",
+      "bbox": [
+        285,
+        0,
+        479,
+        29
+      ],
+      "confidence": 0.783757209777832
+    },
+    {
+      "text": "cAce Bomve sunr.",
+      "bbox": [
+        409,
+        45,
+        591,
+        81
+      ],
+      "confidence": 0.6766884326934814
+    },
+    {
+      "text": "Ane6arm-2-3",
+      "bbox": [
+        118,
+        127,
+        392,
+        151
+      ],
+      "confidence": 0.6524765491485596
+    },
+    {
+      "text": "- W/s. V.O. Mo . 5.0.0.",
+      "bbox": [
+        285,
+        495,
+        553,
+        515
+      ],
+      "confidence": 0.7030226588249207
+    },
+    {
+      "text": "- W/5 UB. - HA5 0MV.B. t2 OUT0r Mr",
+      "bbox": [
+        283,
+        561,
+        751,
+        588
+      ],
+      "confidence": 0.668926477432251
+    },
+    {
+      "text": "LIGHTns, BoHraays, couprs",
+      "bbox": [
+        205,
+        616,
+        521,
+        639
+      ],
+      "confidence": 0.6017262935638428
+    },
+    {
+      "text": "-w/s vo.-unain 30y25(awn21)",
+      "bbox": [
+        287,
+        635,
+        685,
+        665
+      ],
+      "confidence": 0.6303633451461792
+    },
+    {
+      "text": "980%15T07N= $48",
+      "bbox": [
+        122,
+        807,
+        386,
+        830
+      ],
+      "confidence": 0.7396193146705627
+    },
+    {
+      "text": "4.62",
+      "bbox": [
+        330,
+        828,
+        386,
+        856
+      ],
+      "confidence": 0.8635549545288086
+    },
+    {
+      "text": "52286 4095",
+      "bbox": [
+        733,
+        846,
+        752,
+        946
+      ],
+      "confidence": 0.9997968673706055
+    },
+    {
+      "text": "* 60% 3-45",
+      "bbox": [
+        123,
+        854,
+        257,
+        878
+      ],
+      "confidence": 0.8427482843399048
+    },
+    {
+      "text": "1188",
+      "bbox": [
+        326,
+        855,
+        382,
+        880
+      ],
+      "confidence": 0.9770698547363281
+    },
+    {
+      "text": "F2.3m0",
+      "bbox": [
+        297,
+        876,
+        410,
+        907
+      ],
+      "confidence": 0.6466304659843445
+    }
+  ],
+  "full_text": "FAY CAL 5327\ncAce Bomve sunr.\nAne6arm-2-3\n- W/s. V.O. Mo . 5.0.0.\n- W/5 UB. - HA5 0MV.B. t2 OUT0r Mr\nLIGHTns, BoHraays, couprs\n-w/s vo.-unain 30y25(awn21)\n980%15T07N= $48\n4.62\n52286 4095\n* 60% 3-45\n1188\nF2.3m0"
+}

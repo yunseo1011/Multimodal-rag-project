@@ -1,0 +1,381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0642.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Form 524",
+      "bbox": [
+        1,
+        0,
+        49,
+        15
+      ],
+      "confidence": 0.9973059892654419
+    },
+    {
+      "text": "R. J. REYNOLDS TOBACCO COMPANY",
+      "bbox": [
+        170,
+        0,
+        605,
+        42
+      ],
+      "confidence": 0.9857563376426697
+    },
+    {
+      "text": "RESEARCH AND DEVELOPMENT DEPARTMENTS",
+      "bbox": [
+        253,
+        29,
+        522,
+        54
+      ],
+      "confidence": 0.9937903881072998
+    },
+    {
+      "text": "Job No.",
+      "bbox": [
+        560,
+        46,
+        612,
+        69
+      ],
+      "confidence": 0.9621621370315552
+    },
+    {
+      "text": "Subject",
+      "bbox": [
+        1,
+        64,
+        53,
+        90
+      ],
+      "confidence": 0.9990680813789368
+    },
+    {
+      "text": "Quautenly Tepont, Manch-May 1970.",
+      "bbox": [
+        79,
+        61,
+        458,
+        113
+      ],
+      "confidence": 0.8749329447746277
+    },
+    {
+      "text": "Date May28,1970",
+      "bbox": [
+        558,
+        59,
+        743,
+        101
+      ],
+      "confidence": 0.9080261588096619
+    },
+    {
+      "text": "191391",
+      "bbox": [
+        632,
+        91,
+        750,
+        130
+      ],
+      "confidence": 0.9980338215827942
+    },
+    {
+      "text": "Projeit  202 - Physral Chenistuy of Stanch Pueluet.",
+      "bbox": [
+        46,
+        156,
+        687,
+        195
+      ],
+      "confidence": 0.7850270867347717
+    },
+    {
+      "text": "Pantice Sige Distuibution ine Dispensul Bengyl Stanches.",
+      "bbox": [
+        109,
+        207,
+        733,
+        246
+      ],
+      "confidence": 0.8885373473167419
+    },
+    {
+      "text": "Aetenpti by Dr. Panl Caney to duplicat The staeh",
+      "bbox": [
+        132,
+        235,
+        754,
+        273
+      ],
+      "confidence": 0.7584930062294006
+    },
+    {
+      "text": "suspersions nectivee lere fron Senich & Fonde wene cnaucces",
+      "bbox": [
+        62,
+        262,
+        780,
+        302
+      ],
+      "confidence": 0.7043516635894775
+    },
+    {
+      "text": "ful. A sample fite most neanlyuccessful botch accompanil",
+      "bbox": [
+        62,
+        289,
+        780,
+        326
+      ],
+      "confidence": 0.7441939115524292
+    },
+    {
+      "text": "onof ete Penic I Fond saptd to Mrcuomenitin. Due To",
+      "bbox": [
+        65,
+        314,
+        718,
+        351
+      ],
+      "confidence": 0.7721736431121826
+    },
+    {
+      "text": "Theid long celuy in examining Ehe sompln , baclenin dystuay",
+      "bbox": [
+        50,
+        340,
+        778,
+        377
+      ],
+      "confidence": 0.7818150520324707
+    },
+    {
+      "text": "the matihial  pnepane by DUcony, Micnomenitir sepontel",
+      "bbox": [
+        60,
+        365,
+        775,
+        405
+      ],
+      "confidence": 0.7075316309928894
+    },
+    {
+      "text": "cvally thet thiy cwne cnable to anstyse The Penick ane",
+      "bbox": [
+        58,
+        391,
+        780,
+        433
+      ],
+      "confidence": 0.7496480345726013
+    },
+    {
+      "text": "Fond sample. A wnitten npoit is nalt yet in hond.",
+      "bbox": [
+        58,
+        416,
+        779,
+        464
+      ],
+      "confidence": 0.7227516174316406
+    },
+    {
+      "text": "Pojet # 204 - Outsicen Idias",
+      "bbox": [
+        49,
+        474,
+        423,
+        507
+      ],
+      "confidence": 0.8579550981521606
+    },
+    {
+      "text": "Stanfond Reseaveh Institute CO Remauer.",
+      "bbox": [
+        145,
+        522,
+        608,
+        554
+      ],
+      "confidence": 0.787563681602478
+    },
+    {
+      "text": "Dr. Itenvy Wisei CO nemauen has reclied snch",
+      "bbox": [
+        167,
+        547,
+        772,
+        581
+      ],
+      "confidence": 0.7517949938774109
+    },
+    {
+      "text": "attention, TecteLene whih wene sn in accordonce",
+      "bbox": [
+        71,
+        577,
+        766,
+        606
+      ],
+      "confidence": 0.7883830070495605
+    },
+    {
+      "text": "with Dr. Wise's sevval divecliong and Tests min by",
+      "bbox": [
+        71,
+        603,
+        704,
+        633
+      ],
+      "confidence": 0.828508734703064
+    },
+    {
+      "text": "usual methade have nat clenonstretid the effia cy",
+      "bbox": [
+        73,
+        626,
+        737,
+        666
+      ],
+      "confidence": 0.7283214926719666
+    },
+    {
+      "text": "in Co nemaual cheined by Dr. Wise.",
+      "bbox": [
+        81,
+        659,
+        534,
+        692
+      ],
+      "confidence": 0.8095746040344238
+    },
+    {
+      "text": "D",
+      "bbox": [
+        390,
+        692,
+        407,
+        704
+      ],
+      "confidence": 0.8612375855445862
+    },
+    {
+      "text": "Projet # 203 - Selectn Filtvation of Ciganelte Snde",
+      "bbox": [
+        51,
+        710,
+        712,
+        747
+      ],
+      "confidence": 0.7927765846252441
+    },
+    {
+      "text": "Anidocime Stanch Complxes.",
+      "bbox": [
+        190,
+        765,
+        515,
+        793
+      ],
+      "confidence": 0.847842812538147
+    },
+    {
+      "text": "The optinn dequeer f aubstitution of anidevrine",
+      "bbox": [
+        209,
+        793,
+        752,
+        823
+      ],
+      "confidence": 0.7796828746795654
+    },
+    {
+      "text": "saveh for Cul) conpleratton Lel nat yet been chetenmined.",
+      "bbox": [
+        75,
+        819,
+        743,
+        855
+      ],
+      "confidence": 0.6948121786117554
+    },
+    {
+      "text": "Thin wonk has bun cdeactivatie",
+      "bbox": [
+        77,
+        850,
+        418,
+        876
+      ],
+      "confidence": 0.7934566140174866
+    },
+    {
+      "text": "The oplimn panticle sige fon gronuelon Cült)",
+      "bbox": [
+        209,
+        875,
+        735,
+        907
+      ],
+      "confidence": 0.7922934889793396
+    },
+    {
+      "text": "amihoxine stanh applen tobe to t 60 thes.",
+      "bbox": [
+        71,
+        902,
+        610,
+        933
+      ],
+      "confidence": 0.6857349276542664
+    },
+    {
+      "text": "Coppen lrnsfer fon Sul omidloxine stareh",
+      "bbox": [
+        213,
+        932,
+        770,
+        966
+      ],
+      "confidence": 0.7014197111129761
+    },
+    {
+      "text": "SIGNATURE AND DATE",
+      "bbox": [
+        34,
+        964,
+        144,
+        984
+      ],
+      "confidence": 0.9897999167442322
+    },
+    {
+      "text": "READ AND UNDERSTOOD",
+      "bbox": [
+        536,
+        967,
+        664,
+        986
+      ],
+      "confidence": 0.998428225517273
+    },
+    {
+      "text": "Moore Dusiness Forma, Inc., Winstos-Salem, N. C. m",
+      "bbox": [
+        304,
+        984,
+        507,
+        999
+      ],
+      "confidence": 0.9163866639137268
+    }
+  ],
+  "full_text": "Form 524\nR. J. REYNOLDS TOBACCO COMPANY\nRESEARCH AND DEVELOPMENT DEPARTMENTS\nJob No.\nSubject\nQuautenly Tepont, Manch-May 1970.\nDate May28,1970\n191391\nProjeit  202 - Physral Chenistuy of Stanch Pueluet.\nPantice Sige Distuibution ine Dispensul Bengyl Stanches.\nAetenpti by Dr. Panl Caney to duplicat The staeh\nsuspersions nectivee lere fron Senich & Fonde wene cnaucces\nful. A sample fite most neanlyuccessful botch accompanil\nonof ete Penic I Fond saptd to Mrcuomenitin. Due To\nTheid long celuy in examining Ehe sompln , baclenin dystuay\nthe matihial  pnepane by DUcony, Micnomenitir sepontel\ncvally thet thiy cwne cnable to anstyse The Penick ane\nFond sample. A wnitten npoit is nalt yet in hond.\nPojet # 204 - Outsicen Idias\nStanfond Reseaveh Institute CO Remauer.\nDr. Itenvy Wisei CO nemauen has reclied snch\nattention, TecteLene whih wene sn in accordonce\nwith Dr. Wise's sevval divecliong and Tests min by\nusual methade have nat clenonstretid the effia cy\nin Co nemaual cheined by Dr. Wise.\nD\nProjet # 203 - Selectn Filtvation of Ciganelte Snde\nAnidocime Stanch Complxes.\nThe optinn dequeer f aubstitution of anidevrine\nsaveh for Cul) conpleratton Lel nat yet been chetenmined.\nThin wonk has bun cdeactivatie\nThe oplimn panticle sige fon gronuelon Cült)\namihoxine stanh applen tobe to t 60 thes.\nCoppen lrnsfer fon Sul omidloxine stareh\nSIGNATURE AND DATE\nREAD AND UNDERSTOOD\nMoore Dusiness Forma, Inc., Winstos-Salem, N. C. m"
+}

@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0215.png",
+    "image_width": 776,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE TOBAOCO INSTTTUTE",
+      "bbox": [
+        74,
+        10,
+        403,
+        42
+      ],
+      "confidence": 0.9132940173149109
+    },
+    {
+      "text": "CHECK NO",
+      "bbox": [
+        431,
+        21,
+        482,
+        35
+      ],
+      "confidence": 0.9824472665786743
+    },
+    {
+      "text": "1875 2 STREET, NORTHWEST",
+      "bbox": [
+        246,
+        35,
+        401,
+        53
+      ],
+      "confidence": 0.9458096623420715
+    },
+    {
+      "text": "01155",
+      "bbox": [
+        421,
+        37,
+        496,
+        62
+      ],
+      "confidence": 0.999835193157196
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        540,
+        24,
+        596,
+        35
+      ],
+      "confidence": 0.9976251721382141
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        674,
+        23,
+        715,
+        34
+      ],
+      "confidence": 0.9975716471672058
+    },
+    {
+      "text": "WASHINGTON, DC 20006",
+      "bbox": [
+        268,
+        46,
+        401,
+        64
+      ],
+      "confidence": 0.98658287525177
+    },
+    {
+      "text": "17, 1363",
+      "bbox": [
+        552,
+        48,
+        634,
+        66
+      ],
+      "confidence": 0.8948419690132141
+    },
+    {
+      "text": "******342.13",
+      "bbox": [
+        643,
+        48,
+        756,
+        62
+      ],
+      "confidence": 0.992144763469696
+    },
+    {
+      "text": "PAY",
+      "bbox": [
+        160,
+        87,
+        191,
+        106
+      ],
+      "confidence": 0.9990083575248718
+    },
+    {
+      "text": "TUREE",
+      "bbox": [
+        184,
+        91,
+        251,
+        113
+      ],
+      "confidence": 0.8632882833480835
+    },
+    {
+      "text": "TO THE ORDER OF",
+      "bbox": [
+        21,
+        107,
+        114,
+        120
+      ],
+      "confidence": 0.9905979037284851
+    },
+    {
+      "text": "36333",
+      "bbox": [
+        181,
+        174,
+        227,
+        189
+      ],
+      "confidence": 0.7916463613510132
+    },
+    {
+      "text": "LOOGB,",
+      "bbox": [
+        144,
+        190,
+        209,
+        207
+      ],
+      "confidence": 0.632876992225647
+    },
+    {
+      "text": "NON - NEGOTIABLE",
+      "bbox": [
+        555,
+        189,
+        694,
+        206
+      ],
+      "confidence": 0.9740761518478394
+    },
+    {
+      "text": "r001155r 1:054000C30: :2-:5219752*",
+      "bbox": [
+        147,
+        254,
+        540,
+        281
+      ],
+      "confidence": 0.823027491569519
+    },
+    {
+      "text": "DETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED",
+      "bbox": [
+        225,
+        296,
+        559,
+        314
+      ],
+      "confidence": 0.9918305277824402
+    },
+    {
+      "text": "01155",
+      "bbox": [
+        665,
+        318,
+        741,
+        345
+      ],
+      "confidence": 0.9999033808708191
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        71,
+        325,
+        302,
+        352
+      ],
+      "confidence": 0.9974873661994934
+    },
+    {
+      "text": "-073320",
+      "bbox": [
+        444,
+        337,
+        514,
+        358
+      ],
+      "confidence": 0.6031326055526733
+    },
+    {
+      "text": "2-17-:",
+      "bbox": [
+        575,
+        331,
+        644,
+        356
+      ],
+      "confidence": 0.9521942138671875
+    },
+    {
+      "text": "1875 1 STREET, NORTHWEST",
+      "bbox": [
+        77,
+        349,
+        233,
+        366
+      ],
+      "confidence": 0.9803199768066406
+    },
+    {
+      "text": "WASHINOTON, DC 20006",
+      "bbox": [
+        98,
+        360,
+        233,
+        378
+      ],
+      "confidence": 0.9797495603561401
+    },
+    {
+      "text": "VENDOR NUMBER",
+      "bbox": [
+        444,
+        358,
+        524,
+        371
+      ],
+      "confidence": 0.9974091053009033
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        574,
+        355,
+        634,
+        371
+      ],
+      "confidence": 0.9970011711120605
+    },
+    {
+      "text": "CHECK NUMBER",
+      "bbox": [
+        665,
+        356,
+        737,
+        367
+      ],
+      "confidence": 0.9890708923339844
+    },
+    {
+      "text": "INVOICE DATE",
+      "bbox": [
+        15,
+        395,
+        82,
+        406
+      ],
+      "confidence": 0.997499942779541
+    },
+    {
+      "text": "INVOICE NUMBER",
+      "bbox": [
+        121,
+        391,
+        202,
+        408
+      ],
+      "confidence": 0.9872083067893982
+    },
+    {
+      "text": "MEMO INFORMATION",
+      "bbox": [
+        272,
+        388,
+        368,
+        404
+      ],
+      "confidence": 0.9698503017425537
+    },
+    {
+      "text": "ENTRY NUMBER",
+      "bbox": [
+        567,
+        385,
+        641,
+        402
+      ],
+      "confidence": 0.9984228610992432
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        680,
+        387,
+        721,
+        398
+      ],
+      "confidence": 0.9956438541412354
+    },
+    {
+      "text": "75115",
+      "bbox": [
+        97,
+        407,
+        144,
+        421
+      ],
+      "confidence": 0.9204591512680054
+    },
+    {
+      "text": "35.30",
+      "bbox": [
+        593,
+        398,
+        635,
+        416
+      ],
+      "confidence": 0.690186619758606
+    },
+    {
+      "text": "3006",
+      "bbox": [
+        407,
+        627,
+        450,
+        645
+      ],
+      "confidence": 0.9447420239448547
+    },
+    {
+      "text": "CCEN",
+      "bbox": [
+        124,
+        657,
+        168,
+        675
+      ],
+      "confidence": 0.9863337278366089
+    },
+    {
+      "text": "JCOS",
+      "bbox": [
+        290,
+        656,
+        332,
+        675
+      ],
+      "confidence": 0.8634635806083679
+    },
+    {
+      "text": "Aount",
+      "bbox": [
+        398,
+        654,
+        459,
+        674
+      ],
+      "confidence": 0.9982357025146484
+    },
+    {
+      "text": "3000",
+      "bbox": [
+        125,
+        670,
+        168,
+        690
+      ],
+      "confidence": 0.9795766472816467
+    },
+    {
+      "text": "342.13",
+      "bbox": [
+        406,
+        668,
+        468,
+        688
+      ],
+      "confidence": 0.9984357953071594
+    },
+    {
+      "text": "TIBY 0000130",
+      "bbox": [
+        580,
+        865,
+        742,
+        891
+      ],
+      "confidence": 0.9747743010520935
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE INC",
+      "bbox": [
+        322,
+        917,
+        481,
+        936
+      ],
+      "confidence": 0.950044572353363
+    },
+    {
+      "text": "CONFIDENTIAL:",
+      "bbox": [
+        531,
+        930,
+        678,
+        951
+      ],
+      "confidence": 0.9998160004615784
+    },
+    {
+      "text": "LOUISIANA TOBACCO LITIGATION",
+      "bbox": [
+        451,
+        946,
+        763,
+        971
+      ],
+      "confidence": 0.9917837381362915
+    }
+  ],
+  "full_text": "THE TOBAOCO INSTTTUTE\nCHECK NO\n1875 2 STREET, NORTHWEST\n01155\nCHECK DATE\nAMOUNT\nWASHINGTON, DC 20006\n17, 1363\n******342.13\nPAY\nTUREE\nTO THE ORDER OF\n36333\nLOOGB,\nNON - NEGOTIABLE\nr001155r 1:054000C30: :2-:5219752*\nDETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED\n01155\nTHE TOBACCO INSTITUTE\n-073320\n2-17-:\n1875 1 STREET, NORTHWEST\nWASHINOTON, DC 20006\nVENDOR NUMBER\nCHECK DATE\nCHECK NUMBER\nINVOICE DATE\nINVOICE NUMBER\nMEMO INFORMATION\nENTRY NUMBER\nAMOUNT\n75115\n35.30\n3006\nCCEN\nJCOS\nAount\n3000\n342.13\nTIBY 0000130\nTHE TOBACCO INSTITUTE INC\nCONFIDENTIAL:\nLOUISIANA TOBACCO LITIGATION"
+}

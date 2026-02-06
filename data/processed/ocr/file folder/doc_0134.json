@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0134.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "aHd",
+      "bbox": [
+        64,
+        707,
+        109,
+        723
+      ],
+      "confidence": 0.9203829765319824
+    },
+    {
+      "text": "SUSANN",
+      "bbox": [
+        57,
+        720,
+        119,
+        737
+      ],
+      "confidence": 0.9983749389648438
+    },
+    {
+      "text": "BRADY-KALNAY",
+      "bbox": [
+        127,
+        721,
+        245,
+        735
+      ],
+      "confidence": 0.979144275188446
+    }
+  ],
+  "full_text": "aHd\nSUSANN\nBRADY-KALNAY"
+}

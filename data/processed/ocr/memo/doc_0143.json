@@ -1,0 +1,321 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0143.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard",
+      "bbox": [
+        310,
+        124,
+        440,
+        169
+      ],
+      "confidence": 0.99525386095047
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        310,
+        181,
+        441,
+        202
+      ],
+      "confidence": 0.9996897578239441
+    },
+    {
+      "text": "July 8, 1975",
+      "bbox": [
+        525,
+        194,
+        626,
+        218
+      ],
+      "confidence": 0.9991104006767273
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        117,
+        223,
+        148,
+        242
+      ],
+      "confidence": 0.9898785948753357
+    },
+    {
+      "text": "Ms. Valerie Friedman",
+      "bbox": [
+        174,
+        224,
+        335,
+        243
+      ],
+      "confidence": 0.9825220108032227
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        118,
+        254,
+        164,
+        269
+      ],
+      "confidence": 0.9972367286682129
+    },
+    {
+      "text": "Ben Ungarsohn",
+      "bbox": [
+        173,
+        253,
+        281,
+        273
+      ],
+      "confidence": 0.9859614968299866
+    },
+    {
+      "text": "RE:",
+      "bbox": [
+        117,
+        281,
+        149,
+        300
+      ],
+      "confidence": 0.986717939376831
+    },
+    {
+      "text": "TRUE TIP-IN COPY TEST - TOPLINE REPORT",
+      "bbox": [
+        174,
+        282,
+        476,
+        300
+      ],
+      "confidence": 0.9892348051071167
+    },
+    {
+      "text": "MR #5542/375",
+      "bbox": [
+        174,
+        298,
+        272,
+        316
+      ],
+      "confidence": 0.9984409213066101
+    },
+    {
+      "text": "BACKGROUND:",
+      "bbox": [
+        118,
+        369,
+        209,
+        386
+      ],
+      "confidence": 0.9977138638496399
+    },
+    {
+      "text": "been pre-tested by Gallup and Robinson. Both ads were tipped-into",
+      "bbox": [
+        117,
+        412,
+        643,
+        432
+      ],
+      "confidence": 0.990810215473175
+    },
+    {
+      "text": "Two TRUE advertising executions, \"Quit\" and \"Regimen\", have",
+      "bbox": [
+        157,
+        398,
+        626,
+        416
+      ],
+      "confidence": 0.9817074537277222
+    },
+    {
+      "text": "the May 12th issue of \"Newsweek\" (Wave.I) and the June 16th issue",
+      "bbox": [
+        117,
+        425,
+        636,
+        450
+      ],
+      "confidence": 0.9425191283226013
+    },
+    {
+      "text": "of \"Time\" (Wave II). This topline report will deal with combined",
+      "bbox": [
+        117,
+        441,
+        635,
+        463
+      ],
+      "confidence": 0.9871128797531128
+    },
+    {
+      "text": "Waves I & ID.",
+      "bbox": [
+        116,
+        461,
+        223,
+        479
+      ],
+      "confidence": 0.9915825724601746
+    },
+    {
+      "text": "PURPOSE:",
+      "bbox": [
+        116,
+        506,
+        185,
+        523
+      ],
+      "confidence": 0.998521089553833
+    },
+    {
+      "text": "To test the effectiveness of the two IRuE advertising executions",
+      "bbox": [
+        155,
+        529,
+        666,
+        552
+      ],
+      "confidence": 0.9893465042114258
+    },
+    {
+      "text": "\"Quit\" and \"Regimen\" in terms of delayed (24 hour) recall.",
+      "bbox": [
+        117,
+        545,
+        577,
+        567
+      ],
+      "confidence": 0.9677425622940063
+    },
+    {
+      "text": "ME THODOLOGY :",
+      "bbox": [
+        117,
+        595,
+        212,
+        609
+      ],
+      "confidence": 0.9752125144004822
+    },
+    {
+      "text": "Interviews were conducted in 9 standard metropolitan statistical",
+      "bbox": [
+        153,
+        622,
+        667,
+        640
+      ],
+      "confidence": 0.9961982369422913
+    },
+    {
+      "text": "areas, in proportion to population density. A total of 3l4 men and",
+      "bbox": [
+        115,
+        637,
+        651,
+        656
+      ],
+      "confidence": 0.9927213191986084
+    },
+    {
+      "text": "319 women were interviewed. In all, 633 respondents participated",
+      "bbox": [
+        117,
+        655,
+        634,
+        669
+      ],
+      "confidence": 0.9860277771949768
+    },
+    {
+      "text": "yielding 2l9 smokers. An additional probe of approximately 30",
+      "bbox": [
+        117,
+        670,
+        612,
+        684
+      ],
+      "confidence": 0.9890098571777344
+    },
+    {
+      "text": "respondents per ad were conducted among: those who did not volunteer",
+      "bbox": [
+        116,
+        685,
+        651,
+        700
+      ],
+      "confidence": 0.9892610907554626
+    },
+    {
+      "text": "initial impressions of the test ads. These respondents.",
+      "bbox": [
+        116,
+        701,
+        559,
+        715
+      ],
+      "confidence": 0.9745755791664124
+    },
+    {
+      "text": "asked questions about the ad including a credibility question.",
+      "bbox": [
+        114,
+        714,
+        619,
+        732
+      ],
+      "confidence": 0.9841617345809937
+    },
+    {
+      "text": "All respcndentswere screened to determine magazine reading habits",
+      "bbox": [
+        113,
+        728,
+        636,
+        746
+      ],
+      "confidence": 0.9928719401359558
+    },
+    {
+      "text": "in crder to supply a sample with appropriate readers of the magazine",
+      "bbox": [
+        113,
+        742,
+        659,
+        760
+      ],
+      "confidence": 0.9922266602516174
+    },
+    {
+      "text": "being surveyed.",
+      "bbox": [
+        112,
+        757,
+        236,
+        775
+      ],
+      "confidence": 0.987941563129425
+    },
+    {
+      "text": "03357976",
+      "bbox": [
+        672,
+        825,
+        702,
+        922
+      ],
+      "confidence": 0.9998971223831177
+    }
+  ],
+  "full_text": "Lorillard\nMEMORANDUM\nJuly 8, 1975\nTO:\nMs. Valerie Friedman\nFROM:\nBen Ungarsohn\nRE:\nTRUE TIP-IN COPY TEST - TOPLINE REPORT\nMR #5542/375\nBACKGROUND:\nbeen pre-tested by Gallup and Robinson. Both ads were tipped-into\nTwo TRUE advertising executions, \"Quit\" and \"Regimen\", have\nthe May 12th issue of \"Newsweek\" (Wave.I) and the June 16th issue\nof \"Time\" (Wave II). This topline report will deal with combined\nWaves I & ID.\nPURPOSE:\nTo test the effectiveness of the two IRuE advertising executions\n\"Quit\" and \"Regimen\" in terms of delayed (24 hour) recall.\nME THODOLOGY :\nInterviews were conducted in 9 standard metropolitan statistical\nareas, in proportion to population density. A total of 3l4 men and\n319 women were interviewed. In all, 633 respondents participated\nyielding 2l9 smokers. An additional probe of approximately 30\nrespondents per ad were conducted among: those who did not volunteer\ninitial impressions of the test ads. These respondents.\nasked questions about the ad including a credibility question.\nAll respcndentswere screened to determine magazine reading habits\nin crder to supply a sample with appropriate readers of the magazine\nbeing surveyed.\n03357976"
+}

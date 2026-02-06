@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0314.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2085673370",
+      "bbox": [
+        149,
+        563,
+        250,
+        583
+      ],
+      "confidence": 0.9999209642410278
+    },
+    {
+      "text": "JUMP",
+      "bbox": [
+        57,
+        668,
+        177,
+        701
+      ],
+      "confidence": 0.9996309280395508
+    }
+  ],
+  "full_text": "2085673370\nJUMP"
+}

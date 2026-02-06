@@ -1,0 +1,481 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0877.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "9/9",
+      "bbox": [
+        662,
+        75,
+        715,
+        112
+      ],
+      "confidence": 0.9931495785713196
+    },
+    {
+      "text": "OCF STUDY QUESTIONS",
+      "bbox": [
+        328,
+        148,
+        504,
+        165
+      ],
+      "confidence": 0.9843397736549377
+    },
+    {
+      "text": "1. What is the 'through-the-roll' variation (versus time) of:",
+      "bbox": [
+        54,
+        204,
+        621,
+        229
+      ],
+      "confidence": 0.9821290969848633
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        99,
+        235,
+        217,
+        257
+      ],
+      "confidence": 0.9982385635375977
+    },
+    {
+      "text": "LOI",
+      "bbox": [
+        97,
+        250,
+        134,
+        271
+      ],
+      "confidence": 0.9748480319976807
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        97,
+        264,
+        171,
+        290
+      ],
+      "confidence": 0.9902734756469727
+    },
+    {
+      "text": "2. What is the variation across the roll (bobbin-to-bobbin) of:",
+      "bbox": [
+        49,
+        295,
+        642,
+        321
+      ],
+      "confidence": 0.9637643694877625
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        94,
+        327,
+        213,
+        351
+      ],
+      "confidence": 0.9995005130767822
+    },
+    {
+      "text": "LOI",
+      "bbox": [
+        94,
+        343,
+        131,
+        364
+      ],
+      "confidence": 0.9711742997169495
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        94,
+        360,
+        166,
+        382
+      ],
+      "confidence": 0.9969852566719055
+    },
+    {
+      "text": "3. of the total variability of each, hov much is 'through-the-roll'",
+      "bbox": [
+        45,
+        390,
+        678,
+        413
+      ],
+      "confidence": 0.9724525213241577
+    },
+    {
+      "text": "versus across the roll, 'versus unassignable?",
+      "bbox": [
+        75,
+        407,
+        492,
+        428
+      ],
+      "confidence": 0.9758588075637817
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        92,
+        438,
+        210,
+        459
+      ],
+      "confidence": 0.9987034797668457
+    },
+    {
+      "text": "LOI",
+      "bbox": [
+        91,
+        455,
+        126,
+        473
+      ],
+      "confidence": 0.9649893641471863
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        91,
+        470,
+        164,
+        490
+      ],
+      "confidence": 0.99821537733078
+    },
+    {
+      "text": "Slit Width",
+      "bbox": [
+        91,
+        487,
+        191,
+        504
+      ],
+      "confidence": 0.9711198806762695
+    },
+    {
+      "text": "4. What is the perceived process capability for:",
+      "bbox": [
+        49,
+        518,
+        499,
+        537
+      ],
+      "confidence": 0.9685505032539368
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        89,
+        546,
+        209,
+        569
+      ],
+      "confidence": 0.9985745549201965
+    },
+    {
+      "text": "Ave., SD, xCV",
+      "bbox": [
+        299,
+        551,
+        427,
+        569
+      ],
+      "confidence": 0.9224472641944885
+    },
+    {
+      "text": "LOI",
+      "bbox": [
+        90,
+        567,
+        123,
+        582
+      ],
+      "confidence": 0.9909792542457581
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        89,
+        583,
+        160,
+        597
+      ],
+      "confidence": 0.9981673955917358
+    },
+    {
+      "text": "Slit vidth",
+      "bbox": [
+        88,
+        597,
+        189,
+        614
+      ],
+      "confidence": 0.9833577871322632
+    },
+    {
+      "text": "Ave., SD, xCV, SD of Ave., xCv of Ave.",
+      "bbox": [
+        300,
+        599,
+        662,
+        616
+      ],
+      "confidence": 0.9322479367256165
+    },
+    {
+      "text": "Rod Circumference",
+      "bbox": [
+        86,
+        611,
+        255,
+        631
+      ],
+      "confidence": 0.9911318421363831
+    },
+    {
+      "text": "AVe., SD xCV",
+      "bbox": [
+        299,
+        615,
+        427,
+        632
+      ],
+      "confidence": 0.896907389163971
+    },
+    {
+      "text": "Rod veight",
+      "bbox": [
+        87,
+        629,
+        188,
+        646
+      ],
+      "confidence": 0.974484920501709
+    },
+    {
+      "text": "5. What do ve expect the undisturbed process capability to be",
+      "bbox": [
+        32,
+        659,
+        626,
+        681
+      ],
+      "confidence": 0.984401524066925
+    },
+    {
+      "text": "(if different from above)?",
+      "bbox": [
+        66,
+        675,
+        322,
+        696
+      ],
+      "confidence": 0.9791638255119324
+    },
+    {
+      "text": "6. What parameters can be correlated vith others?",
+      "bbox": [
+        30,
+        710,
+        510,
+        727
+      ],
+      "confidence": 0.97348552942276
+    },
+    {
+      "text": "Basis Weight versus LoI",
+      "bbox": [
+        82,
+        742,
+        310,
+        759
+      ],
+      "confidence": 0.9859176874160767
+    },
+    {
+      "text": "Basis Weight versus Caliper",
+      "bbox": [
+        81,
+        758,
+        347,
+        775
+      ],
+      "confidence": 0.9788808226585388
+    },
+    {
+      "text": "Rod Circumference versus LoI",
+      "bbox": [
+        81,
+        774,
+        357,
+        791
+      ],
+      "confidence": 0.9813200831413269
+    },
+    {
+      "text": "Slit Width",
+      "bbox": [
+        322,
+        788,
+        423,
+        809
+      ],
+      "confidence": 0.9607133865356445
+    },
+    {
+      "text": "-",
+      "bbox": [
+        91,
+        808,
+        100,
+        818
+      ],
+      "confidence": 0.7287096381187439
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        323,
+        804,
+        442,
+        826
+      ],
+      "confidence": 0.9995869994163513
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        322,
+        820,
+        395,
+        843
+      ],
+      "confidence": 0.9995104074478149
+    },
+    {
+      "text": "Rod Weight versus LoI",
+      "bbox": [
+        78,
+        840,
+        287,
+        857
+      ],
+      "confidence": 0.9902017712593079
+    },
+    {
+      "text": "Caliper",
+      "bbox": [
+        255,
+        856,
+        326,
+        873
+      ],
+      "confidence": 0.9997557401657104
+    },
+    {
+      "text": "-",
+      "bbox": [
+        90,
+        874,
+        99,
+        882
+      ],
+      "confidence": 0.9171712398529053
+    },
+    {
+      "text": "-",
+      "bbox": [
+        140,
+        874,
+        150,
+        883
+      ],
+      "confidence": 0.9589930772781372
+    },
+    {
+      "text": "-",
+      "bbox": [
+        218,
+        875,
+        228,
+        883
+      ],
+      "confidence": 0.9414829015731812
+    },
+    {
+      "text": "Basis Weight",
+      "bbox": [
+        255,
+        872,
+        372,
+        889
+      ],
+      "confidence": 0.9901025891304016
+    },
+    {
+      "text": "Slit Width",
+      "bbox": [
+        254,
+        888,
+        353,
+        905
+      ],
+      "confidence": 0.9579315185546875
+    },
+    {
+      "text": "7. Can ve construct a reasonable function of Rod Circumference and",
+      "bbox": [
+        21,
+        914,
+        674,
+        945
+      ],
+      "confidence": 0.9683490991592407
+    },
+    {
+      "text": "50627 35",
+      "bbox": [
+        707,
+        911,
+        733,
+        1000
+      ],
+      "confidence": 0.9850356578826904
+    },
+    {
+      "text": "Rod Weight versus rav material parameters?",
+      "bbox": [
+        53,
+        933,
+        469,
+        956
+      ],
+      "confidence": 0.9793927073478699
+    },
+    {
+      "text": ", What is it?",
+      "bbox": [
+        86,
+        968,
+        210,
+        986
+      ],
+      "confidence": 0.9517835378646851
+    }
+  ],
+  "full_text": "9/9\nOCF STUDY QUESTIONS\n1. What is the 'through-the-roll' variation (versus time) of:\nBasis Weight\nLOI\nCaliper\n2. What is the variation across the roll (bobbin-to-bobbin) of:\nBasis Weight\nLOI\nCaliper\n3. of the total variability of each, hov much is 'through-the-roll'\nversus across the roll, 'versus unassignable?\nBasis Weight\nLOI\nCaliper\nSlit Width\n4. What is the perceived process capability for:\nBasis Weight\nAve., SD, xCV\nLOI\nCaliper\nSlit vidth\nAve., SD, xCV, SD of Ave., xCv of Ave.\nRod Circumference\nAVe., SD xCV\nRod veight\n5. What do ve expect the undisturbed process capability to be\n(if different from above)?\n6. What parameters can be correlated vith others?\nBasis Weight versus LoI\nBasis Weight versus Caliper\nRod Circumference versus LoI\nSlit Width\n-\nBasis Weight\nCaliper\nRod Weight versus LoI\nCaliper\n-\n-\n-\nBasis Weight\nSlit Width\n7. Can ve construct a reasonable function of Rod Circumference and\n50627 35\nRod Weight versus rav material parameters?\n, What is it?"
+}

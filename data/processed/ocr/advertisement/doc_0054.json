@@ -1,0 +1,201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0054.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CAMEL",
+      "bbox": [
+        22,
+        0,
+        720,
+        192
+      ],
+      "confidence": 0.9242803454399109
+    },
+    {
+      "text": "LIGHTS and FILTERS",
+      "bbox": [
+        184,
+        144,
+        571,
+        191
+      ],
+      "confidence": 0.9989364147186279
+    },
+    {
+      "text": "50913 0182",
+      "bbox": [
+        673,
+        688,
+        700,
+        796
+      ],
+      "confidence": 0.999727725982666
+    },
+    {
+      "text": "CAMEL",
+      "bbox": [
+        154,
+        711,
+        258,
+        769
+      ],
+      "confidence": 0.9715844988822937
+    },
+    {
+      "text": "CAMCL",
+      "bbox": [
+        63,
+        716,
+        153,
+        763
+      ],
+      "confidence": 0.929207980632782
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        86,
+        743,
+        135,
+        769
+      ],
+      "confidence": 0.9992348551750183
+    },
+    {
+      "text": "FILTERS",
+      "bbox": [
+        174,
+        746,
+        232,
+        770
+      ],
+      "confidence": 0.9984970688819885
+    },
+    {
+      "text": "LIG9 .. v.  y FTC",
+      "bbox": [
+        413,
+        820,
+        691,
+        844
+      ],
+      "confidence": 0.656831681728363
+    },
+    {
+      "text": "LOW IAR",
+      "bbox": [
+        90,
+        843,
+        135,
+        867
+      ],
+      "confidence": 0.8985105156898499
+    },
+    {
+      "text": "Fi.TERS. 15 mg. \"tar\", 1.0 mg. nicotine av. per cigarette, FTC Report MAR. \"83.",
+      "bbox": [
+        384,
+        835,
+        691,
+        858
+      ],
+      "confidence": 0.8963804841041565
+    },
+    {
+      "text": "CAMEL TASTE",
+      "bbox": [
+        80,
+        852,
+        144,
+        880
+      ],
+      "confidence": 0.9974165558815002
+    },
+    {
+      "text": "URKISN & DOMESTIC",
+      "bbox": [
+        165,
+        852,
+        246,
+        880
+      ],
+      "confidence": 0.8610432744026184
+    },
+    {
+      "text": "BLEND",
+      "bbox": [
+        183,
+        863,
+        221,
+        883
+      ],
+      "confidence": 0.9966360330581665
+    },
+    {
+      "text": "Warning: The Surgeon General Has Determined",
+      "bbox": [
+        441,
+        887,
+        676,
+        907
+      ],
+      "confidence": 0.9764883518218994
+    },
+    {
+      "text": "Experience the",
+      "bbox": [
+        102,
+        901,
+        220,
+        922
+      ],
+      "confidence": 0.9995755553245544
+    },
+    {
+      "text": "That Cigarette Smoking Is Dangerous to Your Health.",
+      "bbox": [
+        441,
+        904,
+        686,
+        924
+      ],
+      "confidence": 0.9712926149368286
+    },
+    {
+      "text": "Camel taste in Lights and Filters.",
+      "bbox": [
+        38,
+        919,
+        285,
+        943
+      ],
+      "confidence": 0.9930423498153687
+    },
+    {
+      "text": "Nowsweek",
+      "bbox": [
+        439,
+        918,
+        529,
+        939
+      ],
+      "confidence": 0.9291101694107056
+    },
+    {
+      "text": "1-30-84",
+      "bbox": [
+        615,
+        922,
+        686,
+        940
+      ],
+      "confidence": 0.9002560377120972
+    }
+  ],
+  "full_text": "CAMEL\nLIGHTS and FILTERS\n50913 0182\nCAMEL\nCAMCL\nLIGHTS\nFILTERS\nLIG9 .. v.  y FTC\nLOW IAR\nFi.TERS. 15 mg. \"tar\", 1.0 mg. nicotine av. per cigarette, FTC Report MAR. \"83.\nCAMEL TASTE\nURKISN & DOMESTIC\nBLEND\nWarning: The Surgeon General Has Determined\nExperience the\nThat Cigarette Smoking Is Dangerous to Your Health.\nCamel taste in Lights and Filters.\nNowsweek\n1-30-84"
+}

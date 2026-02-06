@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0563.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Over",
+      "bbox": [
+        95,
+        1,
+        188,
+        36
+      ],
+      "confidence": 0.8408248424530029
+    },
+    {
+      "text": "C08",
+      "bbox": [
+        53,
+        18,
+        81,
+        34
+      ],
+      "confidence": 0.8395106196403503
+    },
+    {
+      "text": "THANK YOU",
+      "bbox": [
+        161,
+        36,
+        272,
+        64
+      ],
+      "confidence": 0.9624183177947998
+    },
+    {
+      "text": "TAX",
+      "bbox": [
+        134,
+        62,
+        170,
+        86
+      ],
+      "confidence": 0.9959766268730164
+    },
+    {
+      "text": "52270 6136",
+      "bbox": [
+        42,
+        175,
+        69,
+        282
+      ],
+      "confidence": 0.9494931101799011
+    },
+    {
+      "text": "832855",
+      "bbox": [
+        46,
+        381,
+        143,
+        420
+      ],
+      "confidence": 0.9988443851470947
+    },
+    {
+      "text": "CHECK NO.",
+      "bbox": [
+        69,
+        419,
+        129,
+        433
+      ],
+      "confidence": 0.994187593460083
+    },
+    {
+      "text": "$N05874ON",
+      "bbox": [
+        143,
+        421,
+        187,
+        432
+      ],
+      "confidence": 0.6014145016670227
+    },
+    {
+      "text": "TABLE NO.",
+      "bbox": [
+        186,
+        419,
+        232,
+        433
+      ],
+      "confidence": 0.9365016222000122
+    },
+    {
+      "text": "BERVER",
+      "bbox": [
+        233,
+        418,
+        270,
+        432
+      ],
+      "confidence": 0.9649917483329773
+    },
+    {
+      "text": "GUEST GHEGK",
+      "bbox": [
+        86,
+        441,
+        293,
+        490
+      ],
+      "confidence": 0.9270269274711609
+    }
+  ],
+  "full_text": "Over\nC08\nTHANK YOU\nTAX\n52270 6136\n832855\nCHECK NO.\n$N05874ON\nTABLE NO.\nBERVER\nGUEST GHEGK"
+}

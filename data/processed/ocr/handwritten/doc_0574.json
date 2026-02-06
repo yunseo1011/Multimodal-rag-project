@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0574.png",
+    "image_width": 786,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "50579 4466",
+      "bbox": [
+        77,
+        583,
+        177,
+        606
+      ],
+      "confidence": 0.9969959259033203
+    },
+    {
+      "text": "models",
+      "bbox": [
+        108,
+        654,
+        181,
+        684
+      ],
+      "confidence": 0.9319088459014893
+    }
+  ],
+  "full_text": "50579 4466\nmodels"
+}

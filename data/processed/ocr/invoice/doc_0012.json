@@ -1,0 +1,741 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0012.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ecusta",
+      "bbox": [
+        286,
+        8,
+        440,
+        43
+      ],
+      "confidence": 0.9068389534950256
+    },
+    {
+      "text": "EC5008",
+      "bbox": [
+        656,
+        14,
+        701,
+        28
+      ],
+      "confidence": 0.9989545941352844
+    },
+    {
+      "text": "SAMPLE ORDER",
+      "bbox": [
+        629,
+        27,
+        727,
+        43
+      ],
+      "confidence": 0.9970832467079163
+    },
+    {
+      "text": "04-503",
+      "bbox": [
+        663,
+        46,
+        725,
+        67
+      ],
+      "confidence": 0.9997218251228333
+    },
+    {
+      "text": "a division of P. H. GLATFELTER COMPANY",
+      "bbox": [
+        243,
+        54,
+        488,
+        71
+      ],
+      "confidence": 0.9695731997489929
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        628,
+        58,
+        648,
+        71
+      ],
+      "confidence": 0.9978254437446594
+    },
+    {
+      "text": "PISGAH FOREST, NORTH CAROLINA 28768",
+      "bbox": [
+        191,
+        71,
+        375,
+        84
+      ],
+      "confidence": 0.9937340021133423
+    },
+    {
+      "text": "TELEPHONE: 704 877-2211",
+      "bbox": [
+        420,
+        70,
+        536,
+        83
+      ],
+      "confidence": 0.9958288669586182
+    },
+    {
+      "text": "REQUESTED",
+      "bbox": [
+        9,
+        88,
+        79,
+        109
+      ],
+      "confidence": 0.9983673095703125
+    },
+    {
+      "text": "SHIP TO",
+      "bbox": [
+        445,
+        97,
+        489,
+        112
+      ],
+      "confidence": 0.9917653799057007
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        36,
+        106,
+        54,
+        119
+      ],
+      "confidence": 0.9989309310913086
+    },
+    {
+      "text": "Mr. Glenn E. Creamer",
+      "bbox": [
+        88,
+        106,
+        277,
+        125
+      ],
+      "confidence": 0.9511702656745911
+    },
+    {
+      "text": "Mr. Kenneth Wayne Smith",
+      "bbox": [
+        444,
+        109,
+        658,
+        123
+      ],
+      "confidence": 0.9880775809288025
+    },
+    {
+      "text": "R. J. Reynolds Tobacco Company",
+      "bbox": [
+        88,
+        121,
+        366,
+        141
+      ],
+      "confidence": 0.9783954620361328
+    },
+    {
+      "text": "R. J. Reynolds Tobacco Company",
+      "bbox": [
+        443,
+        122,
+        724,
+        141
+      ],
+      "confidence": 0.9936473369598389
+    },
+    {
+      "text": "Bowman Gray Technical Center",
+      "bbox": [
+        89,
+        136,
+        349,
+        157
+      ],
+      "confidence": 0.9960001111030579
+    },
+    {
+      "text": "Bowman Gray Technical Center",
+      "bbox": [
+        442,
+        137,
+        705,
+        155
+      ],
+      "confidence": 0.9853751063346863
+    },
+    {
+      "text": "P. O. BOx 1487",
+      "bbox": [
+        90,
+        154,
+        223,
+        171
+      ],
+      "confidence": 0.8916016817092896
+    },
+    {
+      "text": "950 Reynolds Boulevard",
+      "bbox": [
+        442,
+        152,
+        650,
+        170
+      ],
+      "confidence": 0.9940509796142578
+    },
+    {
+      "text": "Winston-Salem, North Carolina",
+      "bbox": [
+        89,
+        167,
+        357,
+        189
+      ],
+      "confidence": 0.9856758117675781
+    },
+    {
+      "text": "Winston-Salem, North Carolina",
+      "bbox": [
+        442,
+        168,
+        714,
+        187
+      ],
+      "confidence": 0.9986832737922668
+    },
+    {
+      "text": "27102",
+      "bbox": [
+        309,
+        183,
+        358,
+        202
+      ],
+      "confidence": 0.9995500445365906
+    },
+    {
+      "text": "27105",
+      "bbox": [
+        665,
+        184,
+        716,
+        203
+      ],
+      "confidence": 0.9998058080673218
+    },
+    {
+      "text": "CHARGE",
+      "bbox": [
+        20,
+        227,
+        66,
+        243
+      ],
+      "confidence": 0.9964993000030518
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        116,
+        231,
+        143,
+        244
+      ],
+      "confidence": 0.999644935131073
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        194,
+        228,
+        225,
+        243
+      ],
+      "confidence": 0.9997831583023071
+    },
+    {
+      "text": "DATE TO",
+      "bbox": [
+        266,
+        228,
+        309,
+        242
+      ],
+      "confidence": 0.9932921528816223
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        350,
+        227,
+        381,
+        242
+      ],
+      "confidence": 0.9988729357719421
+    },
+    {
+      "text": "SHIPPED",
+      "bbox": [
+        425,
+        227,
+        469,
+        241
+      ],
+      "confidence": 0.9994271993637085
+    },
+    {
+      "text": "ROUTING",
+      "bbox": [
+        491,
+        223,
+        535,
+        237
+      ],
+      "confidence": 0.9989781379699707
+    },
+    {
+      "text": "NNUMBER",
+      "bbox": [
+        21,
+        239,
+        67,
+        253
+      ],
+      "confidence": 0.8301490545272827
+    },
+    {
+      "text": "ENTERED",
+      "bbox": [
+        106,
+        242,
+        151,
+        253
+      ],
+      "confidence": 0.9988241195678711
+    },
+    {
+      "text": "SCHEDULED",
+      "bbox": [
+        179,
+        238,
+        241,
+        254
+      ],
+      "confidence": 0.9981520771980286
+    },
+    {
+      "text": "SHIPPING",
+      "bbox": [
+        265,
+        238,
+        310,
+        252
+      ],
+      "confidence": 0.9990094900131226
+    },
+    {
+      "text": "SHIPPED",
+      "bbox": [
+        344,
+        238,
+        388,
+        252
+      ],
+      "confidence": 0.9661121368408203
+    },
+    {
+      "text": "PPD",
+      "bbox": [
+        412,
+        237,
+        438,
+        256
+      ],
+      "confidence": 0.9991363883018494
+    },
+    {
+      "text": "COL",
+      "bbox": [
+        455,
+        240,
+        479,
+        256
+      ],
+      "confidence": 0.9911944270133972
+    },
+    {
+      "text": "3022-9461",
+      "bbox": [
+        0,
+        265,
+        86,
+        284
+      ],
+      "confidence": 0.9880998134613037
+    },
+    {
+      "text": "4/13/95",
+      "bbox": [
+        101,
+        268,
+        168,
+        286
+      ],
+      "confidence": 0.9999158978462219
+    },
+    {
+      "text": "4/20/95",
+      "bbox": [
+        179,
+        265,
+        253,
+        289
+      ],
+      "confidence": 0.9997162222862244
+    },
+    {
+      "text": "4/17/95",
+      "bbox": [
+        253,
+        267,
+        321,
+        285
+      ],
+      "confidence": 0.999663233757019
+    },
+    {
+      "text": "4/17/95",
+      "bbox": [
+        335,
+        268,
+        402,
+        286
+      ],
+      "confidence": 0.9999337792396545
+    },
+    {
+      "text": "x",
+      "bbox": [
+        414,
+        267,
+        431,
+        285
+      ],
+      "confidence": 0.8779842853546143
+    },
+    {
+      "text": "United Parcel Service",
+      "bbox": [
+        507,
+        267,
+        704,
+        286
+      ],
+      "confidence": 0.9992882013320923
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": [
+        680,
+        291,
+        728,
+        309
+      ],
+      "confidence": 0.9979686141014099
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": [
+        74,
+        295,
+        121,
+        313
+      ],
+      "confidence": 0.9991450309753418
+    },
+    {
+      "text": "SIZE",
+      "bbox": [
+        226,
+        297,
+        249,
+        314
+      ],
+      "confidence": 0.9720211029052734
+    },
+    {
+      "text": "PRODUCT",
+      "bbox": [
+        473,
+        297,
+        515,
+        312
+      ],
+      "confidence": 0.9948264956474304
+    },
+    {
+      "text": "SHIPPED",
+      "bbox": [
+        683,
+        303,
+        726,
+        318
+      ],
+      "confidence": 0.9304501414299011
+    },
+    {
+      "text": "1",
+      "bbox": [
+        0,
+        334,
+        16,
+        353
+      ],
+      "confidence": 0.9992965459823608
+    },
+    {
+      "text": "1 Bobbin",
+      "bbox": [
+        51,
+        334,
+        131,
+        356
+      ],
+      "confidence": 0.9420649409294128
+    },
+    {
+      "text": "27 mm x 6000 M",
+      "bbox": [
+        172,
+        336,
+        305,
+        355
+      ],
+      "confidence": 0.996827244758606
+    },
+    {
+      "text": "TOD O7550, Low Sidestream Cigarette",
+      "bbox": [
+        325,
+        336,
+        648,
+        354
+      ],
+      "confidence": 0.96711665391922
+    },
+    {
+      "text": "1",
+      "bbox": [
+        701,
+        338,
+        715,
+        355
+      ],
+      "confidence": 0.9974229335784912
+    },
+    {
+      "text": "Paper, 25 g/M² Basis Weight, Wood",
+      "bbox": [
+        326,
+        353,
+        631,
+        370
+      ],
+      "confidence": 0.9630708694458008
+    },
+    {
+      "text": "Magnesium Hydroxide, 0.4% Citrates",
+      "bbox": [
+        325,
+        382,
+        639,
+        400
+      ],
+      "confidence": 0.9935504794120789
+    },
+    {
+      "text": "Pulp, 28% Calcium Carbonate, 3%",
+      "bbox": [
+        326,
+        368,
+        613,
+        385
+      ],
+      "confidence": 0.9914105534553528
+    },
+    {
+      "text": "51928 2878",
+      "bbox": [
+        696,
+        842,
+        716,
+        939
+      ],
+      "confidence": 0.9998103976249695
+    },
+    {
+      "text": "SAMPLES - NO COMMERCIAL VALUE - VALUE FOR CUSTOMS PURPOSES ONLY: LESS THAN U.S. $10.00",
+      "bbox": [
+        8,
+        849,
+        538,
+        871
+      ],
+      "confidence": 0.995324969291687
+    },
+    {
+      "text": "MARKS: SAMPLES - NO COMMERCIAL VALUE",
+      "bbox": [
+        8,
+        882,
+        246,
+        902
+      ],
+      "confidence": 0.9828736186027527
+    },
+    {
+      "text": "CERTIFIED TRUE AND CORRECT",
+      "bbox": [
+        318,
+        882,
+        485,
+        897
+      ],
+      "confidence": 0.9991322755813599
+    },
+    {
+      "text": "GROSS",
+      "bbox": [
+        8,
+        904,
+        52,
+        922
+      ],
+      "confidence": 0.9750963449478149
+    },
+    {
+      "text": "KILOS",
+      "bbox": [
+        139,
+        901,
+        178,
+        919
+      ],
+      "confidence": 0.9987888336181641
+    },
+    {
+      "text": "11",
+      "bbox": [
+        200,
+        896,
+        223,
+        912
+      ],
+      "confidence": 0.9533990621566772
+    },
+    {
+      "text": "POUNDS",
+      "bbox": [
+        256,
+        902,
+        302,
+        916
+      ],
+      "confidence": 0.9991210103034973
+    },
+    {
+      "text": "KILOS",
+      "bbox": [
+        139,
+        922,
+        178,
+        940
+      ],
+      "confidence": 0.9941264986991882
+    },
+    {
+      "text": "9",
+      "bbox": [
+        211,
+        918,
+        224,
+        932
+      ],
+      "confidence": 0.9998593330383301
+    },
+    {
+      "text": "NET",
+      "bbox": [
+        5,
+        925,
+        36,
+        944
+      ],
+      "confidence": 0.9957649111747742
+    },
+    {
+      "text": "POUNDS",
+      "bbox": [
+        256,
+        923,
+        302,
+        938
+      ],
+      "confidence": 0.9995166659355164
+    },
+    {
+      "text": "AUTHORIZED GENT",
+      "bbox": [
+        317,
+        929,
+        427,
+        950
+      ],
+      "confidence": 0.9671819806098938
+    },
+    {
+      "text": "MADE IN USA",
+      "bbox": [
+        5,
+        939,
+        87,
+        959
+      ],
+      "confidence": 0.9863054156303406
+    },
+    {
+      "text": "EXPORT LICENSE GENERAL LICENSE G · DEST",
+      "bbox": [
+        6,
+        950,
+        256,
+        976
+      ],
+      "confidence": 0.9865525364875793
+    },
+    {
+      "text": "EXPORT LICENSE NOT REQUIRED",
+      "bbox": [
+        7,
+        968,
+        192,
+        994
+      ],
+      "confidence": 0.9799069762229919
+    }
+  ],
+  "full_text": "Ecusta\nEC5008\nSAMPLE ORDER\n04-503\na division of P. H. GLATFELTER COMPANY\nNo.\nPISGAH FOREST, NORTH CAROLINA 28768\nTELEPHONE: 704 877-2211\nREQUESTED\nSHIP TO\nBY\nMr. Glenn E. Creamer\nMr. Kenneth Wayne Smith\nR. J. Reynolds Tobacco Company\nR. J. Reynolds Tobacco Company\nBowman Gray Technical Center\nBowman Gray Technical Center\nP. O. BOx 1487\n950 Reynolds Boulevard\nWinston-Salem, North Carolina\nWinston-Salem, North Carolina\n27102\n27105\nCHARGE\nDATE\nDATE\nDATE TO\nDATE\nSHIPPED\nROUTING\nNNUMBER\nENTERED\nSCHEDULED\nSHIPPING\nSHIPPED\nPPD\nCOL\n3022-9461\n4/13/95\n4/20/95\n4/17/95\n4/17/95\nx\nUnited Parcel Service\nQUANTITY\nQUANTITY\nSIZE\nPRODUCT\nSHIPPED\n1\n1 Bobbin\n27 mm x 6000 M\nTOD O7550, Low Sidestream Cigarette\n1\nPaper, 25 g/M² Basis Weight, Wood\nMagnesium Hydroxide, 0.4% Citrates\nPulp, 28% Calcium Carbonate, 3%\n51928 2878\nSAMPLES - NO COMMERCIAL VALUE - VALUE FOR CUSTOMS PURPOSES ONLY: LESS THAN U.S. $10.00\nMARKS: SAMPLES - NO COMMERCIAL VALUE\nCERTIFIED TRUE AND CORRECT\nGROSS\nKILOS\n11\nPOUNDS\nKILOS\n9\nNET\nPOUNDS\nAUTHORIZED GENT\nMADE IN USA\nEXPORT LICENSE GENERAL LICENSE G · DEST\nEXPORT LICENSE NOT REQUIRED"
+}

@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0205.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "October 9, 1987",
+      "bbox": [
+        23,
+        51,
+        153,
+        77
+      ],
+      "confidence": 0.9972330927848816
+    },
+    {
+      "text": "Mr. R. D. Chumney, Jr.",
+      "bbox": [
+        23,
+        100,
+        207,
+        128
+      ],
+      "confidence": 0.9491735696792603
+    },
+    {
+      "text": "J. G. Brooks",
+      "bbox": [
+        23,
+        149,
+        129,
+        173
+      ],
+      "confidence": 0.9597770571708679
+    },
+    {
+      "text": "In-Laboratory Cigarette Panel L87-65 -",
+      "bbox": [
+        25,
+        180,
+        329,
+        208
+      ],
+      "confidence": 0.989959716796875
+    },
+    {
+      "text": "Japan: CARLToN 100's Menthol: 10-2 1st Shift (Control) Vs 10-6 (Test)",
+      "bbox": [
+        41,
+        198,
+        598,
+        226
+      ],
+      "confidence": 0.9490914940834045
+    },
+    {
+      "text": "An in-Laboratory smoke panel test, using coded cigarettes, was conducted among men-",
+      "bbox": [
+        21,
+        275,
+        675,
+        307
+      ],
+      "confidence": 0.9819429516792297
+    },
+    {
+      "text": "thol cigarette smokers to evaluate the above products. Panelists were asked:",
+      "bbox": [
+        21,
+        293,
+        629,
+        321
+      ],
+      "confidence": 0.9775139689445496
+    },
+    {
+      "text": "1. Which cigarette has more menthol effect?",
+      "bbox": [
+        36,
+        325,
+        390,
+        350
+      ],
+      "confidence": 0.9844208359718323
+    },
+    {
+      "text": "2. Which cigarette do you prefer?",
+      "bbox": [
+        34,
+        348,
+        313,
+        375
+      ],
+      "confidence": 0.9915913939476013
+    },
+    {
+      "text": "Resuits were:",
+      "bbox": [
+        19,
+        383,
+        132,
+        406
+      ],
+      "confidence": 0.9637560248374939
+    },
+    {
+      "text": "1. Which cigarette has more menthol effect?",
+      "bbox": [
+        102,
+        418,
+        451,
+        439
+      ],
+      "confidence": 0.9887951016426086
+    },
+    {
+      "text": "More Menthol Effect",
+      "bbox": [
+        400,
+        450,
+        552,
+        470
+      ],
+      "confidence": 0.9979145526885986
+    },
+    {
+      "text": "Test",
+      "bbox": [
+        242,
+        480,
+        282,
+        503
+      ],
+      "confidence": 0.9995591044425964
+    },
+    {
+      "text": "OON",
+      "bbox": [
+        464,
+        481,
+        485,
+        534
+      ],
+      "confidence": 0.7048972249031067
+    },
+    {
+      "text": "Control",
+      "bbox": [
+        243,
+        497,
+        303,
+        518
+      ],
+      "confidence": 0.8140307664871216
+    },
+    {
+      "text": "No Choice",
+      "bbox": [
+        242,
+        514,
+        318,
+        535
+      ],
+      "confidence": 0.9937944412231445
+    },
+    {
+      "text": "2. Preference",
+      "bbox": [
+        100,
+        544,
+        219,
+        569
+      ],
+      "confidence": 0.9650118350982666
+    },
+    {
+      "text": "Prefer",
+      "bbox": [
+        450,
+        575,
+        508,
+        600
+      ],
+      "confidence": 0.999485969543457
+    },
+    {
+      "text": "Test",
+      "bbox": [
+        240,
+        605,
+        281,
+        631
+      ],
+      "confidence": 0.9996148943901062
+    },
+    {
+      "text": "ONG",
+      "bbox": [
+        463,
+        607,
+        484,
+        661
+      ],
+      "confidence": 0.6438855528831482
+    },
+    {
+      "text": "Control",
+      "bbox": [
+        243,
+        626,
+        301,
+        644
+      ],
+      "confidence": 0.9879962205886841
+    },
+    {
+      "text": "No Choice",
+      "bbox": [
+        242,
+        640,
+        318,
+        663
+      ],
+      "confidence": 0.9802423119544983
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        22,
+        671,
+        94,
+        696
+      ],
+      "confidence": 0.9976896047592163
+    },
+    {
+      "text": "Panelists' comments strongly favored the Test as being a smoother, less harsh smoke.",
+      "bbox": [
+        25,
+        706,
+        681,
+        723
+      ],
+      "confidence": 0.9873414635658264
+    },
+    {
+      "text": "mwt",
+      "bbox": [
+        21,
+        764,
+        53,
+        784
+      ],
+      "confidence": 0.9779821038246155
+    },
+    {
+      "text": "CC: RSS, JFA, TCF, JGB",
+      "bbox": [
+        21,
+        823,
+        206,
+        849
+      ],
+      "confidence": 0.9847795367240906
+    }
+  ],
+  "full_text": "October 9, 1987\nMr. R. D. Chumney, Jr.\nJ. G. Brooks\nIn-Laboratory Cigarette Panel L87-65 -\nJapan: CARLToN 100's Menthol: 10-2 1st Shift (Control) Vs 10-6 (Test)\nAn in-Laboratory smoke panel test, using coded cigarettes, was conducted among men-\nthol cigarette smokers to evaluate the above products. Panelists were asked:\n1. Which cigarette has more menthol effect?\n2. Which cigarette do you prefer?\nResuits were:\n1. Which cigarette has more menthol effect?\nMore Menthol Effect\nTest\nOON\nControl\nNo Choice\n2. Preference\nPrefer\nTest\nONG\nControl\nNo Choice\nComments\nPanelists' comments strongly favored the Test as being a smoother, less harsh smoke.\nmwt\nCC: RSS, JFA, TCF, JGB"
+}

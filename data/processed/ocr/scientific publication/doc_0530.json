@@ -1,0 +1,1271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0530.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "NOTIGE",
+      "bbox": [
+        667,
+        3,
+        736,
+        21
+      ],
+      "confidence": 0.9717753529548645
+    },
+    {
+      "text": "Vol. 290",
+      "bbox": [
+        72,
+        15,
+        123,
+        29
+      ],
+      "confidence": 0.8879119157791138
+    },
+    {
+      "text": "No. 1",
+      "bbox": [
+        121,
+        15,
+        160,
+        29
+      ],
+      "confidence": 0.8168734312057495
+    },
+    {
+      "text": "1978",
+      "bbox": [
+        190,
+        12,
+        238,
+        37
+      ],
+      "confidence": 0.9989959001541138
+    },
+    {
+      "text": "PASSINE SMOKING AND ANGINA - ARONOW",
+      "bbox": [
+        274,
+        8,
+        534,
+        27
+      ],
+      "confidence": 0.973479151725769
+    },
+    {
+      "text": "This material may be",
+      "bbox": [
+        636,
+        19,
+        766,
+        38
+      ],
+      "confidence": 0.9976793527603149
+    },
+    {
+      "text": "protected by copyright",
+      "bbox": [
+        637,
+        35,
+        768,
+        55
+      ],
+      "confidence": 0.9921875
+    },
+    {
+      "text": "EFFECT OF PASSIVE SMOKING ON ANGINA PECTORIS",
+      "bbox": [
+        211,
+        48,
+        599,
+        67
+      ],
+      "confidence": 0.9975812435150146
+    },
+    {
+      "text": "law (Title 17 U:S. Co.j",
+      "bbox": [
+        636,
+        50,
+        770,
+        71
+      ],
+      "confidence": 0.8954333662986755
+    },
+    {
+      "text": "WILBERT S. ARONOW, M.D.",
+      "bbox": [
+        322,
+        74,
+        487,
+        89
+      ],
+      "confidence": 0.8675476312637329
+    },
+    {
+      "text": "Abstract The effect of passive smoking on exercise-",
+      "bbox": [
+        81,
+        105,
+        395,
+        118
+      ],
+      "confidence": 0.9922667741775513
+    },
+    {
+      "text": "crease in resting heart rate. systolic and diastoi-",
+      "bbox": [
+        413,
+        99,
+        730,
+        117
+      ],
+      "confidence": 0.9962788224220276
+    },
+    {
+      "text": "induced angina in a weil ventilated and in an unven-",
+      "bbox": [
+        79,
+        116,
+        395,
+        132
+      ],
+      "confidence": 0.9738560914993286
+    },
+    {
+      "text": "and: a greater reduction in heart rate and systolic",
+      "bbox": [
+        412,
+        126,
+        731,
+        144
+      ],
+      "confidence": 0.9694525003433228
+    },
+    {
+      "text": "ic biooa pressure, and venous carboxyhemogiobin",
+      "bbox": [
+        413,
+        113,
+        731,
+        130
+      ],
+      "confidence": 0.974877119064331
+    },
+    {
+      "text": "tilated room was evaluated in 10 patients with angina.",
+      "bbox": [
+        79,
+        129,
+        395,
+        147
+      ],
+      "confidence": 0.9791699647903442
+    },
+    {
+      "text": "biood pressure at angina. The duration of exercise",
+      "bbox": [
+        412,
+        139,
+        731,
+        157
+      ],
+      "confidence": 0.9820926189422607
+    },
+    {
+      "text": "Patients exposed to 15 cigarettes smoked within two",
+      "bbox": [
+        81,
+        143,
+        393,
+        159
+      ],
+      "confidence": 0.9838129878044128
+    },
+    {
+      "text": "hours in a well ventilated room or an unventiated",
+      "bbox": [
+        81,
+        156,
+        394,
+        173
+      ],
+      "confidence": 0.9756808280944824
+    },
+    {
+      "text": "until angina was decreased 22 per cent after passive",
+      "bbox": [
+        411,
+        153,
+        731,
+        170
+      ],
+      "confidence": 0.9874244332313538
+    },
+    {
+      "text": "room increased their resting heart rate. systolic and",
+      "bbox": [
+        81,
+        169,
+        394,
+        188
+      ],
+      "confidence": 0.9632453322410583
+    },
+    {
+      "text": "smoking in a weil ventilated room (P <0.001). and de-",
+      "bbox": [
+        411,
+        166,
+        731,
+        184
+      ],
+      "confidence": 0.9591721296310425
+    },
+    {
+      "text": "diastolic biaod pressure. and venous carboxyhemo-",
+      "bbox": [
+        82,
+        183,
+        394,
+        201
+      ],
+      "confidence": 0.9673179388046265
+    },
+    {
+      "text": "creased 38 per cent after passive smoking in an",
+      "bbox": [
+        412,
+        180,
+        730,
+        197
+      ],
+      "confidence": 0.9802563190460205
+    },
+    {
+      "text": "giobin and decreased their heart rate and systolic",
+      "bbox": [
+        82,
+        195,
+        393,
+        214
+      ],
+      "confidence": 0.9824227094650269
+    },
+    {
+      "text": "unventilated room (P<0.001): Passive smoking ag-",
+      "bbox": [
+        411,
+        194,
+        729,
+        210
+      ],
+      "confidence": 0.9618460536003113
+    },
+    {
+      "text": "blood pressure at angina. Patients exposed to passive",
+      "bbox": [
+        82,
+        208,
+        393,
+        228
+      ],
+      "confidence": 0.9857298135757446
+    },
+    {
+      "text": "gravates angina pectoris. (N Eng: J Med 299:21-24,",
+      "bbox": [
+        411,
+        206,
+        729,
+        223
+      ],
+      "confidence": 0.9792234897613525
+    },
+    {
+      "text": "smoking in an unventilated room had a larger in-",
+      "bbox": [
+        81,
+        221,
+        394,
+        241
+      ],
+      "confidence": 0.9933411478996277
+    },
+    {
+      "text": "1978)",
+      "bbox": [
+        412,
+        220,
+        447,
+        235
+      ],
+      "confidence": 0.9961981773376465
+    },
+    {
+      "text": "DASSIvE smoking is the breathing of smoke-con-",
+      "bbox": [
+        84,
+        254,
+        393,
+        275
+      ],
+      "confidence": 0.9634276032447815
+    },
+    {
+      "text": "On three successive studv mornings. ar 8 o'ciock, with the subjrct",
+      "bbox": [
+        424,
+        255,
+        728,
+        265
+      ],
+      "confidence": 0.9525600075721741
+    },
+    {
+      "text": "taining air composed of mainstream smoke ex-",
+      "bbox": [
+        106,
+        269,
+        393,
+        289
+      ],
+      "confidence": 0.9972137808799744
+    },
+    {
+      "text": "boxvhemuglobin and hemogiahin leveis wsth a 182 Co-()xsmerer*",
+      "bbox": [
+        411,
+        276,
+        729,
+        290
+      ],
+      "confidence": 0.9252480864524841
+    },
+    {
+      "text": "in the fasting srate. venous biood was drawn and analvzed for car-",
+      "bbox": [
+        412,
+        265,
+        729,
+        278
+      ],
+      "confidence": 0.9605870842933655
+    },
+    {
+      "text": "haled by smokers and of sidestream smoke. which.",
+      "bbox": [
+        81,
+        284,
+        394,
+        302
+      ],
+      "confidence": 0.9647662043571472
+    },
+    {
+      "text": "Then. Leads 2 and V, were sumultaneousiy recorded with an riec-",
+      "bbox": [
+        412,
+        289,
+        728,
+        302
+      ],
+      "confidence": 0.9682709574699402
+    },
+    {
+      "text": "leaves the burning end of the tobacco product during",
+      "bbox": [
+        80,
+        299,
+        393,
+        318
+      ],
+      "confidence": 0.9839178919792175
+    },
+    {
+      "text": "trocardiograph with the patuent sittinx on the bievcle ergometer",
+      "bbox": [
+        411,
+        302,
+        725,
+        316
+      ],
+      "confidence": 0.9344730377197266
+    },
+    {
+      "text": "puff intermissions. The amount of smoke produced..",
+      "bbox": [
+        83,
+        317,
+        393,
+        331
+      ],
+      "confidence": 0.9839117527008057
+    },
+    {
+      "text": "The resung heart rate was obcained from this clectrucarduxram",
+      "bbox": [
+        412,
+        315,
+        725,
+        328
+      ],
+      "confidence": 0.9609887003898621
+    },
+    {
+      "text": "the depth of inhalation on the part of the smoker. the",
+      "bbox": [
+        82,
+        330,
+        392,
+        345
+      ],
+      "confidence": 0.9765656590461731
+    },
+    {
+      "text": "The resung biood pressure was then measured with a mercury",
+      "bbox": [
+        410,
+        327,
+        726,
+        341
+      ],
+      "confidence": 0.9803251028060913
+    },
+    {
+      "text": "ventilation available for the removal or dispersion of",
+      "bbox": [
+        81,
+        344,
+        393,
+        360
+      ],
+      "confidence": 0.9907624125480652
+    },
+    {
+      "text": "sphvgmomanemeter",
+      "bbox": [
+        412,
+        340,
+        510,
+        353
+      ],
+      "confidence": 0.9459530115127563
+    },
+    {
+      "text": "Each subject then exercised upright an the bicycle ereomeirr",
+      "bbox": [
+        422,
+        350,
+        728,
+        365
+      ],
+      "confidence": 0.9713892340660095
+    },
+    {
+      "text": "the smoke, the nearness of the nonsmoker to the",
+      "bbox": [
+        82,
+        360,
+        392,
+        374
+      ],
+      "confidence": 0.9738376140594482
+    },
+    {
+      "text": "with a progressive work loadiuntsi the onset of angina pertnnis. and",
+      "bbox": [
+        412,
+        364,
+        728,
+        377
+      ],
+      "confidence": 0.9416995048522949
+    },
+    {
+      "text": "smoker and the duration of the exposure to the poi-",
+      "bbox": [
+        82,
+        375,
+        391,
+        389
+      ],
+      "confidence": 0.9980399012565613
+    },
+    {
+      "text": "the duration of exercise was recorded with a sropwarch. The patsent",
+      "bbox": [
+        411,
+        375,
+        727,
+        390
+      ],
+      "confidence": 0.9644920229911804
+    },
+    {
+      "text": "lutants in tobacco smoke influence the passive smok-",
+      "bbox": [
+        83,
+        390,
+        391,
+        403
+      ],
+      "confidence": 0.9944753646850586
+    },
+    {
+      "text": "was monucored by relemetry with Leads 2 and V; throughout exer-",
+      "bbox": [
+        411,
+        387,
+        728,
+        402
+      ],
+      "confidence": 0.9509464502334595
+    },
+    {
+      "text": "er's absorption of the atmospheric pollutants caused",
+      "bbox": [
+        82,
+        404,
+        391,
+        418
+      ],
+      "confidence": 0.9971284866333008
+    },
+    {
+      "text": "recorded at the onset of angina pectoris. The heart rare was ob-",
+      "bbox": [
+        410,
+        410,
+        727,
+        426
+      ],
+      "confidence": 0.9798165559768677
+    },
+    {
+      "text": "cise. An electrocardiogram with Leads 2 and V, simuitaneousiy was",
+      "bbox": [
+        412,
+        400,
+        728,
+        413
+      ],
+      "confidence": 0.971724271774292
+    },
+    {
+      "text": "by smoking.",
+      "bbox": [
+        79,
+        417,
+        158,
+        437
+      ],
+      "confidence": 0.9415754675865173
+    },
+    {
+      "text": "tained from. this ciecirucardiogram. The blood pressure was",
+      "bbox": [
+        411,
+        424,
+        726,
+        438
+      ],
+      "confidence": 0.9679728150367737
+    },
+    {
+      "text": "In patients with angina pectoris anginal pain",
+      "bbox": [
+        94,
+        432,
+        391,
+        450
+      ],
+      "confidence": 0.9945453405380249
+    },
+    {
+      "text": "recorded at the onser of angina pecturis. with thie parient continu-",
+      "bbox": [
+        411,
+        436,
+        726,
+        450
+      ],
+      "confidence": 0.9600551724433899
+    },
+    {
+      "text": "develops sooner after exercise when they have smoked",
+      "bbox": [
+        80,
+        446,
+        391,
+        464
+      ],
+      "confidence": 0.9929294586181641
+    },
+    {
+      "text": "ing, to exercise until the hloud pressure was ohsained",
+      "bbox": [
+        410,
+        447,
+        666,
+        462
+      ],
+      "confidence": 0.9514222741127014
+    },
+    {
+      "text": "high-nicotine cigarettes.² low-nicotine cigarettes' or",
+      "bbox": [
+        80,
+        461,
+        392,
+        479
+      ],
+      "confidence": 0.9537360668182373
+    },
+    {
+      "text": "and 2.74 meters (9 0 ft) high. near the research exercise laboraturs.",
+      "bbox": [
+        411,
+        472,
+        725,
+        485
+      ],
+      "confidence": 0.9723865389823914
+    },
+    {
+      "text": "In a room 3.51 meters (11.5ft) long. 3.20 meters (10:5-ft) wide",
+      "bbox": [
+        422,
+        460,
+        725,
+        473
+      ],
+      "confidence": 0.9481555819511414
+    },
+    {
+      "text": "non-nicotine cigarettes.' The effect of passive smoking",
+      "bbox": [
+        80,
+        476,
+        392,
+        494
+      ],
+      "confidence": 0.9864687323570251
+    },
+    {
+      "text": "the subject then sat with three asympromanc voiunieers for two.",
+      "bbox": [
+        411,
+        484,
+        728,
+        497
+      ],
+      "confidence": 0.9471006989479065
+    },
+    {
+      "text": "on duration of exercise until angina pectoris aiso",
+      "bbox": [
+        81,
+        492,
+        391,
+        507
+      ],
+      "confidence": 0.9864873290061951
+    },
+    {
+      "text": "houts. The patient and asymptomatic volunreers ralked. readinews-",
+      "bbox": [
+        411,
+        496,
+        726,
+        509
+      ],
+      "confidence": 0.9661664962768555
+    },
+    {
+      "text": "needed to be investigated. Thereiore, I performed a",
+      "bbox": [
+        80,
+        505,
+        393,
+        523
+      ],
+      "confidence": 0.9611496329307556
+    },
+    {
+      "text": "papers or magazines or listened to music. On one morning. thr",
+      "bbox": [
+        409,
+        505,
+        727,
+        524
+      ],
+      "confidence": 0.9650546312332153
+    },
+    {
+      "text": "randomized study evaluating the effect of passive",
+      "bbox": [
+        80,
+        519,
+        393,
+        537
+      ],
+      "confidence": 0.9891415238380432
+    },
+    {
+      "text": "each of the asvmpramasic volunreers smoked five cigarettes. his or",
+      "bbox": [
+        411,
+        531,
+        726,
+        546
+      ],
+      "confidence": 0.9413576126098633
+    },
+    {
+      "text": "smoking in a ventilated room and in an unventilated",
+      "bbox": [
+        80,
+        533,
+        393,
+        551
+      ],
+      "confidence": 0.9813632369041443
+    },
+    {
+      "text": "room on duration of exercise until the onset of angina",
+      "bbox": [
+        80,
+        547,
+        393,
+        566
+      ],
+      "confidence": 0.9879966378211975
+    },
+    {
+      "text": "her own brand. during che two hours.. The room was weil. ven-",
+      "bbox": [
+        411,
+        543,
+        726,
+        558
+      ],
+      "confidence": 0.9689874053001404
+    },
+    {
+      "text": "tlased. with a vennsianon rale of 11.4 voiumetric air changes",
+      "bbox": [
+        411,
+        552,
+        725,
+        572
+      ],
+      "confidence": 0.8951717615127563
+    },
+    {
+      "text": "pectoris. The data from this study are reported below.",
+      "bbox": [
+        81,
+        563,
+        390,
+        579
+      ],
+      "confidence": 0.989242434501648
+    },
+    {
+      "text": "per hour. On a third morning. each ofl thie asvmpromatic volun-",
+      "bbox": [
+        411,
+        565,
+        725,
+        583
+      ],
+      "confidence": 0.9406437873840332
+    },
+    {
+      "text": "MATERIALS AND METHODS",
+      "bbox": [
+        161,
+        590,
+        313,
+        600
+      ],
+      "confidence": 0.9780505895614624
+    },
+    {
+      "text": "teers smaked five cigarestes. his or her own brand. during the two",
+      "bbox": [
+        411,
+        579,
+        725,
+        595
+      ],
+      "confidence": 0.9595575332641602
+    },
+    {
+      "text": "hours, with the room unventilated. The order of exposure of the",
+      "bbox": [
+        411,
+        591,
+        725,
+        606
+      ],
+      "confidence": 0.9583466649055481
+    },
+    {
+      "text": "patxcnts wuth angua pectors to no snioking. smuking in a weil",
+      "bbox": [
+        412,
+        605,
+        725,
+        618
+      ],
+      "confidence": 0.9384084343910217
+    },
+    {
+      "text": "ciassic stabie exertional angina pectoris and angiographic evidence",
+      "bbox": [
+        81,
+        622,
+        391,
+        635
+      ],
+      "confidence": 0.9704639911651611
+    },
+    {
+      "text": "Ten men, with a mean age of 54 3 ±8.1 years (±1 S.D).). who had",
+      "bbox": [
+        91,
+        609,
+        392,
+        624
+      ],
+      "confidence": 0.9394336342811584
+    },
+    {
+      "text": "ventilated room or smoking in an unventslated room was random-",
+      "bbox": [
+        411,
+        616,
+        725,
+        630
+      ],
+      "confidence": 0.9626116156578064
+    },
+    {
+      "text": "of severe coronary-artery disease wsth > 75 per cens narrowing of at",
+      "bbox": [
+        81,
+        633,
+        392,
+        649
+      ],
+      "confidence": 0.9680730104446411
+    },
+    {
+      "text": "ized.",
+      "bbox": [
+        412,
+        629,
+        436,
+        641
+      ],
+      "confidence": 0.9995829463005066
+    },
+    {
+      "text": "leass one major coranary vessel were subjects. Eight subjects were",
+      "bbox": [
+        81,
+        645,
+        392,
+        662
+      ],
+      "confidence": 0.9710348844528198
+    },
+    {
+      "text": "smoking for two hours in a weil ventilated roem. and exposurr 10",
+      "bbox": [
+        412,
+        652,
+        729,
+        666
+      ],
+      "confidence": 0.9368100166320801
+    },
+    {
+      "text": "After exposure :o no smoking for swo hours. exposure to passive",
+      "bbox": [
+        422,
+        639,
+        726,
+        654
+      ],
+      "confidence": 0.9669011831283569
+    },
+    {
+      "text": "id nor smoke ur ar leas 16 hours before the sudv ur during the",
+      "bbox": [
+        82,
+        667,
+        393,
+        688
+      ],
+      "confidence": 0.7507690191268921
+    },
+    {
+      "text": "ex-smakers. Two subiecrs smoked rwn to four ciearertes dasiv hui",
+      "bbox": [
+        83,
+        658,
+        391,
+        671
+      ],
+      "confidence": 0.9475518465042114
+    },
+    {
+      "text": "passive smaking for two hours in an unvenulated room. the palens",
+      "bbox": [
+        412,
+        664,
+        726,
+        678
+      ],
+      "confidence": 0.9526176452636719
+    },
+    {
+      "text": "study on each of the three study mornings. After careful expianation",
+      "bbox": [
+        82,
+        681,
+        393,
+        697
+      ],
+      "confidence": 0.9430079460144043
+    },
+    {
+      "text": "sar an the bicycie ergometer and had an ciectrocardiogram with.",
+      "bbox": [
+        411,
+        675,
+        729,
+        691
+      ],
+      "confidence": 0.9636911749839783
+    },
+    {
+      "text": "of the risks invoived. wristen informed consent was obrained from",
+      "bbox": [
+        81,
+        692,
+        393,
+        710
+      ],
+      "confidence": 0.9614744186401367
+    },
+    {
+      "text": "Leads 2 and V, simuitaneousiv recorded. The heart rate was",
+      "bbox": [
+        412,
+        687,
+        727,
+        703
+      ],
+      "confidence": 0.9759362936019897
+    },
+    {
+      "text": "a 10 men wisth angina pectoris who participared in chis study. The",
+      "bbox": [
+        81,
+        704,
+        393,
+        722
+      ],
+      "confidence": 0.913032054901123
+    },
+    {
+      "text": "measured from this electrocardiogram. Then. the blood pressure",
+      "bbox": [
+        411,
+        700,
+        727,
+        715
+      ],
+      "confidence": 0.9790134429931641
+    },
+    {
+      "text": "ing the informed-consent discussion not to introduce psychologic",
+      "bbox": [
+        81,
+        727,
+        394,
+        746
+      ],
+      "confidence": 0.9289026856422424
+    },
+    {
+      "text": "subjecrs understood the experimeniai design. Care was taken dur.",
+      "bbox": [
+        82,
+        716,
+        394,
+        734
+      ],
+      "confidence": 0.9164671897888184
+    },
+    {
+      "text": "was next drawn and snaiyzed fur carboxyhemogloben and:",
+      "bbox": [
+        411,
+        723,
+        729,
+        739
+      ],
+      "confidence": 0.9442222714424133
+    },
+    {
+      "text": "was reeurded with a mercury sphygmomanometer. Venous biowd)",
+      "bbox": [
+        412,
+        713,
+        729,
+        726
+      ],
+      "confidence": 0.9575762152671814
+    },
+    {
+      "text": "factors reiared to the risk of passive smuking.",
+      "bbox": [
+        82,
+        740,
+        296,
+        756
+      ],
+      "confidence": 0.975337028503418
+    },
+    {
+      "text": "hemnglobin-levels.",
+      "bbox": [
+        412,
+        736,
+        501,
+        749
+      ],
+      "confidence": 0.9340824484825134
+    },
+    {
+      "text": "The 10 subjerts were familiaruzed with she equiumens and the",
+      "bbox": [
+        93,
+        752,
+        393,
+        767
+      ],
+      "confidence": 0.9118014574050903
+    },
+    {
+      "text": "Subsequentiy. the pasient exereised upright on the bicvcie",
+      "bbox": [
+        421,
+        746,
+        726,
+        761
+      ],
+      "confidence": 0.9597888588905334
+    },
+    {
+      "text": "procedures and pracuced exercising uprght un a Coilins* consiant-",
+      "bbox": [
+        84,
+        765,
+        393,
+        778
+      ],
+      "confidence": 0.952234148979187
+    },
+    {
+      "text": "ergumeier unuithe omset oi angina pertors. and the duraton oliex-",
+      "bbox": [
+        411,
+        758,
+        727,
+        773
+      ],
+      "confidence": 0.9126492142677307
+    },
+    {
+      "text": "ercise was recorded wsth a stopwatch. An eiectrocardiogram with",
+      "bbox": [
+        411,
+        769,
+        728,
+        785
+      ],
+      "confidence": 0.9858410954475403
+    },
+    {
+      "text": "load bicycle ergometer before the studv began. The study was per-",
+      "bbox": [
+        83,
+        776,
+        393,
+        790
+      ],
+      "confidence": 0.9692797660827637
+    },
+    {
+      "text": "farmed on three consecutive mornings.",
+      "bbox": [
+        83,
+        787,
+        266,
+        803
+      ],
+      "confidence": 0.9811046719551086
+    },
+    {
+      "text": "Leads 2 and V, was sumusranenusiy recnrded at the onset of angina",
+      "bbox": [
+        413,
+        780,
+        728,
+        797
+      ],
+      "confidence": 0.9643887281417847
+    },
+    {
+      "text": "jerinns. The heart rate was obrained from shis clectrocardingram.",
+      "bbox": [
+        412,
+        793,
+        728,
+        808
+      ],
+      "confidence": 0.9368640780448914
+    },
+    {
+      "text": "The bisod pressure was recorded at the anset. of angina pectors.",
+      "bbox": [
+        413,
+        805,
+        728,
+        821
+      ],
+      "confidence": 0.9618057012557983
+    },
+    {
+      "text": "From the Caraiuvasculan Section, Medical Service. Long Beuch. Veserans",
+      "bbox": [
+        92,
+        829,
+        394,
+        843
+      ],
+      "confidence": 0.944534420967102
+    },
+    {
+      "text": "uhiained. The phvsscsan who periormed the exercise tesis knew",
+      "bbox": [
+        412,
+        830,
+        729,
+        846
+      ],
+      "confidence": 0.9680181741714478
+    },
+    {
+      "text": "with che patent continuing to exereuse untl she biood pressure was",
+      "bbox": [
+        413,
+        818,
+        729,
+        834
+      ],
+      "confidence": 0.9479953050613403
+    },
+    {
+      "text": "Adminisuratan Huspuali and the Unversaty o Californua Cullege of",
+      "bbox": [
+        84,
+        840,
+        394,
+        854
+      ],
+      "confidence": 0.8971931338310242
+    },
+    {
+      "text": "w hether the patienis were exposed to no smoking. smoiking in a weil",
+      "bbox": [
+        413,
+        842,
+        729,
+        858
+      ],
+      "confidence": 0.9417346715927124
+    },
+    {
+      "text": "Medicine. Irvne (address reprint requests to Dr. Aronow at the Cardiovas-",
+      "bbox": [
+        85,
+        852,
+        393,
+        865
+      ],
+      "confidence": 0.9574622511863708
+    },
+    {
+      "text": "ventiaied room or smoking in an unventsiated room.",
+      "bbox": [
+        413,
+        854,
+        670,
+        870
+      ],
+      "confidence": 0.9573987722396851
+    },
+    {
+      "text": "cuiar Section, Veserans Administration Hospnai, Long Beach, CA 9o822).",
+      "bbox": [
+        86,
+        864,
+        392,
+        874
+      ],
+      "confidence": 0.9421928524971008
+    },
+    {
+      "text": "*Warren E. Collins, Inc., Braintree. M.A.",
+      "bbox": [
+        94,
+        897,
+        267,
+        911
+      ],
+      "confidence": 0.9332753419876099
+    },
+    {
+      "text": "*Instrumentation Laboratory, inc., Licxsngton.. MA.",
+      "bbox": [
+        420,
+        900,
+        642,
+        916
+      ],
+      "confidence": 0.8797128796577454
+    },
+    {
+      "text": "2023512192",
+      "bbox": [
+        527,
+        927,
+        690,
+        954
+      ],
+      "confidence": 0.9998556971549988
+    }
+  ],
+  "full_text": "NOTIGE\nVol. 290\nNo. 1\n1978\nPASSINE SMOKING AND ANGINA - ARONOW\nThis material may be\nprotected by copyright\nEFFECT OF PASSIVE SMOKING ON ANGINA PECTORIS\nlaw (Title 17 U:S. Co.j\nWILBERT S. ARONOW, M.D.\nAbstract The effect of passive smoking on exercise-\ncrease in resting heart rate. systolic and diastoi-\ninduced angina in a weil ventilated and in an unven-\nand: a greater reduction in heart rate and systolic\nic biooa pressure, and venous carboxyhemogiobin\ntilated room was evaluated in 10 patients with angina.\nbiood pressure at angina. The duration of exercise\nPatients exposed to 15 cigarettes smoked within two\nhours in a well ventilated room or an unventiated\nuntil angina was decreased 22 per cent after passive\nroom increased their resting heart rate. systolic and\nsmoking in a weil ventilated room (P <0.001). and de-\ndiastolic biaod pressure. and venous carboxyhemo-\ncreased 38 per cent after passive smoking in an\ngiobin and decreased their heart rate and systolic\nunventilated room (P<0.001): Passive smoking ag-\nblood pressure at angina. Patients exposed to passive\ngravates angina pectoris. (N Eng: J Med 299:21-24,\nsmoking in an unventilated room had a larger in-\n1978)\nDASSIvE smoking is the breathing of smoke-con-\nOn three successive studv mornings. ar 8 o'ciock, with the subjrct\ntaining air composed of mainstream smoke ex-\nboxvhemuglobin and hemogiahin leveis wsth a 182 Co-()xsmerer*\nin the fasting srate. venous biood was drawn and analvzed for car-\nhaled by smokers and of sidestream smoke. which.\nThen. Leads 2 and V, were sumultaneousiy recorded with an riec-\nleaves the burning end of the tobacco product during\ntrocardiograph with the patuent sittinx on the bievcle ergometer\npuff intermissions. The amount of smoke produced..\nThe resung heart rate was obcained from this clectrucarduxram\nthe depth of inhalation on the part of the smoker. the\nThe resung biood pressure was then measured with a mercury\nventilation available for the removal or dispersion of\nsphvgmomanemeter\nEach subject then exercised upright an the bicycle ereomeirr\nthe smoke, the nearness of the nonsmoker to the\nwith a progressive work loadiuntsi the onset of angina pertnnis. and\nsmoker and the duration of the exposure to the poi-\nthe duration of exercise was recorded with a sropwarch. The patsent\nlutants in tobacco smoke influence the passive smok-\nwas monucored by relemetry with Leads 2 and V; throughout exer-\ner's absorption of the atmospheric pollutants caused\nrecorded at the onset of angina pectoris. The heart rare was ob-\ncise. An electrocardiogram with Leads 2 and V, simuitaneousiy was\nby smoking.\ntained from. this ciecirucardiogram. The blood pressure was\nIn patients with angina pectoris anginal pain\nrecorded at the onser of angina pecturis. with thie parient continu-\ndevelops sooner after exercise when they have smoked\ning, to exercise until the hloud pressure was ohsained\nhigh-nicotine cigarettes.² low-nicotine cigarettes' or\nand 2.74 meters (9 0 ft) high. near the research exercise laboraturs.\nIn a room 3.51 meters (11.5ft) long. 3.20 meters (10:5-ft) wide\nnon-nicotine cigarettes.' The effect of passive smoking\nthe subject then sat with three asympromanc voiunieers for two.\non duration of exercise until angina pectoris aiso\nhouts. The patient and asymptomatic volunreers ralked. readinews-\nneeded to be investigated. Thereiore, I performed a\npapers or magazines or listened to music. On one morning. thr\nrandomized study evaluating the effect of passive\neach of the asvmpramasic volunreers smoked five cigarettes. his or\nsmoking in a ventilated room and in an unventilated\nroom on duration of exercise until the onset of angina\nher own brand. during che two hours.. The room was weil. ven-\ntlased. with a vennsianon rale of 11.4 voiumetric air changes\npectoris. The data from this study are reported below.\nper hour. On a third morning. each ofl thie asvmpromatic volun-\nMATERIALS AND METHODS\nteers smaked five cigarestes. his or her own brand. during the two\nhours, with the room unventilated. The order of exposure of the\npatxcnts wuth angua pectors to no snioking. smuking in a weil\nciassic stabie exertional angina pectoris and angiographic evidence\nTen men, with a mean age of 54 3 ±8.1 years (±1 S.D).). who had\nventilated room or smoking in an unventslated room was random-\nof severe coronary-artery disease wsth > 75 per cens narrowing of at\nized.\nleass one major coranary vessel were subjects. Eight subjects were\nsmoking for two hours in a weil ventilated roem. and exposurr 10\nAfter exposure :o no smoking for swo hours. exposure to passive\nid nor smoke ur ar leas 16 hours before the sudv ur during the\nex-smakers. Two subiecrs smoked rwn to four ciearertes dasiv hui\npassive smaking for two hours in an unvenulated room. the palens\nstudy on each of the three study mornings. After careful expianation\nsar an the bicycie ergometer and had an ciectrocardiogram with.\nof the risks invoived. wristen informed consent was obrained from\nLeads 2 and V, simuitaneousiv recorded. The heart rate was\na 10 men wisth angina pectoris who participared in chis study. The\nmeasured from this electrocardiogram. Then. the blood pressure\ning the informed-consent discussion not to introduce psychologic\nsubjecrs understood the experimeniai design. Care was taken dur.\nwas next drawn and snaiyzed fur carboxyhemogloben and:\nwas reeurded with a mercury sphygmomanometer. Venous biowd)\nfactors reiared to the risk of passive smuking.\nhemnglobin-levels.\nThe 10 subjerts were familiaruzed with she equiumens and the\nSubsequentiy. the pasient exereised upright on the bicvcie\nprocedures and pracuced exercising uprght un a Coilins* consiant-\nergumeier unuithe omset oi angina pertors. and the duraton oliex-\nercise was recorded wsth a stopwatch. An eiectrocardiogram with\nload bicycle ergometer before the studv began. The study was per-\nfarmed on three consecutive mornings.\nLeads 2 and V, was sumusranenusiy recnrded at the onset of angina\njerinns. The heart rate was obrained from shis clectrocardingram.\nThe bisod pressure was recorded at the anset. of angina pectors.\nFrom the Caraiuvasculan Section, Medical Service. Long Beuch. Veserans\nuhiained. The phvsscsan who periormed the exercise tesis knew\nwith che patent continuing to exereuse untl she biood pressure was\nAdminisuratan Huspuali and the Unversaty o Californua Cullege of\nw hether the patienis were exposed to no smoking. smoiking in a weil\nMedicine. Irvne (address reprint requests to Dr. Aronow at the Cardiovas-\nventiaied room or smoking in an unventsiated room.\ncuiar Section, Veserans Administration Hospnai, Long Beach, CA 9o822).\n*Warren E. Collins, Inc., Braintree. M.A.\n*Instrumentation Laboratory, inc., Licxsngton.. MA.\n2023512192"
+}

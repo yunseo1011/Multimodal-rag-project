@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0442.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        266,
+        71,
+        454,
+        102
+      ],
+      "confidence": 0.9847009181976318
+    },
+    {
+      "text": "MANAGEMENT CORP.",
+      "bbox": [
+        312,
+        103,
+        408,
+        118
+      ],
+      "confidence": 0.991936981678009
+    },
+    {
+      "text": "P.O. BOX 26583 · RICHMOND, VA 23261 · (804) 274-2000",
+      "bbox": [
+        247,
+        115,
+        474,
+        128
+      ],
+      "confidence": 0.9510926604270935
+    },
+    {
+      "text": "Kevin B. OSBORNE",
+      "bbox": [
+        26,
+        160,
+        142,
+        186
+      ],
+      "confidence": 0.7843132615089417
+    },
+    {
+      "text": "SENIOR COUNSEL",
+      "bbox": [
+        39,
+        174,
+        130,
+        196
+      ],
+      "confidence": 0.9952340126037598
+    },
+    {
+      "text": "(804) 274-5872",
+      "bbox": [
+        606,
+        179,
+        686,
+        193
+      ],
+      "confidence": 0.9733365774154663
+    },
+    {
+      "text": "FAX: (804) 274-4780",
+      "bbox": [
+        583,
+        189,
+        685,
+        202
+      ],
+      "confidence": 0.9454772472381592
+    },
+    {
+      "text": "December 9, 1998",
+      "bbox": [
+        475,
+        260,
+        595,
+        277
+      ],
+      "confidence": 0.9966145753860474
+    },
+    {
+      "text": "Mr. Joseph H. Ricketts, Jr.",
+      "bbox": [
+        58,
+        314,
+        242,
+        339
+      ],
+      "confidence": 0.9926360249519348
+    },
+    {
+      "text": "Vice President",
+      "bbox": [
+        58,
+        333,
+        165,
+        356
+      ],
+      "confidence": 0.9980927109718323
+    },
+    {
+      "text": "Ametek, Inc.",
+      "bbox": [
+        59,
+        354,
+        151,
+        375
+      ],
+      "confidence": 0.990243136882782
+    },
+    {
+      "text": "Specialty Metal Products Division",
+      "bbox": [
+        60,
+        375,
+        297,
+        395
+      ],
+      "confidence": 0.9940108060836792
+    },
+    {
+      "text": "P.O. Box 5807",
+      "bbox": [
+        60,
+        393,
+        160,
+        413
+      ],
+      "confidence": 0.9541250467300415
+    },
+    {
+      "text": "21 Toelles Road",
+      "bbox": [
+        62,
+        413,
+        174,
+        430
+      ],
+      "confidence": 0.9957725405693054
+    },
+    {
+      "text": "Wallingford, CT 06492",
+      "bbox": [
+        61,
+        430,
+        221,
+        452
+      ],
+      "confidence": 0.9988656044006348
+    },
+    {
+      "text": "Amendment No. 6 to the Commercialization and Purchase Agreement",
+      "bbox": [
+        160,
+        484,
+        650,
+        508
+      ],
+      "confidence": 0.9915804266929626
+    },
+    {
+      "text": "Re:",
+      "bbox": [
+        108,
+        490,
+        137,
+        509
+      ],
+      "confidence": 0.9995917677879333
+    },
+    {
+      "text": "dated December 8, 1995 Between Philip Morris Incorporated and",
+      "bbox": [
+        164,
+        503,
+        619,
+        527
+      ],
+      "confidence": 0.9894686937332153
+    },
+    {
+      "text": "Ametek, Incorporated",
+      "bbox": [
+        166,
+        527,
+        319,
+        544
+      ],
+      "confidence": 0.9903286099433899
+    },
+    {
+      "text": "Dear Mr: Ricketts:",
+      "bbox": [
+        64,
+        564,
+        194,
+        585
+      ],
+      "confidence": 0.9925727844238281
+    },
+    {
+      "text": "Enclosed are two originals of the above agreement. Please have both",
+      "bbox": [
+        155,
+        597,
+        628,
+        622
+      ],
+      "confidence": 0.9932861328125
+    },
+    {
+      "text": "agreements signed on behalf of Ametek, and return them to us. We will then have them",
+      "bbox": [
+        64,
+        616,
+        667,
+        643
+      ],
+      "confidence": 0.9846454858779907
+    },
+    {
+      "text": "executed on behalf of Philip Morris, and will return one original to you for your files.",
+      "bbox": [
+        65,
+        636,
+        645,
+        661
+      ],
+      "confidence": 0.9769392609596252
+    },
+    {
+      "text": "Thank you for your assistance.",
+      "bbox": [
+        157,
+        677,
+        365,
+        699
+      ],
+      "confidence": 0.991589367389679
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        438,
+        715,
+        512,
+        737
+      ],
+      "confidence": 0.9999505281448364
+    },
+    {
+      "text": "Kevin B. Osborne",
+      "bbox": [
+        438,
+        790,
+        570,
+        814
+      ],
+      "confidence": 0.9356492757797241
+    },
+    {
+      "text": "KBO:mcc",
+      "bbox": [
+        57,
+        831,
+        130,
+        856
+      ],
+      "confidence": 0.9749993085861206
+    },
+    {
+      "text": "Enclosures",
+      "bbox": [
+        58,
+        854,
+        138,
+        874
+      ],
+      "confidence": 0.9997852444648743
+    },
+    {
+      "text": "2064339581",
+      "bbox": [
+        718,
+        864,
+        746,
+        969
+      ],
+      "confidence": 0.9999622106552124
+    }
+  ],
+  "full_text": "PHILIP MORRIS\nMANAGEMENT CORP.\nP.O. BOX 26583 · RICHMOND, VA 23261 · (804) 274-2000\nKevin B. OSBORNE\nSENIOR COUNSEL\n(804) 274-5872\nFAX: (804) 274-4780\nDecember 9, 1998\nMr. Joseph H. Ricketts, Jr.\nVice President\nAmetek, Inc.\nSpecialty Metal Products Division\nP.O. Box 5807\n21 Toelles Road\nWallingford, CT 06492\nAmendment No. 6 to the Commercialization and Purchase Agreement\nRe:\ndated December 8, 1995 Between Philip Morris Incorporated and\nAmetek, Incorporated\nDear Mr: Ricketts:\nEnclosed are two originals of the above agreement. Please have both\nagreements signed on behalf of Ametek, and return them to us. We will then have them\nexecuted on behalf of Philip Morris, and will return one original to you for your files.\nThank you for your assistance.\nSincerely,\nKevin B. Osborne\nKBO:mcc\nEnclosures\n2064339581"
+}

@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0671.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Tell us what you think.. 51595 6769",
+      "bbox": [
+        290,
+        20,
+        754,
+        67
+      ],
+      "confidence": 0.9624630808830261
+    },
+    {
+      "text": "I think NOW in the KNow is.. eLaud aanrbrige deies thon",
+      "bbox": [
+        288,
+        68,
+        718,
+        97
+      ],
+      "confidence": 0.7971044778823853
+    },
+    {
+      "text": "I smoke Now because..Rastab Ratbans kL cluoas Pfas:",
+      "bbox": [
+        285,
+        145,
+        717,
+        172
+      ],
+      "confidence": 0.7518811821937561
+    },
+    {
+      "text": "860165126",
+      "bbox": [
+        536,
+        225,
+        608,
+        239
+      ],
+      "confidence": 0.999439537525177
+    },
+    {
+      "text": "ROBERT DEMALINE",
+      "bbox": [
+        535,
+        240,
+        654,
+        253
+      ],
+      "confidence": 0.9954131245613098
+    },
+    {
+      "text": "214 HIGH ST",
+      "bbox": [
+        535,
+        253,
+        631,
+        270
+      ],
+      "confidence": 0.9935998916625977
+    },
+    {
+      "text": "LIBERTY CTR- OH 43532-9343",
+      "bbox": [
+        536,
+        269,
+        735,
+        286
+      ],
+      "confidence": 0.9577977657318115
+    },
+    {
+      "text": "Please respond by 1i/s8",
+      "bbox": [
+        288,
+        284,
+        442,
+        306
+      ],
+      "confidence": 0.9327231645584106
+    },
+    {
+      "text": "AH3",
+      "bbox": [
+        751,
+        296,
+        754,
+        312
+      ],
+      "confidence": 0.9997645020484924
+    }
+  ],
+  "full_text": "Tell us what you think.. 51595 6769\nI think NOW in the KNow is.. eLaud aanrbrige deies thon\nI smoke Now because..Rastab Ratbans kL cluoas Pfas:\n860165126\nROBERT DEMALINE\n214 HIGH ST\nLIBERTY CTR- OH 43532-9343\nPlease respond by 1i/s8\nAH3"
+}

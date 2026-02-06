@@ -1,0 +1,571 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0862.png",
+    "image_width": 790,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PAGB1OP 2",
+      "bbox": [
+        636,
+        14,
+        686,
+        28
+      ],
+      "confidence": 0.863513708114624
+    },
+    {
+      "text": "DIVISION PROFILE",
+      "bbox": [
+        10,
+        29,
+        185,
+        50
+      ],
+      "confidence": 0.9978629350662231
+    },
+    {
+      "text": "Assignment Number",
+      "bbox": [
+        2,
+        85,
+        146,
+        102
+      ],
+      "confidence": 0.9997372627258301
+    },
+    {
+      "text": "1 - 02 - 109",
+      "bbox": [
+        235,
+        85,
+        333,
+        102
+      ],
+      "confidence": 0.9412601590156555
+    },
+    {
+      "text": "Location",
+      "bbox": [
+        449,
+        85,
+        510,
+        102
+      ],
+      "confidence": 0.9999530911445618
+    },
+    {
+      "text": "Queens, N.Y.",
+      "bbox": [
+        592,
+        83,
+        683,
+        100
+      ],
+      "confidence": 0.9985308051109314
+    },
+    {
+      "text": "Area-Region-Division",
+      "bbox": [
+        204,
+        100,
+        359,
+        121
+      ],
+      "confidence": 0.9672144651412964
+    },
+    {
+      "text": "Completed By",
+      "bbox": [
+        0,
+        133,
+        105,
+        156
+      ],
+      "confidence": 0.9834647178649902
+    },
+    {
+      "text": "R. Di Donato",
+      "bbox": [
+        232,
+        134,
+        318,
+        154
+      ],
+      "confidence": 0.9631962180137634
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        471,
+        135,
+        509,
+        153
+      ],
+      "confidence": 0.9999314546585083
+    },
+    {
+      "text": "7- 19 -95",
+      "bbox": [
+        601,
+        133,
+        687,
+        150
+      ],
+      "confidence": 0.9246866703033447
+    },
+    {
+      "text": "GEOGRAPHY/DEMOGRAPHICS",
+      "bbox": [
+        12,
+        186,
+        266,
+        208
+      ],
+      "confidence": 0.9986867308616638
+    },
+    {
+      "text": "Definition of boundaries:",
+      "bbox": [
+        4,
+        242,
+        168,
+        256
+      ],
+      "confidence": 0.9844109416007996
+    },
+    {
+      "text": "This Division consists of approximately 65% of Queens. and 20% of the Bronx County:",
+      "bbox": [
+        101,
+        269,
+        656,
+        291
+      ],
+      "confidence": 0.9893898367881775
+    },
+    {
+      "text": "North - Harlem River to Burnside Ave. and Webster Ave. into 163rd St. and the Bruckner",
+      "bbox": [
+        100,
+        302,
+        675,
+        325
+      ],
+      "confidence": 0.9722747206687927
+    },
+    {
+      "text": "Expressway.",
+      "bbox": [
+        156,
+        324,
+        243,
+        341
+      ],
+      "confidence": 0.999929666519165
+    },
+    {
+      "text": "West - East Channel including all calls located within the North side of the L.1.E up to",
+      "bbox": [
+        99,
+        370,
+        655,
+        392
+      ],
+      "confidence": 0.969577431678772
+    },
+    {
+      "text": "Grand Ave. into Queens Blvd.",
+      "bbox": [
+        152,
+        389,
+        346,
+        407
+      ],
+      "confidence": 0.9944373965263367
+    },
+    {
+      "text": "East  Collage Point to the Whitestone Expressway. Up to but not including calls",
+      "bbox": [
+        101,
+        422,
+        624,
+        444
+      ],
+      "confidence": 0.9887726306915283
+    },
+    {
+      "text": "located on Parson Blvd. and Utopia Parkway.",
+      "bbox": [
+        152,
+        440,
+        444,
+        461
+      ],
+      "confidence": 0.9726331233978271
+    },
+    {
+      "text": "South - The Van Wyck Expressway to Jamica Bay into the Rockaway Inlet,",
+      "bbox": [
+        102,
+        474,
+        587,
+        496
+      ],
+      "confidence": 0.9970570206642151
+    },
+    {
+      "text": "which includes all calls located in the towns of Breezy Point to Far Rockaway",
+      "bbox": [
+        162,
+        492,
+        657,
+        513
+      ],
+      "confidence": 0.9904101490974426
+    },
+    {
+      "text": "to the Nassau County Line.",
+      "bbox": [
+        161,
+        511,
+        335,
+        530
+      ],
+      "confidence": 0.9989098906517029
+    },
+    {
+      "text": "Population",
+      "bbox": [
+        18,
+        618,
+        100,
+        636
+      ],
+      "confidence": 0.9999450445175171
+    },
+    {
+      "text": "White %",
+      "bbox": [
+        182,
+        618,
+        242,
+        635
+      ],
+      "confidence": 0.9995514750480652
+    },
+    {
+      "text": "Black %",
+      "bbox": [
+        299,
+        618,
+        358,
+        636
+      ],
+      "confidence": 0.9992576241493225
+    },
+    {
+      "text": "Hispanic %",
+      "bbox": [
+        418,
+        618,
+        502,
+        636
+      ],
+      "confidence": 0.9996248483657837
+    },
+    {
+      "text": "12 %",
+      "bbox": [
+        571,
+        616,
+        615,
+        635
+      ],
+      "confidence": 0.9986912608146667
+    },
+    {
+      "text": "1,600,000",
+      "bbox": [
+        31,
+        635,
+        99,
+        652
+      ],
+      "confidence": 0.9920403957366943
+    },
+    {
+      "text": "40",
+      "bbox": [
+        206,
+        635,
+        228,
+        653
+      ],
+      "confidence": 0.9999328255653381
+    },
+    {
+      "text": "22",
+      "bbox": [
+        326,
+        636,
+        348,
+        654
+      ],
+      "confidence": 0.9999611973762512
+    },
+    {
+      "text": "26",
+      "bbox": [
+        449,
+        635,
+        473,
+        654
+      ],
+      "confidence": 0.9999791383743286
+    },
+    {
+      "text": "(Other)",
+      "bbox": [
+        559,
+        634,
+        614,
+        655
+      ],
+      "confidence": 0.9871033430099487
+    },
+    {
+      "text": "STAFFING",
+      "bbox": [
+        22,
+        686,
+        107,
+        708
+      ],
+      "confidence": 0.8878859877586365
+    },
+    {
+      "text": "SR",
+      "bbox": [
+        18,
+        740,
+        45,
+        762
+      ],
+      "confidence": 0.9992505311965942
+    },
+    {
+      "text": "ADM",
+      "bbox": [
+        506,
+        741,
+        545,
+        763
+      ],
+      "confidence": 0.9999448657035828
+    },
+    {
+      "text": "6",
+      "bbox": [
+        138,
+        745,
+        152,
+        762
+      ],
+      "confidence": 0.9999703168869019
+    },
+    {
+      "text": "GOV'T",
+      "bbox": [
+        251,
+        743,
+        298,
+        762
+      ],
+      "confidence": 0.9943763613700867
+    },
+    {
+      "text": "0",
+      "bbox": [
+        331,
+        743,
+        348,
+        761
+      ],
+      "confidence": 0.998504638671875
+    },
+    {
+      "text": "0",
+      "bbox": [
+        676,
+        745,
+        690,
+        761
+      ],
+      "confidence": 0.9990437626838684
+    },
+    {
+      "text": "MCA",
+      "bbox": [
+        11,
+        800,
+        52,
+        823
+      ],
+      "confidence": 0.9998651146888733
+    },
+    {
+      "text": "VS",
+      "bbox": [
+        249,
+        799,
+        275,
+        820
+      ],
+      "confidence": 0.8163987398147583
+    },
+    {
+      "text": "0",
+      "bbox": [
+        332,
+        799,
+        349,
+        818
+      ],
+      "confidence": 0.9979845285415649
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        512,
+        800,
+        566,
+        819
+      ],
+      "confidence": 0.9997733235359192
+    },
+    {
+      "text": "0",
+      "bbox": [
+        682,
+        802,
+        696,
+        819
+      ],
+      "confidence": 0.9990501999855042
+    },
+    {
+      "text": "0",
+      "bbox": [
+        136,
+        803,
+        149,
+        819
+      ],
+      "confidence": 0.9994463324546814
+    },
+    {
+      "text": "PART-TIME:",
+      "bbox": [
+        8,
+        840,
+        112,
+        860
+      ],
+      "confidence": 0.9951613545417786
+    },
+    {
+      "text": "DAMAGED GOODS",
+      "bbox": [
+        8,
+        876,
+        147,
+        896
+      ],
+      "confidence": 0.9997389912605286
+    },
+    {
+      "text": "0",
+      "bbox": [
+        239,
+        876,
+        252,
+        891
+      ],
+      "confidence": 0.9988445043563843
+    },
+    {
+      "text": "MERCHANDISERS",
+      "bbox": [
+        425,
+        873,
+        554,
+        892
+      ],
+      "confidence": 0.9998927712440491
+    },
+    {
+      "text": "0",
+      "bbox": [
+        688,
+        877,
+        701,
+        893
+      ],
+      "confidence": 0.9958990216255188
+    },
+    {
+      "text": "94543035",
+      "bbox": [
+        762,
+        869,
+        790,
+        973
+      ],
+      "confidence": 0.9999352097511292
+    },
+    {
+      "text": "SECRETARIES",
+      "bbox": [
+        9,
+        911,
+        117,
+        931
+      ],
+      "confidence": 0.9998685717582703
+    },
+    {
+      "text": "0",
+      "bbox": [
+        239,
+        912,
+        252,
+        926
+      ],
+      "confidence": 0.9989303946495056
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        426,
+        909,
+        480,
+        927
+      ],
+      "confidence": 0.9998120069503784
+    },
+    {
+      "text": "0",
+      "bbox": [
+        688,
+        913,
+        701,
+        928
+      ],
+      "confidence": 0.9998670816421509
+    }
+  ],
+  "full_text": "PAGB1OP 2\nDIVISION PROFILE\nAssignment Number\n1 - 02 - 109\nLocation\nQueens, N.Y.\nArea-Region-Division\nCompleted By\nR. Di Donato\nDate\n7- 19 -95\nGEOGRAPHY/DEMOGRAPHICS\nDefinition of boundaries:\nThis Division consists of approximately 65% of Queens. and 20% of the Bronx County:\nNorth - Harlem River to Burnside Ave. and Webster Ave. into 163rd St. and the Bruckner\nExpressway.\nWest - East Channel including all calls located within the North side of the L.1.E up to\nGrand Ave. into Queens Blvd.\nEast  Collage Point to the Whitestone Expressway. Up to but not including calls\nlocated on Parson Blvd. and Utopia Parkway.\nSouth - The Van Wyck Expressway to Jamica Bay into the Rockaway Inlet,\nwhich includes all calls located in the towns of Breezy Point to Far Rockaway\nto the Nassau County Line.\nPopulation\nWhite %\nBlack %\nHispanic %\n12 %\n1,600,000\n40\n22\n26\n(Other)\nSTAFFING\nSR\nADM\n6\nGOV'T\n0\n0\nMCA\nVS\n0\nOTHER\n0\n0\nPART-TIME:\nDAMAGED GOODS\n0\nMERCHANDISERS\n0\n94543035\nSECRETARIES\n0\nOTHER\n0"
+}

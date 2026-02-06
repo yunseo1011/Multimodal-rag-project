@@ -1,0 +1,251 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0791.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "12-19-95",
+      "bbox": [
+        598,
+        217,
+        714,
+        253
+      ],
+      "confidence": 0.9959578514099121
+    },
+    {
+      "text": "I whom it may conceni",
+      "bbox": [
+        374,
+        248,
+        724,
+        295
+      ],
+      "confidence": 0.87956303358078
+    },
+    {
+      "text": " reciened my. coupons",
+      "bbox": [
+        423,
+        304,
+        731,
+        340
+      ],
+      "confidence": 0.9076931476593018
+    },
+    {
+      "text": "for 4freefacks dnd",
+      "bbox": [
+        386,
+        331,
+        686,
+        370
+      ],
+      "confidence": 0.779608964920044
+    },
+    {
+      "text": "free.carton.on12-18-95.",
+      "bbox": [
+        385,
+        356,
+        698,
+        398
+      ],
+      "confidence": 0.8851544857025146
+    },
+    {
+      "text": "I was oliscounaged to",
+      "bbox": [
+        385,
+        384,
+        693,
+        422
+      ],
+      "confidence": 0.8910252451896667
+    },
+    {
+      "text": "find out that they expise",
+      "bbox": [
+        381,
+        408,
+        730,
+        449
+      ],
+      "confidence": 0.8759838342666626
+    },
+    {
+      "text": "onthat Same day.",
+      "bbox": [
+        382,
+        437,
+        663,
+        471
+      ],
+      "confidence": 0.9266973733901978
+    },
+    {
+      "text": "A recieve my maid",
+      "bbox": [
+        443,
+        458,
+        735,
+        494
+      ],
+      "confidence": 0.8702319264411926
+    },
+    {
+      "text": "eanly afternoon bit do",
+      "bbox": [
+        387,
+        485,
+        717,
+        522
+      ],
+      "confidence": 0.900461733341217
+    },
+    {
+      "text": "mot pick it up untils",
+      "bbox": [
+        390,
+        512,
+        710,
+        547
+      ],
+      "confidence": 0.8416063189506531
+    },
+    {
+      "text": "6 pm. (aftee wonk).",
+      "bbox": [
+        393,
+        538,
+        658,
+        575
+      ],
+      "confidence": 0.790515124797821
+    },
+    {
+      "text": "Wam vey",
+      "bbox": [
+        440,
+        561,
+        612,
+        604
+      ],
+      "confidence": 0.6528692245483398
+    },
+    {
+      "text": "51723 5081",
+      "bbox": [
+        720,
+        553,
+        741,
+        651
+      ],
+      "confidence": 0.9996305704116821
+    },
+    {
+      "text": "tryigg",
+      "bbox": [
+        595,
+        579,
+        700,
+        636
+      ],
+      "confidence": 0.9572052359580994
+    },
+    {
+      "text": "intersted in",
+      "bbox": [
+        390,
+        594,
+        610,
+        621
+      ],
+      "confidence": 0.9640087485313416
+    },
+    {
+      "text": "Camed cigauttes.",
+      "bbox": [
+        391,
+        615,
+        637,
+        649
+      ],
+      "confidence": 0.9317503571510315
+    },
+    {
+      "text": "would appreceate any",
+      "bbox": [
+        390,
+        644,
+        694,
+        674
+      ],
+      "confidence": 0.9498707056045532
+    },
+    {
+      "text": "compon you can send",
+      "bbox": [
+        393,
+        667,
+        715,
+        705
+      ],
+      "confidence": 0.8450961709022522
+    },
+    {
+      "text": "me",
+      "bbox": [
+        392,
+        702,
+        459,
+        724
+      ],
+      "confidence": 0.7222720384597778
+    },
+    {
+      "text": "Jhank yeu,",
+      "bbox": [
+        552,
+        706,
+        726,
+        757
+      ],
+      "confidence": 0.7702294588088989
+    },
+    {
+      "text": "DOB. 3/23/69",
+      "bbox": [
+        383,
+        745,
+        517,
+        773
+      ],
+      "confidence": 0.8678264021873474
+    },
+    {
+      "text": "KwonRoleton",
+      "bbox": [
+        523,
+        750,
+        736,
+        803
+      ],
+      "confidence": 0.7699909806251526
+    },
+    {
+      "text": "193 Game Ridge RdSelah wa 98942.",
+      "bbox": [
+        408,
+        783,
+        743,
+        817
+      ],
+      "confidence": 0.8304064273834229
+    }
+  ],
+  "full_text": "12-19-95\nI whom it may conceni\n reciened my. coupons\nfor 4freefacks dnd\nfree.carton.on12-18-95.\nI was oliscounaged to\nfind out that they expise\nonthat Same day.\nA recieve my maid\neanly afternoon bit do\nmot pick it up untils\n6 pm. (aftee wonk).\nWam vey\n51723 5081\ntryigg\nintersted in\nCamed cigauttes.\nwould appreceate any\ncompon you can send\nme\nJhank yeu,\nDOB. 3/23/69\nKwonRoleton\n193 Game Ridge RdSelah wa 98942."
+}

@@ -1,0 +1,671 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0476.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        291,
+        6,
+        465,
+        23
+      ],
+      "confidence": 0.9820303916931152
+    },
+    {
+      "text": "Investigator/Program Director. Photocopy this page for each person.",
+      "bbox": [
+        209,
+        43,
+        547,
+        57
+      ],
+      "confidence": 0.9896929264068604
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        24,
+        65,
+        65,
+        86
+      ],
+      "confidence": 0.9998676180839539
+    },
+    {
+      "text": "BIRTHDATE (Mo., Day, Yr.)",
+      "bbox": [
+        555,
+        66,
+        694,
+        86
+      ],
+      "confidence": 0.9409817457199097
+    },
+    {
+      "text": "Roy A. Tassava",
+      "bbox": [
+        108,
+        81,
+        222,
+        104
+      ],
+      "confidence": 0.9978080987930298
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        342,
+        73,
+        428,
+        87
+      ],
+      "confidence": 0.9793387055397034
+    },
+    {
+      "text": "Professor, Dept of Moleculat",
+      "bbox": [
+        340,
+        84,
+        558,
+        103
+      ],
+      "confidence": 0.9785225987434387
+    },
+    {
+      "text": "July 5, 1937",
+      "bbox": [
+        577,
+        83,
+        681,
+        108
+      ],
+      "confidence": 0.9835901260375977
+    },
+    {
+      "text": "Genetics,",
+      "bbox": [
+        347,
+        100,
+        423,
+        119
+      ],
+      "confidence": 0.999149739742279
+    },
+    {
+      "text": "OSU",
+      "bbox": [
+        434,
+        102,
+        462,
+        117
+      ],
+      "confidence": 0.9858250021934509
+    },
+    {
+      "text": "EDUCATION (Begin with baccalaureate or other initial proiessional education. such as nursing. and include postdoctoral training.)",
+      "bbox": [
+        28,
+        116,
+        679,
+        136
+      ],
+      "confidence": 0.9732061624526978
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        393,
+        141,
+        440,
+        156
+      ],
+      "confidence": 0.9998330473899841
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        492,
+        135,
+        525,
+        150
+      ],
+      "confidence": 0.999736487865448
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        592,
+        138,
+        685,
+        155
+      ],
+      "confidence": 0.9993438124656677
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        123,
+        144,
+        276,
+        158
+      ],
+      "confidence": 0.9991282820701599
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        473,
+        148,
+        542,
+        162
+      ],
+      "confidence": 0.9512481689453125
+    },
+    {
+      "text": "Northern Michigan University, Marquette",
+      "bbox": [
+        46,
+        185,
+        352,
+        203
+      ],
+      "confidence": 0.9956604242324829
+    },
+    {
+      "text": "B.S.",
+      "bbox": [
+        394,
+        182,
+        431,
+        201
+      ],
+      "confidence": 0.997904896736145
+    },
+    {
+      "text": "1959",
+      "bbox": [
+        487,
+        182,
+        523,
+        201
+      ],
+      "confidence": 0.9999480843544006
+    },
+    {
+      "text": "Biology",
+      "bbox": [
+        562,
+        181,
+        624,
+        202
+      ],
+      "confidence": 0.999419629573822
+    },
+    {
+      "text": "Brown University, Providence",
+      "bbox": [
+        46,
+        201,
+        267,
+        219
+      ],
+      "confidence": 0.9943831562995911
+    },
+    {
+      "text": "M.S.",
+      "bbox": [
+        394,
+        199,
+        430,
+        217
+      ],
+      "confidence": 0.9802950620651245
+    },
+    {
+      "text": "1965",
+      "bbox": [
+        487,
+        199,
+        523,
+        217
+      ],
+      "confidence": 0.9998182058334351
+    },
+    {
+      "text": "Dev. Biology",
+      "bbox": [
+        564,
+        200,
+        663,
+        217
+      ],
+      "confidence": 0.9874275326728821
+    },
+    {
+      "text": "Michigan State University, East Lansing",
+      "bbox": [
+        45,
+        216,
+        351,
+        234
+      ],
+      "confidence": 0.9897688031196594
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        395,
+        215,
+        438,
+        233
+      ],
+      "confidence": 0.9991174936294556
+    },
+    {
+      "text": "1968",
+      "bbox": [
+        487,
+        214,
+        524,
+        233
+      ],
+      "confidence": 0.9999418258666992
+    },
+    {
+      "text": "Dev. Biology",
+      "bbox": [
+        564,
+        215,
+        664,
+        232
+      ],
+      "confidence": 0.9909095168113708
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position. list, in chronologicai order, previous employment, experience,",
+      "bbox": [
+        28,
+        245,
+        731,
+        268
+      ],
+      "confidence": 0.964410126209259
+    },
+    {
+      "text": "honors ncide present membership onany Federal overnment publicadvisory committe isn hronological order, he titesan com",
+      "bbox": [
+        27,
+        257,
+        733,
+        283
+      ],
+      "confidence": 0.6626842021942139
+    },
+    {
+      "text": "EXCEED TWO PAGES.",
+      "bbox": [
+        30,
+        292,
+        146,
+        306
+      ],
+      "confidence": 0.9876655340194702
+    },
+    {
+      "text": "1968-1969 NIH Postdoctoral Fellowship, Michigan State University.",
+      "bbox": [
+        28,
+        304,
+        469,
+        327
+      ],
+      "confidence": 0.9900186657905579
+    },
+    {
+      "text": "1969-1973 Assistant Professor, Department of Zoology, Ohio State University",
+      "bbox": [
+        29,
+        326,
+        530,
+        346
+      ],
+      "confidence": 0.9940555691719055
+    },
+    {
+      "text": "1973-1977 Associate Professor, Department of Zoology, Ohio State University",
+      "bbox": [
+        29,
+        345,
+        533,
+        365
+      ],
+      "confidence": 0.9816381931304932
+    },
+    {
+      "text": "1975-1979 Director, Developmental Biology Program, Ohio State Univeristy",
+      "bbox": [
+        28,
+        363,
+        522,
+        383
+      ],
+      "confidence": 0.9919914603233337
+    },
+    {
+      "text": "1977-",
+      "bbox": [
+        29,
+        384,
+        74,
+        402
+      ],
+      "confidence": 0.99994957447052
+    },
+    {
+      "text": "Professor, Department of Zoology, Ohio State University",
+      "bbox": [
+        107,
+        385,
+        472,
+        402
+      ],
+      "confidence": 0.9985833168029785
+    },
+    {
+      "text": "1985-1985 Senior Research Professor (professional leave), Developmental Biology Laboratory,",
+      "bbox": [
+        27,
+        401,
+        642,
+        422
+      ],
+      "confidence": 0.981197714805603
+    },
+    {
+      "text": "Massachusett Hospital.",
+      "bbox": [
+        124,
+        424,
+        269,
+        439
+      ],
+      "confidence": 0.9853900671005249
+    },
+    {
+      "text": "1987-",
+      "bbox": [
+        29,
+        442,
+        75,
+        461
+      ],
+      "confidence": 0.9998685121536255
+    },
+    {
+      "text": "Professor, Department of Molecular Genetics, Ohio State Univeristy",
+      "bbox": [
+        108,
+        441,
+        544,
+        461
+      ],
+      "confidence": 0.9826833605766296
+    },
+    {
+      "text": "PUBLICATIONS: (Since 1982)",
+      "bbox": [
+        28,
+        477,
+        242,
+        500
+      ],
+      "confidence": 0.9714629650115967
+    },
+    {
+      "text": "1. Tassava RA. Treece DP. Olsen CL. Effects of partial denervation on the newt blastema cell cycle.",
+      "bbox": [
+        28,
+        514,
+        681,
+        539
+      ],
+      "confidence": 0.9776779413223267
+    },
+    {
+      "text": "In: Limb Development and Regeneration Part A (Editors, J.F. Fallon and A.I. Caplan). Alsn Liss,",
+      "bbox": [
+        53,
+        535,
+        689,
+        556
+      ],
+      "confidence": 0.9830048680305481
+    },
+    {
+      "text": "Publishers. 537-545, 1982.",
+      "bbox": [
+        55,
+        554,
+        228,
+        575
+      ],
+      "confidence": 0.9927701950073242
+    },
+    {
+      "text": "2. Tassava RA, Olsen CL. Higher vertebrates do not regenerate because the wound epidermis is not",
+      "bbox": [
+        29,
+        574,
+        680,
+        596
+      ],
+      "confidence": 0.9845294952392578
+    },
+    {
+      "text": "functional: an hypothesis. Differentiation. 22: 151-155, 1982",
+      "bbox": [
+        55,
+        595,
+        456,
+        612
+      ],
+      "confidence": 0.9845782518386841
+    },
+    {
+      "text": "3.Tassava RA. Limb regeneration to digit stages occurs in well-fed newts after hypophysectomy. J.",
+      "bbox": [
+        31,
+        612,
+        684,
+        633
+      ],
+      "confidence": 0.9782326817512512
+    },
+    {
+      "text": "Exp. Zool. 225: 433-441, 1983.",
+      "bbox": [
+        57,
+        632,
+        265,
+        649
+      ],
+      "confidence": 0.9799595475196838
+    },
+    {
+      "text": "4. Tassava RA. Supernumerary limb induction in Ambystoma by frog tissue implants. Ohio J. Sci. 83:",
+      "bbox": [
+        32,
+        648,
+        703,
+        672
+      ],
+      "confidence": 0.9718660116195679
+    },
+    {
+      "text": "197-200, 1983.",
+      "bbox": [
+        57,
+        666,
+        156,
+        687
+      ],
+      "confidence": 0.9889889359474182
+    },
+    {
+      "text": "5.Olsen CL. Tassava RA. Cell cycle and histological effects of re-innervation in denervated forelimb",
+      "bbox": [
+        32,
+        685,
+        693,
+        712
+      ],
+      "confidence": 0.9838690161705017
+    },
+    {
+      "text": "stumps of larval Ambystoma. J. Exp. Zool. 229: 247-258, 1984.",
+      "bbox": [
+        56,
+        705,
+        474,
+        729
+      ],
+      "confidence": 0.9822613000869751
+    },
+    {
+      "text": "6.Garling DG. Tassava RA. Injury nerve and wound epidermis related electrophoretic and fluorogra-",
+      "bbox": [
+        32,
+        723,
+        695,
+        753
+      ],
+      "confidence": 0.9837102293968201
+    },
+    {
+      "text": "phic protein synthesis patterns in forelimbs of adult newts. J. Exp. Zool. 231: 221-241, 1984.",
+      "bbox": [
+        55,
+        743,
+        667,
+        771
+      ],
+      "confidence": 0.9774792194366455
+    },
+    {
+      "text": "7. Olsen CL, Tassava RA. Cell cycle and histological effects of reinnervation in denervated forelimb",
+      "bbox": [
+        29,
+        761,
+        691,
+        791
+      ],
+      "confidence": 0.9785685539245605
+    },
+    {
+      "text": "stumps of larval Ambystoma_ J. Exp. Zool. 229: 247-258, 1984.",
+      "bbox": [
+        55,
+        780,
+        476,
+        808
+      ],
+      "confidence": 0.9540570378303528
+    },
+    {
+      "text": "8. Olsen CL. Barger PM, Tassava RA. Rescue of blocked cells by re-innervation in denervated fore-",
+      "bbox": [
+        29,
+        799,
+        688,
+        832
+      ],
+      "confidence": 0.9785768389701843
+    },
+    {
+      "text": "limb stumps of larval Ambystoma. Dev. Biol. 106: 399-405, 1985.",
+      "bbox": [
+        54,
+        819,
+        487,
+        848
+      ],
+      "confidence": 0.98541259765625
+    },
+    {
+      "text": "9 Tassava RA, Olsen CL. Neurotrophic influences on cellular proliferation in urodele limb",
+      "bbox": [
+        26,
+        838,
+        629,
+        870
+      ],
+      "confidence": 0.9734094738960266
+    },
+    {
+      "text": "regeneration: in vivo experiments. In : Regulation of Forelimb Regeneration. R. Sicard, Ed.",
+      "bbox": [
+        50,
+        858,
+        663,
+        892
+      ],
+      "confidence": 0.9695135951042175
+    },
+    {
+      "text": "Oxford Univeristy Press, 1985.",
+      "bbox": [
+        51,
+        877,
+        253,
+        901
+      ],
+      "confidence": 0.9968333840370178
+    },
+    {
+      "text": "10. Barger PM. Tassava RA. Kinetics of cell cycle entry in innervated and denervated forelimb stumps",
+      "bbox": [
+        23,
+        894,
+        702,
+        935
+      ],
+      "confidence": 0.9872115850448608
+    },
+    {
+      "text": "of larval Ambystoma_ J. Exp. Zool. 233: 151-154, 1985.",
+      "bbox": [
+        47,
+        916,
+        420,
+        945
+      ],
+      "confidence": 0.9666656255722046
+    },
+    {
+      "text": "PHS 398 (Rev. 9/86)",
+      "bbox": [
+        18,
+        971,
+        125,
+        990
+      ],
+      "confidence": 0.9860788583755493
+    },
+    {
+      "text": "Paoc",
+      "bbox": [
+        347,
+        977,
+        383,
+        999
+      ],
+      "confidence": 0.9308962225914001
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nInvestigator/Program Director. Photocopy this page for each person.\nNAME\nBIRTHDATE (Mo., Day, Yr.)\nRoy A. Tassava\nPOSITION TITLE\nProfessor, Dept of Moleculat\nJuly 5, 1937\nGenetics,\nOSU\nEDUCATION (Begin with baccalaureate or other initial proiessional education. such as nursing. and include postdoctoral training.)\nDEGREE\nYEAR\nFIELD OF STUDY\nINSTITUTION AND LOCATION\nCONFERRED\nNorthern Michigan University, Marquette\nB.S.\n1959\nBiology\nBrown University, Providence\nM.S.\n1965\nDev. Biology\nMichigan State University, East Lansing\nPh.D.\n1968\nDev. Biology\nRESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position. list, in chronologicai order, previous employment, experience,\nhonors ncide present membership onany Federal overnment publicadvisory committe isn hronological order, he titesan com\nEXCEED TWO PAGES.\n1968-1969 NIH Postdoctoral Fellowship, Michigan State University.\n1969-1973 Assistant Professor, Department of Zoology, Ohio State University\n1973-1977 Associate Professor, Department of Zoology, Ohio State University\n1975-1979 Director, Developmental Biology Program, Ohio State Univeristy\n1977-\nProfessor, Department of Zoology, Ohio State University\n1985-1985 Senior Research Professor (professional leave), Developmental Biology Laboratory,\nMassachusett Hospital.\n1987-\nProfessor, Department of Molecular Genetics, Ohio State Univeristy\nPUBLICATIONS: (Since 1982)\n1. Tassava RA. Treece DP. Olsen CL. Effects of partial denervation on the newt blastema cell cycle.\nIn: Limb Development and Regeneration Part A (Editors, J.F. Fallon and A.I. Caplan). Alsn Liss,\nPublishers. 537-545, 1982.\n2. Tassava RA, Olsen CL. Higher vertebrates do not regenerate because the wound epidermis is not\nfunctional: an hypothesis. Differentiation. 22: 151-155, 1982\n3.Tassava RA. Limb regeneration to digit stages occurs in well-fed newts after hypophysectomy. J.\nExp. Zool. 225: 433-441, 1983.\n4. Tassava RA. Supernumerary limb induction in Ambystoma by frog tissue implants. Ohio J. Sci. 83:\n197-200, 1983.\n5.Olsen CL. Tassava RA. Cell cycle and histological effects of re-innervation in denervated forelimb\nstumps of larval Ambystoma. J. Exp. Zool. 229: 247-258, 1984.\n6.Garling DG. Tassava RA. Injury nerve and wound epidermis related electrophoretic and fluorogra-\nphic protein synthesis patterns in forelimbs of adult newts. J. Exp. Zool. 231: 221-241, 1984.\n7. Olsen CL, Tassava RA. Cell cycle and histological effects of reinnervation in denervated forelimb\nstumps of larval Ambystoma_ J. Exp. Zool. 229: 247-258, 1984.\n8. Olsen CL. Barger PM, Tassava RA. Rescue of blocked cells by re-innervation in denervated fore-\nlimb stumps of larval Ambystoma. Dev. Biol. 106: 399-405, 1985.\n9 Tassava RA, Olsen CL. Neurotrophic influences on cellular proliferation in urodele limb\nregeneration: in vivo experiments. In : Regulation of Forelimb Regeneration. R. Sicard, Ed.\nOxford Univeristy Press, 1985.\n10. Barger PM. Tassava RA. Kinetics of cell cycle entry in innervated and denervated forelimb stumps\nof larval Ambystoma_ J. Exp. Zool. 233: 151-154, 1985.\nPHS 398 (Rev. 9/86)\nPaoc"
+}

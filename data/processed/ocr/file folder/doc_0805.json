@@ -1,0 +1,71 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0805.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "797881-018",
+      "bbox": [
+        536,
+        105,
+        574,
+        247
+      ],
+      "confidence": 0.9939401745796204
+    },
+    {
+      "text": "1",
+      "bbox": [
+        656,
+        362,
+        665,
+        372
+      ],
+      "confidence": 0.9063156247138977
+    },
+    {
+      "text": "Factory Lots",
+      "bbox": [
+        378,
+        427,
+        403,
+        546
+      ],
+      "confidence": 0.998622715473175
+    },
+    {
+      "text": "Sept.-Dec. 1953",
+      "bbox": [
+        395,
+        423,
+        419,
+        546
+      ],
+      "confidence": 0.9793429970741272
+    },
+    {
+      "text": "Lucky Strikce.",
+      "bbox": [
+        364,
+        443,
+        385,
+        545
+      ],
+      "confidence": 0.9280591011047363
+    },
+    {
+      "text": "PHYSICAL PROPERTIES:",
+      "bbox": [
+        358,
+        555,
+        385,
+        722
+      ],
+      "confidence": 0.9949407577514648
+    }
+  ],
+  "full_text": "797881-018\n1\nFactory Lots\nSept.-Dec. 1953\nLucky Strikce.\nPHYSICAL PROPERTIES:"
+}

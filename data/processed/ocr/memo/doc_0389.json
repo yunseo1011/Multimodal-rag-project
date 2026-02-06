@@ -1,0 +1,521 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0389.png",
+    "image_width": 785,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS INCORPORATED",
+      "bbox": [
+        18,
+        8,
+        347,
+        36
+      ],
+      "confidence": 0.9997622966766357
+    },
+    {
+      "text": "INTER-OFFICE CORRESPONDENCE",
+      "bbox": [
+        437,
+        12,
+        758,
+        41
+      ],
+      "confidence": 0.9974783658981323
+    },
+    {
+      "text": "1875 EYE STREET, N.W., SUITE 5OO, WASHINGTON, D.C. 2OOO6",
+      "bbox": [
+        372,
+        38,
+        758,
+        64
+      ],
+      "confidence": 0.9633445739746094
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        15,
+        83,
+        45,
+        102
+      ],
+      "confidence": 0.9979645609855652
+    },
+    {
+      "text": "DISTRIBUTION",
+      "bbox": [
+        73,
+        95,
+        210,
+        118
+      ],
+      "confidence": 0.9998763203620911
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        496,
+        89,
+        532,
+        107
+      ],
+      "confidence": 0.9994815587997437
+    },
+    {
+      "text": "June 22, 1987",
+      "bbox": [
+        539,
+        101,
+        676,
+        121
+      ],
+      "confidence": 0.9973491430282593
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        17,
+        119,
+        64,
+        137
+      ],
+      "confidence": 0.9991236925125122
+    },
+    {
+      "text": "Amy Millman",
+      "bbox": [
+        72,
+        129,
+        200,
+        155
+      ],
+      "confidence": 0.998771071434021
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        16,
+        154,
+        77,
+        175
+      ],
+      "confidence": 0.9978751540184021
+    },
+    {
+      "text": "DoD Issues Smoking Report",
+      "bbox": [
+        77,
+        170,
+        343,
+        188
+      ],
+      "confidence": 0.9788927435874939
+    },
+    {
+      "text": "In accordance with the FY87 Department of Defense",
+      "bbox": [
+        75,
+        220,
+        592,
+        243
+      ],
+      "confidence": 0.9866126179695129
+    },
+    {
+      "text": "Appropriations Bill, the DoD has submitted its report on",
+      "bbox": [
+        74,
+        236,
+        664,
+        263
+      ],
+      "confidence": 0.9879764914512634
+    },
+    {
+      "text": "smoking and health in the military to the Senate and House",
+      "bbox": [
+        75,
+        255,
+        682,
+        278
+      ],
+      "confidence": 0.9904555082321167
+    },
+    {
+      "text": "Appropriations Committees. The report was to include the",
+      "bbox": [
+        75,
+        271,
+        673,
+        297
+      ],
+      "confidence": 0.9933980703353882
+    },
+    {
+      "text": "following information: data concerning results achieved by the",
+      "bbox": [
+        75,
+        289,
+        722,
+        315
+      ],
+      "confidence": 0.980281412601471
+    },
+    {
+      "text": "intensive anti-smoking campaign and revised recommendations",
+      "bbox": [
+        76,
+        306,
+        693,
+        332
+      ],
+      "confidence": 0.9937376976013184
+    },
+    {
+      "text": "based upon these data. The report was also to include the",
+      "bbox": [
+        74,
+        325,
+        683,
+        350
+      ],
+      "confidence": 0.9852197766304016
+    },
+    {
+      "text": "Secretary of Defense's recommendation on pricing and sales",
+      "bbox": [
+        75,
+        343,
+        682,
+        367
+      ],
+      "confidence": 0.9908428192138672
+    },
+    {
+      "text": "restrictions.",
+      "bbox": [
+        76,
+        363,
+        216,
+        381
+      ],
+      "confidence": 0.9999040365219116
+    },
+    {
+      "text": "After reviewing actions taken by the Department and the",
+      "bbox": [
+        77,
+        396,
+        652,
+        417
+      ],
+      "confidence": 0.9892106056213379
+    },
+    {
+      "text": "individual services, including the results of their surveys,",
+      "bbox": [
+        77,
+        413,
+        701,
+        436
+      ],
+      "confidence": 0.9962567687034607
+    },
+    {
+      "text": "the report concluded that the anti-smoking campaign was a",
+      "bbox": [
+        78,
+        432,
+        672,
+        453
+      ],
+      "confidence": 0.9938400387763977
+    },
+    {
+      "text": "success (dollar sales of cigarettes have declined i8 percent",
+      "bbox": [
+        78,
+        449,
+        702,
+        471
+      ],
+      "confidence": 0.9980839490890503
+    },
+    {
+      "text": "over the last six months).",
+      "bbox": [
+        77,
+        469,
+        364,
+        488
+      ],
+      "confidence": 0.9808075428009033
+    },
+    {
+      "text": "The report recommended that the",
+      "bbox": [
+        368,
+        467,
+        692,
+        488
+      ],
+      "confidence": 0.9925054907798767
+    },
+    {
+      "text": "smoking education campaign continue as currently designed and",
+      "bbox": [
+        77,
+        484,
+        711,
+        509
+      ],
+      "confidence": 0.9908909797668457
+    },
+    {
+      "text": "This policy",
+      "bbox": [
+        604,
+        502,
+        722,
+        524
+      ],
+      "confidence": 0.9979721307754517
+    },
+    {
+      "text": "that the tobacco pricing policy remain the same.",
+      "bbox": [
+        77,
+        504,
+        580,
+        526
+      ],
+      "confidence": 0.9914807677268982
+    },
+    {
+      "text": "is likely to remain in effect at least until the results of the",
+      "bbox": [
+        75,
+        518,
+        734,
+        547
+      ],
+      "confidence": 0.998162567615509
+    },
+    {
+      "text": "DoD Biennial World-wide Study of Substance Abuse and Health",
+      "bbox": [
+        77,
+        538,
+        693,
+        563
+      ],
+      "confidence": 0.9845641851425171
+    },
+    {
+      "text": "Behaviors Among Military Personnel become available in late",
+      "bbox": [
+        77,
+        556,
+        692,
+        581
+      ],
+      "confidence": 0.9983677864074707
+    },
+    {
+      "text": "1988.",
+      "bbox": [
+        78,
+        578,
+        133,
+        596
+      ],
+      "confidence": 0.9994921684265137
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        78,
+        617,
+        112,
+        632
+      ],
+      "confidence": 0.7250664830207825
+    },
+    {
+      "text": "G. Bible",
+      "bbox": [
+        121,
+        629,
+        206,
+        648
+      ],
+      "confidence": 0.9967948198318481
+    },
+    {
+      "text": "W. Burrell",
+      "bbox": [
+        120,
+        645,
+        227,
+        667
+      ],
+      "confidence": 0.9952957034111023
+    },
+    {
+      "text": "T. Costas",
+      "bbox": [
+        120,
+        664,
+        217,
+        684
+      ],
+      "confidence": 0.9695699214935303
+    },
+    {
+      "text": "H. Cullman",
+      "bbox": [
+        120,
+        681,
+        227,
+        701
+      ],
+      "confidence": 0.9814826250076294
+    },
+    {
+      "text": "G. Knorr",
+      "bbox": [
+        121,
+        702,
+        204,
+        719
+      ],
+      "confidence": 0.9772543907165527
+    },
+    {
+      "text": "J. Kochevar",
+      "bbox": [
+        120,
+        718,
+        235,
+        735
+      ],
+      "confidence": 0.999107301235199
+    },
+    {
+      "text": "R. W. Murray",
+      "bbox": [
+        121,
+        737,
+        244,
+        751
+      ],
+      "confidence": 0.9839209914207458
+    },
+    {
+      "text": "J. Nelson",
+      "bbox": [
+        119,
+        751,
+        215,
+        768
+      ],
+      "confidence": 0.9739828109741211
+    },
+    {
+      "text": "F. Resnik",
+      "bbox": [
+        119,
+        768,
+        214,
+        785
+      ],
+      "confidence": 0.9977008104324341
+    },
+    {
+      "text": "the statin",
+      "bbox": [
+        542,
+        770,
+        662,
+        893
+      ],
+      "confidence": 0.6518527269363403
+    },
+    {
+      "text": "G. Smith",
+      "bbox": [
+        120,
+        784,
+        204,
+        801
+      ],
+      "confidence": 0.999335527420044
+    },
+    {
+      "text": "Any-",
+      "bbox": [
+        507,
+        787,
+        602,
+        874
+      ],
+      "confidence": 0.9431711435317993
+    },
+    {
+      "text": "A. Whist",
+      "bbox": [
+        120,
+        802,
+        203,
+        817
+      ],
+      "confidence": 0.9396534562110901
+    },
+    {
+      "text": "Washington Office",
+      "bbox": [
+        119,
+        819,
+        297,
+        836
+      ],
+      "confidence": 0.9998747706413269
+    },
+    {
+      "text": "heetu",
+      "bbox": [
+        593,
+        824,
+        664,
+        901
+      ],
+      "confidence": 0.659329891204834
+    },
+    {
+      "text": "stursent",
+      "bbox": [
+        624,
+        818,
+        730,
+        927
+      ],
+      "confidence": 0.9132107496261597
+    },
+    {
+      "text": "Buf",
+      "bbox": [
+        688,
+        867,
+        762,
+        938
+      ],
+      "confidence": 0.6537498831748962
+    }
+  ],
+  "full_text": "PHILIP MORRIS INCORPORATED\nINTER-OFFICE CORRESPONDENCE\n1875 EYE STREET, N.W., SUITE 5OO, WASHINGTON, D.C. 2OOO6\nTO:\nDISTRIBUTION\nDATE:\nJune 22, 1987\nFROM:\nAmy Millman\nSUBJECT:\nDoD Issues Smoking Report\nIn accordance with the FY87 Department of Defense\nAppropriations Bill, the DoD has submitted its report on\nsmoking and health in the military to the Senate and House\nAppropriations Committees. The report was to include the\nfollowing information: data concerning results achieved by the\nintensive anti-smoking campaign and revised recommendations\nbased upon these data. The report was also to include the\nSecretary of Defense's recommendation on pricing and sales\nrestrictions.\nAfter reviewing actions taken by the Department and the\nindividual services, including the results of their surveys,\nthe report concluded that the anti-smoking campaign was a\nsuccess (dollar sales of cigarettes have declined i8 percent\nover the last six months).\nThe report recommended that the\nsmoking education campaign continue as currently designed and\nThis policy\nthat the tobacco pricing policy remain the same.\nis likely to remain in effect at least until the results of the\nDoD Biennial World-wide Study of Substance Abuse and Health\nBehaviors Among Military Personnel become available in late\n1988.\ncc:\nG. Bible\nW. Burrell\nT. Costas\nH. Cullman\nG. Knorr\nJ. Kochevar\nR. W. Murray\nJ. Nelson\nF. Resnik\nthe statin\nG. Smith\nAny-\nA. Whist\nWashington Office\nheetu\nstursent\nBuf"
+}

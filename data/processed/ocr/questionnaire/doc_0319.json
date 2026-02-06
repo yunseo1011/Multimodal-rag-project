@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0319.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PLEASE TELL US WHAT YOU THINK",
+      "bbox": [
+        253,
+        9,
+        507,
+        41
+      ],
+      "confidence": 0.9669772386550903
+    },
+    {
+      "text": "If you contacted us by phone, please answer all questions. If you contacted us by letter, please skip to Question #2.",
+      "bbox": [
+        48,
+        36,
+        649,
+        76
+      ],
+      "confidence": 0.9660945534706116
+    },
+    {
+      "text": "How satisfied were you In each of the following areas:",
+      "bbox": [
+        52,
+        70,
+        355,
+        93
+      ],
+      "confidence": 0.9723557829856873
+    },
+    {
+      "text": "Neither",
+      "bbox": [
+        469,
+        90,
+        511,
+        108
+      ],
+      "confidence": 0.9177563786506653
+    },
+    {
+      "text": "Very",
+      "bbox": [
+        324,
+        99,
+        358,
+        120
+      ],
+      "confidence": 0.9993969202041626
+    },
+    {
+      "text": "Somewhat",
+      "bbox": [
+        383,
+        100,
+        442,
+        119
+      ],
+      "confidence": 0.9946591854095459
+    },
+    {
+      "text": "Satisfied Nor",
+      "bbox": [
+        455,
+        103,
+        522,
+        120
+      ],
+      "confidence": 0.9901657700538635
+    },
+    {
+      "text": "Somewhat",
+      "bbox": [
+        540,
+        105,
+        595,
+        122
+      ],
+      "confidence": 0.9970088005065918
+    },
+    {
+      "text": "Very",
+      "bbox": [
+        629,
+        105,
+        660,
+        126
+      ],
+      "confidence": 0.9956620931625366
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        317,
+        116,
+        365,
+        130
+      ],
+      "confidence": 0.9760803580284119
+    },
+    {
+      "text": "Satisfied",
+      "bbox": [
+        388,
+        116,
+        438,
+        132
+      ],
+      "confidence": 0.9706196188926697
+    },
+    {
+      "text": "Dissatisfied",
+      "bbox": [
+        457,
+        116,
+        520,
+        133
+      ],
+      "confidence": 0.9969655871391296
+    },
+    {
+      "text": "Dissatisfied",
+      "bbox": [
+        538,
+        118,
+        597,
+        135
+      ],
+      "confidence": 0.9922962188720703
+    },
+    {
+      "text": "Dissatisfied",
+      "bbox": [
+        613,
+        119,
+        676,
+        136
+      ],
+      "confidence": 0.9940882325172424
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        52,
+        140,
+        74,
+        161
+      ],
+      "confidence": 0.998977541923523
+    },
+    {
+      "text": "EASE OF CONTACT:",
+      "bbox": [
+        90,
+        143,
+        219,
+        163
+      ],
+      "confidence": 0.9987150430679321
+    },
+    {
+      "text": "Ability to get through on first call",
+      "bbox": [
+        115,
+        168,
+        264,
+        187
+      ],
+      "confidence": 0.9737155437469482
+    },
+    {
+      "text": "00",
+      "bbox": [
+        472,
+        165,
+        503,
+        214
+      ],
+      "confidence": 0.8172264099121094
+    },
+    {
+      "text": "Satisfaction with telephone recording",
+      "bbox": [
+        119,
+        194,
+        285,
+        208
+      ],
+      "confidence": 0.9854682683944702
+    },
+    {
+      "text": "If put on hold, length of time on hold",
+      "bbox": [
+        115,
+        213,
+        281,
+        231
+      ],
+      "confidence": 0.9630433917045593
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        57,
+        243,
+        76,
+        260
+      ],
+      "confidence": 0.9990060329437256
+    },
+    {
+      "text": "PERSONNEL:",
+      "bbox": [
+        91,
+        243,
+        178,
+        262
+      ],
+      "confidence": 0.9996868371963501
+    },
+    {
+      "text": " Courtesy",
+      "bbox": [
+        94,
+        266,
+        165,
+        286
+      ],
+      "confidence": 0.9423234462738037
+    },
+    {
+      "text": "Professionalism",
+      "bbox": [
+        119,
+        291,
+        193,
+        305
+      ],
+      "confidence": 0.962536096572876
+    },
+    {
+      "text": "Knowledge",
+      "bbox": [
+        118,
+        314,
+        174,
+        331
+      ],
+      "confidence": 0.9519440531730652
+    },
+    {
+      "text": "Authority to resoive problem/",
+      "bbox": [
+        121,
+        335,
+        250,
+        349
+      ],
+      "confidence": 0.9815970063209534
+    },
+    {
+      "text": "answer question",
+      "bbox": [
+        123,
+        350,
+        198,
+        364
+      ],
+      "confidence": 0.9990664124488831
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        59,
+        379,
+        77,
+        396
+      ],
+      "confidence": 0.9993562698364258
+    },
+    {
+      "text": "RESPONSE:",
+      "bbox": [
+        94,
+        379,
+        172,
+        396
+      ],
+      "confidence": 0.9997413158416748
+    },
+    {
+      "text": "Timeliness",
+      "bbox": [
+        113,
+        403,
+        174,
+        420
+      ],
+      "confidence": 0.9996111989021301
+    },
+    {
+      "text": "Clarity",
+      "bbox": [
+        96,
+        422,
+        154,
+        444
+      ],
+      "confidence": 0.9345888495445251
+    },
+    {
+      "text": "Heiptulness",
+      "bbox": [
+        97,
+        448,
+        177,
+        465
+      ],
+      "confidence": 0.9429721832275391
+    },
+    {
+      "text": "Foilow through on promised action",
+      "bbox": [
+        114,
+        472,
+        273,
+        486
+      ],
+      "confidence": 0.9762722253799438
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        63,
+        513,
+        77,
+        526
+      ],
+      "confidence": 0.9998742341995239
+    },
+    {
+      "text": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R. J. Reynoids Consumer",
+      "bbox": [
+        93,
+        509,
+        677,
+        530
+      ],
+      "confidence": 0.9868628978729248
+    },
+    {
+      "text": "Relations Department to respond to your request for assistance?",
+      "bbox": [
+        94,
+        523,
+        382,
+        541
+      ],
+      "confidence": 0.9893181324005127
+    },
+    {
+      "text": "I was completely satisfied.",
+      "bbox": [
+        150,
+        543,
+        272,
+        563
+      ],
+      "confidence": 0.9943543076515198
+    },
+    {
+      "text": "I was NOT completely satisfed but the action taken was acceptable.",
+      "bbox": [
+        151,
+        566,
+        457,
+        588
+      ],
+      "confidence": 0.9748494625091553
+    },
+    {
+      "text": "I was NOT compietely satisfied but some action was taken.",
+      "bbox": [
+        150,
+        589,
+        415,
+        610
+      ],
+      "confidence": 0.9713667631149292
+    },
+    {
+      "text": "I was NOT AT ALL satisfied with the action taken.",
+      "bbox": [
+        151,
+        613,
+        373,
+        630
+      ],
+      "confidence": 0.9899535775184631
+    },
+    {
+      "text": "I was NOT AT ALL satisfied; no action was taken.",
+      "bbox": [
+        151,
+        636,
+        372,
+        653
+      ],
+      "confidence": 0.9742053151130676
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        63,
+        675,
+        78,
+        691
+      ],
+      "confidence": 0.999842643737793
+    },
+    {
+      "text": "Based on how well you were trealed by our representative, will you continue to purchase the brand of cigarettes you contacted us",
+      "bbox": [
+        93,
+        674,
+        680,
+        699
+      ],
+      "confidence": 0.987173318862915
+    },
+    {
+      "text": "about?",
+      "bbox": [
+        95,
+        690,
+        130,
+        705
+      ],
+      "confidence": 0.9997162818908691
+    },
+    {
+      "text": "1 Definitely",
+      "bbox": [
+        92,
+        706,
+        147,
+        727
+      ],
+      "confidence": 0.9570875763893127
+    },
+    {
+      "text": "1 Probably",
+      "bbox": [
+        176,
+        707,
+        230,
+        728
+      ],
+      "confidence": 0.9868953824043274
+    },
+    {
+      "text": "1 Might or",
+      "bbox": [
+        269,
+        708,
+        320,
+        728
+      ],
+      "confidence": 0.9526652097702026
+    },
+    {
+      "text": "1 Probably",
+      "bbox": [
+        373,
+        712,
+        425,
+        729
+      ],
+      "confidence": 0.9699952006340027
+    },
+    {
+      "text": "1 Definitely",
+      "bbox": [
+        464,
+        711,
+        519,
+        730
+      ],
+      "confidence": 0.979832112789154
+    },
+    {
+      "text": "Would",
+      "bbox": [
+        104,
+        724,
+        137,
+        739
+      ],
+      "confidence": 0.9998263120651245
+    },
+    {
+      "text": "Would",
+      "bbox": [
+        188,
+        723,
+        221,
+        738
+      ],
+      "confidence": 0.9997403025627136
+    },
+    {
+      "text": "Might Not",
+      "bbox": [
+        272,
+        725,
+        319,
+        740
+      ],
+      "confidence": 0.9963359832763672
+    },
+    {
+      "text": "Would Not",
+      "bbox": [
+        373,
+        723,
+        426,
+        742
+      ],
+      "confidence": 0.975300669670105
+    },
+    {
+      "text": "Would Not",
+      "bbox": [
+        465,
+        725,
+        519,
+        742
+      ],
+      "confidence": 0.9953949451446533
+    },
+    {
+      "text": "T",
+      "bbox": [
+        113,
+        742,
+        137,
+        763
+      ],
+      "confidence": 0.6047056317329407
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        60,
+        783,
+        75,
+        798
+      ],
+      "confidence": 0.9996430277824402
+    },
+    {
+      "text": "Would you recommend tis brand of cigarettes to an adult smoker (21 years of age or oider)?",
+      "bbox": [
+        90,
+        780,
+        512,
+        806
+      ],
+      "confidence": 0.9812526106834412
+    },
+    {
+      "text": "1 Definitely",
+      "bbox": [
+        91,
+        804,
+        146,
+        822
+      ],
+      "confidence": 0.9595620036125183
+    },
+    {
+      "text": "Would",
+      "bbox": [
+        101,
+        817,
+        137,
+        835
+      ],
+      "confidence": 0.9978713989257812
+    },
+    {
+      "text": "1 Probably",
+      "bbox": [
+        180,
+        804,
+        230,
+        821
+      ],
+      "confidence": 0.9926689863204956
+    },
+    {
+      "text": "Would",
+      "bbox": [
+        187,
+        817,
+        223,
+        835
+      ],
+      "confidence": 0.9976590871810913
+    },
+    {
+      "text": "1 Might or",
+      "bbox": [
+        271,
+        804,
+        319,
+        822
+      ],
+      "confidence": 0.9245072603225708
+    },
+    {
+      "text": "1 Probably",
+      "bbox": [
+        372,
+        805,
+        425,
+        825
+      ],
+      "confidence": 0.9941078424453735
+    },
+    {
+      "text": "Would Not",
+      "bbox": [
+        372,
+        817,
+        427,
+        838
+      ],
+      "confidence": 0.9248839616775513
+    },
+    {
+      "text": "1 Definitey",
+      "bbox": [
+        463,
+        807,
+        520,
+        828
+      ],
+      "confidence": 0.9801124930381775
+    },
+    {
+      "text": "Might Not",
+      "bbox": [
+        271,
+        818,
+        319,
+        836
+      ],
+      "confidence": 0.9507894515991211
+    },
+    {
+      "text": "Would Not",
+      "bbox": [
+        463,
+        820,
+        521,
+        842
+      ],
+      "confidence": 0.9387986660003662
+    },
+    {
+      "text": "□",
+      "bbox": [
+        491,
+        845,
+        516,
+        867
+      ],
+      "confidence": 0.7584283351898193
+    },
+    {
+      "text": "Pleasg add ay aditonal comments: wald he muck more",
+      "bbox": [
+        55,
+        854,
+        638,
+        906
+      ],
+      "confidence": 0.7163412570953369
+    },
+    {
+      "text": "gifte rthey thon  a sastory  cigasette",
+      "bbox": [
+        57,
+        905,
+        723,
+        968
+      ],
+      "confidence": 0.7093138694763184
+    },
+    {
+      "text": "nhope heen haite tora",
+      "bbox": [
+        61,
+        939,
+        506,
+        981
+      ],
+      "confidence": 0.7110077738761902
+    }
+  ],
+  "full_text": "PLEASE TELL US WHAT YOU THINK\nIf you contacted us by phone, please answer all questions. If you contacted us by letter, please skip to Question #2.\nHow satisfied were you In each of the following areas:\nNeither\nVery\nSomewhat\nSatisfied Nor\nSomewhat\nVery\nSatisfied\nSatisfied\nDissatisfied\nDissatisfied\nDissatisfied\n1.\nEASE OF CONTACT:\nAbility to get through on first call\n00\nSatisfaction with telephone recording\nIf put on hold, length of time on hold\n2.\nPERSONNEL:\n Courtesy\nProfessionalism\nKnowledge\nAuthority to resoive problem/\nanswer question\n3.\nRESPONSE:\nTimeliness\nClarity\nHeiptulness\nFoilow through on promised action\n4.\nWhich ONE of the following statements BEST describes the way you feel about the action taken by the R. J. Reynoids Consumer\nRelations Department to respond to your request for assistance?\nI was completely satisfied.\nI was NOT completely satisfed but the action taken was acceptable.\nI was NOT compietely satisfied but some action was taken.\nI was NOT AT ALL satisfied with the action taken.\nI was NOT AT ALL satisfied; no action was taken.\n5.\nBased on how well you were trealed by our representative, will you continue to purchase the brand of cigarettes you contacted us\nabout?\n1 Definitely\n1 Probably\n1 Might or\n1 Probably\n1 Definitely\nWould\nWould\nMight Not\nWould Not\nWould Not\nT\n6.\nWould you recommend tis brand of cigarettes to an adult smoker (21 years of age or oider)?\n1 Definitely\nWould\n1 Probably\nWould\n1 Might or\n1 Probably\nWould Not\n1 Definitey\nMight Not\nWould Not\n□\nPleasg add ay aditonal comments: wald he muck more\ngifte rthey thon  a sastory  cigasette\nnhope heen haite tora"
+}

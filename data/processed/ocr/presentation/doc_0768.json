@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0768.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Menthol Category Situation Analysis",
+      "bbox": [
+        175,
+        137,
+        721,
+        183
+      ],
+      "confidence": 0.9744126200675964
+    },
+    {
+      "text": "Executive Summary",
+      "bbox": [
+        107,
+        228,
+        344,
+        262
+      ],
+      "confidence": 0.9998723268508911
+    },
+    {
+      "text": "Menthol category flattening",
+      "bbox": [
+        140,
+        306,
+        442,
+        333
+      ],
+      "confidence": 0.998044490814209
+    },
+    {
+      "text": "-Newport growth slowing",
+      "bbox": [
+        150,
+        345,
+        454,
+        379
+      ],
+      "confidence": 0.9929751753807068
+    },
+    {
+      "text": "- Kool decline accelerating",
+      "bbox": [
+        152,
+        391,
+        458,
+        417
+      ],
+      "confidence": 0.982715368270874
+    },
+    {
+      "text": "-Marlboro Menthol softening",
+      "bbox": [
+        150,
+        432,
+        488,
+        461
+      ],
+      "confidence": 0.9766159653663635
+    },
+    {
+      "text": "YAS Menthol flattening but Marlboro Menthol YAS growing",
+      "bbox": [
+        128,
+        505,
+        754,
+        536
+      ],
+      "confidence": 0.9975079894065857
+    },
+    {
+      "text": "Menthol volume in 35+ (73%)",
+      "bbox": [
+        130,
+        588,
+        471,
+        618
+      ],
+      "confidence": 0.9683855772018433
+    }
+  ],
+  "full_text": "Menthol Category Situation Analysis\nExecutive Summary\nMenthol category flattening\n-Newport growth slowing\n- Kool decline accelerating\n-Marlboro Menthol softening\nYAS Menthol flattening but Marlboro Menthol YAS growing\nMenthol volume in 35+ (73%)"
+}

@@ -1,0 +1,231 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0901.png",
+    "image_width": 765,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ifyourlowtarhad",
+      "bbox": [
+        30,
+        25,
+        668,
+        101
+      ],
+      "confidence": 0.9503734707832336
+    },
+    {
+      "text": "Tareytons-filter,youd",
+      "bbox": [
+        28,
+        95,
+        697,
+        160
+      ],
+      "confidence": 0.9546652436256409
+    },
+    {
+      "text": "be smokingabetter",
+      "bbox": [
+        38,
+        145,
+        701,
+        226
+      ],
+      "confidence": 0.9692507386207581
+    },
+    {
+      "text": "cigarette.",
+      "bbox": [
+        214,
+        217,
+        529,
+        297
+      ],
+      "confidence": 0.9363773465156555
+    },
+    {
+      "text": "A",
+      "bbox": [
+        567,
+        326,
+        634,
+        352
+      ],
+      "confidence": 0.9785684943199158
+    },
+    {
+      "text": "Yourpresenefiltens",
+      "bbox": [
+        46,
+        359,
+        322,
+        393
+      ],
+      "confidence": 0.9041144251823425
+    },
+    {
+      "text": "Tareyton ions",
+      "bbox": [
+        569,
+        366,
+        616,
+        554
+      ],
+      "confidence": 0.9422210454940796
+    },
+    {
+      "text": "only-domg-hralfthejobe",
+      "bbox": [
+        46,
+        388,
+        343,
+        421
+      ],
+      "confidence": 0.8509151935577393
+    },
+    {
+      "text": "Tareyton",
+      "bbox": [
+        381,
+        407,
+        522,
+        465
+      ],
+      "confidence": 0.9982150793075562
+    },
+    {
+      "text": "Thereasnosubstitut",
+      "bbox": [
+        44,
+        428,
+        309,
+        456
+      ],
+      "confidence": 0.8961760401725769
+    },
+    {
+      "text": "forcbrarcoalflrahen",
+      "bbox": [
+        38,
+        451,
+        311,
+        485
+      ],
+      "confidence": 0.8003307580947876
+    },
+    {
+      "text": "lights",
+      "bbox": [
+        396,
+        451,
+        440,
+        465
+      ],
+      "confidence": 0.9206275939941406
+    },
+    {
+      "text": "Eherersrosubsttnte",
+      "bbox": [
+        46,
+        492,
+        312,
+        516
+      ],
+      "confidence": 0.7970147132873535
+    },
+    {
+      "text": "forFareytdnhghts..",
+      "bbox": [
+        46,
+        513,
+        301,
+        543
+      ],
+      "confidence": 0.8372763395309448
+    },
+    {
+      "text": "Kmos8me-tar-Amg.ur",
+      "bbox": [
+        21,
+        551,
+        277,
+        580
+      ],
+      "confidence": 0.6294678449630737
+    },
+    {
+      "text": "100s9mg-fa8mgen",
+      "bbox": [
+        41,
+        574,
+        261,
+        599
+      ],
+      "confidence": 0.7228416204452515
+    },
+    {
+      "text": "LOW TAX",
+      "bbox": [
+        396,
+        599,
+        447,
+        618
+      ],
+      "confidence": 0.9851472973823547
+    },
+    {
+      "text": "Tareyto",
+      "bbox": [
+        27,
+        628,
+        612,
+        804
+      ],
+      "confidence": 0.9793128967285156
+    },
+    {
+      "text": "lights",
+      "bbox": [
+        149,
+        763,
+        580,
+        930
+      ],
+      "confidence": 0.9739753603935242
+    },
+    {
+      "text": "Warr-ing: The Surgeon Gene:al Ha: Determined",
+      "bbox": [
+        448,
+        926,
+        716,
+        955
+      ],
+      "confidence": 0.9450269937515259
+    },
+    {
+      "text": "That Cigarette Smoking Is Dangerous to Your Heaith",
+      "bbox": [
+        449,
+        944,
+        716,
+        972
+      ],
+      "confidence": 0.9390311241149902
+    },
+    {
+      "text": ". per cigarecte by FTC method.",
+      "bbox": [
+        592,
+        977,
+        732,
+        1000
+      ],
+      "confidence": 0.8583315014839172
+    }
+  ],
+  "full_text": "Ifyourlowtarhad\nTareytons-filter,youd\nbe smokingabetter\ncigarette.\nA\nYourpresenefiltens\nTareyton ions\nonly-domg-hralfthejobe\nTareyton\nThereasnosubstitut\nforcbrarcoalflrahen\nlights\nEherersrosubsttnte\nforFareytdnhghts..\nKmos8me-tar-Amg.ur\n100s9mg-fa8mgen\nLOW TAX\nTareyto\nlights\nWarr-ing: The Surgeon Gene:al Ha: Determined\nThat Cigarette Smoking Is Dangerous to Your Heaith\n. per cigarecte by FTC method."
+}

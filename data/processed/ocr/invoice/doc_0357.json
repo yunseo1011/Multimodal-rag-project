@@ -1,0 +1,231 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0357.png",
+    "image_width": 764,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "C",
+      "bbox": [
+        488,
+        16,
+        509,
+        44
+      ],
+      "confidence": 0.770477294921875
+    },
+    {
+      "text": "COVINgtON & BUrLING",
+      "bbox": [
+        263,
+        55,
+        512,
+        73
+      ],
+      "confidence": 0.810814380645752
+    },
+    {
+      "text": "888 SIXTEENTH STREET, N. W.",
+      "bbox": [
+        283,
+        75,
+        491,
+        90
+      ],
+      "confidence": 0.9348112940788269
+    },
+    {
+      "text": "WASHINGTON, D. C. 2O006",
+      "bbox": [
+        303,
+        93,
+        469,
+        106
+      ],
+      "confidence": 0.9656246900558472
+    },
+    {
+      "text": "TELEPHONE",
+      "bbox": [
+        352,
+        124,
+        421,
+        135
+      ],
+      "confidence": 0.9996012449264526
+    },
+    {
+      "text": "(202) 452-6000",
+      "bbox": [
+        341,
+        138,
+        433,
+        153
+      ],
+      "confidence": 0.9921908974647522
+    },
+    {
+      "text": "EMPLOYER IDENTIFICATION NO.",
+      "bbox": [
+        8,
+        170,
+        237,
+        187
+      ],
+      "confidence": 0.9995391964912415
+    },
+    {
+      "text": "ACCOUNT NO. 16,141",
+      "bbox": [
+        544,
+        167,
+        717,
+        188
+      ],
+      "confidence": 0.9945542812347412
+    },
+    {
+      "text": "53-0188411",
+      "bbox": [
+        80,
+        183,
+        164,
+        199
+      ],
+      "confidence": 0.9809320569038391
+    },
+    {
+      "text": "STATEMENT",
+      "bbox": [
+        341,
+        195,
+        436,
+        208
+      ],
+      "confidence": 0.9997779130935669
+    },
+    {
+      "text": "DATE June 12, 1980",
+      "bbox": [
+        544,
+        207,
+        717,
+        227
+      ],
+      "confidence": 0.9579417109489441
+    },
+    {
+      "text": "LORILLARD, A DIVISION OF LOEWS THEATERS",
+      "bbox": [
+        207,
+        350,
+        590,
+        368
+      ],
+      "confidence": 0.989887535572052
+    },
+    {
+      "text": "To professional services rendered to the Company",
+      "bbox": [
+        205,
+        396,
+        681,
+        417
+      ],
+      "confidence": 0.9925248026847839
+    },
+    {
+      "text": "for the first calendar quarter of 1980, comprising advice",
+      "bbox": [
+        115,
+        409,
+        685,
+        437
+      ],
+      "confidence": 0.9564791321754456
+    },
+    {
+      "text": "action committees",
+      "bbox": [
+        118,
+        451,
+        288,
+        465
+      ],
+      "confidence": 0.9997599124908447
+    },
+    {
+      "text": "225.00",
+      "bbox": [
+        566,
+        445,
+        634,
+        462
+      ],
+      "confidence": 0.9989643692970276
+    },
+    {
+      "text": "EIL/cfo",
+      "bbox": [
+        115,
+        604,
+        191,
+        625
+      ],
+      "confidence": 0.9952570199966431
+    },
+    {
+      "text": "Check reeded",
+      "bbox": [
+        54,
+        747,
+        335,
+        804
+      ],
+      "confidence": 0.8882672786712646
+    },
+    {
+      "text": "7/80",
+      "bbox": [
+        77,
+        787,
+        211,
+        875
+      ],
+      "confidence": 0.9075654149055481
+    },
+    {
+      "text": "03724991",
+      "bbox": [
+        719,
+        835,
+        751,
+        945
+      ],
+      "confidence": 0.9999274015426636
+    },
+    {
+      "text": "8/A 6/23",
+      "bbox": [
+        61,
+        861,
+        292,
+        958
+      ],
+      "confidence": 0.8380624055862427
+    },
+    {
+      "text": "PLEASE RETURN ONE COPY",
+      "bbox": [
+        258,
+        984,
+        456,
+        998
+      ],
+      "confidence": 0.9976196885108948
+    }
+  ],
+  "full_text": "C\nCOVINgtON & BUrLING\n888 SIXTEENTH STREET, N. W.\nWASHINGTON, D. C. 2O006\nTELEPHONE\n(202) 452-6000\nEMPLOYER IDENTIFICATION NO.\nACCOUNT NO. 16,141\n53-0188411\nSTATEMENT\nDATE June 12, 1980\nLORILLARD, A DIVISION OF LOEWS THEATERS\nTo professional services rendered to the Company\nfor the first calendar quarter of 1980, comprising advice\naction committees\n225.00\nEIL/cfo\nCheck reeded\n7/80\n03724991\n8/A 6/23\nPLEASE RETURN ONE COPY"
+}

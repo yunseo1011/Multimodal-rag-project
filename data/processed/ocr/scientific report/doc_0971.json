@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0971.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "94-001439",
+      "bbox": [
+        644,
+        155,
+        748,
+        183
+      ],
+      "confidence": 0.9996874332427979
+    },
+    {
+      "text": "BLENDED FLAVOR ACCEPTANCE",
+      "bbox": [
+        210,
+        171,
+        550,
+        192
+      ],
+      "confidence": 0.9802643656730652
+    },
+    {
+      "text": "DM Code: 75-814",
+      "bbox": [
+        34,
+        241,
+        165,
+        264
+      ],
+      "confidence": 0.9844700694084167
+    },
+    {
+      "text": "D/M Code DeScrip: P.M. FLAVOR 7564-75-RC",
+      "bbox": [
+        367,
+        246,
+        681,
+        266
+      ],
+      "confidence": 0.9717329144477844
+    },
+    {
+      "text": "PMID #: 233873-01",
+      "bbox": [
+        35,
+        270,
+        179,
+        293
+      ],
+      "confidence": 0.9490586519241333
+    },
+    {
+      "text": "Date Produced: 1/25/94",
+      "bbox": [
+        34,
+        300,
+        217,
+        321
+      ],
+      "confidence": 0.996913492679596
+    },
+    {
+      "text": "Quantity Produced: 567.750 LITS",
+      "bbox": [
+        367,
+        306,
+        609,
+        324
+      ],
+      "confidence": 0.9948626160621643
+    },
+    {
+      "text": "Date Inspected: 1/25/94",
+      "bbox": [
+        34,
+        330,
+        224,
+        350
+      ],
+      "confidence": 0.9961390495300293
+    },
+    {
+      "text": "Inspector: F/C Q.A. Lab, Pull, Production",
+      "bbox": [
+        366,
+        335,
+        684,
+        355
+      ],
+      "confidence": 0.9781786203384399
+    },
+    {
+      "text": "Compounder: MARY",
+      "bbox": [
+        36,
+        361,
+        170,
+        378
+      ],
+      "confidence": 0.992739737033844
+    },
+    {
+      "text": "No. Containers: 1",
+      "bbox": [
+        34,
+        388,
+        179,
+        407
+      ],
+      "confidence": 0.9657244682312012
+    },
+    {
+      "text": "Expiration Date: 2/25/94",
+      "bbox": [
+        363,
+        395,
+        552,
+        412
+      ],
+      "confidence": 0.9895265102386475
+    },
+    {
+      "text": "Specific Gravity: (77 Deg. F) 1.1153",
+      "bbox": [
+        35,
+        430,
+        329,
+        453
+      ],
+      "confidence": 0.9797003865242004
+    },
+    {
+      "text": "Flash Point: None",
+      "bbox": [
+        361,
+        434,
+        498,
+        455
+      ],
+      "confidence": 0.9700458645820618
+    },
+    {
+      "text": "momeadion",
+      "bbox": [
+        87,
+        582,
+        260,
+        632
+      ],
+      "confidence": 0.8872934579849243
+    },
+    {
+      "text": "Supervisor",
+      "bbox": [
+        272,
+        621,
+        338,
+        636
+      ],
+      "confidence": 0.9964696168899536
+    },
+    {
+      "text": "1/26/94",
+      "bbox": [
+        552,
+        611,
+        610,
+        628
+      ],
+      "confidence": 0.9999181628227234
+    },
+    {
+      "text": "Dato",
+      "bbox": [
+        688,
+        629,
+        718,
+        645
+      ],
+      "confidence": 0.8713052272796631
+    },
+    {
+      "text": "The material identified above has been sampled and tested and has been found to be suitable",
+      "bbox": [
+        33,
+        669,
+        722,
+        700
+      ],
+      "confidence": 0.9895029664039612
+    },
+    {
+      "text": "for use by Philip Morris.",
+      "bbox": [
+        35,
+        686,
+        232,
+        704
+      ],
+      "confidence": 0.9766221642494202
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        31,
+        740,
+        112,
+        759
+      ],
+      "confidence": 0.9995589852333069
+    }
+  ],
+  "full_text": "94-001439\nBLENDED FLAVOR ACCEPTANCE\nDM Code: 75-814\nD/M Code DeScrip: P.M. FLAVOR 7564-75-RC\nPMID #: 233873-01\nDate Produced: 1/25/94\nQuantity Produced: 567.750 LITS\nDate Inspected: 1/25/94\nInspector: F/C Q.A. Lab, Pull, Production\nCompounder: MARY\nNo. Containers: 1\nExpiration Date: 2/25/94\nSpecific Gravity: (77 Deg. F) 1.1153\nFlash Point: None\nmomeadion\nSupervisor\n1/26/94\nDato\nThe material identified above has been sampled and tested and has been found to be suitable\nfor use by Philip Morris.\nComments:"
+}

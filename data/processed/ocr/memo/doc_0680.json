@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0680.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "yell",
+      "bbox": [
+        652,
+        0,
+        758,
+        61
+      ],
+      "confidence": 0.7453071475028992
+    },
+    {
+      "text": "inter",
+      "bbox": [
+        660,
+        49,
+        752,
+        99
+      ],
+      "confidence": 0.6733952760696411
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        314,
+        107,
+        443,
+        124
+      ],
+      "confidence": 0.9998635053634644
+    },
+    {
+      "text": "F. E. McKeown",
+      "bbox": [
+        218,
+        154,
+        350,
+        178
+      ],
+      "confidence": 0.9924170970916748
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        96,
+        161,
+        136,
+        179
+      ],
+      "confidence": 0.9935261607170105
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        97,
+        195,
+        135,
+        214
+      ],
+      "confidence": 0.8886890411376953
+    },
+    {
+      "text": "G. T. Reid",
+      "bbox": [
+        218,
+        191,
+        312,
+        209
+      ],
+      "confidence": 0.9890831708908081
+    },
+    {
+      "text": "E. A. Willots, III",
+      "bbox": [
+        216,
+        205,
+        365,
+        227
+      ],
+      "confidence": 0.9514378309249878
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        96,
+        244,
+        158,
+        262
+      ],
+      "confidence": 0.999256432056427
+    },
+    {
+      "text": "June 22nd, 1979",
+      "bbox": [
+        214,
+        236,
+        350,
+        260
+      ],
+      "confidence": 0.9755354523658752
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        96,
+        275,
+        159,
+        296
+      ],
+      "confidence": 0.9981288909912109
+    },
+    {
+      "text": "I. R. Holmes, Jr.",
+      "bbox": [
+        214,
+        272,
+        367,
+        292
+      ],
+      "confidence": 0.9240106344223022
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        95,
+        307,
+        186,
+        328
+      ],
+      "confidence": 0.992931604385376
+    },
+    {
+      "text": "..KoL Local Market Spending Review",
+      "bbox": [
+        206,
+        301,
+        508,
+        325
+      ],
+      "confidence": 0.958440899848938
+    },
+    {
+      "text": "The purpooc of this me:no is to review the effecliveness of spending",
+      "bbox": [
+        92,
+        348,
+        641,
+        379
+      ],
+      "confidence": 0.9762601256370544
+    },
+    {
+      "text": "principles established for Kor. Parent, K@L Milds, and KSL. It will",
+      "bbox": [
+        86,
+        363,
+        665,
+        396
+      ],
+      "confidence": 0.9534060955047607
+    },
+    {
+      "text": "includc a review of these guidelines and will analyze their productivity",
+      "bbox": [
+        93,
+        383,
+        661,
+        409
+      ],
+      "confidence": 0.9773947596549988
+    },
+    {
+      "text": "to suggest where adjustments might be made.",
+      "bbox": [
+        92,
+        399,
+        460,
+        429
+      ],
+      "confidence": 0.9953821897506714
+    },
+    {
+      "text": "K④L Parent",
+      "bbox": [
+        90,
+        438,
+        203,
+        459
+      ],
+      "confidence": 0.958379864692688
+    },
+    {
+      "text": "KωL Parent spending in 1979 has been limited to ethnic media plus buys",
+      "bbox": [
+        92,
+        461,
+        680,
+        488
+      ],
+      "confidence": 0.9819583296775818
+    },
+    {
+      "text": "where corporate commitments requircd KoL presence.",
+      "bbox": [
+        91,
+        478,
+        552,
+        506
+      ],
+      "confidence": 0.9895069599151611
+    },
+    {
+      "text": "This hiatus and",
+      "bbox": [
+        547,
+        481,
+        681,
+        497
+      ],
+      "confidence": 0.9511746168136597
+    },
+    {
+      "text": "the unreliability of specific Black Market data preclude spending develcp-",
+      "bbox": [
+        90,
+        493,
+        688,
+        523
+      ],
+      "confidence": 0.9895644187927246
+    },
+    {
+      "text": "mcnt vs. business perforinance analysis.",
+      "bbox": [
+        89,
+        513,
+        426,
+        540
+      ],
+      "confidence": 0.978814423084259
+    },
+    {
+      "text": "KOL Milds",
+      "bbox": [
+        91,
+        548,
+        194,
+        572
+      ],
+      "confidence": 0.9547658562660217
+    },
+    {
+      "text": "The KOL Milds Offensive media plan was formulated under spencing criteria",
+      "bbox": [
+        89,
+        569,
+        716,
+        599
+      ],
+      "confidence": 0.9738970398902893
+    },
+    {
+      "text": "detcrmined by Brand Management. This criteria will easily lend itself to",
+      "bbox": [
+        88,
+        587,
+        686,
+        615
+      ],
+      "confidence": 0.9756717681884766
+    },
+    {
+      "text": "analysis of spending vs. business devclopment during the course of the",
+      "bbox": [
+        88,
+        603,
+        664,
+        632
+      ],
+      "confidence": 0.9810699224472046
+    },
+    {
+      "text": "initial quarters of the Offensive. The spending criteria as found in the",
+      "bbox": [
+        87,
+        621,
+        662,
+        648
+      ],
+      "confidence": 0.964130163192749
+    },
+    {
+      "text": "m.arketing plan follows.",
+      "bbox": [
+        90,
+        642,
+        286,
+        665
+      ],
+      "confidence": 0.9839587807655334
+    },
+    {
+      "text": "660078296",
+      "bbox": [
+        675,
+        663,
+        707,
+        793
+      ],
+      "confidence": 0.9997673034667969
+    },
+    {
+      "text": "Definition of A, B, C markets:",
+      "bbox": [
+        89,
+        676,
+        340,
+        698
+      ],
+      "confidence": 0.9672724008560181
+    },
+    {
+      "text": "'A' markets are TA's: with KωL Parert BKI greater than 110. Thcse",
+      "bbox": [
+        113,
+        709,
+        674,
+        731
+      ],
+      "confidence": 0.9652977585792542
+    },
+    {
+      "text": "18 TA's account for 39% of all K@OL valume.",
+      "bbox": [
+        114,
+        728,
+        472,
+        748
+      ],
+      "confidence": 0.9403208494186401
+    },
+    {
+      "text": "'B' markets are TA's with avcrage K@L BDI with a 90-110 index.",
+      "bbox": [
+        111,
+        760,
+        640,
+        782
+      ],
+      "confidence": 0.9683284759521484
+    },
+    {
+      "text": "These 16 TA's account for 28% of all KMl, salcs.",
+      "bbox": [
+        104,
+        778,
+        511,
+        801
+      ],
+      "confidence": 0.9309024810791016
+    },
+    {
+      "text": "- . 'C' markets are special low developmcnt markets which are important",
+      "bbox": [
+        94,
+        808,
+        676,
+        837
+      ],
+      "confidence": 0.9800658822059631
+    },
+    {
+      "text": "to K@L due to their sheer size. These 8 TA's account for 2C% of K@.",
+      "bbox": [
+        113,
+        824,
+        687,
+        855
+      ],
+      "confidence": 0.9525356292724609
+    },
+    {
+      "text": "volume.",
+      "bbox": [
+        114,
+        852,
+        180,
+        869
+      ],
+      "confidence": 0.9830886125564575
+    }
+  ],
+  "full_text": "yell\ninter\nMEMORANDUM\nF. E. McKeown\nTO:\nCC:\nG. T. Reid\nE. A. Willots, III\nDATE:\nJune 22nd, 1979\nFROM:\nI. R. Holmes, Jr.\nSUBJECT:\n..KoL Local Market Spending Review\nThe purpooc of this me:no is to review the effecliveness of spending\nprinciples established for Kor. Parent, K@L Milds, and KSL. It will\nincludc a review of these guidelines and will analyze their productivity\nto suggest where adjustments might be made.\nK④L Parent\nKωL Parent spending in 1979 has been limited to ethnic media plus buys\nwhere corporate commitments requircd KoL presence.\nThis hiatus and\nthe unreliability of specific Black Market data preclude spending develcp-\nmcnt vs. business perforinance analysis.\nKOL Milds\nThe KOL Milds Offensive media plan was formulated under spencing criteria\ndetcrmined by Brand Management. This criteria will easily lend itself to\nanalysis of spending vs. business devclopment during the course of the\ninitial quarters of the Offensive. The spending criteria as found in the\nm.arketing plan follows.\n660078296\nDefinition of A, B, C markets:\n'A' markets are TA's: with KωL Parert BKI greater than 110. Thcse\n18 TA's account for 39% of all K@OL valume.\n'B' markets are TA's with avcrage K@L BDI with a 90-110 index.\nThese 16 TA's account for 28% of all KMl, salcs.\n- . 'C' markets are special low developmcnt markets which are important\nto K@L due to their sheer size. These 8 TA's account for 2C% of K@.\nvolume."
+}

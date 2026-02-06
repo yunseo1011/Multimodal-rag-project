@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0386.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Date:",
+      "bbox": [
+        534,
+        52,
+        577,
+        68
+      ],
+      "confidence": 0.934958279132843
+    },
+    {
+      "text": "January 3, 1900",
+      "bbox": [
+        584,
+        51,
+        719,
+        71
+      ],
+      "confidence": 0.9328936338424683
+    },
+    {
+      "text": "Philippines",
+      "bbox": [
+        77,
+        82,
+        175,
+        107
+      ],
+      "confidence": 0.7898494601249695
+    },
+    {
+      "text": "iav trmatrte for ",
+      "bbox": [
+        79,
+        70,
+        292,
+        89
+      ],
+      "confidence": 0.7484896183013916
+    },
+    {
+      "text": "To: Tr. F. E. Pope",
+      "bbox": [
+        26,
+        128,
+        199,
+        153
+      ],
+      "confidence": 0.8900822401046753
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        528,
+        130,
+        578,
+        150
+      ],
+      "confidence": 0.9896405339241028
+    },
+    {
+      "text": "K. W. Swiccgond",
+      "bbox": [
+        592,
+        133,
+        721,
+        150
+      ],
+      "confidence": 0.8856253027915955
+    },
+    {
+      "text": "Er. t. C. Cook requested that 25 Kilos of TF-236g-6 Concentrate be",
+      "bbox": [
+        111,
+        229,
+        677,
+        246
+      ],
+      "confidence": 0.9675524234771729
+    },
+    {
+      "text": "prepared and shipped to the Philippines. We prepared the flavor due to",
+      "bbox": [
+        68,
+        244,
+        677,
+        263
+      ],
+      "confidence": 0.9825900197029114
+    },
+    {
+      "text": "the urgency of the roquest.",
+      "bbox": [
+        68,
+        259,
+        305,
+        281
+      ],
+      "confidence": 0.9663333296775818
+    },
+    {
+      "text": "The flavor concentrate formula is attached to this ncwo for future",
+      "bbox": [
+        109,
+        292,
+        679,
+        316
+      ],
+      "confidence": 0.979924201965332
+    },
+    {
+      "text": "orders or costing infornation.",
+      "bbox": [
+        68,
+        310,
+        329,
+        331
+      ],
+      "confidence": 0.9563930630683899
+    },
+    {
+      "text": "K. K. Swicegood",
+      "bbox": [
+        515,
+        426,
+        649,
+        453
+      ],
+      "confidence": 0.9267347455024719
+    },
+    {
+      "text": "/rhe",
+      "bbox": [
+        67,
+        462,
+        109,
+        485
+      ],
+      "confidence": 0.7794559597969055
+    },
+    {
+      "text": "CC: tr. D. L. Roberts",
+      "bbox": [
+        65,
+        495,
+        263,
+        517
+      ],
+      "confidence": 0.9130431413650513
+    },
+    {
+      "text": "Hr. B. E. Winfrey",
+      "bbox": [
+        109,
+        512,
+        263,
+        534
+      ],
+      "confidence": 0.9374389052391052
+    },
+    {
+      "text": "Hir. R. G. Shore",
+      "bbox": [
+        110,
+        530,
+        246,
+        549
+      ],
+      "confidence": 0.9500550627708435
+    }
+  ],
+  "full_text": "Date:\nJanuary 3, 1900\nPhilippines\niav trmatrte for \nTo: Tr. F. E. Pope\nFrom:\nK. W. Swiccgond\nEr. t. C. Cook requested that 25 Kilos of TF-236g-6 Concentrate be\nprepared and shipped to the Philippines. We prepared the flavor due to\nthe urgency of the roquest.\nThe flavor concentrate formula is attached to this ncwo for future\norders or costing infornation.\nK. K. Swicegood\n/rhe\nCC: tr. D. L. Roberts\nHr. B. E. Winfrey\nHir. R. G. Shore"
+}

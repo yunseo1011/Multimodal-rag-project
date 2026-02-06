@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0363.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "#36",
+      "bbox": [
+        623,
+        31,
+        682,
+        64
+      ],
+      "confidence": 0.714270830154419
+    },
+    {
+      "text": "2083395078",
+      "bbox": [
+        288,
+        42,
+        391,
+        72
+      ],
+      "confidence": 0.9992737770080566
+    },
+    {
+      "text": "Lawrence, Joanne",
+      "bbox": [
+        15,
+        62,
+        152,
+        89
+      ],
+      "confidence": 0.9902176260948181
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        13,
+        93,
+        57,
+        115
+      ],
+      "confidence": 0.9994750022888184
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        13,
+        107,
+        52,
+        128
+      ],
+      "confidence": 0.8545671701431274
+    },
+    {
+      "text": "PMMC Deskdrop",
+      "bbox": [
+        171,
+        102,
+        270,
+        122
+      ],
+      "confidence": 0.9951108694076538
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        13,
+        122,
+        40,
+        141
+      ],
+      "confidence": 0.9951043128967285
+    },
+    {
+      "text": "Monday, March 27, 2000 4:31 PM",
+      "bbox": [
+        170,
+        116,
+        359,
+        136
+      ],
+      "confidence": 0.9625648856163025
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        10,
+        134,
+        68,
+        157
+      ],
+      "confidence": 0.9936989545822144
+    },
+    {
+      "text": "Punitive Damages in Whiteley",
+      "bbox": [
+        167,
+        140,
+        336,
+        163
+      ],
+      "confidence": 0.9620564579963684
+    },
+    {
+      "text": "Maillboxe",
+      "bbox": [
+        169,
+        129,
+        230,
+        146
+      ],
+      "confidence": 0.8306518793106079
+    },
+    {
+      "text": "Importance:",
+      "bbox": [
+        7,
+        159,
+        86,
+        184
+      ],
+      "confidence": 0.9958890676498413
+    },
+    {
+      "text": "High",
+      "bbox": [
+        163,
+        166,
+        197,
+        189
+      ],
+      "confidence": 0.999886691570282
+    }
+  ],
+  "full_text": "#36\n2083395078\nLawrence, Joanne\nFrom:\nSent:\nPMMC Deskdrop\nTo:\nMonday, March 27, 2000 4:31 PM\nSubject:\nPunitive Damages in Whiteley\nMaillboxe\nImportance:\nHigh"
+}

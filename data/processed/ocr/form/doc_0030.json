@@ -1,0 +1,321 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0030.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP",
+      "bbox": [
+        330,
+        211,
+        385,
+        235
+      ],
+      "confidence": 0.9965093731880188
+    },
+    {
+      "text": "MORAIS",
+      "bbox": [
+        377,
+        212,
+        434,
+        229
+      ],
+      "confidence": 0.8981024622917175
+    },
+    {
+      "text": "U.S.A.",
+      "bbox": [
+        351,
+        238,
+        419,
+        260
+      ],
+      "confidence": 0.998847484588623
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        282,
+        294,
+        484,
+        319
+      ],
+      "confidence": 0.9851179718971252
+    },
+    {
+      "text": "MEDIA DEPARTMENT",
+      "bbox": [
+        276,
+        314,
+        490,
+        337
+      ],
+      "confidence": 0.961098313331604
+    },
+    {
+      "text": "120 PARK AVENUE, NEW YORK CITY",
+      "bbox": [
+        170,
+        334,
+        521,
+        358
+      ],
+      "confidence": 0.9693731665611267
+    },
+    {
+      "text": "10017",
+      "bbox": [
+        540,
+        333,
+        599,
+        358
+      ],
+      "confidence": 0.999978244304657
+    },
+    {
+      "text": "(917) 663-5000",
+      "bbox": [
+        329,
+        352,
+        481,
+        375
+      ],
+      "confidence": 0.9937028288841248
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        226,
+        353,
+        307,
+        376
+      ],
+      "confidence": 0.9593941569328308
+    },
+    {
+      "text": "FAX:",
+      "bbox": [
+        225,
+        372,
+        277,
+        396
+      ],
+      "confidence": 0.9982653260231018
+    },
+    {
+      "text": "(917) 663-5313",
+      "bbox": [
+        330,
+        374,
+        481,
+        395
+      ],
+      "confidence": 0.9984683990478516
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        57,
+        409,
+        105,
+        434
+      ],
+      "confidence": 0.999941349029541
+    },
+    {
+      "text": "November 25. 1998",
+      "bbox": [
+        152,
+        410,
+        315,
+        433
+      ],
+      "confidence": 0.9945008754730225
+    },
+    {
+      "text": "To",
+      "bbox": [
+        58,
+        444,
+        88,
+        465
+      ],
+      "confidence": 0.998576283454895
+    },
+    {
+      "text": "Brad Heard, Regional Mgr (Gateway Outdoor)",
+      "bbox": [
+        153,
+        443,
+        529,
+        465
+      ],
+      "confidence": 0.9820709228515625
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        57,
+        476,
+        100,
+        501
+      ],
+      "confidence": 0.9998736381530762
+    },
+    {
+      "text": "(704) 849-2289",
+      "bbox": [
+        153,
+        477,
+        283,
+        500
+      ],
+      "confidence": 0.9811518788337708
+    },
+    {
+      "text": "\\frac }$",
+      "bbox": [
+        699,
+        486,
+        717,
+        503
+      ],
+      "confidence": 0.6394782066345215
+    },
+    {
+      "text": "From",
+      "bbox": [
+        58,
+        511,
+        109,
+        536
+      ],
+      "confidence": 0.9999516606330872
+    },
+    {
+      "text": "Steve Piskor",
+      "bbox": [
+        154,
+        514,
+        260,
+        534
+      ],
+      "confidence": 0.9800577759742737
+    },
+    {
+      "text": "2",
+      "bbox": [
+        254,
+        546,
+        333,
+        571
+      ],
+      "confidence": 0.9860069751739502
+    },
+    {
+      "text": "# of pages (with cover)",
+      "bbox": [
+        61,
+        548,
+        255,
+        570
+      ],
+      "confidence": 0.998401403427124
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        62,
+        601,
+        154,
+        619
+      ],
+      "confidence": 0.9999808073043823
+    },
+    {
+      "text": "This facsimile transmission (and/or the documents accompanying it) may contain confidential",
+      "bbox": [
+        57,
+        742,
+        699,
+        772
+      ],
+      "confidence": 0.9790925979614258
+    },
+    {
+      "text": "informatlon belonging to the sender. The information is intended only for the use of the addressee",
+      "bbox": [
+        57,
+        756,
+        700,
+        785
+      ],
+      "confidence": 0.9666538834571838
+    },
+    {
+      "text": "or ontity named above. if you are not the intended recipiont, you are hereby notified that any",
+      "bbox": [
+        57,
+        769,
+        700,
+        800
+      ],
+      "confidence": 0.9580458998680115
+    },
+    {
+      "text": "disclosure, copying, distribution or the taking of any action in reliance of the contents of this",
+      "bbox": [
+        57,
+        782,
+        699,
+        813
+      ],
+      "confidence": 0.9621077179908752
+    },
+    {
+      "text": "information is strictly prohibited by law. If you have received this transmission in error, please",
+      "bbox": [
+        57,
+        794,
+        699,
+        827
+      ],
+      "confidence": 0.9719359874725342
+    },
+    {
+      "text": "immediately notity us by telephone to arrange for tho return of the documents. Thank you.",
+      "bbox": [
+        58,
+        809,
+        633,
+        837
+      ],
+      "confidence": 0.9659554362297058
+    },
+    {
+      "text": "If you have any problems receiving_this transmission, please call",
+      "bbox": [
+        59,
+        846,
+        701,
+        885
+      ],
+      "confidence": 0.9772348403930664
+    },
+    {
+      "text": "Constance lannacone at (917) 663-3269",
+      "bbox": [
+        60,
+        866,
+        430,
+        892
+      ],
+      "confidence": 0.9937626719474792
+    }
+  ],
+  "full_text": "PHILIP\nMORAIS\nU.S.A.\nPHILIP MORRIS USA\nMEDIA DEPARTMENT\n120 PARK AVENUE, NEW YORK CITY\n10017\n(917) 663-5000\nPHONE:\nFAX:\n(917) 663-5313\nDate\nNovember 25. 1998\nTo\nBrad Heard, Regional Mgr (Gateway Outdoor)\nFax\n(704) 849-2289\n\\frac }$\nFrom\nSteve Piskor\n2\n# of pages (with cover)\nComments\nThis facsimile transmission (and/or the documents accompanying it) may contain confidential\ninformatlon belonging to the sender. The information is intended only for the use of the addressee\nor ontity named above. if you are not the intended recipiont, you are hereby notified that any\ndisclosure, copying, distribution or the taking of any action in reliance of the contents of this\ninformation is strictly prohibited by law. If you have received this transmission in error, please\nimmediately notity us by telephone to arrange for tho return of the documents. Thank you.\nIf you have any problems receiving_this transmission, please call\nConstance lannacone at (917) 663-3269"
+}

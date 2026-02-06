@@ -1,0 +1,821 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0127.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "A message from those who do...",
+      "bbox": [
+        91,
+        72,
+        754,
+        160
+      ],
+      "confidence": 0.9929436445236206
+    },
+    {
+      "text": "to those who don't",
+      "bbox": [
+        444,
+        137,
+        754,
+        202
+      ],
+      "confidence": 0.9992730021476746
+    },
+    {
+      "text": "Some non-smokers arc",
+      "bbox": [
+        64,
+        217,
+        245,
+        239
+      ],
+      "confidence": 0.9911266565322876
+    },
+    {
+      "text": "of the American Cancer Society in",
+      "bbox": [
+        336,
+        212,
+        602,
+        235
+      ],
+      "confidence": 0.9950368404388428
+    },
+    {
+      "text": "with regard to passive smoking, they",
+      "bbox": [
+        667,
+        210,
+        754,
+        233
+      ],
+      "confidence": 0.9847977161407471
+    },
+    {
+      "text": "1981 which involved 175,000 people,",
+      "bbox": [
+        337,
+        232,
+        625,
+        255
+      ],
+      "confidence": 0.9822493195533752
+    },
+    {
+      "text": "will, for the present, not be able to",
+      "bbox": [
+        667,
+        230,
+        754,
+        251
+      ],
+      "confidence": 0.9790102243423462
+    },
+    {
+      "text": "annoyed by cigarctte smoke. This is a",
+      "bbox": [
+        5,
+        234,
+        299,
+        260
+      ],
+      "confidence": 0.9903104901313782
+    },
+    {
+      "text": "reality that's been with us for a long",
+      "bbox": [
+        6,
+        255,
+        280,
+        280
+      ],
+      "confidence": 0.9902570843696594
+    },
+    {
+      "text": "it was reportcd that 'passive smoking",
+      "bbox": [
+        336,
+        252,
+        623,
+        274
+      ],
+      "confidence": 0.9743151068687439
+    },
+    {
+      "text": "base thcir efforts on a demonstrated",
+      "bbox": [
+        667,
+        248,
+        754,
+        270
+      ],
+      "confidence": 0.963850736618042
+    },
+    {
+      "text": "'had \"very litle, if any\" effect on lung",
+      "bbox": [
+        327,
+        270,
+        624,
+        295
+      ],
+      "confidence": 0.9741858243942261
+    },
+    {
+      "text": "health hazard from passive",
+      "bbox": [
+        668,
+        268,
+        754,
+        290
+      ],
+      "confidence": 0.9984974265098572
+    },
+    {
+      "text": "time.",
+      "bbox": [
+        5,
+        278,
+        52,
+        299
+      ],
+      "confidence": 0.9898676872253418
+    },
+    {
+      "text": "cancer rates among non-smokers.",
+      "bbox": [
+        336,
+        292,
+        594,
+        313
+      ],
+      "confidence": 0.9994906187057495
+    },
+    {
+      "text": "smoking.\"",
+      "bbox": [
+        667,
+        288,
+        754,
+        311
+      ],
+      "confidence": 0.9517284035682678
+    },
+    {
+      "text": "Latcly, however, many non-",
+      "bbox": [
+        66,
+        293,
+        278,
+        317
+      ],
+      "confidence": 0.9967216849327087
+    },
+    {
+      "text": "Often'our own concerns about",
+      "bbox": [
+        726,
+        306,
+        754,
+        328
+      ],
+      "confidence": 0.971974790096283
+    },
+    {
+      "text": "smokers have been led to belicve that",
+      "bbox": [
+        8,
+        311,
+        296,
+        339
+      ],
+      "confidence": 0.9919911026954651
+    },
+    {
+      "text": "In the follow-up study",
+      "bbox": [
+        392,
+        312,
+        569,
+        332
+      ],
+      "confidence": 0.9831724762916565
+    },
+    {
+      "text": "cigarette smoke in the air can actually",
+      "bbox": [
+        9,
+        332,
+        300,
+        360
+      ],
+      "confidence": 0.9706006050109863
+    },
+    {
+      "text": "published in-1985; no statistically-.",
+      "bbox": [
+        335,
+        330,
+        603,
+        354
+      ],
+      "confidence": 0.9780852794647217
+    },
+    {
+      "text": "health can take an unproven claim and",
+      "bbox": [
+        669,
+        327,
+        754,
+        349
+      ],
+      "confidence": 0.9777949452400208
+    },
+    {
+      "text": "significant increase in risk was",
+      "bbox": [
+        336,
+        350,
+        574,
+        374
+      ],
+      "confidence": 0.9968063831329346
+    },
+    {
+      "text": "magnify it out of all proportion; so",
+      "bbox": [
+        669,
+        348,
+        754,
+        369
+      ],
+      "confidence": 0.9870301485061646
+    },
+    {
+      "text": "cause disease.",
+      "bbox": [
+        10,
+        356,
+        118,
+        379
+      ],
+      "confidence": 0.9961565732955933
+    },
+    {
+      "text": "what begins as a misconiception turns",
+      "bbox": [
+        663,
+        367,
+        754,
+        389
+      ],
+      "confidence": 0.9796925187110901
+    },
+    {
+      "text": "And yct there is little cvidence",
+      "bbox": [
+        69,
+        369,
+        304,
+        398
+      ],
+      "confidence": 0.965351939201355
+    },
+    {
+      "text": "reported.",
+      "bbox": [
+        332,
+        369,
+        409,
+        395
+      ],
+      "confidence": 0.9884058833122253
+    },
+    {
+      "text": "and nothing which proves scientifically",
+      "bbox": [
+        13,
+        391,
+        309,
+        418
+      ],
+      "confidence": 0.9671446084976196
+    },
+    {
+      "text": "Researchers af the Harvard",
+      "bbox": [
+        387,
+        386,
+        608,
+        412
+      ],
+      "confidence": 0.9311285614967346
+    },
+    {
+      "text": "into a frightening tyth.",
+      "bbox": [
+        668,
+        388,
+        754,
+        407
+      ],
+      "confidence": 0.972559928894043
+    },
+    {
+      "text": "that cigarette smoke causcs diseasé in",
+      "bbox": [
+        14,
+        410,
+        301,
+        437
+      ],
+      "confidence": 0.9807724356651306
+    },
+    {
+      "text": "School of Public Health found that",
+      "bbox": [
+        336,
+        408,
+        606,
+        430
+      ],
+      "confidence": 0.9926285743713379
+    },
+    {
+      "text": "Alright, cigarette smoke may be",
+      "bbox": [
+        723,
+        404,
+        754,
+        428
+      ],
+      "confidence": 0.973854660987854
+    },
+    {
+      "text": "annoying to some non-smokers, but how",
+      "bbox": [
+        669,
+        424,
+        754,
+        447
+      ],
+      "confidence": 0.9981569647789001
+    },
+    {
+      "text": "non-smokers.",
+      "bbox": [
+        15,
+        434,
+        116,
+        457
+      ],
+      "confidence": 0.9987797141075134
+    },
+    {
+      "text": "a non-smoker would have to spend",
+      "bbox": [
+        334,
+        428,
+        607,
+        451
+      ],
+      "confidence": 0.9890987873077393
+    },
+    {
+      "text": "The London Times reported",
+      "bbox": [
+        71,
+        449,
+        288,
+        473
+      ],
+      "confidence": 0.9979181885719299
+    },
+    {
+      "text": "100 hours straight in the smokiest bar",
+      "bbox": [
+        336,
+        447,
+        625,
+        469
+      ],
+      "confidence": 0.9958138465881348
+    },
+    {
+      "text": "shall we deal with these problems?",
+      "bbox": [
+        670,
+        445,
+        754,
+        464
+      ],
+      "confidence": 0.9754009246826172
+    },
+    {
+      "text": "findings from the Institute of Cancer",
+      "bbox": [
+        15,
+        468,
+        291,
+        493
+      ],
+      "confidence": 0.9780599474906921
+    },
+    {
+      "text": "to \"absort\" the equivalent of a single",
+      "bbox": [
+        334,
+        466,
+        624,
+        488
+      ],
+      "confidence": 0.9281389117240906
+    },
+    {
+      "text": "Confrontation? Segregation? Legislation?",
+      "bbox": [
+        669,
+        461,
+        754,
+        485
+      ],
+      "confidence": 0.9861351251602173
+    },
+    {
+      "text": "Research in Surrey, England, publishod",
+      "bbox": [
+        16,
+        487,
+        307,
+        513
+      ],
+      "confidence": 0.9795291423797607
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        726,
+        481,
+        754,
+        507
+      ],
+      "confidence": 0.9997792840003967
+    },
+    {
+      "text": "filter tip cigarette.",
+      "bbox": [
+        338,
+        488,
+        476,
+        509
+      ],
+      "confidence": 0.9841101765632629
+    },
+    {
+      "text": "We think annoyance is neither",
+      "bbox": [
+        729,
+        501,
+        754,
+        522
+      ],
+      "confidence": 0.9922400116920471
+    },
+    {
+      "text": "in this month's edition of the 'British",
+      "bbox": [
+        13,
+        506,
+        290,
+        531
+      ],
+      "confidence": 0.9627368450164795
+    },
+    {
+      "text": "Major reviews on 'passive",
+      "bbox": [
+        396,
+        505,
+        613,
+        527
+      ],
+      "confidence": 0.9915570020675659
+    },
+    {
+      "text": "Journal of Cancer,' that 'passive",
+      "bbox": [
+        12,
+        527,
+        254,
+        551
+      ],
+      "confidence": 0.9884198307991028
+    },
+    {
+      "text": "smoking' over the last few years have",
+      "bbox": [
+        339,
+        524,
+        642,
+        547
+      ],
+      "confidence": 0.9840775728225708
+    },
+    {
+      "text": "a goveromental nor a medical problem.",
+      "bbox": [
+        669,
+        521,
+        754,
+        544
+      ],
+      "confidence": 0.986228346824646
+    },
+    {
+      "text": "smoking' for life-long non-smokers",
+      "bbox": [
+        14,
+        547,
+        284,
+        570
+      ],
+      "confidence": 0.9840353727340698
+    },
+    {
+      "text": "conchuded that 'passive smoking'",
+      "bbox": [
+        339,
+        545,
+        609,
+        567
+      ],
+      "confidence": 0.9885302782058716
+    },
+    {
+      "text": "Its a people problem. Smokers can",
+      "bbox": [
+        671,
+        543,
+        754,
+        563
+      ],
+      "confidence": 0.9954586625099182
+    },
+    {
+      "text": "caunot be shown to be a bealth risk.",
+      "bbox": [
+        340,
+        562,
+        633,
+        587
+      ],
+      "confidence": 0.9746748805046082
+    },
+    {
+      "text": "help by being more considerate and",
+      "bbox": [
+        671,
+        562,
+        754,
+        583
+      ],
+      "confidence": 0.9976651668548584
+    },
+    {
+      "text": "carrics no significant incrcase in the",
+      "bbox": [
+        14,
+        566,
+        289,
+        590
+      ],
+      "confidence": 0.9748601317405701
+    },
+    {
+      "text": "isk of lung cancer, bronchitis or heart",
+      "bbox": [
+        19,
+        586,
+        305,
+        610
+      ],
+      "confidence": 0.9810792207717896
+    },
+    {
+      "text": "The weight of evidence is summed",
+      "bbox": [
+        340,
+        583,
+        620,
+        606
+      ],
+      "confidence": 0.9910014271736145
+    },
+    {
+      "text": "responsible. Non-smokers can help by",
+      "bbox": [
+        669,
+        581,
+        754,
+        604
+      ],
+      "confidence": 0.9892662763595581
+    },
+    {
+      "text": "discase (all allegedly associated with",
+      "bbox": [
+        17,
+        605,
+        294,
+        630
+      ],
+      "confidence": 0.9825480580329895
+    },
+    {
+      "text": "up in the remarks at the conclusion",
+      "bbox": [
+        340,
+        604,
+        630,
+        626
+      ],
+      "confidence": 0.9928506016731262
+    },
+    {
+      "text": "being more tolcrant. And both groups",
+      "bbox": [
+        670,
+        603,
+        754,
+        625
+      ],
+      "confidence": 0.9875180125236511
+    },
+    {
+      "text": "moking).",
+      "bbox": [
+        21,
+        627,
+        97,
+        652
+      ],
+      "confidence": 0.9627333283424377
+    },
+    {
+      "text": "of the 1984 Vienna Health",
+      "bbox": [
+        340,
+        623,
+        551,
+        646
+      ],
+      "confidence": 0.981412947177887
+    },
+    {
+      "text": "can help by showing more respect for",
+      "bbox": [
+        669,
+        623,
+        754,
+        643
+      ],
+      "confidence": 0.9796565175056458
+    },
+    {
+      "text": "The Institute'& conclusions are",
+      "bbox": [
+        76,
+        646,
+        304,
+        669
+      ],
+      "confidence": 0.9536405801773071
+    },
+    {
+      "text": "Conference which was held in",
+      "bbox": [
+        340,
+        643,
+        584,
+        666
+      ],
+      "confidence": 0.9881370663642883
+    },
+    {
+      "text": "cach others rights and feelings.",
+      "bbox": [
+        671,
+        644,
+        754,
+        664
+      ],
+      "confidence": 0.9789137244224548
+    },
+    {
+      "text": "based on a wealth of statistical detail",
+      "bbox": [
+        18,
+        666,
+        291,
+        689
+      ],
+      "confidence": 0.9782481789588928
+    },
+    {
+      "text": "co-operation with the Workd Health",
+      "bbox": [
+        339,
+        661,
+        633,
+        686
+      ],
+      "confidence": 0.9929572939872742
+    },
+    {
+      "text": "Don't let intolerant minority",
+      "bbox": [
+        730,
+        663,
+        754,
+        682
+      ],
+      "confidence": 0.9769319295883179
+    },
+    {
+      "text": "Organisation: \"should law makers",
+      "bbox": [
+        338,
+        680,
+        623,
+        706
+      ],
+      "confidence": 0.9940229058265686
+    },
+    {
+      "text": "pressure groups use you to create",
+      "bbox": [
+        670,
+        682,
+        754,
+        703
+      ],
+      "confidence": 0.9962142109870911
+    },
+    {
+      "text": "from a study involving 12,000 peopic.",
+      "bbox": [
+        19,
+        686,
+        302,
+        709
+      ],
+      "confidence": 0.9882668256759644
+    },
+    {
+      "text": "In a study by a Vicc-Presidemt",
+      "bbox": [
+        74,
+        706,
+        301,
+        731
+      ],
+      "confidence": 0.9586253762245178
+    },
+    {
+      "text": "wisti to take legislative measures",
+      "bbox": [
+        339,
+        702,
+        606,
+        726
+      ],
+      "confidence": 0.9625563621520996
+    },
+    {
+      "text": "divisions between Australians.",
+      "bbox": [
+        672,
+        701,
+        754,
+        721
+      ],
+      "confidence": 0.9844039082527161
+    },
+    {
+      "text": "Ficlds House, Sydney.",
+      "bbox": [
+        624,
+        736,
+        754,
+        753
+      ],
+      "confidence": 0.9390032887458801
+    }
+  ],
+  "full_text": "A message from those who do...\nto those who don't\nSome non-smokers arc\nof the American Cancer Society in\nwith regard to passive smoking, they\n1981 which involved 175,000 people,\nwill, for the present, not be able to\nannoyed by cigarctte smoke. This is a\nreality that's been with us for a long\nit was reportcd that 'passive smoking\nbase thcir efforts on a demonstrated\n'had \"very litle, if any\" effect on lung\nhealth hazard from passive\ntime.\ncancer rates among non-smokers.\nsmoking.\"\nLatcly, however, many non-\nOften'our own concerns about\nsmokers have been led to belicve that\nIn the follow-up study\ncigarette smoke in the air can actually\npublished in-1985; no statistically-.\nhealth can take an unproven claim and\nsignificant increase in risk was\nmagnify it out of all proportion; so\ncause disease.\nwhat begins as a misconiception turns\nAnd yct there is little cvidence\nreported.\nand nothing which proves scientifically\nResearchers af the Harvard\ninto a frightening tyth.\nthat cigarette smoke causcs diseasé in\nSchool of Public Health found that\nAlright, cigarette smoke may be\nannoying to some non-smokers, but how\nnon-smokers.\na non-smoker would have to spend\nThe London Times reported\n100 hours straight in the smokiest bar\nshall we deal with these problems?\nfindings from the Institute of Cancer\nto \"absort\" the equivalent of a single\nConfrontation? Segregation? Legislation?\nResearch in Surrey, England, publishod\nNo.\nfilter tip cigarette.\nWe think annoyance is neither\nin this month's edition of the 'British\nMajor reviews on 'passive\nJournal of Cancer,' that 'passive\nsmoking' over the last few years have\na goveromental nor a medical problem.\nsmoking' for life-long non-smokers\nconchuded that 'passive smoking'\nIts a people problem. Smokers can\ncaunot be shown to be a bealth risk.\nhelp by being more considerate and\ncarrics no significant incrcase in the\nisk of lung cancer, bronchitis or heart\nThe weight of evidence is summed\nresponsible. Non-smokers can help by\ndiscase (all allegedly associated with\nup in the remarks at the conclusion\nbeing more tolcrant. And both groups\nmoking).\nof the 1984 Vienna Health\ncan help by showing more respect for\nThe Institute'& conclusions are\nConference which was held in\ncach others rights and feelings.\nbased on a wealth of statistical detail\nco-operation with the Workd Health\nDon't let intolerant minority\nOrganisation: \"should law makers\npressure groups use you to create\nfrom a study involving 12,000 peopic.\nIn a study by a Vicc-Presidemt\nwisti to take legislative measures\ndivisions between Australians.\nFiclds House, Sydney."
+}

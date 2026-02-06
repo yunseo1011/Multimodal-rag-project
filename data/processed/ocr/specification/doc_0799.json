@@ -1,0 +1,1211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0799.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FACTORY TEST - Cigarette, Filter and Testing Speclfications",
+      "bbox": [
+        143,
+        21,
+        570,
+        47
+      ],
+      "confidence": 0.9733799695968628
+    },
+    {
+      "text": "3596",
+      "bbox": [
+        133,
+        46,
+        170,
+        66
+      ],
+      "confidence": 0.9999599456787109
+    },
+    {
+      "text": "Gary W. Worrell",
+      "bbox": [
+        324,
+        47,
+        449,
+        68
+      ],
+      "confidence": 0.9977190494537354
+    },
+    {
+      "text": "7543",
+      "bbox": [
+        662,
+        47,
+        703,
+        70
+      ],
+      "confidence": 0.9999465942382812
+    },
+    {
+      "text": "Factory Test No.:",
+      "bbox": [
+        7,
+        55,
+        108,
+        70
+      ],
+      "confidence": 0.991653561592102
+    },
+    {
+      "text": "Project Leader:",
+      "bbox": [
+        205,
+        55,
+        294,
+        73
+      ],
+      "confidence": 0.9983710050582886
+    },
+    {
+      "text": "Project No.:",
+      "bbox": [
+        560,
+        57,
+        637,
+        76
+      ],
+      "confidence": 0.9985955357551575
+    },
+    {
+      "text": "SALEM Lights 85",
+      "bbox": [
+        56,
+        80,
+        178,
+        100
+      ],
+      "confidence": 0.9964335560798645
+    },
+    {
+      "text": "Brand:",
+      "bbox": [
+        5,
+        85,
+        50,
+        103
+      ],
+      "confidence": 0.9993767738342285
+    },
+    {
+      "text": "Approved:",
+      "bbox": [
+        204,
+        87,
+        270,
+        104
+      ],
+      "confidence": 0.9995108842849731
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        560,
+        90,
+        601,
+        109
+      ],
+      "confidence": 0.9997536540031433
+    },
+    {
+      "text": "Product improvement per Brand Marketing (cost reduction variables, total",
+      "bbox": [
+        109,
+        112,
+        674,
+        134
+      ],
+      "confidence": 0.9901790618896484
+    },
+    {
+      "text": "Purpose of Test:",
+      "bbox": [
+        5,
+        119,
+        98,
+        133
+      ],
+      "confidence": 0.98649662733078
+    },
+    {
+      "text": "casing, increased menthol).",
+      "bbox": [
+        113,
+        132,
+        318,
+        146
+      ],
+      "confidence": 0.994796633720398
+    },
+    {
+      "text": "Special Instructions:",
+      "bbox": [
+        3,
+        148,
+        122,
+        167
+      ],
+      "confidence": 0.9996652007102966
+    },
+    {
+      "text": "ACTORY TEST NUMBER/PART",
+      "bbox": [
+        0,
+        191,
+        173,
+        209
+      ],
+      "confidence": 0.9737296104431152
+    },
+    {
+      "text": "A",
+      "bbox": [
+        278,
+        192,
+        290,
+        206
+      ],
+      "confidence": 0.9998635053634644
+    },
+    {
+      "text": "B",
+      "bbox": [
+        410,
+        191,
+        425,
+        205
+      ],
+      "confidence": 0.9999395608901978
+    },
+    {
+      "text": "c",
+      "bbox": [
+        540,
+        193,
+        555,
+        208
+      ],
+      "confidence": 0.7248194813728333
+    },
+    {
+      "text": "D",
+      "bbox": [
+        666,
+        194,
+        681,
+        209
+      ],
+      "confidence": 0.999842643737793
+    },
+    {
+      "text": "FILTER SPECIFICATIONS",
+      "bbox": [
+        0,
+        208,
+        134,
+        225
+      ],
+      "confidence": 0.9995786547660828
+    },
+    {
+      "text": "Tow Item",
+      "bbox": [
+        16,
+        223,
+        73,
+        240
+      ],
+      "confidence": 0.9773457050323486
+    },
+    {
+      "text": "Current SL-85",
+      "bbox": [
+        231,
+        219,
+        336,
+        238
+      ],
+      "confidence": 0.9986149072647095
+    },
+    {
+      "text": "2.9/35,000",
+      "bbox": [
+        361,
+        220,
+        446,
+        237
+      ],
+      "confidence": 0.9995195269584656
+    },
+    {
+      "text": "3.3/39,000",
+      "bbox": [
+        502,
+        222,
+        583,
+        239
+      ],
+      "confidence": 0.9983502626419067
+    },
+    {
+      "text": "Merit Menthol",
+      "bbox": [
+        641,
+        223,
+        750,
+        240
+      ],
+      "confidence": 0.9975062012672424
+    },
+    {
+      "text": "Filte: Pressure Drop (mm.)",
+      "bbox": [
+        17,
+        239,
+        162,
+        255
+      ],
+      "confidence": 0.989292562007904
+    },
+    {
+      "text": "90",
+      "bbox": [
+        361,
+        235,
+        384,
+        251
+      ],
+      "confidence": 0.9986407160758972
+    },
+    {
+      "text": "78",
+      "bbox": [
+        502,
+        237,
+        522,
+        255
+      ],
+      "confidence": 0.9999780058860779
+    },
+    {
+      "text": "Filter Segment Length (mm.)",
+      "bbox": [
+        16,
+        253,
+        172,
+        272
+      ],
+      "confidence": 0.9527996182441711
+    },
+    {
+      "text": "in all respects",
+      "bbox": [
+        231,
+        250,
+        352,
+        268
+      ],
+      "confidence": 0.9987480044364929
+    },
+    {
+      "text": "25",
+      "bbox": [
+        360,
+        251,
+        383,
+        267
+      ],
+      "confidence": 0.9997657537460327
+    },
+    {
+      "text": "25",
+      "bbox": [
+        500,
+        252,
+        521,
+        270
+      ],
+      "confidence": 0.9994797110557556
+    },
+    {
+      "text": "85 (purchased)",
+      "bbox": [
+        641,
+        254,
+        758,
+        271
+      ],
+      "confidence": 0.9863213896751404
+    },
+    {
+      "text": "Circumference (mm.)",
+      "bbox": [
+        15,
+        270,
+        131,
+        286
+      ],
+      "confidence": 0.9802184104919434
+    },
+    {
+      "text": "24.6",
+      "bbox": [
+        361,
+        267,
+        400,
+        282
+      ],
+      "confidence": 0.9994080662727356
+    },
+    {
+      "text": "24.6",
+      "bbox": [
+        499,
+        267,
+        537,
+        285
+      ],
+      "confidence": 0.999500036239624
+    },
+    {
+      "text": "Plasticizer (% and Type)",
+      "bbox": [
+        13,
+        285,
+        147,
+        304
+      ],
+      "confidence": 0.9734157919883728
+    },
+    {
+      "text": "(purchased).",
+      "bbox": [
+        232,
+        281,
+        326,
+        300
+      ],
+      "confidence": 0.9993515014648438
+    },
+    {
+      "text": "E-31F @ 9%",
+      "bbox": [
+        359,
+        279,
+        445,
+        300
+      ],
+      "confidence": 0.97984379529953
+    },
+    {
+      "text": "E-33F @ 9%",
+      "bbox": [
+        498,
+        282,
+        582,
+        303
+      ],
+      "confidence": 0.9847513437271118
+    },
+    {
+      "text": "Plug Wran (I.D. No.)",
+      "bbox": [
+        14,
+        300,
+        128,
+        319
+      ],
+      "confidence": 0.9499080777168274
+    },
+    {
+      "text": "70 M1",
+      "bbox": [
+        362,
+        297,
+        405,
+        312
+      ],
+      "confidence": 0.9436426162719727
+    },
+    {
+      "text": "70 M1",
+      "bbox": [
+        500,
+        299,
+        542,
+        315
+      ],
+      "confidence": 0.9054029583930969
+    },
+    {
+      "text": "CIGARETTE SPECIFICATIONS",
+      "bbox": [
+        1,
+        318,
+        159,
+        336
+      ],
+      "confidence": 0.9994215965270996
+    },
+    {
+      "text": "Total Cigarette Length (mm.)",
+      "bbox": [
+        19,
+        334,
+        177,
+        350
+      ],
+      "confidence": 0.9924331307411194
+    },
+    {
+      "text": "84",
+      "bbox": [
+        360,
+        326,
+        382,
+        344
+      ],
+      "confidence": 0.9990561604499817
+    },
+    {
+      "text": "Same as_'B{",
+      "bbox": [
+        500,
+        329,
+        589,
+        346
+      ],
+      "confidence": 0.8546051383018494
+    },
+    {
+      "text": "Tobacco Rod Length (mm.)",
+      "bbox": [
+        17,
+        349,
+        169,
+        365
+      ],
+      "confidence": 0.9987185597419739
+    },
+    {
+      "text": "59",
+      "bbox": [
+        360,
+        343,
+        382,
+        360
+      ],
+      "confidence": 0.9997000694274902
+    },
+    {
+      "text": "Circumference (mm.)",
+      "bbox": [
+        16,
+        364,
+        133,
+        379
+      ],
+      "confidence": 0.9978777170181274
+    },
+    {
+      "text": "24.8",
+      "bbox": [
+        358,
+        358,
+        399,
+        376
+      ],
+      "confidence": 0.9992278814315796
+    },
+    {
+      "text": "Cigarette Weight (grams)",
+      "bbox": [
+        15,
+        379,
+        150,
+        395
+      ],
+      "confidence": 0.9693085551261902
+    },
+    {
+      "text": "*",
+      "bbox": [
+        359,
+        374,
+        374,
+        388
+      ],
+      "confidence": 0.9992528557777405
+    },
+    {
+      "text": "Cigarette Paper (I.D. No.)",
+      "bbox": [
+        14,
+        394,
+        156,
+        410
+      ],
+      "confidence": 0.9863461256027222
+    },
+    {
+      "text": "719",
+      "bbox": [
+        359,
+        389,
+        390,
+        405
+      ],
+      "confidence": 0.9998180270195007
+    },
+    {
+      "text": "Tipping (porosity)",
+      "bbox": [
+        14,
+        410,
+        124,
+        424
+      ],
+      "confidence": 0.9989621639251709
+    },
+    {
+      "text": "2000 CP",
+      "bbox": [
+        358,
+        404,
+        419,
+        422
+      ],
+      "confidence": 0.8654668927192688
+    },
+    {
+      "text": "Tota! Width(mm.)",
+      "bbox": [
+        30,
+        423,
+        128,
+        438
+      ],
+      "confidence": 0.982410192489624
+    },
+    {
+      "text": "63",
+      "bbox": [
+        358,
+        419,
+        381,
+        435
+      ],
+      "confidence": 0.999747097492218
+    },
+    {
+      "text": "Color",
+      "bbox": [
+        25,
+        435,
+        64,
+        457
+      ],
+      "confidence": 0.9977352023124695
+    },
+    {
+      "text": "White",
+      "bbox": [
+        358,
+        435,
+        404,
+        451
+      ],
+      "confidence": 0.9995158314704895
+    },
+    {
+      "text": "Type",
+      "bbox": [
+        26,
+        452,
+        60,
+        471
+      ],
+      "confidence": 0.9998681545257568
+    },
+    {
+      "text": "SALEM LtS.85",
+      "bbox": [
+        357,
+        451,
+        464,
+        467
+      ],
+      "confidence": 0.8962507247924805
+    },
+    {
+      "text": "Perforation Lines and Location",
+      "bbox": [
+        27,
+        470,
+        197,
+        483
+      ],
+      "confidence": 0.9989872574806213
+    },
+    {
+      "text": "1 (26 C/C)",
+      "bbox": [
+        356,
+        465,
+        440,
+        484
+      ],
+      "confidence": 0.907289981842041
+    },
+    {
+      "text": "I.D. No.",
+      "bbox": [
+        27,
+        485,
+        75,
+        499
+      ],
+      "confidence": 0.9552924633026123
+    },
+    {
+      "text": "Current SL-85",
+      "bbox": [
+        356,
+        480,
+        463,
+        499
+      ],
+      "confidence": 0.9497190713882446
+    },
+    {
+      "text": "•.",
+      "bbox": [
+        11,
+        504,
+        40,
+        515
+      ],
+      "confidence": 0.6290839910507202
+    },
+    {
+      "text": "* MAKE TO 10.5",
+      "bbox": [
+        226,
+        509,
+        342,
+        527
+      ],
+      "confidence": 0.9374576807022095
+    },
+    {
+      "text": "FIRMNESS TO DETERMINE WEIGHT.",
+      "bbox": [
+        334,
+        511,
+        567,
+        530
+      ],
+      "confidence": 0.9937261343002319
+    },
+    {
+      "text": "IGARETTE PACKAGING",
+      "bbox": [
+        0,
+        532,
+        126,
+        545
+      ],
+      "confidence": 0.9985374808311462
+    },
+    {
+      "text": "Non-Bended Cigerettes (Ctns.)",
+      "bbox": [
+        7,
+        544,
+        159,
+        562
+      ],
+      "confidence": 0.9763195514678955
+    },
+    {
+      "text": "Monadic Wrappers",
+      "bbox": [
+        26,
+        561,
+        126,
+        576
+      ],
+      "confidence": 0.9973689317703247
+    },
+    {
+      "text": "Smoke First Wrappers",
+      "bbox": [
+        24,
+        575,
+        146,
+        591
+      ],
+      "confidence": 0.9818134307861328
+    },
+    {
+      "text": "Smoke Second Wrappers",
+      "bbox": [
+        21,
+        590,
+        159,
+        607
+      ],
+      "confidence": 0.9919381141662598
+    },
+    {
+      "text": "Printed (Specify Brand)",
+      "bbox": [
+        20,
+        605,
+        153,
+        622
+      ],
+      "confidence": 0.9990255236625671
+    },
+    {
+      "text": "Banded Cigerettes (Ctns.)",
+      "bbox": [
+        0,
+        622,
+        129,
+        639
+      ],
+      "confidence": 0.9621126055717468
+    },
+    {
+      "text": "Banding Width",
+      "bbox": [
+        14,
+        636,
+        103,
+        656
+      ],
+      "confidence": 0.9995240569114685
+    },
+    {
+      "text": "Positior./mm. from mouth end",
+      "bbox": [
+        13,
+        652,
+        188,
+        670
+      ],
+      "confidence": 0.9679709076881409
+    },
+    {
+      "text": "Plain",
+      "bbox": [
+        11,
+        672,
+        44,
+        688
+      ],
+      "confidence": 0.9997125864028931
+    },
+    {
+      "text": "60",
+      "bbox": [
+        220,
+        680,
+        243,
+        698
+      ],
+      "confidence": 0.9998372793197632
+    },
+    {
+      "text": "60",
+      "bbox": [
+        354,
+        682,
+        377,
+        699
+      ],
+      "confidence": 0.9997790455818176
+    },
+    {
+      "text": "60",
+      "bbox": [
+        497,
+        682,
+        520,
+        700
+      ],
+      "confidence": 0.9998719692230225
+    },
+    {
+      "text": "Monadic Wrappers",
+      "bbox": [
+        30,
+        688,
+        135,
+        702
+      ],
+      "confidence": 0.9948002099990845
+    },
+    {
+      "text": "60",
+      "bbox": [
+        636,
+        684,
+        660,
+        702
+      ],
+      "confidence": 0.9998778104782104
+    },
+    {
+      "text": "Smoke First Wrappers",
+      "bbox": [
+        28,
+        701,
+        155,
+        720
+      ],
+      "confidence": 0.9986071586608887
+    },
+    {
+      "text": "Smoke Second Wrappers",
+      "bbox": [
+        27,
+        718,
+        169,
+        736
+      ],
+      "confidence": 0.9841131567955017
+    },
+    {
+      "text": "Smoke First/Smoke First Wrappers",
+      "bbox": [
+        10,
+        733,
+        210,
+        752
+      ],
+      "confidence": 0.9896122217178345
+    },
+    {
+      "text": "Smoke Second/Smoke Second",
+      "bbox": [
+        12,
+        751,
+        183,
+        766
+      ],
+      "confidence": 0.9986734986305237
+    },
+    {
+      "text": "Wrappers",
+      "bbox": [
+        10,
+        769,
+        64,
+        783
+      ],
+      "confidence": 0.99933260679245
+    },
+    {
+      "text": "OTAI. CARTONS REQUIRED:",
+      "bbox": [
+        0,
+        794,
+        170,
+        807
+      ],
+      "confidence": 0.9718218445777893
+    },
+    {
+      "text": "60",
+      "bbox": [
+        218,
+        792,
+        242,
+        809
+      ],
+      "confidence": 0.9998459815979004
+    },
+    {
+      "text": "60",
+      "bbox": [
+        351,
+        791,
+        376,
+        810
+      ],
+      "confidence": 0.99988853931427
+    },
+    {
+      "text": "60",
+      "bbox": [
+        494,
+        794,
+        517,
+        810
+      ],
+      "confidence": 0.9998912811279297
+    },
+    {
+      "text": "60",
+      "bbox": [
+        636,
+        796,
+        659,
+        814
+      ],
+      "confidence": 0.9999055862426758
+    },
+    {
+      "text": "ANEL TESTING",
+      "bbox": [
+        0,
+        810,
+        80,
+        824
+      ],
+      "confidence": 0.9786216616630554
+    },
+    {
+      "text": "51065 6201",
+      "bbox": [
+        721,
+        811,
+        745,
+        910
+      ],
+      "confidence": 0.9998760223388672
+    },
+    {
+      "text": "Company-Wide Pack Test",
+      "bbox": [
+        5,
+        825,
+        151,
+        839
+      ],
+      "confidence": 0.9921337366104126
+    },
+    {
+      "text": "Employee U.S. Mail Panel",
+      "bbox": [
+        6,
+        840,
+        148,
+        854
+      ],
+      "confidence": 0.9707422256469727
+    },
+    {
+      "text": "Consumer U.S. Mail Panel",
+      "bbox": [
+        5,
+        856,
+        148,
+        869
+      ],
+      "confidence": 0.9692821502685547
+    },
+    {
+      "text": "Central Location Panel",
+      "bbox": [
+        5,
+        871,
+        131,
+        884
+      ],
+      "confidence": 0.9879279732704163
+    },
+    {
+      "text": "MARC Panel",
+      "bbox": [
+        5,
+        887,
+        76,
+        898
+      ],
+      "confidence": 0.9833887815475464
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        3,
+        915,
+        40,
+        929
+      ],
+      "confidence": 0.9133262634277344
+    },
+    {
+      "text": "Walker",
+      "bbox": [
+        70,
+        915,
+        122,
+        929
+      ],
+      "confidence": 0.9999400973320007
+    },
+    {
+      "text": "X",
+      "bbox": [
+        266,
+        915,
+        281,
+        930
+      ],
+      "confidence": 0.9926700592041016
+    },
+    {
+      "text": "X",
+      "bbox": [
+        400,
+        917,
+        414,
+        931
+      ],
+      "confidence": 0.956186056137085
+    },
+    {
+      "text": "X",
+      "bbox": [
+        533,
+        920,
+        547,
+        934
+      ],
+      "confidence": 0.956058144569397
+    },
+    {
+      "text": "X",
+      "bbox": [
+        676,
+        922,
+        689,
+        935
+      ],
+      "confidence": 0.9500040411949158
+    },
+    {
+      "text": "CHEDULING",
+      "bbox": [
+        0,
+        947,
+        64,
+        961
+      ],
+      "confidence": 0.996192216873169
+    },
+    {
+      "text": "M&P, Week of",
+      "bbox": [
+        5,
+        962,
+        89,
+        976
+      ],
+      "confidence": 0.984672486782074
+    },
+    {
+      "text": "8/16/82",
+      "bbox": [
+        220,
+        960,
+        281,
+        982
+      ],
+      "confidence": 0.9998946189880371
+    },
+    {
+      "text": "8/16/82",
+      "bbox": [
+        352,
+        962,
+        414,
+        983
+      ],
+      "confidence": 0.9999366402626038
+    },
+    {
+      "text": "8/16/82",
+      "bbox": [
+        494,
+        967,
+        554,
+        985
+      ],
+      "confidence": 0.9999211430549622
+    },
+    {
+      "text": "Shipping Date Needed",
+      "bbox": [
+        6,
+        978,
+        132,
+        995
+      ],
+      "confidence": 0.9505602717399597
+    },
+    {
+      "text": "9/09/82",
+      "bbox": [
+        220,
+        978,
+        281,
+        998
+      ],
+      "confidence": 0.9992203116416931
+    },
+    {
+      "text": "9/09/82",
+      "bbox": [
+        353,
+        982,
+        414,
+        999
+      ],
+      "confidence": 0.9990881085395813
+    },
+    {
+      "text": "8/16/82",
+      "bbox": [
+        635,
+        970,
+        697,
+        988
+      ],
+      "confidence": 0.9997569918632507
+    },
+    {
+      "text": "9/09/82",
+      "bbox": [
+        494,
+        984,
+        555,
+        1000
+      ],
+      "confidence": 0.9995871782302856
+    },
+    {
+      "text": "9/09/82",
+      "bbox": [
+        639,
+        989,
+        696,
+        999
+      ],
+      "confidence": 0.9966101050376892
+    }
+  ],
+  "full_text": "FACTORY TEST - Cigarette, Filter and Testing Speclfications\n3596\nGary W. Worrell\n7543\nFactory Test No.:\nProject Leader:\nProject No.:\nSALEM Lights 85\nBrand:\nApproved:\nDate:\nProduct improvement per Brand Marketing (cost reduction variables, total\nPurpose of Test:\ncasing, increased menthol).\nSpecial Instructions:\nACTORY TEST NUMBER/PART\nA\nB\nc\nD\nFILTER SPECIFICATIONS\nTow Item\nCurrent SL-85\n2.9/35,000\n3.3/39,000\nMerit Menthol\nFilte: Pressure Drop (mm.)\n90\n78\nFilter Segment Length (mm.)\nin all respects\n25\n25\n85 (purchased)\nCircumference (mm.)\n24.6\n24.6\nPlasticizer (% and Type)\n(purchased).\nE-31F @ 9%\nE-33F @ 9%\nPlug Wran (I.D. No.)\n70 M1\n70 M1\nCIGARETTE SPECIFICATIONS\nTotal Cigarette Length (mm.)\n84\nSame as_'B{\nTobacco Rod Length (mm.)\n59\nCircumference (mm.)\n24.8\nCigarette Weight (grams)\n*\nCigarette Paper (I.D. No.)\n719\nTipping (porosity)\n2000 CP\nTota! Width(mm.)\n63\nColor\nWhite\nType\nSALEM LtS.85\nPerforation Lines and Location\n1 (26 C/C)\nI.D. No.\nCurrent SL-85\n•.\n* MAKE TO 10.5\nFIRMNESS TO DETERMINE WEIGHT.\nIGARETTE PACKAGING\nNon-Bended Cigerettes (Ctns.)\nMonadic Wrappers\nSmoke First Wrappers\nSmoke Second Wrappers\nPrinted (Specify Brand)\nBanded Cigerettes (Ctns.)\nBanding Width\nPositior./mm. from mouth end\nPlain\n60\n60\n60\nMonadic Wrappers\n60\nSmoke First Wrappers\nSmoke Second Wrappers\nSmoke First/Smoke First Wrappers\nSmoke Second/Smoke Second\nWrappers\nOTAI. CARTONS REQUIRED:\n60\n60\n60\n60\nANEL TESTING\n51065 6201\nCompany-Wide Pack Test\nEmployee U.S. Mail Panel\nConsumer U.S. Mail Panel\nCentral Location Panel\nMARC Panel\nOther\nWalker\nX\nX\nX\nX\nCHEDULING\nM&P, Week of\n8/16/82\n8/16/82\n8/16/82\nShipping Date Needed\n9/09/82\n9/09/82\n8/16/82\n9/09/82\n9/09/82"
+}

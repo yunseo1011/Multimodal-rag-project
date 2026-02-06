@@ -1,0 +1,1451 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0821.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Copyright 1981, American Medical Assock",
+      "bbox": [
+        297,
+        1,
+        461,
+        23
+      ],
+      "confidence": 0.943934977054596
+    },
+    {
+      "text": "Effect of Warfarin on Survival",
+      "bbox": [
+        329,
+        16,
+        707,
+        58
+      ],
+      "confidence": 0.9848414659500122
+    },
+    {
+      "text": "in Small Cell Carcinoma of the Lung",
+      "bbox": [
+        246,
+        53,
+        706,
+        100
+      ],
+      "confidence": 0.9848506450653076
+    },
+    {
+      "text": "Veterans Administration Study No. 75",
+      "bbox": [
+        375,
+        106,
+        705,
+        137
+      ],
+      "confidence": 0.9908460974693298
+    },
+    {
+      "text": "Leo R. Zacharski, MD; Wiiam G. Henderson, PhD; Frederick R. Rickles, MD; Walter B. Forman, MD;",
+      "bbox": [
+        106,
+        129,
+        706,
+        171
+      ],
+      "confidence": 0.9879347681999207
+    },
+    {
+      "text": "C. J. Cornell, Jr, MD; R. Jackson Forcier, MD; Richard Edwards, MD; Elwood Headley, MD;",
+      "bbox": [
+        168,
+        151,
+        705,
+        188
+      ],
+      "confidence": 0.9617695212364197
+    },
+    {
+      "text": "Sang-Hee Kim, MD; Joseph R. O'Donnell, MD; Robert O'Dell, MD; Karl Tornyos, MD; Hau C. Kwaan, MD",
+      "bbox": [
+        89,
+        166,
+        704,
+        206
+      ],
+      "confidence": 0.9796727299690247
+    },
+    {
+      "text": "• In a controlled, randomized study, survival of patients with small cell",
+      "bbox": [
+        65,
+        228,
+        476,
+        254
+      ],
+      "confidence": 0.9842575192451477
+    },
+    {
+      "text": "carcinoma of the lung (SCCL) was prolonged on addition of warfarin sodium",
+      "bbox": [
+        43,
+        241,
+        477,
+        270
+      ],
+      "confidence": 0.9746903777122498
+    },
+    {
+      "text": "possible entry to this protocol.",
+      "bbox": [
+        495,
+        241,
+        645,
+        257
+      ],
+      "confidence": 0.9836796522140503
+    },
+    {
+      "text": "to combination chemotherapy plus radiation therapy. Medlan survival for 25",
+      "bbox": [
+        44,
+        257,
+        476,
+        283
+      ],
+      "confidence": 0.9917610883712769
+    },
+    {
+      "text": "Combination chemotherapy and radia-",
+      "bbox": [
+        505,
+        254,
+        701,
+        272
+      ],
+      "confidence": 0.9934720993041992
+    },
+    {
+      "text": "control patients was 24 weeks and for 25 warfarin-treated patients was 50",
+      "bbox": [
+        44,
+        271,
+        476,
+        297
+      ],
+      "confidence": 0.9825878143310547
+    },
+    {
+      "text": "tion therapy considered to be appropriate",
+      "bbox": [
+        495,
+        267,
+        702,
+        285
+      ],
+      "confidence": 0.9737569093704224
+    },
+    {
+      "text": "weeks. This difference could not be accounted for by differences between",
+      "bbox": [
+        43,
+        286,
+        476,
+        313
+      ],
+      "confidence": 0.981019139289856
+    },
+    {
+      "text": "at the inception of the study that was",
+      "bbox": [
+        494,
+        280,
+        702,
+        297
+      ],
+      "confidence": 0.9816193580627441
+    },
+    {
+      "text": "groups in performance status, extent of disease, age, or sex. The survival",
+      "bbox": [
+        43,
+        302,
+        476,
+        327
+      ],
+      "confidence": 0.9755153059959412
+    },
+    {
+      "text": "given to all patients admitted to this study",
+      "bbox": [
+        495,
+        293,
+        701,
+        312
+      ],
+      "confidence": 0.9856799840927124
+    },
+    {
+      "text": "was adapted from that of Eagan and",
+      "bbox": [
+        495,
+        307,
+        701,
+        324
+      ],
+      "confidence": 0.9913659691810608
+    },
+    {
+      "text": "advantage associated with warfarin administration was observed both for",
+      "bbox": [
+        42,
+        317,
+        476,
+        342
+      ],
+      "confidence": 0.9964652061462402
+    },
+    {
+      "text": "associates.' This consisted of the following:",
+      "bbox": [
+        494,
+        318,
+        700,
+        339
+      ],
+      "confidence": 0.9604230523109436
+    },
+    {
+      "text": "patients with extensive disease and for those who falled to achieve complete",
+      "bbox": [
+        41,
+        333,
+        476,
+        357
+      ],
+      "confidence": 0.9816055297851562
+    },
+    {
+      "text": "(1 eyelophosphamide, 2,000 mg/sq m",
+      "bbox": [
+        495,
+        334,
+        701,
+        351
+      ],
+      "confidence": 0.9497901797294617
+    },
+    {
+      "text": "or partial remission. The warfarin-treated group also demonstrated a",
+      "bbox": [
+        41,
+        348,
+        476,
+        372
+      ],
+      "confidence": 0.9809515476226807
+    },
+    {
+      "text": "intravenously (IV) on day 1 of each 28-day",
+      "bbox": [
+        494,
+        347,
+        700,
+        363
+      ],
+      "confidence": 0.9864309430122375
+    },
+    {
+      "text": "significantly increased time to first evidence of disease progression. These",
+      "bbox": [
+        41,
+        363,
+        475,
+        386
+      ],
+      "confidence": 0.9790354371070862
+    },
+    {
+      "text": "eycle; (2) vineristine sulfate, 1.5 mg/sq m",
+      "bbox": [
+        494,
+        360,
+        701,
+        376
+      ],
+      "confidence": 0.9518669247627258
+    },
+    {
+      "text": "results suggest that warfarin may be useful in the treatment of SccL and",
+      "bbox": [
+        40,
+        379,
+        475,
+        400
+      ],
+      "confidence": 0.9736999869346619
+    },
+    {
+      "text": "IV on day 1 of each 28-day cycle; (3)",
+      "bbox": [
+        493,
+        373,
+        700,
+        389
+      ],
+      "confidence": 0.9479576349258423
+    },
+    {
+      "text": "also support the hypothesis that the blood coagulation mechanism may be",
+      "bbox": [
+        40,
+        394,
+        475,
+        415
+      ],
+      "confidence": 0.9916595816612244
+    },
+    {
+      "text": "methotrexate, 30 mg/sq m IV on day 22 of",
+      "bbox": [
+        493,
+        386,
+        701,
+        402
+      ],
+      "confidence": 0.9829872250556946
+    },
+    {
+      "text": "involved in the growth and spread of cancer In man.",
+      "bbox": [
+        41,
+        408,
+        342,
+        428
+      ],
+      "confidence": 0.970499575138092
+    },
+    {
+      "text": "each 28-day eyele; ) radiation therapy",
+      "bbox": [
+        493,
+        398,
+        701,
+        417
+      ],
+      "confidence": 0.9287813305854797
+    },
+    {
+      "text": "(JAMA 1981;245:831-835)",
+      "bbox": [
+        58,
+        424,
+        209,
+        441
+      ],
+      "confidence": 0.9816418290138245
+    },
+    {
+      "text": "consisted of 3,200 rad to the primary",
+      "bbox": [
+        493,
+        413,
+        701,
+        428
+      ],
+      "confidence": 0.9742978811264038
+    },
+    {
+      "text": "tumor and the primary drainage area in",
+      "bbox": [
+        494,
+        425,
+        701,
+        442
+      ],
+      "confidence": 0.9876866340637207
+    },
+    {
+      "text": "the mediastinum to 2 em into the contra-",
+      "bbox": [
+        494,
+        438,
+        701,
+        455
+      ],
+      "confidence": 0.978709876537323
+    },
+    {
+      "text": "lateral side and to the infracarinal node",
+      "bbox": [
+        493,
+        453,
+        701,
+        468
+      ],
+      "confidence": 0.9928147196769714
+    },
+    {
+      "text": "IN APRIL 1976, a Veterans Adminis-",
+      "bbox": [
+        40,
+        460,
+        251,
+        480
+      ],
+      "confidence": 0.9819531440734863
+    },
+    {
+      "text": "description of tumor categories under",
+      "bbox": [
+        269,
+        464,
+        477,
+        480
+      ],
+      "confidence": 0.9918006658554077
+    },
+    {
+      "text": "area delivered in ten treatments after the",
+      "bbox": [
+        493,
+        466,
+        701,
+        481
+      ],
+      "confidence": 0.9708113670349121
+    },
+    {
+      "text": "tration Cooperative Study was",
+      "bbox": [
+        40,
+        477,
+        253,
+        493
+      ],
+      "confidence": 0.988189160823822
+    },
+    {
+      "text": "investigation, and a review of previ-",
+      "bbox": [
+        269,
+        478,
+        476,
+        494
+      ],
+      "confidence": 0.9764553904533386
+    },
+    {
+      "text": "second chemotherapy cycle. Warfarin",
+      "bbox": [
+        493,
+        479,
+        700,
+        494
+      ],
+      "confidence": 0.9974291920661926
+    },
+    {
+      "text": "launched to test the hypothesis that",
+      "bbox": [
+        41,
+        494,
+        252,
+        507
+      ],
+      "confidence": 0.9955729246139526
+    },
+    {
+      "text": "ous work in experimental tumor sys-",
+      "bbox": [
+        268,
+        493,
+        477,
+        510
+      ],
+      "confidence": 0.9933810830116272
+    },
+    {
+      "text": "(provided by Elizabeth H. Newkom, MD, of",
+      "bbox": [
+        494,
+        492,
+        701,
+        508
+      ],
+      "confidence": 0.9852011799812317
+    },
+    {
+      "text": "warfarin sodium anticoagulation",
+      "bbox": [
+        39,
+        507,
+        252,
+        522
+      ],
+      "confidence": 0.985770046710968
+    },
+    {
+      "text": "tems and in man that provided the",
+      "bbox": [
+        269,
+        507,
+        478,
+        525
+      ],
+      "confidence": 0.998772382736206
+    },
+    {
+      "text": "Endo Laboratories) was administered to",
+      "bbox": [
+        493,
+        505,
+        701,
+        521
+      ],
+      "confidence": 0.9646123647689819
+    },
+    {
+      "text": "patients in doses intended to prolong the",
+      "bbox": [
+        493,
+        517,
+        701,
+        536
+      ],
+      "confidence": 0.9884645342826843
+    },
+    {
+      "text": "would favorably modify the course of",
+      "bbox": [
+        40,
+        523,
+        252,
+        537
+      ],
+      "confidence": 0.9820950627326965
+    },
+    {
+      "text": "rationale for this controlled, random-",
+      "bbox": [
+        268,
+        521,
+        477,
+        540
+      ],
+      "confidence": 0.9945167899131775
+    },
+    {
+      "text": "prothrombin time to approximately two",
+      "bbox": [
+        493,
+        532,
+        701,
+        547
+      ],
+      "confidence": 0.9981743097305298
+    },
+    {
+      "text": "several forms of malignant disease in",
+      "bbox": [
+        39,
+        538,
+        252,
+        551
+      ],
+      "confidence": 0.9989050030708313
+    },
+    {
+      "text": "ized, multi-institutional trial have",
+      "bbox": [
+        269,
+        537,
+        477,
+        555
+      ],
+      "confidence": 0.9744274616241455
+    },
+    {
+      "text": "times the control value. Warfarin treat-",
+      "bbox": [
+        494,
+        545,
+        701,
+        561
+      ],
+      "confidence": 0.9911235570907593
+    },
+    {
+      "text": "man.",
+      "bbox": [
+        40,
+        554,
+        78,
+        566
+      ],
+      "confidence": 0.9969330430030823
+    },
+    {
+      "text": "Details,of protocol design, a",
+      "bbox": [
+        74,
+        552,
+        252,
+        567
+      ],
+      "confidence": 0.9502166509628296
+    },
+    {
+      "text": "been presented elsewhere.' Briefly, it",
+      "bbox": [
+        267,
+        550,
+        478,
+        570
+      ],
+      "confidence": 0.9917734265327454
+    },
+    {
+      "text": "ment was started within 24 hours of",
+      "bbox": [
+        493,
+        558,
+        701,
+        575
+      ],
+      "confidence": 0.9723306894302368
+    },
+    {
+      "text": "has been shown in certain experimen-",
+      "bbox": [
+        267,
+        564,
+        478,
+        585
+      ],
+      "confidence": 0.9940581917762756
+    },
+    {
+      "text": "randomization.",
+      "bbox": [
+        493,
+        571,
+        568,
+        587
+      ],
+      "confidence": 0.9998470544815063
+    },
+    {
+      "text": "ter, White River Junotion, Vi (Drs Zacharski and",
+      "bbox": [
+        38,
+        592,
+        253,
+        606
+      ],
+      "confidence": 0.9653286933898926
+    },
+    {
+      "text": "From the Veterans Administration Medical Cen-",
+      "bbox": [
+        49,
+        581,
+        252,
+        596
+      ],
+      "confidence": 0.9963362812995911
+    },
+    {
+      "text": "tal tumor systems that inhibition of",
+      "bbox": [
+        268,
+        582,
+        477,
+        598
+      ],
+      "confidence": 0.9806606769561768
+    },
+    {
+      "text": "The criteria used to define response to",
+      "bbox": [
+        502,
+        585,
+        701,
+        601
+      ],
+      "confidence": 0.9956589937210083
+    },
+    {
+      "text": "O'Donnell); the Department of Medicine, Norris",
+      "bbox": [
+        37,
+        603,
+        252,
+        617
+      ],
+      "confidence": 0.9653955698013306
+    },
+    {
+      "text": "coagulation reactions by various",
+      "bbox": [
+        267,
+        595,
+        478,
+        614
+      ],
+      "confidence": 0.996559739112854
+    },
+    {
+      "text": "treatment have been deseribed elsewhere.'",
+      "bbox": [
+        493,
+        599,
+        699,
+        614
+      ],
+      "confidence": 0.9934196472167969
+    },
+    {
+      "text": "Cotton Cancer Center, Dartmouth-Hitchcock Med-",
+      "bbox": [
+        37,
+        615,
+        252,
+        628
+      ],
+      "confidence": 0.9956592917442322
+    },
+    {
+      "text": "means results in limitation of tumor",
+      "bbox": [
+        267,
+        611,
+        477,
+        626
+      ],
+      "confidence": 0.9902932047843933
+    },
+    {
+      "text": "Serial examinations and tumor measure-",
+      "bbox": [
+        493,
+        611,
+        700,
+        627
+      ],
+      "confidence": 0.9976928234100342
+    },
+    {
+      "text": "ical Center, Hanover, NH (Drs Zacharski, Comell,",
+      "bbox": [
+        35,
+        625,
+        251,
+        639
+      ],
+      "confidence": 0.993890106678009
+    },
+    {
+      "text": "growth and spread, 'while augmenta-",
+      "bbox": [
+        268,
+        627,
+        476,
+        641
+      ],
+      "confidence": 0.9825671315193176
+    },
+    {
+      "text": "ments were obtained at intervals of no",
+      "bbox": [
+        493,
+        627,
+        701,
+        640
+      ],
+      "confidence": 0.9816065430641174
+    },
+    {
+      "text": "Program Coordinating Center, VA Medical Center,",
+      "bbox": [
+        35,
+        647,
+        252,
+        661
+      ],
+      "confidence": 0.9882094860076904
+    },
+    {
+      "text": "Forcier, and O'Donnoll); the Cooperative Studies",
+      "bbox": [
+        37,
+        638,
+        251,
+        648
+      ],
+      "confidence": 0.9727721214294434
+    },
+    {
+      "text": "tion of coagulation reactions en-",
+      "bbox": [
+        268,
+        640,
+        476,
+        656
+      ],
+      "confidence": 0.9766557812690735
+    },
+    {
+      "text": "the chemotherapy eycles. The distinetion",
+      "bbox": [
+        492,
+        651,
+        701,
+        666
+      ],
+      "confidence": 0.9784517288208008
+    },
+    {
+      "text": "greater than four weeks corresponding to",
+      "bbox": [
+        494,
+        640,
+        701,
+        653
+      ],
+      "confidence": 0.9826885461807251
+    },
+    {
+      "text": "Hines, II, and the Departmont of Clinical Pharma-",
+      "bbox": [
+        33,
+        657,
+        251,
+        672
+      ],
+      "confidence": 0.9401768445968628
+    },
+    {
+      "text": "hances tumor growth and spread.",
+      "bbox": [
+        267,
+        655,
+        475,
+        671
+      ],
+      "confidence": 0.989688515663147
+    },
+    {
+      "text": "between limited and extensive disease'",
+      "bbox": [
+        493,
+        666,
+        700,
+        679
+      ],
+      "confidence": 0.9875320792198181
+    },
+    {
+      "text": "School of Medicine, Maywood, II (Dr Henderson):",
+      "bbox": [
+        35,
+        680,
+        251,
+        694
+      ],
+      "confidence": 0.9661495089530945
+    },
+    {
+      "text": "cology",
+      "bbox": [
+        36,
+        671,
+        75,
+        681
+      ],
+      "confidence": 0.9951130747795105
+    },
+    {
+      "text": "and",
+      "bbox": [
+        71,
+        670,
+        97,
+        681
+      ],
+      "confidence": 0.9998493194580078
+    },
+    {
+      "text": "Therapeutics, Loyola University",
+      "bbox": [
+        100,
+        669,
+        252,
+        682
+      ],
+      "confidence": 0.986478328704834
+    },
+    {
+      "text": "Data pertaining to patients admitted",
+      "bbox": [
+        268,
+        671,
+        476,
+        685
+      ],
+      "confidence": 0.9824883341789246
+    },
+    {
+      "text": "was made on the basis of routine x-ray and",
+      "bbox": [
+        493,
+        679,
+        703,
+        694
+      ],
+      "confidence": 0.986571729183197
+    },
+    {
+      "text": "the VA Medical Center, Newington, Conn, and the",
+      "bbox": [
+        34,
+        692,
+        252,
+        705
+      ],
+      "confidence": 0.9964362382888794
+    },
+    {
+      "text": "to this study with small cell careino-",
+      "bbox": [
+        268,
+        686,
+        476,
+        701
+      ],
+      "confidence": 0.978446364402771
+    },
+    {
+      "text": "laboratory tests, together with bone mar-",
+      "bbox": [
+        492,
+        691,
+        701,
+        708
+      ],
+      "confidence": 0.9970278143882751
+    },
+    {
+      "text": "Department of Medioine, Univeraity of Connecti-",
+      "bbox": [
+        34,
+        703,
+        251,
+        716
+      ],
+      "confidence": 0.9833397269248962
+    },
+    {
+      "text": "ma of the lung (SCCL) form the basis",
+      "bbox": [
+        268,
+        702,
+        476,
+        716
+      ],
+      "confidence": 0.9898688197135925
+    },
+    {
+      "text": "row aspiration studies and radioisotope",
+      "bbox": [
+        491,
+        705,
+        701,
+        722
+      ],
+      "confidence": 0.9924719333648682
+    },
+    {
+      "text": "and Edwards): the VA Medical Center and the",
+      "bbox": [
+        33,
+        723,
+        251,
+        736
+      ],
+      "confidence": 0.9752298593521118
+    },
+    {
+      "text": "cut, Sahool of Medicine, Farmington (Dre Rickies",
+      "bbox": [
+        34,
+        714,
+        251,
+        727
+      ],
+      "confidence": 0.9804943203926086
+    },
+    {
+      "text": "of this report.",
+      "bbox": [
+        267,
+        715,
+        349,
+        732
+      ],
+      "confidence": 0.9535719752311707
+    },
+    {
+      "text": "scans of the brain, liver, and bones.",
+      "bbox": [
+        491,
+        719,
+        668,
+        734
+      ],
+      "confidence": 0.9900224804878235
+    },
+    {
+      "text": "Department of Medicine and Pharmacology, Case",
+      "bbox": [
+        33,
+        734,
+        250,
+        748
+      ],
+      "confidence": 0.9710518717765808
+    },
+    {
+      "text": "METHODS",
+      "bbox": [
+        342,
+        740,
+        403,
+        754
+      ],
+      "confidence": 0.9998486638069153
+    },
+    {
+      "text": "Survival eurves were computed accord-",
+      "bbox": [
+        502,
+        731,
+        700,
+        747
+      ],
+      "confidence": 0.9774011969566345
+    },
+    {
+      "text": "Western Reserve University School of Medicine,",
+      "bbox": [
+        32,
+        745,
+        250,
+        759
+      ],
+      "confidence": 0.9723737239837646
+    },
+    {
+      "text": "Cleveland (Dr Forman): the VA Medical Center,",
+      "bbox": [
+        32,
+        756,
+        250,
+        770
+      ],
+      "confidence": 0.9757088422775269
+    },
+    {
+      "text": "ing to the method of Kaplan and Meier.'",
+      "bbox": [
+        491,
+        745,
+        700,
+        761
+      ],
+      "confidence": 0.9881080985069275
+    },
+    {
+      "text": "The modification of the Wileoxon tests by",
+      "bbox": [
+        491,
+        757,
+        700,
+        775
+      ],
+      "confidence": 0.9905780553817749
+    },
+    {
+      "text": "Gainesville, Fla, and Florida Stste Univaraity",
+      "bbox": [
+        31,
+        766,
+        251,
+        781
+      ],
+      "confidence": 0.9339047074317932
+    },
+    {
+      "text": "cytologically confirmed SCCL who did not",
+      "bbox": [
+        266,
+        770,
+        476,
+        789
+      ],
+      "confidence": 0.9931204915046692
+    },
+    {
+      "text": "Fifty patients with ·histologically or",
+      "bbox": [
+        278,
+        759,
+        475,
+        773
+      ],
+      "confidence": 0.9830702543258667
+    },
+    {
+      "text": "Gehan' was used to test for statistical",
+      "bbox": [
+        491,
+        771,
+        700,
+        787
+      ],
+      "confidence": 0.9855867028236389
+    },
+    {
+      "text": "Medical School, Tallahaasee (Dr Headloy); the VA",
+      "bbox": [
+        31,
+        778,
+        251,
+        791
+      ],
+      "confidence": 0.9688493609428406
+    },
+    {
+      "text": "manifest predetermined exclusion criteria'",
+      "bbox": [
+        266,
+        783,
+        474,
+        802
+      ],
+      "confidence": 0.9930101037025452
+    },
+    {
+      "text": "significance between the survival curves",
+      "bbox": [
+        491,
+        785,
+        700,
+        801
+      ],
+      "confidence": 0.9869686365127563
+    },
+    {
+      "text": "Medical School, Cincinnati (Dr Kim); VA Medical",
+      "bbox": [
+        29,
+        798,
+        250,
+        815
+      ],
+      "confidence": 0.962842583656311
+    },
+    {
+      "text": "Medical Center and the University of Cinoinnati",
+      "bbox": [
+        31,
+        789,
+        251,
+        802
+      ],
+      "confidence": 0.9862598776817322
+    },
+    {
+      "text": "and who gave informed consent (in accord",
+      "bbox": [
+        266,
+        798,
+        475,
+        815
+      ],
+      "confidence": 0.9936445951461792
+    },
+    {
+      "text": "for the warfarin-treated and control",
+      "bbox": [
+        490,
+        798,
+        699,
+        814
+      ],
+      "confidence": 0.9967333674430847
+    },
+    {
+      "text": "Conter and tho Medical University of Douth Caroli-",
+      "bbox": [
+        29,
+        809,
+        250,
+        826
+      ],
+      "confidence": 0.9472699761390686
+    },
+    {
+      "text": "with the Helsinki Declaration) were sub-",
+      "bbox": [
+        266,
+        812,
+        475,
+        828
+      ],
+      "confidence": 0.990534782409668
+    },
+    {
+      "text": "groups. The ' test was used to compare",
+      "bbox": [
+        492,
+        814,
+        699,
+        828
+      ],
+      "confidence": 0.9831007719039917
+    },
+    {
+      "text": "Tulane University Medical School, Now Orleans",
+      "bbox": [
+        28,
+        832,
+        250,
+        848
+      ],
+      "confidence": 0.9808647036552429
+    },
+    {
+      "text": "na, Charieston (Dr O'Dell): VA Medical Conter and",
+      "bbox": [
+        29,
+        821,
+        250,
+        837
+      ],
+      "confidence": 0.9637848138809204
+    },
+    {
+      "text": "jected to computer randomization by hos-",
+      "bbox": [
+        265,
+        824,
+        475,
+        844
+      ],
+      "confidence": 0.980174720287323
+    },
+    {
+      "text": "qualitative characteristics between the",
+      "bbox": [
+        490,
+        826,
+        700,
+        841
+      ],
+      "confidence": 0.99570631980896
+    },
+    {
+      "text": "(Dr Tornyos): and VA Modical Conter-Lakeside,",
+      "bbox": [
+        28,
+        844,
+        249,
+        858
+      ],
+      "confidence": 0.9607200026512146
+    },
+    {
+      "text": "pital and performance status to receive",
+      "bbox": [
+        265,
+        837,
+        475,
+        858
+      ],
+      "confidence": 0.9985432624816895
+    },
+    {
+      "text": "warfarin and control groups, while the",
+      "bbox": [
+        490,
+        839,
+        699,
+        854
+      ],
+      "confidence": 0.9846339225769043
+    },
+    {
+      "text": "Chtcago, and Northwestern Univeraity Medical",
+      "bbox": [
+        28,
+        854,
+        249,
+        869
+      ],
+      "confidence": 0.9724140167236328
+    },
+    {
+      "text": "combination chemotherapy and radiation",
+      "bbox": [
+        265,
+        851,
+        474,
+        871
+      ],
+      "confidence": 0.9989492297172546
+    },
+    {
+      "text": "two-sample t test was used to compare",
+      "bbox": [
+        491,
+        854,
+        699,
+        867
+      ],
+      "confidence": 0.9890679121017456
+    },
+    {
+      "text": "School, Evanston, Ill (Dr Kwaan).",
+      "bbox": [
+        29,
+        866,
+        178,
+        880
+      ],
+      "confidence": 0.940574586391449
+    },
+    {
+      "text": "Reprint requests to Votorans Administration",
+      "bbox": [
+        39,
+        876,
+        249,
+        891
+      ],
+      "confidence": 0.9863266944885254
+    },
+    {
+      "text": "therapy with or without warfarin. All",
+      "bbox": [
+        266,
+        864,
+        474,
+        885
+      ],
+      "confidence": 0.9800195693969727
+    },
+    {
+      "text": "quantitative characteristics between the",
+      "bbox": [
+        491,
+        867,
+        698,
+        880
+      ],
+      "confidence": 0.9899985194206238
+    },
+    {
+      "text": "Medical Center, Whito River Junction, VT O5001",
+      "bbox": [
+        28,
+        886,
+        248,
+        903
+      ],
+      "confidence": 0.960658609867096
+    },
+    {
+      "text": "patients with SCCL who were seen at",
+      "bbox": [
+        264,
+        878,
+        475,
+        899
+      ],
+      "confidence": 0.9879615902900696
+    },
+    {
+      "text": "partieipating hospitals were screened for",
+      "bbox": [
+        265,
+        892,
+        474,
+        911
+      ],
+      "confidence": 0.9922058582305908
+    },
+    {
+      "text": "two groups. All statistical tests used were",
+      "bbox": [
+        490,
+        878,
+        698,
+        893
+      ],
+      "confidence": 0.986475944519043
+    },
+    {
+      "text": "(Dr Zacharaki).",
+      "bbox": [
+        27,
+        898,
+        102,
+        916
+      ],
+      "confidence": 0.9926982522010803
+    },
+    {
+      "text": "two-sided.",
+      "bbox": [
+        491,
+        894,
+        542,
+        905
+      ],
+      "confidence": 0.9997647404670715
+    },
+    {
+      "text": "Warfarin in Small Cell Carcinoma-Zecharaki et al",
+      "bbox": [
+        405,
+        916,
+        671,
+        934
+      ],
+      "confidence": 0.9730337262153625
+    },
+    {
+      "text": "831",
+      "bbox": [
+        673,
+        918,
+        698,
+        929
+      ],
+      "confidence": 0.9969205856323242
+    },
+    {
+      "text": "JAMA, Feb 27, 1981-Vol 245, No. 8",
+      "bbox": [
+        27,
+        925,
+        246,
+        942
+      ],
+      "confidence": 0.965428352355957
+    }
+  ],
+  "full_text": "Copyright 1981, American Medical Assock\nEffect of Warfarin on Survival\nin Small Cell Carcinoma of the Lung\nVeterans Administration Study No. 75\nLeo R. Zacharski, MD; Wiiam G. Henderson, PhD; Frederick R. Rickles, MD; Walter B. Forman, MD;\nC. J. Cornell, Jr, MD; R. Jackson Forcier, MD; Richard Edwards, MD; Elwood Headley, MD;\nSang-Hee Kim, MD; Joseph R. O'Donnell, MD; Robert O'Dell, MD; Karl Tornyos, MD; Hau C. Kwaan, MD\n• In a controlled, randomized study, survival of patients with small cell\ncarcinoma of the lung (SCCL) was prolonged on addition of warfarin sodium\npossible entry to this protocol.\nto combination chemotherapy plus radiation therapy. Medlan survival for 25\nCombination chemotherapy and radia-\ncontrol patients was 24 weeks and for 25 warfarin-treated patients was 50\ntion therapy considered to be appropriate\nweeks. This difference could not be accounted for by differences between\nat the inception of the study that was\ngroups in performance status, extent of disease, age, or sex. The survival\ngiven to all patients admitted to this study\nwas adapted from that of Eagan and\nadvantage associated with warfarin administration was observed both for\nassociates.' This consisted of the following:\npatients with extensive disease and for those who falled to achieve complete\n(1 eyelophosphamide, 2,000 mg/sq m\nor partial remission. The warfarin-treated group also demonstrated a\nintravenously (IV) on day 1 of each 28-day\nsignificantly increased time to first evidence of disease progression. These\neycle; (2) vineristine sulfate, 1.5 mg/sq m\nresults suggest that warfarin may be useful in the treatment of SccL and\nIV on day 1 of each 28-day cycle; (3)\nalso support the hypothesis that the blood coagulation mechanism may be\nmethotrexate, 30 mg/sq m IV on day 22 of\ninvolved in the growth and spread of cancer In man.\neach 28-day eyele; ) radiation therapy\n(JAMA 1981;245:831-835)\nconsisted of 3,200 rad to the primary\ntumor and the primary drainage area in\nthe mediastinum to 2 em into the contra-\nlateral side and to the infracarinal node\nIN APRIL 1976, a Veterans Adminis-\ndescription of tumor categories under\narea delivered in ten treatments after the\ntration Cooperative Study was\ninvestigation, and a review of previ-\nsecond chemotherapy cycle. Warfarin\nlaunched to test the hypothesis that\nous work in experimental tumor sys-\n(provided by Elizabeth H. Newkom, MD, of\nwarfarin sodium anticoagulation\ntems and in man that provided the\nEndo Laboratories) was administered to\npatients in doses intended to prolong the\nwould favorably modify the course of\nrationale for this controlled, random-\nprothrombin time to approximately two\nseveral forms of malignant disease in\nized, multi-institutional trial have\ntimes the control value. Warfarin treat-\nman.\nDetails,of protocol design, a\nbeen presented elsewhere.' Briefly, it\nment was started within 24 hours of\nhas been shown in certain experimen-\nrandomization.\nter, White River Junotion, Vi (Drs Zacharski and\nFrom the Veterans Administration Medical Cen-\ntal tumor systems that inhibition of\nThe criteria used to define response to\nO'Donnell); the Department of Medicine, Norris\ncoagulation reactions by various\ntreatment have been deseribed elsewhere.'\nCotton Cancer Center, Dartmouth-Hitchcock Med-\nmeans results in limitation of tumor\nSerial examinations and tumor measure-\nical Center, Hanover, NH (Drs Zacharski, Comell,\ngrowth and spread, 'while augmenta-\nments were obtained at intervals of no\nProgram Coordinating Center, VA Medical Center,\nForcier, and O'Donnoll); the Cooperative Studies\ntion of coagulation reactions en-\nthe chemotherapy eycles. The distinetion\ngreater than four weeks corresponding to\nHines, II, and the Departmont of Clinical Pharma-\nhances tumor growth and spread.\nbetween limited and extensive disease'\nSchool of Medicine, Maywood, II (Dr Henderson):\ncology\nand\nTherapeutics, Loyola University\nData pertaining to patients admitted\nwas made on the basis of routine x-ray and\nthe VA Medical Center, Newington, Conn, and the\nto this study with small cell careino-\nlaboratory tests, together with bone mar-\nDepartment of Medioine, Univeraity of Connecti-\nma of the lung (SCCL) form the basis\nrow aspiration studies and radioisotope\nand Edwards): the VA Medical Center and the\ncut, Sahool of Medicine, Farmington (Dre Rickies\nof this report.\nscans of the brain, liver, and bones.\nDepartment of Medicine and Pharmacology, Case\nMETHODS\nSurvival eurves were computed accord-\nWestern Reserve University School of Medicine,\nCleveland (Dr Forman): the VA Medical Center,\ning to the method of Kaplan and Meier.'\nThe modification of the Wileoxon tests by\nGainesville, Fla, and Florida Stste Univaraity\ncytologically confirmed SCCL who did not\nFifty patients with ·histologically or\nGehan' was used to test for statistical\nMedical School, Tallahaasee (Dr Headloy); the VA\nmanifest predetermined exclusion criteria'\nsignificance between the survival curves\nMedical School, Cincinnati (Dr Kim); VA Medical\nMedical Center and the University of Cinoinnati\nand who gave informed consent (in accord\nfor the warfarin-treated and control\nConter and tho Medical University of Douth Caroli-\nwith the Helsinki Declaration) were sub-\ngroups. The ' test was used to compare\nTulane University Medical School, Now Orleans\nna, Charieston (Dr O'Dell): VA Medical Conter and\njected to computer randomization by hos-\nqualitative characteristics between the\n(Dr Tornyos): and VA Modical Conter-Lakeside,\npital and performance status to receive\nwarfarin and control groups, while the\nChtcago, and Northwestern Univeraity Medical\ncombination chemotherapy and radiation\ntwo-sample t test was used to compare\nSchool, Evanston, Ill (Dr Kwaan).\nReprint requests to Votorans Administration\ntherapy with or without warfarin. All\nquantitative characteristics between the\nMedical Center, Whito River Junction, VT O5001\npatients with SCCL who were seen at\npartieipating hospitals were screened for\ntwo groups. All statistical tests used were\n(Dr Zacharaki).\ntwo-sided.\nWarfarin in Small Cell Carcinoma-Zecharaki et al\n831\nJAMA, Feb 27, 1981-Vol 245, No. 8"
+}

@@ -1,0 +1,751 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0441.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Principal Investigator/Program Director (Last, nirst, mmiodle):",
+      "bbox": [
+        183,
+        0,
+        457,
+        12
+      ],
+      "confidence": 0.9334777593612671
+    },
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        277,
+        24,
+        435,
+        38
+      ],
+      "confidence": 0.9980208873748779
+    },
+    {
+      "text": "Give the following information for the key personnel and consultants and collaborators. Begin with the principal",
+      "bbox": [
+        99,
+        38,
+        610,
+        61
+      ],
+      "confidence": 0.9761207699775696
+    },
+    {
+      "text": "investigator/program director. Photocopy this page for each person.",
+      "bbox": [
+        198,
+        54,
+        511,
+        74
+      ],
+      "confidence": 0.9732521176338196
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        0,
+        76,
+        35,
+        95
+      ],
+      "confidence": 0.9998911619186401
+    },
+    {
+      "text": "Sadis Matalon, Ph.D.",
+      "bbox": [
+        31,
+        82,
+        179,
+        104
+      ],
+      "confidence": 0.9977057576179504
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        323,
+        80,
+        406,
+        94
+      ],
+      "confidence": 0.9986414313316345
+    },
+    {
+      "text": "Professor",
+      "bbox": [
+        407,
+        82,
+        474,
+        106
+      ],
+      "confidence": 0.9998765587806702
+    },
+    {
+      "text": "EDUCATiON Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral training.)",
+      "bbox": [
+        0,
+        127,
+        601,
+        144
+      ],
+      "confidence": 0.9612247347831726
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        370,
+        157,
+        417,
+        172
+      ],
+      "confidence": 0.9998416304588318
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        451,
+        157,
+        519,
+        171
+      ],
+      "confidence": 0.9981400966644287
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        470,
+        146,
+        504,
+        161
+      ],
+      "confidence": 0.999906063079834
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        573,
+        157,
+        662,
+        171
+      ],
+      "confidence": 0.9722066521644592
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        101,
+        160,
+        250,
+        174
+      ],
+      "confidence": 0.9953711628913879
+    },
+    {
+      "text": "Macalester College, St. Paul, MN",
+      "bbox": [
+        31,
+        178,
+        259,
+        199
+      ],
+      "confidence": 0.969921886920929
+    },
+    {
+      "text": "B.A",
+      "bbox": [
+        407,
+        178,
+        442,
+        199
+      ],
+      "confidence": 0.9961805939674377
+    },
+    {
+      "text": "1970",
+      "bbox": [
+        503,
+        179,
+        537,
+        199
+      ],
+      "confidence": 0.999214231967926
+    },
+    {
+      "text": "Physics",
+      "bbox": [
+        595,
+        179,
+        650,
+        201
+      ],
+      "confidence": 0.9999064207077026
+    },
+    {
+      "text": "Univ. of Minnesota, Minneapolis, MN",
+      "bbox": [
+        31,
+        197,
+        290,
+        218
+      ],
+      "confidence": 0.9833738207817078
+    },
+    {
+      "text": "M.S",
+      "bbox": [
+        407,
+        196,
+        444,
+        218
+      ],
+      "confidence": 0.9823796153068542
+    },
+    {
+      "text": "1973",
+      "bbox": [
+        503,
+        199,
+        536,
+        218
+      ],
+      "confidence": 0.9998270869255066
+    },
+    {
+      "text": "Physics",
+      "bbox": [
+        594,
+        196,
+        650,
+        221
+      ],
+      "confidence": 0.9981005787849426
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        407,
+        215,
+        451,
+        237
+      ],
+      "confidence": 0.9211493730545044
+    },
+    {
+      "text": "1975",
+      "bbox": [
+        502,
+        217,
+        536,
+        237
+      ],
+      "confidence": 0.9663801193237305
+    },
+    {
+      "text": "Physiology",
+      "bbox": [
+        594,
+        215,
+        671,
+        240
+      ],
+      "confidence": 0.9998795390129089
+    },
+    {
+      "text": "Univ. of Minnesota, Minneapolis, MN",
+      "bbox": [
+        32,
+        218,
+        288,
+        235
+      ],
+      "confidence": 0.9764044880867004
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience, and",
+      "bbox": [
+        0,
+        262,
+        703,
+        276
+      ],
+      "confidence": 0.9877648949623108
+    },
+    {
+      "text": "honors. Key personnel include the principal investigator and any other individuals who participate in the scientific development or execution of the project.",
+      "bbox": [
+        0,
+        272,
+        704,
+        291
+      ],
+      "confidence": 0.9820336103439331
+    },
+    {
+      "text": "Key personnel typically will include all individuals with doctoral or other professional degrees, but in some projects will include individuals at the masters or",
+      "bbox": [
+        0,
+        287,
+        704,
+        303
+      ],
+      "confidence": 0.9878273606300354
+    },
+    {
+      "text": "baccalaureate level provided they contribute in a substantive way to the scientific development or execution of the project. Include present membership on",
+      "bbox": [
+        0,
+        300,
+        703,
+        317
+      ],
+      "confidence": 0.9922949075698853
+    },
+    {
+      "text": "any Federal Government public advisory committee. List, in chronological order, the titles, ll authors, and complete references to all publications during the",
+      "bbox": [
+        0,
+        312,
+        704,
+        332
+      ],
+      "confidence": 0.9705976843833923
+    },
+    {
+      "text": "past three years and to representative earlier publications pertinent to this application. DO NOT EXCEED TWO PAGES.",
+      "bbox": [
+        0,
+        326,
+        554,
+        345
+      ],
+      "confidence": 0.9807268977165222
+    },
+    {
+      "text": "Employment",
+      "bbox": [
+        31,
+        348,
+        124,
+        368
+      ],
+      "confidence": 0.9996432065963745
+    },
+    {
+      "text": "1973-75",
+      "bbox": [
+        32,
+        367,
+        90,
+        384
+      ],
+      "confidence": 0.9999591708183289
+    },
+    {
+      "text": "Systems Analyst, Department of Surgery and Patient Monitoring, University of",
+      "bbox": [
+        175,
+        367,
+        691,
+        388
+      ],
+      "confidence": 0.9781904816627502
+    },
+    {
+      "text": "Minnesota",
+      "bbox": [
+        177,
+        388,
+        245,
+        402
+      ],
+      "confidence": 0.9998528361320496
+    },
+    {
+      "text": "1975-76",
+      "bbox": [
+        32,
+        404,
+        90,
+        421
+      ],
+      "confidence": 0.9999628067016602
+    },
+    {
+      "text": "Associate Department of Pediatrics and Physiology, Northwestern University and",
+      "bbox": [
+        175,
+        403,
+        702,
+        425
+      ],
+      "confidence": 0.9941605925559998
+    },
+    {
+      "text": "Children's Memorial Hospital, Chicago, Illinois",
+      "bbox": [
+        175,
+        421,
+        486,
+        444
+      ],
+      "confidence": 0.9814960956573486
+    },
+    {
+      "text": "1976-77",
+      "bbox": [
+        32,
+        442,
+        90,
+        459
+      ],
+      "confidence": 0.9999664425849915
+    },
+    {
+      "text": "Research Assistant Professor of Physiology, State University of New York at Buffalo",
+      "bbox": [
+        174,
+        439,
+        729,
+        463
+      ],
+      "confidence": 0.9905439615249634
+    },
+    {
+      "text": "1977-82",
+      "bbox": [
+        31,
+        460,
+        88,
+        477
+      ],
+      "confidence": 0.9998592734336853
+    },
+    {
+      "text": "Assistant Professor of Physiology, State University of New York at Buffalo",
+      "bbox": [
+        174,
+        459,
+        668,
+        481
+      ],
+      "confidence": 0.9894803166389465
+    },
+    {
+      "text": "1982-87",
+      "bbox": [
+        32,
+        479,
+        90,
+        496
+      ],
+      "confidence": 0.9999575614929199
+    },
+    {
+      "text": "Associate Professor of Physiology, State University of New York at Buffalo",
+      "bbox": [
+        174,
+        477,
+        671,
+        500
+      ],
+      "confidence": 0.966947078704834
+    },
+    {
+      "text": "1987-Present",
+      "bbox": [
+        34,
+        499,
+        120,
+        513
+      ],
+      "confidence": 0.9998133778572083
+    },
+    {
+      "text": "Professor of Anesthesiology, University of Alabama at Birmingham",
+      "bbox": [
+        173,
+        495,
+        615,
+        518
+      ],
+      "confidence": 0.9848514795303345
+    },
+    {
+      "text": "1987-Present",
+      "bbox": [
+        33,
+        514,
+        120,
+        533
+      ],
+      "confidence": 0.999578058719635
+    },
+    {
+      "text": "Professor of Physiology & Biophysics, University of Alabama at Birmingham",
+      "bbox": [
+        173,
+        513,
+        678,
+        537
+      ],
+      "confidence": 0.9721329808235168
+    },
+    {
+      "text": "Professor of Pediatrics, University of Alabama at Birmingham",
+      "bbox": [
+        175,
+        532,
+        577,
+        553
+      ],
+      "confidence": 0.9980189204216003
+    },
+    {
+      "text": "1989-Present",
+      "bbox": [
+        34,
+        535,
+        120,
+        549
+      ],
+      "confidence": 0.9998326301574707
+    },
+    {
+      "text": "Selected Publications",
+      "bbox": [
+        32,
+        570,
+        179,
+        587
+      ],
+      "confidence": 0.9980418086051941
+    },
+    {
+      "text": "Matalon S. Mechanisms and regulation of ion transport in adult mammalian alveolar type II",
+      "bbox": [
+        79,
+        587,
+        686,
+        610
+      ],
+      "confidence": 0.9779318571090698
+    },
+    {
+      "text": "pneumocytes. Am. J. Physiol. 261 (Cell Physiol. 30):C727-C738. 1991.",
+      "bbox": [
+        32,
+        608,
+        505,
+        625
+      ],
+      "confidence": 0.9870381355285645
+    },
+    {
+      "text": "Holm BA, Keicher L, Hudak BB, Cavanaugh C, Baker RR, and Matalon S. Mechanisms of H2O2-",
+      "bbox": [
+        78,
+        624,
+        723,
+        648
+      ],
+      "confidence": 0.976980984210968
+    },
+    {
+      "text": "mediated injury to type II pneumocyte surfactant metabolism and protection with PEG-catalase. Am. J.",
+      "bbox": [
+        30,
+        643,
+        703,
+        666
+      ],
+      "confidence": 0.9915499687194824
+    },
+    {
+      "text": "Physiol. 261 (Cell Physiol. 30):C751-C757, 1991.",
+      "bbox": [
+        32,
+        664,
+        358,
+        681
+      ],
+      "confidence": 0.9878666996955872
+    },
+    {
+      "text": "Royall JA, Matalon S. Pulmonary edema in ARDS. Furmen BT, Zimmerman JJ, eds. Pediatric",
+      "bbox": [
+        79,
+        682,
+        714,
+        703
+      ],
+      "confidence": 0.9892299771308899
+    },
+    {
+      "text": "Critical Care, St. Louis, MO, C.V. Mosby (In press), 1991.",
+      "bbox": [
+        31,
+        701,
+        427,
+        721
+      ],
+      "confidence": 0.9910306334495544
+    },
+    {
+      "text": "Matalon S, Bridges RJ, and Benos DJ. Na* uptake into alveolar type II membrane vesicles occurs",
+      "bbox": [
+        77,
+        718,
+        723,
+        742
+      ],
+      "confidence": 0.9792050123214722
+    },
+    {
+      "text": "through amiloride-inhibitable Na + channels. Am. J. Physiol. (Lung Cell. Mol. Physiol. 4):L90-L96, 1991.",
+      "bbox": [
+        27,
+        737,
+        725,
+        760
+      ],
+      "confidence": 0.9816458821296692
+    },
+    {
+      "text": "Engstrom PC, Baker RR, Burkhalter A, and Matalon S. Mechanisms of hydrogen peroxide",
+      "bbox": [
+        77,
+        755,
+        679,
+        779
+      ],
+      "confidence": 0.9814833402633667
+    },
+    {
+      "text": "scavenging by alveolar type II pneumocytes in vitro. J. Appl. Physiol. 69(6):2078-2084, 1990.",
+      "bbox": [
+        27,
+        774,
+        649,
+        797
+      ],
+      "confidence": 0.9772490859031677
+    },
+    {
+      "text": "Baker RR, Panus PC, Holm BA, Engstrom PC, Freeman BA, and Matalon S. Endogenous",
+      "bbox": [
+        76,
+        792,
+        676,
+        815
+      ],
+      "confidence": 0.9865636825561523
+    },
+    {
+      "text": "xanthine oxidase-derived O2 metabolites inhibit surfactant metabolism. Am, J. Physiol. 259 (Lung Cell.",
+      "bbox": [
+        26,
+        810,
+        699,
+        835
+      ],
+      "confidence": 0.989479660987854
+    },
+    {
+      "text": "Mol. Physiol. 3):L328-L334, 1990",
+      "bbox": [
+        29,
+        833,
+        259,
+        847
+      ],
+      "confidence": 0.9806946516036987
+    },
+    {
+      "text": "Matalon S, Holm BA, Baker RR, Whitfield K, and Freeman BA. Characterization of antioxidant",
+      "bbox": [
+        77,
+        849,
+        712,
+        871
+      ],
+      "confidence": 0.996616542339325
+    },
+    {
+      "text": "activities of pulmonary surfactant mixtures. Biochim. Biophys. Acta 1035:121-127, 1990.",
+      "bbox": [
+        26,
+        866,
+        615,
+        891
+      ],
+      "confidence": 0.9865718483924866
+    },
+    {
+      "text": "Nickerson PA, and Matalon S. Quantitative ultrastructural study of the rabbit lung: Exposure to",
+      "bbox": [
+        77,
+        884,
+        712,
+        911
+      ],
+      "confidence": 0.9749734997749329
+    },
+    {
+      "text": "60% oxygen for 21 days. Undersea Biomedical Research 17(4):323-331, 1990.",
+      "bbox": [
+        28,
+        901,
+        550,
+        929
+      ],
+      "confidence": 0.9861665368080139
+    },
+    {
+      "text": "PHS 398 (Rev. 9/91)",
+      "bbox": [
+        1,
+        960,
+        102,
+        973
+      ],
+      "confidence": 0.9955471158027649
+    },
+    {
+      "text": "(Form Page 6) Page",
+      "bbox": [
+        287,
+        961,
+        380,
+        974
+      ],
+      "confidence": 0.9959376454353333
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        679,
+        960,
+        707,
+        984
+      ],
+      "confidence": 0.9993356466293335
+    },
+    {
+      "text": "Number pages consecutively at the bottom throughout the application. Do nor use suffixes such as 3a, 3b.",
+      "bbox": [
+        1,
+        973,
+        424,
+        987
+      ],
+      "confidence": 0.9805699586868286
+    }
+  ],
+  "full_text": "Principal Investigator/Program Director (Last, nirst, mmiodle):\nBIOGRAPHICAL SKETCH\nGive the following information for the key personnel and consultants and collaborators. Begin with the principal\ninvestigator/program director. Photocopy this page for each person.\nNAME\nSadis Matalon, Ph.D.\nPOSITION TITLE\nProfessor\nEDUCATiON Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral training.)\nDEGREE\nCONFERRED\nYEAR\nFIELD OF STUDY\nINSTITUTION AND LOCATION\nMacalester College, St. Paul, MN\nB.A\n1970\nPhysics\nUniv. of Minnesota, Minneapolis, MN\nM.S\n1973\nPhysics\nPh.D.\n1975\nPhysiology\nUniv. of Minnesota, Minneapolis, MN\nRESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience, and\nhonors. Key personnel include the principal investigator and any other individuals who participate in the scientific development or execution of the project.\nKey personnel typically will include all individuals with doctoral or other professional degrees, but in some projects will include individuals at the masters or\nbaccalaureate level provided they contribute in a substantive way to the scientific development or execution of the project. Include present membership on\nany Federal Government public advisory committee. List, in chronological order, the titles, ll authors, and complete references to all publications during the\npast three years and to representative earlier publications pertinent to this application. DO NOT EXCEED TWO PAGES.\nEmployment\n1973-75\nSystems Analyst, Department of Surgery and Patient Monitoring, University of\nMinnesota\n1975-76\nAssociate Department of Pediatrics and Physiology, Northwestern University and\nChildren's Memorial Hospital, Chicago, Illinois\n1976-77\nResearch Assistant Professor of Physiology, State University of New York at Buffalo\n1977-82\nAssistant Professor of Physiology, State University of New York at Buffalo\n1982-87\nAssociate Professor of Physiology, State University of New York at Buffalo\n1987-Present\nProfessor of Anesthesiology, University of Alabama at Birmingham\n1987-Present\nProfessor of Physiology & Biophysics, University of Alabama at Birmingham\nProfessor of Pediatrics, University of Alabama at Birmingham\n1989-Present\nSelected Publications\nMatalon S. Mechanisms and regulation of ion transport in adult mammalian alveolar type II\npneumocytes. Am. J. Physiol. 261 (Cell Physiol. 30):C727-C738. 1991.\nHolm BA, Keicher L, Hudak BB, Cavanaugh C, Baker RR, and Matalon S. Mechanisms of H2O2-\nmediated injury to type II pneumocyte surfactant metabolism and protection with PEG-catalase. Am. J.\nPhysiol. 261 (Cell Physiol. 30):C751-C757, 1991.\nRoyall JA, Matalon S. Pulmonary edema in ARDS. Furmen BT, Zimmerman JJ, eds. Pediatric\nCritical Care, St. Louis, MO, C.V. Mosby (In press), 1991.\nMatalon S, Bridges RJ, and Benos DJ. Na* uptake into alveolar type II membrane vesicles occurs\nthrough amiloride-inhibitable Na + channels. Am. J. Physiol. (Lung Cell. Mol. Physiol. 4):L90-L96, 1991.\nEngstrom PC, Baker RR, Burkhalter A, and Matalon S. Mechanisms of hydrogen peroxide\nscavenging by alveolar type II pneumocytes in vitro. J. Appl. Physiol. 69(6):2078-2084, 1990.\nBaker RR, Panus PC, Holm BA, Engstrom PC, Freeman BA, and Matalon S. Endogenous\nxanthine oxidase-derived O2 metabolites inhibit surfactant metabolism. Am, J. Physiol. 259 (Lung Cell.\nMol. Physiol. 3):L328-L334, 1990\nMatalon S, Holm BA, Baker RR, Whitfield K, and Freeman BA. Characterization of antioxidant\nactivities of pulmonary surfactant mixtures. Biochim. Biophys. Acta 1035:121-127, 1990.\nNickerson PA, and Matalon S. Quantitative ultrastructural study of the rabbit lung: Exposure to\n60% oxygen for 21 days. Undersea Biomedical Research 17(4):323-331, 1990.\nPHS 398 (Rev. 9/91)\n(Form Page 6) Page\nFF\nNumber pages consecutively at the bottom throughout the application. Do nor use suffixes such as 3a, 3b."
+}

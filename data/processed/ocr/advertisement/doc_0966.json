@@ -1,0 +1,51 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0966.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Soft touch",
+      "bbox": [
+        429,
+        159,
+        754,
+        273
+      ],
+      "confidence": 0.991686999797821
+    },
+    {
+      "text": "SURGEON GENERAL'S WARNING: CigATBES",
+      "bbox": [
+        40,
+        644,
+        204,
+        667
+      ],
+      "confidence": 0.8706810474395752
+    },
+    {
+      "text": "Smoke Contains Carboa Monoxide.",
+      "bbox": [
+        40,
+        657,
+        207,
+        680
+      ],
+      "confidence": 0.9288800358772278
+    },
+    {
+      "text": "2041498686",
+      "bbox": [
+        85,
+        715,
+        200,
+        738
+      ],
+      "confidence": 0.9991562962532043
+    }
+  ],
+  "full_text": "Soft touch\nSURGEON GENERAL'S WARNING: CigATBES\nSmoke Contains Carboa Monoxide.\n2041498686"
+}

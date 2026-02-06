@@ -1,0 +1,961 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0008.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "A report from England on discrepancies in cigarette-lung cancer theory by",
+      "bbox": [
+        91,
+        47,
+        684,
+        82
+      ],
+      "confidence": 0.9752928018569946
+    },
+    {
+      "text": "Dr. R.D. Passey was circulated both by wire services and syndicated columnists.",
+      "bbox": [
+        91,
+        63,
+        738,
+        100
+      ],
+      "confidence": 0.9765267968177795
+    },
+    {
+      "text": "WORLD-TELEGRAM AND SUN",
+      "bbox": [
+        147,
+        167,
+        329,
+        189
+      ],
+      "confidence": 0.996799647808075
+    },
+    {
+      "text": "New York, New York",
+      "bbox": [
+        145,
+        184,
+        296,
+        204
+      ],
+      "confidence": 0.9610841274261475
+    },
+    {
+      "text": "September 14, 1962",
+      "bbox": [
+        144,
+        200,
+        295,
+        221
+      ],
+      "confidence": 0.9979185461997986
+    },
+    {
+      "text": "Extent of Smoking Is Unrelated",
+      "bbox": [
+        135,
+        229,
+        658,
+        291
+      ],
+      "confidence": 0.9927098155021667
+    },
+    {
+      "text": "To Cancer, Scientist Believes",
+      "bbox": [
+        133,
+        282,
+        644,
+        342
+      ],
+      "confidence": 0.9926145076751709
+    },
+    {
+      "text": "By DELOS SMITH",
+      "bbox": [
+        166,
+        343,
+        279,
+        360
+      ],
+      "confidence": 0.9730976223945618
+    },
+    {
+      "text": "No Difference",
+      "bbox": [
+        352,
+        347,
+        434,
+        365
+      ],
+      "confidence": 0.9986064434051514
+    },
+    {
+      "text": "cancer-causing chemical, It re-",
+      "bbox": [
+        482,
+        351,
+        652,
+        365
+      ],
+      "confidence": 0.9697288274765015
+    },
+    {
+      "text": "United Press Iniernational",
+      "bbox": [
+        162,
+        358,
+        281,
+        373
+      ],
+      "confidence": 0.9372667670249939
+    },
+    {
+      "text": "Those who started smoking",
+      "bbox": [
+        318,
+        361,
+        480,
+        382
+      ],
+      "confidence": 0.9697827696800232
+    },
+    {
+      "text": "sults from an accumulation of",
+      "bbox": [
+        482,
+        363,
+        653,
+        376
+      ],
+      "confidence": 0.9756726026535034
+    },
+    {
+      "text": "A noted professor of experi early smoked for some 51",
+      "bbox": [
+        146,
+        369,
+        481,
+        395
+      ],
+      "confidence": 0.9469017386436462
+    },
+    {
+      "text": "illnesses and irritants which",
+      "bbox": [
+        481,
+        375,
+        652,
+        390
+      ],
+      "confidence": 0.9852917194366455
+    },
+    {
+      "text": "mental pathology calls atten-jyears, whereas the late start",
+      "bbox": [
+        134,
+        383,
+        481,
+        407
+      ],
+      "confidence": 0.9433699250221252
+    },
+    {
+      "text": "tion to a discrepancy in the",
+      "bbox": [
+        136,
+        397,
+        310,
+        413
+      ],
+      "confidence": 0.9842405915260315
+    },
+    {
+      "text": "affect the respiratory system.",
+      "bbox": [
+        483,
+        388,
+        652,
+        402
+      ],
+      "confidence": 0.9786179065704346
+    },
+    {
+      "text": "statistical evidence which sug",
+      "bbox": [
+        135,
+        408,
+        308,
+        427
+      ],
+      "confidence": 0.9769601225852966
+    },
+    {
+      "text": "ers smoked for only 31 years",
+      "bbox": [
+        306,
+        400,
+        480,
+        417
+      ],
+      "confidence": 0.9952358603477478
+    },
+    {
+      "text": "Among the irritants he in-",
+      "bbox": [
+        483,
+        401,
+        652,
+        415
+      ],
+      "confidence": 0.9910354614257812
+    },
+    {
+      "text": "rests cigaret smoking is",
+      "bbox": [
+        137,
+        424,
+        293,
+        439
+      ],
+      "confidence": 0.9900378584861755
+    },
+    {
+      "text": "difference between the daily",
+      "bbox": [
+        306,
+        424,
+        480,
+        443
+      ],
+      "confidence": 0.9583629965782166
+    },
+    {
+      "text": "or so. Yet there was no great",
+      "bbox": [
+        307,
+        413,
+        481,
+        429
+      ],
+      "confidence": 0.9962038397789001
+    },
+    {
+      "text": "cluded tobacco smoke, indus-",
+      "bbox": [
+        482,
+        413,
+        652,
+        427
+      ],
+      "confidence": 0.9727540612220764
+    },
+    {
+      "text": "trial fumes and the smogs of",
+      "bbox": [
+        483,
+        425,
+        652,
+        440
+      ],
+      "confidence": 0.9786924719810486
+    },
+    {
+      "text": "cause of lung cancer. In none",
+      "bbox": [
+        136,
+        436,
+        308,
+        451
+      ],
+      "confidence": 0.9564605355262756
+    },
+    {
+      "text": "amounts which patients in",
+      "bbox": [
+        307,
+        437,
+        481,
+        453
+      ],
+      "confidence": 0.9605674147605896
+    },
+    {
+      "text": "cities.",
+      "bbox": [
+        482,
+        438,
+        517,
+        452
+      ],
+      "confidence": 0.9983116984367371
+    },
+    {
+      "text": "of this evidence is it clalmed",
+      "bbox": [
+        134,
+        447,
+        307,
+        463
+      ],
+      "confidence": 0.9895037412643433
+    },
+    {
+      "text": "each group said they smoked.",
+      "bbox": [
+        307,
+        450,
+        482,
+        465
+      ],
+      "confidence": 0.9809016585350037
+    },
+    {
+      "text": "Passey has had a distin-",
+      "bbox": [
+        492,
+        452,
+        652,
+        465
+      ],
+      "confidence": 0.9623648524284363
+    },
+    {
+      "text": "that the heavy smoker",
+      "bbox": [
+        132,
+        460,
+        288,
+        476
+      ],
+      "confidence": 0.9899080395698547
+    },
+    {
+      "text": "stricken earlier in life",
+      "bbox": [
+        133,
+        471,
+        276,
+        488
+      ],
+      "confidence": 0.9729923605918884
+    },
+    {
+      "text": "Each member of the group",
+      "bbox": [
+        306,
+        461,
+        481,
+        478
+      ],
+      "confidence": 0.975852906703949
+    },
+    {
+      "text": "guished career in the seience",
+      "bbox": [
+        482,
+        464,
+        652,
+        478
+      ],
+      "confidence": 0.9952965378761292
+    },
+    {
+      "text": "the light smoker.",
+      "bbox": [
+        134,
+        485,
+        237,
+        501
+      ],
+      "confidence": 0.9794514775276184
+    },
+    {
+      "text": "than",
+      "bbox": [
+        279,
+        475,
+        306,
+        486
+      ],
+      "confidence": 0.9998780488967896
+    },
+    {
+      "text": "smoked over 150,000 cigarets",
+      "bbox": [
+        305,
+        486,
+        482,
+        504
+      ],
+      "confidence": 0.9441928863525391
+    },
+    {
+      "text": "which began early must have",
+      "bbox": [
+        306,
+        474,
+        481,
+        490
+      ],
+      "confidence": 0.9690182209014893
+    },
+    {
+      "text": "of disease states -pathology.",
+      "bbox": [
+        480,
+        476,
+        651,
+        494
+      ],
+      "confidence": 0.968069314956665
+    },
+    {
+      "text": "Science's experiences",
+      "bbox": [
+        143,
+        496,
+        273,
+        514
+      ],
+      "confidence": 0.9903436303138733
+    },
+    {
+      "text": "with",
+      "bbox": [
+        279,
+        498,
+        306,
+        510
+      ],
+      "confidence": 0.9994447231292725
+    },
+    {
+      "text": "more than the late starters.",
+      "bbox": [
+        305,
+        500,
+        468,
+        515
+      ],
+      "confidence": 0.9922679662704468
+    },
+    {
+      "text": "He is a professor emeritus and",
+      "bbox": [
+        482,
+        491,
+        652,
+        508
+      ],
+      "confidence": 0.9805479645729065
+    },
+    {
+      "text": "cancer-causing substances all",
+      "bbox": [
+        133,
+        509,
+        306,
+        526
+      ],
+      "confidence": 0.986063539981842
+    },
+    {
+      "text": "These figures offer the",
+      "bbox": [
+        318,
+        512,
+        479,
+        526
+      ],
+      "confidence": 0.9976352453231812
+    },
+    {
+      "text": "now does cancer research",
+      "bbox": [
+        481,
+        507,
+        653,
+        522
+      ],
+      "confidence": 0.9782865643501282
+    },
+    {
+      "text": "show that the lighter the re.",
+      "bbox": [
+        130,
+        520,
+        308,
+        539
+      ],
+      "confidence": 0.9383046627044678
+    },
+    {
+      "text": "peated dosage, the longer",
+      "bbox": [
+        130,
+        532,
+        293,
+        551
+      ],
+      "confidence": 0.9929346442222595
+    },
+    {
+      "text": "clearest evidence that the age",
+      "bbox": [
+        308,
+        524,
+        481,
+        539
+      ],
+      "confidence": 0.9954938888549805
+    },
+    {
+      "text": "work at the Chester Beatty Re-",
+      "bbox": [
+        480,
+        520,
+        652,
+        538
+      ],
+      "confidence": 0.9660196304321289
+    },
+    {
+      "text": "takes for the substance to do",
+      "bbox": [
+        135,
+        547,
+        307,
+        561
+      ],
+      "confidence": 0.9805403351783752
+    },
+    {
+      "text": "when lung cancer develops is ixvairh Instituie in London.",
+      "bbox": [
+        308,
+        536,
+        635,
+        553
+      ],
+      "confidence": 0.9465813040733337
+    },
+    {
+      "text": "its evil work, Dr. R. D. Passey",
+      "bbox": [
+        135,
+        559,
+        306,
+        574
+      ],
+      "confidence": 0.9749377369880676
+    },
+    {
+      "text": "determined by neither the",
+      "bbox": [
+        309,
+        550,
+        480,
+        565
+      ],
+      "confidence": 0.9973225593566895
+    },
+    {
+      "text": "said. If cigaret smoke direcity",
+      "bbox": [
+        132,
+        570,
+        307,
+        588
+      ],
+      "confidence": 0.938024640083313
+    },
+    {
+      "text": "which smoking began. If this",
+      "bbox": [
+        308,
+        576,
+        480,
+        590
+      ],
+      "confidence": 0.9959973096847534
+    },
+    {
+      "text": "amount smoked nor the age at.",
+      "bbox": [
+        309,
+        564,
+        482,
+        578
+      ],
+      "confidence": 0.9925397634506226
+    },
+    {
+      "text": "caused cancer \"one would cer",
+      "bbox": [
+        134,
+        583,
+        307,
+        600
+      ],
+      "confidence": 0.9791631102561951
+    },
+    {
+      "text": "is true, tobacco smoke did not",
+      "bbox": [
+        306,
+        586,
+        483,
+        604
+      ],
+      "confidence": 0.9752857089042664
+    },
+    {
+      "text": "tainly expect\" the heavy",
+      "bbox": [
+        132,
+        594,
+        309,
+        613
+      ],
+      "confidence": 0.85138338804245
+    },
+    {
+      "text": "smoker to be felled years be.",
+      "bbox": [
+        132,
+        607,
+        307,
+        625
+      ],
+      "confidence": 0.9605354070663452
+    },
+    {
+      "text": "act as a carcinogen (cancer-",
+      "bbox": [
+        307,
+        600,
+        481,
+        615
+      ],
+      "confidence": 0.9592134356498718
+    },
+    {
+      "text": "fore it happened to the light",
+      "bbox": [
+        131,
+        620,
+        307,
+        638
+      ],
+      "confidence": 0.9643311500549316
+    },
+    {
+      "text": "causer). It is apparently not",
+      "bbox": [
+        308,
+        612,
+        482,
+        628
+      ],
+      "confidence": 0.9921414852142334
+    },
+    {
+      "text": "smoxer.",
+      "bbox": [
+        134,
+        635,
+        182,
+        649
+      ],
+      "confidence": 0.9639058113098145
+    },
+    {
+      "text": "the number of cigarets smoked",
+      "bbox": [
+        310,
+        626,
+        481,
+        640
+      ],
+      "confidence": 0.9836217164993286
+    },
+    {
+      "text": "Studied 499 Cases",
+      "bbox": [
+        168,
+        648,
+        272,
+        664
+      ],
+      "confidence": 0.982992947101593
+    },
+    {
+      "text": "age of the Individual which",
+      "bbox": [
+        309,
+        651,
+        482,
+        665
+      ],
+      "confidence": 0.9763926863670349
+    },
+    {
+      "text": "but something related to the",
+      "bbox": [
+        310,
+        639,
+        482,
+        653
+      ],
+      "confidence": 0.9948446154594421
+    },
+    {
+      "text": "Yet none of the statistical determines when he gets lung",
+      "bbox": [
+        145,
+        662,
+        482,
+        679
+      ],
+      "confidence": 0.9833015203475952
+    },
+    {
+      "text": "studies in many parts of the cancer.\"",
+      "bbox": [
+        131,
+        673,
+        358,
+        693
+      ],
+      "confidence": 0.9776119589805603
+    },
+    {
+      "text": "world have shown this result.' Doesn'i Exonerate Smoking.,",
+      "bbox": [
+        135,
+        685,
+        482,
+        705
+      ],
+      "confidence": 0.9350706934928894
+    },
+    {
+      "text": "Passey himself studled the' Passey, however, was far",
+      "bbox": [
+        144,
+        699,
+        483,
+        718
+      ],
+      "confidence": 0.9712880849838257
+    },
+    {
+      "text": "with lung cancer, grouping smoking. \"I do not belittle the",
+      "bbox": [
+        134,
+        725,
+        480,
+        746
+      ],
+      "confidence": 0.9742265939712524
+    },
+    {
+      "text": "smoking histories of 499 men from exonerating cig aret",
+      "bbox": [
+        135,
+        713,
+        480,
+        731
+      ],
+      "confidence": 0.9652310013771057
+    },
+    {
+      "text": "them according to ihe number",
+      "bbox": [
+        136,
+        739,
+        309,
+        754
+      ],
+      "confidence": 0.9650497436523438
+    },
+    {
+      "text": "of cigarets smoked. He found",
+      "bbox": [
+        137,
+        751,
+        306,
+        765
+      ],
+      "confidence": 0.9881393313407898
+    },
+    {
+      "text": "plays\";in the development of",
+      "bbox": [
+        301,
+        756,
+        479,
+        775
+      ],
+      "confidence": 0.9563046097755432
+    },
+    {
+      "text": "important part which smoking",
+      "bbox": [
+        306,
+        743,
+        478,
+        759
+      ],
+      "confidence": 0.998713493347168
+    },
+    {
+      "text": "that on the average the",
+      "bbox": [
+        134,
+        760,
+        310,
+        778
+      ],
+      "confidence": 0.6695614457130432
+    },
+    {
+      "text": "amount of smoking had not lung cincer, he said. He",
+      "bbox": [
+        135,
+        770,
+        478,
+        791
+      ],
+      "confidence": 0.9413297176361084
+    },
+    {
+      "text": "affected the age at which the thought it. \"dangerous\" to",
+      "bbox": [
+        134,
+        786,
+        478,
+        802
+      ],
+      "confidence": 0.9771034121513367
+    },
+    {
+      "text": "men developed their cancers--.smoke but more dangerous to",
+      "bbox": [
+        135,
+        798,
+        478,
+        815
+      ],
+      "confidence": 0.9840670228004456
+    },
+    {
+      "text": "the light smokers got thelr smoke in darp climates con.",
+      "bbox": [
+        135,
+        809,
+        478,
+        829
+      ],
+      "confidence": 0.9612484574317932
+    },
+    {
+      "text": "disease at approximately the iducive to respiratory illnesses",
+      "bbox": [
+        134,
+        824,
+        477,
+        840
+      ],
+      "confidence": 0.9714579582214355
+    },
+    {
+      "text": "1003537828",
+      "bbox": [
+        656,
+        820,
+        690,
+        976
+      ],
+      "confidence": 0.9999510049819946
+    },
+    {
+      "text": "same age as the heavy than to smoke in dry sunny",
+      "bbox": [
+        134,
+        836,
+        478,
+        854
+      ],
+      "confidence": 0.9657905697822571
+    },
+    {
+      "text": "smokers.",
+      "bbox": [
+        136,
+        850,
+        186,
+        864
+      ],
+      "confidence": 0.8852745294570923
+    },
+    {
+      "text": "Nor did the number of years: In Passey's view lung cancer",
+      "bbox": [
+        144,
+        859,
+        479,
+        879
+      ],
+      "confidence": 0.9730913639068604
+    },
+    {
+      "text": "climates.",
+      "bbox": [
+        303,
+        851,
+        358,
+        865
+      ],
+      "confidence": 0.9667332768440247
+    },
+    {
+      "text": "of smoking, whether lightly or is a \"natural form of cancer",
+      "bbox": [
+        132,
+        872,
+        479,
+        892
+      ],
+      "confidence": 0.9422039985656738
+    },
+    {
+      "text": "heavily, make any appreciable and is nat the pesult of any",
+      "bbox": [
+        132,
+        884,
+        477,
+        904
+      ],
+      "confidence": 0.9311842918395996
+    },
+    {
+      "text": "difference among the 499.",
+      "bbox": [
+        134,
+        899,
+        279,
+        913
+      ],
+      "confidence": 0.9702163934707642
+    }
+  ],
+  "full_text": "A report from England on discrepancies in cigarette-lung cancer theory by\nDr. R.D. Passey was circulated both by wire services and syndicated columnists.\nWORLD-TELEGRAM AND SUN\nNew York, New York\nSeptember 14, 1962\nExtent of Smoking Is Unrelated\nTo Cancer, Scientist Believes\nBy DELOS SMITH\nNo Difference\ncancer-causing chemical, It re-\nUnited Press Iniernational\nThose who started smoking\nsults from an accumulation of\nA noted professor of experi early smoked for some 51\nillnesses and irritants which\nmental pathology calls atten-jyears, whereas the late start\ntion to a discrepancy in the\naffect the respiratory system.\nstatistical evidence which sug\ners smoked for only 31 years\nAmong the irritants he in-\nrests cigaret smoking is\ndifference between the daily\nor so. Yet there was no great\ncluded tobacco smoke, indus-\ntrial fumes and the smogs of\ncause of lung cancer. In none\namounts which patients in\ncities.\nof this evidence is it clalmed\neach group said they smoked.\nPassey has had a distin-\nthat the heavy smoker\nstricken earlier in life\nEach member of the group\nguished career in the seience\nthe light smoker.\nthan\nsmoked over 150,000 cigarets\nwhich began early must have\nof disease states -pathology.\nScience's experiences\nwith\nmore than the late starters.\nHe is a professor emeritus and\ncancer-causing substances all\nThese figures offer the\nnow does cancer research\nshow that the lighter the re.\npeated dosage, the longer\nclearest evidence that the age\nwork at the Chester Beatty Re-\ntakes for the substance to do\nwhen lung cancer develops is ixvairh Instituie in London.\nits evil work, Dr. R. D. Passey\ndetermined by neither the\nsaid. If cigaret smoke direcity\nwhich smoking began. If this\namount smoked nor the age at.\ncaused cancer \"one would cer\nis true, tobacco smoke did not\ntainly expect\" the heavy\nsmoker to be felled years be.\nact as a carcinogen (cancer-\nfore it happened to the light\ncauser). It is apparently not\nsmoxer.\nthe number of cigarets smoked\nStudied 499 Cases\nage of the Individual which\nbut something related to the\nYet none of the statistical determines when he gets lung\nstudies in many parts of the cancer.\"\nworld have shown this result.' Doesn'i Exonerate Smoking.,\nPassey himself studled the' Passey, however, was far\nwith lung cancer, grouping smoking. \"I do not belittle the\nsmoking histories of 499 men from exonerating cig aret\nthem according to ihe number\nof cigarets smoked. He found\nplays\";in the development of\nimportant part which smoking\nthat on the average the\namount of smoking had not lung cincer, he said. He\naffected the age at which the thought it. \"dangerous\" to\nmen developed their cancers--.smoke but more dangerous to\nthe light smokers got thelr smoke in darp climates con.\ndisease at approximately the iducive to respiratory illnesses\n1003537828\nsame age as the heavy than to smoke in dry sunny\nsmokers.\nNor did the number of years: In Passey's view lung cancer\nclimates.\nof smoking, whether lightly or is a \"natural form of cancer\nheavily, make any appreciable and is nat the pesult of any\ndifference among the 499."
+}

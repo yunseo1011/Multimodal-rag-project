@@ -1,0 +1,321 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0719.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "W27",
+      "bbox": [
+        145,
+        3,
+        193,
+        17
+      ],
+      "confidence": 0.6292288899421692
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        196,
+        4,
+        239,
+        19
+      ],
+      "confidence": 0.9882598519325256
+    },
+    {
+      "text": "MI.LEG.CONSLLTANTS",
+      "bbox": [
+        252,
+        2,
+        395,
+        24
+      ],
+      "confidence": 0.9742570519447327
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        459,
+        11,
+        480,
+        29
+      ],
+      "confidence": 0.8693804740905762
+    },
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        547,
+        11,
+        650,
+        32
+      ],
+      "confidence": 0.9901522397994995
+    },
+    {
+      "text": "P.01",
+      "bbox": [
+        671,
+        16,
+        707,
+        37
+      ],
+      "confidence": 0.9989824295043945
+    },
+    {
+      "text": "GONGWER NEWS SERVICE REPORT 21Q",
+      "bbox": [
+        63,
+        82,
+        374,
+        106
+      ],
+      "confidence": 0.963962197303772
+    },
+    {
+      "text": "WEDNESDAY.OCTOBER 28.1992",
+      "bbox": [
+        476,
+        87,
+        720,
+        117
+      ],
+      "confidence": 0.9235766530036926
+    },
+    {
+      "text": "SURYEY REVEALS BIPARTVISAN SUPPORT FOR TOBACCO TAX",
+      "bbox": [
+        57,
+        233,
+        514,
+        250
+      ],
+      "confidence": 0.9580236673355103
+    },
+    {
+      "text": "A biennial survey of state and-U.S. Houie candidates shows that most support progresaive public",
+      "bbox": [
+        54,
+        263,
+        715,
+        287
+      ],
+      "confidence": 0.9747713804244995
+    },
+    {
+      "text": "health policies backed by increased funding, including additional dollars for Department of Public",
+      "bbox": [
+        55,
+        280,
+        715,
+        303
+      ],
+      "confidence": 0.9786425828933716
+    },
+    {
+      "text": "Health through  broader tobacco tax, Michigan Public Health Association President Robert",
+      "bbox": [
+        55,
+        297,
+        715,
+        321
+      ],
+      "confidence": 0.9767217040061951
+    },
+    {
+      "text": "Martin said Wednesday.",
+      "bbox": [
+        55,
+        315,
+        220,
+        337
+      ],
+      "confidence": 0.9719656109809875
+    },
+    {
+      "text": "\"Health care in Michigan, like elsewhere in the United States, is in disarray,\" Mr. Martin said.",
+      "bbox": [
+        55,
+        346,
+        713,
+        370
+      ],
+      "confidence": 0.978262722492218
+    },
+    {
+      "text": "\"Governor (John) Engler has made some strong commitments to public health, but he and the",
+      "bbox": [
+        55,
+        365,
+        713,
+        387
+      ],
+      "confidence": 0.982352077960968
+    },
+    {
+      "text": "Legislature are going to have to find a way to fund preventive services.\"",
+      "bbox": [
+        54,
+        380,
+        533,
+        406
+      ],
+      "confidence": 0.9804104566574097
+    },
+    {
+      "text": ".",
+      "bbox": [
+        601,
+        389,
+        619,
+        407
+      ],
+      "confidence": 0.7110689282417297
+    },
+    {
+      "text": "About 250 candidates were surveyed, with one or more candidates in most races responding.",
+      "bbox": [
+        55,
+        413,
+        669,
+        439
+      ],
+      "confidence": 0.9836280345916748
+    },
+    {
+      "text": "\"There was a gratifying general consensus from Democrats and Republicans, whether incumbenta",
+      "bbox": [
+        54,
+        442,
+        714,
+        474
+      ],
+      "confidence": 0.9848333597183228
+    },
+    {
+      "text": "or challengers, on the inadequacy of access to health care in Michigan, on making Family Plan-",
+      "bbox": [
+        54,
+        459,
+        714,
+        492
+      ],
+      "confidence": 0.9777848124504089
+    },
+    {
+      "text": "ning services available to all Michigan citizens by law, and on the desirability of licensing retail",
+      "bbox": [
+        54,
+        476,
+        714,
+        509
+      ],
+      "confidence": 0.9825198650360107
+    },
+    {
+      "text": "tobacco vendors to further restrict sales to minors,\" Mr. Martin said.",
+      "bbox": [
+        55,
+        496,
+        512,
+        524
+      ],
+      "confidence": 0.974186897277832
+    },
+    {
+      "text": "A clear majority of the candidates supported a proposed increase in the state tobacco tax and",
+      "bbox": [
+        51,
+        525,
+        715,
+        559
+      ],
+      "confidence": 0.9739744663238525
+    },
+    {
+      "text": "using at least some of the $2o0 million for public health services. Fifty eight of the state House",
+      "bbox": [
+        54,
+        544,
+        714,
+        575
+      ],
+      "confidence": 0.9706459641456604
+    },
+    {
+      "text": "(",
+      "bbox": [
+        727,
+        534,
+        745,
+        557
+      ],
+      "confidence": 0.978390097618103
+    },
+    {
+      "text": "candidates responded favorably to raising taxes on tobacco products, compared to 17 opposed,",
+      "bbox": [
+        53,
+        567,
+        709,
+        596
+      ],
+      "confidence": 0.9766832590103149
+    },
+    {
+      "text": "while seven of the congressional candidates said yes, compared to four opposed. The rest did not",
+      "bbox": [
+        53,
+        585,
+        709,
+        611
+      ],
+      "confidence": 0.9858925342559814
+    },
+    {
+      "text": "reespond.",
+      "bbox": [
+        50,
+        604,
+        115,
+        631
+      ],
+      "confidence": 0.844615638256073
+    },
+    {
+      "text": "I was most impressed with how supportive Republicans have become in the area of tobacco tax",
+      "bbox": [
+        49,
+        631,
+        710,
+        662
+      ],
+      "confidence": 0.9799864888191223
+    },
+    {
+      "text": "policy since our Last survey in 199o,\" Mr. Martin said.",
+      "bbox": [
+        51,
+        655,
+        409,
+        677
+      ],
+      "confidence": 0.9377090930938721
+    },
+    {
+      "text": "2023668884",
+      "bbox": [
+        719,
+        828,
+        758,
+        981
+      ],
+      "confidence": 0.9998614192008972
+    }
+  ],
+  "full_text": "W27\nFROM\nMI.LEG.CONSLLTANTS\nTO\nPHILIP MORRIS\nP.01\nGONGWER NEWS SERVICE REPORT 21Q\nWEDNESDAY.OCTOBER 28.1992\nSURYEY REVEALS BIPARTVISAN SUPPORT FOR TOBACCO TAX\nA biennial survey of state and-U.S. Houie candidates shows that most support progresaive public\nhealth policies backed by increased funding, including additional dollars for Department of Public\nHealth through  broader tobacco tax, Michigan Public Health Association President Robert\nMartin said Wednesday.\n\"Health care in Michigan, like elsewhere in the United States, is in disarray,\" Mr. Martin said.\n\"Governor (John) Engler has made some strong commitments to public health, but he and the\nLegislature are going to have to find a way to fund preventive services.\"\n.\nAbout 250 candidates were surveyed, with one or more candidates in most races responding.\n\"There was a gratifying general consensus from Democrats and Republicans, whether incumbenta\nor challengers, on the inadequacy of access to health care in Michigan, on making Family Plan-\nning services available to all Michigan citizens by law, and on the desirability of licensing retail\ntobacco vendors to further restrict sales to minors,\" Mr. Martin said.\nA clear majority of the candidates supported a proposed increase in the state tobacco tax and\nusing at least some of the $2o0 million for public health services. Fifty eight of the state House\n(\ncandidates responded favorably to raising taxes on tobacco products, compared to 17 opposed,\nwhile seven of the congressional candidates said yes, compared to four opposed. The rest did not\nreespond.\nI was most impressed with how supportive Republicans have become in the area of tobacco tax\npolicy since our Last survey in 199o,\" Mr. Martin said.\n2023668884"
+}

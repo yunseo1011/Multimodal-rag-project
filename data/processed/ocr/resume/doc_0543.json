@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0543.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        278,
+        40,
+        468,
+        61
+      ],
+      "confidence": 0.9972811341285706
+    },
+    {
+      "text": "PERSONAL DATA",
+      "bbox": [
+        64,
+        99,
+        223,
+        120
+      ],
+      "confidence": 0.9977627992630005
+    },
+    {
+      "text": "SURNAME: BELL FIRST NAMES: STUART DAVID",
+      "bbox": [
+        64,
+        116,
+        464,
+        140
+      ],
+      "confidence": 0.9695109724998474
+    },
+    {
+      "text": "ADDRESS: 30,COMPAYNE GARDENS, LONDON NW6 3DN",
+      "bbox": [
+        65,
+        135,
+        516,
+        160
+      ],
+      "confidence": 0.9986005425453186
+    },
+    {
+      "text": "TELEPHONE NUMBERS: HOME: 071-372 3614; WORK: 081-740 3122",
+      "bbox": [
+        64,
+        152,
+        598,
+        180
+      ],
+      "confidence": 0.9743022322654724
+    },
+    {
+      "text": "DATE OF BIRTH: 23.10.61. AGE: 29 YEARS",
+      "bbox": [
+        65,
+        174,
+        397,
+        199
+      ],
+      "confidence": 0.9702927470207214
+    },
+    {
+      "text": "NATIONALITY: BRITISH",
+      "bbox": [
+        65,
+        195,
+        247,
+        219
+      ],
+      "confidence": 0.9810190200805664
+    },
+    {
+      "text": "NATIONAL INSURANCE NUMBER: WP 262261 D",
+      "bbox": [
+        65,
+        211,
+        435,
+        237
+      ],
+      "confidence": 0.9899776577949524
+    },
+    {
+      "text": "G.M.C. REGISTRATION: FULL 3068917 (1.8.86.)",
+      "bbox": [
+        66,
+        231,
+        428,
+        255
+      ],
+      "confidence": 0.9884467124938965
+    },
+    {
+      "text": "MEDICAL DEFENCE UNION NUMBER: 195315A",
+      "bbox": [
+        65,
+        249,
+        428,
+        274
+      ],
+      "confidence": 0.9901461005210876
+    },
+    {
+      "text": "EDUCATION",
+      "bbox": [
+        67,
+        291,
+        177,
+        311
+      ],
+      "confidence": 0.9998859763145447
+    },
+    {
+      "text": "SCHOOL: HIGHGATE SCHOOL, LONDON N6 (1970-1979)",
+      "bbox": [
+        66,
+        306,
+        505,
+        331
+      ],
+      "confidence": 0.9892116189002991
+    },
+    {
+      "text": "'A'LEVELS-MATHS, PHYSICS, CHEMISTRY & BIOLOGY",
+      "bbox": [
+        171,
+        322,
+        593,
+        349
+      ],
+      "confidence": 0.9859139323234558
+    },
+    {
+      "text": "MEDICAL SCHOOL: GUY'S HOSPITAL, LONDON SE1 (1980-1985)",
+      "bbox": [
+        68,
+        343,
+        570,
+        368
+      ],
+      "confidence": 0.9782565832138062
+    },
+    {
+      "text": "MEDICAL QUALIFICATIONS: M.B.,B.S. (LONDON)-JULY 1985",
+      "bbox": [
+        68,
+        363,
+        525,
+        387
+      ],
+      "confidence": 0.9900825023651123
+    },
+    {
+      "text": "MRCP (LONDON)-JUNE 1988",
+      "bbox": [
+        281,
+        383,
+        507,
+        405
+      ],
+      "confidence": 0.9934272170066833
+    },
+    {
+      "text": "FRCR PART 1 - JULY 1989",
+      "bbox": [
+        282,
+        403,
+        481,
+        422
+      ],
+      "confidence": 0.9777393341064453
+    },
+    {
+      "text": "PRESENT APPOINTMENT",
+      "bbox": [
+        71,
+        439,
+        289,
+        462
+      ],
+      "confidence": 0.9942175149917603
+    },
+    {
+      "text": "REGISTRAR IN DIAGNOSTIC RADIOLOGY AT HAMMERSMITH HOSPITAL",
+      "bbox": [
+        70,
+        459,
+        614,
+        481
+      ],
+      "confidence": 0.9976540803909302
+    },
+    {
+      "text": "(OCTOBER 1988 - SEPTEMBER 1991)",
+      "bbox": [
+        325,
+        479,
+        611,
+        501
+      ],
+      "confidence": 0.9991158843040466
+    },
+    {
+      "text": "PREVIOUS APPOINTMENTS",
+      "bbox": [
+        71,
+        532,
+        309,
+        552
+      ],
+      "confidence": 0.9906142950057983
+    },
+    {
+      "text": "1. HOUSE SURGEON IN GENERAL SURGERY TO MR F.G.ELLIS AT GUY'S",
+      "bbox": [
+        72,
+        568,
+        623,
+        592
+      ],
+      "confidence": 0.9852457642555237
+    },
+    {
+      "text": "HOSPITAL, LONDON (1.8.85.-31.10.85.)",
+      "bbox": [
+        72,
+        587,
+        360,
+        608
+      ],
+      "confidence": 0.999487578868866
+    },
+    {
+      "text": "2. HOUSE SURGEON IN UROLOGY TO MR C.H.KINDER & MR A.R.MUNDY AT",
+      "bbox": [
+        71,
+        621,
+        645,
+        649
+      ],
+      "confidence": 0.9828511476516724
+    },
+    {
+      "text": "GUY'S HOSPITAL, LONDON (1.11.85.-31.1.86.)",
+      "bbox": [
+        72,
+        640,
+        413,
+        666
+      ],
+      "confidence": 0.9879706501960754
+    },
+    {
+      "text": "3. HOUSE OFFICER IN GENERAL MEDICINE TO DR C.N.MALLINSON &",
+      "bbox": [
+        70,
+        675,
+        601,
+        706
+      ],
+      "confidence": 0.9774972200393677
+    },
+    {
+      "text": "DR P.J.REES AT LEWISHAM HOSPITAL, LONDON (1.2.86.-31.7.86.)",
+      "bbox": [
+        70,
+        694,
+        569,
+        725
+      ],
+      "confidence": 0.9837164282798767
+    },
+    {
+      "text": "4.SENIOR HOUSE OFFICER IN ACCIDENT & EMERGENCY MEDICINE &",
+      "bbox": [
+        69,
+        730,
+        608,
+        764
+      ],
+      "confidence": 0.9896136522293091
+    },
+    {
+      "text": "I.T.U. MEDICINE AT THE ROYAL FREE HOSPITAL, LONDON (1.9.86.-28.2.87.)",
+      "bbox": [
+        68,
+        748,
+        641,
+        784
+      ],
+      "confidence": 0.98447585105896
+    },
+    {
+      "text": "5.SENIOR HOUSE OFFICER IN GENERAL MEDICINE TO DR J.B.EDELMAN &",
+      "bbox": [
+        68,
+        786,
+        639,
+        820
+      ],
+      "confidence": 0.9971480965614319
+    },
+    {
+      "text": "DR K.FARRINGTON & DR P.STORY AT BARKING HOSPITAL, ESSEX",
+      "bbox": [
+        68,
+        805,
+        573,
+        839
+      ],
+      "confidence": 0.9787071943283081
+    },
+    {
+      "text": "(1.3.87.-31.8.87.)",
+      "bbox": [
+        68,
+        824,
+        196,
+        852
+      ],
+      "confidence": 0.9975054860115051
+    },
+    {
+      "text": "6.SENIOR HOUSE OFFICER IN GENERAL MEDICINE TO DR N.EISER &",
+      "bbox": [
+        69,
+        862,
+        595,
+        894
+      ],
+      "confidence": 0.9855698943138123
+    },
+    {
+      "text": "DR B.H.HICKS (1.9.87.-29.2.88.); DR P.J.REES & DR G.W.SCOTT",
+      "bbox": [
+        68,
+        880,
+        542,
+        913
+      ],
+      "confidence": 0.9844852089881897
+    },
+    {
+      "text": "(1.3.88.-31.8.88.) AT LEWISHAM HOSPITAL, LONDON",
+      "bbox": [
+        69,
+        900,
+        464,
+        929
+      ],
+      "confidence": 0.9868648648262024
+    }
+  ],
+  "full_text": "CURRICULUM VITAE\nPERSONAL DATA\nSURNAME: BELL FIRST NAMES: STUART DAVID\nADDRESS: 30,COMPAYNE GARDENS, LONDON NW6 3DN\nTELEPHONE NUMBERS: HOME: 071-372 3614; WORK: 081-740 3122\nDATE OF BIRTH: 23.10.61. AGE: 29 YEARS\nNATIONALITY: BRITISH\nNATIONAL INSURANCE NUMBER: WP 262261 D\nG.M.C. REGISTRATION: FULL 3068917 (1.8.86.)\nMEDICAL DEFENCE UNION NUMBER: 195315A\nEDUCATION\nSCHOOL: HIGHGATE SCHOOL, LONDON N6 (1970-1979)\n'A'LEVELS-MATHS, PHYSICS, CHEMISTRY & BIOLOGY\nMEDICAL SCHOOL: GUY'S HOSPITAL, LONDON SE1 (1980-1985)\nMEDICAL QUALIFICATIONS: M.B.,B.S. (LONDON)-JULY 1985\nMRCP (LONDON)-JUNE 1988\nFRCR PART 1 - JULY 1989\nPRESENT APPOINTMENT\nREGISTRAR IN DIAGNOSTIC RADIOLOGY AT HAMMERSMITH HOSPITAL\n(OCTOBER 1988 - SEPTEMBER 1991)\nPREVIOUS APPOINTMENTS\n1. HOUSE SURGEON IN GENERAL SURGERY TO MR F.G.ELLIS AT GUY'S\nHOSPITAL, LONDON (1.8.85.-31.10.85.)\n2. HOUSE SURGEON IN UROLOGY TO MR C.H.KINDER & MR A.R.MUNDY AT\nGUY'S HOSPITAL, LONDON (1.11.85.-31.1.86.)\n3. HOUSE OFFICER IN GENERAL MEDICINE TO DR C.N.MALLINSON &\nDR P.J.REES AT LEWISHAM HOSPITAL, LONDON (1.2.86.-31.7.86.)\n4.SENIOR HOUSE OFFICER IN ACCIDENT & EMERGENCY MEDICINE &\nI.T.U. MEDICINE AT THE ROYAL FREE HOSPITAL, LONDON (1.9.86.-28.2.87.)\n5.SENIOR HOUSE OFFICER IN GENERAL MEDICINE TO DR J.B.EDELMAN &\nDR K.FARRINGTON & DR P.STORY AT BARKING HOSPITAL, ESSEX\n(1.3.87.-31.8.87.)\n6.SENIOR HOUSE OFFICER IN GENERAL MEDICINE TO DR N.EISER &\nDR B.H.HICKS (1.9.87.-29.2.88.); DR P.J.REES & DR G.W.SCOTT\n(1.3.88.-31.8.88.) AT LEWISHAM HOSPITAL, LONDON"
+}

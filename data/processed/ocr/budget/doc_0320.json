@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0320.png",
+    "image_width": 787,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED",
+      "bbox": [
+        214,
+        10,
+        547,
+        35
+      ],
+      "confidence": 0.9965884685516357
+    },
+    {
+      "text": "052799",
+      "bbox": [
+        643,
+        35,
+        732,
+        60
+      ],
+      "confidence": 0.9998784065246582
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        66,
+        49,
+        290,
+        67
+      ],
+      "confidence": 0.9972105622291565
+    },
+    {
+      "text": "003629",
+      "bbox": [
+        438,
+        58,
+        499,
+        79
+      ],
+      "confidence": 0.9999392628669739
+    },
+    {
+      "text": "05/09/88",
+      "bbox": [
+        551,
+        54,
+        632,
+        75
+      ],
+      "confidence": 0.999876081943512
+    },
+    {
+      "text": "052799",
+      "bbox": [
+        675,
+        54,
+        735,
+        73
+      ],
+      "confidence": 0.9939937591552734
+    },
+    {
+      "text": ":8*S I STREET. NORTHWEST",
+      "bbox": [
+        70,
+        69,
+        220,
+        84
+      ],
+      "confidence": 0.8927955627441406
+    },
+    {
+      "text": "WASHINGTON, DC 20006",
+      "bbox": [
+        90,
+        82,
+        219,
+        95
+      ],
+      "confidence": 0.9462688565254211
+    },
+    {
+      "text": "VENDOR NUMBER",
+      "bbox": [
+        427,
+        75,
+        511,
+        94
+      ],
+      "confidence": 0.9973392486572266
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        560,
+        75,
+        620,
+        89
+      ],
+      "confidence": 0.998781681060791
+    },
+    {
+      "text": "CHECK NUMBER",
+      "bbox": [
+        648,
+        75,
+        724,
+        87
+      ],
+      "confidence": 0.9848914742469788
+    },
+    {
+      "text": "CITIZENS FOR TOPINKA",
+      "bbox": [
+        445,
+        105,
+        638,
+        126
+      ],
+      "confidence": 0.999538779258728
+    },
+    {
+      "text": "DUMENT DATE",
+      "bbox": [
+        19,
+        157,
+        79,
+        173
+      ],
+      "confidence": 0.894565999507904
+    },
+    {
+      "text": "DISCOUNT",
+      "bbox": [
+        517,
+        156,
+        571,
+        174
+      ],
+      "confidence": 0.9944332838058472
+    },
+    {
+      "text": "NET AMOUNT",
+      "bbox": [
+        626,
+        154,
+        691,
+        171
+      ],
+      "confidence": 0.9788016080856323
+    },
+    {
+      "text": "05/02/88IL.P.C.",
+      "bbox": [
+        0,
+        169,
+        154,
+        194
+      ],
+      "confidence": 0.989425003528595
+    },
+    {
+      "text": "DOCUMENT NO",
+      "bbox": [
+        92,
+        158,
+        166,
+        176
+      ],
+      "confidence": 0.9977826476097107
+    },
+    {
+      "text": "P.O. NUMBER",
+      "bbox": [
+        197,
+        163,
+        258,
+        174
+      ],
+      "confidence": 0.9689162969589233
+    },
+    {
+      "text": "REFERENCE NO",
+      "bbox": [
+        283,
+        162,
+        350,
+        172
+      ],
+      "confidence": 0.9956717491149902
+    },
+    {
+      "text": "DOCUMENT AMOUNT",
+      "bbox": [
+        380,
+        159,
+        477,
+        174
+      ],
+      "confidence": 0.9942034482955933
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        678,
+        167,
+        739,
+        187
+      ],
+      "confidence": 0.9994473457336426
+    },
+    {
+      "text": "LMICH06079",
+      "bbox": [
+        272,
+        176,
+        365,
+        191
+      ],
+      "confidence": 0.9992273449897766
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        426,
+        173,
+        486,
+        191
+      ],
+      "confidence": 0.9999386668205261
+    },
+    {
+      "text": "14017710",
+      "bbox": [
+        179,
+        191,
+        256,
+        208
+      ],
+      "confidence": 0.9999470710754395
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        343,
+        190,
+        402,
+        208
+      ],
+      "confidence": 0.9988486170768738
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        421,
+        495,
+        484,
+        518
+      ],
+      "confidence": 0.9999086260795593
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        676,
+        499,
+        736,
+        517
+      ],
+      "confidence": 0.9998584389686584
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE, INC.",
+      "bbox": [
+        286,
+        674,
+        457,
+        698
+      ],
+      "confidence": 0.9965663552284241
+    },
+    {
+      "text": "TIILBC 014077",
+      "bbox": [
+        563,
+        950,
+        706,
+        980
+      ],
+      "confidence": 0.9510480165481567
+    }
+  ],
+  "full_text": "DETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED\n052799\nTHE TOBACCO INSTITUTE\n003629\n05/09/88\n052799\n:8*S I STREET. NORTHWEST\nWASHINGTON, DC 20006\nVENDOR NUMBER\nCHECK DATE\nCHECK NUMBER\nCITIZENS FOR TOPINKA\nDUMENT DATE\nDISCOUNT\nNET AMOUNT\n05/02/88IL.P.C.\nDOCUMENT NO\nP.O. NUMBER\nREFERENCE NO\nDOCUMENT AMOUNT\n100.00\nLMICH06079\n100.00\n14017710\n100.00\n100.00\n100.00\nTHE TOBACCO INSTITUTE, INC.\nTIILBC 014077"
+}

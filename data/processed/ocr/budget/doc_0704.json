@@ -1,0 +1,581 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0704.png",
+    "image_width": 785,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "i2889177",
+      "bbox": [
+        395,
+        17,
+        487,
+        34
+      ],
+      "confidence": 0.8303225636482239
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        488,
+        11,
+        512,
+        31
+      ],
+      "confidence": 0.9990203976631165
+    },
+    {
+      "text": "NATIONAL BANK",
+      "bbox": [
+        540,
+        12,
+        615,
+        26
+      ],
+      "confidence": 0.9989824295043945
+    },
+    {
+      "text": "15-3",
+      "bbox": [
+        683,
+        15,
+        710,
+        28
+      ],
+      "confidence": 0.8849971890449524
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        74,
+        31,
+        410,
+        65
+      ],
+      "confidence": 0.9951000213623047
+    },
+    {
+      "text": "AIN ON, .C.",
+      "bbox": [
+        536,
+        28,
+        591,
+        45
+      ],
+      "confidence": 0.6644355654716492
+    },
+    {
+      "text": "JOLN OFFICE",
+      "bbox": [
+        539,
+        23,
+        587,
+        33
+      ],
+      "confidence": 0.8752162456512451
+    },
+    {
+      "text": "540",
+      "bbox": [
+        685,
+        27,
+        706,
+        39
+      ],
+      "confidence": 0.9996652007102966
+    },
+    {
+      "text": "CHECK NO.",
+      "bbox": [
+        440,
+        48,
+        491,
+        62
+      ],
+      "confidence": 0.9960335493087769
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        548,
+        48,
+        606,
+        62
+      ],
+      "confidence": 0.9993797540664673
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        685,
+        49,
+        726,
+        60
+      ],
+      "confidence": 0.999622642993927
+    },
+    {
+      "text": "1875 1 STREET, NORTHWEST",
+      "bbox": [
+        252,
+        60,
+        407,
+        77
+      ],
+      "confidence": 0.9929484724998474
+    },
+    {
+      "text": "WASHINGTON, DC 20006",
+      "bbox": [
+        273,
+        74,
+        407,
+        89
+      ],
+      "confidence": 0.9912773370742798
+    },
+    {
+      "text": "089177",
+      "bbox": [
+        425,
+        68,
+        501,
+        93
+      ],
+      "confidence": 0.9999240040779114
+    },
+    {
+      "text": "34/33/92",
+      "bbox": [
+        516,
+        79,
+        595,
+        97
+      ],
+      "confidence": 0.9277464747428894
+    },
+    {
+      "text": "$",
+      "bbox": [
+        644,
+        69,
+        659,
+        89
+      ],
+      "confidence": 0.9995511174201965
+    },
+    {
+      "text": "*****53",
+      "bbox": [
+        670,
+        78,
+        741,
+        96
+      ],
+      "confidence": 0.9695172905921936
+    },
+    {
+      "text": "TO THE ORDER OF",
+      "bbox": [
+        20,
+        127,
+        116,
+        146
+      ],
+      "confidence": 0.9966618418693542
+    },
+    {
+      "text": "PAY IN DOLLARS",
+      "bbox": [
+        164,
+        117,
+        261,
+        130
+      ],
+      "confidence": 0.9912978410720825
+    },
+    {
+      "text": "***************3IXT*-*IVE",
+      "bbox": [
+        287,
+        127,
+        533,
+        146
+      ],
+      "confidence": 0.9647759795188904
+    },
+    {
+      "text": "×**************CT/EOC*",
+      "bbox": [
+        526,
+        126,
+        781,
+        146
+      ],
+      "confidence": 0.8135759234428406
+    },
+    {
+      "text": "CLIGGOTT PUBLISHING CO.",
+      "bbox": [
+        106,
+        197,
+        325,
+        211
+      ],
+      "confidence": 0.9988206028938293
+    },
+    {
+      "text": "55 HOLLY HILL LANE",
+      "bbox": [
+        104,
+        212,
+        280,
+        229
+      ],
+      "confidence": 0.9946839809417725
+    },
+    {
+      "text": "NON-NEGOTIABLE",
+      "bbox": [
+        533,
+        215,
+        758,
+        242
+      ],
+      "confidence": 0.9881771802902222
+    },
+    {
+      "text": "BOX 4010",
+      "bbox": [
+        103,
+        227,
+        184,
+        246
+      ],
+      "confidence": 0.9983140826225281
+    },
+    {
+      "text": "GREENWICH",
+      "bbox": [
+        103,
+        242,
+        209,
+        262
+      ],
+      "confidence": 0.9945766925811768
+    },
+    {
+      "text": "CT 06830",
+      "bbox": [
+        257,
+        244,
+        338,
+        261
+      ],
+      "confidence": 0.9948428273200989
+    },
+    {
+      "text": "*089177r",
+      "bbox": [
+        151,
+        298,
+        251,
+        316
+      ],
+      "confidence": 0.9378324747085571
+    },
+    {
+      "text": "1:0540000301 1208219752r",
+      "bbox": [
+        255,
+        299,
+        546,
+        317
+      ],
+      "confidence": 0.9603691101074219
+    },
+    {
+      "text": "DETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED",
+      "bbox": [
+        226,
+        340,
+        563,
+        359
+      ],
+      "confidence": 0.9961507320404053
+    },
+    {
+      "text": "THE TOBACCO INSTITUTE",
+      "bbox": [
+        71,
+        369,
+        301,
+        392
+      ],
+      "confidence": 0.9941014051437378
+    },
+    {
+      "text": "089177",
+      "bbox": [
+        675,
+        368,
+        755,
+        396
+      ],
+      "confidence": 0.9994478821754456
+    },
+    {
+      "text": "1875 1 STREET, NORTHWEST",
+      "bbox": [
+        76,
+        392,
+        231,
+        407
+      ],
+      "confidence": 0.9777918457984924
+    },
+    {
+      "text": "008895",
+      "bbox": [
+        455,
+        390,
+        516,
+        408
+      ],
+      "confidence": 0.9872451424598694
+    },
+    {
+      "text": "34/33/92",
+      "bbox": [
+        568,
+        387,
+        652,
+        407
+      ],
+      "confidence": 0.9803670048713684
+    },
+    {
+      "text": "039177",
+      "bbox": [
+        697,
+        390,
+        757,
+        404
+      ],
+      "confidence": 0.9912171959877014
+    },
+    {
+      "text": "WASHINGTON, DC 20006",
+      "bbox": [
+        96,
+        405,
+        231,
+        420
+      ],
+      "confidence": 0.9955851435661316
+    },
+    {
+      "text": "VENDOR NUMBER",
+      "bbox": [
+        444,
+        407,
+        528,
+        420
+      ],
+      "confidence": 0.9180545210838318
+    },
+    {
+      "text": "CHECK DATE",
+      "bbox": [
+        578,
+        407,
+        636,
+        418
+      ],
+      "confidence": 0.9993664026260376
+    },
+    {
+      "text": "CHECK NUMBEH",
+      "bbox": [
+        667,
+        404,
+        746,
+        419
+      ],
+      "confidence": 0.9721651673316956
+    },
+    {
+      "text": "CLIGGOTT PUBLISHING CO.",
+      "bbox": [
+        463,
+        438,
+        686,
+        457
+      ],
+      "confidence": 0.9835829734802246
+    },
+    {
+      "text": "DOCUMENT DATI",
+      "bbox": [
+        2,
+        484,
+        86,
+        499
+      ],
+      "confidence": 0.9349537491798401
+    },
+    {
+      "text": "3/25/92hENEWAL 92",
+      "bbox": [
+        2,
+        500,
+        181,
+        520
+      ],
+      "confidence": 0.8749375343322754
+    },
+    {
+      "text": "DOCUMENTNO",
+      "bbox": [
+        100,
+        488,
+        172,
+        499
+      ],
+      "confidence": 0.9485185742378235
+    },
+    {
+      "text": "PO NUMBER",
+      "bbox": [
+        207,
+        488,
+        269,
+        499
+      ],
+      "confidence": 0.9938011169433594
+    },
+    {
+      "text": "LMICH39183",
+      "bbox": [
+        281,
+        502,
+        380,
+        522
+      ],
+      "confidence": 0.8890339136123657
+    },
+    {
+      "text": "REFERENCE NO",
+      "bbox": [
+        295,
+        489,
+        366,
+        500
+      ],
+      "confidence": 0.9746090769767761
+    },
+    {
+      "text": "DOCUMEN1 AMOUNT",
+      "bbox": [
+        396,
+        489,
+        495,
+        502
+      ],
+      "confidence": 0.9715156555175781
+    },
+    {
+      "text": "DISCOUNT",
+      "bbox": [
+        541,
+        489,
+        589,
+        500
+      ],
+      "confidence": 0.999243438243866
+    },
+    {
+      "text": "NET AMOUN",
+      "bbox": [
+        647,
+        489,
+        709,
+        500
+      ],
+      "confidence": 0.9607888460159302
+    },
+    {
+      "text": "65.00",
+      "bbox": [
+        710,
+        500,
+        765,
+        520
+      ],
+      "confidence": 0.9976068735122681
+    },
+    {
+      "text": "65.03",
+      "bbox": [
+        452,
+        504,
+        504,
+        522
+      ],
+      "confidence": 0.9994560480117798
+    },
+    {
+      "text": "1334-4301-3000",
+      "bbox": [
+        166,
+        518,
+        303,
+        536
+      ],
+      "confidence": 0.9541773796081543
+    },
+    {
+      "text": "65.30",
+      "bbox": [
+        367,
+        520,
+        417,
+        538
+      ],
+      "confidence": 0.8341655731201172
+    },
+    {
+      "text": "65.33",
+      "bbox": [
+        444,
+        831,
+        494,
+        847
+      ],
+      "confidence": 0.9781835675239563
+    },
+    {
+      "text": "65.30",
+      "bbox": [
+        695,
+        832,
+        747,
+        850
+      ],
+      "confidence": 0.9952848553657532
+    },
+    {
+      "text": "TICT 0017865",
+      "bbox": [
+        590,
+        978,
+        745,
+        1000
+      ],
+      "confidence": 0.9983587265014648
+    }
+  ],
+  "full_text": "i2889177\nTHE\nNATIONAL BANK\n15-3\nTHE TOBACCO INSTITUTE\nAIN ON, .C.\nJOLN OFFICE\n540\nCHECK NO.\nCHECK DATE\nAMOUNT\n1875 1 STREET, NORTHWEST\nWASHINGTON, DC 20006\n089177\n34/33/92\n$\n*****53\nTO THE ORDER OF\nPAY IN DOLLARS\n***************3IXT*-*IVE\n×**************CT/EOC*\nCLIGGOTT PUBLISHING CO.\n55 HOLLY HILL LANE\nNON-NEGOTIABLE\nBOX 4010\nGREENWICH\nCT 06830\n*089177r\n1:0540000301 1208219752r\nDETACH BEFORE DEPOSITING NO OTHER RECEIPT REQUIRED\nTHE TOBACCO INSTITUTE\n089177\n1875 1 STREET, NORTHWEST\n008895\n34/33/92\n039177\nWASHINGTON, DC 20006\nVENDOR NUMBER\nCHECK DATE\nCHECK NUMBEH\nCLIGGOTT PUBLISHING CO.\nDOCUMENT DATI\n3/25/92hENEWAL 92\nDOCUMENTNO\nPO NUMBER\nLMICH39183\nREFERENCE NO\nDOCUMEN1 AMOUNT\nDISCOUNT\nNET AMOUN\n65.00\n65.03\n1334-4301-3000\n65.30\n65.33\n65.30\nTICT 0017865"
+}

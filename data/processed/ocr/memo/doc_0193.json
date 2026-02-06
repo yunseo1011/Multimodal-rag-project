@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0193.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS COMPANIES INC.",
+      "bbox": [
+        40,
+        38,
+        383,
+        69
+      ],
+      "confidence": 0.9908786416053772
+    },
+    {
+      "text": "INTER-OFFICE CORRESPONDENCE",
+      "bbox": [
+        416,
+        46,
+        696,
+        66
+      ],
+      "confidence": 0.999453067779541
+    },
+    {
+      "text": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+      "bbox": [
+        332,
+        67,
+        697,
+        84
+      ],
+      "confidence": 0.974513828754425
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        40,
+        96,
+        80,
+        119
+      ],
+      "confidence": 0.9998569488525391
+    },
+    {
+      "text": "All Employees",
+      "bbox": [
+        137,
+        99,
+        259,
+        122
+      ],
+      "confidence": 0.9986201524734497
+    },
+    {
+      "text": "DATE: March 31, 1998",
+      "bbox": [
+        464,
+        103,
+        638,
+        117
+      ],
+      "confidence": 0.9962062835693359
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        42,
+        135,
+        107,
+        156
+      ],
+      "confidence": 0.9996035695075989
+    },
+    {
+      "text": "Steven C. Parrish",
+      "bbox": [
+        136,
+        135,
+        271,
+        157
+      ],
+      "confidence": 0.9985616207122803
+    },
+    {
+      "text": "SUBJECT: Senate Commerce Committee Legislation",
+      "bbox": [
+        44,
+        171,
+        474,
+        194
+      ],
+      "confidence": 0.9968466758728027
+    },
+    {
+      "text": "The attached news release was issued today by the tobacco",
+      "bbox": [
+        136,
+        226,
+        622,
+        248
+      ],
+      "confidence": 0.9804422855377197
+    },
+    {
+      "text": "industry.",
+      "bbox": [
+        136,
+        249,
+        206,
+        267
+      ],
+      "confidence": 0.9997786283493042
+    },
+    {
+      "text": "We at Philip Morris remain committed to working with members of",
+      "bbox": [
+        137,
+        281,
+        624,
+        301
+      ],
+      "confidence": 0.9821417927742004
+    },
+    {
+      "text": "Congress to support legislation that reflects the principles in the",
+      "bbox": [
+        138,
+        299,
+        623,
+        322
+      ],
+      "confidence": 0.9918997287750244
+    },
+    {
+      "text": "June 20th agreement. During this involved process we anticipate",
+      "bbox": [
+        136,
+        318,
+        625,
+        340
+      ],
+      "confidence": 0.9770256280899048
+    },
+    {
+      "text": "debate on the issues that concern our business. We are optimistic",
+      "bbox": [
+        137,
+        336,
+        626,
+        358
+      ],
+      "confidence": 0.9911403656005859
+    },
+    {
+      "text": "we can achieve agreement on comprehensive national tobacco",
+      "bbox": [
+        136,
+        354,
+        626,
+        378
+      ],
+      "confidence": 0.9967073202133179
+    },
+    {
+      "text": "legislation.",
+      "bbox": [
+        138,
+        378,
+        219,
+        396
+      ],
+      "confidence": 0.9818644523620605
+    },
+    {
+      "text": "Steue",
+      "bbox": [
+        324,
+        432,
+        451,
+        515
+      ],
+      "confidence": 0.7125800848007202
+    },
+    {
+      "text": "/kw",
+      "bbox": [
+        136,
+        448,
+        171,
+        471
+      ],
+      "confidence": 0.987751305103302
+    },
+    {
+      "text": "Attachment",
+      "bbox": [
+        137,
+        467,
+        229,
+        490
+      ],
+      "confidence": 0.9999313354492188
+    },
+    {
+      "text": "2064003063",
+      "bbox": [
+        693,
+        764,
+        737,
+        877
+      ],
+      "confidence": 0.9998571276664734
+    }
+  ],
+  "full_text": "PHILIP MORRIS COMPANIES INC.\nINTER-OFFICE CORRESPONDENCE\n120 PARK AVENUE, NEW YORK, NY 10017-5592\nTO:\nAll Employees\nDATE: March 31, 1998\nFROM:\nSteven C. Parrish\nSUBJECT: Senate Commerce Committee Legislation\nThe attached news release was issued today by the tobacco\nindustry.\nWe at Philip Morris remain committed to working with members of\nCongress to support legislation that reflects the principles in the\nJune 20th agreement. During this involved process we anticipate\ndebate on the issues that concern our business. We are optimistic\nwe can achieve agreement on comprehensive national tobacco\nlegislation.\nSteue\n/kw\nAttachment\n2064003063"
+}

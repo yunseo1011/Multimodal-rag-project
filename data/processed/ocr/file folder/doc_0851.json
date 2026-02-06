@@ -1,0 +1,61 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0851.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "830504-040",
+      "bbox": [
+        229,
+        38,
+        258,
+        134
+      ],
+      "confidence": 0.99919193983078
+    },
+    {
+      "text": "Brands ATC - Misty",
+      "bbox": [
+        55,
+        347,
+        113,
+        507
+      ],
+      "confidence": 0.9527522325515747
+    },
+    {
+      "text": "Formulas",
+      "bbox": [
+        75,
+        431,
+        110,
+        507
+      ],
+      "confidence": 0.9997369050979614
+    },
+    {
+      "text": "Cigts",
+      "bbox": [
+        33,
+        514,
+        76,
+        576
+      ],
+      "confidence": 0.9984378814697266
+    },
+    {
+      "text": "CENTRAL FILES",
+      "bbox": [
+        207,
+        726,
+        284,
+        973
+      ],
+      "confidence": 0.936278760433197
+    }
+  ],
+  "full_text": "830504-040\nBrands ATC - Misty\nFormulas\nCigts\nCENTRAL FILES"
+}

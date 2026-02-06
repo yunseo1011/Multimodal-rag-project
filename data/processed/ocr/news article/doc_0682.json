@@ -1,0 +1,911 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0682.png",
+    "image_width": 776,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "As seen",
+      "bbox": [
+        30,
+        17,
+        126,
+        49
+      ],
+      "confidence": 0.9875317215919495
+    },
+    {
+      "text": "in the December 10th",
+      "bbox": [
+        32,
+        58,
+        253,
+        87
+      ],
+      "confidence": 0.9690070152282715
+    },
+    {
+      "text": "sissue of",
+      "bbox": [
+        29,
+        98,
+        124,
+        127
+      ],
+      "confidence": 0.8771589994430542
+    },
+    {
+      "text": "ITHE NEW REPUBLIC",
+      "bbox": [
+        29,
+        144,
+        759,
+        228
+      ],
+      "confidence": 0.9652746915817261
+    },
+    {
+      "text": "03046848",
+      "bbox": [
+        744,
+        340,
+        776,
+        465
+      ],
+      "confidence": 0.9997113347053528
+    },
+    {
+      "text": "The Right to Smoke",
+      "bbox": [
+        424,
+        381,
+        606,
+        424
+      ],
+      "confidence": 0.98227459192276
+    },
+    {
+      "text": "going without tobacco for the course of a.",
+      "bbox": [
+        530,
+        415,
+        728,
+        447
+      ],
+      "confidence": 0.9524176716804504
+    },
+    {
+      "text": "lengthy airplane ride. Of course since they",
+      "bbox": [
+        532,
+        427,
+        727,
+        457
+      ],
+      "confidence": 0.9672500491142273
+    },
+    {
+      "text": "Most of us at this jourmal do not smoke, but",
+      "bbox": [
+        338,
+        431,
+        522,
+        459
+      ],
+      "confidence": 0.9600465893745422
+    },
+    {
+      "text": "that does not mean we have lost all fellow",
+      "bbox": [
+        339,
+        442,
+        523,
+        470
+      ],
+      "confidence": 0.9732485413551331
+    },
+    {
+      "text": "are smokers their misery doesn't count..",
+      "bbox": [
+        533,
+        439,
+        730,
+        468
+      ],
+      "confidence": 0.9578912854194641
+    },
+    {
+      "text": "feeling with those in whom human weak.",
+      "bbox": [
+        341,
+        453,
+        524,
+        481
+      ],
+      "confidence": 0.9741507172584534
+    },
+    {
+      "text": "Serves them right, as a matter of fact.",
+      "bbox": [
+        534,
+        451,
+        715,
+        479
+      ],
+      "confidence": 0.9769326448440552
+    },
+    {
+      "text": "ness takes this particular form: Smoking. it",
+      "bbox": [
+        342,
+        464,
+        526,
+        492
+      ],
+      "confidence": 0.9535638689994812
+    },
+    {
+      "text": "to non-smokers, and apparently it can be",
+      "bbox": [
+        535,
+        472,
+        732,
+        500
+      ],
+      "confidence": 0.9374944567680359
+    },
+    {
+      "text": "Cigarette smcke is genuinely annoying",
+      "bbox": [
+        544,
+        462,
+        732,
+        489
+      ],
+      "confidence": 0.9814437627792358
+    },
+    {
+      "text": "seems, is rapidly becoming an exception to",
+      "bbox": [
+        343,
+        477,
+        527,
+        502
+      ],
+      "confidence": 0.9906330108642578
+    },
+    {
+      "text": "normal rules of decorum and tolerance.",
+      "bbox": [
+        344,
+        487,
+        527,
+        513
+      ],
+      "confidence": 0.9783861041069031
+    },
+    {
+      "text": "dangerous to them. as well. Rules to",
+      "bbox": [
+        536,
+        484,
+        734,
+        511
+      ],
+      "confidence": 0.9351106286048889
+    },
+    {
+      "text": "There are people who pride themselves on.",
+      "bbox": [
+        345,
+        498,
+        529,
+        522
+      ],
+      "confidence": 0.9865217208862305
+    },
+    {
+      "text": "manimize this annoyance and danger are",
+      "bbox": [
+        536,
+        494,
+        735,
+        522
+      ],
+      "confidence": 0.9286162853240967
+    },
+    {
+      "text": "the way they graciously accept the foolish-",
+      "bbox": [
+        346,
+        508,
+        529,
+        534
+      ],
+      "confidence": 0.7934067249298096
+    },
+    {
+      "text": "reasomable, even if they <ause minor",
+      "bbox": [
+        537,
+        507,
+        736,
+        531
+      ],
+      "confidence": 0.9630300998687744
+    },
+    {
+      "text": "ness and impositions to which life with",
+      "bbox": [
+        347,
+        518,
+        530,
+        545
+      ],
+      "confidence": 0.980607271194458
+    },
+    {
+      "text": "other people subjects them, but who feel",
+      "bbox": [
+        348,
+        529,
+        530,
+        554
+      ],
+      "confidence": 0.9895366430282593
+    },
+    {
+      "text": "inconvenience to the smoker. A ban of",
+      "bbox": [
+        538,
+        518,
+        736,
+        543
+      ],
+      "confidence": 0.9855976700782776
+    },
+    {
+      "text": "smoking in elevators. for example,. where",
+      "bbox": [
+        539,
+        529,
+        736,
+        553
+      ],
+      "confidence": 0.957612931728363
+    },
+    {
+      "text": "free to assert the rigid invlabiity of ther",
+      "bbox": [
+        349,
+        539,
+        530,
+        565
+      ],
+      "confidence": 0.7181465029716492
+    },
+    {
+      "text": "people are packed tight without much",
+      "bbox": [
+        538,
+        538,
+        736,
+        565
+      ],
+      "confidence": 0.9702470302581787
+    },
+    {
+      "text": "personal space whien it is threatened by a",
+      "bbox": [
+        349,
+        549,
+        531,
+        575
+      ],
+      "confidence": 0.9694070219993591
+    },
+    {
+      "text": "whiff of cigarette smoke. Thereare liberals",
+      "bbox": [
+        350,
+        559,
+        531,
+        586
+      ],
+      "confidence": 0.7761867642402649
+    },
+    {
+      "text": "circulation and the duration of the ride is",
+      "bbox": [
+        538,
+        549,
+        737,
+        575
+      ],
+      "confidence": 0.9196421504020691
+    },
+    {
+      "text": "who indignantly defend a person's right to",
+      "bbox": [
+        351,
+        570,
+        532,
+        597
+      ],
+      "confidence": 0.9742091298103333
+    },
+    {
+      "text": "rot her own mind with drugs. or to invade",
+      "bbox": [
+        351,
+        581,
+        532,
+        607
+      ],
+      "confidence": 0.9438148140907288
+    },
+    {
+      "text": "others\" privacy with unwanted publicity",
+      "bbox": [
+        352,
+        591,
+        533,
+        617
+      ],
+      "confidence": 0.9530613422393799
+    },
+    {
+      "text": "ents: this is a case where separate-but-",
+      "bbox": [
+        541,
+        583,
+        736,
+        606
+      ],
+      "confidence": 0.9418851137161255
+    },
+    {
+      "text": "and humiliation by the exercise of free",
+      "bbox": [
+        353,
+        603,
+        534,
+        627
+      ],
+      "confidence": 0.9826000928878784
+    },
+    {
+      "text": "equal works. But everyday life carries with",
+      "bbox": [
+        541,
+        594,
+        736,
+        616
+      ],
+      "confidence": 0.9684724807739258
+    },
+    {
+      "text": "it inevitable irritations, and even health",
+      "bbox": [
+        542,
+        605,
+        737,
+        626
+      ],
+      "confidence": 0.9763327240943909
+    },
+    {
+      "text": "speech, but who just as indignantly deny",
+      "bbox": [
+        354,
+        614,
+        534,
+        638
+      ],
+      "confidence": 0.9869020581245422
+    },
+    {
+      "text": "risks, caused by other people: The fact that",
+      "bbox": [
+        543,
+        615,
+        737,
+        638
+      ],
+      "confidence": 0.9745578765869141
+    },
+    {
+      "text": "that person's right to smoke in peace",
+      "bbox": [
+        355,
+        625,
+        534,
+        649
+      ],
+      "confidence": 0.9809892773628235
+    },
+    {
+      "text": "anywhere the long arm of the state can.",
+      "bbox": [
+        355,
+        636,
+        536,
+        660
+      ],
+      "confidence": 0.97255939245224
+    },
+    {
+      "text": "smokers. are killing themselves doesn't",
+      "bbox": [
+        543,
+        627,
+        738,
+        649
+      ],
+      "confidence": 0.9578701853752136
+    },
+    {
+      "text": "reach to snuff out her cigarette. The",
+      "bbox": [
+        356,
+        645,
+        536,
+        671
+      ],
+      "confidence": 0.973110020160675
+    },
+    {
+      "text": "mean they aren't entitled to some consider-",
+      "bbox": [
+        544,
+        638,
+        739,
+        659
+      ],
+      "confidence": 0.9599190354347229
+    },
+    {
+      "text": "ation when the balance of inconvenience is",
+      "bbox": [
+        544,
+        650,
+        740,
+        671
+      ],
+      "confidence": 0.9940056800842285
+    },
+    {
+      "text": "discomfort and health concerns of non-",
+      "bbox": [
+        357,
+        657,
+        536,
+        680
+      ],
+      "confidence": 0.980160653591156
+    },
+    {
+      "text": "smokers are not a sufficient ex planation for",
+      "bbox": [
+        358,
+        666,
+        538,
+        691
+      ],
+      "confidence": 0.9238272905349731
+    },
+    {
+      "text": "being weighed.",
+      "bbox": [
+        545,
+        663,
+        616,
+        682
+      ],
+      "confidence": 0.9896788597106934
+    },
+    {
+      "text": "the rush to ban smoking in public places.",
+      "bbox": [
+        359,
+        677,
+        538,
+        701
+      ],
+      "confidence": 0.9739716649055481
+    },
+    {
+      "text": "the new chairman of the CAB. voted",
+      "bbox": [
+        546,
+        682,
+        739,
+        702
+      ],
+      "confidence": 0.9909682273864746
+    },
+    {
+      "text": "We note with pleasure that Alfred Kahn,",
+      "bbox": [
+        555,
+        671,
+        739,
+        691
+      ],
+      "confidence": 0.9799529910087585
+    },
+    {
+      "text": "Smokers are our new official pariahs, and",
+      "bbox": [
+        359,
+        688,
+        538,
+        710
+      ],
+      "confidence": 0.9588780999183655
+    },
+    {
+      "text": "against the cigar and pipe ban. Kahn is an",
+      "bbox": [
+        548,
+        693,
+        740,
+        713
+      ],
+      "confidence": 0.9856352210044861
+    },
+    {
+      "text": "smoking is the last personal vice that can be",
+      "bbox": [
+        360,
+        698,
+        538,
+        720
+      ],
+      "confidence": 0.9440980553627014
+    },
+    {
+      "text": "officially identified and punished as such.",
+      "bbox": [
+        361,
+        708,
+        537,
+        730
+      ],
+      "confidence": 0.9589967727661133
+    },
+    {
+      "text": "economist and the leading specialist in the",
+      "bbox": [
+        548,
+        706,
+        739,
+        723
+      ],
+      "confidence": 0.9768585562705994
+    },
+    {
+      "text": "The Civil Aeronautics Board has decided",
+      "bbox": [
+        372,
+        719,
+        540,
+        740
+      ],
+      "confidence": 0.987348198890686
+    },
+    {
+      "text": "economics of regulated industries. Select-",
+      "bbox": [
+        549,
+        716,
+        740,
+        733
+      ],
+      "confidence": 0.984062671661377
+    },
+    {
+      "text": "ing him —- instead of one of the usual run of",
+      "bbox": [
+        549,
+        726,
+        741,
+        743
+      ],
+      "confidence": 0.9319912195205688
+    },
+    {
+      "text": "commercial airliners. and is pondering a",
+      "bbox": [
+        362,
+        738,
+        542,
+        761
+      ],
+      "confidence": 0.9577037692070007
+    },
+    {
+      "text": "to bun all pipe and cigar smoking on",
+      "bbox": [
+        363,
+        729,
+        541,
+        750
+      ],
+      "confidence": 0.9694547653198242
+    },
+    {
+      "text": "defunct politicians and revolving-door",
+      "bbox": [
+        550,
+        738,
+        738,
+        752
+      ],
+      "confidence": 0.977485179901123
+    },
+    {
+      "text": "rule banning cigarettes as well. This is the",
+      "bbox": [
+        364,
+        749,
+        542,
+        770
+      ],
+      "confidence": 0.9756101965904236
+    },
+    {
+      "text": "lawyers-was one of President Carter's",
+      "bbox": [
+        551,
+        748,
+        739,
+        762
+      ],
+      "confidence": 0.9931606650352478
+    },
+    {
+      "text": "kind of idea that gives government regula-",
+      "bbox": [
+        365,
+        759,
+        542,
+        780
+      ],
+      "confidence": 0.9892064929008484
+    },
+    {
+      "text": "tion a bad name. Smokers already are",
+      "bbox": [
+        366,
+        769,
+        543,
+        791
+      ],
+      "confidence": 0.95536208152771
+    },
+    {
+      "text": "most imaginative appointments. For 30",
+      "bbox": [
+        551,
+        758,
+        739,
+        773
+      ],
+      "confidence": 0.9856160879135132
+    },
+    {
+      "text": "years the CAB has stifled competition. in",
+      "bbox": [
+        551,
+        768,
+        739,
+        783
+      ],
+      "confidence": 0.9501301646232605
+    },
+    {
+      "text": "segregated at the back of the plane, where",
+      "bbox": [
+        366,
+        779,
+        542,
+        801
+      ],
+      "confidence": 0.9806578755378723
+    },
+    {
+      "text": "the airline industry by forbidding new",
+      "bbox": [
+        552,
+        778,
+        739,
+        793
+      ],
+      "confidence": 0.9860926270484924
+    },
+    {
+      "text": "they can cough and wheeze and dse slowly",
+      "bbox": [
+        367,
+        789,
+        543,
+        811
+      ],
+      "confidence": 0.9780481457710266
+    },
+    {
+      "text": "among their own kind. Apparently this is",
+      "bbox": [
+        368,
+        799,
+        543,
+        820
+      ],
+      "confidence": 0.9908984899520874
+    },
+    {
+      "text": "entry, restricting routes and setting prices.",
+      "bbox": [
+        553,
+        789,
+        738,
+        802
+      ],
+      "confidence": 0.9773020148277283
+    },
+    {
+      "text": "The proposed smoking ban is just the latest",
+      "bbox": [
+        555,
+        801,
+        739,
+        811
+      ],
+      "confidence": 0.983417272567749
+    },
+    {
+      "text": "not sufficient. Apparently the dangen that",
+      "bbox": [
+        368,
+        809,
+        543,
+        830
+      ],
+      "confidence": 0.9724714159965515
+    },
+    {
+      "text": "example of neediess and inept regulatory",
+      "bbox": [
+        554,
+        810,
+        740,
+        824
+      ],
+      "confidence": 0.9873708486557007
+    },
+    {
+      "text": "an oxcasional wisp of smoke will drift",
+      "bbox": [
+        369,
+        819,
+        544,
+        840
+      ],
+      "confidence": 0.9437690377235413
+    },
+    {
+      "text": "forward to irritate a non-smoker is more",
+      "bbox": [
+        369,
+        829,
+        544,
+        848
+      ],
+      "confidence": 0.9843255877494812
+    },
+    {
+      "text": "intervention. We're happy to see that Mr.",
+      "bbox": [
+        554,
+        821,
+        740,
+        834
+      ],
+      "confidence": 0.9863316416740417
+    },
+    {
+      "text": "Kahn hasn't foresaken his principles just",
+      "bbox": [
+        554,
+        829,
+        740,
+        845
+      ],
+      "confidence": 0.9894573092460632
+    },
+    {
+      "text": "important than the genuine misery mil-",
+      "bbox": [
+        371,
+        840,
+        543,
+        858
+      ],
+      "confidence": 0.9903234243392944
+    },
+    {
+      "text": "because this particular intervention has the",
+      "bbox": [
+        555,
+        840,
+        739,
+        854
+      ],
+      "confidence": 0.985500693321228
+    },
+    {
+      "text": "lioms of nicotine addicts will suffer from",
+      "bbox": [
+        370,
+        849,
+        545,
+        867
+      ],
+      "confidence": 0.9754683375358582
+    },
+    {
+      "text": "false appearance of being pro-consumer.",
+      "bbox": [
+        556,
+        850,
+        733,
+        864
+      ],
+      "confidence": 0.984380841255188
+    },
+    {
+      "text": "The New Republic",
+      "bbox": [
+        376,
+        902,
+        454,
+        914
+      ],
+      "confidence": 0.9957133531570435
+    },
+    {
+      "text": "Michael Kinsley",
+      "bbox": [
+        662,
+        901,
+        739,
+        916
+      ],
+      "confidence": 0.969706118106842
+    },
+    {
+      "text": "December 10, 1977",
+      "bbox": [
+        376,
+        912,
+        456,
+        922
+      ],
+      "confidence": 0.9914016723632812
+    },
+    {
+      "text": "Managing Editor",
+      "bbox": [
+        660,
+        912,
+        740,
+        929
+      ],
+      "confidence": 0.9669243693351746
+    }
+  ],
+  "full_text": "As seen\nin the December 10th\nsissue of\nITHE NEW REPUBLIC\n03046848\nThe Right to Smoke\ngoing without tobacco for the course of a.\nlengthy airplane ride. Of course since they\nMost of us at this jourmal do not smoke, but\nthat does not mean we have lost all fellow\nare smokers their misery doesn't count..\nfeeling with those in whom human weak.\nServes them right, as a matter of fact.\nness takes this particular form: Smoking. it\nto non-smokers, and apparently it can be\nCigarette smcke is genuinely annoying\nseems, is rapidly becoming an exception to\nnormal rules of decorum and tolerance.\ndangerous to them. as well. Rules to\nThere are people who pride themselves on.\nmanimize this annoyance and danger are\nthe way they graciously accept the foolish-\nreasomable, even if they <ause minor\nness and impositions to which life with\nother people subjects them, but who feel\ninconvenience to the smoker. A ban of\nsmoking in elevators. for example,. where\nfree to assert the rigid invlabiity of ther\npeople are packed tight without much\npersonal space whien it is threatened by a\nwhiff of cigarette smoke. Thereare liberals\ncirculation and the duration of the ride is\nwho indignantly defend a person's right to\nrot her own mind with drugs. or to invade\nothers\" privacy with unwanted publicity\nents: this is a case where separate-but-\nand humiliation by the exercise of free\nequal works. But everyday life carries with\nit inevitable irritations, and even health\nspeech, but who just as indignantly deny\nrisks, caused by other people: The fact that\nthat person's right to smoke in peace\nanywhere the long arm of the state can.\nsmokers. are killing themselves doesn't\nreach to snuff out her cigarette. The\nmean they aren't entitled to some consider-\nation when the balance of inconvenience is\ndiscomfort and health concerns of non-\nsmokers are not a sufficient ex planation for\nbeing weighed.\nthe rush to ban smoking in public places.\nthe new chairman of the CAB. voted\nWe note with pleasure that Alfred Kahn,\nSmokers are our new official pariahs, and\nagainst the cigar and pipe ban. Kahn is an\nsmoking is the last personal vice that can be\nofficially identified and punished as such.\neconomist and the leading specialist in the\nThe Civil Aeronautics Board has decided\neconomics of regulated industries. Select-\ning him —- instead of one of the usual run of\ncommercial airliners. and is pondering a\nto bun all pipe and cigar smoking on\ndefunct politicians and revolving-door\nrule banning cigarettes as well. This is the\nlawyers-was one of President Carter's\nkind of idea that gives government regula-\ntion a bad name. Smokers already are\nmost imaginative appointments. For 30\nyears the CAB has stifled competition. in\nsegregated at the back of the plane, where\nthe airline industry by forbidding new\nthey can cough and wheeze and dse slowly\namong their own kind. Apparently this is\nentry, restricting routes and setting prices.\nThe proposed smoking ban is just the latest\nnot sufficient. Apparently the dangen that\nexample of neediess and inept regulatory\nan oxcasional wisp of smoke will drift\nforward to irritate a non-smoker is more\nintervention. We're happy to see that Mr.\nKahn hasn't foresaken his principles just\nimportant than the genuine misery mil-\nbecause this particular intervention has the\nlioms of nicotine addicts will suffer from\nfalse appearance of being pro-consumer.\nThe New Republic\nMichael Kinsley\nDecember 10, 1977\nManaging Editor"
+}

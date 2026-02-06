@@ -1,0 +1,481 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0064.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "INBiFO Institut für biologische Forschung : Koll",
+      "bbox": [
+        76,
+        0,
+        437,
+        19
+      ],
+      "confidence": 0.9643363952636719
+    },
+    {
+      "text": "FORM 44.KW 92 ERO/MWO |MISCOBJECT.WM",
+      "bbox": [
+        72,
+        16,
+        379,
+        39
+      ],
+      "confidence": 0.9469448924064636
+    },
+    {
+      "text": "GENERAL OBJECTIVE AND SPECIFICATIONS",
+      "bbox": [
+        74,
+        76,
+        439,
+        101
+      ],
+      "confidence": 0.9931983947753906
+    },
+    {
+      "text": "P0≤0016544",
+      "bbox": [
+        611,
+        69,
+        759,
+        100
+      ],
+      "confidence": 0.8184297680854797
+    },
+    {
+      "text": "Publication",
+      "bbox": [
+        140,
+        141,
+        300,
+        187
+      ],
+      "confidence": 0.899107038974762
+    },
+    {
+      "text": "ART DER UNTERSUCHUNG",
+      "bbox": [
+        78,
+        434,
+        260,
+        453
+      ],
+      "confidence": 0.9986085891723633
+    },
+    {
+      "text": "OHNE TIERE:",
+      "bbox": [
+        362,
+        471,
+        455,
+        491
+      ],
+      "confidence": 0.9966215491294861
+    },
+    {
+      "text": "MIT TIEREN:",
+      "bbox": [
+        90,
+        474,
+        174,
+        488
+      ],
+      "confidence": 0.9938123226165771
+    },
+    {
+      "text": "TIERSPEZIES:",
+      "bbox": [
+        89,
+        498,
+        178,
+        512
+      ],
+      "confidence": 0.9998095631599426
+    },
+    {
+      "text": "GESCHATZTE TIERZAHL:",
+      "bbox": [
+        88,
+        521,
+        253,
+        535
+      ],
+      "confidence": 0.9635394215583801
+    },
+    {
+      "text": "ART DER TIERVERWENDUNG:",
+      "bbox": [
+        85,
+        543,
+        285,
+        562
+      ],
+      "confidence": 0.9894140362739563
+    },
+    {
+      "text": "GENEHMIGUNGSPFLICHT:",
+      "bbox": [
+        83,
+        594,
+        259,
+        613
+      ],
+      "confidence": 0.9998384714126587
+    },
+    {
+      "text": "ANZEIGEPFLICHT:",
+      "bbox": [
+        321,
+        594,
+        447,
+        614
+      ],
+      "confidence": 0.9997701644897461
+    },
+    {
+      "text": "KEIN TIERVERSUCH",
+      "bbox": [
+        540,
+        597,
+        680,
+        614
+      ],
+      "confidence": 0.9996311068534851
+    },
+    {
+      "text": "IM SINNE DES",
+      "bbox": [
+        541,
+        612,
+        637,
+        626
+      ],
+      "confidence": 0.9837405681610107
+    },
+    {
+      "text": "Zweck gem. § 7 (2) TierSchG",
+      "bbox": [
+        80,
+        632,
+        252,
+        651
+      ],
+      "confidence": 0.9698275923728943
+    },
+    {
+      "text": "Grundlage gem. § 8 (7) TierSchG",
+      "bbox": [
+        321,
+        635,
+        512,
+        652
+      ],
+      "confidence": 0.9706356525421143
+    },
+    {
+      "text": "TierSchG",
+      "bbox": [
+        540,
+        625,
+        598,
+        639
+      ],
+      "confidence": 0.9963464736938477
+    },
+    {
+      "text": "1.Krankheiten",
+      "bbox": [
+        78,
+        656,
+        167,
+        676
+      ],
+      "confidence": 0.9950419068336487
+    },
+    {
+      "text": "1a) Gesetz, Rechts-",
+      "bbox": [
+        320,
+        660,
+        431,
+        677
+      ],
+      "confidence": 0.9579695463180542
+    },
+    {
+      "text": "Bei Verwendung von",
+      "bbox": [
+        538,
+        660,
+        663,
+        679
+      ],
+      "confidence": 0.9718719124794006
+    },
+    {
+      "text": "2, Umwelt",
+      "bbox": [
+        76,
+        679,
+        141,
+        702
+      ],
+      "confidence": 0.9048848748207092
+    },
+    {
+      "text": "verordnung",
+      "bbox": [
+        337,
+        672,
+        408,
+        692
+      ],
+      "confidence": 0.8999807238578796
+    },
+    {
+      "text": "Tieren ist bei",
+      "bbox": [
+        539,
+        673,
+        618,
+        691
+      ],
+      "confidence": 0.9809530973434448
+    },
+    {
+      "text": "Verwaltungs-",
+      "bbox": [
+        321,
+        684,
+        419,
+        704
+      ],
+      "confidence": 0.99155193567276
+    },
+    {
+      "text": "Nedm Fal",
+      "bbox": [
+        537,
+        684,
+        665,
+        702
+      ],
+      "confidence": 0.6442800760269165
+    },
+    {
+      "text": "3. Unbedenklichkeit",
+      "bbox": [
+        75,
+        705,
+        194,
+        726
+      ],
+      "confidence": 0.9798561930656433
+    },
+    {
+      "text": "c)",
+      "bbox": [
+        318,
+        711,
+        337,
+        728
+      ],
+      "confidence": 0.9323794841766357
+    },
+    {
+      "text": "vorschrift",
+      "bbox": [
+        338,
+        699,
+        398,
+        716
+      ],
+      "confidence": 0.8876693844795227
+    },
+    {
+      "text": "Richter,",
+      "bbox": [
+        338,
+        711,
+        388,
+        726
+      ],
+      "confidence": 0.9611778259277344
+    },
+    {
+      "text": "cine Tierfreigabe",
+      "bbox": [
+        538,
+        699,
+        638,
+        716
+      ],
+      "confidence": 0.93756103515625
+    },
+    {
+      "text": "erforderlich",
+      "bbox": [
+        538,
+        712,
+        608,
+        726
+      ],
+      "confidence": 0.96088045835495
+    },
+    {
+      "text": "Behörde",
+      "bbox": [
+        338,
+        721,
+        389,
+        738
+      ],
+      "confidence": 0.9083758592605591
+    },
+    {
+      "text": "4.Grundlagen",
+      "bbox": [
+        73,
+        730,
+        161,
+        751
+      ],
+      "confidence": 0.9110476970672607
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        317,
+        735,
+        337,
+        752
+      ],
+      "confidence": 0.949160099029541
+    },
+    {
+      "text": "Diagnostik,",
+      "bbox": [
+        337,
+        735,
+        406,
+        752
+      ],
+      "confidence": 0.9196403622627258
+    },
+    {
+      "text": "Prufung",
+      "bbox": [
+        336,
+        745,
+        388,
+        765
+      ],
+      "confidence": 0.831781268119812
+    },
+    {
+      "text": "BETEILIGTE TEAMS () MOLR CS",
+      "bbox": [
+        67,
+        782,
+        389,
+        814
+      ],
+      "confidence": 0.9610335826873779
+    },
+    {
+      "text": "DATE/SIGN (SD)",
+      "bbox": [
+        426,
+        787,
+        536,
+        811
+      ],
+      "confidence": 0.9387029409408569
+    },
+    {
+      "text": "8.Zün.93",
+      "bbox": [
+        545,
+        779,
+        678,
+        818
+      ],
+      "confidence": 0.9201316833496094
+    },
+    {
+      "text": "ROUGH TIME/COST AND DURATION ESTIMATE and GENERAL OBJECTIVES AND SPECIFICATIONS",
+      "bbox": [
+        65,
+        830,
+        709,
+        853
+      ],
+      "confidence": 0.9947884678840637
+    },
+    {
+      "text": "acknowledged:",
+      "bbox": [
+        64,
+        851,
+        160,
+        871
+      ],
+      "confidence": 0.9988604187965393
+    },
+    {
+      "text": "0 8 JUN 1993",
+      "bbox": [
+        213,
+        875,
+        330,
+        903
+      ],
+      "confidence": 0.9938938617706299
+    },
+    {
+      "text": "DATE/SION (GM) 9",
+      "bbox": [
+        420,
+        872,
+        698,
+        915
+      ],
+      "confidence": 0.802027702331543
+    },
+    {
+      "text": "DATE/SIGN (BR2M)",
+      "bbox": [
+        64,
+        883,
+        202,
+        904
+      ],
+      "confidence": 0.9502370357513428
+    },
+    {
+      "text": "(a) Teams, die Subreports zu erstellen haben, sind zu unterstreichen.",
+      "bbox": [
+        45,
+        966,
+        442,
+        997
+      ],
+      "confidence": 0.9796059727668762
+    },
+    {
+      "text": "GELB",
+      "bbox": [
+        627,
+        982,
+        656,
+        997
+      ],
+      "confidence": 0.9995093941688538
+    }
+  ],
+  "full_text": "INBiFO Institut für biologische Forschung : Koll\nFORM 44.KW 92 ERO/MWO |MISCOBJECT.WM\nGENERAL OBJECTIVE AND SPECIFICATIONS\nP0≤0016544\nPublication\nART DER UNTERSUCHUNG\nOHNE TIERE:\nMIT TIEREN:\nTIERSPEZIES:\nGESCHATZTE TIERZAHL:\nART DER TIERVERWENDUNG:\nGENEHMIGUNGSPFLICHT:\nANZEIGEPFLICHT:\nKEIN TIERVERSUCH\nIM SINNE DES\nZweck gem. § 7 (2) TierSchG\nGrundlage gem. § 8 (7) TierSchG\nTierSchG\n1.Krankheiten\n1a) Gesetz, Rechts-\nBei Verwendung von\n2, Umwelt\nverordnung\nTieren ist bei\nVerwaltungs-\nNedm Fal\n3. Unbedenklichkeit\nc)\nvorschrift\nRichter,\ncine Tierfreigabe\nerforderlich\nBehörde\n4.Grundlagen\n2)\nDiagnostik,\nPrufung\nBETEILIGTE TEAMS () MOLR CS\nDATE/SIGN (SD)\n8.Zün.93\nROUGH TIME/COST AND DURATION ESTIMATE and GENERAL OBJECTIVES AND SPECIFICATIONS\nacknowledged:\n0 8 JUN 1993\nDATE/SION (GM) 9\nDATE/SIGN (BR2M)\n(a) Teams, die Subreports zu erstellen haben, sind zu unterstreichen.\nGELB"
+}

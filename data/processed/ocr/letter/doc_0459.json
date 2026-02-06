@@ -1,0 +1,351 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0459.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "WILLIAM ESTY COMPANY",
+      "bbox": [
+        227,
+        16,
+        508,
+        50
+      ],
+      "confidence": 0.9984405636787415
+    },
+    {
+      "text": "INCORPORATED",
+      "bbox": [
+        332,
+        40,
+        407,
+        57
+      ],
+      "confidence": 0.9749586582183838
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        305,
+        61,
+        432,
+        83
+      ],
+      "confidence": 0.999779462814331
+    },
+    {
+      "text": "100 CAST 42** STREET",
+      "bbox": [
+        563,
+        110,
+        681,
+        127
+      ],
+      "confidence": 0.9124341011047363
+    },
+    {
+      "text": "NEW YORK, N. Y. 10017",
+      "bbox": [
+        563,
+        125,
+        685,
+        141
+      ],
+      "confidence": 0.9484050273895264
+    },
+    {
+      "text": "(212) 607-1600",
+      "bbox": [
+        564,
+        139,
+        642,
+        154
+      ],
+      "confidence": 0.9157788157463074
+    },
+    {
+      "text": "May 30, 1978",
+      "bbox": [
+        349,
+        188,
+        452,
+        205
+      ],
+      "confidence": 0.9689769148826599
+    },
+    {
+      "text": "Mr. S. C. Wooten, Jr.",
+      "bbox": [
+        59,
+        265,
+        234,
+        283
+      ],
+      "confidence": 0.96598881483078
+    },
+    {
+      "text": "Marketing Department",
+      "bbox": [
+        61,
+        284,
+        227,
+        298
+      ],
+      "confidence": 0.9984080195426941
+    },
+    {
+      "text": "R. J. Reynolds Tobacco Company",
+      "bbox": [
+        59,
+        297,
+        309,
+        317
+      ],
+      "confidence": 0.9858390688896179
+    },
+    {
+      "text": "Winston-Salem, North Carolina",
+      "bbox": [
+        59,
+        313,
+        301,
+        332
+      ],
+      "confidence": 0.9979968070983887
+    },
+    {
+      "text": "Dear Sid:",
+      "bbox": [
+        58,
+        347,
+        136,
+        364
+      ],
+      "confidence": 0.995833694934845
+    },
+    {
+      "text": "This letter forwards to you the April update to the Competitive Advertis-",
+      "bbox": [
+        61,
+        380,
+        660,
+        394
+      ],
+      "confidence": 0.9787927865982056
+    },
+    {
+      "text": "ing Book and the April and May tearsheets of new competitive ads.",
+      "bbox": [
+        60,
+        394,
+        594,
+        412
+      ],
+      "confidence": 0.9919583797454834
+    },
+    {
+      "text": "The Competitive Spending Summary shows the following:",
+      "bbox": [
+        60,
+        426,
+        496,
+        445
+      ],
+      "confidence": 0.9878522157669067
+    },
+    {
+      "text": "American Brands",
+      "bbox": [
+        60,
+        461,
+        187,
+        478
+      ],
+      "confidence": 0.9745864868164062
+    },
+    {
+      "text": "Carlton has received 44% of total spending for the year-to-date.",
+      "bbox": [
+        90,
+        487,
+        618,
+        512
+      ],
+      "confidence": 0.9793092012405396
+    },
+    {
+      "text": ".",
+      "bbox": [
+        62,
+        502,
+        71,
+        510
+      ],
+      "confidence": 0.7076463103294373
+    },
+    {
+      "text": "Pall Mall Extra Lights is now being advertised separately, receiv-",
+      "bbox": [
+        91,
+        520,
+        636,
+        543
+      ],
+      "confidence": 0.9917672872543335
+    },
+    {
+      "text": "ing 55% of Pall Mall's budget in April.",
+      "bbox": [
+        92,
+        538,
+        413,
+        560
+      ],
+      "confidence": 0.9845473170280457
+    },
+    {
+      "text": "Tareyton continues to support only their Lights, although there was",
+      "bbox": [
+        91,
+        569,
+        644,
+        590
+      ],
+      "confidence": 0.9950587749481201
+    },
+    {
+      "text": "no spending against Menthol Lights in April.",
+      "bbox": [
+        91,
+        585,
+        454,
+        607
+      ],
+      "confidence": 0.9893077611923218
+    },
+    {
+      "text": "Brown & Williamson",
+      "bbox": [
+        58,
+        618,
+        211,
+        638
+      ],
+      "confidence": 0.9959956407546997
+    },
+    {
+      "text": "Fact received no advertising support in April.",
+      "bbox": [
+        91,
+        648,
+        470,
+        669
+      ],
+      "confidence": 0.9930526614189148
+    },
+    {
+      "text": "Kool Super Lights has received 53% of Kool's total budget of",
+      "bbox": [
+        91,
+        679,
+        587,
+        701
+      ],
+      "confidence": 0.9905345439910889
+    },
+    {
+      "text": "$4,188M to date; however, in April Kool Super Lights received 86%",
+      "bbox": [
+        91,
+        697,
+        628,
+        717
+      ],
+      "confidence": 0.979889452457428
+    },
+    {
+      "text": "of the Kool budget with Kool Super Lights Longs receiving 66% of",
+      "bbox": [
+        91,
+        714,
+        620,
+        732
+      ],
+      "confidence": 0.9964699745178223
+    },
+    {
+      "text": "that.",
+      "bbox": [
+        93,
+        733,
+        135,
+        748
+      ],
+      "confidence": 0.9998829960823059
+    },
+    {
+      "text": "Viceroy received no spending in April.",
+      "bbox": [
+        91,
+        763,
+        405,
+        780
+      ],
+      "confidence": 0.9764071106910706
+    },
+    {
+      "text": "Liggett & Myers",
+      "bbox": [
+        57,
+        794,
+        188,
+        813
+      ],
+      "confidence": 0.9865500926971436
+    },
+    {
+      "text": "Decade continued to receive 55% of the magazine spending with L&M",
+      "bbox": [
+        89,
+        826,
+        631,
+        844
+      ],
+      "confidence": 0.9840174317359924
+    },
+    {
+      "text": "Lights receiving 45%.",
+      "bbox": [
+        91,
+        845,
+        266,
+        859
+      ],
+      "confidence": 0.9995498657226562
+    },
+    {
+      "text": "80% of Decade's spending is dual flavor (regular & menthol), while",
+      "bbox": [
+        89,
+        875,
+        639,
+        893
+      ],
+      "confidence": 0.9783874154090881
+    },
+    {
+      "text": "11% was devoted to menthol only.",
+      "bbox": [
+        92,
+        894,
+        356,
+        908
+      ],
+      "confidence": 0.9842872619628906
+    }
+  ],
+  "full_text": "WILLIAM ESTY COMPANY\nINCORPORATED\nADVERTISING\n100 CAST 42** STREET\nNEW YORK, N. Y. 10017\n(212) 607-1600\nMay 30, 1978\nMr. S. C. Wooten, Jr.\nMarketing Department\nR. J. Reynolds Tobacco Company\nWinston-Salem, North Carolina\nDear Sid:\nThis letter forwards to you the April update to the Competitive Advertis-\ning Book and the April and May tearsheets of new competitive ads.\nThe Competitive Spending Summary shows the following:\nAmerican Brands\nCarlton has received 44% of total spending for the year-to-date.\n.\nPall Mall Extra Lights is now being advertised separately, receiv-\ning 55% of Pall Mall's budget in April.\nTareyton continues to support only their Lights, although there was\nno spending against Menthol Lights in April.\nBrown & Williamson\nFact received no advertising support in April.\nKool Super Lights has received 53% of Kool's total budget of\n$4,188M to date; however, in April Kool Super Lights received 86%\nof the Kool budget with Kool Super Lights Longs receiving 66% of\nthat.\nViceroy received no spending in April.\nLiggett & Myers\nDecade continued to receive 55% of the magazine spending with L&M\nLights receiving 45%.\n80% of Decade's spending is dual flavor (regular & menthol), while\n11% was devoted to menthol only."
+}

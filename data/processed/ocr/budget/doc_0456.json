@@ -1,0 +1,501 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0456.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Electrically Regenerated Activated Carbon Fiber",
+      "bbox": [
+        67,
+        91,
+        370,
+        110
+      ],
+      "confidence": 0.997416615486145
+    },
+    {
+      "text": "Cloths for Exposure Reduction of Tobacca Smoke",
+      "bbox": [
+        67,
+        107,
+        381,
+        126
+      ],
+      "confidence": 0.9805923700332642
+    },
+    {
+      "text": "upt-Projekt 2114: Philip Morris",
+      "bbox": [
+        69,
+        123,
+        260,
+        142
+      ],
+      "confidence": 0.9948562979698181
+    },
+    {
+      "text": "RESEARCHER: upt GmbH, Im Stadtwald 47, Saarbrücken, Germany D-66123",
+      "bbox": [
+        68,
+        135,
+        541,
+        157
+      ],
+      "confidence": 0.9964300394058228
+    },
+    {
+      "text": "1st 12 month period Apr. 2001 thru Mar. 2002",
+      "bbox": [
+        69,
+        182,
+        351,
+        205
+      ],
+      "confidence": 0.985561728477478
+    },
+    {
+      "text": "Category",
+      "bbox": [
+        68,
+        216,
+        130,
+        238
+      ],
+      "confidence": 0.9963066577911377
+    },
+    {
+      "text": "USD 1st period",
+      "bbox": [
+        370,
+        210,
+        468,
+        229
+      ],
+      "confidence": 0.9990449547767639
+    },
+    {
+      "text": "proportion",
+      "bbox": [
+        491,
+        209,
+        564,
+        229
+      ],
+      "confidence": 0.9645201563835144
+    },
+    {
+      "text": "Quart. billing",
+      "bbox": [
+        596,
+        209,
+        679,
+        226
+      ],
+      "confidence": 0.9850254654884338
+    },
+    {
+      "text": "%",
+      "bbox": [
+        547,
+        227,
+        564,
+        241
+      ],
+      "confidence": 0.9978082776069641
+    },
+    {
+      "text": "Apr. - Jun. 2001",
+      "bbox": [
+        575,
+        223,
+        680,
+        242
+      ],
+      "confidence": 0.9420604705810547
+    },
+    {
+      "text": "102.407",
+      "bbox": [
+        416,
+        254,
+        470,
+        274
+      ],
+      "confidence": 0.9996577501296997
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        532,
+        256,
+        565,
+        273
+      ],
+      "confidence": 0.9941632747650146
+    },
+    {
+      "text": "23.042",
+      "bbox": [
+        634,
+        251,
+        681,
+        271
+      ],
+      "confidence": 0.9997897744178772
+    },
+    {
+      "text": "a) Salaries",
+      "bbox": [
+        70,
+        263,
+        137,
+        282
+      ],
+      "confidence": 0.899962842464447
+    },
+    {
+      "text": "0",
+      "bbox": [
+        457,
+        272,
+        469,
+        287
+      ],
+      "confidence": 0.9527556896209717
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        533,
+        271,
+        564,
+        287
+      ],
+      "confidence": 0.9935688972473145
+    },
+    {
+      "text": "0",
+      "bbox": [
+        667,
+        269,
+        679,
+        283
+      ],
+      "confidence": 0.9069857001304626
+    },
+    {
+      "text": "b) Consultants",
+      "bbox": [
+        72,
+        280,
+        159,
+        294
+      ],
+      "confidence": 0.9378089308738708
+    },
+    {
+      "text": "15.250",
+      "bbox": [
+        425,
+        287,
+        469,
+        302
+      ],
+      "confidence": 0.9995012283325195
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        533,
+        284,
+        565,
+        303
+      ],
+      "confidence": 0.9958017468452454
+    },
+    {
+      "text": "3.431",
+      "bbox": [
+        642,
+        282,
+        680,
+        300
+      ],
+      "confidence": 0.9996421933174133
+    },
+    {
+      "text": "c) Supplies & Expenses",
+      "bbox": [
+        72,
+        294,
+        212,
+        311
+      ],
+      "confidence": 0.9874556064605713
+    },
+    {
+      "text": "5.000",
+      "bbox": [
+        431,
+        300,
+        470,
+        319
+      ],
+      "confidence": 0.9993406534194946
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        534,
+        300,
+        565,
+        317
+      ],
+      "confidence": 0.917585015296936
+    },
+    {
+      "text": "1.125",
+      "bbox": [
+        643,
+        296,
+        681,
+        315
+      ],
+      "confidence": 0.9973919987678528
+    },
+    {
+      "text": " Travel Expenses",
+      "bbox": [
+        72,
+        308,
+        189,
+        327
+      ],
+      "confidence": 0.9780251979827881
+    },
+    {
+      "text": "e)Alterations and Renovations",
+      "bbox": [
+        72,
+        321,
+        254,
+        343
+      ],
+      "confidence": 0.9729063510894775
+    },
+    {
+      "text": "0",
+      "bbox": [
+        457,
+        318,
+        470,
+        333
+      ],
+      "confidence": 0.9933474659919739
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        532,
+        312,
+        566,
+        334
+      ],
+      "confidence": 0.9952424764633179
+    },
+    {
+      "text": "0",
+      "bbox": [
+        668,
+        312,
+        681,
+        327
+      ],
+      "confidence": 0.9988850951194763
+    },
+    {
+      "text": "TOTAL DIRECT COSTS without Equipment",
+      "bbox": [
+        71,
+        334,
+        331,
+        358
+      ],
+      "confidence": 0.9484459757804871
+    },
+    {
+      "text": "122.657",
+      "bbox": [
+        418,
+        329,
+        472,
+        350
+      ],
+      "confidence": 0.9989951252937317
+    },
+    {
+      "text": "22,5",
+      "bbox": [
+        532,
+        326,
+        566,
+        348
+      ],
+      "confidence": 0.9907941222190857
+    },
+    {
+      "text": "27.598",
+      "bbox": [
+        635,
+        323,
+        682,
+        344
+      ],
+      "confidence": 0.9957507252693176
+    },
+    {
+      "text": "8.350",
+      "bbox": [
+        434,
+        361,
+        471,
+        376
+      ],
+      "confidence": 0.999768078327179
+    },
+    {
+      "text": "0,0",
+      "bbox": [
+        540,
+        355,
+        568,
+        378
+      ],
+      "confidence": 0.9843730926513672
+    },
+    {
+      "text": "27.598",
+      "bbox": [
+        637,
+        367,
+        685,
+        387
+      ],
+      "confidence": 0.9951684474945068
+    },
+    {
+      "text": "0",
+      "bbox": [
+        670,
+        355,
+        682,
+        369
+      ],
+      "confidence": 0.9959697723388672
+    },
+    {
+      "text": " TOTAL DIRECT COSTS",
+      "bbox": [
+        74,
+        382,
+        236,
+        401
+      ],
+      "confidence": 0.9848478436470032
+    },
+    {
+      "text": "1) Equipment",
+      "bbox": [
+        75,
+        371,
+        152,
+        385
+      ],
+      "confidence": 0.9727955460548401
+    },
+    {
+      "text": "131.007",
+      "bbox": [
+        419,
+        374,
+        472,
+        393
+      ],
+      "confidence": 0.9993670582771301
+    },
+    {
+      "text": "30.664",
+      "bbox": [
+        426,
+        389,
+        474,
+        409
+      ],
+      "confidence": 0.9985589981079102
+    },
+    {
+      "text": "6.899",
+      "bbox": [
+        647,
+        384,
+        683,
+        399
+      ],
+      "confidence": 0.9994933009147644
+    },
+    {
+      "text": "Indirect costs 25% a-e",
+      "bbox": [
+        75,
+        398,
+        223,
+        416
+      ],
+      "confidence": 0.9868835210800171
+    },
+    {
+      "text": "34.497",
+      "bbox": [
+        641,
+        411,
+        685,
+        429
+      ],
+      "confidence": 0.9997175335884094
+    },
+    {
+      "text": "161.671",
+      "bbox": [
+        421,
+        418,
+        473,
+        438
+      ],
+      "confidence": 0.9985249638557434
+    },
+    {
+      "text": "SUM",
+      "bbox": [
+        77,
+        429,
+        110,
+        445
+      ],
+      "confidence": 0.9997022151947021
+    },
+    {
+      "text": "2085533485",
+      "bbox": [
+        699,
+        631,
+        736,
+        747
+      ],
+      "confidence": 0.9999544024467468
+    }
+  ],
+  "full_text": "Electrically Regenerated Activated Carbon Fiber\nCloths for Exposure Reduction of Tobacca Smoke\nupt-Projekt 2114: Philip Morris\nRESEARCHER: upt GmbH, Im Stadtwald 47, Saarbrücken, Germany D-66123\n1st 12 month period Apr. 2001 thru Mar. 2002\nCategory\nUSD 1st period\nproportion\nQuart. billing\n%\nApr. - Jun. 2001\n102.407\n22,5\n23.042\na) Salaries\n0\n22,5\n0\nb) Consultants\n15.250\n22,5\n3.431\nc) Supplies & Expenses\n5.000\n22,5\n1.125\n Travel Expenses\ne)Alterations and Renovations\n0\n22,5\n0\nTOTAL DIRECT COSTS without Equipment\n122.657\n22,5\n27.598\n8.350\n0,0\n27.598\n0\n TOTAL DIRECT COSTS\n1) Equipment\n131.007\n30.664\n6.899\nIndirect costs 25% a-e\n34.497\n161.671\nSUM\n2085533485"
+}

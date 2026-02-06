@@ -1,0 +1,421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0158.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE DEVELOPMENT AND COMMERCIAL PRODUCTION OF BARCLAY",
+      "bbox": [
+        168,
+        57,
+        574,
+        78
+      ],
+      "confidence": 0.9961574077606201
+    },
+    {
+      "text": "INTRODUCTION",
+      "bbox": [
+        89,
+        109,
+        187,
+        128
+      ],
+      "confidence": 0.9998149871826172
+    },
+    {
+      "text": "This is a brief history of the technical groups contributions to the",
+      "bbox": [
+        88,
+        132,
+        620,
+        160
+      ],
+      "confidence": 0.9992954134941101
+    },
+    {
+      "text": "development and commercial introduction of BARCLAY, It covers the",
+      "bbox": [
+        89,
+        149,
+        601,
+        175
+      ],
+      "confidence": 0.9643092751502991
+    },
+    {
+      "text": "technical problems that had to be soived and recognizes the major con-",
+      "bbox": [
+        89,
+        164,
+        634,
+        191
+      ],
+      "confidence": 0.9887654185295105
+    },
+    {
+      "text": "tributors to the project.",
+      "bbox": [
+        89,
+        184,
+        283,
+        206
+      ],
+      "confidence": 0.9987716674804688
+    },
+    {
+      "text": "THE INVENTION",
+      "bbox": [
+        89,
+        233,
+        190,
+        247
+      ],
+      "confidence": 0.999277651309967
+    },
+    {
+      "text": "The BARCLAy filter is the brainchild of Bob Johnson, Research Scientist",
+      "bbox": [
+        87,
+        256,
+        637,
+        277
+      ],
+      "confidence": 0.9842771291732788
+    },
+    {
+      "text": "in the Product Department of R&D, Johnson, with powerful encouragement",
+      "bbox": [
+        89,
+        274,
+        635,
+        291
+      ],
+      "confidence": 0.9792700409889221
+    },
+    {
+      "text": "from Bob Sanford, Vice-President of RsD, was seeking a filter for ultra",
+      "bbox": [
+        87,
+        288,
+        635,
+        306
+      ],
+      "confidence": 0.9805045127868652
+    },
+    {
+      "text": "low tar cigarettes that would give better draw characteristics than",
+      "bbox": [
+        88,
+        303,
+        602,
+        321
+      ],
+      "confidence": 0.9889050126075745
+    },
+    {
+      "text": "those conventionally used. Two avenues appeared promising. The first",
+      "bbox": [
+        87,
+        318,
+        625,
+        336
+      ],
+      "confidence": 0.9903246760368347
+    },
+    {
+      "text": "was to perform all smcke attenuation via a ventilated plastic",
+      "bbox": [
+        87,
+        332,
+        556,
+        350
+      ],
+      "confidence": 0.9804955124855042
+    },
+    {
+      "text": "mouthpiece. The second, which eventually evolved to the current",
+      "bbox": [
+        87,
+        347,
+        576,
+        365
+      ],
+      "confidence": 0.9949560165405273
+    },
+    {
+      "text": "grooved filter design, was to channel ventilating air along the filter",
+      "bbox": [
+        87,
+        361,
+        624,
+        382
+      ],
+      "confidence": 0.9804323315620422
+    },
+    {
+      "text": "periphery in some fashion. Johnson prepared numerous samples with a",
+      "bbox": [
+        87,
+        376,
+        609,
+        397
+      ],
+      "confidence": 0.9844896793365479
+    },
+    {
+      "text": "small hand operated mold and selected two designs for more detailed",
+      "bbox": [
+        88,
+        391,
+        601,
+        412
+      ],
+      "confidence": 0.9830189943313599
+    },
+    {
+      "text": "evaluations.' One was the grooved filter as we now know it, the other",
+      "bbox": [
+        89,
+        408,
+        614,
+        425
+      ],
+      "confidence": 0.9634031057357788
+    },
+    {
+      "text": "was the same filter but with the grooves adjacent to the tobacco",
+      "bbox": [
+        89,
+        423,
+        576,
+        441
+      ],
+      "confidence": 0.9936407804489136
+    },
+    {
+      "text": "column. Both versions were evaluated by small consumer panels; mouth",
+      "bbox": [
+        88,
+        437,
+        613,
+        456
+      ],
+      "confidence": 0.9952111840248108
+    },
+    {
+      "text": "end grooves at 4 mg tar and tobacco end grooves at 7.5 mg tar.' The two",
+      "bbox": [
+        88,
+        452,
+        628,
+        472
+      ],
+      "confidence": 0.9713388085365295
+    },
+    {
+      "text": "cigarettes were perceived as very similar in taste level and character,",
+      "bbox": [
+        88,
+        466,
+        625,
+        488
+      ],
+      "confidence": 0.9973210096359253
+    },
+    {
+      "text": "but the cigarettes with tobacco end grooves suffered from smoke bleed-",
+      "bbox": [
+        87,
+        482,
+        621,
+        503
+      ],
+      "confidence": 0.9947751760482788
+    },
+    {
+      "text": "ing through the tipping perforations after a puff. We were suffi-",
+      "bbox": [
+        90,
+        499,
+        588,
+        516
+      ],
+      "confidence": 0.9747822880744934
+    },
+    {
+      "text": "ciently encoursged by the results from the mouth end grooves to",
+      "bbox": [
+        88,
+        511,
+        569,
+        532
+      ],
+      "confidence": 0.9830377697944641
+    },
+    {
+      "text": "suthorize development of a machine to make sufficient grooved filters",
+      "bbox": [
+        88,
+        524,
+        611,
+        547
+      ],
+      "confidence": 0.9798251390457153
+    },
+    {
+      "text": "for large-scale consumer evaluations.",
+      "bbox": [
+        90,
+        542,
+        365,
+        559
+      ],
+      "confidence": 0.9958872199058533
+    },
+    {
+      "text": "MACHINERY DEVELOPMENT",
+      "bbox": [
+        86,
+        586,
+        246,
+        606
+      ],
+      "confidence": 0.9967203736305237
+    },
+    {
+      "text": "The production of grooved filters requires, in addition to grooving",
+      "bbox": [
+        85,
+        616,
+        594,
+        641
+      ],
+      "confidence": 0.9813213348388672
+    },
+    {
+      "text": "apparatus, modification to the standard filter making operation.",
+      "bbox": [
+        84,
+        632,
+        571,
+        655
+      ],
+      "confidence": 0.9859713912010193
+    },
+    {
+      "text": "Indeed, unless the base filter is prepared to tightly controlled speci-",
+      "bbox": [
+        85,
+        648,
+        620,
+        669
+      ],
+      "confidence": 0.9875324964523315
+    },
+    {
+      "text": "fications, the subsequent grooving operation fails. Jack Sexstone and",
+      "bbox": [
+        84,
+        664,
+        613,
+        685
+      ],
+      "confidence": 0.9900851249694824
+    },
+    {
+      "text": "Tom Lewis designed the current grooving machines which process approxi-",
+      "bbox": [
+        82,
+        678,
+        620,
+        700
+      ],
+      "confidence": 0.992735743522644
+    },
+    {
+      "text": "mately 5oo filter rods/minutes. Butch Bryant, Kurt Manecke, Jim",
+      "bbox": [
+        83,
+        694,
+        570,
+        713
+      ],
+      "confidence": 0.9796770215034485
+    },
+    {
+      "text": "Sullivan, and Phil Willis worked closely with Sexstone and Lewis in",
+      "bbox": [
+        83,
+        709,
+        591,
+        727
+      ],
+      "confidence": 0.9900258779525757
+    },
+    {
+      "text": "defining the filter rod and modifying the rod makers. Specific changes",
+      "bbox": [
+        82,
+        722,
+        618,
+        743
+      ],
+      "confidence": 0.9914661049842834
+    },
+    {
+      "text": "included increasing plasticizer level from the typical 7-ll% up to",
+      "bbox": [
+        83,
+        737,
+        583,
+        757
+      ],
+      "confidence": 0.9804050326347351
+    },
+    {
+      "text": "13-i5%, adding Estrobond C to the plug wrap, replacing heat seal plug",
+      "bbox": [
+        83,
+        752,
+        604,
+        773
+      ],
+      "confidence": 0.9803412556648254
+    },
+    {
+      "text": "wrap adhesive with PvA, (heat seal comes apart during grooving), and",
+      "bbox": [
+        81,
+        767,
+        596,
+        787
+      ],
+      "confidence": 0.9757176637649536
+    },
+    {
+      "text": "using an improved plasticizer applicator designed by Jim Sullivan.",
+      "bbox": [
+        81,
+        783,
+        579,
+        802
+      ],
+      "confidence": 0.9758150577545166
+    },
+    {
+      "text": "690820642",
+      "bbox": [
+        535,
+        940,
+        658,
+        960
+      ],
+      "confidence": 0.9992696046829224
+    }
+  ],
+  "full_text": "THE DEVELOPMENT AND COMMERCIAL PRODUCTION OF BARCLAY\nINTRODUCTION\nThis is a brief history of the technical groups contributions to the\ndevelopment and commercial introduction of BARCLAY, It covers the\ntechnical problems that had to be soived and recognizes the major con-\ntributors to the project.\nTHE INVENTION\nThe BARCLAy filter is the brainchild of Bob Johnson, Research Scientist\nin the Product Department of R&D, Johnson, with powerful encouragement\nfrom Bob Sanford, Vice-President of RsD, was seeking a filter for ultra\nlow tar cigarettes that would give better draw characteristics than\nthose conventionally used. Two avenues appeared promising. The first\nwas to perform all smcke attenuation via a ventilated plastic\nmouthpiece. The second, which eventually evolved to the current\ngrooved filter design, was to channel ventilating air along the filter\nperiphery in some fashion. Johnson prepared numerous samples with a\nsmall hand operated mold and selected two designs for more detailed\nevaluations.' One was the grooved filter as we now know it, the other\nwas the same filter but with the grooves adjacent to the tobacco\ncolumn. Both versions were evaluated by small consumer panels; mouth\nend grooves at 4 mg tar and tobacco end grooves at 7.5 mg tar.' The two\ncigarettes were perceived as very similar in taste level and character,\nbut the cigarettes with tobacco end grooves suffered from smoke bleed-\ning through the tipping perforations after a puff. We were suffi-\nciently encoursged by the results from the mouth end grooves to\nsuthorize development of a machine to make sufficient grooved filters\nfor large-scale consumer evaluations.\nMACHINERY DEVELOPMENT\nThe production of grooved filters requires, in addition to grooving\napparatus, modification to the standard filter making operation.\nIndeed, unless the base filter is prepared to tightly controlled speci-\nfications, the subsequent grooving operation fails. Jack Sexstone and\nTom Lewis designed the current grooving machines which process approxi-\nmately 5oo filter rods/minutes. Butch Bryant, Kurt Manecke, Jim\nSullivan, and Phil Willis worked closely with Sexstone and Lewis in\ndefining the filter rod and modifying the rod makers. Specific changes\nincluded increasing plasticizer level from the typical 7-ll% up to\n13-i5%, adding Estrobond C to the plug wrap, replacing heat seal plug\nwrap adhesive with PvA, (heat seal comes apart during grooving), and\nusing an improved plasticizer applicator designed by Jim Sullivan.\n690820642"
+}

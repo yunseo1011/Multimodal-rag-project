@@ -1,0 +1,551 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0423.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "DATE:",
+      "bbox": [
+        622,
+        63,
+        658,
+        78
+      ],
+      "confidence": 0.9954038858413696
+    },
+    {
+      "text": "02-Msy-96",
+      "bbox": [
+        676,
+        60,
+        736,
+        77
+      ],
+      "confidence": 0.9629513621330261
+    },
+    {
+      "text": "SPECIAL PROMOTIONS",
+      "bbox": [
+        99,
+        73,
+        210,
+        88
+      ],
+      "confidence": 0.9719809293746948
+    },
+    {
+      "text": "TO;",
+      "bbox": [
+        275,
+        71,
+        301,
+        89
+      ],
+      "confidence": 0.8521129488945007
+    },
+    {
+      "text": "R.S.M",
+      "bbox": [
+        345,
+        68,
+        385,
+        88
+      ],
+      "confidence": 0.9588731527328491
+    },
+    {
+      "text": "NEWPORT 4O OFF TIER V",
+      "bbox": [
+        90,
+        89,
+        217,
+        104
+      ],
+      "confidence": 0.9344145655632019
+    },
+    {
+      "text": "PROM:",
+      "bbox": [
+        277,
+        88,
+        314,
+        103
+      ],
+      "confidence": 0.9985314607620239
+    },
+    {
+      "text": "SEPTEMBER/OCTOBER 19%6 <96-139>",
+      "bbox": [
+        62,
+        106,
+        243,
+        120
+      ],
+      "confidence": 0.9105983972549438
+    },
+    {
+      "text": "REG",
+      "bbox": [
+        36,
+        123,
+        64,
+        138
+      ],
+      "confidence": 0.9644016623497009
+    },
+    {
+      "text": "ENTER TJER LEVEL",
+      "bbox": [
+        87,
+        123,
+        184,
+        138
+      ],
+      "confidence": 0.9903544187545776
+    },
+    {
+      "text": "Dexcriptice",
+      "bbox": [
+        212,
+        122,
+        267,
+        142
+      ],
+      "confidence": 0.8798711895942688
+    },
+    {
+      "text": "Dexxipeion",
+      "bbox": [
+        283,
+        121,
+        340,
+        138
+      ],
+      "confidence": 0.8457775115966797
+    },
+    {
+      "text": "Destription",
+      "bbox": [
+        361,
+        120,
+        415,
+        137
+      ],
+      "confidence": 0.9592176079750061
+    },
+    {
+      "text": "Desrigtion",
+      "bbox": [
+        434,
+        115,
+        489,
+        136
+      ],
+      "confidence": 0.9128015637397766
+    },
+    {
+      "text": "Desciption",
+      "bbox": [
+        502,
+        116,
+        566,
+        133
+      ],
+      "confidence": 0.9107972979545593
+    },
+    {
+      "text": "Dexciption",
+      "bbox": [
+        585,
+        114,
+        643,
+        135
+      ],
+      "confidence": 0.8610266447067261
+    },
+    {
+      "text": "Deteriptico",
+      "bbox": [
+        663,
+        114,
+        718,
+        131
+      ],
+      "confidence": 0.853323757648468
+    },
+    {
+      "text": "Dexcription",
+      "bbox": [
+        742,
+        115,
+        793,
+        129
+      ],
+      "confidence": 0.9102709293365479
+    },
+    {
+      "text": "ASNUMBER ONLY",
+      "bbox": [
+        90,
+        141,
+        182,
+        154
+      ],
+      "confidence": 0.9467794895172119
+    },
+    {
+      "text": "1C/MSQ",
+      "bbox": [
+        220,
+        140,
+        263,
+        155
+      ],
+      "confidence": 0.8743183612823486
+    },
+    {
+      "text": "IC/MSQ",
+      "bbox": [
+        290,
+        136,
+        336,
+        154
+      ],
+      "confidence": 0.9010381102561951
+    },
+    {
+      "text": ".JC/MSO",
+      "bbox": [
+        359,
+        136,
+        408,
+        151
+      ],
+      "confidence": 0.860837996006012
+    },
+    {
+      "text": "XCIMSQ",
+      "bbox": [
+        436,
+        132,
+        486,
+        153
+      ],
+      "confidence": 0.7209017276763916
+    },
+    {
+      "text": "IC/MSO",
+      "bbox": [
+        510,
+        134,
+        559,
+        149
+      ],
+      "confidence": 0.8207778334617615
+    },
+    {
+      "text": "IC/MSO",
+      "bbox": [
+        589,
+        133,
+        635,
+        148
+      ],
+      "confidence": 0.9922187924385071
+    },
+    {
+      "text": "IC/MSO",
+      "bbox": [
+        666,
+        132,
+        712,
+        147
+      ],
+      "confidence": 0.8906566500663757
+    },
+    {
+      "text": "C/MSQ",
+      "bbox": [
+        743,
+        129,
+        789,
+        147
+      ],
+      "confidence": 0.9673869013786316
+    },
+    {
+      "text": "DIV",
+      "bbox": [
+        38,
+        156,
+        64,
+        172
+      ],
+      "confidence": 0.974297285079956
+    },
+    {
+      "text": "Ship To",
+      "bbox": [
+        107,
+        157,
+        143,
+        172
+      ],
+      "confidence": 0.9971799850463867
+    },
+    {
+      "text": "We STICKER",
+      "bbox": [
+        208,
+        155,
+        270,
+        173
+      ],
+      "confidence": 0.8708518147468567
+    },
+    {
+      "text": "4 COUPON",
+      "bbox": [
+        283,
+        153,
+        344,
+        171
+      ],
+      "confidence": 0.9642632007598877
+    },
+    {
+      "text": "40e PACT. DEL",
+      "bbox": [
+        355,
+        155,
+        422,
+        166
+      ],
+      "confidence": 0.9229831695556641
+    },
+    {
+      "text": "40 PK CTR DISP",
+      "bbox": [
+        425,
+        151,
+        499,
+        168
+      ],
+      "confidence": 0.9379488825798035
+    },
+    {
+      "text": "80 PK CTR DISP",
+      "bbox": [
+        499,
+        150,
+        575,
+        167
+      ],
+      "confidence": 0.9517560601234436
+    },
+    {
+      "text": "40/80 RESEK",
+      "bbox": [
+        586,
+        150,
+        642,
+        164
+      ],
+      "confidence": 0.8605291843414307
+    },
+    {
+      "text": "40/80 RISE!R CD",
+      "bbox": [
+        653,
+        148,
+        725,
+        162
+      ],
+      "confidence": 0.9062687754631042
+    },
+    {
+      "text": "DUMP BIN DIS",
+      "bbox": [
+        731,
+        149,
+        800,
+        163
+      ],
+      "confidence": 0.9957566857337952
+    },
+    {
+      "text": "TIER",
+      "bbox": [
+        176,
+        159,
+        205,
+        172
+      ],
+      "confidence": 0.9819486141204834
+    },
+    {
+      "text": "29-664-3/400",
+      "bbox": [
+        206,
+        171,
+        272,
+        188
+      ],
+      "confidence": 0.82528156042099
+    },
+    {
+      "text": "29-650-4/400",
+      "bbox": [
+        282,
+        169,
+        346,
+        186
+      ],
+      "confidence": 0.9936332106590271
+    },
+    {
+      "text": "3006M",
+      "bbox": [
+        370,
+        170,
+        406,
+        184
+      ],
+      "confidence": 0.9605016708374023
+    },
+    {
+      "text": "29-019-0/25",
+      "bbox": [
+        432,
+        169,
+        491,
+        183
+      ],
+      "confidence": 0.9767107367515564
+    },
+    {
+      "text": "29-017-0/25",
+      "bbox": [
+        506,
+        166,
+        568,
+        184
+      ],
+      "confidence": 0.9931822419166565
+    },
+    {
+      "text": "29-128-3/10",
+      "bbox": [
+        586,
+        168,
+        643,
+        179
+      ],
+      "confidence": 0.9636691808700562
+    },
+    {
+      "text": "29--128-4/10",
+      "bbox": [
+        659,
+        166,
+        719,
+        180
+      ],
+      "confidence": 0.9629409313201904
+    },
+    {
+      "text": "29-062-0/3",
+      "bbox": [
+        736,
+        165,
+        791,
+        179
+      ],
+      "confidence": 0.9386307597160339
+    },
+    {
+      "text": "Customer #",
+      "bbox": [
+        98,
+        173,
+        151,
+        187
+      ],
+      "confidence": 0.9282352328300476
+    },
+    {
+      "text": "0",
+      "bbox": [
+        275,
+        720,
+        291,
+        734
+      ],
+      "confidence": 0.9931582808494568
+    },
+    {
+      "text": "0",
+      "bbox": [
+        344,
+        718,
+        420,
+        735
+      ],
+      "confidence": 0.9005247950553894
+    },
+    {
+      "text": "00000",
+      "bbox": [
+        415,
+        717,
+        723,
+        737
+      ],
+      "confidence": 0.8453351855278015
+    },
+    {
+      "text": "0 ",
+      "bbox": [
+        774,
+        718,
+        802,
+        736
+      ],
+      "confidence": 0.7334774732589722
+    },
+    {
+      "text": "Paget of 2",
+      "bbox": [
+        46,
+        751,
+        83,
+        762
+      ],
+      "confidence": 0.8914389610290527
+    },
+    {
+      "text": "<NEWFORT>",
+      "bbox": [
+        516,
+        749,
+        556,
+        756
+      ],
+      "confidence": 0.8827165961265564
+    },
+    {
+      "text": "94005690",
+      "bbox": [
+        168,
+        767,
+        274,
+        796
+      ],
+      "confidence": 0.9995861053466797
+    }
+  ],
+  "full_text": "DATE:\n02-Msy-96\nSPECIAL PROMOTIONS\nTO;\nR.S.M\nNEWPORT 4O OFF TIER V\nPROM:\nSEPTEMBER/OCTOBER 19%6 <96-139>\nREG\nENTER TJER LEVEL\nDexcriptice\nDexxipeion\nDestription\nDesrigtion\nDesciption\nDexciption\nDeteriptico\nDexcription\nASNUMBER ONLY\n1C/MSQ\nIC/MSQ\n.JC/MSO\nXCIMSQ\nIC/MSO\nIC/MSO\nIC/MSO\nC/MSQ\nDIV\nShip To\nWe STICKER\n4 COUPON\n40e PACT. DEL\n40 PK CTR DISP\n80 PK CTR DISP\n40/80 RESEK\n40/80 RISE!R CD\nDUMP BIN DIS\nTIER\n29-664-3/400\n29-650-4/400\n3006M\n29-019-0/25\n29-017-0/25\n29-128-3/10\n29--128-4/10\n29-062-0/3\nCustomer #\n0\n0\n00000\n0 \nPaget of 2\n<NEWFORT>\n94005690"
+}

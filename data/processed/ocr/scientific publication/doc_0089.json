@@ -1,0 +1,751 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0089.png",
+    "image_width": 793,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "J:wat2 Canc Jnst 50:1243-57,1973",
+      "bbox": [
+        144,
+        74,
+        527,
+        99
+      ],
+      "confidence": 0.8797404170036316
+    },
+    {
+      "text": "Comparison of Neoplasms In Slx Sources of Rats 1",
+      "bbox": [
+        130,
+        126,
+        528,
+        151
+      ],
+      "confidence": 0.9668100476264954
+    },
+    {
+      "text": "William F. Mac Kenzie, Lt. Colonel, USAF, VC, and F. M. Garner, Coloniel, VC, USA, Retired,. ' Veter-",
+      "bbox": [
+        127,
+        168,
+        737,
+        194
+      ],
+      "confidence": 0.9717164635658264
+    },
+    {
+      "text": "inary Pathology Division, Armed Forces Institute of Pathology, Washington, D.C. 20306",
+      "bbox": [
+        130,
+        184,
+        635,
+        208
+      ],
+      "confidence": 0.9698655009269714
+    },
+    {
+      "text": "SUMMARY-We described 749 tumors from 6 sources of rats raised at 7 laboratories. The sources were",
+      "bbox": [
+        130,
+        227,
+        740,
+        247
+      ],
+      "confidence": 0.9800177216529846
+    },
+    {
+      "text": "\"Sprague-Dawley\" from 4 commercial suppliers, Osborne-Mendel, and Oregon. Highly significant differ-",
+      "bbox": [
+        130,
+        240,
+        739,
+        262
+      ],
+      "confidence": 0.9704542756080627
+    },
+    {
+      "text": "ences in the incidences of endocrine and mammary tumors were found. There were significant variations in",
+      "bbox": [
+        129,
+        255,
+        740,
+        276
+      ],
+      "confidence": 0.991165816783905
+    },
+    {
+      "text": "the incidences of adrenal medullary tumors among rats from the same source raised at 2 laboratories. Of",
+      "bbox": [
+        129,
+        269,
+        740,
+        290
+      ],
+      "confidence": 0.9853631854057312
+    },
+    {
+      "text": "the rats with endocrine tumors, 9-15% had tumors in 2 or more endocrine glands. All but 1 of the testicular",
+      "bbox": [
+        129,
+        283,
+        740,
+        303
+      ],
+      "confidence": 0.966765284538269
+    },
+    {
+      "text": "tumors occurred in Oregon rats. Thyroid and pituitary tumors were more common in females, adrenal medul-",
+      "bbox": [
+        128,
+        297,
+        740,
+        319
+      ],
+      "confidence": 0.9735289812088013
+    },
+    {
+      "text": "lary and Islet cell tumors of the pancreas were more frequent in males. Brain tumons occurred more often",
+      "bbox": [
+        129,
+        311,
+        740,
+        333
+      ],
+      "confidence": 0.9731438755989075
+    },
+    {
+      "text": "and at a younger age and were more apt to cause symptoms in males than in females. The incidence of",
+      "bbox": [
+        129,
+        326,
+        740,
+        347
+      ],
+      "confidence": 0.9779608845710754
+    },
+    {
+      "text": "tumors in \"Sprague-Dawley\" rats from different commerclal sources varied as much from each other as",
+      "bbox": [
+        128,
+        340,
+        740,
+        361
+      ],
+      "confidence": 0.9839067459106445
+    },
+    {
+      "text": "from the other \"strains.\" Factors that can affect the incidence of tumors and the difficulties in comparing",
+      "bbox": [
+        129,
+        354,
+        740,
+        374
+      ],
+      "confidence": 0.9811110496520996
+    },
+    {
+      "text": "the rates of incidence reported in the literature were discussed. We stressed the need for extreme caution",
+      "bbox": [
+        129,
+        368,
+        740,
+        389
+      ],
+      "confidence": 0.996180534362793
+    },
+    {
+      "text": "in evaluation of carcinogenicity studies conducted at different laboratories and/or on rats from different",
+      "bbox": [
+        129,
+        383,
+        740,
+        403
+      ],
+      "confidence": 0.9892467856407166
+    },
+    {
+      "text": "sources.-J Natl Cancer Inst 50: 1243-1257, 1973.",
+      "bbox": [
+        129,
+        397,
+        434,
+        417
+      ],
+      "confidence": 0.96990966796875
+    },
+    {
+      "text": "IN LIGHT of today's concern with the carcino-",
+      "bbox": [
+        130,
+        453,
+        427,
+        473
+      ],
+      "confidence": 0.9876518249511719
+    },
+    {
+      "text": "MATERIALS AND METHODS",
+      "bbox": [
+        448,
+        456,
+        645,
+        469
+      ],
+      "confidence": 0.998972475528717
+    },
+    {
+      "text": "genic effect of environmental contaminants and",
+      "bbox": [
+        129,
+        468,
+        427,
+        488
+      ],
+      "confidence": 0.9906736612319946
+    },
+    {
+      "text": "food additives, an understanding of the variation",
+      "bbox": [
+        129,
+        483,
+        427,
+        502
+      ],
+      "confidence": 0.9681126475334167
+    },
+    {
+      "text": "The rats were from a series of long-term feeding studies",
+      "bbox": [
+        458,
+        476,
+        745,
+        491
+      ],
+      "confidence": 0.9820852875709534
+    },
+    {
+      "text": "in the incidence of tumors in sources of rats raised",
+      "bbox": [
+        129,
+        497,
+        427,
+        516
+      ],
+      "confidence": 0.9864903092384338
+    },
+    {
+      "text": "on the toxicity of irradiated foods. The work was contracted",
+      "bbox": [
+        446,
+        489,
+        746,
+        504
+      ],
+      "confidence": 0.982050359249115
+    },
+    {
+      "text": "to 11 laboratories that conducted programs of research",
+      "bbox": [
+        447,
+        501,
+        748,
+        516
+      ],
+      "confidence": 0.9817019701004028
+    },
+    {
+      "text": "at different laboratories is of prime importance.",
+      "bbox": [
+        129,
+        512,
+        428,
+        530
+      ],
+      "confidence": 0.9957539439201355
+    },
+    {
+      "text": "within specifications established by the Army. Equal",
+      "bbox": [
+        448,
+        514,
+        748,
+        527
+      ],
+      "confidence": 0.9845453500747681
+    },
+    {
+      "text": "That differences occur among \"strains\" of rats",
+      "bbox": [
+        130,
+        527,
+        427,
+        542
+      ],
+      "confidence": 0.9784842133522034
+    },
+    {
+      "text": "numbers of mnle and fenale rats received various irradiated",
+      "bbox": [
+        447,
+        524,
+        749,
+        539
+      ],
+      "confidence": 0.9713714718818665
+    },
+    {
+      "text": "has been acknowledged generally since Curtis",
+      "bbox": [
+        129,
+        541,
+        428,
+        556
+      ],
+      "confidence": 0.9978380799293518
+    },
+    {
+      "text": "foods amounting to approximately one-third the dry",
+      "bbox": [
+        448,
+        538,
+        750,
+        551
+      ],
+      "confidence": 0.9785394072532654
+    },
+    {
+      "text": "et al. (2) published their report in 1931. Variations",
+      "bbox": [
+        130,
+        555,
+        428,
+        571
+      ],
+      "confidence": 0.9784532785415649
+    },
+    {
+      "text": "weight of the diet. Control animals received similar diets",
+      "bbox": [
+        448,
+        550,
+        750,
+        564
+      ],
+      "confidence": 0.9942881464958191
+    },
+    {
+      "text": "with nonirradiated foods. The diets were compounded",
+      "bbox": [
+        448,
+        561,
+        750,
+        575
+      ],
+      "confidence": 0.9866605401039124
+    },
+    {
+      "text": "in methods, diagnostic criteria, and even defini-",
+      "bbox": [
+        131,
+        571,
+        427,
+        584
+      ],
+      "confidence": 0.9954052567481995
+    },
+    {
+      "text": "with protein, carbohydrate, vitamin, and mineral supple-",
+      "bbox": [
+        448,
+        574,
+        751,
+        587
+      ],
+      "confidence": 0.9912102818489075
+    },
+    {
+      "text": "tion of what constitutes a \"strain\" make compara-",
+      "bbox": [
+        130,
+        585,
+        427,
+        600
+      ],
+      "confidence": 0.982907772064209
+    },
+    {
+      "text": "ments to complete a baianced ration. The animals were",
+      "bbox": [
+        447,
+        584,
+        752,
+        599
+      ],
+      "confidence": 0.9865288734436035
+    },
+    {
+      "text": "tive studies of tumor incidence from the literature",
+      "bbox": [
+        130,
+        601,
+        431,
+        615
+      ],
+      "confidence": 0.9970735907554626
+    },
+    {
+      "text": "killed when debilitated or at about 2 years of age. Each",
+      "bbox": [
+        449,
+        597,
+        751,
+        611
+      ],
+      "confidence": 0.9968840479850769
+    },
+    {
+      "text": "confusing. The Armed Forces Institute of Pathology",
+      "bbox": [
+        128,
+        614,
+        428,
+        633
+      ],
+      "confidence": 0.9894232749938965
+    },
+    {
+      "text": "rat was necropsied. Histopathologic examination was",
+      "bbox": [
+        448,
+        608,
+        752,
+        623
+      ],
+      "confidence": 0.9804725646972656
+    },
+    {
+      "text": "performed on pituitary gland, eyes, salivary glands, skin,",
+      "bbox": [
+        448,
+        620,
+        752,
+        635
+      ],
+      "confidence": 0.9808214902877808
+    },
+    {
+      "text": "(AFIP) had a unique opportunity to study tumors",
+      "bbox": [
+        130,
+        630,
+        428,
+        646
+      ],
+      "confidence": 0.9827119708061218
+    },
+    {
+      "text": "bone, thyroid gland, lungs, heart, stomach, 3 sections of",
+      "bbox": [
+        449,
+        633,
+        754,
+        646
+      ],
+      "confidence": 0.9615257382392883
+    },
+    {
+      "text": "in several sources of rats under more controlled",
+      "bbox": [
+        129,
+        647,
+        427,
+        661
+      ],
+      "confidence": 0.9892392158508301
+    },
+    {
+      "text": "smali intestine, colon, adrenal gland, ilver, pancreas,",
+      "bbox": [
+        449,
+        645,
+        753,
+        658
+      ],
+      "confidence": 0.970195472240448
+    },
+    {
+      "text": "conditions than those previously reported. AFIP",
+      "bbox": [
+        127,
+        661,
+        427,
+        676
+      ],
+      "confidence": 0.9841479659080505
+    },
+    {
+      "text": "spleen, kidneys, bladider, testicles, ovary, uterus, prostate",
+      "bbox": [
+        448,
+        655,
+        753,
+        670
+      ],
+      "confidence": 0.9858886003494263
+    },
+    {
+      "text": "monitored an extensive series of irradiated food",
+      "bbox": [
+        128,
+        676,
+        428,
+        693
+      ],
+      "confidence": 0.9880154728889465
+    },
+    {
+      "text": "gland, cervieal and mesenteric lymph nodes, 4 levels of",
+      "bbox": [
+        449,
+        668,
+        754,
+        681
+      ],
+      "confidence": 0.97216796875
+    },
+    {
+      "text": "the brain, and any other tissue with gross pathologic",
+      "bbox": [
+        450,
+        680,
+        754,
+        694
+      ],
+      "confidence": 0.9870226979255676
+    },
+    {
+      "text": "experiments and reviewed all materials and reports",
+      "bbox": [
+        128,
+        693,
+        428,
+        708
+      ],
+      "confidence": 0.9773116111755371
+    },
+    {
+      "text": "change. Microscopie findings and blocks of tissue were",
+      "bbox": [
+        450,
+        693,
+        754,
+        706
+      ],
+      "confidence": 0.9857969880104065
+    },
+    {
+      "text": "of the participating laboratories. The tissues and",
+      "bbox": [
+        128,
+        708,
+        428,
+        723
+      ],
+      "confidence": 0.9814257025718689
+    },
+    {
+      "text": "forwarded to the AFIP where each was accessioned and",
+      "bbox": [
+        450,
+        704,
+        755,
+        717
+      ],
+      "confidence": 0.9931520819664001
+    },
+    {
+      "text": "data of >3,000 rats were accumulated.",
+      "bbox": [
+        129,
+        725,
+        362,
+        738
+      ],
+      "confidence": 0.9727838635444641
+    },
+    {
+      "text": "1 Received September 5, 1972; accepted February 1, 1973.",
+      "bbox": [
+        459,
+        721,
+        755,
+        737
+      ],
+      "confidence": 0.9791997075080872
+    },
+    {
+      "text": "This stucly <lescribes 749 tumors foundd in 2,082",
+      "bbox": [
+        142,
+        738,
+        427,
+        753
+      ],
+      "confidence": 0.9486088156700134
+    },
+    {
+      "text": " Chief, Veterinary Pathology Branch, USAF School of",
+      "bbox": [
+        459,
+        733,
+        756,
+        749
+      ],
+      "confidence": 0.9852590560913086
+    },
+    {
+      "text": "2501598782",
+      "bbox": [
+        770,
+        734,
+        793,
+        828
+      ],
+      "confidence": 0.9999606013298035
+    },
+    {
+      "text": "of these rats. Where tumor inciclence was adlequate",
+      "bbox": [
+        128,
+        754,
+        426,
+        767
+      ],
+      "confidence": 0.9446408152580261
+    },
+    {
+      "text": "Aerospnce Medlieine, Brooks Air Force Base, Tex. 78235.",
+      "bbox": [
+        449,
+        745,
+        744,
+        761
+      ],
+      "confidence": 0.9563059210777283
+    },
+    {
+      "text": "Bionetics Resenrrh Labsoratory, Ssto Nicholson Lane,",
+      "bbox": [
+        459,
+        755,
+        755,
+        774
+      ],
+      "confidence": 0.9106471538543701
+    },
+    {
+      "text": "(in endoerine and mammary tunors), statistical",
+      "bbox": [
+        129,
+        769,
+        428,
+        784
+      ],
+      "confidence": 0.9750696420669556
+    },
+    {
+      "text": "Kensington, Md. 20795.",
+      "bbox": [
+        450,
+        770,
+        580,
+        783
+      ],
+      "confidence": 0.9748218655586243
+    },
+    {
+      "text": "comparisons were made. A review of the literature",
+      "bbox": [
+        129,
+        786,
+        428,
+        799
+      ],
+      "confidence": 0.9887948036193848
+    },
+    {
+      "text": "The opinions and auertious contained herein are those",
+      "bbox": [
+        461,
+        780,
+        756,
+        796
+      ],
+      "confidence": 0.9665035605430603
+    },
+    {
+      "text": "has not been included, since several excellent",
+      "bbox": [
+        129,
+        801,
+        428,
+        815
+      ],
+      "confidence": 0.9836603403091431
+    },
+    {
+      "text": "of the authors and are not to he construed as official or as",
+      "bbox": [
+        450,
+        793,
+        756,
+        809
+      ],
+      "confidence": 0.9713519215583801
+    },
+    {
+      "text": "sources are available (2-5).",
+      "bbox": [
+        127,
+        817,
+        293,
+        832
+      ],
+      "confidence": 0.995633065700531
+    },
+    {
+      "text": "reflecting the views of the Departments of the Army or Air",
+      "bbox": [
+        450,
+        805,
+        756,
+        821
+      ],
+      "confidence": 0.9728915691375732
+    },
+    {
+      "text": "Force or of the Department of Defense.",
+      "bbox": [
+        452,
+        821,
+        651,
+        831
+      ],
+      "confidence": 0.988601565361023
+    },
+    {
+      "text": "1243",
+      "bbox": [
+        682,
+        834,
+        714,
+        849
+      ],
+      "confidence": 0.9999865293502808
+    }
+  ],
+  "full_text": "J:wat2 Canc Jnst 50:1243-57,1973\nComparison of Neoplasms In Slx Sources of Rats 1\nWilliam F. Mac Kenzie, Lt. Colonel, USAF, VC, and F. M. Garner, Coloniel, VC, USA, Retired,. ' Veter-\ninary Pathology Division, Armed Forces Institute of Pathology, Washington, D.C. 20306\nSUMMARY-We described 749 tumors from 6 sources of rats raised at 7 laboratories. The sources were\n\"Sprague-Dawley\" from 4 commercial suppliers, Osborne-Mendel, and Oregon. Highly significant differ-\nences in the incidences of endocrine and mammary tumors were found. There were significant variations in\nthe incidences of adrenal medullary tumors among rats from the same source raised at 2 laboratories. Of\nthe rats with endocrine tumors, 9-15% had tumors in 2 or more endocrine glands. All but 1 of the testicular\ntumors occurred in Oregon rats. Thyroid and pituitary tumors were more common in females, adrenal medul-\nlary and Islet cell tumors of the pancreas were more frequent in males. Brain tumons occurred more often\nand at a younger age and were more apt to cause symptoms in males than in females. The incidence of\ntumors in \"Sprague-Dawley\" rats from different commerclal sources varied as much from each other as\nfrom the other \"strains.\" Factors that can affect the incidence of tumors and the difficulties in comparing\nthe rates of incidence reported in the literature were discussed. We stressed the need for extreme caution\nin evaluation of carcinogenicity studies conducted at different laboratories and/or on rats from different\nsources.-J Natl Cancer Inst 50: 1243-1257, 1973.\nIN LIGHT of today's concern with the carcino-\nMATERIALS AND METHODS\ngenic effect of environmental contaminants and\nfood additives, an understanding of the variation\nThe rats were from a series of long-term feeding studies\nin the incidence of tumors in sources of rats raised\non the toxicity of irradiated foods. The work was contracted\nto 11 laboratories that conducted programs of research\nat different laboratories is of prime importance.\nwithin specifications established by the Army. Equal\nThat differences occur among \"strains\" of rats\nnumbers of mnle and fenale rats received various irradiated\nhas been acknowledged generally since Curtis\nfoods amounting to approximately one-third the dry\net al. (2) published their report in 1931. Variations\nweight of the diet. Control animals received similar diets\nwith nonirradiated foods. The diets were compounded\nin methods, diagnostic criteria, and even defini-\nwith protein, carbohydrate, vitamin, and mineral supple-\ntion of what constitutes a \"strain\" make compara-\nments to complete a baianced ration. The animals were\ntive studies of tumor incidence from the literature\nkilled when debilitated or at about 2 years of age. Each\nconfusing. The Armed Forces Institute of Pathology\nrat was necropsied. Histopathologic examination was\nperformed on pituitary gland, eyes, salivary glands, skin,\n(AFIP) had a unique opportunity to study tumors\nbone, thyroid gland, lungs, heart, stomach, 3 sections of\nin several sources of rats under more controlled\nsmali intestine, colon, adrenal gland, ilver, pancreas,\nconditions than those previously reported. AFIP\nspleen, kidneys, bladider, testicles, ovary, uterus, prostate\nmonitored an extensive series of irradiated food\ngland, cervieal and mesenteric lymph nodes, 4 levels of\nthe brain, and any other tissue with gross pathologic\nexperiments and reviewed all materials and reports\nchange. Microscopie findings and blocks of tissue were\nof the participating laboratories. The tissues and\nforwarded to the AFIP where each was accessioned and\ndata of >3,000 rats were accumulated.\n1 Received September 5, 1972; accepted February 1, 1973.\nThis stucly <lescribes 749 tumors foundd in 2,082\n Chief, Veterinary Pathology Branch, USAF School of\n2501598782\nof these rats. Where tumor inciclence was adlequate\nAerospnce Medlieine, Brooks Air Force Base, Tex. 78235.\nBionetics Resenrrh Labsoratory, Ssto Nicholson Lane,\n(in endoerine and mammary tunors), statistical\nKensington, Md. 20795.\ncomparisons were made. A review of the literature\nThe opinions and auertious contained herein are those\nhas not been included, since several excellent\nof the authors and are not to he construed as official or as\nsources are available (2-5).\nreflecting the views of the Departments of the Army or Air\nForce or of the Department of Defense.\n1243"
+}

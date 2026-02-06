@@ -1,0 +1,351 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0144.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "P",
+      "bbox": [
+        0,
+        0,
+        13,
+        15
+      ],
+      "confidence": 0.8937556147575378
+    },
+    {
+      "text": "Hess_Ret",
+      "bbox": [
+        54,
+        0,
+        118,
+        20
+      ],
+      "confidence": 0.9976681470870972
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        0,
+        19,
+        34,
+        34
+      ],
+      "confidence": 0.9994994401931763
+    },
+    {
+      "text": "Kuruc, Nick",
+      "bbox": [
+        53,
+        17,
+        129,
+        38
+      ],
+      "confidence": 0.9861522316932678
+    },
+    {
+      "text": "Posted:",
+      "bbox": [
+        0,
+        34,
+        45,
+        49
+      ],
+      "confidence": 0.99824458360672
+    },
+    {
+      "text": "2/6/98 10:15",
+      "bbox": [
+        54,
+        34,
+        133,
+        53
+      ],
+      "confidence": 0.9649491310119629
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        0,
+        51,
+        50,
+        66
+      ],
+      "confidence": 0.9975297451019287
+    },
+    {
+      "text": "Amerada Hess Corporation",
+      "bbox": [
+        48,
+        50,
+        219,
+        71
+      ],
+      "confidence": 0.9998263716697693
+    },
+    {
+      "text": "ROU Communication To Retail Reps: Chain ID's",
+      "bbox": [
+        0,
+        99,
+        289,
+        122
+      ],
+      "confidence": 0.989825427532196
+    },
+    {
+      "text": ")353-02-01",
+      "bbox": [
+        0,
+        136,
+        67,
+        150
+      ],
+      "confidence": 0.9813348650932312
+    },
+    {
+      "text": "0353-03-01",
+      "bbox": [
+        115,
+        135,
+        188,
+        154
+      ],
+      "confidence": 0.9999309778213501
+    },
+    {
+      "text": ")353-02-02",
+      "bbox": [
+        0,
+        153,
+        68,
+        167
+      ],
+      "confidence": 0.9734216928482056
+    },
+    {
+      "text": "0353-03-02",
+      "bbox": [
+        116,
+        153,
+        188,
+        170
+      ],
+      "confidence": 0.9999634027481079
+    },
+    {
+      "text": ")353-02-03",
+      "bbox": [
+        0,
+        168,
+        69,
+        185
+      ],
+      "confidence": 0.952705979347229
+    },
+    {
+      "text": "0353-03-03",
+      "bbox": [
+        116,
+        170,
+        188,
+        188
+      ],
+      "confidence": 0.999860405921936
+    },
+    {
+      "text": "0353-02-04",
+      "bbox": [
+        0,
+        183,
+        69,
+        204
+      ],
+      "confidence": 0.9624634981155396
+    },
+    {
+      "text": "0353-03-04",
+      "bbox": [
+        114,
+        184,
+        188,
+        205
+      ],
+      "confidence": 0.9997193217277527
+    },
+    {
+      "text": ")353-02-05",
+      "bbox": [
+        0,
+        202,
+        69,
+        219
+      ],
+      "confidence": 0.9502030611038208
+    },
+    {
+      "text": "0353-03-05",
+      "bbox": [
+        114,
+        201,
+        187,
+        222
+      ],
+      "confidence": 0.9998859167098999
+    },
+    {
+      "text": ")353-02-06",
+      "bbox": [
+        0,
+        219,
+        69,
+        236
+      ],
+      "confidence": 0.9772958755493164
+    },
+    {
+      "text": "0353-03-06",
+      "bbox": [
+        115,
+        220,
+        187,
+        237
+      ],
+      "confidence": 0.9999538660049438
+    },
+    {
+      "text": ")353-02-07",
+      "bbox": [
+        0,
+        235,
+        68,
+        252
+      ],
+      "confidence": 0.9643408060073853
+    },
+    {
+      "text": "0353-03-07",
+      "bbox": [
+        114,
+        234,
+        187,
+        254
+      ],
+      "confidence": 0.9997800588607788
+    },
+    {
+      "text": ")353-02-08",
+      "bbox": [
+        0,
+        252,
+        68,
+        266
+      ],
+      "confidence": 0.9494128227233887
+    },
+    {
+      "text": "0353-03-08",
+      "bbox": [
+        115,
+        252,
+        187,
+        269
+      ],
+      "confidence": 0.9998896718025208
+    },
+    {
+      "text": "0920-00-00",
+      "bbox": [
+        0,
+        267,
+        68,
+        284
+      ],
+      "confidence": 0.9521756172180176
+    },
+    {
+      "text": "Attached is the following:",
+      "bbox": [
+        0,
+        299,
+        143,
+        319
+      ],
+      "confidence": 0.9951965808868408
+    },
+    {
+      "text": "Revised 1st Quarter Promotional Calendar. Changes are: March 1-31, Camel, Winston, Salem, and Doral will be $2.50",
+      "bbox": [
+        9,
+        331,
+        718,
+        359
+      ],
+      "confidence": 0.9881038069725037
+    },
+    {
+      "text": "ff invoice. Hess POS will be Camel and Marlboro. April 1-30, Camel, Winston, Salem, and Doral will be $2.00 off invoice.",
+      "bbox": [
+        0,
+        347,
+        716,
+        375
+      ],
+      "confidence": 0.9770890474319458
+    },
+    {
+      "text": "less POS will be Salem and Newport.",
+      "bbox": [
+        0,
+        364,
+        221,
+        384
+      ],
+      "confidence": 0.9705884456634521
+    },
+    {
+      "text": "Letter regarding reiteration of Hess permanent and temporary display policies.",
+      "bbox": [
+        0,
+        395,
+        465,
+        421
+      ],
+      "confidence": 0.9850560426712036
+    },
+    {
+      "text": "s always, if you have any questions, please call me.",
+      "bbox": [
+        0,
+        429,
+        305,
+        450
+      ],
+      "confidence": 0.9948717355728149
+    },
+    {
+      "text": "hanks!",
+      "bbox": [
+        0,
+        457,
+        47,
+        482
+      ],
+      "confidence": 0.999466598033905
+    },
+    {
+      "text": "51846 3722",
+      "bbox": [
+        702,
+        870,
+        724,
+        978
+      ],
+      "confidence": 0.9999303817749023
+    }
+  ],
+  "full_text": "P\nHess_Ret\nFrom:\nKuruc, Nick\nPosted:\n2/6/98 10:15\nSubject:\nAmerada Hess Corporation\nROU Communication To Retail Reps: Chain ID's\n)353-02-01\n0353-03-01\n)353-02-02\n0353-03-02\n)353-02-03\n0353-03-03\n0353-02-04\n0353-03-04\n)353-02-05\n0353-03-05\n)353-02-06\n0353-03-06\n)353-02-07\n0353-03-07\n)353-02-08\n0353-03-08\n0920-00-00\nAttached is the following:\nRevised 1st Quarter Promotional Calendar. Changes are: March 1-31, Camel, Winston, Salem, and Doral will be $2.50\nff invoice. Hess POS will be Camel and Marlboro. April 1-30, Camel, Winston, Salem, and Doral will be $2.00 off invoice.\nless POS will be Salem and Newport.\nLetter regarding reiteration of Hess permanent and temporary display policies.\ns always, if you have any questions, please call me.\nhanks!\n51846 3722"
+}

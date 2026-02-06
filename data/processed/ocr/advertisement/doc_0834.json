@@ -1,0 +1,171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0834.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "50259 2040",
+      "bbox": [
+        727,
+        63,
+        771,
+        73
+      ],
+      "confidence": 0.9602466821670532
+    },
+    {
+      "text": "amel",
+      "bbox": [
+        658,
+        177,
+        743,
+        391
+      ],
+      "confidence": 0.9952929019927979
+    },
+    {
+      "text": "this right now!",
+      "bbox": [
+        428,
+        221,
+        462,
+        339
+      ],
+      "confidence": 0.9996949434280396
+    },
+    {
+      "text": "better cigarette than Camel!",
+      "bbox": [
+        469,
+        232,
+        487,
+        362
+      ],
+      "confidence": 0.9544829726219177
+    },
+    {
+      "text": "You' fod Carnels anequalled by any",
+      "bbox": [
+        484,
+        226,
+        502,
+        368
+      ],
+      "confidence": 0.924314558506012
+    },
+    {
+      "text": "cigaretze in the worid at any price be-",
+      "bbox": [
+        498,
+        228,
+        511,
+        375
+      ],
+      "confidence": 0.9213904142379761
+    },
+    {
+      "text": "cause Camnels expert blend of choice",
+      "bbox": [
+        506,
+        227,
+        521,
+        376
+      ],
+      "confidence": 0.9105336666107178
+    },
+    {
+      "text": "Turkish and choice Domestic tobscnos",
+      "bbox": [
+        515,
+        227,
+        530,
+        377
+      ],
+      "confidence": 0.9234995245933533
+    },
+    {
+      "text": "Camels amonthoness will appeal to you,",
+      "bbox": [
+        539,
+        229,
+        553,
+        371
+      ],
+      "confidence": 0.8984115123748779
+    },
+    {
+      "text": "Carels leave mo unpleatant cigaretty",
+      "bbox": [
+        572,
+        228,
+        587,
+        372
+      ],
+      "confidence": 0.9120059609413147
+    },
+    {
+      "text": "You'l prefer Camels biend to either",
+      "bbox": [
+        596,
+        229,
+        610,
+        372
+      ],
+      "confidence": 0.9536207914352417
+    },
+    {
+      "text": "Let's settle",
+      "bbox": [
+        404,
+        246,
+        436,
+        338
+      ],
+      "confidence": 0.9943854808807373
+    },
+    {
+      "text": "puts Caunrls in a class by thecaselveik.",
+      "bbox": [
+        525,
+        236,
+        540,
+        377
+      ],
+      "confidence": 0.8720283508300781
+    },
+    {
+      "text": "No man ever amoked a",
+      "bbox": [
+        457,
+        255,
+        477,
+        363
+      ],
+      "confidence": 0.9763189554214478
+    },
+    {
+      "text": "kind of tobecce smoiked streight",
+      "bbox": [
+        606,
+        253,
+        619,
+        376
+      ],
+      "confidence": 0.9066343307495117
+    },
+    {
+      "text": "3",
+      "bbox": [
+        168,
+        554,
+        222,
+        611
+      ],
+      "confidence": 0.9855836629867554
+    }
+  ],
+  "full_text": "50259 2040\namel\nthis right now!\nbetter cigarette than Camel!\nYou' fod Carnels anequalled by any\ncigaretze in the worid at any price be-\ncause Camnels expert blend of choice\nTurkish and choice Domestic tobscnos\nCamels amonthoness will appeal to you,\nCarels leave mo unpleatant cigaretty\nYou'l prefer Camels biend to either\nLet's settle\nputs Caunrls in a class by thecaselveik.\nNo man ever amoked a\nkind of tobecce smoiked streight\n3"
+}

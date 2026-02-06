@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0431.png",
+    "image_width": 725,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "23062",
+      "bbox": [
+        120,
+        131,
+        135,
+        172
+      ],
+      "confidence": 0.9998565912246704
+    },
+    {
+      "text": "SOENNECKEN",
+      "bbox": [
+        137,
+        131,
+        169,
+        253
+      ],
+      "confidence": 0.9995525479316711
+    },
+    {
+      "text": "2504000571",
+      "bbox": [
+        419,
+        685,
+        527,
+        704
+      ],
+      "confidence": 0.99937903881073
+    }
+  ],
+  "full_text": "23062\nSOENNECKEN\n2504000571"
+}

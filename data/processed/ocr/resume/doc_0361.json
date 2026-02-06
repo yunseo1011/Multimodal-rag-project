@@ -1,0 +1,681 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0361.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Parkhurst, Lawrence J.",
+      "bbox": [
+        494,
+        0,
+        671,
+        13
+      ],
+      "confidence": 0.9783855676651001
+    },
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        290,
+        25,
+        456,
+        52
+      ],
+      "confidence": 0.9998173713684082
+    },
+    {
+      "text": "investigator program director. Photocopy this page for each person.",
+      "bbox": [
+        209,
+        61,
+        532,
+        94
+      ],
+      "confidence": 0.9865590333938599
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        0,
+        82,
+        36,
+        100
+      ],
+      "confidence": 0.9995971918106079
+    },
+    {
+      "text": "Parkhurst, Kay Martin",
+      "bbox": [
+        56,
+        90,
+        211,
+        120
+      ],
+      "confidence": 0.9993810057640076
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        339,
+        90,
+        426,
+        114
+      ],
+      "confidence": 0.9697598814964294
+    },
+    {
+      "text": "Research Associate",
+      "bbox": [
+        447,
+        104,
+        574,
+        128
+      ],
+      "confidence": 0.9865261912345886
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        110,
+        172,
+        267,
+        192
+      ],
+      "confidence": 0.9723525047302246
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        488,
+        169,
+        521,
+        184
+      ],
+      "confidence": 0.9987331628799438
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        386,
+        175,
+        437,
+        196
+      ],
+      "confidence": 0.9946227073669434
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        468,
+        180,
+        538,
+        198
+      ],
+      "confidence": 0.998702347278595
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        590,
+        179,
+        682,
+        199
+      ],
+      "confidence": 0.966052234172821
+    },
+    {
+      "text": "University of Nebraska College of Nursing",
+      "bbox": [
+        59,
+        232,
+        341,
+        256
+      ],
+      "confidence": 0.9866792559623718
+    },
+    {
+      "text": "B.S./R.N.",
+      "bbox": [
+        364,
+        239,
+        429,
+        256
+      ],
+      "confidence": 0.9906919002532959
+    },
+    {
+      "text": "5/72",
+      "bbox": [
+        494,
+        238,
+        531,
+        259
+      ],
+      "confidence": 0.9945379495620728
+    },
+    {
+      "text": "R.N.",
+      "bbox": [
+        590,
+        241,
+        626,
+        259
+      ],
+      "confidence": 0.9975684881210327
+    },
+    {
+      "text": "University of Nebraska, Lincoln",
+      "bbox": [
+        58,
+        251,
+        272,
+        274
+      ],
+      "confidence": 0.9724622368812561
+    },
+    {
+      "text": "PhD.",
+      "bbox": [
+        398,
+        257,
+        434,
+        275
+      ],
+      "confidence": 0.9986364841461182
+    },
+    {
+      "text": "5/91",
+      "bbox": [
+        493,
+        258,
+        525,
+        277
+      ],
+      "confidence": 0.9999213218688965
+    },
+    {
+      "text": "Chemistry",
+      "bbox": [
+        590,
+        257,
+        661,
+        282
+      ],
+      "confidence": 0.9989197254180908
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronciogical order, previous employment, experience, and",
+      "bbox": [
+        0,
+        275,
+        727,
+        303
+      ],
+      "confidence": 0.9732599854469299
+    },
+    {
+      "text": "honors. Key personnel include the principal investigator and any otherindividuals who participate in the scientific development or execution of the project",
+      "bbox": [
+        0,
+        289,
+        726,
+        317
+      ],
+      "confidence": 0.9229904413223267
+    },
+    {
+      "text": "Key personnel typicalfy will inctude all individuals with doctoralor other professinal degrees, but in some projects will includendividuals at the masters or",
+      "bbox": [
+        0,
+        303,
+        727,
+        330
+      ],
+      "confidence": 0.8475209474563599
+    },
+    {
+      "text": "bacalaureate evel provided they contnibute in a substantive way to the scientific development or execution of the project. Include presant membership on",
+      "bbox": [
+        0,
+        317,
+        728,
+        343
+      ],
+      "confidence": 0.9019662141799927
+    },
+    {
+      "text": "any Federal Govemment public advisory committee.Listin chronological order the tites all authorsand compiete references to al publications during the",
+      "bbox": [
+        0,
+        332,
+        727,
+        355
+      ],
+      "confidence": 0.8337768912315369
+    },
+    {
+      "text": "past three years and to representative earr publications pertinent t this aplication. if the list  publications n the last three years exceeds two pages.",
+      "bbox": [
+        0,
+        346,
+        726,
+        369
+      ],
+      "confidence": 0.784442663192749
+    },
+    {
+      "text": "select the mos! pertinent publications. DO NOT EXCEED TWO PAGES.",
+      "bbox": [
+        0,
+        361,
+        355,
+        377
+      ],
+      "confidence": 0.9823030233383179
+    },
+    {
+      "text": "Honors and Awards:",
+      "bbox": [
+        63,
+        389,
+        199,
+        406
+      ],
+      "confidence": 0.9771444797515869
+    },
+    {
+      "text": "Pre-doctoral fellowship, American Heart Association, NE affiliate 7/89 - 6/90",
+      "bbox": [
+        62,
+        406,
+        553,
+        426
+      ],
+      "confidence": 0.9944802522659302
+    },
+    {
+      "text": "Post-doctoral fellowship, Center for Biotechnology, Univ. NE., Lincoln, 3/91 - 2/93",
+      "bbox": [
+        61,
+        424,
+        594,
+        445
+      ],
+      "confidence": 0.9824163317680359
+    },
+    {
+      "text": "Publications:",
+      "bbox": [
+        62,
+        459,
+        152,
+        483
+      ],
+      "confidence": 0.9986810088157654
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        63,
+        483,
+        82,
+        502
+      ],
+      "confidence": 0.9990860223770142
+    },
+    {
+      "text": "K.D. Martin, L. Saari, W. Guang-Xin, T. Wang, L. J. Parkhurst, and R. V. Klucas,",
+      "bbox": [
+        114,
+        482,
+        632,
+        501
+      ],
+      "confidence": 0.9723761677742004
+    },
+    {
+      "text": "\"Kinetics and Thermodynamics of Oxygen, Co, and Azide Binding by the Subcomponents",
+      "bbox": [
+        114,
+        499,
+        678,
+        521
+      ],
+      "confidence": 0.9763553738594055
+    },
+    {
+      "text": "of Soybean Leghemoglobin\", (1990) J. Biol. Chem. 265, 19588-19593.",
+      "bbox": [
+        116,
+        520,
+        559,
+        537
+      ],
+      "confidence": 0.9570599794387817
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        65,
+        539,
+        83,
+        557
+      ],
+      "confidence": 0.9993727207183838
+    },
+    {
+      "text": "K.D. Martin and L.J. Parkhurst, \"Kinetics and Thermodynamics of Oxygen and Carbon",
+      "bbox": [
+        116,
+        538,
+        660,
+        555
+      ],
+      "confidence": 0.9881934523582458
+    },
+    {
+      "text": "Monoxide Binding to the T-State Hemoglobin of Urechis Caupo\", (1990) Biochemistry",
+      "bbox": [
+        116,
+        556,
+        661,
+        574
+      ],
+      "confidence": 0.9770321249961853
+    },
+    {
+      "text": "29, 5718-5726.",
+      "bbox": [
+        115,
+        572,
+        213,
+        592
+      ],
+      "confidence": 0.9932204484939575
+    },
+    {
+      "text": "K.D. Martin and L.J. Parkhurst, \"A Multipass Cuvette for Laser Photolysis Studies and Its",
+      "bbox": [
+        116,
+        592,
+        678,
+        609
+      ],
+      "confidence": 0.9895164966583252
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        66,
+        594,
+        84,
+        612
+      ],
+      "confidence": 0.998997688293457
+    },
+    {
+      "text": "Uses in Studying Hemoglobin Kinetics and Equilibria\", (1990) Anal. Biochem. 186, 288- 295.",
+      "bbox": [
+        115,
+        608,
+        708,
+        629
+      ],
+      "confidence": 0.9842913150787354
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        67,
+        629,
+        84,
+        647
+      ],
+      "confidence": 0.9998376369476318
+    },
+    {
+      "text": "K.D. Martin and L.J. Parkhurst, \"Rapid Preparation of Native Alpha and Beta Chains of",
+      "bbox": [
+        114,
+        626,
+        666,
+        647
+      ],
+      "confidence": 0.9851720333099365
+    },
+    {
+      "text": "Human Hemoglobin\", (1992) Intl. J. Biochem. 24, 993-998.",
+      "bbox": [
+        116,
+        647,
+        489,
+        664
+      ],
+      "confidence": 0.980525553226471
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        67,
+        664,
+        84,
+        683
+      ],
+      "confidence": 0.9997953772544861
+    },
+    {
+      "text": "L.J. Parkhurst, K.M. Parkhurst, and T.M. Larsen, \"Oxygen Equilibrium Studies on Cyano-",
+      "bbox": [
+        116,
+        665,
+        677,
+        682
+      ],
+      "confidence": 0.9783338308334351
+    },
+    {
+      "text": "Met Valency Hybrids as a Function of Protein Concentration and the Question of the",
+      "bbox": [
+        115,
+        682,
+        643,
+        701
+      ],
+      "confidence": 0.9911439418792725
+    },
+    {
+      "text": "Occurrence of Quaternary Enhancement\", (submitted, pre-prints available) J. Biol. Chem.",
+      "bbox": [
+        116,
+        703,
+        669,
+        720
+      ],
+      "confidence": 0.9834656715393066
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        66,
+        720,
+        84,
+        738
+      ],
+      "confidence": 0.9997473955154419
+    },
+    {
+      "text": "Parkhurst, L. J. and Parkhurst, K. M. (1994), \"Changes in the End-to End Distance",
+      "bbox": [
+        115,
+        721,
+        632,
+        738
+      ],
+      "confidence": 0.9944555163383484
+    },
+    {
+      "text": "Distribution in an Oligonucleotide Following Hybridization, Proc. Conf. Time-",
+      "bbox": [
+        115,
+        739,
+        606,
+        756
+      ],
+      "confidence": 0.9936034679412842
+    },
+    {
+      "text": "Resolved Laser Spectroscopy in Biochemistry IV\", SPIE 2137, 475-483.",
+      "bbox": [
+        115,
+        757,
+        566,
+        774
+      ],
+      "confidence": 0.9857472777366638
+    },
+    {
+      "text": "7.",
+      "bbox": [
+        63,
+        775,
+        82,
+        794
+      ],
+      "confidence": 0.9991171360015869
+    },
+    {
+      "text": "Hileman, R. E., Parkhurst, K. M., Gupta, N. K., and Parkhurst, L. J., (1994) \"Synthesis",
+      "bbox": [
+        115,
+        775,
+        655,
+        792
+      ],
+      "confidence": 0.9934144020080566
+    },
+    {
+      "text": "and Characterization of Conjugates Formed between Periodate-Oxidized",
+      "bbox": [
+        114,
+        792,
+        565,
+        810
+      ],
+      "confidence": 0.9915229678153992
+    },
+    {
+      "text": "Ribonucleotides and Amine-Containing Fluorophores\", Bioconjugate Chemistry 5, 436-444.",
+      "bbox": [
+        114,
+        811,
+        682,
+        829
+      ],
+      "confidence": 0.9841835498809814
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        62,
+        831,
+        81,
+        850
+      ],
+      "confidence": 0.9992502927780151
+    },
+    {
+      "text": "Parkhurst, K. M., Hileman, R. E., Saha, D., Gupta, N. K., and Parkhurst, L. J., (1994)",
+      "bbox": [
+        113,
+        830,
+        648,
+        847
+      ],
+      "confidence": 0.9777491092681885
+    },
+    {
+      "text": "\"Thermodynamic Characterization of the Cooperativity of 40S Complex Formation During the",
+      "bbox": [
+        115,
+        849,
+        707,
+        866
+      ],
+      "confidence": 0.9872677326202393
+    },
+    {
+      "text": "Initiation of Eukaryotic Protein Synthesis\", Biochemistry 33 15168-15177.",
+      "bbox": [
+        111,
+        865,
+        575,
+        885
+      ],
+      "confidence": 0.9846575260162354
+    },
+    {
+      "text": "9.",
+      "bbox": [
+        58,
+        887,
+        77,
+        906
+      ],
+      "confidence": 0.9974607229232788
+    },
+    {
+      "text": "Parkhurst, K. M. and Parkhurst, L. J. (1995), \"Kinetic Studies by Fluorescence Resonance",
+      "bbox": [
+        108,
+        882,
+        673,
+        904
+      ],
+      "confidence": 0.9890680313110352
+    },
+    {
+      "text": "Energy Transfer Employing a Double-Labeled Oligonucleotide: Hybridization to the",
+      "bbox": [
+        108,
+        898,
+        634,
+        924
+      ],
+      "confidence": 0.9867145419120789
+    },
+    {
+      "text": "Oligonucleotide Complement and to Single Stranded DNA\", Biochemistry 34, 285-292.",
+      "bbox": [
+        109,
+        917,
+        655,
+        944
+      ],
+      "confidence": 0.9940792322158813
+    },
+    {
+      "text": "(Form Page 6) Page",
+      "bbox": [
+        300,
+        975,
+        399,
+        998
+      ],
+      "confidence": 0.9492406845092773
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        694,
+        977,
+        718,
+        998
+      ],
+      "confidence": 0.9992332458496094
+    }
+  ],
+  "full_text": "Parkhurst, Lawrence J.\nBIOGRAPHICAL SKETCH\ninvestigator program director. Photocopy this page for each person.\nNAME\nParkhurst, Kay Martin\nPOSITION TITLE\nResearch Associate\nINSTITUTION AND LOCATION\nYEAR\nDEGREE\nCONFERRED\nFIELD OF STUDY\nUniversity of Nebraska College of Nursing\nB.S./R.N.\n5/72\nR.N.\nUniversity of Nebraska, Lincoln\nPhD.\n5/91\nChemistry\nRESEARCH AND PROFESSIONAL EXPERIENCE: Concluding with present position, list, in chronciogical order, previous employment, experience, and\nhonors. Key personnel include the principal investigator and any otherindividuals who participate in the scientific development or execution of the project\nKey personnel typicalfy will inctude all individuals with doctoralor other professinal degrees, but in some projects will includendividuals at the masters or\nbacalaureate evel provided they contnibute in a substantive way to the scientific development or execution of the project. Include presant membership on\nany Federal Govemment public advisory committee.Listin chronological order the tites all authorsand compiete references to al publications during the\npast three years and to representative earr publications pertinent t this aplication. if the list  publications n the last three years exceeds two pages.\nselect the mos! pertinent publications. DO NOT EXCEED TWO PAGES.\nHonors and Awards:\nPre-doctoral fellowship, American Heart Association, NE affiliate 7/89 - 6/90\nPost-doctoral fellowship, Center for Biotechnology, Univ. NE., Lincoln, 3/91 - 2/93\nPublications:\n1.\nK.D. Martin, L. Saari, W. Guang-Xin, T. Wang, L. J. Parkhurst, and R. V. Klucas,\n\"Kinetics and Thermodynamics of Oxygen, Co, and Azide Binding by the Subcomponents\nof Soybean Leghemoglobin\", (1990) J. Biol. Chem. 265, 19588-19593.\n2.\nK.D. Martin and L.J. Parkhurst, \"Kinetics and Thermodynamics of Oxygen and Carbon\nMonoxide Binding to the T-State Hemoglobin of Urechis Caupo\", (1990) Biochemistry\n29, 5718-5726.\nK.D. Martin and L.J. Parkhurst, \"A Multipass Cuvette for Laser Photolysis Studies and Its\n3.\nUses in Studying Hemoglobin Kinetics and Equilibria\", (1990) Anal. Biochem. 186, 288- 295.\n4.\nK.D. Martin and L.J. Parkhurst, \"Rapid Preparation of Native Alpha and Beta Chains of\nHuman Hemoglobin\", (1992) Intl. J. Biochem. 24, 993-998.\n5.\nL.J. Parkhurst, K.M. Parkhurst, and T.M. Larsen, \"Oxygen Equilibrium Studies on Cyano-\nMet Valency Hybrids as a Function of Protein Concentration and the Question of the\nOccurrence of Quaternary Enhancement\", (submitted, pre-prints available) J. Biol. Chem.\n6.\nParkhurst, L. J. and Parkhurst, K. M. (1994), \"Changes in the End-to End Distance\nDistribution in an Oligonucleotide Following Hybridization, Proc. Conf. Time-\nResolved Laser Spectroscopy in Biochemistry IV\", SPIE 2137, 475-483.\n7.\nHileman, R. E., Parkhurst, K. M., Gupta, N. K., and Parkhurst, L. J., (1994) \"Synthesis\nand Characterization of Conjugates Formed between Periodate-Oxidized\nRibonucleotides and Amine-Containing Fluorophores\", Bioconjugate Chemistry 5, 436-444.\n8.\nParkhurst, K. M., Hileman, R. E., Saha, D., Gupta, N. K., and Parkhurst, L. J., (1994)\n\"Thermodynamic Characterization of the Cooperativity of 40S Complex Formation During the\nInitiation of Eukaryotic Protein Synthesis\", Biochemistry 33 15168-15177.\n9.\nParkhurst, K. M. and Parkhurst, L. J. (1995), \"Kinetic Studies by Fluorescence Resonance\nEnergy Transfer Employing a Double-Labeled Oligonucleotide: Hybridization to the\nOligonucleotide Complement and to Single Stranded DNA\", Biochemistry 34, 285-292.\n(Form Page 6) Page\nFF"
+}

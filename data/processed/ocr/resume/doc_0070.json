@@ -1,0 +1,681 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0070.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        326,
+        30,
+        477,
+        55
+      ],
+      "confidence": 0.9923505187034607
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        51,
+        66,
+        92,
+        89
+      ],
+      "confidence": 0.999762773513794
+    },
+    {
+      "text": "Birthdate",
+      "bbox": [
+        474,
+        84,
+        551,
+        107
+      ],
+      "confidence": 0.9989489316940308
+    },
+    {
+      "text": "Schnaper, H. William",
+      "bbox": [
+        54,
+        103,
+        220,
+        130
+      ],
+      "confidence": 0.9981715083122253
+    },
+    {
+      "text": "3/16/50",
+      "bbox": [
+        496,
+        117,
+        560,
+        141
+      ],
+      "confidence": 0.9999008774757385
+    },
+    {
+      "text": "Education:",
+      "bbox": [
+        54,
+        138,
+        140,
+        163
+      ],
+      "confidence": 0.9985170364379883
+    },
+    {
+      "text": "Degree",
+      "bbox": [
+        379,
+        147,
+        434,
+        171
+      ],
+      "confidence": 0.9997960925102234
+    },
+    {
+      "text": "Year",
+      "bbox": [
+        471,
+        149,
+        512,
+        173
+      ],
+      "confidence": 0.9998133778572083
+    },
+    {
+      "text": "Field of Study",
+      "bbox": [
+        543,
+        151,
+        660,
+        177
+      ],
+      "confidence": 0.9984817504882812
+    },
+    {
+      "text": "Yale University, New Haven, CT",
+      "bbox": [
+        56,
+        172,
+        299,
+        202
+      ],
+      "confidence": 0.9920212030410767
+    },
+    {
+      "text": "B.A.",
+      "bbox": [
+        385,
+        178,
+        424,
+        201
+      ],
+      "confidence": 0.8986636400222778
+    },
+    {
+      "text": "1971",
+      "bbox": [
+        464,
+        180,
+        502,
+        203
+      ],
+      "confidence": 0.9998982548713684
+    },
+    {
+      "text": "Philosophy",
+      "bbox": [
+        559,
+        183,
+        644,
+        210
+      ],
+      "confidence": 0.9988544583320618
+    },
+    {
+      "text": "University of Maryland, Baltimore, MD",
+      "bbox": [
+        57,
+        188,
+        353,
+        219
+      ],
+      "confidence": 0.9827417135238647
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        385,
+        195,
+        424,
+        217
+      ],
+      "confidence": 0.9994052052497864
+    },
+    {
+      "text": "1975",
+      "bbox": [
+        465,
+        199,
+        503,
+        218
+      ],
+      "confidence": 0.9999411106109619
+    },
+    {
+      "text": "Medicine",
+      "bbox": [
+        559,
+        200,
+        629,
+        222
+      ],
+      "confidence": 0.9982107281684875
+    },
+    {
+      "text": "Experience:",
+      "bbox": [
+        58,
+        224,
+        149,
+        248
+      ],
+      "confidence": 0.999538242816925
+    },
+    {
+      "text": "1975",
+      "bbox": [
+        59,
+        258,
+        96,
+        277
+      ],
+      "confidence": 0.9999759197235107
+    },
+    {
+      "text": "Intern in Pediatrics, Mount Sinai Medical Center, New York, NY",
+      "bbox": [
+        136,
+        257,
+        627,
+        288
+      ],
+      "confidence": 0.9902899265289307
+    },
+    {
+      "text": "1976-78",
+      "bbox": [
+        60,
+        277,
+        119,
+        295
+      ],
+      "confidence": 0.999954342842102
+    },
+    {
+      "text": "Resident in Pediatrics, Mount Sinai Medical Center, New York, NY",
+      "bbox": [
+        136,
+        276,
+        640,
+        305
+      ],
+      "confidence": 0.9962621331214905
+    },
+    {
+      "text": "Chief Resident and Instructor in Pediatrics, Mount Sinai Medical Center and",
+      "bbox": [
+        135,
+        292,
+        728,
+        326
+      ],
+      "confidence": 0.9850038886070251
+    },
+    {
+      "text": "1977-78",
+      "bbox": [
+        60,
+        293,
+        119,
+        315
+      ],
+      "confidence": 0.9998759031295776
+    },
+    {
+      "text": "Mount Sinai School of Medicine, New York, NY",
+      "bbox": [
+        137,
+        311,
+        481,
+        332
+      ],
+      "confidence": 0.9803898334503174
+    },
+    {
+      "text": "1978-80",
+      "bbox": [
+        60,
+        328,
+        120,
+        346
+      ],
+      "confidence": 0.9999219179153442
+    },
+    {
+      "text": "Physician, National Health Service Corps., U.S. Public Health Services,",
+      "bbox": [
+        136,
+        327,
+        693,
+        355
+      ],
+      "confidence": 0.9896001815795898
+    },
+    {
+      "text": "Chester, PA",
+      "bbox": [
+        138,
+        347,
+        228,
+        364
+      ],
+      "confidence": 0.9988391995429993
+    },
+    {
+      "text": "1980-82",
+      "bbox": [
+        60,
+        359,
+        120,
+        380
+      ],
+      "confidence": 0.9999514818191528
+    },
+    {
+      "text": "Fellow in Pediatrics (Nephrology), St. Louis Children's Hospital and",
+      "bbox": [
+        135,
+        359,
+        671,
+        386
+      ],
+      "confidence": 0.9875578880310059
+    },
+    {
+      "text": "Washington University School of Medicine, St. Louis, MO",
+      "bbox": [
+        137,
+        378,
+        569,
+        402
+      ],
+      "confidence": 0.9928141236305237
+    },
+    {
+      "text": "1982-83",
+      "bbox": [
+        59,
+        392,
+        119,
+        413
+      ],
+      "confidence": 0.9999553561210632
+    },
+    {
+      "text": "Instructor in Pediatrics, Washington University School of Medicine, St.",
+      "bbox": [
+        136,
+        393,
+        691,
+        420
+      ],
+      "confidence": 0.9943059086799622
+    },
+    {
+      "text": "Louis, MO",
+      "bbox": [
+        136,
+        411,
+        211,
+        432
+      ],
+      "confidence": 0.9907214045524597
+    },
+    {
+      "text": "1982-",
+      "bbox": [
+        59,
+        426,
+        102,
+        445
+      ],
+      "confidence": 0.9999362826347351
+    },
+    {
+      "text": "Assistant Attending in Pediatrics, St. Louis Children's Hospital and Barnes",
+      "bbox": [
+        135,
+        425,
+        724,
+        454
+      ],
+      "confidence": 0.9894399046897888
+    },
+    {
+      "text": "Hospital, St. Louis, MO",
+      "bbox": [
+        138,
+        446,
+        317,
+        463
+      ],
+      "confidence": 0.9776572585105896
+    },
+    {
+      "text": "1982-",
+      "bbox": [
+        58,
+        460,
+        102,
+        479
+      ],
+      "confidence": 0.9998942613601685
+    },
+    {
+      "text": "Adjunct in Pathology, The Jewish Hospital of St. Louis, St. Louis, MO",
+      "bbox": [
+        136,
+        460,
+        675,
+        485
+      ],
+      "confidence": 0.9886858463287354
+    },
+    {
+      "text": "1983-",
+      "bbox": [
+        58,
+        478,
+        102,
+        496
+      ],
+      "confidence": 0.999164879322052
+    },
+    {
+      "text": "Assistant Professor of Pediatrics, Washington University School of Medicine,",
+      "bbox": [
+        135,
+        477,
+        730,
+        504
+      ],
+      "confidence": 0.9904065132141113
+    },
+    {
+      "text": "St. Louis, MO",
+      "bbox": [
+        136,
+        494,
+        239,
+        514
+      ],
+      "confidence": 0.9865525364875793
+    },
+    {
+      "text": "Certifications:",
+      "bbox": [
+        58,
+        526,
+        177,
+        546
+      ],
+      "confidence": 0.9994899034500122
+    },
+    {
+      "text": "1980",
+      "bbox": [
+        56,
+        557,
+        95,
+        579
+      ],
+      "confidence": 0.9999679327011108
+    },
+    {
+      "text": "American Board of Pediatrics",
+      "bbox": [
+        135,
+        560,
+        353,
+        580
+      ],
+      "confidence": 0.9834456443786621
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        57,
+        576,
+        93,
+        595
+      ],
+      "confidence": 0.9997432231903076
+    },
+    {
+      "text": "American Board of Pediatrics, Sub-Board in Nephrology",
+      "bbox": [
+        133,
+        575,
+        547,
+        599
+      ],
+      "confidence": 0.9990578293800354
+    },
+    {
+      "text": "Memberships and Awards:",
+      "bbox": [
+        56,
+        608,
+        237,
+        627
+      ],
+      "confidence": 0.9991826415061951
+    },
+    {
+      "text": "1981-82",
+      "bbox": [
+        56,
+        641,
+        115,
+        658
+      ],
+      "confidence": 0.9999728798866272
+    },
+    {
+      "text": "National Kidney Foundation Research Fellowship Award",
+      "bbox": [
+        133,
+        642,
+        539,
+        663
+      ],
+      "confidence": 0.997970461845398
+    },
+    {
+      "text": "1982-83",
+      "bbox": [
+        56,
+        657,
+        115,
+        674
+      ],
+      "confidence": 0.999422550201416
+    },
+    {
+      "text": "National Kidney Foundation of Eastern Missouri and Metro East Fellowship Award",
+      "bbox": [
+        132,
+        655,
+        744,
+        682
+      ],
+      "confidence": 0.968778669834137
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        55,
+        673,
+        92,
+        693
+      ],
+      "confidence": 0.9999136924743652
+    },
+    {
+      "text": "International Society of Nephrology",
+      "bbox": [
+        134,
+        673,
+        405,
+        696
+      ],
+      "confidence": 0.9966438412666321
+    },
+    {
+      "text": "1984-",
+      "bbox": [
+        54,
+        687,
+        99,
+        709
+      ],
+      "confidence": 0.9213279485702515
+    },
+    {
+      "text": "Clinical Investigator Award, NIDDK",
+      "bbox": [
+        133,
+        689,
+        399,
+        710
+      ],
+      "confidence": 0.9910235404968262
+    },
+    {
+      "text": "1984",
+      "bbox": [
+        54,
+        707,
+        91,
+        725
+      ],
+      "confidence": 0.9999698400497437
+    },
+    {
+      "text": "American Society of Pediatric Nephrology",
+      "bbox": [
+        133,
+        706,
+        442,
+        728
+      ],
+      "confidence": 0.9882488250732422
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        55,
+        722,
+        91,
+        740
+      ],
+      "confidence": 0.9993262887001038
+    },
+    {
+      "text": "American Association of Immunologists",
+      "bbox": [
+        132,
+        722,
+        420,
+        742
+      ],
+      "confidence": 0.998136043548584
+    },
+    {
+      "text": "1985",
+      "bbox": [
+        54,
+        739,
+        92,
+        757
+      ],
+      "confidence": 0.9999662637710571
+    },
+    {
+      "text": "American Society of Nephrology",
+      "bbox": [
+        133,
+        739,
+        365,
+        759
+      ],
+      "confidence": 0.9746719598770142
+    },
+    {
+      "text": "Publications:",
+      "bbox": [
+        55,
+        771,
+        158,
+        788
+      ],
+      "confidence": 0.999501645565033
+    },
+    {
+      "text": "Schnaper, H.W., B.R. Cole, F.J. Hodges, and A.M. Robson. 1983. Cerebral cortical",
+      "bbox": [
+        55,
+        801,
+        691,
+        826
+      ],
+      "confidence": 0.9846194982528687
+    },
+    {
+      "text": "atrophy in pediatric patients with end-stage renal disease. Am. J. Kid. Dis. 2:645.",
+      "bbox": [
+        54,
+        816,
+        707,
+        843
+      ],
+      "confidence": 0.9899702072143555
+    },
+    {
+      "text": "Schnaper, H.W., T.M. Aune and C.W. Pierce. 1983. Suppressor T cell activation by",
+      "bbox": [
+        54,
+        847,
+        692,
+        876
+      ],
+      "confidence": 0.9801205396652222
+    },
+    {
+      "text": "human 1eukocyte interferon. J. Immunol. 131:2301.",
+      "bbox": [
+        55,
+        866,
+        438,
+        887
+      ],
+      "confidence": 0.9857462048530579
+    }
+  ],
+  "full_text": "BIOGRAPHICAL SKETCH\nName\nBirthdate\nSchnaper, H. William\n3/16/50\nEducation:\nDegree\nYear\nField of Study\nYale University, New Haven, CT\nB.A.\n1971\nPhilosophy\nUniversity of Maryland, Baltimore, MD\nM.D.\n1975\nMedicine\nExperience:\n1975\nIntern in Pediatrics, Mount Sinai Medical Center, New York, NY\n1976-78\nResident in Pediatrics, Mount Sinai Medical Center, New York, NY\nChief Resident and Instructor in Pediatrics, Mount Sinai Medical Center and\n1977-78\nMount Sinai School of Medicine, New York, NY\n1978-80\nPhysician, National Health Service Corps., U.S. Public Health Services,\nChester, PA\n1980-82\nFellow in Pediatrics (Nephrology), St. Louis Children's Hospital and\nWashington University School of Medicine, St. Louis, MO\n1982-83\nInstructor in Pediatrics, Washington University School of Medicine, St.\nLouis, MO\n1982-\nAssistant Attending in Pediatrics, St. Louis Children's Hospital and Barnes\nHospital, St. Louis, MO\n1982-\nAdjunct in Pathology, The Jewish Hospital of St. Louis, St. Louis, MO\n1983-\nAssistant Professor of Pediatrics, Washington University School of Medicine,\nSt. Louis, MO\nCertifications:\n1980\nAmerican Board of Pediatrics\n1982\nAmerican Board of Pediatrics, Sub-Board in Nephrology\nMemberships and Awards:\n1981-82\nNational Kidney Foundation Research Fellowship Award\n1982-83\nNational Kidney Foundation of Eastern Missouri and Metro East Fellowship Award\n1983\nInternational Society of Nephrology\n1984-\nClinical Investigator Award, NIDDK\n1984\nAmerican Society of Pediatric Nephrology\n1985\nAmerican Association of Immunologists\n1985\nAmerican Society of Nephrology\nPublications:\nSchnaper, H.W., B.R. Cole, F.J. Hodges, and A.M. Robson. 1983. Cerebral cortical\natrophy in pediatric patients with end-stage renal disease. Am. J. Kid. Dis. 2:645.\nSchnaper, H.W., T.M. Aune and C.W. Pierce. 1983. Suppressor T cell activation by\nhuman 1eukocyte interferon. J. Immunol. 131:2301."
+}

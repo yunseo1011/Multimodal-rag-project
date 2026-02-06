@@ -1,0 +1,1181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0740.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Revised July 24, 1992",
+      "bbox": [
+        479,
+        24,
+        684,
+        51
+      ],
+      "confidence": 0.9984301328659058
+    },
+    {
+      "text": "Quality Assurance Specifications",
+      "bbox": [
+        197,
+        41,
+        515,
+        79
+      ],
+      "confidence": 0.9699490070343018
+    },
+    {
+      "text": "MONTCLAIR Full Flavor Kings",
+      "bbox": [
+        237,
+        78,
+        502,
+        107
+      ],
+      "confidence": 0.9681851863861084
+    },
+    {
+      "text": "MC85",
+      "bbox": [
+        331,
+        97,
+        378,
+        119
+      ],
+      "confidence": 0.9997886419296265
+    },
+    {
+      "text": "Physical Properties:",
+      "bbox": [
+        44,
+        115,
+        248,
+        147
+      ],
+      "confidence": 0.9998418688774109
+    },
+    {
+      "text": "Length of Cigt (mm)",
+      "bbox": [
+        65,
+        134,
+        255,
+        164
+      ],
+      "confidence": 0.9813002347946167
+    },
+    {
+      "text": "Length of Fiiter (mm)",
+      "bbox": [
+        64,
+        150,
+        275,
+        182
+      ],
+      "confidence": 0.9861477613449097
+    },
+    {
+      "text": "85 ± 0.5",
+      "bbox": [
+        496,
+        149,
+        579,
+        169
+      ],
+      "confidence": 0.942243218421936
+    },
+    {
+      "text": "Length of Tipping (mm)",
+      "bbox": [
+        63,
+        166,
+        286,
+        198
+      ],
+      "confidence": 0.9911426901817322
+    },
+    {
+      "text": "20",
+      "bbox": [
+        497,
+        166,
+        521,
+        182
+      ],
+      "confidence": 0.9998558759689331
+    },
+    {
+      "text": "Cigt Wt - Target (g/ioo cigts)",
+      "bbox": [
+        64,
+        182,
+        362,
+        216
+      ],
+      "confidence": 0.9728925228118896
+    },
+    {
+      "text": "24",
+      "bbox": [
+        496,
+        182,
+        520,
+        198
+      ],
+      "confidence": 0.9999122023582458
+    },
+    {
+      "text": "Std Dev - Limit (mg)",
+      "bbox": [
+        64,
+        199,
+        263,
+        226
+      ],
+      "confidence": 0.974811851978302
+    },
+    {
+      "text": "100.4 ± 1",
+      "bbox": [
+        467,
+        198,
+        560,
+        215
+      ],
+      "confidence": 0.9856707453727722
+    },
+    {
+      "text": "Tobacco Wt Target (mg)",
+      "bbox": [
+        63,
+        216,
+        283,
+        242
+      ],
+      "confidence": 0.9690799713134766
+    },
+    {
+      "text": "24.1",
+      "bbox": [
+        477,
+        213,
+        520,
+        228
+      ],
+      "confidence": 0.8909854888916016
+    },
+    {
+      "text": "Tobacco (ozs/1000)",
+      "bbox": [
+        62,
+        231,
+        244,
+        257
+      ],
+      "confidence": 0.9732603430747986
+    },
+    {
+      "text": "782.6 ± 10",
+      "bbox": [
+        466,
+        227,
+        569,
+        244
+      ],
+      "confidence": 0.9822079539299011
+    },
+    {
+      "text": "Density (g/cc)",
+      "bbox": [
+        62,
+        247,
+        205,
+        273
+      ],
+      "confidence": 0.9875615239143372
+    },
+    {
+      "text": "27.6071 ± 0.3528",
+      "bbox": [
+        447,
+        241,
+        604,
+        261
+      ],
+      "confidence": 0.9948549270629883
+    },
+    {
+      "text": "Moisture (*%)",
+      "bbox": [
+        61,
+        261,
+        186,
+        289
+      ],
+      "confidence": 0.8754027485847473
+    },
+    {
+      "text": ".244 ± 0.005",
+      "bbox": [
+        476,
+        256,
+        596,
+        277
+      ],
+      "confidence": 0.9884561896324158
+    },
+    {
+      "text": "13.0 ± 0.4",
+      "bbox": [
+        475,
+        272,
+        577,
+        291
+      ],
+      "confidence": 0.982160747051239
+    },
+    {
+      "text": "Firmness (mm)",
+      "bbox": [
+        63,
+        279,
+        194,
+        304
+      ],
+      "confidence": 0.9486300349235535
+    },
+    {
+      "text": "1.75 ± 0.20",
+      "bbox": [
+        475,
+        288,
+        586,
+        307
+      ],
+      "confidence": 0.9800611138343811
+    },
+    {
+      "text": "Ventilation (%)",
+      "bbox": [
+        63,
+        294,
+        214,
+        320
+      ],
+      "confidence": 0.9646109938621521
+    },
+    {
+      "text": "11 ± 4",
+      "bbox": [
+        496,
+        304,
+        559,
+        322
+      ],
+      "confidence": 0.9878342151641846
+    },
+    {
+      "text": "Pressure Drop: Cigt - Open",
+      "bbox": [
+        63,
+        311,
+        331,
+        337
+      ],
+      "confidence": 0.947625994682312
+    },
+    {
+      "text": "(cm)",
+      "bbox": [
+        333,
+        320,
+        370,
+        338
+      ],
+      "confidence": 0.9995307922363281
+    },
+    {
+      "text": "11.0 ± 1.0",
+      "bbox": [
+        475,
+        318,
+        577,
+        338
+      ],
+      "confidence": 0.9878752827644348
+    },
+    {
+      "text": "Tip - closed",
+      "bbox": [
+        202,
+        329,
+        328,
+        351
+      ],
+      "confidence": 0.9762396812438965
+    },
+    {
+      "text": "(cm)",
+      "bbox": [
+        333,
+        335,
+        370,
+        353
+      ],
+      "confidence": 0.9994556903839111
+    },
+    {
+      "text": "6.0 ± 0.5",
+      "bbox": [
+        486,
+        336,
+        576,
+        353
+      ],
+      "confidence": 0.9573684334754944
+    },
+    {
+      "text": "Tobacco Column",
+      "bbox": [
+        182,
+        346,
+        329,
+        367
+      ],
+      "confidence": 0.9990525841712952
+    },
+    {
+      "text": "(cm)",
+      "bbox": [
+        332,
+        351,
+        370,
+        369
+      ],
+      "confidence": 0.9993140697479248
+    },
+    {
+      "text": "6.5 ± 1.0",
+      "bbox": [
+        485,
+        351,
+        576,
+        369
+      ],
+      "confidence": 0.9917994737625122
+    },
+    {
+      "text": "Circumference (mm)",
+      "bbox": [
+        64,
+        360,
+        245,
+        384
+      ],
+      "confidence": 0.9922680258750916
+    },
+    {
+      "text": "24.90 ± 0.1",
+      "bbox": [
+        464,
+        366,
+        576,
+        385
+      ],
+      "confidence": 0.9897092580795288
+    },
+    {
+      "text": "Fireholding (%)",
+      "bbox": [
+        66,
+        377,
+        213,
+        398
+      ],
+      "confidence": 0.9758573770523071
+    },
+    {
+      "text": "less",
+      "bbox": [
+        388,
+        381,
+        431,
+        398
+      ],
+      "confidence": 0.9997465014457703
+    },
+    {
+      "text": "than",
+      "bbox": [
+        435,
+        382,
+        479,
+        399
+      ],
+      "confidence": 0.999980628490448
+    },
+    {
+      "text": "Sieve Analysis: On 2 mm",
+      "bbox": [
+        66,
+        394,
+        299,
+        413
+      ],
+      "confidence": 0.9556037783622742
+    },
+    {
+      "text": "(%)",
+      "bbox": [
+        303,
+        395,
+        333,
+        414
+      ],
+      "confidence": 0.8587948679924011
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        350,
+        383,
+        383,
+        397
+      ],
+      "confidence": 0.9999596476554871
+    },
+    {
+      "text": "than",
+      "bbox": [
+        435,
+        396,
+        481,
+        417
+      ],
+      "confidence": 0.9999609589576721
+    },
+    {
+      "text": "80",
+      "bbox": [
+        493,
+        383,
+        519,
+        398
+      ],
+      "confidence": 0.9998492002487183
+    },
+    {
+      "text": "on i mm",
+      "bbox": [
+        222,
+        409,
+        298,
+        430
+      ],
+      "confidence": 0.9109421968460083
+    },
+    {
+      "text": "(%)",
+      "bbox": [
+        304,
+        412,
+        332,
+        428
+      ],
+      "confidence": 0.9053192734718323
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        350,
+        398,
+        383,
+        413
+      ],
+      "confidence": 0.9999567866325378
+    },
+    {
+      "text": "less",
+      "bbox": [
+        389,
+        398,
+        432,
+        413
+      ],
+      "confidence": 0.9998695254325867
+    },
+    {
+      "text": "37.5",
+      "bbox": [
+        494,
+        399,
+        536,
+        414
+      ],
+      "confidence": 0.9999655485153198
+    },
+    {
+      "text": "On 1/2",
+      "bbox": [
+        204,
+        426,
+        270,
+        444
+      ],
+      "confidence": 0.9942612051963806
+    },
+    {
+      "text": "(%)",
+      "bbox": [
+        303,
+        425,
+        333,
+        445
+      ],
+      "confidence": 0.9431067109107971
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        349,
+        426,
+        383,
+        445
+      ],
+      "confidence": 0.9998610019683838
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        351,
+        413,
+        383,
+        428
+      ],
+      "confidence": 0.9999459385871887
+    },
+    {
+      "text": "more",
+      "bbox": [
+        388,
+        414,
+        431,
+        428
+      ],
+      "confidence": 0.9999268054962158
+    },
+    {
+      "text": "than",
+      "bbox": [
+        435,
+        425,
+        479,
+        445
+      ],
+      "confidence": 0.9997719526290894
+    },
+    {
+      "text": "than",
+      "bbox": [
+        437,
+        413,
+        479,
+        428
+      ],
+      "confidence": 0.99998539686203
+    },
+    {
+      "text": "49.0",
+      "bbox": [
+        495,
+        414,
+        536,
+        429
+      ],
+      "confidence": 0.9998591542243958
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        268,
+        428,
+        298,
+        443
+      ],
+      "confidence": 0.9988765716552734
+    },
+    {
+      "text": "(%)",
+      "bbox": [
+        303,
+        442,
+        333,
+        461
+      ],
+      "confidence": 0.8281887173652649
+    },
+    {
+      "text": "more",
+      "bbox": [
+        388,
+        429,
+        431,
+        444
+      ],
+      "confidence": 0.9997409582138062
+    },
+    {
+      "text": "than",
+      "bbox": [
+        435,
+        442,
+        479,
+        461
+      ],
+      "confidence": 0.9999533891677856
+    },
+    {
+      "text": "12.5",
+      "bbox": [
+        495,
+        429,
+        535,
+        445
+      ],
+      "confidence": 0.9999316930770874
+    },
+    {
+      "text": "Thru 1/2",
+      "bbox": [
+        186,
+        443,
+        270,
+        460
+      ],
+      "confidence": 0.9885008335113525
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        267,
+        445,
+        297,
+        459
+      ],
+      "confidence": 0.9988610744476318
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        350,
+        444,
+        383,
+        459
+      ],
+      "confidence": 0.9999502301216125
+    },
+    {
+      "text": "more",
+      "bbox": [
+        388,
+        445,
+        431,
+        459
+      ],
+      "confidence": 0.9999760985374451
+    },
+    {
+      "text": "1.0",
+      "bbox": [
+        504,
+        445,
+        536,
+        460
+      ],
+      "confidence": 0.9998005032539368
+    },
+    {
+      "text": "Loose Ends (mg/cigt)",
+      "bbox": [
+        68,
+        459,
+        264,
+        476
+      ],
+      "confidence": 0.9756768941879272
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        350,
+        459,
+        383,
+        476
+      ],
+      "confidence": 0.9999240040779114
+    },
+    {
+      "text": "more",
+      "bbox": [
+        387,
+        460,
+        430,
+        475
+      ],
+      "confidence": 0.9998334050178528
+    },
+    {
+      "text": "than",
+      "bbox": [
+        434,
+        471,
+        480,
+        492
+      ],
+      "confidence": 0.9994885921478271
+    },
+    {
+      "text": "than",
+      "bbox": [
+        437,
+        460,
+        478,
+        475
+      ],
+      "confidence": 0.9999486207962036
+    },
+    {
+      "text": "7.0",
+      "bbox": [
+        504,
+        460,
+        535,
+        475
+      ],
+      "confidence": 0.999675452709198
+    },
+    {
+      "text": "Slivers (%)",
+      "bbox": [
+        67,
+        474,
+        178,
+        494
+      ],
+      "confidence": 0.9973012804985046
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        350,
+        475,
+        382,
+        490
+      ],
+      "confidence": 0.9999484419822693
+    },
+    {
+      "text": "more",
+      "bbox": [
+        387,
+        476,
+        430,
+        490
+      ],
+      "confidence": 0.9999710321426392
+    },
+    {
+      "text": "1.75",
+      "bbox": [
+        504,
+        476,
+        545,
+        491
+      ],
+      "confidence": 0.9998651742935181
+    },
+    {
+      "text": "Width of 'cut (cuts/inch)",
+      "bbox": [
+        67,
+        489,
+        303,
+        508
+      ],
+      "confidence": 0.9730573892593384
+    },
+    {
+      "text": "29 ± 1",
+      "bbox": [
+        494,
+        490,
+        556,
+        507
+      ],
+      "confidence": 0.9608204960823059
+    },
+    {
+      "text": "Paper Porosity (sec/5occ)",
+      "bbox": [
+        68,
+        504,
+        312,
+        524
+      ],
+      "confidence": 0.993989109992981
+    },
+    {
+      "text": "15 ± 3.5",
+      "bbox": [
+        495,
+        506,
+        573,
+        520
+      ],
+      "confidence": 0.941367506980896
+    },
+    {
+      "text": "Pack overwrap Leakage:",
+      "bbox": [
+        68,
+        520,
+        286,
+        539
+      ],
+      "confidence": 0.9806061387062073
+    },
+    {
+      "text": "Scandia/Focke (cc/sec)",
+      "bbox": [
+        118,
+        534,
+        333,
+        555
+      ],
+      "confidence": 0.9957354068756104
+    },
+    {
+      "text": "Not more",
+      "bbox": [
+        349,
+        535,
+        433,
+        552
+      ],
+      "confidence": 0.9976251125335693
+    },
+    {
+      "text": "than",
+      "bbox": [
+        436,
+        536,
+        478,
+        551
+      ],
+      "confidence": 0.9999780058860779
+    },
+    {
+      "text": "10",
+      "bbox": [
+        494,
+        535,
+        517,
+        551
+      ],
+      "confidence": 0.9998248815536499
+    },
+    {
+      "text": "GD (cc/sec)",
+      "bbox": [
+        119,
+        551,
+        227,
+        572
+      ],
+      "confidence": 0.9974844455718994
+    },
+    {
+      "text": "Not",
+      "bbox": [
+        351,
+        552,
+        386,
+        567
+      ],
+      "confidence": 0.9998888969421387
+    },
+    {
+      "text": "more",
+      "bbox": [
+        383,
+        552,
+        431,
+        567
+      ],
+      "confidence": 0.9990143775939941
+    },
+    {
+      "text": "than",
+      "bbox": [
+        436,
+        551,
+        478,
+        567
+      ],
+      "confidence": 0.9999624490737915
+    },
+    {
+      "text": "5",
+      "bbox": [
+        504,
+        552,
+        517,
+        567
+      ],
+      "confidence": 0.9999713897705078
+    },
+    {
+      "text": "Carton Seals:",
+      "bbox": [
+        72,
+        566,
+        200,
+        586
+      ],
+      "confidence": 0.9987497329711914
+    },
+    {
+      "text": "(force-to-open) (g)",
+      "bbox": [
+        122,
+        582,
+        304,
+        601
+      ],
+      "confidence": 0.9810280203819275
+    },
+    {
+      "text": "Not more",
+      "bbox": [
+        350,
+        582,
+        434,
+        599
+      ],
+      "confidence": 0.9997388124465942
+    },
+    {
+      "text": "than",
+      "bbox": [
+        435,
+        583,
+        482,
+        598
+      ],
+      "confidence": 0.9999745488166809
+    },
+    {
+      "text": "800",
+      "bbox": [
+        478,
+        583,
+        516,
+        597
+      ],
+      "confidence": 0.9995956420898438
+    },
+    {
+      "text": "Tobacco Analysis:",
+      "bbox": [
+        54,
+        628,
+        218,
+        647
+      ],
+      "confidence": 0.9995405673980713
+    },
+    {
+      "text": "TVB as Ammonia (%)",
+      "bbox": [
+        73,
+        643,
+        246,
+        662
+      ],
+      "confidence": 0.9890246987342834
+    },
+    {
+      "text": "0.67 ± 0.05",
+      "bbox": [
+        473,
+        639,
+        584,
+        659
+      ],
+      "confidence": 0.9776824712753296
+    },
+    {
+      "text": "Nicotine (%)",
+      "bbox": [
+        74,
+        661,
+        190,
+        678
+      ],
+      "confidence": 0.9998056292533875
+    },
+    {
+      "text": "2.08 ± 0.10",
+      "bbox": [
+        473,
+        654,
+        584,
+        675
+      ],
+      "confidence": 0.9811409115791321
+    },
+    {
+      "text": "Smoke Analysis:",
+      "bbox": [
+        55,
+        706,
+        201,
+        726
+      ],
+      "confidence": 0.9992843270301819
+    },
+    {
+      "text": "Length Smoked (mm)",
+      "bbox": [
+        73,
+        721,
+        246,
+        740
+      ],
+      "confidence": 0.9871866703033447
+    },
+    {
+      "text": "58",
+      "bbox": [
+        493,
+        718,
+        517,
+        734
+      ],
+      "confidence": 0.9999685287475586
+    },
+    {
+      "text": "Puffs Per Cigt",
+      "bbox": [
+        74,
+        736,
+        212,
+        755
+      ],
+      "confidence": 0.9983891844749451
+    },
+    {
+      "text": "9.0 ± 0.5",
+      "bbox": [
+        482,
+        730,
+        575,
+        750
+      ],
+      "confidence": 0.9589932560920715
+    },
+    {
+      "text": "\"Tar\"",
+      "bbox": [
+        76,
+        754,
+        127,
+        770
+      ],
+      "confidence": 0.9996783137321472
+    },
+    {
+      "text": "(mg/cigt)",
+      "bbox": [
+        132,
+        751,
+        218,
+        770
+      ],
+      "confidence": 0.9977899193763733
+    },
+    {
+      "text": "16 ± 1.0",
+      "bbox": [
+        493,
+        747,
+        574,
+        764
+      ],
+      "confidence": 0.9810900688171387
+    },
+    {
+      "text": "(mg/puff)",
+      "bbox": [
+        135,
+        766,
+        218,
+        785
+      ],
+      "confidence": 0.989093542098999
+    },
+    {
+      "text": "1.8",
+      "bbox": [
+        484,
+        764,
+        517,
+        778
+      ],
+      "confidence": 0.9997901916503906
+    },
+    {
+      "text": "Nicotine (mg/cigt)",
+      "bbox": [
+        75,
+        782,
+        246,
+        799
+      ],
+      "confidence": 0.9893308281898499
+    },
+    {
+      "text": "1.3 ± 0.1",
+      "bbox": [
+        483,
+        777,
+        574,
+        794
+      ],
+      "confidence": 0.9952515363693237
+    },
+    {
+      "text": "(mg/puff)",
+      "bbox": [
+        164,
+        797,
+        246,
+        815
+      ],
+      "confidence": 0.9927558898925781
+    },
+    {
+      "text": "0.14",
+      "bbox": [
+        475,
+        793,
+        516,
+        808
+      ],
+      "confidence": 0.9998592138290405
+    }
+  ],
+  "full_text": "Revised July 24, 1992\nQuality Assurance Specifications\nMONTCLAIR Full Flavor Kings\nMC85\nPhysical Properties:\nLength of Cigt (mm)\nLength of Fiiter (mm)\n85 ± 0.5\nLength of Tipping (mm)\n20\nCigt Wt - Target (g/ioo cigts)\n24\nStd Dev - Limit (mg)\n100.4 ± 1\nTobacco Wt Target (mg)\n24.1\nTobacco (ozs/1000)\n782.6 ± 10\nDensity (g/cc)\n27.6071 ± 0.3528\nMoisture (*%)\n.244 ± 0.005\n13.0 ± 0.4\nFirmness (mm)\n1.75 ± 0.20\nVentilation (%)\n11 ± 4\nPressure Drop: Cigt - Open\n(cm)\n11.0 ± 1.0\nTip - closed\n(cm)\n6.0 ± 0.5\nTobacco Column\n(cm)\n6.5 ± 1.0\nCircumference (mm)\n24.90 ± 0.1\nFireholding (%)\nless\nthan\nSieve Analysis: On 2 mm\n(%)\nNot\nthan\n80\non i mm\n(%)\nNot\nless\n37.5\nOn 1/2\n(%)\nNot\nNot\nmore\nthan\nthan\n49.0\nmm\n(%)\nmore\nthan\n12.5\nThru 1/2\nmm\nNot\nmore\n1.0\nLoose Ends (mg/cigt)\nNot\nmore\nthan\nthan\n7.0\nSlivers (%)\nNot\nmore\n1.75\nWidth of 'cut (cuts/inch)\n29 ± 1\nPaper Porosity (sec/5occ)\n15 ± 3.5\nPack overwrap Leakage:\nScandia/Focke (cc/sec)\nNot more\nthan\n10\nGD (cc/sec)\nNot\nmore\nthan\n5\nCarton Seals:\n(force-to-open) (g)\nNot more\nthan\n800\nTobacco Analysis:\nTVB as Ammonia (%)\n0.67 ± 0.05\nNicotine (%)\n2.08 ± 0.10\nSmoke Analysis:\nLength Smoked (mm)\n58\nPuffs Per Cigt\n9.0 ± 0.5\n\"Tar\"\n(mg/cigt)\n16 ± 1.0\n(mg/puff)\n1.8\nNicotine (mg/cigt)\n1.3 ± 0.1\n(mg/puff)\n0.14"
+}

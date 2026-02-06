@@ -1,0 +1,431 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0105.png",
+    "image_width": 859,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Borillard",
+      "bbox": [
+        426,
+        0,
+        530,
+        36
+      ],
+      "confidence": 0.9253551959991455
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        389,
+        46,
+        534,
+        67
+      ],
+      "confidence": 0.9997783899307251
+    },
+    {
+      "text": "February 4, 1985",
+      "bbox": [
+        580,
+        56,
+        756,
+        80
+      ],
+      "confidence": 0.9837639331817627
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        86,
+        112,
+        123,
+        131
+      ],
+      "confidence": 0.9995232224464417
+    },
+    {
+      "text": "T. H. Mau",
+      "bbox": [
+        194,
+        111,
+        299,
+        133
+      ],
+      "confidence": 0.9625903367996216
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        86,
+        144,
+        144,
+        162
+      ],
+      "confidence": 0.9990938305854797
+    },
+    {
+      "text": "L. R. Goldstein√",
+      "bbox": [
+        195,
+        143,
+        377,
+        163
+      ],
+      "confidence": 0.9588351249694824
+    },
+    {
+      "text": "RE:",
+      "bbox": [
+        86,
+        175,
+        122,
+        195
+      ],
+      "confidence": 0.9990127086639404
+    },
+    {
+      "text": "SATIN",
+      "bbox": [
+        195,
+        176,
+        256,
+        195
+      ],
+      "confidence": 0.9999016523361206
+    },
+    {
+      "text": "The following is in response to your questions regarding:",
+      "bbox": [
+        86,
+        236,
+        698,
+        262
+      ],
+      "confidence": 0.9804248213768005
+    },
+    {
+      "text": ". Satin's source of business",
+      "bbox": [
+        250,
+        268,
+        553,
+        291
+      ],
+      "confidence": 0.9966139793395996
+    },
+    {
+      "text": ". The proportion of Lo-fi and Low Tar triers",
+      "bbox": [
+        249,
+        299,
+        724,
+        325
+      ],
+      "confidence": 0.9944724440574646
+    },
+    {
+      "text": "who converted to Satin",
+      "bbox": [
+        302,
+        320,
+        541,
+        337
+      ],
+      "confidence": 0.9982675909996033
+    },
+    {
+      "text": "Satin's Source of Business",
+      "bbox": [
+        85,
+        349,
+        370,
+        369
+      ],
+      "confidence": 0.9983406662940979
+    },
+    {
+      "text": "The breakdown of Satin's source of business is primarily Low Tar",
+      "bbox": [
+        84,
+        381,
+        777,
+        403
+      ],
+      "confidence": 0.9930716156959534
+    },
+    {
+      "text": "(43%), followed by Lo-fi (32%), and ULT (20%). Since the base",
+      "bbox": [
+        86,
+        397,
+        758,
+        419
+      ],
+      "confidence": 0.9451810121536255
+    },
+    {
+      "text": "size of those who switched to Satin during the past two years is",
+      "bbox": [
+        84,
+        413,
+        778,
+        435
+      ],
+      "confidence": 0.9783515930175781
+    },
+    {
+      "text": "rather small, no particular brands, aside from Marlboro Lights,",
+      "bbox": [
+        84,
+        429,
+        767,
+        452
+      ],
+      "confidence": 0.983920693397522
+    },
+    {
+      "text": "stand out as a source of business for Satin.",
+      "bbox": [
+        85,
+        446,
+        561,
+        466
+      ],
+      "confidence": 0.9822800159454346
+    },
+    {
+      "text": "(Table 1)",
+      "bbox": [
+        517,
+        476,
+        615,
+        499
+      ],
+      "confidence": 0.9665223360061646
+    },
+    {
+      "text": "Conversion",
+      "bbox": [
+        82,
+        509,
+        194,
+        528
+      ],
+      "confidence": 0.9998357892036438
+    },
+    {
+      "text": "There is no in-house data which directly address the proportion",
+      "bbox": [
+        82,
+        538,
+        771,
+        560
+      ],
+      "confidence": 0.9946078658103943
+    },
+    {
+      "text": "of Lo-fi and Low Tar triers of Satin who converted to the brand.",
+      "bbox": [
+        81,
+        553,
+        778,
+        579
+      ],
+      "confidence": 0.9766944646835327
+    },
+    {
+      "text": "However, by examining the Switching Study and Corporate AAU",
+      "bbox": [
+        82,
+        571,
+        727,
+        594
+      ],
+      "confidence": 0.9801400899887085
+    },
+    {
+      "text": "during the same time frame, it can be concluded that conversion",
+      "bbox": [
+        82,
+        587,
+        768,
+        609
+      ],
+      "confidence": 0.9773876070976257
+    },
+    {
+      "text": "occurs in roughly the same proportions among Lo-fi and Reduced",
+      "bbox": [
+        82,
+        603,
+        758,
+        624
+      ],
+      "confidence": 0.9939729571342468
+    },
+    {
+      "text": "Tar (Low Tar and uLT) smokers.\" Roughly two-thirds of trial (67%)",
+      "bbox": [
+        82,
+        619,
+        783,
+        640
+      ],
+      "confidence": 0.9659988880157471
+    },
+    {
+      "text": "and conversion (63%) is from Reduced Tar smokers. Approximately",
+      "bbox": [
+        84,
+        635,
+        775,
+        656
+      ],
+      "confidence": 0.9631207585334778
+    },
+    {
+      "text": "three out of ten triers (24%) and converters (32%) are from Lo-fi",
+      "bbox": [
+        84,
+        652,
+        782,
+        670
+      ],
+      "confidence": 0.9714044332504272
+    },
+    {
+      "text": "brands.",
+      "bbox": [
+        84,
+        669,
+        160,
+        686
+      ],
+      "confidence": 0.999763548374176
+    },
+    {
+      "text": "(Tables l & 2)",
+      "bbox": [
+        514,
+        698,
+        663,
+        718
+      ],
+      "confidence": 0.9598837494850159
+    },
+    {
+      "text": "If you have any questions, please call.",
+      "bbox": [
+        85,
+        729,
+        501,
+        753
+      ],
+      "confidence": 0.9884058833122253
+    },
+    {
+      "text": "Raura",
+      "bbox": [
+        417,
+        787,
+        476,
+        814
+      ],
+      "confidence": 0.7602440118789673
+    },
+    {
+      "text": "89930960",
+      "bbox": [
+        770,
+        802,
+        810,
+        906
+      ],
+      "confidence": 0.9999086856842041
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        433,
+        812,
+        457,
+        825
+      ],
+      "confidence": 0.9991006255149841
+    },
+    {
+      "text": "G.",
+      "bbox": [
+        463,
+        811,
+        490,
+        827
+      ],
+      "confidence": 0.9905842542648315
+    },
+    {
+      "text": "/be",
+      "bbox": [
+        83,
+        834,
+        124,
+        857
+      ],
+      "confidence": 0.9980857968330383
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        87,
+        869,
+        122,
+        884
+      ],
+      "confidence": 0.709341824054718
+    },
+    {
+      "text": "M. K. Capra",
+      "bbox": [
+        138,
+        868,
+        260,
+        888
+      ],
+      "confidence": 0.965541422367096
+    },
+    {
+      "text": "S. T. Jones",
+      "bbox": [
+        140,
+        883,
+        261,
+        903
+      ],
+      "confidence": 0.9926526546478271
+    },
+    {
+      "text": "M. A. Kayiatos",
+      "bbox": [
+        140,
+        898,
+        291,
+        918
+      ],
+      "confidence": 0.9948210120201111
+    },
+    {
+      "text": "I. J. Staub",
+      "bbox": [
+        141,
+        912,
+        261,
+        930
+      ],
+      "confidence": 0.9611068367958069
+    }
+  ],
+  "full_text": "Borillard\nMEMORANDUM\nFebruary 4, 1985\nTO:\nT. H. Mau\nFROM:\nL. R. Goldstein√\nRE:\nSATIN\nThe following is in response to your questions regarding:\n. Satin's source of business\n. The proportion of Lo-fi and Low Tar triers\nwho converted to Satin\nSatin's Source of Business\nThe breakdown of Satin's source of business is primarily Low Tar\n(43%), followed by Lo-fi (32%), and ULT (20%). Since the base\nsize of those who switched to Satin during the past two years is\nrather small, no particular brands, aside from Marlboro Lights,\nstand out as a source of business for Satin.\n(Table 1)\nConversion\nThere is no in-house data which directly address the proportion\nof Lo-fi and Low Tar triers of Satin who converted to the brand.\nHowever, by examining the Switching Study and Corporate AAU\nduring the same time frame, it can be concluded that conversion\noccurs in roughly the same proportions among Lo-fi and Reduced\nTar (Low Tar and uLT) smokers.\" Roughly two-thirds of trial (67%)\nand conversion (63%) is from Reduced Tar smokers. Approximately\nthree out of ten triers (24%) and converters (32%) are from Lo-fi\nbrands.\n(Tables l & 2)\nIf you have any questions, please call.\nRaura\n89930960\nR.\nG.\n/be\nCC:\nM. K. Capra\nS. T. Jones\nM. A. Kayiatos\nI. J. Staub"
+}

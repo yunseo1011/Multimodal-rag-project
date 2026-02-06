@@ -1,0 +1,421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0447.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2.",
+      "bbox": [
+        44,
+        94,
+        67,
+        110
+      ],
+      "confidence": 0.9958428144454956
+    },
+    {
+      "text": "Undergraduate teaching (1966-71)",
+      "bbox": [
+        66,
+        94,
+        350,
+        119
+      ],
+      "confidence": 0.996175229549408
+    },
+    {
+      "text": "While at the Middlesex Hospital Medical School lectures in the Preclinical",
+      "bbox": [
+        75,
+        124,
+        696,
+        152
+      ],
+      "confidence": 0.9916759133338928
+    },
+    {
+      "text": "course in series on Behavioural Sciences.",
+      "bbox": [
+        76,
+        142,
+        423,
+        166
+      ],
+      "confidence": 0.9844539165496826
+    },
+    {
+      "text": "Clinical course: Seminars, tutorials and out-patient teaching sessions",
+      "bbox": [
+        78,
+        173,
+        672,
+        198
+      ],
+      "confidence": 0.9987048506736755
+    },
+    {
+      "text": "to medical students during this period of psychiatric clerking.",
+      "bbox": [
+        77,
+        189,
+        604,
+        213
+      ],
+      "confidence": 0.9890144467353821
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        42,
+        223,
+        65,
+        239
+      ],
+      "confidence": 0.9858525991439819
+    },
+    {
+      "text": "Postgraduate medical teaching (since 1971)",
+      "bbox": [
+        77,
+        222,
+        429,
+        240
+      ],
+      "confidence": 0.9940834045410156
+    },
+    {
+      "text": "Since I have been at the Maudsley I have participated in various ways",
+      "bbox": [
+        78,
+        254,
+        654,
+        273
+      ],
+      "confidence": 0.9973244071006775
+    },
+    {
+      "text": "in the teaching in both the introductory block and the neuropsychiatric",
+      "bbox": [
+        80,
+        271,
+        670,
+        288
+      ],
+      "confidence": 0.9928077459335327
+    },
+    {
+      "text": "block. I have also lectured and chaired clinical meetings in a number",
+      "bbox": [
+        77,
+        284,
+        663,
+        306
+      ],
+      "confidence": 0.9728999733924866
+    },
+    {
+      "text": "of other hospitals. Also in the course of my time as a consultant I",
+      "bbox": [
+        79,
+        302,
+        647,
+        322
+      ],
+      "confidence": 0.975095272064209
+    },
+    {
+      "text": "have supervised numerous M.Phil., Ph.D. and M.D. theses and I initiated",
+      "bbox": [
+        80,
+        320,
+        670,
+        337
+      ],
+      "confidence": 0.9908479452133179
+    },
+    {
+      "text": "a mini-journal club in psychogeriatrics for the registrars attached to",
+      "bbox": [
+        81,
+        338,
+        661,
+        352
+      ],
+      "confidence": 0.9931417107582092
+    },
+    {
+      "text": "the unit.",
+      "bbox": [
+        81,
+        352,
+        158,
+        369
+      ],
+      "confidence": 0.9994323253631592
+    },
+    {
+      "text": "v",
+      "bbox": [
+        0,
+        384,
+        13,
+        399
+      ],
+      "confidence": 0.6561123132705688
+    },
+    {
+      "text": "Administration:",
+      "bbox": [
+        45,
+        383,
+        176,
+        402
+      ],
+      "confidence": 0.9996890425682068
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        45,
+        415,
+        68,
+        431
+      ],
+      "confidence": 0.9992139339447021
+    },
+    {
+      "text": "Bethlem Royal and Maudsley Hospital",
+      "bbox": [
+        79,
+        413,
+        372,
+        433
+      ],
+      "confidence": 0.9864475727081299
+    },
+    {
+      "text": "Since 197l I have served on numerous committees, sub-committees and working-",
+      "bbox": [
+        80,
+        444,
+        707,
+        464
+      ],
+      "confidence": 0.9745616912841797
+    },
+    {
+      "text": "parties and have been Vice-Chairman and Chairman on the Medical Committee",
+      "bbox": [
+        79,
+        459,
+        683,
+        480
+      ],
+      "confidence": 0.9957802891731262
+    },
+    {
+      "text": "and the Medical Executive Committee and a member of the then Board of",
+      "bbox": [
+        80,
+        475,
+        652,
+        496
+      ],
+      "confidence": 0.9864155650138855
+    },
+    {
+      "text": "Governors of the joint hospital.",
+      "bbox": [
+        80,
+        494,
+        346,
+        511
+      ],
+      "confidence": 0.98963862657547
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        45,
+        526,
+        68,
+        543
+      ],
+      "confidence": 0.9945074319839478
+    },
+    {
+      "text": "Institute of Psychiatry",
+      "bbox": [
+        79,
+        525,
+        274,
+        543
+      ],
+      "confidence": 0.9987756609916687
+    },
+    {
+      "text": "For several years I was a member of the Academic Board, the Ethical",
+      "bbox": [
+        79,
+        552,
+        634,
+        574
+      ],
+      "confidence": 0.9914780855178833
+    },
+    {
+      "text": "Committee, the Research Committee and the Library Committee.",
+      "bbox": [
+        81,
+        570,
+        575,
+        590
+      ],
+      "confidence": 0.9881957173347473
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        46,
+        604,
+        68,
+        621
+      ],
+      "confidence": 0.9993076324462891
+    },
+    {
+      "text": "Medical Research Council",
+      "bbox": [
+        78,
+        601,
+        282,
+        621
+      ],
+      "confidence": 0.9939449429512024
+    },
+    {
+      "text": "Member of the Grants Committee of the Neurosciences Research Board 1976-81",
+      "bbox": [
+        80,
+        629,
+        690,
+        653
+      ],
+      "confidence": 0.9793285727500916
+    },
+    {
+      "text": "4.",
+      "bbox": [
+        48,
+        667,
+        69,
+        684
+      ],
+      "confidence": 0.9971093535423279
+    },
+    {
+      "text": "Royal College of Psychiatrists",
+      "bbox": [
+        81,
+        664,
+        330,
+        683
+      ],
+      "confidence": 0.9793885350227356
+    },
+    {
+      "text": "Member of the Executive Committee of the Section of the Psychiatry of",
+      "bbox": [
+        81,
+        691,
+        652,
+        715
+      ],
+      "confidence": 0.9883655905723572
+    },
+    {
+      "text": "Old Age - current.",
+      "bbox": [
+        81,
+        713,
+        232,
+        731
+      ],
+      "confidence": 0.9663813710212708
+    },
+    {
+      "text": "In the past I have served on the Board of Examiners, the Journal Committee",
+      "bbox": [
+        82,
+        736,
+        691,
+        761
+      ],
+      "confidence": 0.977652907371521
+    },
+    {
+      "text": "and the Manpower Sub-Committee.",
+      "bbox": [
+        82,
+        758,
+        339,
+        777
+      ],
+      "confidence": 0.9891484379768372
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        49,
+        792,
+        70,
+        808
+      ],
+      "confidence": 0.9997014999389648
+    },
+    {
+      "text": "World Psychiatric Association",
+      "bbox": [
+        79,
+        788,
+        324,
+        809
+      ],
+      "confidence": 0.989937961101532
+    },
+    {
+      "text": "Chairman of the Geriatric Section.",
+      "bbox": [
+        83,
+        818,
+        365,
+        841
+      ],
+      "confidence": 0.9948829412460327
+    },
+    {
+      "text": "Previously Symposium Adviser of the W.P.A.",
+      "bbox": [
+        82,
+        846,
+        427,
+        872
+      ],
+      "confidence": 0.9876978993415833
+    },
+    {
+      "text": "- 3 -",
+      "bbox": [
+        343,
+        946,
+        391,
+        969
+      ],
+      "confidence": 0.8214214444160461
+    }
+  ],
+  "full_text": "2.\nUndergraduate teaching (1966-71)\nWhile at the Middlesex Hospital Medical School lectures in the Preclinical\ncourse in series on Behavioural Sciences.\nClinical course: Seminars, tutorials and out-patient teaching sessions\nto medical students during this period of psychiatric clerking.\n3.\nPostgraduate medical teaching (since 1971)\nSince I have been at the Maudsley I have participated in various ways\nin the teaching in both the introductory block and the neuropsychiatric\nblock. I have also lectured and chaired clinical meetings in a number\nof other hospitals. Also in the course of my time as a consultant I\nhave supervised numerous M.Phil., Ph.D. and M.D. theses and I initiated\na mini-journal club in psychogeriatrics for the registrars attached to\nthe unit.\nv\nAdministration:\n1.\nBethlem Royal and Maudsley Hospital\nSince 197l I have served on numerous committees, sub-committees and working-\nparties and have been Vice-Chairman and Chairman on the Medical Committee\nand the Medical Executive Committee and a member of the then Board of\nGovernors of the joint hospital.\n2.\nInstitute of Psychiatry\nFor several years I was a member of the Academic Board, the Ethical\nCommittee, the Research Committee and the Library Committee.\n3.\nMedical Research Council\nMember of the Grants Committee of the Neurosciences Research Board 1976-81\n4.\nRoyal College of Psychiatrists\nMember of the Executive Committee of the Section of the Psychiatry of\nOld Age - current.\nIn the past I have served on the Board of Examiners, the Journal Committee\nand the Manpower Sub-Committee.\n5.\nWorld Psychiatric Association\nChairman of the Geriatric Section.\nPreviously Symposium Adviser of the W.P.A.\n- 3 -"
+}

@@ -1,0 +1,391 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0178.png",
+    "image_width": 776,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "February 4, 1985",
+      "bbox": [
+        328,
+        32,
+        463,
+        55
+      ],
+      "confidence": 0.9951422214508057
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        66,
+        117,
+        99,
+        136
+      ],
+      "confidence": 0.9984551072120667
+    },
+    {
+      "text": "E. J. Fackelman",
+      "bbox": [
+        151,
+        119,
+        276,
+        133
+      ],
+      "confidence": 0.9764143824577332
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        68,
+        150,
+        114,
+        168
+      ],
+      "confidence": 0.9993494749069214
+    },
+    {
+      "text": "C. M. Faino",
+      "bbox": [
+        151,
+        149,
+        245,
+        166
+      ],
+      "confidence": 0.99540114402771
+    },
+    {
+      "text": "SUBJECT: MID-PRICE BRANDS",
+      "bbox": [
+        67,
+        180,
+        287,
+        202
+      ],
+      "confidence": 0.9824052453041077
+    },
+    {
+      "text": "Attached is an analysis of Stride and Epic. The analysis is based on all",
+      "bbox": [
+        67,
+        227,
+        676,
+        248
+      ],
+      "confidence": 0.9922552108764648
+    },
+    {
+      "text": "currently available information including MSA and ICc data, Marketing",
+      "bbox": [
+        68,
+        244,
+        643,
+        265
+      ],
+      "confidence": 0.9875070452690125
+    },
+    {
+      "text": "Intelligence and Field Sales information, R&D product analytical reports, and",
+      "bbox": [
+        67,
+        259,
+        710,
+        281
+      ],
+      "confidence": 0.9877035021781921
+    },
+    {
+      "text": "published material.",
+      "bbox": [
+        67,
+        279,
+        227,
+        300
+      ],
+      "confidence": 0.9926685690879822
+    },
+    {
+      "text": "I recommend conducting the following additional research on Stride:",
+      "bbox": [
+        66,
+        308,
+        626,
+        331
+      ],
+      "confidence": 0.9957181811332703
+    },
+    {
+      "text": "Purchase Nielsen Food Store data. The data represent Stride's monthly",
+      "bbox": [
+        92,
+        343,
+        677,
+        363
+      ],
+      "confidence": 0.9907767176628113
+    },
+    {
+      "text": "consumer movement in l00 food stores in the Stride test markets (Rochester/",
+      "bbox": [
+        94,
+        357,
+        717,
+        379
+      ],
+      "confidence": 0.9833618998527527
+    },
+    {
+      "text": "Syracuse and Omaha) covering the entire test period (August-December,",
+      "bbox": [
+        94,
+        378,
+        668,
+        397
+      ],
+      "confidence": 0.9989064335823059
+    },
+    {
+      "text": "1984). The cost is $18,000 with data available by February 22.",
+      "bbox": [
+        94,
+        394,
+        618,
+        412
+      ],
+      "confidence": 0.9795834422111511
+    },
+    {
+      "text": "Conduct retail distribution/pricing checks in the Stride test markets to",
+      "bbox": [
+        93,
+        423,
+        695,
+        447
+      ],
+      "confidence": 0.9926662445068359
+    },
+    {
+      "text": "determine (1) the brand's current retail distribution and (2) Stride's",
+      "bbox": [
+        94,
+        440,
+        679,
+        464
+      ],
+      "confidence": 0.963010847568512
+    },
+    {
+      "text": "ability to maintain its mid-price proposition over the long-term. The cost",
+      "bbox": [
+        94,
+        459,
+        721,
+        479
+      ],
+      "confidence": 0.9932214617729187
+    },
+    {
+      "text": "is $2,000 with results available by March 25.",
+      "bbox": [
+        95,
+        479,
+        470,
+        497
+      ],
+      "confidence": 0.9940005540847778
+    },
+    {
+      "text": "Optional Stride research includes conducting a retail distribution/pricing",
+      "bbox": [
+        70,
+        509,
+        690,
+        530
+      ],
+      "confidence": 0.9912083745002747
+    },
+    {
+      "text": "check twelve weeks after the brand's national introduction. This research",
+      "bbox": [
+        71,
+        527,
+        691,
+        548
+      ],
+      "confidence": 0.9837352633476257
+    },
+    {
+      "text": "would cost $8,O00 with results available in late April. The Ritz Audits are",
+      "bbox": [
+        71,
+        542,
+        707,
+        565
+      ],
+      "confidence": 0.9728167653083801
+    },
+    {
+      "text": "an alternative to this distribution/pricing check.' We could also initiate a",
+      "bbox": [
+        72,
+        558,
+        708,
+        580
+      ],
+      "confidence": 0.9786947965621948
+    },
+    {
+      "text": "source of business study to determine Stride's consumer profile. The study",
+      "bbox": [
+        71,
+        576,
+        700,
+        599
+      ],
+      "confidence": 0.9885739684104919
+    },
+    {
+      "text": "would cost $125,000 with results available by March 22. While the results",
+      "bbox": [
+        72,
+        594,
+        692,
+        613
+      ],
+      "confidence": 0.9828184843063354
+    },
+    {
+      "text": "would not be available until August, Tracker is an alternative to the source",
+      "bbox": [
+        73,
+        610,
+        708,
+        628
+      ],
+      "confidence": 0.9881241321563721
+    },
+    {
+      "text": "of business study.",
+      "bbox": [
+        76,
+        631,
+        223,
+        645
+      ],
+      "confidence": 0.9712494611740112
+    },
+    {
+      "text": "I recommend doing a retail distribution/pricing check on Epic (7-Eleven's",
+      "bbox": [
+        74,
+        658,
+        684,
+        678
+      ],
+      "confidence": 0.9900603890419006
+    },
+    {
+      "text": "Private Label brand). This research would cost $2,800 with results available",
+      "bbox": [
+        75,
+        676,
+        718,
+        696
+      ],
+      "confidence": 0.9850723147392273
+    },
+    {
+      "text": "by March 25.",
+      "bbox": [
+        75,
+        693,
+        179,
+        713
+      ],
+      "confidence": 0.9820662140846252
+    },
+    {
+      "text": "To receive the results by the dates indicated, approval for the recommended",
+      "bbox": [
+        77,
+        728,
+        703,
+        746
+      ],
+      "confidence": 0.9967362284660339
+    },
+    {
+      "text": "and/or optional research is needed by February 15.",
+      "bbox": [
+        77,
+        744,
+        493,
+        762
+      ],
+      "confidence": 0.9866362810134888
+    },
+    {
+      "text": "C S",
+      "bbox": [
+        73,
+        761,
+        240,
+        805
+      ],
+      "confidence": 0.6250799298286438
+    },
+    {
+      "text": "C. M. Faino",
+      "bbox": [
+        79,
+        809,
+        175,
+        829
+      ],
+      "confidence": 0.9971565008163452
+    },
+    {
+      "text": "COPY",
+      "bbox": [
+        609,
+        803,
+        678,
+        852
+      ],
+      "confidence": 0.971767246723175
+    },
+    {
+      "text": "Marketing Development Department",
+      "bbox": [
+        79,
+        827,
+        347,
+        845
+      ],
+      "confidence": 0.9961561560630798
+    },
+    {
+      "text": "CMF:df",
+      "bbox": [
+        81,
+        858,
+        136,
+        875
+      ],
+      "confidence": 0.989713191986084
+    },
+    {
+      "text": "cc: R. C. Nordine",
+      "bbox": [
+        78,
+        891,
+        230,
+        909
+      ],
+      "confidence": 0.9754438996315002
+    }
+  ],
+  "full_text": "February 4, 1985\nTO:\nE. J. Fackelman\nFROM:\nC. M. Faino\nSUBJECT: MID-PRICE BRANDS\nAttached is an analysis of Stride and Epic. The analysis is based on all\ncurrently available information including MSA and ICc data, Marketing\nIntelligence and Field Sales information, R&D product analytical reports, and\npublished material.\nI recommend conducting the following additional research on Stride:\nPurchase Nielsen Food Store data. The data represent Stride's monthly\nconsumer movement in l00 food stores in the Stride test markets (Rochester/\nSyracuse and Omaha) covering the entire test period (August-December,\n1984). The cost is $18,000 with data available by February 22.\nConduct retail distribution/pricing checks in the Stride test markets to\ndetermine (1) the brand's current retail distribution and (2) Stride's\nability to maintain its mid-price proposition over the long-term. The cost\nis $2,000 with results available by March 25.\nOptional Stride research includes conducting a retail distribution/pricing\ncheck twelve weeks after the brand's national introduction. This research\nwould cost $8,O00 with results available in late April. The Ritz Audits are\nan alternative to this distribution/pricing check.' We could also initiate a\nsource of business study to determine Stride's consumer profile. The study\nwould cost $125,000 with results available by March 22. While the results\nwould not be available until August, Tracker is an alternative to the source\nof business study.\nI recommend doing a retail distribution/pricing check on Epic (7-Eleven's\nPrivate Label brand). This research would cost $2,800 with results available\nby March 25.\nTo receive the results by the dates indicated, approval for the recommended\nand/or optional research is needed by February 15.\nC S\nC. M. Faino\nCOPY\nMarketing Development Department\nCMF:df\ncc: R. C. Nordine"
+}

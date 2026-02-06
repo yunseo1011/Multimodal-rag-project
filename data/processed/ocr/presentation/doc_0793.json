@@ -1,0 +1,291 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0793.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "American Tort Reform Association",
+      "bbox": [
+        221,
+        108,
+        721,
+        153
+      ],
+      "confidence": 0.9907189607620239
+    },
+    {
+      "text": "ATRA",
+      "bbox": [
+        82,
+        115,
+        205,
+        181
+      ],
+      "confidence": 0.9598115682601929
+    },
+    {
+      "text": "Washington, D. C. 20036-5803",
+      "bbox": [
+        466,
+        151,
+        693,
+        180
+      ],
+      "confidence": 0.9646216630935669
+    },
+    {
+      "text": "1850 M Street, N. W.",
+      "bbox": [
+        240,
+        161,
+        368,
+        181
+      ],
+      "confidence": 0.9263054132461548
+    },
+    {
+      "text": "Suite 1095",
+      "bbox": [
+        397,
+        159,
+        471,
+        180
+      ],
+      "confidence": 0.9991151690483093
+    },
+    {
+      "text": "(202) 682-1163",
+      "bbox": [
+        271,
+        179,
+        367,
+        199
+      ],
+      "confidence": 0.9941345453262329
+    },
+    {
+      "text": ".",
+      "bbox": [
+        367,
+        184,
+        384,
+        193
+      ],
+      "confidence": 0.9972557425498962
+    },
+    {
+      "text": "Fax (202) 682-1022www.atra.org/atra",
+      "bbox": [
+        387,
+        173,
+        661,
+        197
+      ],
+      "confidence": 0.9493104219436646
+    },
+    {
+      "text": "Statement of the American Tort Reform Association",
+      "bbox": [
+        234,
+        252,
+        564,
+        277
+      ],
+      "confidence": 0.9618525505065918
+    },
+    {
+      "text": "on President Clinton's Proposed Suit Against the Tobacco Industry",
+      "bbox": [
+        187,
+        269,
+        614,
+        298
+      ],
+      "confidence": 0.986724853515625
+    },
+    {
+      "text": "Jannary 20, 1999",
+      "bbox": [
+        553,
+        303,
+        666,
+        327
+      ],
+      "confidence": 0.9279458522796631
+    },
+    {
+      "text": "For Immediate Release",
+      "bbox": [
+        101,
+        311,
+        261,
+        331
+      ],
+      "confidence": 0.972856879234314
+    },
+    {
+      "text": "Contact: Rose Marshall (703) 243-3949",
+      "bbox": [
+        107,
+        328,
+        359,
+        350
+      ],
+      "confidence": 0.974770188331604
+    },
+    {
+      "text": "The American Tort Reform Association (ATRA) expresses great empathy to any American who",
+      "bbox": [
+        107,
+        359,
+        684,
+        385
+      ],
+      "confidence": 0.9925581216812134
+    },
+    {
+      "text": "has been confronted with a serious bealth risk associsted with smoking. But it has great concern",
+      "bbox": [
+        107,
+        377,
+        685,
+        403
+      ],
+      "confidence": 0.9798519611358643
+    },
+    {
+      "text": "about the Federal Govemment distorting basic principles of tort law to accomplish goals that",
+      "bbox": [
+        107,
+        396,
+        663,
+        423
+      ],
+      "confidence": 0.9763794541358948
+    },
+    {
+      "text": "should be addressed directly, through Federal regulation or excise taxes.",
+      "bbox": [
+        108,
+        416,
+        538,
+        442
+      ],
+      "confidence": 0.9878749251365662
+    },
+    {
+      "text": "The basis for the Federal Goverment's Medicare claims against tobacco companies is a",
+      "bbox": [
+        108,
+        452,
+        633,
+        477
+      ],
+      "confidence": 0.9757118225097656
+    },
+    {
+      "text": "thirty-seve year-oid statute, the Medical Care Recovery Act. The purpose of that stanne was to",
+      "bbox": [
+        108,
+        470,
+        682,
+        496
+      ],
+      "confidence": 0.9725005626678467
+    },
+    {
+      "text": "prevent injured people from gaining a double recovery: once from the Federal Govemment and",
+      "bbox": [
+        109,
+        489,
+        679,
+        514
+      ],
+      "confidence": 0.9783449769020081
+    },
+    {
+      "text": "once from the wrongdocr. It was not the statute's purpose to give the Federal Government",
+      "bbox": [
+        109,
+        508,
+        644,
+        530
+      ],
+      "confidence": 0.9748830795288086
+    },
+    {
+      "text": "superio: rights to ordinary citizens.",
+      "bbox": [
+        110,
+        529,
+        319,
+        548
+      ],
+      "confidence": 0.982600748538971
+    },
+    {
+      "text": "The cestinued use of the tort or civil justice system to accomplish goals that are legislative",
+      "bbox": [
+        111,
+        563,
+        646,
+        583
+      ],
+      "confidence": 0.9687013030052185
+    },
+    {
+      "text": "snould be of concem to all Americans. If injured people believe that another person's negligence",
+      "bbox": [
+        111,
+        582,
+        683,
+        601
+      ],
+      "confidence": 0.9816328883171082
+    },
+    {
+      "text": ":s responsibls for their harms, they shouid have a full right to sue the wrongdoer, but the Federal",
+      "bbox": [
+        110,
+        599,
+        681,
+        620
+      ],
+      "confidence": 0.9847280383110046
+    },
+    {
+      "text": "Governmen: should not have greater power or rights to sue than individual citizens.",
+      "bbox": [
+        112,
+        620,
+        606,
+        637
+      ],
+      "confidence": 0.9758127331733704
+    },
+    {
+      "text": "-30-",
+      "bbox": [
+        382,
+        652,
+        416,
+        676
+      ],
+      "confidence": 0.9993222951889038
+    },
+    {
+      "text": "2081584502",
+      "bbox": [
+        660,
+        804,
+        691,
+        918
+      ],
+      "confidence": 0.9904918670654297
+    }
+  ],
+  "full_text": "American Tort Reform Association\nATRA\nWashington, D. C. 20036-5803\n1850 M Street, N. W.\nSuite 1095\n(202) 682-1163\n.\nFax (202) 682-1022www.atra.org/atra\nStatement of the American Tort Reform Association\non President Clinton's Proposed Suit Against the Tobacco Industry\nJannary 20, 1999\nFor Immediate Release\nContact: Rose Marshall (703) 243-3949\nThe American Tort Reform Association (ATRA) expresses great empathy to any American who\nhas been confronted with a serious bealth risk associsted with smoking. But it has great concern\nabout the Federal Govemment distorting basic principles of tort law to accomplish goals that\nshould be addressed directly, through Federal regulation or excise taxes.\nThe basis for the Federal Goverment's Medicare claims against tobacco companies is a\nthirty-seve year-oid statute, the Medical Care Recovery Act. The purpose of that stanne was to\nprevent injured people from gaining a double recovery: once from the Federal Govemment and\nonce from the wrongdocr. It was not the statute's purpose to give the Federal Government\nsuperio: rights to ordinary citizens.\nThe cestinued use of the tort or civil justice system to accomplish goals that are legislative\nsnould be of concem to all Americans. If injured people believe that another person's negligence\n:s responsibls for their harms, they shouid have a full right to sue the wrongdoer, but the Federal\nGovernmen: should not have greater power or rights to sue than individual citizens.\n-30-\n2081584502"
+}

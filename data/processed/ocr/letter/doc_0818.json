@@ -1,0 +1,171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0818.png",
+    "image_width": 804,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "COUNCIL FOR TOBACCO RESEARCH - U.S.A., INC.",
+      "bbox": [
+        203,
+        73,
+        591,
+        117
+      ],
+      "confidence": 0.9829965829849243
+    },
+    {
+      "text": "900 Third Avenue",
+      "bbox": [
+        329,
+        100,
+        458,
+        127
+      ],
+      "confidence": 0.9737638831138611
+    },
+    {
+      "text": "New York, N.Y. 10022",
+      "bbox": [
+        313,
+        118,
+        475,
+        147
+      ],
+      "confidence": 0.9735523462295532
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        507,
+        245,
+        552,
+        266
+      ],
+      "confidence": 0.999603271484375
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        60,
+        270,
+        95,
+        294
+      ],
+      "confidence": 0.9994542002677917
+    },
+    {
+      "text": "OCT 7- 1991",
+      "bbox": [
+        557,
+        282,
+        677,
+        319
+      ],
+      "confidence": 0.980547308921814
+    },
+    {
+      "text": "Mr. William Opel, Exec. Director",
+      "bbox": [
+        61,
+        306,
+        310,
+        336
+      ],
+      "confidence": 0.9992120265960693
+    },
+    {
+      "text": "Huntington Medical Research Institutes",
+      "bbox": [
+        60,
+        324,
+        360,
+        352
+      ],
+      "confidence": 0.9975336194038391
+    },
+    {
+      "text": "734 Fairmount Avenue",
+      "bbox": [
+        61,
+        343,
+        234,
+        368
+      ],
+      "confidence": 0.9943796396255493
+    },
+    {
+      "text": "Pasadena, Ca 91105",
+      "bbox": [
+        60,
+        362,
+        215,
+        386
+      ],
+      "confidence": 0.9953356981277466
+    },
+    {
+      "text": "Grant No.: 310K",
+      "bbox": [
+        510,
+        399,
+        631,
+        423
+      ],
+      "confidence": 0.9935328960418701
+    },
+    {
+      "text": "Grantee: Richard J. Bing, M.D.",
+      "bbox": [
+        123,
+        468,
+        359,
+        491
+      ],
+      "confidence": 0.9653133153915405
+    },
+    {
+      "text": "Check Amount: $22,166",
+      "bbox": [
+        123,
+        503,
+        301,
+        525
+      ],
+      "confidence": 0.9869830012321472
+    },
+    {
+      "text": "For: Second Quarterly Payment",
+      "bbox": [
+        124,
+        540,
+        355,
+        557
+      ],
+      "confidence": 0.9788942933082581
+    },
+    {
+      "text": "Activation Date of Current Grant: 7/1/91",
+      "bbox": [
+        126,
+        578,
+        430,
+        595
+      ],
+      "confidence": 0.9867812991142273
+    },
+    {
+      "text": "File Copy",
+      "bbox": [
+        511,
+        693,
+        584,
+        715
+      ],
+      "confidence": 0.9615135192871094
+    }
+  ],
+  "full_text": "COUNCIL FOR TOBACCO RESEARCH - U.S.A., INC.\n900 Third Avenue\nNew York, N.Y. 10022\nDate:\nTo:\nOCT 7- 1991\nMr. William Opel, Exec. Director\nHuntington Medical Research Institutes\n734 Fairmount Avenue\nPasadena, Ca 91105\nGrant No.: 310K\nGrantee: Richard J. Bing, M.D.\nCheck Amount: $22,166\nFor: Second Quarterly Payment\nActivation Date of Current Grant: 7/1/91\nFile Copy"
+}

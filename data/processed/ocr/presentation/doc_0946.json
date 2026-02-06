@@ -1,0 +1,201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0946.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Thanks, Ellen.",
+      "bbox": [
+        75,
+        168,
+        281,
+        203
+      ],
+      "confidence": 0.9973645210266113
+    },
+    {
+      "text": "We have invited you here today for a",
+      "bbox": [
+        72,
+        236,
+        586,
+        273
+      ],
+      "confidence": 0.9959781169891357
+    },
+    {
+      "text": "very specific reason, to discuss a very",
+      "bbox": [
+        72,
+        272,
+        602,
+        308
+      ],
+      "confidence": 0.9933633208274841
+    },
+    {
+      "text": "real problem.",
+      "bbox": [
+        72,
+        306,
+        262,
+        342
+      ],
+      "confidence": 0.9995071887969971
+    },
+    {
+      "text": "As Ellen indicated, the New York City",
+      "bbox": [
+        75,
+        376,
+        593,
+        406
+      ],
+      "confidence": 0.9916948080062866
+    },
+    {
+      "text": "Council is currently debating a public",
+      "bbox": [
+        75,
+        410,
+        588,
+        441
+      ],
+      "confidence": 0.9945254325866699
+    },
+    {
+      "text": "smoking bill which would severely limit",
+      "bbox": [
+        74,
+        443,
+        613,
+        475
+      ],
+      "confidence": 0.9994710087776184
+    },
+    {
+      "text": "the number of places where smokers",
+      "bbox": [
+        74,
+        479,
+        593,
+        509
+      ],
+      "confidence": 0.9688654541969299
+    },
+    {
+      "text": "could enjoy a cigarette in our city. In",
+      "bbox": [
+        75,
+        513,
+        589,
+        545
+      ],
+      "confidence": 0.9903690814971924
+    },
+    {
+      "text": "fact, the bill would amount to a virtual",
+      "bbox": [
+        73,
+        547,
+        597,
+        580
+      ],
+      "confidence": 0.9910672307014465
+    },
+    {
+      "text": "smoking ban in almost all restaurants",
+      "bbox": [
+        74,
+        582,
+        598,
+        616
+      ],
+      "confidence": 0.9998037815093994
+    },
+    {
+      "text": "and workplaces.",
+      "bbox": [
+        74,
+        615,
+        304,
+        648
+      ],
+      "confidence": 0.9961139559745789
+    },
+    {
+      "text": "Clearly, if this proposal is enacted in its",
+      "bbox": [
+        76,
+        682,
+        620,
+        720
+      ],
+      "confidence": 0.9848397970199585
+    },
+    {
+      "text": "present form, it would pose a significant",
+      "bbox": [
+        75,
+        718,
+        629,
+        754
+      ],
+      "confidence": 0.9925135970115662
+    },
+    {
+      "text": "problem for Philip Morris. When",
+      "bbox": [
+        76,
+        750,
+        519,
+        785
+      ],
+      "confidence": 0.9880474209785461
+    },
+    {
+      "text": "2024252161",
+      "bbox": [
+        713,
+        745,
+        750,
+        883
+      ],
+      "confidence": 0.9992893934249878
+    },
+    {
+      "text": "consumers lose the right to smoke in",
+      "bbox": [
+        75,
+        783,
+        582,
+        820
+      ],
+      "confidence": 0.9938374757766724
+    },
+    {
+      "text": "public, sales of cigarettes decrease, and",
+      "bbox": [
+        75,
+        817,
+        633,
+        854
+      ],
+      "confidence": 0.9860997200012207
+    },
+    {
+      "text": "that directly affects our bottom line.",
+      "bbox": [
+        74,
+        852,
+        556,
+        887
+      ],
+      "confidence": 0.9898390769958496
+    }
+  ],
+  "full_text": "Thanks, Ellen.\nWe have invited you here today for a\nvery specific reason, to discuss a very\nreal problem.\nAs Ellen indicated, the New York City\nCouncil is currently debating a public\nsmoking bill which would severely limit\nthe number of places where smokers\ncould enjoy a cigarette in our city. In\nfact, the bill would amount to a virtual\nsmoking ban in almost all restaurants\nand workplaces.\nClearly, if this proposal is enacted in its\npresent form, it would pose a significant\nproblem for Philip Morris. When\n2024252161\nconsumers lose the right to smoke in\npublic, sales of cigarettes decrease, and\nthat directly affects our bottom line."
+}

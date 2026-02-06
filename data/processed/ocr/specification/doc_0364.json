@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0364.png",
+    "image_width": 778,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Cuty e 327nch",
+      "bbox": [
+        186,
+        388,
+        318,
+        419
+      ],
+      "confidence": 0.6937674880027771
+    },
+    {
+      "text": "cireuntorane2h8",
+      "bbox": [
+        173,
+        507,
+        389,
+        543
+      ],
+      "confidence": 0.6295608282089233
+    },
+    {
+      "text": "Length7914",
+      "bbox": [
+        167,
+        536,
+        325,
+        573
+      ],
+      "confidence": 0.753121018409729
+    },
+    {
+      "text": "cigatettoy",
+      "bbox": [
+        115,
+        577,
+        219,
+        611
+      ],
+      "confidence": 0.7238061428070068
+    },
+    {
+      "text": "Tipping-s6o..poup1o.cold-tInoHormntce",
+      "bbox": [
+        151,
+        609,
+        549,
+        659
+      ],
+      "confidence": 0.7044245004653931
+    },
+    {
+      "text": "Tipping Adha1lveSouthorn-335-549",
+      "bbox": [
+        153,
+        644,
+        481,
+        687
+      ],
+      "confidence": 0.750058114528656
+    },
+    {
+      "text": "Rod Molsturo  Summer 12.50% Winter 12.75%.",
+      "bbox": [
+        149,
+        674,
+        557,
+        722
+      ],
+      "confidence": 0.8760935664176941
+    },
+    {
+      "text": "Total R.T.D. e 4.50 inches of water.",
+      "bbox": [
+        144,
+        709,
+        475,
+        748
+      ],
+      "confidence": 0.9380725026130676
+    },
+    {
+      "text": "Plug R.T.D. 2.25 inches of water.",
+      "bbox": [
+        132,
+        742,
+        465,
+        782
+      ],
+      "confidence": 0.9807473421096802
+    }
+  ],
+  "full_text": "Cuty e 327nch\ncireuntorane2h8\nLength7914\ncigatettoy\nTipping-s6o..poup1o.cold-tInoHormntce\nTipping Adha1lveSouthorn-335-549\nRod Molsturo  Summer 12.50% Winter 12.75%.\nTotal R.T.D. e 4.50 inches of water.\nPlug R.T.D. 2.25 inches of water."
+}

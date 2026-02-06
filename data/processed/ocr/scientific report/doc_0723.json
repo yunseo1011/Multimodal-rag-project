@@ -1,0 +1,481 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0723.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "COST ESTIMATE FOR PHILIP MORRIS U.S.A",
+      "bbox": [
+        369,
+        36,
+        674,
+        53
+      ],
+      "confidence": 0.9906768798828125
+    },
+    {
+      "text": "Project No. ERD-94-0000-",
+      "bbox": [
+        441,
+        67,
+        606,
+        86
+      ],
+      "confidence": 0.9656129479408264
+    },
+    {
+      "text": "1α1+.",
+      "bbox": [
+        559,
+        85,
+        621,
+        104
+      ],
+      "confidence": 0.6422805786132812
+    },
+    {
+      "text": "UNIT COST",
+      "bbox": [
+        550,
+        131,
+        632,
+        147
+      ],
+      "confidence": 0.9994309544563293
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        674,
+        130,
+        730,
+        147
+      ],
+      "confidence": 0.9998767971992493
+    },
+    {
+      "text": "TASK",
+      "bbox": [
+        148,
+        149,
+        195,
+        167
+      ],
+      "confidence": 0.9999252557754517
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        301,
+        146,
+        400,
+        165
+      ],
+      "confidence": 0.9999101161956787
+    },
+    {
+      "text": "(h)",
+      "bbox": [
+        578,
+        145,
+        604,
+        166
+      ],
+      "confidence": 0.9915388226509094
+    },
+    {
+      "text": "(h)",
+      "bbox": [
+        691,
+        145,
+        716,
+        166
+      ],
+      "confidence": 0.9900506138801575
+    },
+    {
+      "text": "1",
+      "bbox": [
+        165,
+        194,
+        179,
+        210
+      ],
+      "confidence": 0.9999520778656006
+    },
+    {
+      "text": "Melting and processing to deliver 100 ft of",
+      "bbox": [
+        223,
+        191,
+        481,
+        210
+      ],
+      "confidence": 0.9820245504379272
+    },
+    {
+      "text": "1/2-in.-diam rod of alloy 23, 25, and 28. Each",
+      "bbox": [
+        225,
+        208,
+        501,
+        225
+      ],
+      "confidence": 0.9654451608657837
+    },
+    {
+      "text": "18 lb will produce 20 ft of bar.",
+      "bbox": [
+        225,
+        223,
+        409,
+        240
+      ],
+      "confidence": 0.9556670188903809
+    },
+    {
+      "text": "1.1",
+      "bbox": [
+        166,
+        253,
+        193,
+        273
+      ],
+      "confidence": 0.9991455078125
+    },
+    {
+      "text": "Melting of five ingots each of alloys 23, 25,",
+      "bbox": [
+        225,
+        252,
+        488,
+        273
+      ],
+      "confidence": 0.9853341579437256
+    },
+    {
+      "text": "9 h/ingot",
+      "bbox": [
+        569,
+        252,
+        631,
+        273
+      ],
+      "confidence": 0.9888808727264404
+    },
+    {
+      "text": "135",
+      "bbox": [
+        690,
+        248,
+        722,
+        271
+      ],
+      "confidence": 0.9999629855155945
+    },
+    {
+      "text": "and 28 (total ingots = 15).",
+      "bbox": [
+        227,
+        270,
+        382,
+        287
+      ],
+      "confidence": 0.9472071528434753
+    },
+    {
+      "text": "1.2",
+      "bbox": [
+        169,
+        299,
+        196,
+        319
+      ],
+      "confidence": 0.9998173713684082
+    },
+    {
+      "text": "Extruding of 18-lb ingots (two extrusions per",
+      "bbox": [
+        227,
+        297,
+        498,
+        318
+      ],
+      "confidence": 0.9734463095664978
+    },
+    {
+      "text": "12 h/ingot",
+      "bbox": [
+        564,
+        296,
+        632,
+        317
+      ],
+      "confidence": 0.9752146601676941
+    },
+    {
+      "text": "180",
+      "bbox": [
+        694,
+        296,
+        723,
+        316
+      ],
+      "confidence": 0.9999909400939941
+    },
+    {
+      "text": "ingot) of alloys 23, 25, and 28 into 1/2-in.-",
+      "bbox": [
+        228,
+        312,
+        484,
+        333
+      ],
+      "confidence": 0.9503915309906006
+    },
+    {
+      "text": "diam bar (total extrusions = 30).",
+      "bbox": [
+        230,
+        328,
+        420,
+        347
+      ],
+      "confidence": 0.9859732389450073
+    },
+    {
+      "text": "315",
+      "bbox": [
+        694,
+        340,
+        724,
+        360
+      ],
+      "confidence": 0.9999740719795227
+    },
+    {
+      "text": "Technical Staff = 5 315 h × $170/h + $1,350 = $54,900",
+      "bbox": [
+        564,
+        371,
+        754,
+        392
+      ],
+      "confidence": 0.9743894934654236
+    },
+    {
+      "text": "2",
+      "bbox": [
+        175,
+        407,
+        190,
+        424
+      ],
+      "confidence": 0.9999322891235352
+    },
+    {
+      "text": "Powder procurement and consolidation of",
+      "bbox": [
+        233,
+        404,
+        483,
+        423
+      ],
+      "confidence": 0.9871562123298645
+    },
+    {
+      "text": "alloy FAS-II and produce 100 ft of 1/2-in.-",
+      "bbox": [
+        234,
+        419,
+        488,
+        438
+      ],
+      "confidence": 0.965536892414093
+    },
+    {
+      "text": "diam rod (need ten cans of powder). The",
+      "bbox": [
+        235,
+        436,
+        480,
+        453
+      ],
+      "confidence": 0.9823554754257202
+    },
+    {
+      "text": "extrusion will be through 3/4-in. die to",
+      "bbox": [
+        235,
+        450,
+        466,
+        469
+      ],
+      "confidence": 0.996717095375061
+    },
+    {
+      "text": "obtain 1/2-in. bar by machining the can.",
+      "bbox": [
+        235,
+        466,
+        473,
+        484
+      ],
+      "confidence": 0.9865022897720337
+    },
+    {
+      "text": "2.1",
+      "bbox": [
+        176,
+        498,
+        203,
+        517
+      ],
+      "confidence": 0.9994118213653564
+    },
+    {
+      "text": "Procurement of 200 lb of powder.",
+      "bbox": [
+        237,
+        499,
+        436,
+        512
+      ],
+      "confidence": 0.9661812782287598
+    },
+    {
+      "text": "2.2",
+      "bbox": [
+        176,
+        527,
+        205,
+        550
+      ],
+      "confidence": 0.9994544982910156
+    },
+    {
+      "text": "Procurement of ten carbon steel cans.",
+      "bbox": [
+        238,
+        530,
+        459,
+        544
+      ],
+      "confidence": 0.984111487865448
+    },
+    {
+      "text": "2.3",
+      "bbox": [
+        179,
+        558,
+        206,
+        577
+      ],
+      "confidence": 0.9996512532234192
+    },
+    {
+      "text": "Fill cans, evacuate, seal, and extrude (total of",
+      "bbox": [
+        238,
+        558,
+        506,
+        574
+      ],
+      "confidence": 0.9615140557289124
+    },
+    {
+      "text": "13 h/ingot",
+      "bbox": [
+        572,
+        557,
+        639,
+        577
+      ],
+      "confidence": 0.9823862314224243
+    },
+    {
+      "text": "135",
+      "bbox": [
+        700,
+        556,
+        731,
+        575
+      ],
+      "confidence": 0.9999763369560242
+    },
+    {
+      "text": "ten extrusions).",
+      "bbox": [
+        239,
+        576,
+        331,
+        590
+      ],
+      "confidence": 0.999825119972229
+    },
+    {
+      "text": "315",
+      "bbox": [
+        701,
+        600,
+        731,
+        619
+      ],
+      "confidence": 0.9999439120292664
+    },
+    {
+      "text": "Technical Staff = 5 315 h × $170/h + $1,350 = $25,150",
+      "bbox": [
+        571,
+        628,
+        754,
+        651
+      ],
+      "confidence": 0.9477668404579163
+    },
+    {
+      "text": "aAt$5/1b.",
+      "bbox": [
+        205,
+        648,
+        270,
+        668
+      ],
+      "confidence": 0.9336140155792236
+    },
+    {
+      "text": "bAt $7/lb.",
+      "bbox": [
+        206,
+        663,
+        270,
+        685
+      ],
+      "confidence": 0.8878173828125
+    },
+    {
+      "text": "cAt $80/lb.",
+      "bbox": [
+        205,
+        681,
+        277,
+        701
+      ],
+      "confidence": 0.9348385334014893
+    },
+    {
+      "text": "2060926592",
+      "bbox": [
+        303,
+        677,
+        406,
+        700
+      ],
+      "confidence": 0.9999130964279175
+    }
+  ],
+  "full_text": "COST ESTIMATE FOR PHILIP MORRIS U.S.A\nProject No. ERD-94-0000-\n1α1+.\nUNIT COST\nTOTAL\nTASK\nDESCRIPTION\n(h)\n(h)\n1\nMelting and processing to deliver 100 ft of\n1/2-in.-diam rod of alloy 23, 25, and 28. Each\n18 lb will produce 20 ft of bar.\n1.1\nMelting of five ingots each of alloys 23, 25,\n9 h/ingot\n135\nand 28 (total ingots = 15).\n1.2\nExtruding of 18-lb ingots (two extrusions per\n12 h/ingot\n180\ningot) of alloys 23, 25, and 28 into 1/2-in.-\ndiam bar (total extrusions = 30).\n315\nTechnical Staff = 5 315 h × $170/h + $1,350 = $54,900\n2\nPowder procurement and consolidation of\nalloy FAS-II and produce 100 ft of 1/2-in.-\ndiam rod (need ten cans of powder). The\nextrusion will be through 3/4-in. die to\nobtain 1/2-in. bar by machining the can.\n2.1\nProcurement of 200 lb of powder.\n2.2\nProcurement of ten carbon steel cans.\n2.3\nFill cans, evacuate, seal, and extrude (total of\n13 h/ingot\n135\nten extrusions).\n315\nTechnical Staff = 5 315 h × $170/h + $1,350 = $25,150\naAt$5/1b.\nbAt $7/lb.\ncAt $80/lb.\n2060926592"
+}

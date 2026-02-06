@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0343.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Prone941-540-0108",
+      "bbox": [
+        531,
+        541,
+        736,
+        580
+      ],
+      "confidence": 0.7734997868537903
+    },
+    {
+      "text": "Im Not No Way",
+      "bbox": [
+        475,
+        575,
+        715,
+        609
+      ],
+      "confidence": 0.9202476143836975
+    },
+    {
+      "text": "thting you. Bito",
+      "bbox": [
+        472,
+        600,
+        711,
+        637
+      ],
+      "confidence": 0.7327622771263123
+    },
+    {
+      "text": "serng SAoings then",
+      "bbox": [
+        479,
+        675,
+        713,
+        708
+      ],
+      "confidence": 0.7713876962661743
+    },
+    {
+      "text": "thats dwhat",
+      "bbox": [
+        471,
+        701,
+        662,
+        730
+      ],
+      "confidence": 0.8508651256561279
+    },
+    {
+      "text": "wuld Likeyosto",
+      "bbox": [
+        475,
+        727,
+        721,
+        754
+      ],
+      "confidence": 0.7090669274330139
+    },
+    {
+      "text": "Donah+ Co. Saving",
+      "bbox": [
+        474,
+        751,
+        702,
+        776
+      ],
+      "confidence": 0.7412604093551636
+    },
+    {
+      "text": "I'Do Like you",
+      "bbox": [
+        474,
+        772,
+        700,
+        803
+      ],
+      "confidence": 0.8145777583122253
+    },
+    {
+      "text": "Brand f eiggorat",
+      "bbox": [
+        475,
+        799,
+        702,
+        825
+      ],
+      "confidence": 0.7611362934112549
+    },
+    {
+      "text": "DoralSPlse",
+      "bbox": [
+        473,
+        823,
+        670,
+        847
+      ],
+      "confidence": 0.6004448533058167
+    },
+    {
+      "text": "51704 6793",
+      "bbox": [
+        723,
+        836,
+        746,
+        935
+      ],
+      "confidence": 0.9998404383659363
+    },
+    {
+      "text": "Dend re myCapons",
+      "bbox": [
+        475,
+        848,
+        703,
+        869
+      ],
+      "confidence": 0.801628589630127
+    },
+    {
+      "text": "HusBand suot.",
+      "bbox": [
+        475,
+        890,
+        696,
+        916
+      ],
+      "confidence": 0.8423168659210205
+    },
+    {
+      "text": "want BAck to Dord",
+      "bbox": [
+        469,
+        914,
+        705,
+        940
+      ],
+      "confidence": 0.8316444158554077
+    },
+    {
+      "text": "1+96903",
+      "bbox": [
+        465,
+        960,
+        734,
+        997
+      ],
+      "confidence": 0.6201263666152954
+    }
+  ],
+  "full_text": "Prone941-540-0108\nIm Not No Way\nthting you. Bito\nserng SAoings then\nthats dwhat\nwuld Likeyosto\nDonah+ Co. Saving\nI'Do Like you\nBrand f eiggorat\nDoralSPlse\n51704 6793\nDend re myCapons\nHusBand suot.\nwant BAck to Dord\n1+96903"
+}

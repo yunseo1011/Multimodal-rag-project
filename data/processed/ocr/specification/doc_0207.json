@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0207.png",
+    "image_width": 769,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MARL. L.S. REG. F.T.B. - 012 (PC)",
+      "bbox": [
+        19,
+        7,
+        293,
+        38
+      ],
+      "confidence": 0.9399824142456055
+    },
+    {
+      "text": "MARL: L.S. REG, (O'S -11O (PC)",
+      "bbox": [
+        18,
+        24,
+        294,
+        54
+      ],
+      "confidence": 0.861345112323761
+    },
+    {
+      "text": "Effective Date:",
+      "bbox": [
+        469,
+        40,
+        592,
+        57
+      ],
+      "confidence": 0.9863165020942688
+    },
+    {
+      "text": ". June 5, 1983",
+      "bbox": [
+        610,
+        38,
+        725,
+        58
+      ],
+      "confidence": 0.9672185778617859
+    },
+    {
+      "text": "FILTER SPECIFICATTON FOR: MARLBORO L.S. REGULAR F.T.B.",
+      "bbox": [
+        192,
+        62,
+        631,
+        92
+      ],
+      "confidence": 0.9777182340621948
+    },
+    {
+      "text": "MARLBORO L.S. REGULAR 1O'S",
+      "bbox": [
+        404,
+        86,
+        614,
+        104
+      ],
+      "confidence": 0.9557880759239197
+    },
+    {
+      "text": "Filter Rod - 6 Up, 114mm Length",
+      "bbox": [
+        117,
+        108,
+        367,
+        133
+      ],
+      "confidence": 0.9911593794822693
+    },
+    {
+      "text": "Plug Maker - KDF-2/AF-1 or MARK V1 /Miniature",
+      "bbox": [
+        117,
+        141,
+        468,
+        165
+      ],
+      "confidence": 0.9795597791671753
+    },
+    {
+      "text": "FT-107; P.M. Material Code 05-550-A(EAST); 05-550-B(CEL)",
+      "bbox": [
+        170,
+        171,
+        624,
+        195
+      ],
+      "confidence": 0.9562975764274597
+    },
+    {
+      "text": "Tow -",
+      "bbox": [
+        115,
+        174,
+        168,
+        192
+      ],
+      "confidence": 0.918286144733429
+    },
+    {
+      "text": "Plasticizer - Triacetin PZ @.8% of Dry Weight; P.M. Material Code O5-Boo-A",
+      "bbox": [
+        114,
+        205,
+        709,
+        232
+      ],
+      "confidence": 0.9524661898612976
+    },
+    {
+      "text": "5.94 gms/100 114mm Rods",
+      "bbox": [
+        231,
+        221,
+        417,
+        239
+      ],
+      "confidence": 0.9915550947189331
+    },
+    {
+      "text": "KDF-2 Plug Wrap - Schweitzer 17-M1; 26.5mm x 500Om; P.M. Material Code O6-204-A",
+      "bbox": [
+        115,
+        251,
+        747,
+        281
+      ],
+      "confidence": 0.9576635956764221
+    },
+    {
+      "text": "MARK VI Plug Wrap - Schweitzer 17-Ml; 27.5mm x 500Om; P.M. Material Code",
+      "bbox": [
+        114,
+        282,
+        698,
+        314
+      ],
+      "confidence": 0.9518654942512512
+    },
+    {
+      "text": "P.M. Material Code O6-153-A",
+      "bbox": [
+        282,
+        301,
+        508,
+        324
+      ],
+      "confidence": 0.9613085389137268
+    },
+    {
+      "text": "Glue Lines - Two",
+      "bbox": [
+        116,
+        334,
+        246,
+        351
+      ],
+      "confidence": 0.9929511547088623
+    },
+    {
+      "text": "Type - Polymer 428-140HV; P.M. Material Code 61-328-A",
+      "bbox": [
+        111,
+        378,
+        549,
+        406
+      ],
+      "confidence": 0.950366735458374
+    },
+    {
+      "text": "Lap Adhesive - Fuller HM 822jC; P.M. Material Code 62-912-A",
+      "bbox": [
+        114,
+        410,
+        582,
+        438
+      ],
+      "confidence": 0.9513197541236877
+    },
+    {
+      "text": "Circumference-",
+      "bbox": [
+        115,
+        475,
+        260,
+        492
+      ],
+      "confidence": 0.996615469455719
+    },
+    {
+      "text": "24.70mm(Laser)",
+      "bbox": [
+        252,
+        475,
+        390,
+        492
+      ],
+      "confidence": 0.9750195145606995
+    },
+    {
+      "text": "Resistance to Draw - 114mm Rod - 16.50 inches of water (ToTAL ENCAP)",
+      "bbox": [
+        113,
+        503,
+        653,
+        529
+      ],
+      "confidence": 0.9725053310394287
+    },
+    {
+      "text": "19mm Plug- 2.75 inches of water",
+      "bbox": [
+        288,
+        522,
+        544,
+        543
+      ],
+      "confidence": 0.9836691617965698
+    },
+    {
+      "text": "Dry Weight",
+      "bbox": [
+        112,
+        550,
+        194,
+        569
+      ],
+      "confidence": 0.9892999529838562
+    },
+    {
+      "text": "- '74.23 gms/100 114mm Rods",
+      "bbox": [
+        263,
+        550,
+        471,
+        572
+      ],
+      "confidence": 0.9679617881774902
+    },
+    {
+      "text": "Dry Weight (w/GL) - 74.73gms/100 114mm Rods",
+      "bbox": [
+        111,
+        578,
+        471,
+        603
+      ],
+      "confidence": 0.9792410135269165
+    },
+    {
+      "text": "Wet Weight (w/GL) - 80.67 gms/100 114mm Rods",
+      "bbox": [
+        108,
+        606,
+        469,
+        633
+      ],
+      "confidence": 0.977626621723175
+    },
+    {
+      "text": "Prepared By:",
+      "bbox": [
+        71,
+        652,
+        172,
+        673
+      ],
+      "confidence": 0.9584231972694397
+    },
+    {
+      "text": "Debbie J: Morgan",
+      "bbox": [
+        185,
+        653,
+        321,
+        675
+      ],
+      "confidence": 0.9760110974311829
+    },
+    {
+      "text": "Approved By:",
+      "bbox": [
+        70,
+        680,
+        171,
+        704
+      ],
+      "confidence": 0.9988329410552979
+    },
+    {
+      "text": "Wcriltin",
+      "bbox": [
+        275,
+        680,
+        405,
+        705
+      ],
+      "confidence": 0.7097242474555969
+    },
+    {
+      "text": "/dyd",
+      "bbox": [
+        68,
+        709,
+        111,
+        735
+      ],
+      "confidence": 0.9975321888923645
+    },
+    {
+      "text": "Operations Services",
+      "bbox": [
+        182,
+        699,
+        334,
+        721
+      ],
+      "confidence": 0.9721059203147888
+    },
+    {
+      "text": "This supersedes specification dated Feb. 18, 1983.",
+      "bbox": [
+        70,
+        743,
+        468,
+        764
+      ],
+      "confidence": 0.9872612953186035
+    },
+    {
+      "text": "1. Plasticizer changed from C-111-X; P.M. Material Code 05-832-A to",
+      "bbox": [
+        70,
+        756,
+        597,
+        784
+      ],
+      "confidence": 0.9586145281791687
+    },
+    {
+      "text": "REASON FOR CHANGE:",
+      "bbox": [
+        592,
+        751,
+        732,
+        772
+      ],
+      "confidence": 0.9634184241294861
+    },
+    {
+      "text": "Triacetin PZ; P.M. Material Code O5-8o0-A.",
+      "bbox": [
+        94,
+        774,
+        417,
+        794
+      ],
+      "confidence": 0.9555508494377136
+    },
+    {
+      "text": "2. Adhesives updated",
+      "bbox": [
+        69,
+        788,
+        231,
+        808
+      ],
+      "confidence": 0.9299436807632446
+    },
+    {
+      "text": "3.' Dry weight adjustment",
+      "bbox": [
+        70,
+        805,
+        261,
+        824
+      ],
+      "confidence": 0.9540379047393799
+    },
+    {
+      "text": "2031315900",
+      "bbox": [
+        598,
+        940,
+        750,
+        970
+      ],
+      "confidence": 0.9994508028030396
+    }
+  ],
+  "full_text": "MARL. L.S. REG. F.T.B. - 012 (PC)\nMARL: L.S. REG, (O'S -11O (PC)\nEffective Date:\n. June 5, 1983\nFILTER SPECIFICATTON FOR: MARLBORO L.S. REGULAR F.T.B.\nMARLBORO L.S. REGULAR 1O'S\nFilter Rod - 6 Up, 114mm Length\nPlug Maker - KDF-2/AF-1 or MARK V1 /Miniature\nFT-107; P.M. Material Code 05-550-A(EAST); 05-550-B(CEL)\nTow -\nPlasticizer - Triacetin PZ @.8% of Dry Weight; P.M. Material Code O5-Boo-A\n5.94 gms/100 114mm Rods\nKDF-2 Plug Wrap - Schweitzer 17-M1; 26.5mm x 500Om; P.M. Material Code O6-204-A\nMARK VI Plug Wrap - Schweitzer 17-Ml; 27.5mm x 500Om; P.M. Material Code\nP.M. Material Code O6-153-A\nGlue Lines - Two\nType - Polymer 428-140HV; P.M. Material Code 61-328-A\nLap Adhesive - Fuller HM 822jC; P.M. Material Code 62-912-A\nCircumference-\n24.70mm(Laser)\nResistance to Draw - 114mm Rod - 16.50 inches of water (ToTAL ENCAP)\n19mm Plug- 2.75 inches of water\nDry Weight\n- '74.23 gms/100 114mm Rods\nDry Weight (w/GL) - 74.73gms/100 114mm Rods\nWet Weight (w/GL) - 80.67 gms/100 114mm Rods\nPrepared By:\nDebbie J: Morgan\nApproved By:\nWcriltin\n/dyd\nOperations Services\nThis supersedes specification dated Feb. 18, 1983.\n1. Plasticizer changed from C-111-X; P.M. Material Code 05-832-A to\nREASON FOR CHANGE:\nTriacetin PZ; P.M. Material Code O5-8o0-A.\n2. Adhesives updated\n3.' Dry weight adjustment\n2031315900"
+}

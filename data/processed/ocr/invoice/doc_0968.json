@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0968.png",
+    "image_width": 763,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BORRITON",
+      "bbox": [
+        74,
+        0,
+        280,
+        26
+      ],
+      "confidence": 0.9737198352813721
+    },
+    {
+      "text": "LABORATORIES, INC. *",
+      "bbox": [
+        76,
+        29,
+        215,
+        43
+      ],
+      "confidence": 0.9625474214553833
+    },
+    {
+      "text": "Borriston Laboratories, Inc",
+      "bbox": [
+        76,
+        72,
+        216,
+        86
+      ],
+      "confidence": 0.996761679649353
+    },
+    {
+      "text": "5050 Beech Place",
+      "bbox": [
+        76,
+        87,
+        172,
+        101
+      ],
+      "confidence": 0.9881950616836548
+    },
+    {
+      "text": "Temple Hills, Maryland 20748",
+      "bbox": [
+        76,
+        102,
+        237,
+        116
+      ],
+      "confidence": 0.997026264667511
+    },
+    {
+      "text": "Telephone: 301-899-3536",
+      "bbox": [
+        76,
+        124,
+        208,
+        138
+      ],
+      "confidence": 0.981411337852478
+    },
+    {
+      "text": "Telex: 248838",
+      "bbox": [
+        76,
+        137,
+        152,
+        154
+      ],
+      "confidence": 0.9895692467689514
+    },
+    {
+      "text": "* .INVOICE *",
+      "bbox": [
+        308,
+        132,
+        403,
+        150
+      ],
+      "confidence": 0.9633204936981201
+    },
+    {
+      "text": "November 18, 1983",
+      "bbox": [
+        77,
+        170,
+        223,
+        191
+      ],
+      "confidence": 0.965600848197937
+    },
+    {
+      "text": "Dept.9590",
+      "bbox": [
+        550,
+        219,
+        654,
+        256
+      ],
+      "confidence": 0.9087827205657959
+    },
+    {
+      "text": "Lorillard Inc.",
+      "bbox": [
+        78,
+        242,
+        198,
+        262
+      ],
+      "confidence": 0.9958617091178894
+    },
+    {
+      "text": "bect.411",
+      "bbox": [
+        550,
+        241,
+        652,
+        278
+      ],
+      "confidence": 0.9112271666526794
+    },
+    {
+      "text": "420 English Street",
+      "bbox": [
+        78,
+        258,
+        233,
+        281
+      ],
+      "confidence": 0.984094500541687
+    },
+    {
+      "text": "Greensboro, NC 27405",
+      "bbox": [
+        79,
+        275,
+        259,
+        295
+      ],
+      "confidence": 0.9678509831428528
+    },
+    {
+      "text": "Attn:",
+      "bbox": [
+        80,
+        294,
+        141,
+        315
+      ],
+      "confidence": 0.9950329661369324
+    },
+    {
+      "text": "Dr. Harry Minnemeyer",
+      "bbox": [
+        134,
+        295,
+        305,
+        312
+      ],
+      "confidence": 0.9973407983779907
+    },
+    {
+      "text": "REFERENCE:",
+      "bbox": [
+        82,
+        361,
+        168,
+        379
+      ],
+      "confidence": 0.9995108842849731
+    },
+    {
+      "text": "Rurchase Order No.319A",
+      "bbox": [
+        178,
+        358,
+        384,
+        378
+      ],
+      "confidence": 0.9292141199111938
+    },
+    {
+      "text": "BLI REF:",
+      "bbox": [
+        80,
+        379,
+        151,
+        396
+      ],
+      "confidence": 0.9781485795974731
+    },
+    {
+      "text": "231552",
+      "bbox": [
+        181,
+        377,
+        234,
+        395
+      ],
+      "confidence": 0.9999561905860901
+    },
+    {
+      "text": "Invoice #: 1552-1",
+      "bbox": [
+        80,
+        392,
+        234,
+        414
+      ],
+      "confidence": 0.9440761804580688
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        119,
+        460,
+        219,
+        482
+      ],
+      "confidence": 0.9998793005943298
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        513,
+        458,
+        570,
+        479
+      ],
+      "confidence": 0.9985741972923279
+    },
+    {
+      "text": "Repeated Dose Range-Finding Study in",
+      "bbox": [
+        76,
+        491,
+        391,
+        517
+      ],
+      "confidence": 0.9996052980422974
+    },
+    {
+      "text": "B6C3F1 Mice with B-90 and A-36",
+      "bbox": [
+        100,
+        507,
+        360,
+        533
+      ],
+      "confidence": 0.9772403836250305
+    },
+    {
+      "text": "@ $1,050.00/compound",
+      "bbox": [
+        75,
+        525,
+        261,
+        552
+      ],
+      "confidence": 0.9658287763595581
+    },
+    {
+      "text": "$2,100.00",
+      "bbox": [
+        506,
+        520,
+        597,
+        544
+      ],
+      "confidence": 0.9994551539421082
+    },
+    {
+      "text": "REMITTANCE ADDRESS:",
+      "bbox": [
+        318,
+        648,
+        478,
+        671
+      ],
+      "confidence": 0.9984725117683411
+    },
+    {
+      "text": "Borriston Laboratories, Inc.",
+      "bbox": [
+        318,
+        663,
+        553,
+        687
+      ],
+      "confidence": 0.9929154515266418
+    },
+    {
+      "text": "DYNAMAC BUILDING",
+      "bbox": [
+        318,
+        680,
+        453,
+        702
+      ],
+      "confidence": 0.9982024431228638
+    },
+    {
+      "text": "11140 Rockville Pike",
+      "bbox": [
+        319,
+        694,
+        488,
+        718
+      ],
+      "confidence": 0.9891851544380188
+    },
+    {
+      "text": "Rockville, MD",
+      "bbox": [
+        319,
+        712,
+        430,
+        733
+      ],
+      "confidence": 0.9803532958030701
+    },
+    {
+      "text": "20852",
+      "bbox": [
+        441,
+        713,
+        488,
+        728
+      ],
+      "confidence": 0.9998916387557983
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        337,
+        833,
+        407,
+        855
+      ],
+      "confidence": 0.9997256398200989
+    },
+    {
+      "text": "00920490",
+      "bbox": [
+        686,
+        835,
+        714,
+        935
+      ],
+      "confidence": 0.9999315738677979
+    }
+  ],
+  "full_text": "BORRITON\nLABORATORIES, INC. *\nBorriston Laboratories, Inc\n5050 Beech Place\nTemple Hills, Maryland 20748\nTelephone: 301-899-3536\nTelex: 248838\n* .INVOICE *\nNovember 18, 1983\nDept.9590\nLorillard Inc.\nbect.411\n420 English Street\nGreensboro, NC 27405\nAttn:\nDr. Harry Minnemeyer\nREFERENCE:\nRurchase Order No.319A\nBLI REF:\n231552\nInvoice #: 1552-1\nDESCRIPTION\nAMOUNT\nRepeated Dose Range-Finding Study in\nB6C3F1 Mice with B-90 and A-36\n@ $1,050.00/compound\n$2,100.00\nREMITTANCE ADDRESS:\nBorriston Laboratories, Inc.\nDYNAMAC BUILDING\n11140 Rockville Pike\nRockville, MD\n20852\nINVOICE\n00920490"
+}

@@ -1,0 +1,771 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0001.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard liesporse",
+      "bbox": [
+        475,
+        71,
+        692,
+        97
+      ],
+      "confidence": 0.9079235196113586
+    },
+    {
+      "text": "-4-",
+      "bbox": [
+        326,
+        93,
+        355,
+        109
+      ],
+      "confidence": 0.9997150301933289
+    },
+    {
+      "text": "Fah 1,19r2",
+      "bbox": [
+        494,
+        96,
+        635,
+        115
+      ],
+      "confidence": 0.7541934251785278
+    },
+    {
+      "text": "Table i",
+      "bbox": [
+        302,
+        137,
+        374,
+        162
+      ],
+      "confidence": 0.9369369745254517
+    },
+    {
+      "text": "Darby Model",
+      "bbox": [
+        126,
+        170,
+        228,
+        187
+      ],
+      "confidence": 0.9763045907020569
+    },
+    {
+      "text": "Modified Model",
+      "bbox": [
+        459,
+        176,
+        592,
+        195
+      ],
+      "confidence": 0.9777433276176453
+    },
+    {
+      "text": "Nicotine half-",
+      "bbox": [
+        223,
+        192,
+        352,
+        211
+      ],
+      "confidence": 0.9989913105964661
+    },
+    {
+      "text": "Nicotine half-",
+      "bbox": [
+        522,
+        201,
+        653,
+        215
+      ],
+      "confidence": 0.9981585741043091
+    },
+    {
+      "text": "life(l0 min.);",
+      "bbox": [
+        223,
+        207,
+        359,
+        227
+      ],
+      "confidence": 0.8763622641563416
+    },
+    {
+      "text": "life (40miz-);",
+      "bbox": [
+        520,
+        213,
+        654,
+        232
+      ],
+      "confidence": 0.8502545356750488
+    },
+    {
+      "text": "Cotinine half-",
+      "bbox": [
+        222,
+        222,
+        352,
+        240
+      ],
+      "confidence": 0.9980267286300659
+    },
+    {
+      "text": "Cotinine half-",
+      "bbox": [
+        522,
+        230,
+        652,
+        244
+      ],
+      "confidence": 0.9829496741294861
+    },
+    {
+      "text": "Assumed Amt.",
+      "bbox": [
+        85,
+        234,
+        200,
+        255
+      ],
+      "confidence": 0.9798526167869568
+    },
+    {
+      "text": "life (1800",
+      "bbox": [
+        220,
+        236,
+        315,
+        255
+      ],
+      "confidence": 0.9827645421028137
+    },
+    {
+      "text": "Assumed Amt.",
+      "bbox": [
+        382,
+        239,
+        494,
+        260
+      ],
+      "confidence": 0.9877976775169373
+    },
+    {
+      "text": "life (1140",
+      "bbox": [
+        519,
+        242,
+        616,
+        261
+      ],
+      "confidence": 0.9494439959526062
+    },
+    {
+      "text": "of Nicotine",
+      "bbox": [
+        86,
+        249,
+        193,
+        268
+      ],
+      "confidence": 0.9374015927314758
+    },
+    {
+      "text": "min.)",
+      "bbox": [
+        222,
+        252,
+        268,
+        267
+      ],
+      "confidence": 0.9990199208259583
+    },
+    {
+      "text": "of Nicotine",
+      "bbox": [
+        382,
+        253,
+        487,
+        274
+      ],
+      "confidence": 0.9850040674209595
+    },
+    {
+      "text": "min.)",
+      "bbox": [
+        520,
+        258,
+        566,
+        273
+      ],
+      "confidence": 0.9985193014144897
+    },
+    {
+      "text": "Absorbed from",
+      "bbox": [
+        85,
+        263,
+        209,
+        283
+      ],
+      "confidence": 0.9980380535125732
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        87,
+        277,
+        173,
+        298
+      ],
+      "confidence": 0.9563558101654053
+    },
+    {
+      "text": "Estimated",
+      "bbox": [
+        221,
+        265,
+        305,
+        283
+      ],
+      "confidence": 0.998275876045227
+    },
+    {
+      "text": "Serum Cotinine",
+      "bbox": [
+        221,
+        277,
+        351,
+        300
+      ],
+      "confidence": 0.9717122912406921
+    },
+    {
+      "text": "Abisorbed from",
+      "bbox": [
+        381,
+        268,
+        507,
+        290
+      ],
+      "confidence": 0.9833174347877502
+    },
+    {
+      "text": "Estimated",
+      "bbox": [
+        519,
+        274,
+        606,
+        288
+      ],
+      "confidence": 0.9304301142692566
+    },
+    {
+      "text": "(ma)",
+      "bbox": [
+        114,
+        292,
+        152,
+        310
+      ],
+      "confidence": 0.9075558185577393
+    },
+    {
+      "text": "(μ5/ml)",
+      "bbox": [
+        248,
+        292,
+        313,
+        315
+      ],
+      "confidence": 0.8539515137672424
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        382,
+        282,
+        470,
+        303
+      ],
+      "confidence": 0.9991810917854309
+    },
+    {
+      "text": "Serum Cotinine",
+      "bbox": [
+        519,
+        288,
+        650,
+        302
+      ],
+      "confidence": 0.9646808505058289
+    },
+    {
+      "text": "(mg).",
+      "bbox": [
+        412,
+        298,
+        456,
+        317
+      ],
+      "confidence": 0.8169565200805664
+    },
+    {
+      "text": "(μc/ml)",
+      "bbox": [
+        548,
+        300,
+        613,
+        318
+      ],
+      "confidence": 0.77562016248703
+    },
+    {
+      "text": ".1",
+      "bbox": [
+        122,
+        321,
+        145,
+        338
+      ],
+      "confidence": 0.9467573761940002
+    },
+    {
+      "text": "90",
+      "bbox": [
+        271,
+        322,
+        296,
+        342
+      ],
+      "confidence": 0.9912362098693848
+    },
+    {
+      "text": "63",
+      "bbox": [
+        620,
+        321,
+        676,
+        352
+      ],
+      "confidence": 0.7911490201950073
+    },
+    {
+      "text": ".1",
+      "bbox": [
+        420,
+        326,
+        442,
+        344
+      ],
+      "confidence": 0.9441807270050049
+    },
+    {
+      "text": "59",
+      "bbox": [
+        571,
+        328,
+        597,
+        348
+      ],
+      "confidence": 0.9998428821563721
+    },
+    {
+      "text": ".2",
+      "bbox": [
+        122,
+        348,
+        143,
+        366
+      ],
+      "confidence": 0.9910034537315369
+    },
+    {
+      "text": "180",
+      "bbox": [
+        262,
+        350,
+        296,
+        369
+      ],
+      "confidence": 0.9995598793029785
+    },
+    {
+      "text": ".2",
+      "bbox": [
+        419,
+        355,
+        442,
+        372
+      ],
+      "confidence": 0.9820246696472168
+    },
+    {
+      "text": "118",
+      "bbox": [
+        562,
+        357,
+        598,
+        377
+      ],
+      "confidence": 0.9986886978149414
+    },
+    {
+      "text": ".3",
+      "bbox": [
+        119,
+        375,
+        144,
+        395
+      ],
+      "confidence": 0.9730411767959595
+    },
+    {
+      "text": "270",
+      "bbox": [
+        262,
+        378,
+        295,
+        397
+      ],
+      "confidence": 0.9998505711555481
+    },
+    {
+      "text": ".3",
+      "bbox": [
+        418,
+        383,
+        441,
+        400
+      ],
+      "confidence": 0.9931087493896484
+    },
+    {
+      "text": ".177",
+      "bbox": [
+        556,
+        384,
+        595,
+        407
+      ],
+      "confidence": 0.9702417850494385
+    },
+    {
+      "text": ".4",
+      "bbox": [
+        120,
+        405,
+        141,
+        422
+      ],
+      "confidence": 0.9936030507087708
+    },
+    {
+      "text": "360",
+      "bbox": [
+        261,
+        405,
+        296,
+        427
+      ],
+      "confidence": 0.9997645020484924
+    },
+    {
+      "text": ".4",
+      "bbox": [
+        419,
+        410,
+        439,
+        428
+      ],
+      "confidence": 0.9909049272537231
+    },
+    {
+      "text": "236",
+      "bbox": [
+        561,
+        413,
+        594,
+        433
+      ],
+      "confidence": 0.999931812286377
+    },
+    {
+      "text": "Clearly, these changes in half-life significantly alter",
+      "bbox": [
+        126,
+        460,
+        629,
+        492
+      ],
+      "confidence": 0.9817152619361877
+    },
+    {
+      "text": "the estimated yield from a cigarette wben this is to be",
+      "bbox": [
+        79,
+        486,
+        584,
+        521
+      ],
+      "confidence": 0.9690563082695007
+    },
+    {
+      "text": "Butnot",
+      "bbox": [
+        599,
+        483,
+        686,
+        521
+      ],
+      "confidence": 0.6734662055969238
+    },
+    {
+      "text": "inferred from the serum cotinine level obtained by Gori",
+      "bbox": [
+        79,
+        515,
+        583,
+        552
+      ],
+      "confidence": 0.9895409941673279
+    },
+    {
+      "text": "reative",
+      "bbox": [
+        601,
+        505,
+        685,
+        543
+      ],
+      "confidence": 0.677836537361145
+    },
+    {
+      "text": "and the pharmokinetic model (compare data in Tables I and II).",
+      "bbox": [
+        78,
+        545,
+        646,
+        582
+      ],
+      "confidence": 0.9784283638000488
+    },
+    {
+      "text": "Table II",
+      "bbox": [
+        282,
+        606,
+        364,
+        631
+      ],
+      "confidence": 0.9849607944488525
+    },
+    {
+      "text": "The cale",
+      "bbox": [
+        571,
+        593,
+        685,
+        663
+      ],
+      "confidence": 0.6570839881896973
+    },
+    {
+      "text": "Ydd a",
+      "bbox": [
+        583,
+        631,
+        674,
+        693
+      ],
+      "confidence": 0.6281226277351379
+    },
+    {
+      "text": "Average of all Serum Cotinine Data by Gori",
+      "bbox": [
+        176,
+        649,
+        557,
+        680
+      ],
+      "confidence": 0.9964214563369751
+    },
+    {
+      "text": "Brand",
+      "bbox": [
+        173,
+        678,
+        230,
+        703
+      ],
+      "confidence": 0.9993101954460144
+    },
+    {
+      "text": "Cotinine (ng/ml)",
+      "bbox": [
+        407,
+        684,
+        557,
+        709
+      ],
+      "confidence": 0.9599896669387817
+    },
+    {
+      "text": "Barclay",
+      "bbox": [
+        175,
+        709,
+        245,
+        730
+      ],
+      "confidence": 0.9995686411857605
+    },
+    {
+      "text": "13 mg-177",
+      "bbox": [
+        551,
+        711,
+        680,
+        746
+      ],
+      "confidence": 0.735927939414978
+    },
+    {
+      "text": "176",
+      "bbox": [
+        467,
+        716,
+        503,
+        736
+      ],
+      "confidence": 0.9997344613075256
+    },
+    {
+      "text": ". Cambridge",
+      "bbox": [
+        169,
+        739,
+        262,
+        757
+      ],
+      "confidence": 0.9185495376586914
+    },
+    {
+      "text": "103",
+      "bbox": [
+        465,
+        739,
+        507,
+        766
+      ],
+      "confidence": 0.9331309795379639
+    },
+    {
+      "text": "177my",
+      "bbox": [
+        539,
+        750,
+        656,
+        800
+      ],
+      "confidence": 0.731963574886322
+    },
+    {
+      "text": "Carlton",
+      "bbox": [
+        176,
+        766,
+        244,
+        784
+      ],
+      "confidence": 0.9857128262519836
+    },
+    {
+      "text": "107",
+      "bbox": [
+        465,
+        769,
+        502,
+        793
+      ],
+      "confidence": 0.8345985412597656
+    },
+    {
+      "text": "98 =116 mg",
+      "bbox": [
+        466,
+        784,
+        660,
+        841
+      ],
+      "confidence": 0.8242228627204895
+    },
+    {
+      "text": "Now",
+      "bbox": [
+        174,
+        793,
+        218,
+        812
+      ],
+      "confidence": 0.9995761513710022
+    },
+    {
+      "text": "2021591903",
+      "bbox": [
+        675,
+        801,
+        702,
+        944
+      ],
+      "confidence": 0.999975323677063
+    },
+    {
+      "text": ". The' form of the pharmokinetic model proposed by Darby",
+      "bbox": [
+        109,
+        829,
+        597,
+        865
+      ],
+      "confidence": 0.9593295454978943
+    },
+    {
+      "text": "estimates that the level of serum cotinine will increase",
+      "bbox": [
+        76,
+        855,
+        579,
+        892
+      ],
+      "confidence": 0.9830838441848755
+    },
+    {
+      "text": "linearly with the yield of the cigarette providing the same",
+      "bbox": [
+        76,
+        882,
+        617,
+        923
+      ],
+      "confidence": 0.9817091822624207
+    },
+    {
+      "text": "number of cigarettes are smoked at the same times.",
+      "bbox": [
+        77,
+        911,
+        519,
+        944
+      ],
+      "confidence": 0.9822496175765991
+    }
+  ],
+  "full_text": "Lorillard liesporse\n-4-\nFah 1,19r2\nTable i\nDarby Model\nModified Model\nNicotine half-\nNicotine half-\nlife(l0 min.);\nlife (40miz-);\nCotinine half-\nCotinine half-\nAssumed Amt.\nlife (1800\nAssumed Amt.\nlife (1140\nof Nicotine\nmin.)\nof Nicotine\nmin.)\nAbsorbed from\nCigarette\nEstimated\nSerum Cotinine\nAbisorbed from\nEstimated\n(ma)\n(μ5/ml)\nCigarette\nSerum Cotinine\n(mg).\n(μc/ml)\n.1\n90\n63\n.1\n59\n.2\n180\n.2\n118\n.3\n270\n.3\n.177\n.4\n360\n.4\n236\nClearly, these changes in half-life significantly alter\nthe estimated yield from a cigarette wben this is to be\nButnot\ninferred from the serum cotinine level obtained by Gori\nreative\nand the pharmokinetic model (compare data in Tables I and II).\nTable II\nThe cale\nYdd a\nAverage of all Serum Cotinine Data by Gori\nBrand\nCotinine (ng/ml)\nBarclay\n13 mg-177\n176\n. Cambridge\n103\n177my\nCarlton\n107\n98 =116 mg\nNow\n2021591903\n. The' form of the pharmokinetic model proposed by Darby\nestimates that the level of serum cotinine will increase\nlinearly with the yield of the cigarette providing the same\nnumber of cigarettes are smoked at the same times."
+}

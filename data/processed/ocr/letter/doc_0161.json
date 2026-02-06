@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0161.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJR",
+      "bbox": [
+        76,
+        40,
+        148,
+        81
+      ],
+      "confidence": 0.9997596740722656
+    },
+    {
+      "text": "Scptember 11, 1991",
+      "bbox": [
+        80,
+        111,
+        224,
+        137
+      ],
+      "confidence": 0.9675155282020569
+    },
+    {
+      "text": "FLV05",
+      "bbox": [
+        503,
+        119,
+        562,
+        144
+      ],
+      "confidence": 0.9997044801712036
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        79,
+        157,
+        109,
+        180
+      ],
+      "confidence": 0.9781880378723145
+    },
+    {
+      "text": "Mr. Roger Faircloth",
+      "bbox": [
+        112,
+        171,
+        278,
+        205
+      ],
+      "confidence": 0.9618666768074036
+    },
+    {
+      "text": "Dr. Brian Lawrence",
+      "bbox": [
+        115,
+        158,
+        294,
+        187
+      ],
+      "confidence": 0.972046434879303
+    },
+    {
+      "text": "Mr. Dick Wolfe",
+      "bbox": [
+        128,
+        193,
+        240,
+        215
+      ],
+      "confidence": 0.9973350763320923
+    },
+    {
+      "text": "Mr. Mark Miller",
+      "bbox": [
+        128,
+        209,
+        251,
+        230
+      ],
+      "confidence": 0.9374517798423767
+    },
+    {
+      "text": "Ms. Rence Pogrow",
+      "bbox": [
+        129,
+        226,
+        263,
+        247
+      ],
+      "confidence": 0.997714102268219
+    },
+    {
+      "text": "REFERENCE:",
+      "bbox": [
+        81,
+        271,
+        172,
+        293
+      ],
+      "confidence": 0.9977361559867859
+    },
+    {
+      "text": "Cocoa",
+      "bbox": [
+        223,
+        274,
+        269,
+        296
+      ],
+      "confidence": 0.9996082186698914
+    },
+    {
+      "text": "Consolidated Cocoa",
+      "bbox": [
+        82,
+        304,
+        218,
+        326
+      ],
+      "confidence": 0.9957798719406128
+    },
+    {
+      "text": "Per telephone conversation with Dick Wolfe today, he advises the test batch of",
+      "bbox": [
+        80,
+        337,
+        649,
+        367
+      ],
+      "confidence": 0.9892135858535767
+    },
+    {
+      "text": "Consolidated Cocoa without the flow agent has been run and the reports state",
+      "bbox": [
+        80,
+        352,
+        638,
+        384
+      ],
+      "confidence": 0.9805114269256592
+    },
+    {
+      "text": "the material was satisfactory. Please advise if I can have Consolidated ship for",
+      "bbox": [
+        80,
+        367,
+        649,
+        402
+      ],
+      "confidence": 0.9658697843551636
+    },
+    {
+      "text": "the balance of 1991 Cocoa without N-zorbit.",
+      "bbox": [
+        81,
+        387,
+        415,
+        408
+      ],
+      "confidence": 0.9771553874015808
+    },
+    {
+      "text": "Cocoa Barry",
+      "bbox": [
+        80,
+        434,
+        173,
+        458
+      ],
+      "confidence": 0.9788216948509216
+    },
+    {
+      "text": "The test run of Cocoa Barry's new nitrogen process without flow agent was",
+      "bbox": [
+        81,
+        471,
+        622,
+        500
+      ],
+      "confidence": 0.9879196286201477
+    },
+    {
+      "text": "reported to havc run satisfactorily. Cocoa Barry has just shipped in a",
+      "bbox": [
+        80,
+        488,
+        585,
+        517
+      ],
+      "confidence": 0.9553934335708618
+    },
+    {
+      "text": "truckload of the new nitrogen process with flow agent. Please advise as soon",
+      "bbox": [
+        81,
+        505,
+        638,
+        533
+      ],
+      "confidence": 0.9771801829338074
+    },
+    {
+      "text": "as possible if this runs satisfaciorily as we have some of their trucks on hold.",
+      "bbox": [
+        81,
+        522,
+        637,
+        549
+      ],
+      "confidence": 0.9744102358818054
+    },
+    {
+      "text": "If this is okay, I will advise them to bring in all future material with nitrogen",
+      "bbox": [
+        81,
+        537,
+        643,
+        567
+      ],
+      "confidence": 0.9879580140113831
+    },
+    {
+      "text": "process without N-zorbit.",
+      "bbox": [
+        83,
+        557,
+        286,
+        575
+      ],
+      "confidence": 0.9891303181648254
+    },
+    {
+      "text": "Gerkins Cocoa",
+      "bbox": [
+        83,
+        603,
+        184,
+        623
+      ],
+      "confidence": 0.9930101633071899
+    },
+    {
+      "text": "I understand from Dick that the test material from Gerkins has been debagged",
+      "bbox": [
+        81,
+        638,
+        646,
+        664
+      ],
+      "confidence": 0.9730950593948364
+    },
+    {
+      "text": "and placed into totcs. Please advise how this runs in Manufacturing and we",
+      "bbox": [
+        83,
+        657,
+        628,
+        681
+      ],
+      "confidence": 0.977207362651825
+    },
+    {
+      "text": "will discuss at our quarterly flavoring meeting.",
+      "bbox": [
+        83,
+        673,
+        424,
+        696
+      ],
+      "confidence": 0.9804129600524902
+    },
+    {
+      "text": "Linda B. Stoker",
+      "bbox": [
+        84,
+        742,
+        193,
+        759
+      ],
+      "confidence": 0.9703539609909058
+    },
+    {
+      "text": "51290 2913",
+      "bbox": [
+        668,
+        840,
+        696,
+        936
+      ],
+      "confidence": 0.9856692552566528
+    }
+  ],
+  "full_text": "RJR\nScptember 11, 1991\nFLV05\nTO:\nMr. Roger Faircloth\nDr. Brian Lawrence\nMr. Dick Wolfe\nMr. Mark Miller\nMs. Rence Pogrow\nREFERENCE:\nCocoa\nConsolidated Cocoa\nPer telephone conversation with Dick Wolfe today, he advises the test batch of\nConsolidated Cocoa without the flow agent has been run and the reports state\nthe material was satisfactory. Please advise if I can have Consolidated ship for\nthe balance of 1991 Cocoa without N-zorbit.\nCocoa Barry\nThe test run of Cocoa Barry's new nitrogen process without flow agent was\nreported to havc run satisfactorily. Cocoa Barry has just shipped in a\ntruckload of the new nitrogen process with flow agent. Please advise as soon\nas possible if this runs satisfaciorily as we have some of their trucks on hold.\nIf this is okay, I will advise them to bring in all future material with nitrogen\nprocess without N-zorbit.\nGerkins Cocoa\nI understand from Dick that the test material from Gerkins has been debagged\nand placed into totcs. Please advise how this runs in Manufacturing and we\nwill discuss at our quarterly flavoring meeting.\nLinda B. Stoker\n51290 2913"
+}

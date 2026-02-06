@@ -1,0 +1,281 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0620.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJReynolds",
+      "bbox": [
+        20,
+        39,
+        289,
+        142
+      ],
+      "confidence": 0.9896140098571777
+    },
+    {
+      "text": "Tobacco Company",
+      "bbox": [
+        189,
+        127,
+        305,
+        153
+      ],
+      "confidence": 0.9746508002281189
+    },
+    {
+      "text": "April 3, 2000",
+      "bbox": [
+        94,
+        150,
+        187,
+        177
+      ],
+      "confidence": 0.9666356444358826
+    },
+    {
+      "text": "Consumer Relations",
+      "bbox": [
+        533,
+        171,
+        656,
+        193
+      ],
+      "confidence": 0.987646758556366
+    },
+    {
+      "text": "Winston-Salem, N. C. 27102",
+      "bbox": [
+        534,
+        185,
+        701,
+        209
+      ],
+      "confidence": 0.9899845719337463
+    },
+    {
+      "text": "181804950",
+      "bbox": [
+        97,
+        189,
+        180,
+        214
+      ],
+      "confidence": 0.9999382495880127
+    },
+    {
+      "text": "Jean Hagie",
+      "bbox": [
+        98,
+        208,
+        181,
+        232
+      ],
+      "confidence": 0.9924856424331665
+    },
+    {
+      "text": "742 Powder Branch Rd",
+      "bbox": [
+        100,
+        227,
+        258,
+        247
+      ],
+      "confidence": 0.9996994733810425
+    },
+    {
+      "text": "Elizabethton, TN 37643",
+      "bbox": [
+        103,
+        246,
+        259,
+        263
+      ],
+      "confidence": 0.9943570494651794
+    },
+    {
+      "text": "Dear Valued Customer:",
+      "bbox": [
+        99,
+        365,
+        261,
+        389
+      ],
+      "confidence": 0.9997220039367676
+    },
+    {
+      "text": "Recently you contacted R. J. Reynolds' Consumer Relations Department and",
+      "bbox": [
+        99,
+        399,
+        619,
+        429
+      ],
+      "confidence": 0.9797834753990173
+    },
+    {
+      "text": "gave us the opportunity to respond to your request for assistance with either a",
+      "bbox": [
+        98,
+        417,
+        623,
+        448
+      ],
+      "confidence": 0.9940968751907349
+    },
+    {
+      "text": "promotion or product related issue.",
+      "bbox": [
+        99,
+        439,
+        334,
+        465
+      ],
+      "confidence": 0.9881215691566467
+    },
+    {
+      "text": "In an effort to better serve our customers, we are asking you to please take a",
+      "bbox": [
+        99,
+        476,
+        616,
+        500
+      ],
+      "confidence": 0.9890446066856384
+    },
+    {
+      "text": "few minutes to complete a questionnaire about how well you were treated by our",
+      "bbox": [
+        98,
+        494,
+        638,
+        518
+      ],
+      "confidence": 0.9907644987106323
+    },
+    {
+      "text": "company representative. After completing the survey on the reverse side of this",
+      "bbox": [
+        98,
+        512,
+        634,
+        537
+      ],
+      "confidence": 0.981682300567627
+    },
+    {
+      "text": "letter, please return it in the enclosed postage-paid envelope. Please retum",
+      "bbox": [
+        98,
+        531,
+        608,
+        553
+      ],
+      "confidence": 0.9744245409965515
+    },
+    {
+      "text": "within ten days of recelpt.",
+      "bbox": [
+        98,
+        551,
+        271,
+        571
+      ],
+      "confidence": 0.9692097306251526
+    },
+    {
+      "text": "Thank you for taking the time to let us know how our staff met your expectations.",
+      "bbox": [
+        96,
+        586,
+        636,
+        607
+      ],
+      "confidence": 0.9932629466056824
+    },
+    {
+      "text": "We value your opinion and appreciate your business.",
+      "bbox": [
+        96,
+        606,
+        455,
+        627
+      ],
+      "confidence": 0.9983512759208679
+    },
+    {
+      "text": "Mark Conrad",
+      "bbox": [
+        96,
+        646,
+        221,
+        670
+      ],
+      "confidence": 0.9986146688461304
+    },
+    {
+      "text": "Mark Conrad",
+      "bbox": [
+        98,
+        693,
+        188,
+        711
+      ],
+      "confidence": 0.9941007494926453
+    },
+    {
+      "text": "Consumer Satisfaction Research Manager",
+      "bbox": [
+        97,
+        710,
+        385,
+        732
+      ],
+      "confidence": 0.9916691184043884
+    },
+    {
+      "text": "WZ1AU",
+      "bbox": [
+        100,
+        886,
+        159,
+        910
+      ],
+      "confidence": 0.999903678894043
+    },
+    {
+      "text": "812",
+      "bbox": [
+        101,
+        906,
+        133,
+        926
+      ],
+      "confidence": 0.999971866607666
+    },
+    {
+      "text": "52276 8788",
+      "bbox": [
+        699,
+        896,
+        722,
+        998
+      ],
+      "confidence": 0.9961134791374207
+    },
+    {
+      "text": "\"We work for smokers.\"",
+      "bbox": [
+        299,
+        972,
+        461,
+        996
+      ],
+      "confidence": 0.9652948975563049
+    }
+  ],
+  "full_text": "RJReynolds\nTobacco Company\nApril 3, 2000\nConsumer Relations\nWinston-Salem, N. C. 27102\n181804950\nJean Hagie\n742 Powder Branch Rd\nElizabethton, TN 37643\nDear Valued Customer:\nRecently you contacted R. J. Reynolds' Consumer Relations Department and\ngave us the opportunity to respond to your request for assistance with either a\npromotion or product related issue.\nIn an effort to better serve our customers, we are asking you to please take a\nfew minutes to complete a questionnaire about how well you were treated by our\ncompany representative. After completing the survey on the reverse side of this\nletter, please return it in the enclosed postage-paid envelope. Please retum\nwithin ten days of recelpt.\nThank you for taking the time to let us know how our staff met your expectations.\nWe value your opinion and appreciate your business.\nMark Conrad\nMark Conrad\nConsumer Satisfaction Research Manager\nWZ1AU\n812\n52276 8788\n\"We work for smokers.\""
+}

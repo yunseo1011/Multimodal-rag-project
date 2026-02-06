@@ -1,0 +1,761 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0101.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PRINCIPAL INVESTIGATOR:PROGRAM DIRECTOR:",
+      "bbox": [
+        281,
+        0,
+        536,
+        28
+      ],
+      "confidence": 0.9765769839286804
+    },
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        323,
+        18,
+        496,
+        48
+      ],
+      "confidence": 0.9994987845420837
+    },
+    {
+      "text": "Give the foliowing information for the key personnel and consultants listed on page 2. Begin with the Principal",
+      "bbox": [
+        134,
+        29,
+        677,
+        74
+      ],
+      "confidence": 0.9869969487190247
+    },
+    {
+      "text": "InvestigatoriProgram Director. Photocapy this page for each person.",
+      "bbox": [
+        240,
+        48,
+        574,
+        83
+      ],
+      "confidence": 0.9729105234146118
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        64,
+        70,
+        102,
+        90
+      ],
+      "confidence": 0.9999139308929443
+    },
+    {
+      "text": "Ralph R. Weichselbaum",
+      "bbox": [
+        73,
+        93,
+        239,
+        117
+      ],
+      "confidence": 0.9743412733078003
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        371,
+        84,
+        457,
+        104
+      ],
+      "confidence": 0.9953145980834961
+    },
+    {
+      "text": "BIRTHDATE (Mo... Day, Yr.)",
+      "bbox": [
+        578,
+        93,
+        711,
+        115
+      ],
+      "confidence": 0.9657829999923706
+    },
+    {
+      "text": "Professor and Chairman",
+      "bbox": [
+        384,
+        104,
+        554,
+        129
+      ],
+      "confidence": 0.9809703230857849
+    },
+    {
+      "text": "EDUCATiON (Begin with baccalsureate or other initial professional education, such as nursing. and inctude postdoctoral training.)",
+      "bbox": [
+        66,
+        120,
+        697,
+        160
+      ],
+      "confidence": 0.9728282690048218
+    },
+    {
+      "text": "12/12/45",
+      "bbox": [
+        593,
+        113,
+        658,
+        134
+      ],
+      "confidence": 0.999925971031189
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        160,
+        148,
+        309,
+        168
+      ],
+      "confidence": 0.9993384480476379
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        420,
+        156,
+        467,
+        174
+      ],
+      "confidence": 0.9984574913978577
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        515,
+        152,
+        550,
+        170
+      ],
+      "confidence": 0.9994242191314697
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        499,
+        164,
+        566,
+        183
+      ],
+      "confidence": 0.9994288682937622
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        614,
+        164,
+        701,
+        182
+      ],
+      "confidence": 0.997214138507843
+    },
+    {
+      "text": "Univ. of Wisconsin, Madison, Wi",
+      "bbox": [
+        67,
+        174,
+        304,
+        200
+      ],
+      "confidence": 0.991748034954071
+    },
+    {
+      "text": "B.S.",
+      "bbox": [
+        411,
+        183,
+        448,
+        205
+      ],
+      "confidence": 0.9990314245223999
+    },
+    {
+      "text": "1978",
+      "bbox": [
+        531,
+        187,
+        568,
+        209
+      ],
+      "confidence": 0.9999836683273315
+    },
+    {
+      "text": "Univ. of Illinois, Chicago, IL",
+      "bbox": [
+        67,
+        190,
+        297,
+        215
+      ],
+      "confidence": 0.9555078148841858
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        410,
+        198,
+        448,
+        220
+      ],
+      "confidence": 0.9995124936103821
+    },
+    {
+      "text": "jLiberal Arts",
+      "bbox": [
+        575,
+        189,
+        671,
+        211
+      ],
+      "confidence": 0.9652973413467407
+    },
+    {
+      "text": "Alameda County Hospital, Oakland, CA",
+      "bbox": [
+        67,
+        206,
+        342,
+        232
+      ],
+      "confidence": 0.9787245988845825
+    },
+    {
+      "text": "1971-1972",
+      "bbox": [
+        494,
+        217,
+        567,
+        239
+      ],
+      "confidence": 0.9999363422393799
+    },
+    {
+      "text": "1971",
+      "bbox": [
+        531,
+        205,
+        567,
+        223
+      ],
+      "confidence": 0.9998533129692078
+    },
+    {
+      "text": "Medicine",
+      "bbox": [
+        575,
+        205,
+        641,
+        225
+      ],
+      "confidence": 0.998009443283081
+    },
+    {
+      "text": "Harvard Medical School, JCRT, Boston, MA",
+      "bbox": [
+        67,
+        223,
+        371,
+        247
+      ],
+      "confidence": 0.9795038104057312
+    },
+    {
+      "text": "Medicine Intern",
+      "bbox": [
+        575,
+        221,
+        691,
+        242
+      ],
+      "confidence": 0.9908159971237183
+    },
+    {
+      "text": "1972-1975",
+      "bbox": [
+        495,
+        234,
+        567,
+        254
+      ],
+      "confidence": 0.9997968673706055
+    },
+    {
+      "text": "Resident in RT",
+      "bbox": [
+        576,
+        236,
+        685,
+        257
+      ],
+      "confidence": 0.9922632575035095
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE: Conciuding with present position, list, in chronological order, previous empfoyment, experience.",
+      "bbox": [
+        68,
+        252,
+        737,
+        286
+      ],
+      "confidence": 0.9808389544487
+    },
+    {
+      "text": "and honors. Include present membership on any Federal Gcvernment public advisory committee. List, in chronological order, the titles and com-",
+      "bbox": [
+        68,
+        267,
+        738,
+        299
+      ],
+      "confidence": 0.9804773926734924
+    },
+    {
+      "text": "plete references to all publications during the past three years and to representative earlier publications pertinent to this application. Do NOT",
+      "bbox": [
+        68,
+        280,
+        737,
+        311
+      ],
+      "confidence": 0.9830770492553711
+    },
+    {
+      "text": "EXCEED TWO PAGES.",
+      "bbox": [
+        68,
+        293,
+        179,
+        310
+      ],
+      "confidence": 0.9896839261054993
+    },
+    {
+      "text": "1980-1984",
+      "bbox": [
+        81,
+        304,
+        150,
+        324
+      ],
+      "confidence": 0.9797903895378113
+    },
+    {
+      "text": "Associate Professor of Radiation Therapy, Harvard Medical Center, Boston, MA",
+      "bbox": [
+        171,
+        305,
+        702,
+        335
+      ],
+      "confidence": 0.9902008175849915
+    },
+    {
+      "text": "1983-1984",
+      "bbox": [
+        82,
+        325,
+        151,
+        342
+      ],
+      "confidence": 0.9999335408210754
+    },
+    {
+      "text": "Associatc Professor, Department of Cancer Biology, Harvard School of Public Health,",
+      "bbox": [
+        171,
+        323,
+        712,
+        354
+      ],
+      "confidence": 0.9865790009498596
+    },
+    {
+      "text": "Boston, MA",
+      "bbox": [
+        174,
+        346,
+        254,
+        360
+      ],
+      "confidence": 0.9986604452133179
+    },
+    {
+      "text": "1984-Prescnt Professor and Chairman, Department of Radiation and Cellular Oncology, University",
+      "bbox": [
+        82,
+        360,
+        711,
+        388
+      ],
+      "confidence": 0.9866577982902527
+    },
+    {
+      "text": "of Chicago, Pritzker School of Medicine, Head, Michael Reese/University of Chicago",
+      "bbox": [
+        173,
+        380,
+        710,
+        406
+      ],
+      "confidence": 0.980716347694397
+    },
+    {
+      "text": "Center for Radiation Therapy, Chicago, IL",
+      "bbox": [
+        173,
+        397,
+        455,
+        420
+      ],
+      "confidence": 0.9906996488571167
+    },
+    {
+      "text": "1990",
+      "bbox": [
+        81,
+        415,
+        118,
+        434
+      ],
+      "confidence": 0.9999861717224121
+    },
+    {
+      "text": "Harold H. Hincs, Jr. Professor and Chairman",
+      "bbox": [
+        172,
+        415,
+        477,
+        438
+      ],
+      "confidence": 0.9777231216430664
+    },
+    {
+      "text": "Publications: (Selected out of 306 Publications)",
+      "bbox": [
+        80,
+        451,
+        396,
+        474
+      ],
+      "confidence": 0.9847858548164368
+    },
+    {
+      "text": "Weichselbaum, R.R., Patcl, M. and DasGupta, T.K.: The influence of the pineal gland on wound",
+      "bbox": [
+        80,
+        469,
+        710,
+        496
+      ],
+      "confidence": 0.981803834438324
+    },
+    {
+      "text": "healing. Nature 254:349, 1975.",
+      "bbox": [
+        102,
+        490,
+        305,
+        507
+      ],
+      "confidence": 0.97328120470047
+    },
+    {
+      "text": "Weichselbaum, R.R., Epstein, J.A., Little, J.B and Kornblith, P.L. In vitro cellular radiosensitivity",
+      "bbox": [
+        81,
+        505,
+        709,
+        532
+      ],
+      "confidence": 0.9720351696014404
+    },
+    {
+      "text": "of human malignant tumors. European Jounral of Cancer 12:1027-1032, 1976.",
+      "bbox": [
+        101,
+        524,
+        607,
+        546
+      ],
+      "confidence": 0.9788948893547058
+    },
+    {
+      "text": "Weichselbaum, R.R., Nove, J. and Little, J.B. Skin fibroblasts from a D-deletion typc",
+      "bbox": [
+        80,
+        539,
+        710,
+        571
+      ],
+      "confidence": 0.9719051718711853
+    },
+    {
+      "text": "retinoblastoma patient are abnormally x-ray sensitive. Nature 266:726-727, 1977.",
+      "bbox": [
+        100,
+        559,
+        628,
+        584
+      ],
+      "confidence": 0.986737847328186
+    },
+    {
+      "text": "Weichselbaum, R.R., Nove, J. and Little, J.B. Deficient repair of potentially lethal damage in",
+      "bbox": [
+        81,
+        577,
+        709,
+        605
+      ],
+      "confidence": 0.9911187291145325
+    },
+    {
+      "text": "ataxia telangiectasia and xeroderma pigmentosum. Nature 271:261-262, 1978.",
+      "bbox": [
+        99,
+        596,
+        607,
+        619
+      ],
+      "confidence": 0.9920956492424011
+    },
+    {
+      "text": "Weichsclbaum, R.R., Novc, J. and Little, J.B. X-ray sensitivity of diploid fibroblasts from patients",
+      "bbox": [
+        81,
+        614,
+        709,
+        639
+      ],
+      "confidence": 0.9827945828437805
+    },
+    {
+      "text": "with hereditary and sporadic retinoblastoma. Proc. Natl. Acad. Sci. USA 75:3962-3964, 1978.",
+      "bbox": [
+        101,
+        634,
+        706,
+        655
+      ],
+      "confidence": 0.9866873025894165
+    },
+    {
+      "text": "Weichselbaum, R.R., Hellman, S., Piro, A.J., Nove, J.J. and Little, J.B. Proliferation kinetics of a",
+      "bbox": [
+        81,
+        651,
+        708,
+        674
+      ],
+      "confidence": 0.9820183515548706
+    },
+    {
+      "text": "human breast cancer in_vitro following treatment with 17 Beta-estradiol and 1-Beta-D-Arab-",
+      "bbox": [
+        101,
+        669,
+        707,
+        693
+      ],
+      "confidence": 0.9889438152313232
+    },
+    {
+      "text": "inofuransylcytosine. Cancer Res. 387:2139-2342, 1978.",
+      "bbox": [
+        102,
+        691,
+        454,
+        708
+      ],
+      "confidence": 0.9915539622306824
+    },
+    {
+      "text": "Weichselbaum, R.R., Nove, J. and Little, J.B. X-ray sensitivity of fifty-three human diploid",
+      "bbox": [
+        80,
+        706,
+        708,
+        731
+      ],
+      "confidence": 0.9807522892951965
+    },
+    {
+      "text": "fibroblast cell strains from patients with chacterized genctic disorders. Cancer Res. 4Q:920-925,",
+      "bbox": [
+        100,
+        724,
+        708,
+        749
+      ],
+      "confidence": 0.9828677773475647
+    },
+    {
+      "text": "1980.",
+      "bbox": [
+        101,
+        744,
+        138,
+        762
+      ],
+      "confidence": 0.9998881220817566
+    },
+    {
+      "text": "Weichselbaum, R.R., Little, J.B., Nove, J. and Hellman, S. Lack of selective killing by steroids in",
+      "bbox": [
+        78,
+        759,
+        709,
+        787
+      ],
+      "confidence": 0.9725680351257324
+    },
+    {
+      "text": "normal and malignant cells. J. Cell. Physiol. 102:429-433, 1980.",
+      "bbox": [
+        99,
+        781,
+        512,
+        799
+      ],
+      "confidence": 0.9949662685394287
+    },
+    {
+      "text": "Weichselbaum, R.R., and Little, J.B. Familial retinoblastoma and ataxia telangiectasia: Human",
+      "bbox": [
+        77,
+        794,
+        709,
+        824
+      ],
+      "confidence": 0.9768257737159729
+    },
+    {
+      "text": "models for DNA repair and carcinogenesis. Cancer 45:775-779, 1980.",
+      "bbox": [
+        98,
+        814,
+        552,
+        838
+      ],
+      "confidence": 0.970438539981842
+    },
+    {
+      "text": "Kennedy, A.R. and Weichselbaum, R.R. Effects of dexamethasone and cortisone with x-irradiation",
+      "bbox": [
+        78,
+        832,
+        708,
+        859
+      ],
+      "confidence": 0.9826768636703491
+    },
+    {
+      "text": "on transformation of C3H 10T/ cells. Nature 294:97-98, 1981.",
+      "bbox": [
+        97,
+        851,
+        510,
+        874
+      ],
+      "confidence": 0.9796671271324158
+    },
+    {
+      "text": "Weichselbaum, R.R., and Little, J.B. The differential response of human tumors to fractionated",
+      "bbox": [
+        78,
+        869,
+        707,
+        894
+      ],
+      "confidence": 0.992053747177124
+    },
+    {
+      "text": "radiation may be due to a post-irradiation repair process. Brit. J. Cancer 46:532-537, 1982.",
+      "bbox": [
+        97,
+        886,
+        695,
+        913
+      ],
+      "confidence": 0.9673311114311218
+    },
+    {
+      "text": "Weichselbaum, R.R. Schmit, A., and Little, J.B.: Cellular factors influencing radiocurability of",
+      "bbox": [
+        77,
+        903,
+        708,
+        933
+      ],
+      "confidence": 0.9302656054496765
+    },
+    {
+      "text": "human malignant tumors. Brit. J. Cancer 45:10-16, 1982.",
+      "bbox": [
+        97,
+        924,
+        468,
+        946
+      ],
+      "confidence": 0.9881125688552856
+    },
+    {
+      "text": "PHS 398 (Rev. 10/86)",
+      "bbox": [
+        65,
+        963,
+        167,
+        976
+      ],
+      "confidence": 0.9620145559310913
+    },
+    {
+      "text": "Page",
+      "bbox": [
+        367,
+        959,
+        397,
+        977
+      ],
+      "confidence": 0.9997405409812927
+    },
+    {
+      "text": "Number pages consecutively at the bottom througnout the appication. Do not use sutfixes such as 5a. 5b.",
+      "bbox": [
+        64,
+        972,
+        524,
+        993
+      ],
+      "confidence": 0.9336832761764526
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        709,
+        971,
+        732,
+        990
+      ],
+      "confidence": 0.9998980760574341
+    }
+  ],
+  "full_text": "PRINCIPAL INVESTIGATOR:PROGRAM DIRECTOR:\nBIOGRAPHICAL SKETCH\nGive the foliowing information for the key personnel and consultants listed on page 2. Begin with the Principal\nInvestigatoriProgram Director. Photocapy this page for each person.\nNAME\nRalph R. Weichselbaum\nPOSITION TITLE\nBIRTHDATE (Mo... Day, Yr.)\nProfessor and Chairman\nEDUCATiON (Begin with baccalsureate or other initial professional education, such as nursing. and inctude postdoctoral training.)\n12/12/45\nINSTITUTION AND LOCATION\nDEGREE\nYEAR\nCONFERRED\nFIELD OF STUDY\nUniv. of Wisconsin, Madison, Wi\nB.S.\n1978\nUniv. of Illinois, Chicago, IL\nM.D.\njLiberal Arts\nAlameda County Hospital, Oakland, CA\n1971-1972\n1971\nMedicine\nHarvard Medical School, JCRT, Boston, MA\nMedicine Intern\n1972-1975\nResident in RT\nRESEARCH AND PROFESSIONAL EXPERIENCE: Conciuding with present position, list, in chronological order, previous empfoyment, experience.\nand honors. Include present membership on any Federal Gcvernment public advisory committee. List, in chronological order, the titles and com-\nplete references to all publications during the past three years and to representative earlier publications pertinent to this application. Do NOT\nEXCEED TWO PAGES.\n1980-1984\nAssociate Professor of Radiation Therapy, Harvard Medical Center, Boston, MA\n1983-1984\nAssociatc Professor, Department of Cancer Biology, Harvard School of Public Health,\nBoston, MA\n1984-Prescnt Professor and Chairman, Department of Radiation and Cellular Oncology, University\nof Chicago, Pritzker School of Medicine, Head, Michael Reese/University of Chicago\nCenter for Radiation Therapy, Chicago, IL\n1990\nHarold H. Hincs, Jr. Professor and Chairman\nPublications: (Selected out of 306 Publications)\nWeichselbaum, R.R., Patcl, M. and DasGupta, T.K.: The influence of the pineal gland on wound\nhealing. Nature 254:349, 1975.\nWeichselbaum, R.R., Epstein, J.A., Little, J.B and Kornblith, P.L. In vitro cellular radiosensitivity\nof human malignant tumors. European Jounral of Cancer 12:1027-1032, 1976.\nWeichselbaum, R.R., Nove, J. and Little, J.B. Skin fibroblasts from a D-deletion typc\nretinoblastoma patient are abnormally x-ray sensitive. Nature 266:726-727, 1977.\nWeichselbaum, R.R., Nove, J. and Little, J.B. Deficient repair of potentially lethal damage in\nataxia telangiectasia and xeroderma pigmentosum. Nature 271:261-262, 1978.\nWeichsclbaum, R.R., Novc, J. and Little, J.B. X-ray sensitivity of diploid fibroblasts from patients\nwith hereditary and sporadic retinoblastoma. Proc. Natl. Acad. Sci. USA 75:3962-3964, 1978.\nWeichselbaum, R.R., Hellman, S., Piro, A.J., Nove, J.J. and Little, J.B. Proliferation kinetics of a\nhuman breast cancer in_vitro following treatment with 17 Beta-estradiol and 1-Beta-D-Arab-\ninofuransylcytosine. Cancer Res. 387:2139-2342, 1978.\nWeichselbaum, R.R., Nove, J. and Little, J.B. X-ray sensitivity of fifty-three human diploid\nfibroblast cell strains from patients with chacterized genctic disorders. Cancer Res. 4Q:920-925,\n1980.\nWeichselbaum, R.R., Little, J.B., Nove, J. and Hellman, S. Lack of selective killing by steroids in\nnormal and malignant cells. J. Cell. Physiol. 102:429-433, 1980.\nWeichselbaum, R.R., and Little, J.B. Familial retinoblastoma and ataxia telangiectasia: Human\nmodels for DNA repair and carcinogenesis. Cancer 45:775-779, 1980.\nKennedy, A.R. and Weichselbaum, R.R. Effects of dexamethasone and cortisone with x-irradiation\non transformation of C3H 10T/ cells. Nature 294:97-98, 1981.\nWeichselbaum, R.R., and Little, J.B. The differential response of human tumors to fractionated\nradiation may be due to a post-irradiation repair process. Brit. J. Cancer 46:532-537, 1982.\nWeichselbaum, R.R. Schmit, A., and Little, J.B.: Cellular factors influencing radiocurability of\nhuman malignant tumors. Brit. J. Cancer 45:10-16, 1982.\nPHS 398 (Rev. 10/86)\nPage\nNumber pages consecutively at the bottom througnout the appication. Do not use sutfixes such as 5a. 5b.\nFF"
+}

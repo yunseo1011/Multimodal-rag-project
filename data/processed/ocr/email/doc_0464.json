@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0464.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "R. J. Reynolds Tobacco International, Inc. - Japan",
+      "bbox": [
+        166,
+        37,
+        592,
+        63
+      ],
+      "confidence": 0.9785515069961548
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        82,
+        80,
+        131,
+        99
+      ],
+      "confidence": 0.9997167587280273
+    },
+    {
+      "text": "March 18, 1996",
+      "bbox": [
+        161,
+        73,
+        265,
+        98
+      ],
+      "confidence": 0.999376118183136
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        80,
+        110,
+        115,
+        133
+      ],
+      "confidence": 0.9991037249565125
+    },
+    {
+      "text": "Tony Petree",
+      "bbox": [
+        162,
+        108,
+        247,
+        132
+      ],
+      "confidence": 0.9977393746376038
+    },
+    {
+      "text": "Ken Fukuoka",
+      "bbox": [
+        163,
+        140,
+        252,
+        163
+      ],
+      "confidence": 0.9992736577987671
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        81,
+        143,
+        135,
+        165
+      ],
+      "confidence": 0.9997518658638
+    },
+    {
+      "text": "SUBJECT: Salem Pianissimo Fllter Fallng Off",
+      "bbox": [
+        81,
+        173,
+        400,
+        197
+      ],
+      "confidence": 0.9893700480461121
+    },
+    {
+      "text": "Referring to your memo of March 15, 1996 with regard to the above subject, I am responding as",
+      "bbox": [
+        80,
+        228,
+        675,
+        251
+      ],
+      "confidence": 0.9779290556907654
+    },
+    {
+      "text": "follows:",
+      "bbox": [
+        79,
+        248,
+        138,
+        269
+      ],
+      "confidence": 0.9997210502624512
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        81,
+        287,
+        101,
+        306
+      ],
+      "confidence": 0.9756710529327393
+    },
+    {
+      "text": "3 complaints - comp No. and man code are:",
+      "bbox": [
+        126,
+        286,
+        400,
+        305
+      ],
+      "confidence": 0.9881768822669983
+    },
+    {
+      "text": "March 5th",
+      "bbox": [
+        173,
+        321,
+        246,
+        345
+      ],
+      "confidence": 0.9993038177490234
+    },
+    {
+      "text": "KV",
+      "bbox": [
+        357,
+        322,
+        388,
+        343
+      ],
+      "confidence": 0.9994662404060364
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        127,
+        324,
+        150,
+        345
+      ],
+      "confidence": 0.9987204074859619
+    },
+    {
+      "text": "68957",
+      "bbox": [
+        266,
+        323,
+        311,
+        342
+      ],
+      "confidence": 0.9998919367790222
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        126,
+        343,
+        149,
+        364
+      ],
+      "confidence": 0.9996570348739624
+    },
+    {
+      "text": "May 6th",
+      "bbox": [
+        174,
+        342,
+        234,
+        363
+      ],
+      "confidence": 0.998839795589447
+    },
+    {
+      "text": "68957",
+      "bbox": [
+        267,
+        342,
+        311,
+        361
+      ],
+      "confidence": 0.9999178051948547
+    },
+    {
+      "text": "KV",
+      "bbox": [
+        357,
+        341,
+        388,
+        362
+      ],
+      "confidence": 0.9986103773117065
+    },
+    {
+      "text": "C.",
+      "bbox": [
+        127,
+        362,
+        150,
+        384
+      ],
+      "confidence": 0.9883259534835815
+    },
+    {
+      "text": "May 12th",
+      "bbox": [
+        173,
+        360,
+        242,
+        383
+      ],
+      "confidence": 0.9986591935157776
+    },
+    {
+      "text": "68988",
+      "bbox": [
+        267,
+        361,
+        311,
+        380
+      ],
+      "confidence": 0.9999295473098755
+    },
+    {
+      "text": "LK",
+      "bbox": [
+        357,
+        361,
+        387,
+        382
+      ],
+      "confidence": 0.9987479448318481
+    },
+    {
+      "text": "As you can see, complaints A and B were included in Ms. Kawamura's memo of March 7,",
+      "bbox": [
+        128,
+        396,
+        690,
+        421
+      ],
+      "confidence": 0.9637393951416016
+    },
+    {
+      "text": "1996. Complaints A and B were settled amicably with talks that were carried out several",
+      "bbox": [
+        129,
+        417,
+        682,
+        441
+      ],
+      "confidence": 0.9816833734512329
+    },
+    {
+      "text": "times and by compensating several cartons of normal products together with SP goods.",
+      "bbox": [
+        129,
+        435,
+        669,
+        462
+      ],
+      "confidence": 0.9720706939697266
+    },
+    {
+      "text": "Presently, we are talking and negotiating with the consumer who made complaint for",
+      "bbox": [
+        130,
+        476,
+        660,
+        501
+      ],
+      "confidence": 0.9881120920181274
+    },
+    {
+      "text": "settlement. In the meantime, our sales force visited him and confirmed that the burning",
+      "bbox": [
+        131,
+        495,
+        677,
+        521
+      ],
+      "confidence": 0.9788139462471008
+    },
+    {
+      "text": "occurred in his new Mercedes Benz car where the filter falled off of our products.",
+      "bbox": [
+        130,
+        515,
+        639,
+        540
+      ],
+      "confidence": 0.97236168384552
+    },
+    {
+      "text": "PRIVILEGED MATERIAL REDACTED",
+      "bbox": [
+        168,
+        555,
+        444,
+        578
+      ],
+      "confidence": 0.995975136756897
+    },
+    {
+      "text": "We have received samples of six",
+      "bbox": [
+        485,
+        572,
+        691,
+        597
+      ],
+      "confidence": 0.9531725645065308
+    },
+    {
+      "text": "packages fro-m him which we are sending to you as soon as possible.",
+      "bbox": [
+        131,
+        594,
+        568,
+        621
+      ],
+      "confidence": 0.9763027429580688
+    },
+    {
+      "text": "2)",
+      "bbox": [
+        87,
+        637,
+        107,
+        656
+      ],
+      "confidence": 0.9560009241104126
+    },
+    {
+      "text": "I understand that your inquiry has been cleared from the above.",
+      "bbox": [
+        131,
+        635,
+        527,
+        656
+      ],
+      "confidence": 0.9910510182380676
+    },
+    {
+      "text": "Best regards,",
+      "bbox": [
+        87,
+        675,
+        173,
+        697
+      ],
+      "confidence": 0.9394449591636658
+    },
+    {
+      "text": "Ken Fukuoka",
+      "bbox": [
+        89,
+        773,
+        176,
+        791
+      ],
+      "confidence": 0.9994602799415588
+    },
+    {
+      "text": "KF/ei",
+      "bbox": [
+        86,
+        808,
+        130,
+        834
+      ],
+      "confidence": 0.9992233514785767
+    },
+    {
+      "text": "Via Electronic Mail",
+      "bbox": [
+        339,
+        964,
+        449,
+        987
+      ],
+      "confidence": 0.9921146035194397
+    }
+  ],
+  "full_text": "R. J. Reynolds Tobacco International, Inc. - Japan\nDATE:\nMarch 18, 1996\nTO:\nTony Petree\nKen Fukuoka\nFROM:\nSUBJECT: Salem Pianissimo Fllter Fallng Off\nReferring to your memo of March 15, 1996 with regard to the above subject, I am responding as\nfollows:\n1)\n3 complaints - comp No. and man code are:\nMarch 5th\nKV\nA.\n68957\nB.\nMay 6th\n68957\nKV\nC.\nMay 12th\n68988\nLK\nAs you can see, complaints A and B were included in Ms. Kawamura's memo of March 7,\n1996. Complaints A and B were settled amicably with talks that were carried out several\ntimes and by compensating several cartons of normal products together with SP goods.\nPresently, we are talking and negotiating with the consumer who made complaint for\nsettlement. In the meantime, our sales force visited him and confirmed that the burning\noccurred in his new Mercedes Benz car where the filter falled off of our products.\nPRIVILEGED MATERIAL REDACTED\nWe have received samples of six\npackages fro-m him which we are sending to you as soon as possible.\n2)\nI understand that your inquiry has been cleared from the above.\nBest regards,\nKen Fukuoka\nKF/ei\nVia Electronic Mail"
+}

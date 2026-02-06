@@ -1,0 +1,381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0241.png",
+    "image_width": 774,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "HAZLETON LABORATORIES AMERICA, INC.",
+      "bbox": [
+        77,
+        33,
+        430,
+        77
+      ],
+      "confidence": 0.980927050113678
+    },
+    {
+      "text": "9200 CEESBURG TURNPIKE",
+      "bbox": [
+        73,
+        65,
+        225,
+        86
+      ],
+      "confidence": 0.9863904714584351
+    },
+    {
+      "text": "VIENNA, VA 22180, U.S.A.",
+      "bbox": [
+        351,
+        74,
+        487,
+        93
+      ],
+      "confidence": 0.9435837268829346
+    },
+    {
+      "text": "(703)893-5400",
+      "bbox": [
+        610,
+        78,
+        685,
+        96
+      ],
+      "confidence": 0.9825964570045471
+    },
+    {
+      "text": "CLIENT COPY",
+      "bbox": [
+        597,
+        114,
+        688,
+        131
+      ],
+      "confidence": 0.9711645245552063
+    },
+    {
+      "text": "INVOICE DATE",
+      "bbox": [
+        536,
+        141,
+        598,
+        152
+      ],
+      "confidence": 0.9982432723045349
+    },
+    {
+      "text": "INVOICE NO",
+      "bbox": [
+        627,
+        141,
+        680,
+        155
+      ],
+      "confidence": 0.9916101694107056
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        712,
+        142,
+        738,
+        157
+      ],
+      "confidence": 0.9995827674865723
+    },
+    {
+      "text": "5/6/87",
+      "bbox": [
+        542,
+        155,
+        604,
+        172
+      ],
+      "confidence": 0.9996975064277649
+    },
+    {
+      "text": "711018",
+      "bbox": [
+        639,
+        156,
+        699,
+        173
+      ],
+      "confidence": 0.9988150596618652
+    },
+    {
+      "text": "Lorillard Research Center",
+      "bbox": [
+        54,
+        160,
+        298,
+        187
+      ],
+      "confidence": 0.9965239763259888
+    },
+    {
+      "text": "P.0. Box 21688",
+      "bbox": [
+        54,
+        176,
+        193,
+        199
+      ],
+      "confidence": 0.9536231756210327
+    },
+    {
+      "text": "Greensboro, NC 27420",
+      "bbox": [
+        53,
+        191,
+        250,
+        219
+      ],
+      "confidence": 0.9926117062568665
+    },
+    {
+      "text": "Attn:",
+      "bbox": [
+        53,
+        209,
+        114,
+        229
+      ],
+      "confidence": 0.9979654550552368
+    },
+    {
+      "text": "Dr. 'J. Daniel Heck",
+      "bbox": [
+        117,
+        212,
+        297,
+        233
+      ],
+      "confidence": 0.9691822528839111
+    },
+    {
+      "text": "REmIt tO:",
+      "bbox": [
+        531,
+        227,
+        598,
+        243
+      ],
+      "confidence": 0.7621268033981323
+    },
+    {
+      "text": "Hazleton Laboratories America, Inc.",
+      "bbox": [
+        531,
+        240,
+        705,
+        255
+      ],
+      "confidence": 0.9887343049049377
+    },
+    {
+      "text": "P.O. B0x 25065",
+      "bbox": [
+        530,
+        250,
+        609,
+        262
+      ],
+      "confidence": 0.917221188545227
+    },
+    {
+      "text": "Richmond, VA 23260",
+      "bbox": [
+        532,
+        261,
+        637,
+        271
+      ],
+      "confidence": 0.9752600789070129
+    },
+    {
+      "text": "PROJECT NUMBER",
+      "bbox": [
+        0,
+        273,
+        93,
+        289
+      ],
+      "confidence": 0.9836058616638184
+    },
+    {
+      "text": "699-633/642-372",
+      "bbox": [
+        0,
+        284,
+        152,
+        310
+      ],
+      "confidence": 0.9987158179283142
+    },
+    {
+      "text": "TERMS",
+      "bbox": [
+        180,
+        281,
+        216,
+        292
+      ],
+      "confidence": 0.9970821142196655
+    },
+    {
+      "text": "HAS ORDER NUMBER",
+      "bbox": [
+        28,
+        305,
+        136,
+        325
+      ],
+      "confidence": 0.948236346244812
+    },
+    {
+      "text": "Net 30",
+      "bbox": [
+        263,
+        293,
+        330,
+        313
+      ],
+      "confidence": 0.9998526573181152
+    },
+    {
+      "text": "days",
+      "bbox": [
+        329,
+        294,
+        374,
+        315
+      ],
+      "confidence": 0.9997590184211731
+    },
+    {
+      "text": "343C",
+      "bbox": [
+        0,
+        320,
+        45,
+        339
+      ],
+      "confidence": 0.9982343316078186
+    },
+    {
+      "text": "SCRIPTION",
+      "bbox": [
+        8,
+        349,
+        67,
+        363
+      ],
+      "confidence": 0.9816935658454895
+    },
+    {
+      "text": "14 Day Single Dose Subacute Toxicity Study in Rats",
+      "bbox": [
+        0,
+        434,
+        486,
+        460
+      ],
+      "confidence": 0.997174859046936
+    },
+    {
+      "text": "Test Material:",
+      "bbox": [
+        0,
+        486,
+        142,
+        505
+      ],
+      "confidence": 0.9997419118881226
+    },
+    {
+      "text": "A78",
+      "bbox": [
+        0,
+        502,
+        37,
+        521
+      ],
+      "confidence": 0.9997655749320984
+    },
+    {
+      "text": "$2,850,00",
+      "bbox": [
+        611,
+        532,
+        718,
+        555
+      ],
+      "confidence": 0.9213728308677673
+    },
+    {
+      "text": "TOTAL AMOUNT DUE:",
+      "bbox": [
+        55,
+        537,
+        218,
+        551
+      ],
+      "confidence": 0.9918038845062256
+    },
+    {
+      "text": "70",
+      "bbox": [
+        542,
+        601,
+        594,
+        645
+      ],
+      "confidence": 0.9482227563858032
+    },
+    {
+      "text": "5-19-87",
+      "bbox": [
+        315,
+        637,
+        424,
+        669
+      ],
+      "confidence": 0.992367684841156
+    },
+    {
+      "text": "Dept.8700",
+      "bbox": [
+        321,
+        664,
+        460,
+        693
+      ],
+      "confidence": 0.958083987236023
+    },
+    {
+      "text": "Ace7.4111",
+      "bbox": [
+        303,
+        691,
+        461,
+        722
+      ],
+      "confidence": 0.7484872341156006
+    },
+    {
+      "text": "87147766",
+      "bbox": [
+        527,
+        753,
+        560,
+        854
+      ],
+      "confidence": 0.999866247177124
+    }
+  ],
+  "full_text": "HAZLETON LABORATORIES AMERICA, INC.\n9200 CEESBURG TURNPIKE\nVIENNA, VA 22180, U.S.A.\n(703)893-5400\nCLIENT COPY\nINVOICE DATE\nINVOICE NO\nPAGE\n5/6/87\n711018\nLorillard Research Center\nP.0. Box 21688\nGreensboro, NC 27420\nAttn:\nDr. 'J. Daniel Heck\nREmIt tO:\nHazleton Laboratories America, Inc.\nP.O. B0x 25065\nRichmond, VA 23260\nPROJECT NUMBER\n699-633/642-372\nTERMS\nHAS ORDER NUMBER\nNet 30\ndays\n343C\nSCRIPTION\n14 Day Single Dose Subacute Toxicity Study in Rats\nTest Material:\nA78\n$2,850,00\nTOTAL AMOUNT DUE:\n70\n5-19-87\nDept.8700\nAce7.4111\n87147766"
+}

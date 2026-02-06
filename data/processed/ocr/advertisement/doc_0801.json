@@ -1,0 +1,961 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0801.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RED SOX",
+      "bbox": [
+        75,
+        0,
+        305,
+        54
+      ],
+      "confidence": 0.9966071248054504
+    },
+    {
+      "text": "CHUCK RAINEY",
+      "bbox": [
+        586,
+        11,
+        688,
+        37
+      ],
+      "confidence": 0.9996240139007568
+    },
+    {
+      "text": "What appeared to be a great season in '80",
+      "bbox": [
+        556,
+        24,
+        714,
+        50
+      ],
+      "confidence": 0.9630059003829956
+    },
+    {
+      "text": "was fuined for Raicey when he injured",
+      "bbox": [
+        556,
+        36,
+        715,
+        61
+      ],
+      "confidence": 0.9428300857543945
+    },
+    {
+      "text": "right ebow in Baltimore July 3 . . . Was",
+      "bbox": [
+        556,
+        49,
+        714,
+        73
+      ],
+      "confidence": 0.9225133657455444
+    },
+    {
+      "text": "...1981",
+      "bbox": [
+        89,
+        53,
+        259,
+        125
+      ],
+      "confidence": 0.8730889558792114
+    },
+    {
+      "text": "8-3 in 15 games at that point . . . Did net",
+      "bbox": [
+        555,
+        61,
+        714,
+        85
+      ],
+      "confidence": 0.910869836807251
+    },
+    {
+      "text": "pitch again in 80 ... Was A.L. Pacher",
+      "bbox": [
+        553,
+        72,
+        715,
+        98
+      ],
+      "confidence": 0.8286786675453186
+    },
+    {
+      "text": "ofthe Month is May when he was 5-1 in",
+      "bbox": [
+        553,
+        85,
+        713,
+        108
+      ],
+      "confidence": 0.8751424551010132
+    },
+    {
+      "text": "Six Starts with 1.52 ERA. . . Was 5-0 cn",
+      "bbox": [
+        553,
+        98,
+        714,
+        119
+      ],
+      "confidence": 0.8300138711929321
+    },
+    {
+      "text": "the road . . . Was Sax first pick in Jan.",
+      "bbox": [
+        553,
+        110,
+        713,
+        131
+      ],
+      "confidence": 0.9150605797767639
+    },
+    {
+      "text": "\"74 dralt .. . Became Pawucket stopper",
+      "bbox": [
+        553,
+        122,
+        712,
+        143
+      ],
+      "confidence": 0.8749222755432129
+    },
+    {
+      "text": "Continued from Page 37",
+      "bbox": [
+        107,
+        130,
+        252,
+        153
+      ],
+      "confidence": 0.9981110095977783
+    },
+    {
+      "text": "in 1978, winning deciding game of I.L.",
+      "bbox": [
+        552,
+        135,
+        711,
+        154
+      ],
+      "confidence": 0.9390949606895447
+    },
+    {
+      "text": "playotfs over Toleco and beating Pich-",
+      "bbox": [
+        553,
+        147,
+        711,
+        165
+      ],
+      "confidence": 0.9534823894500732
+    },
+    {
+      "text": "mond in fith game of finals. . . San",
+      "bbox": [
+        551,
+        158,
+        711,
+        178
+      ],
+      "confidence": 0.9035937190055847
+    },
+    {
+      "text": "D.ego native, who still makes his home",
+      "bbox": [
+        551,
+        170,
+        711,
+        190
+      ],
+      "confidence": 0.9748285412788391
+    },
+    {
+      "text": "there. . . Signed by Ray Boone .. . En-",
+      "bbox": [
+        551,
+        182,
+        711,
+        202
+      ],
+      "confidence": 0.8841211199760437
+    },
+    {
+      "text": "joys stereo music.",
+      "bbox": [
+        553,
+        199,
+        622,
+        210
+      ],
+      "confidence": 0.9787065982818604
+    },
+    {
+      "text": "PROMISING PROSPECTS",
+      "bbox": [
+        0,
+        205,
+        343,
+        252
+      ],
+      "confidence": 0.999732255935669
+    },
+    {
+      "text": "JERRY KING",
+      "bbox": [
+        42,
+        459,
+        131,
+        477
+      ],
+      "confidence": 0.9790709614753723
+    },
+    {
+      "text": "LUIS APONTE",
+      "bbox": [
+        225,
+        458,
+        316,
+        477
+      ],
+      "confidence": 0.9961050152778625
+    },
+    {
+      "text": "ROBERT OJEDA",
+      "bbox": [
+        400,
+        463,
+        497,
+        477
+      ],
+      "confidence": 0.986073911190033
+    },
+    {
+      "text": "MARTY BARRETT",
+      "bbox": [
+        570,
+        464,
+        681,
+        478
+      ],
+      "confidence": 0.964189887046814
+    },
+    {
+      "text": "Signed by Ray Boone in '76 after grad-",
+      "bbox": [
+        0,
+        474,
+        172,
+        491
+      ],
+      "confidence": 0.9793229103088379
+    },
+    {
+      "text": "uating tram San Diego H.S. where he",
+      "bbox": [
+        0,
+        486,
+        173,
+        503
+      ],
+      "confidence": 0.9820884466171265
+    },
+    {
+      "text": "Had excelient spring training fallowing a",
+      "bbox": [
+        190,
+        475,
+        351,
+        492
+      ],
+      "confidence": 0.9868288636207581
+    },
+    {
+      "text": "Signed as a free agent in May 1978 out ot",
+      "bbox": [
+        371,
+        478,
+        527,
+        491
+      ],
+      "confidence": 0.947721540927887
+    },
+    {
+      "text": "Hustling secend baseman was a first",
+      "bbox": [
+        546,
+        477,
+        706,
+        493
+      ],
+      "confidence": 0.9931707382202148
+    },
+    {
+      "text": "was chosen best pitcher and made",
+      "bbox": [
+        0,
+        498,
+        173,
+        514
+      ],
+      "confidence": 0.9985575675964355
+    },
+    {
+      "text": "good 1980 showing an which he pro-",
+      "bbox": [
+        189,
+        488,
+        350,
+        503
+      ],
+      "confidence": 0.9436841011047363
+    },
+    {
+      "text": "gressud from 3ristol (AA) to Pawtucket",
+      "bbox": [
+        189,
+        499,
+        351,
+        514
+      ],
+      "confidence": 0.9331958293914795
+    },
+    {
+      "text": "Cnlinge of the Sequoias J. C. in Calif..",
+      "bbox": [
+        370,
+        489,
+        526,
+        503
+      ],
+      "confidence": 0.897055447101593
+    },
+    {
+      "text": "Was All Conference as a P-1B . .. Hard-",
+      "bbox": [
+        370,
+        501,
+        527,
+        514
+      ],
+      "confidence": 0.9162339568138123
+    },
+    {
+      "text": "secondary phase of the draft ... Thres",
+      "bbox": [
+        546,
+        501,
+        705,
+        516
+      ],
+      "confidence": 0.9087882041931152
+    },
+    {
+      "text": "round pick by the Red Sox in the 1979",
+      "bbox": [
+        547,
+        491,
+        704,
+        504
+      ],
+      "confidence": 0.9938840270042419
+    },
+    {
+      "text": "botth city and county All-Stars. . . has",
+      "bbox": [
+        0,
+        509,
+        173,
+        525
+      ],
+      "confidence": 0.9537858963012695
+    },
+    {
+      "text": "[AAA) to Beston...",
+      "bbox": [
+        191,
+        511,
+        275,
+        524
+      ],
+      "confidence": 0.9190450310707092
+    },
+    {
+      "text": "Overall in 1980 he",
+      "bbox": [
+        273,
+        510,
+        351,
+        525
+      ],
+      "confidence": 0.9545800685882568
+    },
+    {
+      "text": "throwing. 23 year-olid lefty has lots of",
+      "bbox": [
+        370,
+        512,
+        527,
+        525
+      ],
+      "confidence": 0.9433221817016602
+    },
+    {
+      "text": "sport leteman at Rancho H.S. in Las",
+      "bbox": [
+        545,
+        511,
+        706,
+        527
+      ],
+      "confidence": 0.941004753112793
+    },
+    {
+      "text": "played lett ficld . . . very hard thrower",
+      "bbox": [
+        0,
+        522,
+        172,
+        536
+      ],
+      "confidence": 0.9462000131607056
+    },
+    {
+      "text": "was 15-3 in the minors with 13 saves in",
+      "bbox": [
+        189,
+        521,
+        351,
+        537
+      ],
+      "confidence": 0.9488848447799683
+    },
+    {
+      "text": "poise and good breaiking ball ... Was",
+      "bbox": [
+        370,
+        523,
+        527,
+        537
+      ],
+      "confidence": 0.9357866048812866
+    },
+    {
+      "text": "Vegas ... Led American Legion team to",
+      "bbox": [
+        546,
+        523,
+        706,
+        539
+      ],
+      "confidence": 0.9674148559570312
+    },
+    {
+      "text": "with 219 strikeauts in 274 innings in",
+      "bbox": [
+        0,
+        533,
+        171,
+        546
+      ],
+      "confidence": 0.9419683218002319
+    },
+    {
+      "text": "the last two years . . . id he masters",
+      "bbox": [
+        0,
+        544,
+        172,
+        560
+      ],
+      "confidence": 0.9594661593437195
+    },
+    {
+      "text": "in relief wth the Red Sox in Sept...",
+      "bbox": [
+        189,
+        544,
+        350,
+        562
+      ],
+      "confidence": 0.9544417262077332
+    },
+    {
+      "text": "60 refied apps. .",
+      "bbox": [
+        191,
+        535,
+        258,
+        546
+      ],
+      "confidence": 0.8896601796150208
+    },
+    {
+      "text": "He pitched in 4 games",
+      "bbox": [
+        262,
+        535,
+        350,
+        548
+      ],
+      "confidence": 0.9591090083122253
+    },
+    {
+      "text": "in 1979 and made jump in 1980 to",
+      "bbox": [
+        369,
+        547,
+        527,
+        560
+      ],
+      "confidence": 0.9779038429260254
+    },
+    {
+      "text": "15-7 with 150 strikeouts at Winter Haven",
+      "bbox": [
+        371,
+        535,
+        527,
+        548
+      ],
+      "confidence": 0.9634170532226562
+    },
+    {
+      "text": "state title ... Attended Mesa (Ariz.)",
+      "bbox": [
+        546,
+        534,
+        706,
+        552
+      ],
+      "confidence": 0.9155171513557434
+    },
+    {
+      "text": "Corm. Callege and Arizona Stare U..-",
+      "bbox": [
+        546,
+        545,
+        705,
+        563
+      ],
+      "confidence": 0.8787824511528015
+    },
+    {
+      "text": "control, could be a gooa ane... line-",
+      "bbox": [
+        0,
+        555,
+        171,
+        571
+      ],
+      "confidence": 0.9314323663711548
+    },
+    {
+      "text": "Orginally signed with Red Sox in 1973.",
+      "bbox": [
+        190,
+        557,
+        349,
+        572
+      ],
+      "confidence": 0.9364131093025208
+    },
+    {
+      "text": "Pawilucket and the Rec Sox. .. Was 1-1",
+      "bbox": [
+        369,
+        558,
+        526,
+        572
+      ],
+      "confidence": 0.912299633026123
+    },
+    {
+      "text": "Played summer ball in Afaska ... Hit",
+      "bbox": [
+        546,
+        557,
+        706,
+        574
+      ],
+      "confidence": 0.941828191280365
+    },
+    {
+      "text": "backer-defensive end al San Drego",
+      "bbox": [
+        0,
+        568,
+        172,
+        583
+      ],
+      "confidence": 0.9583578109741211
+    },
+    {
+      "text": "deepped out of pro basetall in 1977.",
+      "bbox": [
+        189,
+        568,
+        349,
+        583
+      ],
+      "confidence": 0.9442046284675598
+    },
+    {
+      "text": "in 7 starts in Boston . . . Got his first",
+      "bbox": [
+        369,
+        570,
+        526,
+        583
+      ],
+      "confidence": 0.9487171769142151
+    },
+    {
+      "text": ".298 at Winter Haven in 1979 and .274 at",
+      "bbox": [
+        546,
+        568,
+        706,
+        585
+      ],
+      "confidence": 0.9523272514343262
+    },
+    {
+      "text": "H.S. . . . enjoys camping and",
+      "bbox": [
+        0,
+        580,
+        171,
+        594
+      ],
+      "confidence": 0.958008885383606
+    },
+    {
+      "text": "swimming.",
+      "bbox": [
+        0,
+        592,
+        55,
+        606
+      ],
+      "confidence": 0.9931405186653137
+    },
+    {
+      "text": "pitiched in the il-tated inter-American",
+      "bbox": [
+        188,
+        580,
+        350,
+        595
+      ],
+      "confidence": 0.931834876537323
+    },
+    {
+      "text": "majer league win in Texas last Aug. 2 but",
+      "bbox": [
+        370,
+        581,
+        526,
+        595
+      ],
+      "confidence": 0.9851382970809937
+    },
+    {
+      "text": "ytar... Led Eastern League 28 in field-",
+      "bbox": [
+        545,
+        592,
+        705,
+        608
+      ],
+      "confidence": 0.9021040797233582
+    },
+    {
+      "text": "Bristol in 1980.. Stle 22 bases last",
+      "bbox": [
+        546,
+        579,
+        706,
+        598
+      ],
+      "confidence": 0.9019402265548706
+    },
+    {
+      "text": "Sox Feb. 29. 1980 ... Has a bafliling",
+      "bbox": [
+        188,
+        603,
+        349,
+        618
+      ],
+      "confidence": 0.9292368292808533
+    },
+    {
+      "text": "League in 1979 and re-signed with Red",
+      "bbox": [
+        190,
+        593,
+        349,
+        606
+      ],
+      "confidence": 0.9964205622673035
+    },
+    {
+      "text": "a good Spring Training in 1981 and estab-",
+      "bbox": [
+        367,
+        603,
+        525,
+        618
+      ],
+      "confidence": 0.9580028057098389
+    },
+    {
+      "text": "finished the year with Pawtucket... Had",
+      "bbox": [
+        369,
+        593,
+        526,
+        606
+      ],
+      "confidence": 0.9486265182495117
+    },
+    {
+      "text": "ing (.985) . .. C1 to a good start at",
+      "bbox": [
+        546,
+        602,
+        706,
+        621
+      ],
+      "confidence": 0.8390984535217285
+    },
+    {
+      "text": "assortment of off-speed p tches.",
+      "bbox": [
+        190,
+        616,
+        316,
+        629
+      ],
+      "confidence": 0.9459178447723389
+    },
+    {
+      "text": "Iished himself as the early-season ace of",
+      "bbox": [
+        368,
+        616,
+        526,
+        629
+      ],
+      "confidence": 0.9605167508125305
+    },
+    {
+      "text": "Pawtucket in 1981.",
+      "bbox": [
+        546,
+        616,
+        624,
+        630
+      ],
+      "confidence": 0.9674355983734131
+    },
+    {
+      "text": "the Pawtucket staff.",
+      "bbox": [
+        369,
+        629,
+        445,
+        641
+      ],
+      "confidence": 0.9616920351982117
+    },
+    {
+      "text": "Continued on Page 60",
+      "bbox": [
+        575,
+        629,
+        703,
+        649
+      ],
+      "confidence": 0.9635967016220093
+    },
+    {
+      "text": "Double Play! Low tar & good taste.",
+      "bbox": [
+        31,
+        657,
+        673,
+        709
+      ],
+      "confidence": 0.9752554893493652
+    },
+    {
+      "text": "Eolden",
+      "bbox": [
+        200,
+        771,
+        241,
+        788
+      ],
+      "confidence": 0.7686657309532166
+    },
+    {
+      "text": "GOLD",
+      "bbox": [
+        379,
+        771,
+        416,
+        795
+      ],
+      "confidence": 0.8568800687789917
+    },
+    {
+      "text": "OLD",
+      "bbox": [
+        380,
+        760,
+        409,
+        780
+      ],
+      "confidence": 0.9933025240898132
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        456,
+        770,
+        507,
+        792
+      ],
+      "confidence": 0.9980089664459229
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        518,
+        764,
+        585,
+        784
+      ],
+      "confidence": 0.9986676573753357
+    },
+    {
+      "text": "TRIUMPH",
+      "bbox": [
+        117,
+        777,
+        183,
+        795
+      ],
+      "confidence": 0.9644063115119934
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        320,
+        777,
+        371,
+        802
+      ],
+      "confidence": 0.9892240762710571
+    },
+    {
+      "text": "LGHTS",
+      "bbox": [
+        533,
+        780,
+        582,
+        791
+      ],
+      "confidence": 0.9032491445541382
+    },
+    {
+      "text": "670317732",
+      "bbox": [
+        693,
+        787,
+        728,
+        923
+      ],
+      "confidence": 0.9999120235443115
+    },
+    {
+      "text": "Triumph Kings: 3 ng. \"ar\", D.4 =g. aicorine. True Kings: 5 mg. \"ar\", 0.4 mg. nicotine, Kent Kings:",
+      "bbox": [
+        25,
+        873,
+        385,
+        889
+      ],
+      "confidence": 0.9338122606277466
+    },
+    {
+      "text": "11 mp. \"tar\", O.5 mg wicctine ax. per cigarette, F1C Repon Jamuary 198d. Newport Lighas Kings: 9 mg.",
+      "bbox": [
+        24,
+        883,
+        391,
+        900
+      ],
+      "confidence": 0.8578277826309204
+    },
+    {
+      "text": "Warning: The Surgeon General Has Determined",
+      "bbox": [
+        442,
+        880,
+        663,
+        899
+      ],
+      "confidence": 0.957312822341919
+    },
+    {
+      "text": "0.B mg. nicatine: Kent Il 100's: 5 mg. h\". O.5 mg. ricetine: 6olden Lights 100's: 8 mg. \"ar.",
+      "bbox": [
+        23,
+        903,
+        372,
+        923
+      ],
+      "confidence": 0.7773064970970154
+    },
+    {
+      "text": "That Cigarette Smoking Is Dangerous 1o Your Healsh",
+      "bbox": [
+        442,
+        893,
+        662,
+        912
+      ],
+      "confidence": 0.9157761335372925
+    },
+    {
+      "text": "D.7 mg. nicotins tv. per cigareme by FiC Method.",
+      "bbox": [
+        25,
+        917,
+        200,
+        932
+      ],
+      "confidence": 0.8957205414772034
+    },
+    {
+      "text": "58",
+      "bbox": [
+        345,
+        944,
+        374,
+        966
+      ],
+      "confidence": 0.9996079206466675
+    }
+  ],
+  "full_text": "RED SOX\nCHUCK RAINEY\nWhat appeared to be a great season in '80\nwas fuined for Raicey when he injured\nright ebow in Baltimore July 3 . . . Was\n...1981\n8-3 in 15 games at that point . . . Did net\npitch again in 80 ... Was A.L. Pacher\nofthe Month is May when he was 5-1 in\nSix Starts with 1.52 ERA. . . Was 5-0 cn\nthe road . . . Was Sax first pick in Jan.\n\"74 dralt .. . Became Pawucket stopper\nContinued from Page 37\nin 1978, winning deciding game of I.L.\nplayotfs over Toleco and beating Pich-\nmond in fith game of finals. . . San\nD.ego native, who still makes his home\nthere. . . Signed by Ray Boone .. . En-\njoys stereo music.\nPROMISING PROSPECTS\nJERRY KING\nLUIS APONTE\nROBERT OJEDA\nMARTY BARRETT\nSigned by Ray Boone in '76 after grad-\nuating tram San Diego H.S. where he\nHad excelient spring training fallowing a\nSigned as a free agent in May 1978 out ot\nHustling secend baseman was a first\nwas chosen best pitcher and made\ngood 1980 showing an which he pro-\ngressud from 3ristol (AA) to Pawtucket\nCnlinge of the Sequoias J. C. in Calif..\nWas All Conference as a P-1B . .. Hard-\nsecondary phase of the draft ... Thres\nround pick by the Red Sox in the 1979\nbotth city and county All-Stars. . . has\n[AAA) to Beston...\nOverall in 1980 he\nthrowing. 23 year-olid lefty has lots of\nsport leteman at Rancho H.S. in Las\nplayed lett ficld . . . very hard thrower\nwas 15-3 in the minors with 13 saves in\npoise and good breaiking ball ... Was\nVegas ... Led American Legion team to\nwith 219 strikeauts in 274 innings in\nthe last two years . . . id he masters\nin relief wth the Red Sox in Sept...\n60 refied apps. .\nHe pitched in 4 games\nin 1979 and made jump in 1980 to\n15-7 with 150 strikeouts at Winter Haven\nstate title ... Attended Mesa (Ariz.)\nCorm. Callege and Arizona Stare U..-\ncontrol, could be a gooa ane... line-\nOrginally signed with Red Sox in 1973.\nPawilucket and the Rec Sox. .. Was 1-1\nPlayed summer ball in Afaska ... Hit\nbacker-defensive end al San Drego\ndeepped out of pro basetall in 1977.\nin 7 starts in Boston . . . Got his first\n.298 at Winter Haven in 1979 and .274 at\nH.S. . . . enjoys camping and\nswimming.\npitiched in the il-tated inter-American\nmajer league win in Texas last Aug. 2 but\nytar... Led Eastern League 28 in field-\nBristol in 1980.. Stle 22 bases last\nSox Feb. 29. 1980 ... Has a bafliling\nLeague in 1979 and re-signed with Red\na good Spring Training in 1981 and estab-\nfinished the year with Pawtucket... Had\ning (.985) . .. C1 to a good start at\nassortment of off-speed p tches.\nIished himself as the early-season ace of\nPawtucket in 1981.\nthe Pawtucket staff.\nContinued on Page 60\nDouble Play! Low tar & good taste.\nEolden\nGOLD\nOLD\nKENT\nNewport\nTRIUMPH\nKENT\nLGHTS\n670317732\nTriumph Kings: 3 ng. \"ar\", D.4 =g. aicorine. True Kings: 5 mg. \"ar\", 0.4 mg. nicotine, Kent Kings:\n11 mp. \"tar\", O.5 mg wicctine ax. per cigarette, F1C Repon Jamuary 198d. Newport Lighas Kings: 9 mg.\nWarning: The Surgeon General Has Determined\n0.B mg. nicatine: Kent Il 100's: 5 mg. h\". O.5 mg. ricetine: 6olden Lights 100's: 8 mg. \"ar.\nThat Cigarette Smoking Is Dangerous 1o Your Healsh\nD.7 mg. nicotins tv. per cigareme by FiC Method.\n58"
+}

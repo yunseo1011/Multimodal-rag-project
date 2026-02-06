@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0663.png",
+    "image_width": 783,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ρ.62",
+      "bbox": [
+        638,
+        0,
+        721,
+        35
+      ],
+      "confidence": 0.8989893198013306
+    },
+    {
+      "text": "04.14.87 Tobacc0 paper",
+      "bbox": [
+        21,
+        12,
+        334,
+        57
+      ],
+      "confidence": 0.8973388075828552
+    },
+    {
+      "text": "Start up  r0lls 8 10/\" 48bacco paper,  24tac4 -  184.2papt",
+      "bbox": [
+        34,
+        55,
+        783,
+        95
+      ],
+      "confidence": 0.7320152521133423
+    },
+    {
+      "text": "P144-185 1834\" Normal\".Moishire Colder standard materials5nhon",
+      "bbox": [
+        46,
+        84,
+        782,
+        114
+      ],
+      "confidence": 0.7723447680473328
+    },
+    {
+      "text": "1st roll running good on bett-drives (new) KDF-2-",
+      "bbox": [
+        80,
+        106,
+        730,
+        137
+      ],
+      "confidence": 0.8629656434059143
+    },
+    {
+      "text": "means 24.28-24.40 - Dizges 0 little laige to star4.",
+      "bbox": [
+        106,
+        131,
+        723,
+        160
+      ],
+      "confidence": 0.8699153661727905
+    },
+    {
+      "text": "Ran up to.2500/min... O(n=5)",
+      "bbox": [
+        108,
+        154,
+        505,
+        184
+      ],
+      "confidence": 0.8585551381111145
+    },
+    {
+      "text": "Startup 24.33 24.40 :24.30,24.28 24.39 24.31",
+      "bbox": [
+        47,
+        193,
+        744,
+        227
+      ],
+      "confidence": 0.8863375186920166
+    },
+    {
+      "text": "(811) (801) (L90) (850) (860) (E70)",
+      "bbox": [
+        192,
+        224,
+        742,
+        251
+      ],
+      "confidence": 0.8345991969108582
+    },
+    {
+      "text": "2nd roll- still running.0K;means 1 24.3, but4 a.few",
+      "bbox": [
+        62,
+        263,
+        653,
+        295
+      ],
+      "confidence": 0.8116570115089417
+    },
+    {
+      "text": "higher SD's Saved ar. couple of boxes for startup.",
+      "bbox": [
+        90,
+        291,
+        739,
+        325
+      ],
+      "confidence": 0.8511279225349426
+    },
+    {
+      "text": "T(n:5 ecept where noted)",
+      "bbox": [
+        122,
+        316,
+        453,
+        346
+      ],
+      "confidence": 0.8048317432403564
+    },
+    {
+      "text": "24.26 24.32 24.32 :24.32 24.25.24.29",
+      "bbox": [
+        94,
+        353,
+        682,
+        390
+      ],
+      "confidence": 0.9073521494865417
+    },
+    {
+      "text": "(.038) (.068) ∴ (.100) (.019) (.059) (.077)",
+      "bbox": [
+        103,
+        382,
+        689,
+        416
+      ],
+      "confidence": 0.8498050570487976
+    },
+    {
+      "text": "24.3324.33 24.3424.224 24.35",
+      "bbox": [
+        108,
+        422,
+        597,
+        463
+      ],
+      "confidence": 0.8813281059265137
+    },
+    {
+      "text": "(.150) (.116).(.075) (.080) (.092)",
+      "bbox": [
+        111,
+        454,
+        596,
+        489
+      ],
+      "confidence": 0.9373071193695068
+    },
+    {
+      "text": "Using tobacco. papers with difterent moisture contents-",
+      "bbox": [
+        29,
+        496,
+        715,
+        543
+      ],
+      "confidence": 0.9133737683296204
+    },
+    {
+      "text": "P144-185-L 10.5\" \"Normal\"Hi0 (213%) 184-2 (Norma1Bosis Wt.",
+      "bbox": [
+        30,
+        542,
+        781,
+        580
+      ],
+      "confidence": 0.8290293216705322
+    },
+    {
+      "text": "Not gluing very good at first - getting some sine variation.",
+      "bbox": [
+        75,
+        592,
+        778,
+        626
+      ],
+      "confidence": 0.9336082339286804
+    },
+    {
+      "text": "Seadns keep splitting apartd- moisture tot higk to seal",
+      "bbox": [
+        73,
+        616,
+        780,
+        653
+      ],
+      "confidence": 0.9005540609359741
+    },
+    {
+      "text": "at present hiat tevel D heater bar?",
+      "bbox": [
+        85,
+        643,
+        600,
+        672
+      ],
+      "confidence": 0.9280285239219666
+    },
+    {
+      "text": "Too much variatiou - 8Took roll off. Did not save any.",
+      "bbox": [
+        81,
+        662,
+        781,
+        705
+      ],
+      "confidence": 0.8776930570602417
+    },
+    {
+      "text": "(n=5)",
+      "bbox": [
+        249,
+        691,
+        317,
+        716
+      ],
+      "confidence": 0.9232698678970337
+    },
+    {
+      "text": "24.28 24.36 24.26 24.31 24.31",
+      "bbox": [
+        95,
+        705,
+        577,
+        745
+      ],
+      "confidence": 0.9549704790115356
+    },
+    {
+      "text": "(E10) (980) (391) (680) (690)",
+      "bbox": [
+        96,
+        732,
+        590,
+        771
+      ],
+      "confidence": 0.833781361579895
+    },
+    {
+      "text": "5C600 2256",
+      "bbox": [
+        747,
+        848,
+        773,
+        947
+      ],
+      "confidence": 0.9924389719963074
+    }
+  ],
+  "full_text": "ρ.62\n04.14.87 Tobacc0 paper\nStart up  r0lls 8 10/\" 48bacco paper,  24tac4 -  184.2papt\nP144-185 1834\" Normal\".Moishire Colder standard materials5nhon\n1st roll running good on bett-drives (new) KDF-2-\nmeans 24.28-24.40 - Dizges 0 little laige to star4.\nRan up to.2500/min... O(n=5)\nStartup 24.33 24.40 :24.30,24.28 24.39 24.31\n(811) (801) (L90) (850) (860) (E70)\n2nd roll- still running.0K;means 1 24.3, but4 a.few\nhigher SD's Saved ar. couple of boxes for startup.\nT(n:5 ecept where noted)\n24.26 24.32 24.32 :24.32 24.25.24.29\n(.038) (.068) ∴ (.100) (.019) (.059) (.077)\n24.3324.33 24.3424.224 24.35\n(.150) (.116).(.075) (.080) (.092)\nUsing tobacco. papers with difterent moisture contents-\nP144-185-L 10.5\" \"Normal\"Hi0 (213%) 184-2 (Norma1Bosis Wt.\nNot gluing very good at first - getting some sine variation.\nSeadns keep splitting apartd- moisture tot higk to seal\nat present hiat tevel D heater bar?\nToo much variatiou - 8Took roll off. Did not save any.\n(n=5)\n24.28 24.36 24.26 24.31 24.31\n(E10) (980) (391) (680) (690)\n5C600 2256"
+}

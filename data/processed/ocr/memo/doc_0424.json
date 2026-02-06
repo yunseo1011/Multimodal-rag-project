@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0424.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BROWn & WILlIaMSOn",
+      "bbox": [
+        287,
+        73,
+        459,
+        93
+      ],
+      "confidence": 0.7499096393585205
+    },
+    {
+      "text": "TOBaCCO",
+      "bbox": [
+        337,
+        91,
+        410,
+        108
+      ],
+      "confidence": 0.7996136546134949
+    },
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        76,
+        126,
+        221,
+        154
+      ],
+      "confidence": 0.9997965097427368
+    },
+    {
+      "text": "LOUISVILLE",
+      "bbox": [
+        573,
+        128,
+        682,
+        148
+      ],
+      "confidence": 0.9999033808708191
+    },
+    {
+      "text": "To",
+      "bbox": [
+        71,
+        201,
+        99,
+        225
+      ],
+      "confidence": 0.9996999502182007
+    },
+    {
+      "text": "Jeff Eckmann",
+      "bbox": [
+        119,
+        206,
+        211,
+        225
+      ],
+      "confidence": 0.9989708065986633
+    },
+    {
+      "text": "Kim Matthews",
+      "bbox": [
+        120,
+        223,
+        212,
+        240
+      ],
+      "confidence": 0.9812838435173035
+    },
+    {
+      "text": "Rolf Provan",
+      "bbox": [
+        120,
+        239,
+        199,
+        256
+      ],
+      "confidence": 0.9998210668563843
+    },
+    {
+      "text": "Mike Walter",
+      "bbox": [
+        120,
+        254,
+        199,
+        271
+      ],
+      "confidence": 0.9997703433036804
+    },
+    {
+      "text": "cC:",
+      "bbox": [
+        74,
+        283,
+        100,
+        303
+      ],
+      "confidence": 0.7872045636177063
+    },
+    {
+      "text": "Carl Schoenbachler",
+      "bbox": [
+        121,
+        286,
+        249,
+        300
+      ],
+      "confidence": 0.9848544001579285
+    },
+    {
+      "text": "Subj: Second Quarter '97 US Competitive Update",
+      "bbox": [
+        75,
+        316,
+        399,
+        333
+      ],
+      "confidence": 0.9927524924278259
+    },
+    {
+      "text": "August 20, 1997",
+      "bbox": [
+        560,
+        316,
+        672,
+        337
+      ],
+      "confidence": 0.9760783910751343
+    },
+    {
+      "text": "Enclosed is the latest update. It's distribution is limited to people who have asked for it",
+      "bbox": [
+        74,
+        361,
+        634,
+        385
+      ],
+      "confidence": 0.9740639328956604
+    },
+    {
+      "text": "because we are still evolving the concept of quarterly updates to best fit B&W's needs.",
+      "bbox": [
+        73,
+        379,
+        632,
+        402
+      ],
+      "confidence": 0.9912029504776001
+    },
+    {
+      "text": "What it represents so far is a quarterly summary of competitive news, with volume/share/profit",
+      "bbox": [
+        74,
+        410,
+        680,
+        436
+      ],
+      "confidence": 0.9722716212272644
+    },
+    {
+      "text": "highlights. We are trying to limit its size, since much of it is a re-hash for people who have",
+      "bbox": [
+        74,
+        427,
+        657,
+        452
+      ],
+      "confidence": 0.9841443300247192
+    },
+    {
+      "text": "followed daily newsclips and analyst reports.",
+      "bbox": [
+        75,
+        447,
+        359,
+        465
+      ],
+      "confidence": 0.9932376146316528
+    },
+    {
+      "text": "On the other hand, we think it is worth doing quarterly as a recap -",
+      "bbox": [
+        77,
+        479,
+        500,
+        500
+      ],
+      "confidence": 0.9783735871315002
+    },
+    {
+      "text": "for those who may have missed some newsclips or analyst reports,",
+      "bbox": [
+        88,
+        514,
+        530,
+        535
+      ],
+      "confidence": 0.9862509369850159
+    },
+    {
+      "text": "for lower level staff who are interested in competitive info but do not have regular access to",
+      "bbox": [
+        98,
+        549,
+        688,
+        571
+      ],
+      "confidence": 0.9841607809066772
+    },
+    {
+      "text": "newsclips and reports,",
+      "bbox": [
+        100,
+        566,
+        244,
+        585
+      ],
+      "confidence": 0.9891099333763123
+    },
+    {
+      "text": "and to try to tie together some daily events and speculate on possible underlying",
+      "bbox": [
+        99,
+        600,
+        623,
+        623
+      ],
+      "confidence": 0.9931859374046326
+    },
+    {
+      "text": "competitive strategies and motivations.",
+      "bbox": [
+        100,
+        616,
+        349,
+        636
+      ],
+      "confidence": 0.9990032911300659
+    },
+    {
+      "text": "We would appreciate your advice. Is this helpful to you and some of your staff, or is it extra",
+      "bbox": [
+        78,
+        648,
+        673,
+        674
+      ],
+      "confidence": 0.9832438230514526
+    },
+    {
+      "text": "paper that doesn't add much value?",
+      "bbox": [
+        78,
+        665,
+        312,
+        685
+      ],
+      "confidence": 0.9993157982826233
+    },
+    {
+      "text": "What could we do for next quarter that would be more helpful?",
+      "bbox": [
+        78,
+        697,
+        479,
+        722
+      ],
+      "confidence": 0.9896920919418335
+    },
+    {
+      "text": "Thank you,",
+      "bbox": [
+        78,
+        729,
+        155,
+        750
+      ],
+      "confidence": 0.9989559054374695
+    },
+    {
+      "text": "Doug 7245",
+      "bbox": [
+        80,
+        822,
+        158,
+        847
+      ],
+      "confidence": 0.9994363784790039
+    },
+    {
+      "text": "303972",
+      "bbox": [
+        1,
+        985,
+        70,
+        1000
+      ],
+      "confidence": 0.9986941814422607
+    }
+  ],
+  "full_text": "BROWn & WILlIaMSOn\nTOBaCCO\nMEMORANDUM\nLOUISVILLE\nTo\nJeff Eckmann\nKim Matthews\nRolf Provan\nMike Walter\ncC:\nCarl Schoenbachler\nSubj: Second Quarter '97 US Competitive Update\nAugust 20, 1997\nEnclosed is the latest update. It's distribution is limited to people who have asked for it\nbecause we are still evolving the concept of quarterly updates to best fit B&W's needs.\nWhat it represents so far is a quarterly summary of competitive news, with volume/share/profit\nhighlights. We are trying to limit its size, since much of it is a re-hash for people who have\nfollowed daily newsclips and analyst reports.\nOn the other hand, we think it is worth doing quarterly as a recap -\nfor those who may have missed some newsclips or analyst reports,\nfor lower level staff who are interested in competitive info but do not have regular access to\nnewsclips and reports,\nand to try to tie together some daily events and speculate on possible underlying\ncompetitive strategies and motivations.\nWe would appreciate your advice. Is this helpful to you and some of your staff, or is it extra\npaper that doesn't add much value?\nWhat could we do for next quarter that would be more helpful?\nThank you,\nDoug 7245\n303972"
+}

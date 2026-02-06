@@ -1,0 +1,701 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0163.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "JAMES A. FYOCK & ASSOCIATES",
+      "bbox": [
+        34,
+        20,
+        293,
+        43
+      ],
+      "confidence": 0.9936923980712891
+    },
+    {
+      "text": "Box 30",
+      "bbox": [
+        34,
+        52,
+        81,
+        70
+      ],
+      "confidence": 0.9939400553703308
+    },
+    {
+      "text": "Onc Triad Park",
+      "bbox": [
+        35,
+        38,
+        125,
+        58
+      ],
+      "confidence": 0.9703192114830017
+    },
+    {
+      "text": "200 West Second St.",
+      "bbox": [
+        33,
+        65,
+        155,
+        86
+      ],
+      "confidence": 0.9746576547622681
+    },
+    {
+      "text": "Winston-Salem, N.C. 27101",
+      "bbox": [
+        33,
+        79,
+        194,
+        102
+      ],
+      "confidence": 0.9689602851867676
+    },
+    {
+      "text": "Tel: (919) 741-2727",
+      "bbox": [
+        39,
+        95,
+        155,
+        115
+      ],
+      "confidence": 0.9498897194862366
+    },
+    {
+      "text": "Fax: (919)741-5449",
+      "bbox": [
+        39,
+        110,
+        154,
+        129
+      ],
+      "confidence": 0.972392737865448
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "bbox": [
+        589,
+        121,
+        705,
+        135
+      ],
+      "confidence": 0.9998951554298401
+    },
+    {
+      "text": "Attorney-Client",
+      "bbox": [
+        557,
+        135,
+        705,
+        152
+      ],
+      "confidence": 0.999399721622467
+    },
+    {
+      "text": "JAMES A. FYOCK",
+      "bbox": [
+        30,
+        143,
+        152,
+        165
+      ],
+      "confidence": 0.9878631830215454
+    },
+    {
+      "text": "Work Product",
+      "bbox": [
+        587,
+        150,
+        703,
+        164
+      ],
+      "confidence": 0.993925154209137
+    },
+    {
+      "text": "President",
+      "bbox": [
+        29,
+        158,
+        82,
+        176
+      ],
+      "confidence": 0.98851478099823
+    },
+    {
+      "text": "March 8, 1988",
+      "bbox": [
+        578,
+        165,
+        706,
+        182
+      ],
+      "confidence": 0.9952739477157593
+    },
+    {
+      "text": "Harold L. Henderson, Esq.",
+      "bbox": [
+        85,
+        197,
+        328,
+        216
+      ],
+      "confidence": 0.9728260040283203
+    },
+    {
+      "text": "RJR Nabisco, Inc.",
+      "bbox": [
+        85,
+        214,
+        251,
+        230
+      ],
+      "confidence": 0.9692325592041016
+    },
+    {
+      "text": "300 Galleria Parkway, N.w.",
+      "bbox": [
+        83,
+        226,
+        334,
+        247
+      ],
+      "confidence": 0.9549276828765869
+    },
+    {
+      "text": "Atlanta, GA",
+      "bbox": [
+        83,
+        243,
+        198,
+        261
+      ],
+      "confidence": 0.996825635433197
+    },
+    {
+      "text": "30339",
+      "bbox": [
+        205,
+        245,
+        260,
+        259
+      ],
+      "confidence": 0.999893307685852
+    },
+    {
+      "text": "Murray Bring, Esq.",
+      "bbox": [
+        82,
+        273,
+        260,
+        292
+      ],
+      "confidence": 0.9984753727912903
+    },
+    {
+      "text": "Philip Morris Company, Inc.",
+      "bbox": [
+        82,
+        288,
+        341,
+        306
+      ],
+      "confidence": 0.9683384299278259
+    },
+    {
+      "text": "120 Park Avenue",
+      "bbox": [
+        83,
+        304,
+        231,
+        321
+      ],
+      "confidence": 0.9767462015151978
+    },
+    {
+      "text": "New York, NY 10017",
+      "bbox": [
+        82,
+        319,
+        270,
+        336
+      ],
+      "confidence": 0.9828752875328064
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        82,
+        367,
+        164,
+        381
+      ],
+      "confidence": 0.9997532963752747
+    },
+    {
+      "text": "McGill University Study",
+      "bbox": [
+        186,
+        366,
+        408,
+        383
+      ],
+      "confidence": 0.9955793619155884
+    },
+    {
+      "text": "Gentlemen:",
+      "bbox": [
+        79,
+        397,
+        179,
+        414
+      ],
+      "confidence": 0.9995853304862976
+    },
+    {
+      "text": "In response to your request for continued updating in this",
+      "bbox": [
+        127,
+        427,
+        686,
+        447
+      ],
+      "confidence": 0.9972123503684998
+    },
+    {
+      "text": "study, I recently discussed progress being made with Dr. Fred",
+      "bbox": [
+        78,
+        444,
+        668,
+        462
+      ],
+      "confidence": 0.9873572587966919
+    },
+    {
+      "text": "Seitz. Dr. Seitz met with the study director, Dr. Spitzer and",
+      "bbox": [
+        77,
+        458,
+        677,
+        478
+      ],
+      "confidence": 0.98250812292099
+    },
+    {
+      "text": "with Dr. Feinstein from Yale University on February 23. Attached",
+      "bbox": [
+        75,
+        473,
+        706,
+        495
+      ],
+      "confidence": 0.9827996492385864
+    },
+    {
+      "text": "is Fred Seitz' Memorandum For The Record concerning that meeting.",
+      "bbox": [
+        75,
+        488,
+        705,
+        511
+      ],
+      "confidence": 0.9832363128662109
+    },
+    {
+      "text": "I believe it will give you an excellent view of how that study is",
+      "bbox": [
+        75,
+        503,
+        705,
+        526
+      ],
+      "confidence": 0.9672791361808777
+    },
+    {
+      "text": "proceeding and some insight into the results we might expect.",
+      "bbox": [
+        75,
+        520,
+        666,
+        542
+      ],
+      "confidence": 0.9818093180656433
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        450,
+        551,
+        549,
+        575
+      ],
+      "confidence": 0.998371422290802
+    },
+    {
+      "text": "JAF:gj",
+      "bbox": [
+        76,
+        649,
+        141,
+        670
+      ],
+      "confidence": 0.9318254590034485
+    },
+    {
+      "text": "Enclosure",
+      "bbox": [
+        79,
+        667,
+        169,
+        681
+      ],
+      "confidence": 0.9977946877479553
+    },
+    {
+      "text": "(w/enclosures)",
+      "bbox": [
+        148,
+        695,
+        283,
+        713
+      ],
+      "confidence": 0.9996430277824402
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        79,
+        699,
+        111,
+        714
+      ],
+      "confidence": 0.9395837783813477
+    },
+    {
+      "text": "Robert G. DiMarco",
+      "bbox": [
+        148,
+        711,
+        313,
+        728
+      ],
+      "confidence": 0.9982123374938965
+    },
+    {
+      "text": "(RJRT)",
+      "bbox": [
+        339,
+        710,
+        397,
+        727
+      ],
+      "confidence": 0.9993098378181458
+    },
+    {
+      "text": "Tass G. Grivakes",
+      "bbox": [
+        149,
+        726,
+        304,
+        743
+      ],
+      "confidence": 0.973861813545227
+    },
+    {
+      "text": "(McKenzie, Gervais)",
+      "bbox": [
+        339,
+        725,
+        518,
+        742
+      ],
+      "confidence": 0.9983805418014526
+    },
+    {
+      "text": "(RJRT)",
+      "bbox": [
+        339,
+        742,
+        396,
+        756
+      ],
+      "confidence": 0.9997004866600037
+    },
+    {
+      "text": "Peter J. Hoult",
+      "bbox": [
+        148,
+        755,
+        296,
+        773
+      ],
+      "confidence": 0.9646245241165161
+    },
+    {
+      "text": "A. Wallace Hayes",
+      "bbox": [
+        150,
+        743,
+        303,
+        757
+      ],
+      "confidence": 0.9928134679794312
+    },
+    {
+      "text": "(RJR Macdonald)",
+      "bbox": [
+        338,
+        755,
+        479,
+        772
+      ],
+      "confidence": 0.9976263046264648
+    },
+    {
+      "text": "Wayne W. Juchatz",
+      "bbox": [
+        148,
+        770,
+        303,
+        788
+      ],
+      "confidence": 0.9930066466331482
+    },
+    {
+      "text": "(RJRT)",
+      "bbox": [
+        338,
+        770,
+        397,
+        787
+      ],
+      "confidence": 0.9963364601135254
+    },
+    {
+      "text": "Wiiliam J. Liss",
+      "bbox": [
+        149,
+        785,
+        292,
+        801
+      ],
+      "confidence": 0.944668173789978
+    },
+    {
+      "text": "(RJRN)",
+      "bbox": [
+        337,
+        782,
+        397,
+        803
+      ],
+      "confidence": 0.9170462489128113
+    },
+    {
+      "text": "John R. Martin",
+      "bbox": [
+        149,
+        799,
+        285,
+        818
+      ],
+      "confidence": 0.9647108316421509
+    },
+    {
+      "text": "(RJRN)",
+      "bbox": [
+        337,
+        798,
+        396,
+        819
+      ],
+      "confidence": 0.9601030945777893
+    },
+    {
+      "text": "(PM)",
+      "bbox": [
+        338,
+        815,
+        378,
+        833
+      ],
+      "confidence": 0.9952352046966553
+    },
+    {
+      "text": "George D. Newton",
+      "bbox": [
+        150,
+        830,
+        305,
+        849
+      ],
+      "confidence": 0.9996882677078247
+    },
+    {
+      "text": "Fredric S. Newman",
+      "bbox": [
+        152,
+        818,
+        312,
+        832
+      ],
+      "confidence": 0.9986489415168762
+    },
+    {
+      "text": "(RJRN)",
+      "bbox": [
+        337,
+        830,
+        395,
+        847
+      ],
+      "confidence": 0.9955532550811768
+    },
+    {
+      "text": "Tom L. Ogburn, Jr.",
+      "bbox": [
+        153,
+        847,
+        320,
+        861
+      ],
+      "confidence": 0.995712399482727
+    },
+    {
+      "text": "(RJRT)",
+      "bbox": [
+        337,
+        845,
+        396,
+        862
+      ],
+      "confidence": 0.9916791915893555
+    },
+    {
+      "text": "Thomas Ricke",
+      "bbox": [
+        153,
+        861,
+        267,
+        875
+      ],
+      "confidence": 0.999737024307251
+    },
+    {
+      "text": "(PM)",
+      "bbox": [
+        337,
+        858,
+        379,
+        878
+      ],
+      "confidence": 0.9755560755729675
+    },
+    {
+      "text": "Guy Smith, IV",
+      "bbox": [
+        151,
+        873,
+        278,
+        891
+      ],
+      "confidence": 0.9914516806602478
+    },
+    {
+      "text": "(PM)",
+      "bbox": [
+        339,
+        875,
+        377,
+        890
+      ],
+      "confidence": 0.999006450176239
+    },
+    {
+      "text": "Sandra Timpson",
+      "bbox": [
+        152,
+        890,
+        284,
+        904
+      ],
+      "confidence": 0.9920867681503296
+    },
+    {
+      "text": "(PM)",
+      "bbox": [
+        338,
+        888,
+        377,
+        906
+      ],
+      "confidence": 0.863314688205719
+    },
+    {
+      "text": "Samuel B. Witt, III",
+      "bbox": [
+        153,
+        904,
+        331,
+        918
+      ],
+      "confidence": 0.9936712384223938
+    },
+    {
+      "text": "(RJRN)",
+      "bbox": [
+        336,
+        901,
+        397,
+        921
+      ],
+      "confidence": 0.9730734825134277
+    },
+    {
+      "text": "David Zelkowitz",
+      "bbox": [
+        155,
+        918,
+        294,
+        932
+      ],
+      "confidence": 0.9989185929298401
+    },
+    {
+      "text": "(PM)",
+      "bbox": [
+        338,
+        917,
+        377,
+        935
+      ],
+      "confidence": 0.9900831580162048
+    },
+    {
+      "text": "LITIGATION PUBLIC RELA",
+      "bbox": [
+        413,
+        956,
+        579,
+        974
+      ],
+      "confidence": 0.994240939617157
+    },
+    {
+      "text": "PUBLIC AFFAIR",
+      "bbox": [
+        660,
+        963,
+        770,
+        983
+      ],
+      "confidence": 0.9983479976654053
+    }
+  ],
+  "full_text": "JAMES A. FYOCK & ASSOCIATES\nBox 30\nOnc Triad Park\n200 West Second St.\nWinston-Salem, N.C. 27101\nTel: (919) 741-2727\nFax: (919)741-5449\nCONFIDENTIAL\nAttorney-Client\nJAMES A. FYOCK\nWork Product\nPresident\nMarch 8, 1988\nHarold L. Henderson, Esq.\nRJR Nabisco, Inc.\n300 Galleria Parkway, N.w.\nAtlanta, GA\n30339\nMurray Bring, Esq.\nPhilip Morris Company, Inc.\n120 Park Avenue\nNew York, NY 10017\nSUBJECT:\nMcGill University Study\nGentlemen:\nIn response to your request for continued updating in this\nstudy, I recently discussed progress being made with Dr. Fred\nSeitz. Dr. Seitz met with the study director, Dr. Spitzer and\nwith Dr. Feinstein from Yale University on February 23. Attached\nis Fred Seitz' Memorandum For The Record concerning that meeting.\nI believe it will give you an excellent view of how that study is\nproceeding and some insight into the results we might expect.\nSincerely,\nJAF:gj\nEnclosure\n(w/enclosures)\ncc:\nRobert G. DiMarco\n(RJRT)\nTass G. Grivakes\n(McKenzie, Gervais)\n(RJRT)\nPeter J. Hoult\nA. Wallace Hayes\n(RJR Macdonald)\nWayne W. Juchatz\n(RJRT)\nWiiliam J. Liss\n(RJRN)\nJohn R. Martin\n(RJRN)\n(PM)\nGeorge D. Newton\nFredric S. Newman\n(RJRN)\nTom L. Ogburn, Jr.\n(RJRT)\nThomas Ricke\n(PM)\nGuy Smith, IV\n(PM)\nSandra Timpson\n(PM)\nSamuel B. Witt, III\n(RJRN)\nDavid Zelkowitz\n(PM)\nLITIGATION PUBLIC RELA\nPUBLIC AFFAIR"
+}

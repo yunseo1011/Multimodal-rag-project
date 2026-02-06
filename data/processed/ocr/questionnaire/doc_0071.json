@@ -1,0 +1,251 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0071.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJReynolds",
+      "bbox": [
+        45,
+        14,
+        298,
+        93
+      ],
+      "confidence": 0.9906649589538574
+    },
+    {
+      "text": "Tobacco Company",
+      "bbox": [
+        204,
+        84,
+        320,
+        113
+      ],
+      "confidence": 0.998305082321167
+    },
+    {
+      "text": "February 6, 1997",
+      "bbox": [
+        83,
+        120,
+        209,
+        141
+      ],
+      "confidence": 0.9996063709259033
+    },
+    {
+      "text": "Consumer Relations",
+      "bbox": [
+        553,
+        135,
+        673,
+        155
+      ],
+      "confidence": 0.9996633529663086
+    },
+    {
+      "text": "Winston-Salem, N. C. 27102",
+      "bbox": [
+        553,
+        148,
+        720,
+        172
+      ],
+      "confidence": 0.9898782968521118
+    },
+    {
+      "text": "269702762",
+      "bbox": [
+        86,
+        162,
+        171,
+        179
+      ],
+      "confidence": 0.9999249577522278
+    },
+    {
+      "text": "Jean Bentler",
+      "bbox": [
+        88,
+        182,
+        181,
+        200
+      ],
+      "confidence": 0.97976154088974
+    },
+    {
+      "text": "942 Lebanon Hwy",
+      "bbox": [
+        87,
+        201,
+        219,
+        221
+      ],
+      "confidence": 0.9934651851654053
+    },
+    {
+      "text": "Lebanon, TN 37087",
+      "bbox": [
+        88,
+        219,
+        232,
+        238
+      ],
+      "confidence": 0.9964894652366638
+    },
+    {
+      "text": "Dear Valued Customer:",
+      "bbox": [
+        86,
+        312,
+        254,
+        336
+      ],
+      "confidence": 0.9616436958312988
+    },
+    {
+      "text": "Recently you contacted R. J. Reynolds' Consumer Relations Department and gave",
+      "bbox": [
+        86,
+        346,
+        661,
+        374
+      ],
+      "confidence": 0.9914820194244385
+    },
+    {
+      "text": "us the opportunity to respond to your request for assistance with either a promotion",
+      "bbox": [
+        86,
+        364,
+        666,
+        396
+      ],
+      "confidence": 0.9847317934036255
+    },
+    {
+      "text": "or product related issue.",
+      "bbox": [
+        87,
+        389,
+        259,
+        415
+      ],
+      "confidence": 0.9857850670814514
+    },
+    {
+      "text": "In an effort to better serve our customers, we are asking you to please take a few",
+      "bbox": [
+        87,
+        424,
+        654,
+        453
+      ],
+      "confidence": 0.9849706292152405
+    },
+    {
+      "text": "minutes to complete a questionnaire about how well you were treated by our",
+      "bbox": [
+        87,
+        445,
+        623,
+        472
+      ],
+      "confidence": 0.9994927644729614
+    },
+    {
+      "text": "company representative. After completing the survey on the reverse side of this",
+      "bbox": [
+        87,
+        464,
+        648,
+        492
+      ],
+      "confidence": 0.992428719997406
+    },
+    {
+      "text": "letter, please return it in the enclosed postage-paid envelope.",
+      "bbox": [
+        86,
+        486,
+        516,
+        511
+      ],
+      "confidence": 0.9935027956962585
+    },
+    {
+      "text": "Thank you for taking the time to let us know how our staff met your expectations.",
+      "bbox": [
+        86,
+        523,
+        654,
+        549
+      ],
+      "confidence": 0.9946001768112183
+    },
+    {
+      "text": "We value your opinion and appreciate your business.",
+      "bbox": [
+        85,
+        546,
+        461,
+        570
+      ],
+      "confidence": 0.9845125675201416
+    },
+    {
+      "text": "Mark Conrad",
+      "bbox": [
+        78,
+        576,
+        280,
+        636
+      ],
+      "confidence": 0.9402269124984741
+    },
+    {
+      "text": "Mark Conrad",
+      "bbox": [
+        84,
+        646,
+        182,
+        670
+      ],
+      "confidence": 0.9998019933700562
+    },
+    {
+      "text": "Consumer Satisfaction Research Manager",
+      "bbox": [
+        86,
+        667,
+        388,
+        690
+      ],
+      "confidence": 0.9951649904251099
+    },
+    {
+      "text": "WGSKD",
+      "bbox": [
+        86,
+        855,
+        149,
+        878
+      ],
+      "confidence": 0.9999662637710571
+    },
+    {
+      "text": "51768 8544",
+      "bbox": [
+        722,
+        858,
+        746,
+        964
+      ],
+      "confidence": 0.9931125640869141
+    }
+  ],
+  "full_text": "RJReynolds\nTobacco Company\nFebruary 6, 1997\nConsumer Relations\nWinston-Salem, N. C. 27102\n269702762\nJean Bentler\n942 Lebanon Hwy\nLebanon, TN 37087\nDear Valued Customer:\nRecently you contacted R. J. Reynolds' Consumer Relations Department and gave\nus the opportunity to respond to your request for assistance with either a promotion\nor product related issue.\nIn an effort to better serve our customers, we are asking you to please take a few\nminutes to complete a questionnaire about how well you were treated by our\ncompany representative. After completing the survey on the reverse side of this\nletter, please return it in the enclosed postage-paid envelope.\nThank you for taking the time to let us know how our staff met your expectations.\nWe value your opinion and appreciate your business.\nMark Conrad\nMark Conrad\nConsumer Satisfaction Research Manager\nWGSKD\n51768 8544"
+}

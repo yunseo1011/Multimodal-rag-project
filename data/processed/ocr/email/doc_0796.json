@@ -1,0 +1,171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0796.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2077996335",
+      "bbox": [
+        564,
+        83,
+        672,
+        110
+      ],
+      "confidence": 0.999935507774353
+    },
+    {
+      "text": "MAY CONTAIN CONFIDENTIAL WORK PRODUCT, JOINT DEFENSE, OR PRIVILEGED",
+      "bbox": [
+        142,
+        135,
+        611,
+        184
+      ],
+      "confidence": 0.9847482442855835
+    },
+    {
+      "text": "John Mulderig",
+      "bbox": [
+        143,
+        199,
+        225,
+        222
+      ],
+      "confidence": 0.9996645450592041
+    },
+    {
+      "text": "09/15/99 03:39 PM",
+      "bbox": [
+        144,
+        214,
+        250,
+        237
+      ],
+      "confidence": 0.9607677459716797
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        72,
+        250,
+        98,
+        270
+      ],
+      "confidence": 0.997776985168457
+    },
+    {
+      "text": "Jean Mahon/PhilipMorris/Bravo@Bravo",
+      "bbox": [
+        125,
+        253,
+        334,
+        278
+      ],
+      "confidence": 0.9947824478149414
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        75,
+        269,
+        93,
+        282
+      ],
+      "confidence": 0.8834831118583679
+    },
+    {
+      "text": "Stephen Krigbaum/PhilipMorris/Bravo@Bravo",
+      "bbox": [
+        125,
+        268,
+        365,
+        294
+      ],
+      "confidence": 0.9892436861991882
+    },
+    {
+      "text": "Subject: Re: Color prints - ad archive",
+      "bbox": [
+        72,
+        280,
+        296,
+        307
+      ],
+      "confidence": 0.9892176389694214
+    },
+    {
+      "text": "Steve, do you want us to contact David Murphy on the MNAG document production deadline issue or do",
+      "bbox": [
+        71,
+        312,
+        663,
+        350
+      ],
+      "confidence": 0.9899312257766724
+    },
+    {
+      "text": "you want to make the call. The question in my mind is whether we should let Robins know if we are going",
+      "bbox": [
+        70,
+        328,
+        667,
+        365
+      ],
+      "confidence": 0.9830313920974731
+    },
+    {
+      "text": "to miss the deadline. We may also want to consider whether any defendant has confronted the problem",
+      "bbox": [
+        70,
+        345,
+        662,
+        380
+      ],
+      "confidence": 0.9868997931480408
+    },
+    {
+      "text": "before in relation to the MNAG settlement or the MSA",
+      "bbox": [
+        71,
+        362,
+        379,
+        387
+      ],
+      "confidence": 0.9801353216171265
+    },
+    {
+      "text": "I would probably vote in favor of notice.",
+      "bbox": [
+        70,
+        378,
+        297,
+        401
+      ],
+      "confidence": 0.9920898079872131
+    },
+    {
+      "text": "John",
+      "bbox": [
+        67,
+        406,
+        105,
+        429
+      ],
+      "confidence": 0.9995198249816895
+    },
+    {
+      "text": "MAY CONTAIN CONFIDENTIAL WORK PRODUCT, JOINT DEFENSE, OR PRIVILEGED",
+      "bbox": [
+        69,
+        423,
+        585,
+        456
+      ],
+      "confidence": 0.9890064001083374
+    }
+  ],
+  "full_text": "2077996335\nMAY CONTAIN CONFIDENTIAL WORK PRODUCT, JOINT DEFENSE, OR PRIVILEGED\nJohn Mulderig\n09/15/99 03:39 PM\nTo:\nJean Mahon/PhilipMorris/Bravo@Bravo\nCC:\nStephen Krigbaum/PhilipMorris/Bravo@Bravo\nSubject: Re: Color prints - ad archive\nSteve, do you want us to contact David Murphy on the MNAG document production deadline issue or do\nyou want to make the call. The question in my mind is whether we should let Robins know if we are going\nto miss the deadline. We may also want to consider whether any defendant has confronted the problem\nbefore in relation to the MNAG settlement or the MSA\nI would probably vote in favor of notice.\nJohn\nMAY CONTAIN CONFIDENTIAL WORK PRODUCT, JOINT DEFENSE, OR PRIVILEGED"
+}

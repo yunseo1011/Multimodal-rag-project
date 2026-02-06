@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0126.png",
+    "image_width": 792,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "UNITED STATES PATENT AND TRADEMARK OFFICE",
+      "bbox": [
+        139,
+        160,
+        641,
+        188
+      ],
+      "confidence": 0.988347053527832
+    },
+    {
+      "text": "CERTIFICATE OF CORRECTION",
+      "bbox": [
+        169,
+        181,
+        598,
+        211
+      ],
+      "confidence": 0.9992923140525818
+    },
+    {
+      "text": "PATENT NO. :",
+      "bbox": [
+        50,
+        217,
+        158,
+        236
+      ],
+      "confidence": 0.9932388663291931
+    },
+    {
+      "text": "4,981,522",
+      "bbox": [
+        184,
+        218,
+        279,
+        235
+      ],
+      "confidence": 0.9998281002044678
+    },
+    {
+      "text": "DATED",
+      "bbox": [
+        49,
+        236,
+        104,
+        256
+      ],
+      "confidence": 0.9998565912246704
+    },
+    {
+      "text": ":",
+      "bbox": [
+        146,
+        242,
+        157,
+        256
+      ],
+      "confidence": 0.9941722750663757
+    },
+    {
+      "text": "January 1, 1991",
+      "bbox": [
+        183,
+        237,
+        341,
+        254
+      ],
+      "confidence": 0.9802001714706421
+    },
+    {
+      "text": "INVENTOR(S) :",
+      "bbox": [
+        49,
+        257,
+        157,
+        277
+      ],
+      "confidence": 0.9538300633430481
+    },
+    {
+      "text": "Walter A. Nichols et al.",
+      "bbox": [
+        181,
+        259,
+        433,
+        276
+      ],
+      "confidence": 0.9897435307502747
+    },
+    {
+      "text": "It is certified that error appears in the above-identified patent and that said Letters Patent is hereby",
+      "bbox": [
+        85,
+        282,
+        668,
+        301
+      ],
+      "confidence": 0.9932762384414673
+    },
+    {
+      "text": "corrected as shown below:",
+      "bbox": [
+        49,
+        296,
+        207,
+        316
+      ],
+      "confidence": 0.992724597454071
+    },
+    {
+      "text": "Column 2, line 31,",
+      "bbox": [
+        23,
+        319,
+        223,
+        341
+      ],
+      "confidence": 0.9758179783821106
+    },
+    {
+      "text": "\"obJect\" should be -- object --; and",
+      "bbox": [
+        217,
+        320,
+        595,
+        343
+      ],
+      "confidence": 0.9675476551055908
+    },
+    {
+      "text": "line 66,",
+      "bbox": [
+        129,
+        336,
+        216,
+        355
+      ],
+      "confidence": 0.9598707556724548
+    },
+    {
+      "text": "\"mixture The\" should be",
+      "bbox": [
+        217,
+        334,
+        461,
+        357
+      ],
+      "confidence": 0.966619074344635
+    },
+    {
+      "text": "mixture.",
+      "bbox": [
+        154,
+        351,
+        252,
+        370
+      ],
+      "confidence": 0.9998083114624023
+    },
+    {
+      "text": "The --.",
+      "bbox": [
+        257,
+        351,
+        333,
+        370
+      ],
+      "confidence": 0.9930301308631897
+    },
+    {
+      "text": "Column 4, line 49, \"up o\" should be -- up to --.",
+      "bbox": [
+        21,
+        377,
+        517,
+        401
+      ],
+      "confidence": 0.9762117862701416
+    },
+    {
+      "text": "Claim 8, column l0, line 10, \"abut\" should be -- about --.",
+      "bbox": [
+        21,
+        405,
+        613,
+        429
+      ],
+      "confidence": 0.9563206434249878
+    },
+    {
+      "text": "Signed and Sealed this",
+      "bbox": [
+        421,
+        627,
+        618,
+        651
+      ],
+      "confidence": 0.9989776611328125
+    },
+    {
+      "text": "Twenty-fourth Day of August, 1993",
+      "bbox": [
+        359,
+        655,
+        675,
+        685
+      ],
+      "confidence": 0.9996602535247803
+    },
+    {
+      "text": "Bince Cehran",
+      "bbox": [
+        419,
+        680,
+        620,
+        736
+      ],
+      "confidence": 0.6721508502960205
+    },
+    {
+      "text": "MaR",
+      "bbox": [
+        94,
+        712,
+        367,
+        789
+      ],
+      "confidence": 0.637459397315979
+    },
+    {
+      "text": "Attest:",
+      "bbox": [
+        222,
+        713,
+        260,
+        728
+      ],
+      "confidence": 0.9921770691871643
+    },
+    {
+      "text": "BRUCE LEHMAN",
+      "bbox": [
+        474,
+        749,
+        562,
+        766
+      ],
+      "confidence": 0.9978613257408142
+    },
+    {
+      "text": "Ahesting Officer",
+      "bbox": [
+        223,
+        766,
+        311,
+        786
+      ],
+      "confidence": 0.9469273686408997
+    },
+    {
+      "text": "Commissioner of Patents and Trademarks",
+      "bbox": [
+        425,
+        769,
+        617,
+        787
+      ],
+      "confidence": 0.9840021729469299
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        484,
+        856,
+        634,
+        886
+      ],
+      "confidence": 0.9997801184654236
+    },
+    {
+      "text": "SEP 1 5 1993",
+      "bbox": [
+        509,
+        896,
+        613,
+        917
+      ],
+      "confidence": 0.9953358173370361
+    },
+    {
+      "text": "FISH & NEAVE - PATENT DEPT,",
+      "bbox": [
+        472,
+        924,
+        657,
+        944
+      ],
+      "confidence": 0.9423121809959412
+    },
+    {
+      "text": "REFERRED TO.",
+      "bbox": [
+        462,
+        942,
+        544,
+        956
+      ],
+      "confidence": 0.9919676780700684
+    },
+    {
+      "text": "NOTED BY_",
+      "bbox": [
+        461,
+        957,
+        524,
+        971
+      ],
+      "confidence": 0.9392897486686707
+    }
+  ],
+  "full_text": "UNITED STATES PATENT AND TRADEMARK OFFICE\nCERTIFICATE OF CORRECTION\nPATENT NO. :\n4,981,522\nDATED\n:\nJanuary 1, 1991\nINVENTOR(S) :\nWalter A. Nichols et al.\nIt is certified that error appears in the above-identified patent and that said Letters Patent is hereby\ncorrected as shown below:\nColumn 2, line 31,\n\"obJect\" should be -- object --; and\nline 66,\n\"mixture The\" should be\nmixture.\nThe --.\nColumn 4, line 49, \"up o\" should be -- up to --.\nClaim 8, column l0, line 10, \"abut\" should be -- about --.\nSigned and Sealed this\nTwenty-fourth Day of August, 1993\nBince Cehran\nMaR\nAttest:\nBRUCE LEHMAN\nAhesting Officer\nCommissioner of Patents and Trademarks\nRECEIVED\nSEP 1 5 1993\nFISH & NEAVE - PATENT DEPT,\nREFERRED TO.\nNOTED BY_"
+}

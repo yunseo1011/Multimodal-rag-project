@@ -1,0 +1,591 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0471.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "EXECUTIVE",
+      "bbox": [
+        187,
+        56,
+        371,
+        92
+      ],
+      "confidence": 0.9999412894248962
+    },
+    {
+      "text": "SUMMARY",
+      "bbox": [
+        399,
+        63,
+        564,
+        95
+      ],
+      "confidence": 0.9999292492866516
+    },
+    {
+      "text": "detled Devnat.",
+      "bbox": [
+        637,
+        72,
+        695,
+        88
+      ],
+      "confidence": 0.6128093600273132
+    },
+    {
+      "text": "July 21, 2000",
+      "bbox": [
+        644,
+        109,
+        695,
+        125
+      ],
+      "confidence": 0.8892377614974976
+    },
+    {
+      "text": "ES00-20",
+      "bbox": [
+        662,
+        100,
+        694,
+        111
+      ],
+      "confidence": 0.7663660049438477
+    },
+    {
+      "text": "Corporate Finance: Phlip Morris (PM) announced its 2Q00 results",
+      "bbox": [
+        280,
+        141,
+        680,
+        165
+      ],
+      "confidence": 0.980126678943634
+    },
+    {
+      "text": "SPECIAL THIS WEEK ...",
+      "bbox": [
+        75,
+        156,
+        216,
+        175
+      ],
+      "confidence": 0.9845516681671143
+    },
+    {
+      "text": "on July 180, reporting a 5.5% increase in net earnings to $2.2 billion and",
+      "bbox": [
+        251,
+        154,
+        681,
+        181
+      ],
+      "confidence": 0.9648424983024597
+    },
+    {
+      "text": "an 11.8% rise in diluted eamnings to $0.95 per share. PM's domestic",
+      "bbox": [
+        250,
+        169,
+        652,
+        196
+      ],
+      "confidence": 0.952389657497406
+    },
+    {
+      "text": "US Tobacco Weekly 00-29",
+      "bbox": [
+        76,
+        181,
+        209,
+        200
+      ],
+      "confidence": 0.9717606902122498
+    },
+    {
+      "text": "tobacco operations showed a 6.5% increase in underlying operating",
+      "bbox": [
+        250,
+        183,
+        656,
+        210
+      ],
+      "confidence": 0.9804925322532654
+    },
+    {
+      "text": "Wocld Alent 00-29",
+      "bbox": [
+        76,
+        193,
+        168,
+        213
+      ],
+      "confidence": 0.9118673205375671
+    },
+    {
+      "text": "income to $1.3 billion as a result of increased prices and a 3.6% growth in",
+      "bbox": [
+        249,
+        197,
+        690,
+        224
+      ],
+      "confidence": 0.9689465165138245
+    },
+    {
+      "text": "Legislative Bulletin 00-28",
+      "bbox": [
+        77,
+        208,
+        204,
+        222
+      ],
+      "confidence": 0.989376962184906
+    },
+    {
+      "text": "shipment volume to 49.9% of the market; Marlboro recorded a 36.9%",
+      "bbox": [
+        250,
+        213,
+        664,
+        237
+      ],
+      "confidence": 0.9838108420372009
+    },
+    {
+      "text": "Leaf Bulletin 00-10",
+      "bbox": [
+        76,
+        220,
+        172,
+        234
+      ],
+      "confidence": 0.9822563529014587
+    },
+    {
+      "text": "share. Operating income at Philip Morrs International rose 4.6% to $1.3",
+      "bbox": [
+        248,
+        226,
+        687,
+        253
+      ],
+      "confidence": 0.9700155258178711
+    },
+    {
+      "text": "billion. Volume gains were made in Westem Europe, Russia, and Asia,",
+      "bbox": [
+        248,
+        240,
+        679,
+        268
+      ],
+      "confidence": 0.9564530253410339
+    },
+    {
+      "text": "Holdings, Inc. announced its 2Q00 results on July 20, reporting a % increase in net income to $10",
+      "bbox": [
+        63,
+        267,
+        664,
+        296
+      ],
+      "confidence": 0.8656280636787415
+    },
+    {
+      "text": "million from $98 million in 2059 as net inoome per diluted share rose 16.7% to $1.05 from $0.90. Net",
+      "bbox": [
+        64,
+        282,
+        665,
+        311
+      ],
+      "confidence": 0.9386135935783386
+    },
+    {
+      "text": "sales increased 9% to $2.09 billion from $1.91 billion, reflecting higher prices partially offset by a 1.8%",
+      "bbox": [
+        64,
+        297,
+        667,
+        325
+      ],
+      "confidence": 0.9673517346382141
+    },
+    {
+      "text": "decline in volume to 2.6 billion units. The company 's estimated retail market share during the March -",
+      "bbox": [
+        64,
+        311,
+        680,
+        340
+      ],
+      "confidence": 0.9257933497428894
+    },
+    {
+      "text": "May 200 period fell to 23.3% from 24.06% during the same period in 1999. UST Inc. announced July",
+      "bbox": [
+        63,
+        324,
+        685,
+        357
+      ],
+      "confidence": 0.8871710896492004
+    },
+    {
+      "text": "20 that its 2Q00 earnings declined 8.7% to $112.2 million, or 69 a share, from $12.9 million, or 70 ",
+      "bbox": [
+        63,
+        340,
+        674,
+        371
+      ],
+      "confidence": 0.8653234839439392
+    },
+    {
+      "text": "share in 2Q99, due to weaker sales of its premium brands, higher interest expenses, and higher excise",
+      "bbox": [
+        64,
+        356,
+        666,
+        383
+      ],
+      "confidence": 0.9766775965690613
+    },
+    {
+      "text": "taxes among other factors. Operating profit for the tobacco segment fell 4% to $196.7 million, while",
+      "bbox": [
+        64,
+        372,
+        655,
+        398
+      ],
+      "confidence": 0.9675053358078003
+    },
+    {
+      "text": "revenue rose 4% to $347.8 million due to higher prices and a 2.4% gain in net can volume. Canada 's",
+      "bbox": [
+        64,
+        386,
+        667,
+        412
+      ],
+      "confidence": 0.9725723266601562
+    },
+    {
+      "text": "Rothmans Inc. on July 20e announced that first quarter fiscal 2001 revenue of $93.2 million was in line",
+      "bbox": [
+        65,
+        401,
+        676,
+        427
+      ],
+      "confidence": 0.9757437109947205
+    },
+    {
+      "text": "with the $93.3 milbon reported in the same period last year. Earruings fromn tobacco increased 4% to",
+      "bbox": [
+        65,
+        416,
+        656,
+        443
+      ],
+      "confidence": 0.9455476999282837
+    },
+    {
+      "text": "$12.0 million. Additionally, the Board of Directors declared a regular quarterly dividend of 17e per",
+      "bbox": [
+        65,
+        431,
+        653,
+        457
+      ],
+      "confidence": 0.9621803760528564
+    },
+    {
+      "text": "common share payable on September 17th to shareholders of record on September 1*, •Altadis SA",
+      "bbox": [
+        65,
+        448,
+        653,
+        470
+      ],
+      "confidence": 0.9701554775238037
+    },
+    {
+      "text": "announced July 17e that the price for its distribution unit Logista SA's public offering will be $19.60 per",
+      "bbox": [
+        65,
+        461,
+        677,
+        486
+      ],
+      "confidence": 0.9762799739837646
+    },
+    {
+      "text": "share. Upon completion of the offer, Altadis will hold 51% of Logista, media group Grupo Planeta 4%,",
+      "bbox": [
+        64,
+        476,
+        670,
+        499
+      ],
+      "confidence": 0.9559156894683838
+    },
+    {
+      "text": "and the public the remainder. •A new investment policy drafted by a consulting firm Wilshire",
+      "bbox": [
+        64,
+        491,
+        621,
+        512
+      ],
+      "confidence": 0.9680644273757935
+    },
+    {
+      "text": "Associates called for the Universlty of Californis (UC) indudes investments of around $6.7 billion in an",
+      "bbox": [
+        65,
+        506,
+        679,
+        526
+      ],
+      "confidence": 0.973609209060669
+    },
+    {
+      "text": "Investment is concered about the cigarette stock indlusion, Wilshire said UC can casily avoid buying",
+      "bbox": [
+        64,
+        532,
+        658,
+        556
+      ],
+      "confidence": 0.9452250599861145
+    },
+    {
+      "text": "Index fund, including S60 million in cigarette companies . Although the Council for Responsible Public",
+      "bbox": [
+        65,
+        520,
+        668,
+        540
+      ],
+      "confidence": 0.9680072069168091
+    },
+    {
+      "text": "tobacco stocks if the UC: regents wish (San Francisco Examiner 7/20). •Ventura County, Calfornla",
+      "bbox": [
+        64,
+        547,
+        641,
+        570
+      ],
+      "confidence": 0.9579103589057922
+    },
+    {
+      "text": "Supervisor Frank Schillo wants the county 's Public Employees Rotirement Fund board to divest its $6.8",
+      "bbox": [
+        65,
+        563,
+        674,
+        582
+      ],
+      "confidence": 0.9728485345840454
+    },
+    {
+      "text": "million holding in tobacco stocks. The Fund 's investment pool is estimated to be $2.25 billion (TW 00-29,",
+      "bbox": [
+        64,
+        578,
+        673,
+        597
+      ],
+      "confidence": 0.988688588142395
+    },
+    {
+      "text": "WA00-29).",
+      "bbox": [
+        66,
+        594,
+        126,
+        608
+      ],
+      "confidence": 0.9958171844482422
+    },
+    {
+      "text": "Corporate Affalrs : Phllip Morris on July 17e launched a new TV advertising_campaign showing its",
+      "bbox": [
+        92,
+        619,
+        668,
+        639
+      ],
+      "confidence": 0.9720921516418457
+    },
+    {
+      "text": "commitment to the MSA and how the company is changing the way it does business. • Altadls SA",
+      "bbox": [
+        65,
+        634,
+        635,
+        654
+      ],
+      "confidence": 0.9743898510932922
+    },
+    {
+      "text": "affiliate Aldease SA secured the tender to acqulre Jordan Alrports Duty Free Shops for $60.1 million",
+      "bbox": [
+        65,
+        648,
+        648,
+        670
+      ],
+      "confidence": 0.9731815457344055
+    },
+    {
+      "text": "from the Jordanian govemment as a part of the nation's privatization plan. •According to French",
+      "bbox": [
+        65,
+        664,
+        628,
+        683
+      ],
+      "confidence": 0.9806752800941467
+    },
+    {
+      "text": "industry information authority Centre de Documentation et d'Information sur le Tabac (CDrr ), sales of",
+      "bbox": [
+        64,
+        676,
+        662,
+        701
+      ],
+      "confidence": 0.9581904411315918
+    },
+    {
+      "text": "cigarettes in France increased 0.9% during 1H00 to 41 blion units compared to 1H99; cigars and",
+      "bbox": [
+        67,
+        695,
+        620,
+        713
+      ],
+      "confidence": 0.9792419672012329
+    },
+    {
+      "text": "cigarillos were up 4.2% to 836.9 million units; and rolling and pipe tobacco were down 1.1% to 3,619 MT.",
+      "bbox": [
+        66,
+        708,
+        662,
+        729
+      ],
+      "confidence": 0.9550583958625793
+    },
+    {
+      "text": "Bollore earmed a 16% retum in nine months for its Seita shares;furthermore, should it decide to sell its",
+      "bbox": [
+        67,
+        722,
+        662,
+        743
+      ],
+      "confidence": 0.9665907621383667
+    },
+    {
+      "text": "African tobacco operations, Coralma, Altadis could be a potential buyer. On July 3-s, Bollore acquired",
+      "bbox": [
+        67,
+        736,
+        646,
+        758
+      ],
+      "confidence": 0.9655932188034058
+    },
+    {
+      "text": "Seita's 40% stake in Coralma, resulting in Bollore's 100 % ownership (Le Telegramme 7/17).",
+      "bbox": [
+        67,
+        750,
+        590,
+        772
+      ],
+      "confidence": 0.9693107008934021
+    },
+    {
+      "text": "TOBACCO MERCHANES",
+      "bbox": [
+        118,
+        792,
+        239,
+        808
+      ],
+      "confidence": 0.9428292512893677
+    },
+    {
+      "text": "Founced1816",
+      "bbox": [
+        330,
+        789,
+        402,
+        806
+      ],
+      "confidence": 0.8688835501670837
+    },
+    {
+      "text": "FYBNCETON, NL.J. DCSE:HCOTG",
+      "bbox": [
+        485,
+        800,
+        624,
+        818
+      ],
+      "confidence": 0.7106380462646484
+    },
+    {
+      "text": "P.3. BOX 3019",
+      "bbox": [
+        518,
+        790,
+        592,
+        808
+      ],
+      "confidence": 0.8034681677818298
+    },
+    {
+      "text": "ASSOCATION, SO.",
+      "bbox": [
+        129,
+        805,
+        228,
+        819
+      ],
+      "confidence": 0.8363438248634338
+    },
+    {
+      "text": "TEL.: (606) 27$-4660",
+      "bbox": [
+        132,
+        817,
+        228,
+        830
+      ],
+      "confidence": 0.8766169548034668
+    },
+    {
+      "text": "FAK: (009) 275-6878",
+      "bbox": [
+        506,
+        812,
+        601,
+        828
+      ],
+      "confidence": 0.8046094179153442
+    }
+  ],
+  "full_text": "EXECUTIVE\nSUMMARY\ndetled Devnat.\nJuly 21, 2000\nES00-20\nCorporate Finance: Phlip Morris (PM) announced its 2Q00 results\nSPECIAL THIS WEEK ...\non July 180, reporting a 5.5% increase in net earnings to $2.2 billion and\nan 11.8% rise in diluted eamnings to $0.95 per share. PM's domestic\nUS Tobacco Weekly 00-29\ntobacco operations showed a 6.5% increase in underlying operating\nWocld Alent 00-29\nincome to $1.3 billion as a result of increased prices and a 3.6% growth in\nLegislative Bulletin 00-28\nshipment volume to 49.9% of the market; Marlboro recorded a 36.9%\nLeaf Bulletin 00-10\nshare. Operating income at Philip Morrs International rose 4.6% to $1.3\nbillion. Volume gains were made in Westem Europe, Russia, and Asia,\nHoldings, Inc. announced its 2Q00 results on July 20, reporting a % increase in net income to $10\nmillion from $98 million in 2059 as net inoome per diluted share rose 16.7% to $1.05 from $0.90. Net\nsales increased 9% to $2.09 billion from $1.91 billion, reflecting higher prices partially offset by a 1.8%\ndecline in volume to 2.6 billion units. The company 's estimated retail market share during the March -\nMay 200 period fell to 23.3% from 24.06% during the same period in 1999. UST Inc. announced July\n20 that its 2Q00 earnings declined 8.7% to $112.2 million, or 69 a share, from $12.9 million, or 70 \nshare in 2Q99, due to weaker sales of its premium brands, higher interest expenses, and higher excise\ntaxes among other factors. Operating profit for the tobacco segment fell 4% to $196.7 million, while\nrevenue rose 4% to $347.8 million due to higher prices and a 2.4% gain in net can volume. Canada 's\nRothmans Inc. on July 20e announced that first quarter fiscal 2001 revenue of $93.2 million was in line\nwith the $93.3 milbon reported in the same period last year. Earruings fromn tobacco increased 4% to\n$12.0 million. Additionally, the Board of Directors declared a regular quarterly dividend of 17e per\ncommon share payable on September 17th to shareholders of record on September 1*, •Altadis SA\nannounced July 17e that the price for its distribution unit Logista SA's public offering will be $19.60 per\nshare. Upon completion of the offer, Altadis will hold 51% of Logista, media group Grupo Planeta 4%,\nand the public the remainder. •A new investment policy drafted by a consulting firm Wilshire\nAssociates called for the Universlty of Californis (UC) indudes investments of around $6.7 billion in an\nInvestment is concered about the cigarette stock indlusion, Wilshire said UC can casily avoid buying\nIndex fund, including S60 million in cigarette companies . Although the Council for Responsible Public\ntobacco stocks if the UC: regents wish (San Francisco Examiner 7/20). •Ventura County, Calfornla\nSupervisor Frank Schillo wants the county 's Public Employees Rotirement Fund board to divest its $6.8\nmillion holding in tobacco stocks. The Fund 's investment pool is estimated to be $2.25 billion (TW 00-29,\nWA00-29).\nCorporate Affalrs : Phllip Morris on July 17e launched a new TV advertising_campaign showing its\ncommitment to the MSA and how the company is changing the way it does business. • Altadls SA\naffiliate Aldease SA secured the tender to acqulre Jordan Alrports Duty Free Shops for $60.1 million\nfrom the Jordanian govemment as a part of the nation's privatization plan. •According to French\nindustry information authority Centre de Documentation et d'Information sur le Tabac (CDrr ), sales of\ncigarettes in France increased 0.9% during 1H00 to 41 blion units compared to 1H99; cigars and\ncigarillos were up 4.2% to 836.9 million units; and rolling and pipe tobacco were down 1.1% to 3,619 MT.\nBollore earmed a 16% retum in nine months for its Seita shares;furthermore, should it decide to sell its\nAfrican tobacco operations, Coralma, Altadis could be a potential buyer. On July 3-s, Bollore acquired\nSeita's 40% stake in Coralma, resulting in Bollore's 100 % ownership (Le Telegramme 7/17).\nTOBACCO MERCHANES\nFounced1816\nFYBNCETON, NL.J. DCSE:HCOTG\nP.3. BOX 3019\nASSOCATION, SO.\nTEL.: (606) 27$-4660\nFAK: (009) 275-6878"
+}

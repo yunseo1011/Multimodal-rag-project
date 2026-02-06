@@ -1,0 +1,591 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0055.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Final Evaluation of Quality System Training Workshop (Entire Program)",
+      "bbox": [
+        63,
+        50,
+        650,
+        89
+      ],
+      "confidence": 0.9814636707305908
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        61,
+        91,
+        117,
+        118
+      ],
+      "confidence": 0.9998812675476074
+    },
+    {
+      "text": "Time:",
+      "bbox": [
+        301,
+        96,
+        360,
+        123
+      ],
+      "confidence": 0.9999293088912964
+    },
+    {
+      "text": "Circle the number which best represents your comments. Use the following key:",
+      "bbox": [
+        65,
+        134,
+        581,
+        164
+      ],
+      "confidence": 0.9779267907142639
+    },
+    {
+      "text": "1-",
+      "bbox": [
+        114,
+        157,
+        134,
+        175
+      ],
+      "confidence": 0.9981788992881775
+    },
+    {
+      "text": "Needs improvement; Did not meet objectives",
+      "bbox": [
+        161,
+        157,
+        453,
+        179
+      ],
+      "confidence": 0.9860352277755737
+    },
+    {
+      "text": "3",
+      "bbox": [
+        113,
+        175,
+        130,
+        195
+      ],
+      "confidence": 0.9997747540473938
+    },
+    {
+      "text": "OK; Met objectives and expectations",
+      "bbox": [
+        162,
+        175,
+        402,
+        196
+      ],
+      "confidence": 0.9676478505134583
+    },
+    {
+      "text": "5",
+      "bbox": [
+        115,
+        196,
+        128,
+        213
+      ],
+      "confidence": 0.9999529123306274
+    },
+    {
+      "text": "Very good as is; Effective, interesting session; Will apply learning to my job.",
+      "bbox": [
+        160,
+        193,
+        655,
+        219
+      ],
+      "confidence": 0.9804677963256836
+    },
+    {
+      "text": "1. Class information and activities were structured to meet the objectives.",
+      "bbox": [
+        66,
+        231,
+        538,
+        251
+      ],
+      "confidence": 0.9752562642097473
+    },
+    {
+      "text": "1",
+      "bbox": [
+        255,
+        251,
+        269,
+        267
+      ],
+      "confidence": 0.999907374382019
+    },
+    {
+      "text": "3",
+      "bbox": [
+        301,
+        251,
+        315,
+        267
+      ],
+      "confidence": 0.9999499320983887
+    },
+    {
+      "text": "5",
+      "bbox": [
+        350,
+        251,
+        363,
+        268
+      ],
+      "confidence": 0.9999574422836304
+    },
+    {
+      "text": "2.There was a good balance between information and group activities and discussion.",
+      "bbox": [
+        64,
+        284,
+        616,
+        309
+      ],
+      "confidence": 0.9834864735603333
+    },
+    {
+      "text": "1",
+      "bbox": [
+        255,
+        307,
+        268,
+        322
+      ],
+      "confidence": 0.9998854398727417
+    },
+    {
+      "text": "3",
+      "bbox": [
+        301,
+        306,
+        315,
+        323
+      ],
+      "confidence": 0.9999134540557861
+    },
+    {
+      "text": "5",
+      "bbox": [
+        350,
+        307,
+        362,
+        324
+      ],
+      "confidence": 0.9999901056289673
+    },
+    {
+      "text": "3. I understand the QS requirements which apply to my job.",
+      "bbox": [
+        63,
+        338,
+        452,
+        361
+      ],
+      "confidence": 0.9806612133979797
+    },
+    {
+      "text": "1",
+      "bbox": [
+        254,
+        361,
+        266,
+        377
+      ],
+      "confidence": 0.999126136302948
+    },
+    {
+      "text": "3",
+      "bbox": [
+        300,
+        360,
+        314,
+        377
+      ],
+      "confidence": 0.9999392032623291
+    },
+    {
+      "text": "5",
+      "bbox": [
+        349,
+        361,
+        361,
+        378
+      ],
+      "confidence": 0.9997907280921936
+    },
+    {
+      "text": "4There was a clear discussion of what the FDA \"intent\" of the QS Regulation and the value to",
+      "bbox": [
+        62,
+        392,
+        675,
+        417
+      ],
+      "confidence": 0.9880521297454834
+    },
+    {
+      "text": "the company QS, including procedures and processes.",
+      "bbox": [
+        89,
+        411,
+        435,
+        436
+      ],
+      "confidence": 0.9878756403923035
+    },
+    {
+      "text": "1",
+      "bbox": [
+        257,
+        435,
+        266,
+        449
+      ],
+      "confidence": 0.9950376152992249
+    },
+    {
+      "text": "3",
+      "bbox": [
+        301,
+        433,
+        314,
+        450
+      ],
+      "confidence": 0.9999157190322876
+    },
+    {
+      "text": "5",
+      "bbox": [
+        349,
+        434,
+        362,
+        451
+      ],
+      "confidence": 0.9999834299087524
+    },
+    {
+      "text": "5.Materials were clearly written, informative and a good reference tool during the class and on",
+      "bbox": [
+        63,
+        467,
+        674,
+        488
+      ],
+      "confidence": 0.9809775352478027
+    },
+    {
+      "text": "the job.",
+      "bbox": [
+        87,
+        486,
+        142,
+        507
+      ],
+      "confidence": 0.9238115549087524
+    },
+    {
+      "text": "1",
+      "bbox": [
+        256,
+        506,
+        269,
+        522
+      ],
+      "confidence": 0.9567931294441223
+    },
+    {
+      "text": "3",
+      "bbox": [
+        302,
+        506,
+        316,
+        523
+      ],
+      "confidence": 0.999943733215332
+    },
+    {
+      "text": "5",
+      "bbox": [
+        350,
+        507,
+        363,
+        524
+      ],
+      "confidence": 0.9999027252197266
+    },
+    {
+      "text": "6. Format of class was effective: Good timing, good balance between listening, discussing and",
+      "bbox": [
+        67,
+        541,
+        676,
+        558
+      ],
+      "confidence": 0.978142499923706
+    },
+    {
+      "text": "debriefing.",
+      "bbox": [
+        92,
+        559,
+        164,
+        577
+      ],
+      "confidence": 0.9999112486839294
+    },
+    {
+      "text": "1",
+      "bbox": [
+        257,
+        577,
+        270,
+        593
+      ],
+      "confidence": 0.9999345541000366
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        301,
+        576,
+        338,
+        595
+      ],
+      "confidence": 0.7672151327133179
+    },
+    {
+      "text": "5",
+      "bbox": [
+        349,
+        577,
+        365,
+        595
+      ],
+      "confidence": 0.9999171495437622
+    },
+    {
+      "text": "7. Principles of adult learning: Students need to get involved with the material. The activities",
+      "bbox": [
+        67,
+        612,
+        677,
+        633
+      ],
+      "confidence": 0.9787785410881042
+    },
+    {
+      "text": "in this class were appropriate to the learning outcomes.",
+      "bbox": [
+        92,
+        631,
+        442,
+        651
+      ],
+      "confidence": 0.9794260859489441
+    },
+    {
+      "text": "1",
+      "bbox": [
+        257,
+        651,
+        269,
+        667
+      ],
+      "confidence": 0.999813973903656
+    },
+    {
+      "text": "3",
+      "bbox": [
+        303,
+        651,
+        316,
+        667
+      ],
+      "confidence": 0.9999374151229858
+    },
+    {
+      "text": "5",
+      "bbox": [
+        352,
+        651,
+        364,
+        667
+      ],
+      "confidence": 0.999968409538269
+    },
+    {
+      "text": "8.Having several instructors \"team teach\" this class kept the class interesting and provided a",
+      "bbox": [
+        67,
+        686,
+        677,
+        711
+      ],
+      "confidence": 0.9781669974327087
+    },
+    {
+      "text": "broad base of experience with the QSR.",
+      "bbox": [
+        93,
+        707,
+        346,
+        726
+      ],
+      "confidence": 0.9903169870376587
+    },
+    {
+      "text": "3",
+      "bbox": [
+        303,
+        726,
+        317,
+        743
+      ],
+      "confidence": 0.9999738931655884
+    },
+    {
+      "text": "5",
+      "bbox": [
+        352,
+        726,
+        366,
+        743
+      ],
+      "confidence": 0.9999363422393799
+    },
+    {
+      "text": "2063589716",
+      "bbox": [
+        727,
+        726,
+        754,
+        832
+      ],
+      "confidence": 0.9998992681503296
+    },
+    {
+      "text": "1",
+      "bbox": [
+        258,
+        728,
+        270,
+        743
+      ],
+      "confidence": 0.9997950196266174
+    },
+    {
+      "text": "9The breakdown of material into 4 modules was a good way to organize the content. The",
+      "bbox": [
+        66,
+        759,
+        676,
+        790
+      ],
+      "confidence": 0.9902098774909973
+    },
+    {
+      "text": "duration of the sessions were about right to meet the objectives.",
+      "bbox": [
+        92,
+        782,
+        506,
+        803
+      ],
+      "confidence": 0.9729061722755432
+    },
+    {
+      "text": "1",
+      "bbox": [
+        256,
+        802,
+        272,
+        820
+      ],
+      "confidence": 0.999922513961792
+    },
+    {
+      "text": "3",
+      "bbox": [
+        304,
+        802,
+        318,
+        820
+      ],
+      "confidence": 0.9999092817306519
+    },
+    {
+      "text": "5",
+      "bbox": [
+        354,
+        802,
+        367,
+        820
+      ],
+      "confidence": 0.999984860420227
+    },
+    {
+      "text": "10. Overall rating of this class is:",
+      "bbox": [
+        71,
+        843,
+        286,
+        860
+      ],
+      "confidence": 0.9825801849365234
+    },
+    {
+      "text": "3",
+      "bbox": [
+        306,
+        862,
+        320,
+        879
+      ],
+      "confidence": 0.9999622106552124
+    },
+    {
+      "text": "1",
+      "bbox": [
+        260,
+        864,
+        273,
+        880
+      ],
+      "confidence": 0.9992177486419678
+    },
+    {
+      "text": "5",
+      "bbox": [
+        355,
+        863,
+        368,
+        880
+      ],
+      "confidence": 0.9998971223831177
+    },
+    {
+      "text": "Other comments? What exactly needs improvement?",
+      "bbox": [
+        70,
+        895,
+        416,
+        924
+      ],
+      "confidence": 0.9954872131347656
+    }
+  ],
+  "full_text": "Final Evaluation of Quality System Training Workshop (Entire Program)\nDate:\nTime:\nCircle the number which best represents your comments. Use the following key:\n1-\nNeeds improvement; Did not meet objectives\n3\nOK; Met objectives and expectations\n5\nVery good as is; Effective, interesting session; Will apply learning to my job.\n1. Class information and activities were structured to meet the objectives.\n1\n3\n5\n2.There was a good balance between information and group activities and discussion.\n1\n3\n5\n3. I understand the QS requirements which apply to my job.\n1\n3\n5\n4There was a clear discussion of what the FDA \"intent\" of the QS Regulation and the value to\nthe company QS, including procedures and processes.\n1\n3\n5\n5.Materials were clearly written, informative and a good reference tool during the class and on\nthe job.\n1\n3\n5\n6. Format of class was effective: Good timing, good balance between listening, discussing and\ndebriefing.\n1\n3.\n5\n7. Principles of adult learning: Students need to get involved with the material. The activities\nin this class were appropriate to the learning outcomes.\n1\n3\n5\n8.Having several instructors \"team teach\" this class kept the class interesting and provided a\nbroad base of experience with the QSR.\n3\n5\n2063589716\n1\n9The breakdown of material into 4 modules was a good way to organize the content. The\nduration of the sessions were about right to meet the objectives.\n1\n3\n5\n10. Overall rating of this class is:\n3\n1\n5\nOther comments? What exactly needs improvement?"
+}

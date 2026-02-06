@@ -1,0 +1,1121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0428.png",
+    "image_width": 779,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Discrimination of Cigarette Smoke-Induced Stress Pathways by",
+      "bbox": [
+        27,
+        0,
+        721,
+        44
+      ],
+      "confidence": 0.9846389293670654
+    },
+    {
+      "text": "Inhibitors of the Fenton Reaction",
+      "bbox": [
+        43,
+        29,
+        391,
+        63
+      ],
+      "confidence": 0.9759169816970825
+    },
+    {
+      "text": "Introduction",
+      "bbox": [
+        25,
+        81,
+        113,
+        104
+      ],
+      "confidence": 0.998558521270752
+    },
+    {
+      "text": "Methods",
+      "bbox": [
+        421,
+        87,
+        485,
+        107
+      ],
+      "confidence": 0.9999341368675232
+    },
+    {
+      "text": "gonerated from the University of Kentucky standard reference cigarette 2R1",
+      "bbox": [
+        420,
+        121,
+        721,
+        140
+      ],
+      "confidence": 0.96077561378479
+    },
+    {
+      "text": "through 18 ml PBS-Duibecco. Swiss 3T3 fibroblests or V7g hamster embryo",
+      "bbox": [
+        422,
+        137,
+        720,
+        151
+      ],
+      "confidence": 0.9701571464538574
+    },
+    {
+      "text": "lung célis were kept under standard condiions and exposed to smoke-bubbled",
+      "bbox": [
+        420,
+        151,
+        731,
+        166
+      ],
+      "confidence": 0.9637005925178528
+    },
+    {
+      "text": "PBS in the absence of serum. DNA suand breaks were evaluated using the",
+      "bbox": [
+        420,
+        165,
+        716,
+        181
+      ],
+      "confidence": 0.9845266342163086
+    },
+    {
+      "text": "•a detalled mechanism for CS-dependent DNA damage, and",
+      "bbox": [
+        25,
+        176,
+        279,
+        195
+      ],
+      "confidence": 0.9822520613670349
+    },
+    {
+      "text": "alkaline elution technique (3). HO gene expression was monitored fotlowing",
+      "bbox": [
+        421,
+        180,
+        715,
+        196
+      ],
+      "confidence": 0.9735482931137085
+    },
+    {
+      "text": "whether CS-induced stress gone expression is also caused by hydraxyl radicals.",
+      "bbox": [
+        24,
+        189,
+        357,
+        209
+      ],
+      "confidence": 0.9596282839775085
+    },
+    {
+      "text": "standard Northern blotting protocels.",
+      "bbox": [
+        421,
+        196,
+        566,
+        209
+      ],
+      "confidence": 0.9730563759803772
+    },
+    {
+      "text": "Results and Discussion",
+      "bbox": [
+        27,
+        216,
+        188,
+        236
+      ],
+      "confidence": 0.9992213845252991
+    },
+    {
+      "text": "1. CS-Dependent DNA Damage is Related to Reactive Oxygen Species Produced by the Fenton Reaction",
+      "bbox": [
+        26,
+        239,
+        579,
+        260
+      ],
+      "confidence": 0.9780526161193848
+    },
+    {
+      "text": "Exposure of eukaryotic cells to smoke-bubbled PBS for",
+      "bbox": [
+        28,
+        257,
+        253,
+        273
+      ],
+      "confidence": 0.973301351070404
+    },
+    {
+      "text": "The results described in Table 1 together with published",
+      "bbox": [
+        268,
+        260,
+        487,
+        273
+      ],
+      "confidence": 0.9689012169837952
+    },
+    {
+      "text": "According to these data, the following scenario",
+      "bbox": [
+        522,
+        259,
+        704,
+        275
+      ],
+      "confidence": 0.9825120568275452
+    },
+    {
+      "text": "1 hour ieads to a concentration-dependent increase in",
+      "bbox": [
+        28,
+        271,
+        249,
+        287
+      ],
+      "confidence": 0.9925276041030884
+    },
+    {
+      "text": "data (1) indicate that the gonotaxic acivity of CS trapped in",
+      "bbox": [
+        268,
+        274,
+        499,
+        287
+      ],
+      "confidence": 0.9644124507904053
+    },
+    {
+      "text": "for the formation of DNA strand breaks in smoke-",
+      "bbox": [
+        522,
+        273,
+        713,
+        289
+      ],
+      "confidence": 0.975639820098877
+    },
+    {
+      "text": "DNA strand breaks (Pigure 1).",
+      "bbox": [
+        28,
+        285,
+        155,
+        301
+      ],
+      "confidence": 0.9515148401260376
+    },
+    {
+      "text": "aqueous solution is mainly based on the formalion of hydraxyl",
+      "bbox": [
+        266,
+        287,
+        509,
+        302
+      ],
+      "confidence": 0.9696678519248962
+    },
+    {
+      "text": "bubbled PBS-exposed ceils is suggested (Figure 2):",
+      "bbox": [
+        522,
+        287,
+        724,
+        305
+      ],
+      "confidence": 0.9759047031402588
+    },
+    {
+      "text": "radicals - produced by the Fenton reaction:",
+      "bbox": [
+        268,
+        303,
+        435,
+        314
+      ],
+      "confidence": 0.9815981388092041
+    },
+    {
+      "text": "O + H,O;",
+      "bbox": [
+        277,
+        323,
+        326,
+        338
+      ],
+      "confidence": 0.7851636409759521
+    },
+    {
+      "text": "O, + OH+ CHr (Fentan reaction)",
+      "bbox": [
+        359,
+        323,
+        492,
+        337
+      ],
+      "confidence": 0.9356364011764526
+    },
+    {
+      "text": "Fligure 1:",
+      "bbox": [
+        28,
+        349,
+        73,
+        363
+      ],
+      "confidence": 0.9417306780815125
+    },
+    {
+      "text": "Table 1:",
+      "bbox": [
+        264,
+        346,
+        306,
+        364
+      ],
+      "confidence": 0.9670317769050598
+    },
+    {
+      "text": "Figure 2.",
+      "bbox": [
+        523,
+        351,
+        562,
+        365
+      ],
+      "confidence": 0.941802978515625
+    },
+    {
+      "text": "Alkaline DNA Elution'of V79 Ceits Exposed to Increasing",
+      "bbox": [
+        28,
+        361,
+        258,
+        374
+      ],
+      "confidence": 0.9544545412063599
+    },
+    {
+      "text": "Effects of Scavenger on DNA Strand Breaks Caused by",
+      "bbox": [
+        265,
+        359,
+        497,
+        376
+      ],
+      "confidence": 0.9728143811225891
+    },
+    {
+      "text": "Prepesed Reaction Sequence Leading to the",
+      "bbox": [
+        522,
+        362,
+        697,
+        377
+      ],
+      "confidence": 0.9806320667266846
+    },
+    {
+      "text": "Doses of Smoke-Bubbled PGS",
+      "bbox": [
+        29,
+        373,
+        159,
+        386
+      ],
+      "confidence": 0.9622613191604614
+    },
+    {
+      "text": "Assay System",
+      "bbox": [
+        265,
+        381,
+        329,
+        397
+      ],
+      "confidence": 0.998090922832489
+    },
+    {
+      "text": "Smoke-Bubbled PBS (O.03 p/ml) in a Cell or Cell-Free",
+      "bbox": [
+        266,
+        370,
+        491,
+        386
+      ],
+      "confidence": 0.9705252051353455
+    },
+    {
+      "text": "Formation of CS-Dependent DNA Strand Breaks",
+      "bbox": [
+        523,
+        374,
+        710,
+        388
+      ],
+      "confidence": 0.9875335693359375
+    },
+    {
+      "text": "co",
+      "bbox": [
+        54,
+        405,
+        65,
+        414
+      ],
+      "confidence": 0.6963214874267578
+    },
+    {
+      "text": "Treatment",
+      "bbox": [
+        263,
+        411,
+        306,
+        428
+      ],
+      "confidence": 0.9747601747512817
+    },
+    {
+      "text": "Target Assay",
+      "bbox": [
+        347,
+        412,
+        403,
+        429
+      ],
+      "confidence": 0.9773775935173035
+    },
+    {
+      "text": "0,",
+      "bbox": [
+        561,
+        409,
+        571,
+        419
+      ],
+      "confidence": 0.8162616491317749
+    },
+    {
+      "text": "80-",
+      "bbox": [
+        54,
+        419,
+        69,
+        431
+      ],
+      "confidence": 0.7734990119934082
+    },
+    {
+      "text": "% Inhibition of",
+      "bbox": [
+        455,
+        414,
+        512,
+        430
+      ],
+      "confidence": 0.9489428400993347
+    },
+    {
+      "text": "DNA Strand",
+      "bbox": [
+        456,
+        422,
+        501,
+        439
+      ],
+      "confidence": 0.9416292309761047
+    },
+    {
+      "text": "-",
+      "bbox": [
+        54,
+        441,
+        69,
+        454
+      ],
+      "confidence": 0.9233346581459045
+    },
+    {
+      "text": "(√79)",
+      "bbox": [
+        375,
+        441,
+        399,
+        457
+      ],
+      "confidence": 0.6487252116203308
+    },
+    {
+      "text": "Cells",
+      "bbox": [
+        376,
+        435,
+        399,
+        448
+      ],
+      "confidence": 0.9974014163017273
+    },
+    {
+      "text": "Cet-free",
+      "bbox": [
+        403,
+        433,
+        443,
+        450
+      ],
+      "confidence": 0.7211949825286865
+    },
+    {
+      "text": "Deaks",
+      "bbox": [
+        455,
+        432,
+        485,
+        447
+      ],
+      "confidence": 0.7718485593795776
+    },
+    {
+      "text": "(Naked DNA)",
+      "bbox": [
+        406,
+        444,
+        454,
+        455
+      ],
+      "confidence": 0.9631521701812744
+    },
+    {
+      "text": "4",
+      "bbox": [
+        54,
+        469,
+        69,
+        481
+      ],
+      "confidence": 0.9456213712692261
+    },
+    {
+      "text": "SCD (900 Um)",
+      "bbox": [
+        266,
+        458,
+        321,
+        469
+      ],
+      "confidence": 0.9201870560646057
+    },
+    {
+      "text": "catalase (40 U/ml)",
+      "bbox": [
+        267,
+        472,
+        328,
+        483
+      ],
+      "confidence": 0.9311621189117432
+    },
+    {
+      "text": "vo",
+      "bbox": [
+        348,
+        458,
+        365,
+        471
+      ],
+      "confidence": 0.859353244304657
+    },
+    {
+      "text": "c0.0",
+      "bbox": [
+        452,
+        469,
+        476,
+        486
+      ],
+      "confidence": 0.9189938902854919
+    },
+    {
+      "text": "o,}$",
+      "bbox": [
+        560,
+        477,
+        574,
+        490
+      ],
+      "confidence": 0.6228218078613281
+    },
+    {
+      "text": "e-ghenanthneline (OPA) Fah-9-",
+      "bbox": [
+        265,
+        497,
+        373,
+        512
+      ],
+      "confidence": 0.7610821723937988
+    },
+    {
+      "text": "01.0",
+      "bbox": [
+        454,
+        488,
+        475,
+        500
+      ],
+      "confidence": 0.7605215311050415
+    },
+    {
+      "text": "95.5",
+      "bbox": [
+        454,
+        499,
+        475,
+        515
+      ],
+      "confidence": 0.907950222492218
+    },
+    {
+      "text": "Y",
+      "bbox": [
+        658,
+        498,
+        680,
+        509
+      ],
+      "confidence": 0.6168115139007568
+    },
+    {
+      "text": "ONA",
+      "bbox": [
+        704,
+        491,
+        718,
+        499
+      ],
+      "confidence": 0.9574602246284485
+    },
+    {
+      "text": "(0.1 mlil)",
+      "bbox": [
+        266,
+        508,
+        299,
+        519
+      ],
+      "confidence": 0.81431645154953
+    },
+    {
+      "text": "(,ie",
+      "bbox": [
+        522,
+        515,
+        553,
+        526
+      ],
+      "confidence": 0.6284601092338562
+    },
+    {
+      "text": "(800)",
+      "bbox": [
+        545,
+        506,
+        565,
+        517
+      ],
+      "confidence": 0.7192049026489258
+    },
+    {
+      "text": "20-",
+      "bbox": [
+        55,
+        519,
+        70,
+        529
+      ],
+      "confidence": 0.8939812183380127
+    },
+    {
+      "text": "EDTA (20 mM)",
+      "bbox": [
+        265,
+        519,
+        319,
+        535
+      ],
+      "confidence": 0.9759869575500488
+    },
+    {
+      "text": "o",
+      "bbox": [
+        455,
+        524,
+        465,
+        534
+      ],
+      "confidence": 0.6522175669670105
+    },
+    {
+      "text": "JEOTA|",
+      "bbox": [
+        577,
+        518,
+        605,
+        529
+      ],
+      "confidence": 0.7337836623191833
+    },
+    {
+      "text": "[DETAPAC]-",
+      "bbox": [
+        577,
+        531,
+        613,
+        541
+      ],
+      "confidence": 0.903300940990448
+    },
+    {
+      "text": "Fo1",
+      "bbox": [
+        347,
+        546,
+        368,
+        562
+      ],
+      "confidence": 0.6745321154594421
+    },
+    {
+      "text": "78.4",
+      "bbox": [
+        454,
+        537,
+        475,
+        549
+      ],
+      "confidence": 0.8635501861572266
+    },
+    {
+      "text": "Fe",
+      "bbox": [
+        663,
+        535,
+        676,
+        542
+      ],
+      "confidence": 0.8156890869140625
+    },
+    {
+      "text": "DETAPAC (1 =M)",
+      "bbox": [
+        267,
+        549,
+        328,
+        560
+      ],
+      "confidence": 0.9708346724510193
+    },
+    {
+      "text": "63.5",
+      "bbox": [
+        454,
+        551,
+        475,
+        564
+      ],
+      "confidence": 0.9555695056915283
+    },
+    {
+      "text": "gas phaso",
+      "bbox": [
+        522,
+        557,
+        552,
+        568
+      ],
+      "confidence": 0.7451291680335999
+    },
+    {
+      "text": "[4/(a9]",
+      "bbox": [
+        585,
+        560,
+        615,
+        572
+      ],
+      "confidence": 0.677116334438324
+    },
+    {
+      "text": "a",
+      "bbox": [
+        58,
+        569,
+        67,
+        577
+      ],
+      "confidence": 0.8562923669815063
+    },
+    {
+      "text": "Na-Benzoate (10 mM)",
+      "bbox": [
+        267,
+        565,
+        341,
+        576
+      ],
+      "confidence": 0.9406383037567139
+    },
+    {
+      "text": "HO.",
+      "bbox": [
+        347,
+        565,
+        364,
+        577
+      ],
+      "confidence": 0.9553399085998535
+    },
+    {
+      "text": "100",
+      "bbox": [
+        455,
+        567,
+        473,
+        579
+      ],
+      "confidence": 0.9985175132751465
+    },
+    {
+      "text": "componenis (t)",
+      "bbox": [
+        522,
+        565,
+        564,
+        575
+      ],
+      "confidence": 0.8701395392417908
+    },
+    {
+      "text": "20PA)",
+      "bbox": [
+        577,
+        577,
+        598,
+        588
+      ],
+      "confidence": 0.6376024484634399
+    },
+    {
+      "text": "JOPA)",
+      "bbox": [
+        650,
+        566,
+        666,
+        573
+      ],
+      "confidence": 0.8428098559379578
+    },
+    {
+      "text": "BLTION TME I",
+      "bbox": [
+        178,
+        592,
+        224,
+        603
+      ],
+      "confidence": 0.8453091979026794
+    },
+    {
+      "text": "2. CS-Dependent Stress Gene Response is Not Related to Reactive Oxygen Species Produced by the Fenton Reaction",
+      "bbox": [
+        27,
+        606,
+        647,
+        628
+      ],
+      "confidence": 0.9880142211914062
+    },
+    {
+      "text": "leslaicenkurar deucleard feaice",
+      "bbox": [
+        645,
+        599,
+        710,
+        606
+      ],
+      "confidence": 0.7678218483924866
+    },
+    {
+      "text": "Aqueous fractions of CS Induce HO expression",
+      "bbox": [
+        29,
+        632,
+        219,
+        645
+      ],
+      "confidence": 0.9904561638832092
+    },
+    {
+      "text": "Hydraxyt radicals generated by the Fenton reaction have been shown to induce stress genes induding HO (2).",
+      "bbox": [
+        264,
+        631,
+        688,
+        649
+      ],
+      "confidence": 0.9835669994354248
+    },
+    {
+      "text": "in exposed 3T3 celis (4):",
+      "bbox": [
+        29,
+        646,
+        134,
+        659
+      ],
+      "confidence": 0.9421961903572083
+    },
+    {
+      "text": "However, neither catalase nor OPA oxhibit any intibitory effect on HO expression In smoke-bubbled PBS-treated",
+      "bbox": [
+        263,
+        645,
+        699,
+        663
+      ],
+      "confidence": 0.9744427800178528
+    },
+    {
+      "text": "3T3 fibroblasts (Figure 4), although both scavengers are also potent inhibitors of CS-dependent DNA strand breaks",
+      "bbox": [
+        264,
+        659,
+        707,
+        677
+      ],
+      "confidence": 0.9876710772514343
+    },
+    {
+      "text": "in these cells (Figure 5).",
+      "bbox": [
+        264,
+        675,
+        359,
+        689
+      ],
+      "confidence": 0.9723598957061768
+    },
+    {
+      "text": "Figure 3:",
+      "bbox": [
+        28,
+        695,
+        71,
+        709
+      ],
+      "confidence": 0.9942993521690369
+    },
+    {
+      "text": "Figure 4:",
+      "bbox": [
+        265,
+        697,
+        301,
+        708
+      ],
+      "confidence": 0.9843018054962158
+    },
+    {
+      "text": "Kinetics of HO Expression in",
+      "bbox": [
+        28,
+        707,
+        148,
+        720
+      ],
+      "confidence": 0.9937837719917297
+    },
+    {
+      "text": "Neither Catalase (A) nor OPA (B) Inhibit",
+      "bbox": [
+        264,
+        708,
+        420,
+        721
+      ],
+      "confidence": 0.9762566685676575
+    },
+    {
+      "text": "Figure 5:",
+      "bbox": [
+        501,
+        699,
+        539,
+        710
+      ],
+      "confidence": 0.9968328475952148
+    },
+    {
+      "text": "Catalase and OPA are Potent Inhibitors of",
+      "bbox": [
+        501,
+        709,
+        667,
+        723
+      ],
+      "confidence": 0.9727141261100769
+    },
+    {
+      "text": "3T3 Cells Exposed to",
+      "bbox": [
+        27,
+        717,
+        120,
+        730
+      ],
+      "confidence": 0.9873703718185425
+    },
+    {
+      "text": "HO Expression in 3T3 Celts Exposed to",
+      "bbox": [
+        263,
+        718,
+        418,
+        733
+      ],
+      "confidence": 0.9814082980155945
+    },
+    {
+      "text": "CS-Dependent DNA Strand Breaks In 3T3 Cells",
+      "bbox": [
+        501,
+        722,
+        689,
+        734
+      ],
+      "confidence": 0.992559015750885
+    },
+    {
+      "text": "0.03 p/ml Smoke-Bubbled PBS",
+      "bbox": [
+        27,
+        730,
+        157,
+        743
+      ],
+      "confidence": 0.9956071376800537
+    },
+    {
+      "text": "0.03 p/ml Smoke-Bubbled PBS",
+      "bbox": [
+        265,
+        732,
+        384,
+        742
+      ],
+      "confidence": 0.98857182264328
+    },
+    {
+      "text": "9322299",
+      "bbox": [
+        39,
+        805,
+        108,
+        822
+      ],
+      "confidence": 0.6367212533950806
+    },
+    {
+      "text": "Conclusions",
+      "bbox": [
+        22,
+        862,
+        110,
+        881
+      ],
+      "confidence": 0.9982842803001404
+    },
+    {
+      "text": "DNA strand breaks induced by CS are mainy atributable to reactive oxygen species generated by the Fenton reactien, In contrast, CS-induced stress gene response Is not",
+      "bbox": [
+        22,
+        884,
+        702,
+        905
+      ],
+      "confidence": 0.9311140775680542
+    },
+    {
+      "text": "affetedy inhibitrsof the Fenton reaction Therefore s condudedhat trigers  east t stres pthways in voone Fenton-elatedand anothr non-Fentonlat",
+      "bbox": [
+        22,
+        899,
+        714,
+        920
+      ],
+      "confidence": 0.681452751159668
+    },
+    {
+      "text": "References",
+      "bbox": [
+        24,
+        927,
+        105,
+        942
+      ],
+      "confidence": 0.999964714050293
+    },
+    {
+      "text": "(1) Nakayama ot a/., 1965, Naturo, 314, 462",
+      "bbox": [
+        24,
+        944,
+        201,
+        957
+      ],
+      "confidence": 0.9550742506980896
+    },
+    {
+      "text": "(2) Keyse and Tyrtel, 1989, PNAS, 6, 99",
+      "bbox": [
+        231,
+        946,
+        388,
+        956
+      ],
+      "confidence": 0.9747133255004883
+    },
+    {
+      "text": "(3) Kohn et al. in: Friedberg and Hanowalt (Eds.): CNA repair: A labcratory manual of research procedures, New Yorkc Marcel Dekker, 1981, p. 379",
+      "bbox": [
+        21,
+        956,
+        599,
+        976
+      ],
+      "confidence": 0.9667952656745911
+    },
+    {
+      "text": "(4) Muiler and Gebel, 1904, Carcinogenesis 15, 67",
+      "bbox": [
+        22,
+        971,
+        226,
+        986
+      ],
+      "confidence": 0.9482313394546509
+    }
+  ],
+  "full_text": "Discrimination of Cigarette Smoke-Induced Stress Pathways by\nInhibitors of the Fenton Reaction\nIntroduction\nMethods\ngonerated from the University of Kentucky standard reference cigarette 2R1\nthrough 18 ml PBS-Duibecco. Swiss 3T3 fibroblests or V7g hamster embryo\nlung célis were kept under standard condiions and exposed to smoke-bubbled\nPBS in the absence of serum. DNA suand breaks were evaluated using the\n•a detalled mechanism for CS-dependent DNA damage, and\nalkaline elution technique (3). HO gene expression was monitored fotlowing\nwhether CS-induced stress gone expression is also caused by hydraxyl radicals.\nstandard Northern blotting protocels.\nResults and Discussion\n1. CS-Dependent DNA Damage is Related to Reactive Oxygen Species Produced by the Fenton Reaction\nExposure of eukaryotic cells to smoke-bubbled PBS for\nThe results described in Table 1 together with published\nAccording to these data, the following scenario\n1 hour ieads to a concentration-dependent increase in\ndata (1) indicate that the gonotaxic acivity of CS trapped in\nfor the formation of DNA strand breaks in smoke-\nDNA strand breaks (Pigure 1).\naqueous solution is mainly based on the formalion of hydraxyl\nbubbled PBS-exposed ceils is suggested (Figure 2):\nradicals - produced by the Fenton reaction:\nO + H,O;\nO, + OH+ CHr (Fentan reaction)\nFligure 1:\nTable 1:\nFigure 2.\nAlkaline DNA Elution'of V79 Ceits Exposed to Increasing\nEffects of Scavenger on DNA Strand Breaks Caused by\nPrepesed Reaction Sequence Leading to the\nDoses of Smoke-Bubbled PGS\nAssay System\nSmoke-Bubbled PBS (O.03 p/ml) in a Cell or Cell-Free\nFormation of CS-Dependent DNA Strand Breaks\nco\nTreatment\nTarget Assay\n0,\n80-\n% Inhibition of\nDNA Strand\n-\n(√79)\nCells\nCet-free\nDeaks\n(Naked DNA)\n4\nSCD (900 Um)\ncatalase (40 U/ml)\nvo\nc0.0\no,}$\ne-ghenanthneline (OPA) Fah-9-\n01.0\n95.5\nY\nONA\n(0.1 mlil)\n(,ie\n(800)\n20-\nEDTA (20 mM)\no\nJEOTA|\n[DETAPAC]-\nFo1\n78.4\nFe\nDETAPAC (1 =M)\n63.5\ngas phaso\n[4/(a9]\na\nNa-Benzoate (10 mM)\nHO.\n100\ncomponenis (t)\n20PA)\nJOPA)\nBLTION TME I\n2. CS-Dependent Stress Gene Response is Not Related to Reactive Oxygen Species Produced by the Fenton Reaction\nleslaicenkurar deucleard feaice\nAqueous fractions of CS Induce HO expression\nHydraxyt radicals generated by the Fenton reaction have been shown to induce stress genes induding HO (2).\nin exposed 3T3 celis (4):\nHowever, neither catalase nor OPA oxhibit any intibitory effect on HO expression In smoke-bubbled PBS-treated\n3T3 fibroblasts (Figure 4), although both scavengers are also potent inhibitors of CS-dependent DNA strand breaks\nin these cells (Figure 5).\nFigure 3:\nFigure 4:\nKinetics of HO Expression in\nNeither Catalase (A) nor OPA (B) Inhibit\nFigure 5:\nCatalase and OPA are Potent Inhibitors of\n3T3 Cells Exposed to\nHO Expression in 3T3 Celts Exposed to\nCS-Dependent DNA Strand Breaks In 3T3 Cells\n0.03 p/ml Smoke-Bubbled PBS\n0.03 p/ml Smoke-Bubbled PBS\n9322299\nConclusions\nDNA strand breaks induced by CS are mainy atributable to reactive oxygen species generated by the Fenton reactien, In contrast, CS-induced stress gene response Is not\naffetedy inhibitrsof the Fenton reaction Therefore s condudedhat trigers  east t stres pthways in voone Fenton-elatedand anothr non-Fentonlat\nReferences\n(1) Nakayama ot a/., 1965, Naturo, 314, 462\n(2) Keyse and Tyrtel, 1989, PNAS, 6, 99\n(3) Kohn et al. in: Friedberg and Hanowalt (Eds.): CNA repair: A labcratory manual of research procedures, New Yorkc Marcel Dekker, 1981, p. 379\n(4) Muiler and Gebel, 1904, Carcinogenesis 15, 67"
+}

@@ -1,0 +1,751 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0527.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "002",
+      "bbox": [
+        625,
+        22,
+        670,
+        44
+      ],
+      "confidence": 0.9727305769920349
+    },
+    {
+      "text": "61 3 385199",
+      "bbox": [
+        173,
+        35,
+        269,
+        53
+      ],
+      "confidence": 0.8700656890869141
+    },
+    {
+      "text": "22/02 '98 13:40",
+      "bbox": [
+        42,
+        38,
+        150,
+        59
+      ],
+      "confidence": 0.8999212980270386
+    },
+    {
+      "text": "P.2/2",
+      "bbox": [
+        589,
+        40,
+        633,
+        54
+      ],
+      "confidence": 0.9510856866836548
+    },
+    {
+      "text": "17104",
+      "bbox": [
+        146,
+        54,
+        188,
+        69
+      ],
+      "confidence": 0.8097050786018372
+    },
+    {
+      "text": "Information box",
+      "bbox": [
+        128,
+        68,
+        237,
+        89
+      ],
+      "confidence": 0.9191104173660278
+    },
+    {
+      "text": "Section / Sluge 3/95-Worid News",
+      "bbox": [
+        126,
+        97,
+        295,
+        116
+      ],
+      "confidence": 0.8849157691001892
+    },
+    {
+      "text": "Writer /Editor /Designon Devid/Coeris",
+      "bbox": [
+        124,
+        113,
+        325,
+        132
+      ],
+      "confidence": 0.9022918939590454
+    },
+    {
+      "text": "Apprewelss Aus: Baty Cho, Dovd Davios; Swdse R. Collas, Nloelas Oppwmaro",
+      "bbox": [
+        123,
+        141,
+        462,
+        164
+      ],
+      "confidence": 0.8270634412765503
+    },
+    {
+      "text": "Pages 1",
+      "bbox": [
+        125,
+        133,
+        171,
+        147
+      ],
+      "confidence": 0.8812243342399597
+    },
+    {
+      "text": "To Be Rarlewed By (logal]j: Aus: Kan Schoenbolt; Swls: Ned Moy",
+      "bbox": [
+        123,
+        157,
+        424,
+        180
+      ],
+      "confidence": 0.8376697897911072
+    },
+    {
+      "text": "t / Noles:",
+      "bbox": [
+        124,
+        178,
+        189,
+        193
+      ],
+      "confidence": 0.8398928642272949
+    },
+    {
+      "text": "Proof: 1",
+      "bbox": [
+        124,
+        193,
+        172,
+        208
+      ],
+      "confidence": 0.922170877456665
+    },
+    {
+      "text": "Datel",
+      "bbox": [
+        213,
+        192,
+        246,
+        206
+      ],
+      "confidence": 0.8621227145195007
+    },
+    {
+      "text": "WORLD NEWS",
+      "bbox": [
+        212,
+        255,
+        336,
+        278
+      ],
+      "confidence": 0.9468551874160767
+    },
+    {
+      "text": "MELBoURNE",
+      "bbox": [
+        199,
+        293,
+        309,
+        317
+      ],
+      "confidence": 0.7175784111022949
+    },
+    {
+      "text": "Philip Marris (Australia)",
+      "bbox": [
+        198,
+        310,
+        346,
+        330
+      ],
+      "confidence": 0.9215476512908936
+    },
+    {
+      "text": "Led. will continue the con-",
+      "bbox": [
+        198,
+        322,
+        348,
+        344
+      ],
+      "confidence": 0.8825123310089111
+    },
+    {
+      "text": "stirutional challenge is be-",
+      "bbox": [
+        198,
+        335,
+        348,
+        358
+      ],
+      "confidence": 0.9666681885719299
+    },
+    {
+      "text": "gan inty to the federal",
+      "bbox": [
+        198,
+        349,
+        348,
+        371
+      ],
+      "confidence": 0.9324440956115723
+    },
+    {
+      "text": "zovernment's Tobacce Pro.",
+      "bbox": [
+        199,
+        362,
+        348,
+        384
+      ],
+      "confidence": 0.8147598505020142
+    },
+    {
+      "text": "CAdvertns",
+      "bbox": [
+        377,
+        355,
+        465,
+        378
+      ],
+      "confidence": 0.6938990950584412
+    },
+    {
+      "text": "Afblion Act, despite amend-",
+      "bbox": [
+        199,
+        375,
+        349,
+        396
+      ],
+      "confidence": 0.8945828676223755
+    },
+    {
+      "text": "ments recently teeked on",
+      "bbox": [
+        198,
+        388,
+        350,
+        409
+      ],
+      "confidence": 0.9279380440711975
+    },
+    {
+      "text": "the legisiation. The set,",
+      "bbox": [
+        200,
+        401,
+        349,
+        421
+      ],
+      "confidence": 0.899243175983429
+    },
+    {
+      "text": "passed by Parllament in",
+      "bbox": [
+        200,
+        412,
+        350,
+        436
+      ],
+      "confidence": 0.9162400960922241
+    },
+    {
+      "text": "1992, bans tobacco advortis-",
+      "bbox": [
+        202,
+        426,
+        349,
+        446
+      ],
+      "confidence": 0.9131025075912476
+    },
+    {
+      "text": "ing and events spensorship.",
+      "bbox": [
+        201,
+        437,
+        350,
+        460
+      ],
+      "confidence": 0.9500694274902344
+    },
+    {
+      "text": "But the compary maintains",
+      "bbox": [
+        201,
+        449,
+        351,
+        472
+      ],
+      "confidence": 0.9311145544052124
+    },
+    {
+      "text": "2040984357",
+      "bbox": [
+        597,
+        443,
+        631,
+        575
+      ],
+      "confidence": 0.9922550320625305
+    },
+    {
+      "text": "the provlstons are s sweep-",
+      "bbox": [
+        202,
+        462,
+        351,
+        485
+      ],
+      "confidence": 0.7767940163612366
+    },
+    {
+      "text": "ing is prahibits the vobeeco",
+      "bbox": [
+        202,
+        475,
+        352,
+        497
+      ],
+      "confidence": 0.8378099799156189
+    },
+    {
+      "text": "industry fromt publiching or",
+      "bbox": [
+        203,
+        487,
+        353,
+        509
+      ],
+      "confidence": 0.8163092732429504
+    },
+    {
+      "text": "broadeasting a wide range.",
+      "bbox": [
+        204,
+        501,
+        354,
+        521
+      ],
+      "confidence": 0.9301118850708008
+    },
+    {
+      "text": "o",
+      "bbox": [
+        387,
+        497,
+        409,
+        512
+      ],
+      "confidence": 0.7918663620948792
+    },
+    {
+      "text": "important",
+      "bbox": [
+        420,
+        493,
+        511,
+        514
+      ],
+      "confidence": 0.6995671391487122
+    },
+    {
+      "text": "of comumumicatione The",
+      "bbox": [
+        205,
+        513,
+        354,
+        533
+      ],
+      "confidence": 0.8741750121116638
+    },
+    {
+      "text": "politcal, somal",
+      "bbox": [
+        384,
+        509,
+        524,
+        533
+      ],
+      "confidence": 0.8491545915603638
+    },
+    {
+      "text": "Senate",
+      "bbox": [
+        207,
+        530,
+        248,
+        544
+      ],
+      "confidence": 0.9927703738212585
+    },
+    {
+      "text": "rocendly passed",
+      "bbox": [
+        254,
+        524,
+        354,
+        546
+      ],
+      "confidence": 0.8272249102592468
+    },
+    {
+      "text": "comierscal",
+      "bbox": [
+        425,
+        530,
+        523,
+        550
+      ],
+      "confidence": 0.6710876226425171
+    },
+    {
+      "text": "amendments softaning some",
+      "bbox": [
+        205,
+        536,
+        354,
+        559
+      ],
+      "confidence": 0.8306600451469421
+    },
+    {
+      "text": "ard.",
+      "bbox": [
+        388,
+        533,
+        416,
+        549
+      ],
+      "confidence": 0.768487811088562
+    },
+    {
+      "text": "of the act's provisions,",
+      "bbox": [
+        206,
+        550,
+        354,
+        570
+      ],
+      "confidence": 0.9789527058601379
+    },
+    {
+      "text": "which the House has yet to",
+      "bbox": [
+        206,
+        562,
+        355,
+        582
+      ],
+      "confidence": 0.9921519160270691
+    },
+    {
+      "text": "act on. But David Davies,",
+      "bbox": [
+        208,
+        575,
+        354,
+        593
+      ],
+      "confidence": 0.9681985378265381
+    },
+    {
+      "text": "PM's vice presideng for cor-",
+      "bbox": [
+        207,
+        586,
+        355,
+        605
+      ],
+      "confidence": 0.9415078163146973
+    },
+    {
+      "text": "porate affais, stys, \"Philip",
+      "bbox": [
+        207,
+        598,
+        356,
+        619
+      ],
+      "confidence": 0.935208261013031
+    },
+    {
+      "text": "Morris' challenge is about",
+      "bbox": [
+        208,
+        611,
+        356,
+        630
+      ],
+      "confidence": 0.9658003449440002
+    },
+    {
+      "text": "dery ary group of Ant-",
+      "bbox": [
+        210,
+        637,
+        357,
+        656
+      ],
+      "confidence": 0.8519318103790283
+    },
+    {
+      "text": "the powet of govemment to",
+      "bbox": [
+        211,
+        625,
+        355,
+        644
+      ],
+      "confidence": 0.9394654035568237
+    },
+    {
+      "text": "tralians their right to com-",
+      "bbox": [
+        211,
+        650,
+        357,
+        666
+      ],
+      "confidence": 0.9683327674865723
+    },
+    {
+      "text": "municate",
+      "bbox": [
+        212,
+        664,
+        266,
+        678
+      ],
+      "confidence": 0.9783692359924316
+    },
+    {
+      "text": "on important",
+      "bbox": [
+        266,
+        663,
+        357,
+        677
+      ],
+      "confidence": 0.9877243638038635
+    },
+    {
+      "text": "sccial, publie and commer-",
+      "bbox": [
+        211,
+        673,
+        358,
+        692
+      ],
+      "confidence": 0.924625039100647
+    },
+    {
+      "text": "ctal isoues. in the case of the",
+      "bbox": [
+        214,
+        689,
+        357,
+        703
+      ],
+      "confidence": 0.9418026804924011
+    },
+    {
+      "text": "tohacco industry, this right",
+      "bbox": [
+        214,
+        701,
+        357,
+        715
+      ],
+      "confidence": 0.9864110350608826
+    },
+    {
+      "text": "contirues to be substandially",
+      "bbox": [
+        214,
+        713,
+        357,
+        727
+      ],
+      "confidence": 0.9246382117271423
+    },
+    {
+      "text": "denied.\"",
+      "bbox": [
+        214,
+        725,
+        258,
+        740
+      ],
+      "confidence": 0.9328556656837463
+    },
+    {
+      "text": "ZURICH",
+      "bbox": [
+        214,
+        752,
+        281,
+        770
+      ],
+      "confidence": 0.916155993938446
+    },
+    {
+      "text": "A Mika-sponsored train be-",
+      "bbox": [
+        214,
+        768,
+        358,
+        783
+      ],
+      "confidence": 0.9046335816383362
+    },
+    {
+      "text": "gan a two-year trek around",
+      "bbox": [
+        215,
+        782,
+        359,
+        795
+      ],
+      "confidence": 0.9904935359954834
+    },
+    {
+      "text": "Swilzeriand this month The",
+      "bbox": [
+        214,
+        790,
+        359,
+        809
+      ],
+      "confidence": 0.8968937993049622
+    },
+    {
+      "text": "tbath highlight the brand",
+      "bbox": [
+        215,
+        816,
+        359,
+        832
+      ],
+      "confidence": 0.9415512681007385
+    },
+    {
+      "text": "promotional efflort is designed",
+      "bbox": [
+        216,
+        805,
+        358,
+        820
+      ],
+      "confidence": 0.9463528394699097
+    },
+    {
+      "text": "and is spensorstip of the",
+      "bbox": [
+        216,
+        829,
+        359,
+        843
+      ],
+      "confidence": 0.9168208837509155
+    },
+    {
+      "text": "2040984357,A",
+      "bbox": [
+        636,
+        819,
+        660,
+        927
+      ],
+      "confidence": 0.9994105696678162
+    },
+    {
+      "text": "World Bobsled Champi-",
+      "bbox": [
+        215,
+        839,
+        360,
+        857
+      ],
+      "confidence": 0.9436879754066467
+    },
+    {
+      "text": "cnships, which will be held in",
+      "bbox": [
+        217,
+        855,
+        360,
+        869
+      ],
+      "confidence": 0.9749581813812256
+    },
+    {
+      "text": "the courtry in 1997. The sin-",
+      "bbox": [
+        216,
+        865,
+        360,
+        880
+      ],
+      "confidence": 0.919542670249939
+    },
+    {
+      "text": "gle car is pairted in the famil-",
+      "bbox": [
+        218,
+        878,
+        361,
+        892
+      ],
+      "confidence": 0.9612849950790405
+    },
+    {
+      "text": "iar Mila Nae color with the",
+      "bbox": [
+        218,
+        891,
+        360,
+        905
+      ],
+      "confidence": 0.9162009358406067
+    },
+    {
+      "text": "brand logo on ane side and",
+      "bbox": [
+        219,
+        903,
+        361,
+        917
+      ],
+      "confidence": 0.9746450185775757
+    },
+    {
+      "text": "a notice about the brand's",
+      "bbox": [
+        219,
+        915,
+        362,
+        929
+      ],
+      "confidence": 0.9772369861602783
+    }
+  ],
+  "full_text": "002\n61 3 385199\n22/02 '98 13:40\nP.2/2\n17104\nInformation box\nSection / Sluge 3/95-Worid News\nWriter /Editor /Designon Devid/Coeris\nApprewelss Aus: Baty Cho, Dovd Davios; Swdse R. Collas, Nloelas Oppwmaro\nPages 1\nTo Be Rarlewed By (logal]j: Aus: Kan Schoenbolt; Swls: Ned Moy\nt / Noles:\nProof: 1\nDatel\nWORLD NEWS\nMELBoURNE\nPhilip Marris (Australia)\nLed. will continue the con-\nstirutional challenge is be-\ngan inty to the federal\nzovernment's Tobacce Pro.\nCAdvertns\nAfblion Act, despite amend-\nments recently teeked on\nthe legisiation. The set,\npassed by Parllament in\n1992, bans tobacco advortis-\ning and events spensorship.\nBut the compary maintains\n2040984357\nthe provlstons are s sweep-\ning is prahibits the vobeeco\nindustry fromt publiching or\nbroadeasting a wide range.\no\nimportant\nof comumumicatione The\npolitcal, somal\nSenate\nrocendly passed\ncomierscal\namendments softaning some\nard.\nof the act's provisions,\nwhich the House has yet to\nact on. But David Davies,\nPM's vice presideng for cor-\nporate affais, stys, \"Philip\nMorris' challenge is about\ndery ary group of Ant-\nthe powet of govemment to\ntralians their right to com-\nmunicate\non important\nsccial, publie and commer-\nctal isoues. in the case of the\ntohacco industry, this right\ncontirues to be substandially\ndenied.\"\nZURICH\nA Mika-sponsored train be-\ngan a two-year trek around\nSwilzeriand this month The\ntbath highlight the brand\npromotional efflort is designed\nand is spensorstip of the\n2040984357,A\nWorld Bobsled Champi-\ncnships, which will be held in\nthe courtry in 1997. The sin-\ngle car is pairted in the famil-\niar Mila Nae color with the\nbrand logo on ane side and\na notice about the brand's"
+}

@@ -1,0 +1,501 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0702.png",
+    "image_width": 765,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "LEO BURNETT U.S.A.",
+      "bbox": [
+        312,
+        0,
+        531,
+        13
+      ],
+      "confidence": 0.9931858777999878
+    },
+    {
+      "text": "A DIVISION OF LEO BURNETT COMPANY, INC.",
+      "bbox": [
+        311,
+        18,
+        529,
+        31
+      ],
+      "confidence": 0.9800695776939392
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        366,
+        33,
+        475,
+        46
+      ],
+      "confidence": 0.999812662601471
+    },
+    {
+      "text": "SPACE ORDER NO. 10PM-XMMTRO31-07",
+      "bbox": [
+        33,
+        79,
+        288,
+        101
+      ],
+      "confidence": 0.9859573245048523
+    },
+    {
+      "text": "To the publisher of:",
+      "bbox": [
+        486,
+        82,
+        607,
+        98
+      ],
+      "confidence": 0.9986231923103333
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        33,
+        95,
+        63,
+        110
+      ],
+      "confidence": 0.9998751282691956
+    },
+    {
+      "text": "SUPPLEMENT",
+      "bbox": [
+        316,
+        87,
+        397,
+        100
+      ],
+      "confidence": 0.9997402429580688
+    },
+    {
+      "text": "SUN/MET SAN ANTONIO EXPRS",
+      "bbox": [
+        345,
+        96,
+        549,
+        116
+      ],
+      "confidence": 0.9919801354408264
+    },
+    {
+      "text": "Advertiser",
+      "bbox": [
+        32,
+        111,
+        96,
+        126
+      ],
+      "confidence": 0.9998821020126343
+    },
+    {
+      "text": "01/28/88",
+      "bbox": [
+        144,
+        99,
+        209,
+        113
+      ],
+      "confidence": 0.9993367791175842
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        238,
+        100,
+        273,
+        114
+      ],
+      "confidence": 0.9998729228973389
+    },
+    {
+      "text": "1",
+      "bbox": [
+        291,
+        101,
+        304,
+        114
+      ],
+      "confidence": 0.9706029891967773
+    },
+    {
+      "text": "PHILIP MORRIS INC",
+      "bbox": [
+        142,
+        115,
+        279,
+        128
+      ],
+      "confidence": 0.9958456754684448
+    },
+    {
+      "text": "MR. BOB PELIZZA",
+      "bbox": [
+        345,
+        114,
+        470,
+        129
+      ],
+      "confidence": 0.9963865280151367
+    },
+    {
+      "text": "Contract Year",
+      "bbox": [
+        31,
+        141,
+        116,
+        158
+      ],
+      "confidence": 0.9992047548294067
+    },
+    {
+      "text": "01/01/88",
+      "bbox": [
+        140,
+        142,
+        207,
+        161
+      ],
+      "confidence": 0.9995154142379761
+    },
+    {
+      "text": "401 N. MICHIGAN",
+      "bbox": [
+        346,
+        129,
+        470,
+        144
+      ],
+      "confidence": 0.9882858395576477
+    },
+    {
+      "text": "Discount Level",
+      "bbox": [
+        30,
+        156,
+        119,
+        174
+      ],
+      "confidence": 0.9862041473388672
+    },
+    {
+      "text": "THRU",
+      "bbox": [
+        219,
+        146,
+        255,
+        160
+      ],
+      "confidence": 0.9998995065689087
+    },
+    {
+      "text": "12/31/88",
+      "bbox": [
+        267,
+        146,
+        334,
+        160
+      ],
+      "confidence": 0.9998745918273926
+    },
+    {
+      "text": "SUITE 2030",
+      "bbox": [
+        346,
+        145,
+        429,
+        159
+      ],
+      "confidence": 0.9995335340499878
+    },
+    {
+      "text": "IL 60611",
+      "bbox": [
+        554,
+        156,
+        622,
+        172
+      ],
+      "confidence": 0.9969357848167419
+    },
+    {
+      "text": "Less agency commission 15.00%on gross",
+      "bbox": [
+        28,
+        171,
+        280,
+        194
+      ],
+      "confidence": 0.9868089556694031
+    },
+    {
+      "text": "CHICAGO",
+      "bbox": [
+        344,
+        158,
+        406,
+        176
+      ],
+      "confidence": 0.9997849464416504
+    },
+    {
+      "text": "Cash discount 0.00%on net",
+      "bbox": [
+        93,
+        190,
+        268,
+        206
+      ],
+      "confidence": 0.9821463227272034
+    },
+    {
+      "text": "NO CASH DISCNT",
+      "bbox": [
+        136,
+        208,
+        252,
+        221
+      ],
+      "confidence": 0.9989162683486938
+    },
+    {
+      "text": "REVISES CONTRACT DATED 12/08/87",
+      "bbox": [
+        425,
+        236,
+        678,
+        250
+      ],
+      "confidence": 0.9985164403915405
+    },
+    {
+      "text": "MAIL INVOICE TO:",
+      "bbox": [
+        447,
+        268,
+        557,
+        282
+      ],
+      "confidence": 0.9716843366622925
+    },
+    {
+      "text": "Accounting Department-Sectio",
+      "bbox": [
+        579,
+        267,
+        764,
+        282
+      ],
+      "confidence": 0.9909300804138184
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        90,
+        301,
+        127,
+        317
+      ],
+      "confidence": 0.9998288750648499
+    },
+    {
+      "text": "SPACE/COLOR/BLEED",
+      "bbox": [
+        154,
+        299,
+        298,
+        319
+      ],
+      "confidence": 0.9996724128723145
+    },
+    {
+      "text": "PRODUCT",
+      "bbox": [
+        376,
+        300,
+        436,
+        315
+      ],
+      "confidence": 0.9998246431350708
+    },
+    {
+      "text": "NOTES",
+      "bbox": [
+        514,
+        299,
+        558,
+        315
+      ],
+      "confidence": 0.9998199343681335
+    },
+    {
+      "text": "COST",
+      "bbox": [
+        628,
+        298,
+        666,
+        317
+      ],
+      "confidence": 0.9990793466567993
+    },
+    {
+      "text": "THIS IS MASTER CONTRACT FOR PHILIP MORRIS INC",
+      "bbox": [
+        176,
+        381,
+        553,
+        402
+      ],
+      "confidence": 0.9982655048370361
+    },
+    {
+      "text": "THE FOLLOWING AGENCIES MAY PLACE SPACE AGAINST THIS CONTRACT:",
+      "bbox": [
+        176,
+        395,
+        685,
+        419
+      ],
+      "confidence": 0.9955200552940369
+    },
+    {
+      "text": "BENSON HEDGES ORDERS WILL BE RELEASED",
+      "bbox": [
+        241,
+        431,
+        555,
+        451
+      ],
+      "confidence": 0.9977206587791443
+    },
+    {
+      "text": "BY WELLS, RICH & GREENE, NEW YORK.",
+      "bbox": [
+        243,
+        451,
+        530,
+        465
+      ],
+      "confidence": 0.9988499879837036
+    },
+    {
+      "text": "PARLIAMENT ORDERS WILL BE RELEASED BY",
+      "bbox": [
+        240,
+        465,
+        556,
+        484
+      ],
+      "confidence": 0.9994954466819763
+    },
+    {
+      "text": "BACKER & SPIELVOGEL - NEW YORK",
+      "bbox": [
+        242,
+        485,
+        497,
+        499
+      ],
+      "confidence": 0.989531934261322
+    },
+    {
+      "text": "PLEASE SIGN AND RETURN THE ATTACHED DUPLICATE",
+      "bbox": [
+        8,
+        797,
+        350,
+        811
+      ],
+      "confidence": 0.9837154150009155
+    },
+    {
+      "text": "THIS SPACE ORDER IS SUBJECT TO ALL CONDITIONS HEREON AND THE AAAA",
+      "bbox": [
+        7,
+        817,
+        345,
+        831
+      ],
+      "confidence": 0.9955374002456665
+    },
+    {
+      "text": "CONDITIONS COPYRIGHT.",
+      "bbox": [
+        6,
+        826,
+        116,
+        841
+      ],
+      "confidence": 0.9894601702690125
+    },
+    {
+      "text": "1974",
+      "bbox": [
+        165,
+        833,
+        202,
+        848
+      ],
+      "confidence": 0.9999039173126221
+    },
+    {
+      "text": "THIS SPACE ORDER IS SUBJECT TO THE PUBLISHER'S REPRESENTATIONS THAT",
+      "bbox": [
+        7,
+        852,
+        344,
+        866
+      ],
+      "confidence": 0.9765000939369202
+    },
+    {
+      "text": "RATES, INCLUDING DISCOUNTS,ETC., ARE IN CONFORMITY WITH ANY GOVERN-",
+      "bbox": [
+        7,
+        862,
+        341,
+        875
+      ],
+      "confidence": 0.9890115261077881
+    },
+    {
+      "text": "MENTALLY IMPOSED PRICE RULES OR REGULATIONS IN EFFECT DURING THE TERM",
+      "bbox": [
+        6,
+        872,
+        358,
+        886
+      ],
+      "confidence": 0.974665641784668
+    },
+    {
+      "text": "OF THIS SPACE ORDER, REFUNDS WILL BE MADE OF ANY PRICES CHARGED WHICH",
+      "bbox": [
+        6,
+        882,
+        368,
+        898
+      ],
+      "confidence": 0.9823288917541504
+    },
+    {
+      "text": "ARE IN EXCESS OF THE ALLOWABLE RATELETC.",
+      "bbox": [
+        6,
+        893,
+        215,
+        909
+      ],
+      "confidence": 0.9774793386459351
+    }
+  ],
+  "full_text": "LEO BURNETT U.S.A.\nA DIVISION OF LEO BURNETT COMPANY, INC.\nADVERTISING\nSPACE ORDER NO. 10PM-XMMTRO31-07\nTo the publisher of:\nDate\nSUPPLEMENT\nSUN/MET SAN ANTONIO EXPRS\nAdvertiser\n01/28/88\nPAGE\n1\nPHILIP MORRIS INC\nMR. BOB PELIZZA\nContract Year\n01/01/88\n401 N. MICHIGAN\nDiscount Level\nTHRU\n12/31/88\nSUITE 2030\nIL 60611\nLess agency commission 15.00%on gross\nCHICAGO\nCash discount 0.00%on net\nNO CASH DISCNT\nREVISES CONTRACT DATED 12/08/87\nMAIL INVOICE TO:\nAccounting Department-Sectio\nDATE\nSPACE/COLOR/BLEED\nPRODUCT\nNOTES\nCOST\nTHIS IS MASTER CONTRACT FOR PHILIP MORRIS INC\nTHE FOLLOWING AGENCIES MAY PLACE SPACE AGAINST THIS CONTRACT:\nBENSON HEDGES ORDERS WILL BE RELEASED\nBY WELLS, RICH & GREENE, NEW YORK.\nPARLIAMENT ORDERS WILL BE RELEASED BY\nBACKER & SPIELVOGEL - NEW YORK\nPLEASE SIGN AND RETURN THE ATTACHED DUPLICATE\nTHIS SPACE ORDER IS SUBJECT TO ALL CONDITIONS HEREON AND THE AAAA\nCONDITIONS COPYRIGHT.\n1974\nTHIS SPACE ORDER IS SUBJECT TO THE PUBLISHER'S REPRESENTATIONS THAT\nRATES, INCLUDING DISCOUNTS,ETC., ARE IN CONFORMITY WITH ANY GOVERN-\nMENTALLY IMPOSED PRICE RULES OR REGULATIONS IN EFFECT DURING THE TERM\nOF THIS SPACE ORDER, REFUNDS WILL BE MADE OF ANY PRICES CHARGED WHICH\nARE IN EXCESS OF THE ALLOWABLE RATELETC."
+}

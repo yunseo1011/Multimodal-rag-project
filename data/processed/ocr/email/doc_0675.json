@@ -1,0 +1,141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0675.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2076791044",
+      "bbox": [
+        488,
+        62,
+        594,
+        91
+      ],
+      "confidence": 0.951346218585968
+    },
+    {
+      "text": "Page 1",
+      "bbox": [
+        650,
+        55,
+        710,
+        80
+      ],
+      "confidence": 0.9993866086006165
+    },
+    {
+      "text": "Note for Girgado, Yamile",
+      "bbox": [
+        73,
+        99,
+        226,
+        119
+      ],
+      "confidence": 0.9910162091255188
+    },
+    {
+      "text": "rom:",
+      "bbox": [
+        0,
+        142,
+        33,
+        161
+      ],
+      "confidence": 0.9986118078231812
+    },
+    {
+      "text": "Pfeil, Mike",
+      "bbox": [
+        73,
+        138,
+        148,
+        156
+      ],
+      "confidence": 0.9967332482337952
+    },
+    {
+      "text": "ate:",
+      "bbox": [
+        0,
+        165,
+        31,
+        187
+      ],
+      "confidence": 0.9936571717262268
+    },
+    {
+      "text": "Mon, Apr 27, 1998 7:24 AM",
+      "bbox": [
+        74,
+        165,
+        261,
+        182
+      ],
+      "confidence": 0.9858943223953247
+    },
+    {
+      "text": "ubject:",
+      "bbox": [
+        0,
+        193,
+        50,
+        214
+      ],
+      "confidence": 0.999529242515564
+    },
+    {
+      "text": "RE: SSD Meeting 5/5-6",
+      "bbox": [
+        72,
+        189,
+        227,
+        211
+      ],
+      "confidence": 0.9872955083847046
+    },
+    {
+      "text": "Girgado, Yamile",
+      "bbox": [
+        72,
+        217,
+        182,
+        237
+      ],
+      "confidence": 0.9614343643188477
+    },
+    {
+      "text": "o:",
+      "bbox": [
+        0,
+        222,
+        15,
+        236
+      ],
+      "confidence": 0.9334641695022583
+    },
+    {
+      "text": "Hi Yamile, Mike will not need his room the night of the 4th....",
+      "bbox": [
+        71,
+        251,
+        490,
+        271
+      ],
+      "confidence": 0.954748809337616
+    },
+    {
+      "text": "Karin",
+      "bbox": [
+        65,
+        278,
+        112,
+        303
+      ],
+      "confidence": 0.9998799562454224
+    }
+  ],
+  "full_text": "2076791044\nPage 1\nNote for Girgado, Yamile\nrom:\nPfeil, Mike\nate:\nMon, Apr 27, 1998 7:24 AM\nubject:\nRE: SSD Meeting 5/5-6\nGirgado, Yamile\no:\nHi Yamile, Mike will not need his room the night of the 4th....\nKarin"
+}

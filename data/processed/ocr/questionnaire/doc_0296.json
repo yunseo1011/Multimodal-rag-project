@@ -1,0 +1,681 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0296.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SALEN LICHTS 85",
+      "bbox": [
+        341,
+        6,
+        448,
+        19
+      ],
+      "confidence": 0.9272747039794922
+    },
+    {
+      "text": "HALE,",
+      "bbox": [
+        536,
+        6,
+        571,
+        20
+      ],
+      "confidence": 0.8680592775344849
+    },
+    {
+      "text": "PRODUCT TEST CALLBACK",
+      "bbox": [
+        324,
+        18,
+        475,
+        33
+      ],
+      "confidence": 0.9959486722946167
+    },
+    {
+      "text": "FOR FIELD USE:",
+      "bbox": [
+        57,
+        36,
+        150,
+        51
+      ],
+      "confidence": 0.9971598386764526
+    },
+    {
+      "text": "HARC #82-14123",
+      "bbox": [
+        346,
+        32,
+        447,
+        45
+      ],
+      "confidence": 0.9894692301750183
+    },
+    {
+      "text": "FEMAL",
+      "bbox": [
+        538,
+        23,
+        573,
+        33
+      ],
+      "confidence": 0.9552128911018372
+    },
+    {
+      "text": "Monitored/",
+      "bbox": [
+        45,
+        51,
+        105,
+        68
+      ],
+      "confidence": 0.991721510887146
+    },
+    {
+      "text": "MDD_082-31226",
+      "bbox": [
+        352,
+        42,
+        447,
+        58
+      ],
+      "confidence": 0.9388994574546814
+    },
+    {
+      "text": "Validated By:",
+      "bbox": [
+        54,
+        63,
+        126,
+        80
+      ],
+      "confidence": 0.9982882142066956
+    },
+    {
+      "text": "25-34",
+      "bbox": [
+        535,
+        56,
+        573,
+        71
+      ],
+      "confidence": 0.9867843389511108
+    },
+    {
+      "text": "Edited By:",
+      "bbox": [
+        43,
+        75,
+        102,
+        92
+      ],
+      "confidence": 0.921937108039856
+    },
+    {
+      "text": "CELL",
+      "bbox": [
+        550,
+        73,
+        582,
+        87
+      ],
+      "confidence": 0.9994261264801025
+    },
+    {
+      "text": "Complete",
+      "bbox": [
+        41,
+        92,
+        94,
+        109
+      ],
+      "confidence": 0.9881091117858887
+    },
+    {
+      "text": "CELL",
+      "bbox": [
+        548,
+        97,
+        583,
+        111
+      ],
+      "confidence": 0.9990750551223755
+    },
+    {
+      "text": "CELL",
+      "bbox": [
+        549,
+        85,
+        582,
+        99
+      ],
+      "confidence": 0.9993244409561157
+    },
+    {
+      "text": "Terminate",
+      "bbox": [
+        42,
+        107,
+        95,
+        118
+      ],
+      "confidence": 0.9970691204071045
+    },
+    {
+      "text": "CELL",
+      "bbox": [
+        548,
+        109,
+        580,
+        123
+      ],
+      "confidence": 0.9995951652526855
+    },
+    {
+      "text": "3",
+      "bbox": [
+        585,
+        101,
+        594,
+        109
+      ],
+      "confidence": 0.999461829662323
+    },
+    {
+      "text": "MB Revised",
+      "bbox": [
+        52,
+        131,
+        135,
+        146
+      ],
+      "confidence": 0.978611946105957
+    },
+    {
+      "text": "9/22/82",
+      "bbox": [
+        129,
+        133,
+        186,
+        144
+      ],
+      "confidence": 0.9998469948768616
+    },
+    {
+      "text": "STATE",
+      "bbox": [
+        43,
+        151,
+        81,
+        165
+      ],
+      "confidence": 0.9899121522903442
+    },
+    {
+      "text": "COUNTY",
+      "bbox": [
+        130,
+        152,
+        177,
+        166
+      ],
+      "confidence": 0.9995396137237549
+    },
+    {
+      "text": "CEO REG,",
+      "bbox": [
+        217,
+        153,
+        272,
+        164
+      ],
+      "confidence": 0.7990078926086426
+    },
+    {
+      "text": "TELPHONENUWD",
+      "bbox": [
+        385,
+        152,
+        476,
+        162
+      ],
+      "confidence": 0.8726444840431213
+    },
+    {
+      "text": "DNTERVIEWER",
+      "bbox": [
+        613,
+        151,
+        690,
+        166
+      ],
+      "confidence": 0.8813081383705139
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        42,
+        161,
+        76,
+        175
+      ],
+      "confidence": 0.9709697961807251
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        138,
+        163,
+        168,
+        174
+      ],
+      "confidence": 0.9846750497817993
+    },
+    {
+      "text": "CO. SIZE",
+      "bbox": [
+        218,
+        160,
+        262,
+        174
+      ],
+      "confidence": 0.927827000617981
+    },
+    {
+      "text": "PAEFIX",
+      "bbox": [
+        405,
+        165,
+        440,
+        175
+      ],
+      "confidence": 0.8855838775634766
+    },
+    {
+      "text": "SUFEIX",
+      "bbox": [
+        506,
+        164,
+        542,
+        175
+      ],
+      "confidence": 0.9317161440849304
+    },
+    {
+      "text": "/82 TIME ENDED",
+      "bbox": [
+        136,
+        231,
+        244,
+        250
+      ],
+      "confidence": 0.9473850131034851
+    },
+    {
+      "text": "am",
+      "bbox": [
+        522,
+        223,
+        541,
+        234
+      ],
+      "confidence": 0.8250762224197388
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        27,
+        235,
+        62,
+        249
+      ],
+      "confidence": 0.999538242816925
+    },
+    {
+      "text": "TIME STARTED",
+      "bbox": [
+        359,
+        237,
+        437,
+        250
+      ],
+      "confidence": 0.994014322757721
+    },
+    {
+      "text": "NO. OF MIN.",
+      "bbox": [
+        524,
+        235,
+        606,
+        248
+      ],
+      "confidence": 0.9228320717811584
+    },
+    {
+      "text": "Hello, I'm",
+      "bbox": [
+        50,
+        314,
+        131,
+        331
+      ],
+      "confidence": 0.9967489242553711
+    },
+    {
+      "text": "calling long distance from M/a/R/c Consumer Research, an",
+      "bbox": [
+        207,
+        316,
+        615,
+        341
+      ],
+      "confidence": 0.9633718729019165
+    },
+    {
+      "text": "independent researoh company:",
+      "bbox": [
+        51,
+        328,
+        271,
+        347
+      ],
+      "confidence": 0.966067910194397
+    },
+    {
+      "text": "May I please Speak to (ASK FOR RESPONDENT BY NAME.)",
+      "bbox": [
+        279,
+        332,
+        648,
+        354
+      ],
+      "confidence": 0.9327345490455627
+    },
+    {
+      "text": "(IF NOT AVAILABLE, ARRANGE FOR CALLBACK TIME.)",
+      "bbox": [
+        50,
+        352,
+        390,
+        373
+      ],
+      "confidence": 0.9802408814430237
+    },
+    {
+      "text": "CALLBACK INFORMATION:",
+      "bbox": [
+        88,
+        367,
+        245,
+        383
+      ],
+      "confidence": 0.9818583130836487
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        52,
+        430,
+        69,
+        444
+      ],
+      "confidence": 0.9967801570892334
+    },
+    {
+      "text": "A few weeks ago, we sent yqu test",
+      "bbox": [
+        86,
+        429,
+        330,
+        448
+      ],
+      "confidence": 0.9883240461349487
+    },
+    {
+      "text": "cigarettes to try, have you had a",
+      "bbox": [
+        87,
+        442,
+        330,
+        460
+      ],
+      "confidence": 0.9751231074333191
+    },
+    {
+      "text": "Yes (SKIP TO Q.3a)..",
+      "bbox": [
+        441,
+        434,
+        586,
+        453
+      ],
+      "confidence": 0.9572643041610718
+    },
+    {
+      "text": "chanoe to smoke the cigarettes?",
+      "bbox": [
+        87,
+        456,
+        315,
+        472
+      ],
+      "confidence": 0.9607910513877869
+    },
+    {
+      "text": "No (CONTINUE)",
+      "bbox": [
+        440,
+        446,
+        537,
+        464
+      ],
+      "confidence": 0.9899943470954895
+    },
+    {
+      "text": "..",
+      "bbox": [
+        621,
+        443,
+        641,
+        451
+      ],
+      "confidence": 0.8289133310317993
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        49,
+        481,
+        68,
+        494
+      ],
+      "confidence": 0.9968406558036804
+    },
+    {
+      "text": "will you be able to smoke the",
+      "bbox": [
+        85,
+        480,
+        300,
+        497
+      ],
+      "confidence": 0.9763592481613159
+    },
+    {
+      "text": "Yes (ARRANOE CALLBACK).....1",
+      "bbox": [
+        439,
+        484,
+        640,
+        503
+      ],
+      "confidence": 0.9497089385986328
+    },
+    {
+      "text": "cigarettes in the next few days?",
+      "bbox": [
+        85,
+        494,
+        320,
+        510
+      ],
+      "confidence": 0.9835458397865295
+    },
+    {
+      "text": "No (TERMINATE)...",
+      "bbox": [
+        438,
+        498,
+        564,
+        514
+      ],
+      "confidence": 0.9511783719062805
+    },
+    {
+      "text": "What did you like about the cigarettes we gave you?",
+      "bbox": [
+        83,
+        517,
+        459,
+        538
+      ],
+      "confidence": 0.9879392981529236
+    },
+    {
+      "text": "3a.",
+      "bbox": [
+        49,
+        519,
+        74,
+        531
+      ],
+      "confidence": 0.9926823973655701
+    },
+    {
+      "text": "(DO NOT PROBE OR CLARIFY.)",
+      "bbox": [
+        464,
+        521,
+        652,
+        541
+      ],
+      "confidence": 0.9891880750656128
+    },
+    {
+      "text": "3b.",
+      "bbox": [
+        47,
+        626,
+        74,
+        641
+      ],
+      "confidence": 0.9857017993927002
+    },
+    {
+      "text": "What did you not like about the cigarettes we gave you? (Do Not PRoBE OR",
+      "bbox": [
+        81,
+        626,
+        600,
+        651
+      ],
+      "confidence": 0.9619907736778259
+    },
+    {
+      "text": "CLARIFY.",
+      "bbox": [
+        82,
+        638,
+        152,
+        654
+      ],
+      "confidence": 0.8635025024414062
+    },
+    {
+      "text": "Now, I'm going to ask you the questions",
+      "bbox": [
+        79,
+        750,
+        361,
+        769
+      ],
+      "confidence": 0.9988452196121216
+    },
+    {
+      "text": "Respondent is using",
+      "bbox": [
+        429,
+        756,
+        567,
+        770
+      ],
+      "confidence": 0.9995796084403992
+    },
+    {
+      "text": "which were provided along with the",
+      "bbox": [
+        79,
+        764,
+        328,
+        781
+      ],
+      "confidence": 0.9976352453231812
+    },
+    {
+      "text": "instruction letter.......1",
+      "bbox": [
+        442,
+        767,
+        628,
+        783
+      ],
+      "confidence": 0.9755131006240845
+    },
+    {
+      "text": "cigarettes you received. (ASk RESPoNDENT",
+      "bbox": [
+        79,
+        776,
+        375,
+        793
+      ],
+      "confidence": 0.9097883105278015
+    },
+    {
+      "text": "Respondent is not using",
+      "bbox": [
+        427,
+        780,
+        595,
+        795
+      ],
+      "confidence": 0.9547956585884094
+    },
+    {
+      "text": "TO GET INSTRUCTION LETTER, IF IT'S HANDY.)",
+      "bbox": [
+        79,
+        788,
+        380,
+        807
+      ],
+      "confidence": 0.973476767539978
+    },
+    {
+      "text": "instruction letter.......?",
+      "bbox": [
+        443,
+        793,
+        628,
+        806
+      ],
+      "confidence": 0.9783063530921936
+    }
+  ],
+  "full_text": "SALEN LICHTS 85\nHALE,\nPRODUCT TEST CALLBACK\nFOR FIELD USE:\nHARC #82-14123\nFEMAL\nMonitored/\nMDD_082-31226\nValidated By:\n25-34\nEdited By:\nCELL\nComplete\nCELL\nCELL\nTerminate\nCELL\n3\nMB Revised\n9/22/82\nSTATE\nCOUNTY\nCEO REG,\nTELPHONENUWD\nDNTERVIEWER\nCODE\nCODE\nCO. SIZE\nPAEFIX\nSUFEIX\n/82 TIME ENDED\nam\nDATE\nTIME STARTED\nNO. OF MIN.\nHello, I'm\ncalling long distance from M/a/R/c Consumer Research, an\nindependent researoh company:\nMay I please Speak to (ASK FOR RESPONDENT BY NAME.)\n(IF NOT AVAILABLE, ARRANGE FOR CALLBACK TIME.)\nCALLBACK INFORMATION:\n1.\nA few weeks ago, we sent yqu test\ncigarettes to try, have you had a\nYes (SKIP TO Q.3a)..\nchanoe to smoke the cigarettes?\nNo (CONTINUE)\n..\n2.\nwill you be able to smoke the\nYes (ARRANOE CALLBACK).....1\ncigarettes in the next few days?\nNo (TERMINATE)...\nWhat did you like about the cigarettes we gave you?\n3a.\n(DO NOT PROBE OR CLARIFY.)\n3b.\nWhat did you not like about the cigarettes we gave you? (Do Not PRoBE OR\nCLARIFY.\nNow, I'm going to ask you the questions\nRespondent is using\nwhich were provided along with the\ninstruction letter.......1\ncigarettes you received. (ASk RESPoNDENT\nRespondent is not using\nTO GET INSTRUCTION LETTER, IF IT'S HANDY.)\ninstruction letter.......?"
+}

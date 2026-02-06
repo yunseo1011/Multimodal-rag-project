@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0009.png",
+    "image_width": 802,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2003 Youth Smoking Prevention",
+      "bbox": [
+        49,
+        62,
+        802,
+        140
+      ],
+      "confidence": 0.9984204769134521
+    },
+    {
+      "text": "Program",
+      "bbox": [
+        361,
+        154,
+        591,
+        219
+      ],
+      "confidence": 0.9331609606742859
+    },
+    {
+      "text": "Upcoming new programs and sponsorships",
+      "bbox": [
+        41,
+        260,
+        802,
+        316
+      ],
+      "confidence": 0.9895067811012268
+    },
+    {
+      "text": "planned include:",
+      "bbox": [
+        78,
+        320,
+        395,
+        371
+      ],
+      "confidence": 0.9912325739860535
+    },
+    {
+      "text": "Winter \"X-Games\" (extreme sports competition",
+      "bbox": [
+        78,
+        441,
+        802,
+        478
+      ],
+      "confidence": 0.9773385524749756
+    },
+    {
+      "text": "televised on ESPN)",
+      "bbox": [
+        77,
+        486,
+        381,
+        524
+      ],
+      "confidence": 0.9716281890869141
+    },
+    {
+      "text": "Varsity Cheerleading (cheer team competition also",
+      "bbox": [
+        74,
+        538,
+        802,
+        582
+      ],
+      "confidence": 0.9846682548522949
+    },
+    {
+      "text": "televised on ESPN)",
+      "bbox": [
+        71,
+        585,
+        381,
+        629
+      ],
+      "confidence": 0.9549853801727295
+    },
+    {
+      "text": "Screenvision (advertising on movie screens in 50",
+      "bbox": [
+        73,
+        640,
+        802,
+        681
+      ],
+      "confidence": 0.9937405586242676
+    },
+    {
+      "text": "cities nationwide)",
+      "bbox": [
+        76,
+        689,
+        352,
+        727
+      ],
+      "confidence": 0.993057370185852
+    },
+    {
+      "text": "10/3/2002 9:06:58 AM",
+      "bbox": [
+        40,
+        752,
+        230,
+        773
+      ],
+      "confidence": 0.9879525899887085
+    }
+  ],
+  "full_text": "2003 Youth Smoking Prevention\nProgram\nUpcoming new programs and sponsorships\nplanned include:\nWinter \"X-Games\" (extreme sports competition\ntelevised on ESPN)\nVarsity Cheerleading (cheer team competition also\ntelevised on ESPN)\nScreenvision (advertising on movie screens in 50\ncities nationwide)\n10/3/2002 9:06:58 AM"
+}

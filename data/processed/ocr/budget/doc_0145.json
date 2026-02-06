@@ -1,0 +1,411 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0145.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "POLITICAL CAMPAIGN CONTRIBUTION REQUEST",
+      "bbox": [
+        184,
+        34,
+        597,
+        61
+      ],
+      "confidence": 0.9974766373634338
+    },
+    {
+      "text": "Date: August 11, 1997",
+      "bbox": [
+        86,
+        78,
+        256,
+        102
+      ],
+      "confidence": 0.9564405083656311
+    },
+    {
+      "text": "State: Local:",
+      "bbox": [
+        533,
+        76,
+        686,
+        107
+      ],
+      "confidence": 0.9505972266197205
+    },
+    {
+      "text": "RECIPIENT INFORMATON",
+      "bbox": [
+        281,
+        142,
+        496,
+        167
+      ],
+      "confidence": 0.995367705821991
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        85,
+        198,
+        137,
+        225
+      ],
+      "confidence": 0.9999284744262695
+    },
+    {
+      "text": "James Rea",
+      "bbox": [
+        291,
+        202,
+        367,
+        227
+      ],
+      "confidence": 0.9748395085334778
+    },
+    {
+      "text": "(Individual Candidate or Fundraising Org)",
+      "bbox": [
+        85,
+        217,
+        280,
+        241
+      ],
+      "confidence": 0.9781216979026794
+    },
+    {
+      "text": "Address",
+      "bbox": [
+        85,
+        240,
+        150,
+        265
+      ],
+      "confidence": 0.9657402038574219
+    },
+    {
+      "text": "P.O.Box66375537",
+      "bbox": [
+        289,
+        237,
+        490,
+        276
+      ],
+      "confidence": 0.9173773527145386
+    },
+    {
+      "text": "Springfield, I62705",
+      "bbox": [
+        291,
+        262,
+        447,
+        288
+      ],
+      "confidence": 0.948479413986206
+    },
+    {
+      "text": "Current Office and District",
+      "bbox": [
+        85,
+        299,
+        269,
+        324
+      ],
+      "confidence": 0.9985053539276123
+    },
+    {
+      "text": "Senator",
+      "bbox": [
+        289,
+        301,
+        349,
+        326
+      ],
+      "confidence": 0.9998088479042053
+    },
+    {
+      "text": "Aspired Office and District",
+      "bbox": [
+        85,
+        319,
+        269,
+        344
+      ],
+      "confidence": 0.9675496220588684
+    },
+    {
+      "text": "Election if no Committees listed. Re-Election if",
+      "bbox": [
+        290,
+        321,
+        604,
+        350
+      ],
+      "confidence": 0.9835457801818848
+    },
+    {
+      "text": "Committees listed",
+      "bbox": [
+        289,
+        341,
+        411,
+        364
+      ],
+      "confidence": 0.9654549956321716
+    },
+    {
+      "text": "Party",
+      "bbox": [
+        81,
+        358,
+        129,
+        383
+      ],
+      "confidence": 0.9208225011825562
+    },
+    {
+      "text": "Democratic",
+      "bbox": [
+        288,
+        361,
+        371,
+        385
+      ],
+      "confidence": 0.99970543384552
+    },
+    {
+      "text": "Leadership Position",
+      "bbox": [
+        82,
+        379,
+        221,
+        403
+      ],
+      "confidence": 0.9993011355400085
+    },
+    {
+      "text": "Committees",
+      "bbox": [
+        83,
+        399,
+        171,
+        424
+      ],
+      "confidence": 0.9998496770858765
+    },
+    {
+      "text": "Minority Spokesperson-Financial Institutions; Public",
+      "bbox": [
+        288,
+        402,
+        628,
+        432
+      ],
+      "confidence": 0.9811782836914062
+    },
+    {
+      "text": "(Note Chairmanship)",
+      "bbox": [
+        83,
+        416,
+        185,
+        438
+      ],
+      "confidence": 0.9485995769500732
+    },
+    {
+      "text": "Health and Welfare; Rules",
+      "bbox": [
+        287,
+        421,
+        462,
+        448
+      ],
+      "confidence": 0.9872065782546997
+    },
+    {
+      "text": "CONTRIBUTION INFORMATION",
+      "bbox": [
+        252,
+        501,
+        505,
+        525
+      ],
+      "confidence": 0.9975705146789551
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        80,
+        554,
+        144,
+        580
+      ],
+      "confidence": 0.9998176097869873
+    },
+    {
+      "text": "$300.00",
+      "bbox": [
+        366,
+        560,
+        429,
+        584
+      ],
+      "confidence": 0.9996786713600159
+    },
+    {
+      "text": "Account Code",
+      "bbox": [
+        81,
+        575,
+        182,
+        599
+      ],
+      "confidence": 0.999868631362915
+    },
+    {
+      "text": "1401-7710-IL01",
+      "bbox": [
+        365,
+        580,
+        481,
+        606
+      ],
+      "confidence": 0.9996275305747986
+    },
+    {
+      "text": "Check Payable to",
+      "bbox": [
+        81,
+        596,
+        199,
+        621
+      ],
+      "confidence": 0.9949904680252075
+    },
+    {
+      "text": "Jim Rea Campaign Committee",
+      "bbox": [
+        365,
+        601,
+        568,
+        629
+      ],
+      "confidence": 0.9853995442390442
+    },
+    {
+      "text": "Address",
+      "bbox": [
+        80,
+        616,
+        141,
+        640
+      ],
+      "confidence": 0.9998493194580078
+    },
+    {
+      "text": "(Only if different from address above)",
+      "bbox": [
+        82,
+        638,
+        326,
+        662
+      ],
+      "confidence": 0.990606427192688
+    },
+    {
+      "text": "Notes:",
+      "bbox": [
+        78,
+        694,
+        131,
+        720
+      ],
+      "confidence": 0.999752938747406
+    },
+    {
+      "text": "ASAP",
+      "bbox": [
+        359,
+        699,
+        411,
+        725
+      ],
+      "confidence": 0.9997984170913696
+    },
+    {
+      "text": "7-22-97 Goly Oute",
+      "bbox": [
+        398,
+        707,
+        663,
+        751
+      ],
+      "confidence": 0.7477472424507141
+    },
+    {
+      "text": "(Date needed; fundraiser date; other info.",
+      "bbox": [
+        79,
+        716,
+        344,
+        740
+      ],
+      "confidence": 0.9959729313850403
+    },
+    {
+      "text": "Approved by:",
+      "bbox": [
+        76,
+        767,
+        170,
+        797
+      ],
+      "confidence": 0.9889345765113831
+    },
+    {
+      "text": "(Regional Vice President's signature)",
+      "bbox": [
+        374,
+        797,
+        628,
+        833
+      ],
+      "confidence": 0.974219560623169
+    },
+    {
+      "text": "Revised 2/95",
+      "bbox": [
+        74,
+        877,
+        149,
+        900
+      ],
+      "confidence": 0.9994315505027771
+    },
+    {
+      "text": "(Senior Vice President's signature)",
+      "bbox": [
+        390,
+        878,
+        625,
+        911
+      ],
+      "confidence": 0.9851523041725159
+    },
+    {
+      "text": "TIILBC 006586",
+      "bbox": [
+        573,
+        943,
+        712,
+        970
+      ],
+      "confidence": 0.9984718561172485
+    }
+  ],
+  "full_text": "POLITICAL CAMPAIGN CONTRIBUTION REQUEST\nDate: August 11, 1997\nState: Local:\nRECIPIENT INFORMATON\nName\nJames Rea\n(Individual Candidate or Fundraising Org)\nAddress\nP.O.Box66375537\nSpringfield, I62705\nCurrent Office and District\nSenator\nAspired Office and District\nElection if no Committees listed. Re-Election if\nCommittees listed\nParty\nDemocratic\nLeadership Position\nCommittees\nMinority Spokesperson-Financial Institutions; Public\n(Note Chairmanship)\nHealth and Welfare; Rules\nCONTRIBUTION INFORMATION\nAmount\n$300.00\nAccount Code\n1401-7710-IL01\nCheck Payable to\nJim Rea Campaign Committee\nAddress\n(Only if different from address above)\nNotes:\nASAP\n7-22-97 Goly Oute\n(Date needed; fundraiser date; other info.\nApproved by:\n(Regional Vice President's signature)\nRevised 2/95\n(Senior Vice President's signature)\nTIILBC 006586"
+}

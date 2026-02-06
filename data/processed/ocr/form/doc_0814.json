@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0814.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        324,
+        203,
+        429,
+        228
+      ],
+      "confidence": 0.9560689926147461
+    },
+    {
+      "text": "U.S.A.",
+      "bbox": [
+        345,
+        232,
+        413,
+        253
+      ],
+      "confidence": 0.9986554980278015
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        277,
+        287,
+        476,
+        310
+      ],
+      "confidence": 0.9789996147155762
+    },
+    {
+      "text": "MEDIA DEPARTMENT",
+      "bbox": [
+        272,
+        306,
+        481,
+        328
+      ],
+      "confidence": 0.9825197458267212
+    },
+    {
+      "text": "120 PARK AVENUE, NEW YORK CITY",
+      "bbox": [
+        168,
+        325,
+        513,
+        348
+      ],
+      "confidence": 0.9987859725952148
+    },
+    {
+      "text": "10017",
+      "bbox": [
+        532,
+        325,
+        590,
+        346
+      ],
+      "confidence": 0.9999841451644897
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        225,
+        347,
+        300,
+        365
+      ],
+      "confidence": 0.9998958706855774
+    },
+    {
+      "text": "(917)",
+      "bbox": [
+        325,
+        346,
+        376,
+        364
+      ],
+      "confidence": 0.9998248815536499
+    },
+    {
+      "text": "663-5000",
+      "bbox": [
+        385,
+        345,
+        473,
+        366
+      ],
+      "confidence": 0.9999628663063049
+    },
+    {
+      "text": "FAX:",
+      "bbox": [
+        224,
+        365,
+        271,
+        384
+      ],
+      "confidence": 0.9997611045837402
+    },
+    {
+      "text": "(917)",
+      "bbox": [
+        324,
+        364,
+        380,
+        386
+      ],
+      "confidence": 0.9867262840270996
+    },
+    {
+      "text": "663-5313",
+      "bbox": [
+        386,
+        366,
+        472,
+        384
+      ],
+      "confidence": 0.999975860118866
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        55,
+        400,
+        103,
+        422
+      ],
+      "confidence": 0.9971164464950562
+    },
+    {
+      "text": "November 23.1998",
+      "bbox": [
+        148,
+        399,
+        311,
+        422
+      ],
+      "confidence": 0.9592053890228271
+    },
+    {
+      "text": "To",
+      "bbox": [
+        54,
+        431,
+        86,
+        456
+      ],
+      "confidence": 0.999309778213501
+    },
+    {
+      "text": "Ronnie Moreno, GM (Outdoor Systems)",
+      "bbox": [
+        149,
+        432,
+        468,
+        456
+      ],
+      "confidence": 0.9820314645767212
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        54,
+        465,
+        96,
+        490
+      ],
+      "confidence": 0.9997631907463074
+    },
+    {
+      "text": "(619) 283-1850",
+      "bbox": [
+        148,
+        467,
+        279,
+        491
+      ],
+      "confidence": 0.9963222146034241
+    },
+    {
+      "text": "From",
+      "bbox": [
+        57,
+        504,
+        105,
+        523
+      ],
+      "confidence": 0.9997711181640625
+    },
+    {
+      "text": "Steve Piskor",
+      "bbox": [
+        149,
+        503,
+        257,
+        523
+      ],
+      "confidence": 0.9979758858680725
+    },
+    {
+      "text": "# of pages (with cover)",
+      "bbox": [
+        57,
+        538,
+        248,
+        558
+      ],
+      "confidence": 0.9731128811836243
+    },
+    {
+      "text": "3",
+      "bbox": [
+        284,
+        538,
+        301,
+        557
+      ],
+      "confidence": 0.9833047389984131
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        59,
+        589,
+        150,
+        607
+      ],
+      "confidence": 0.9999793767929077
+    },
+    {
+      "text": "This facsimile transmission (and/or the documents accompanying it) may contain confidential",
+      "bbox": [
+        58,
+        735,
+        694,
+        749
+      ],
+      "confidence": 0.9864047765731812
+    },
+    {
+      "text": "or entity named above. If you are not the intended recipiont, you are hereby notified that any",
+      "bbox": [
+        55,
+        757,
+        696,
+        780
+      ],
+      "confidence": 0.9502575397491455
+    },
+    {
+      "text": "information belonging to the sender. The information is intended only for the use of the addressee",
+      "bbox": [
+        56,
+        745,
+        696,
+        764
+      ],
+      "confidence": 0.9862090349197388
+    },
+    {
+      "text": "disclosure, copying, distribution or the taking of any action in reliance of the contents of this",
+      "bbox": [
+        56,
+        771,
+        696,
+        793
+      ],
+      "confidence": 0.9656877517700195
+    },
+    {
+      "text": "information is strictly prohibited by law. If you have recoived this transmission in error, ploaso",
+      "bbox": [
+        56,
+        785,
+        694,
+        805
+      ],
+      "confidence": 0.9690985679626465
+    },
+    {
+      "text": "immediately notify us by telephone to arrango for tho roturn of the documents. Thank you.",
+      "bbox": [
+        57,
+        798,
+        627,
+        818
+      ],
+      "confidence": 0.9814719557762146
+    },
+    {
+      "text": "If you have any problems receiving this transmission, please cail",
+      "bbox": [
+        58,
+        837,
+        696,
+        862
+      ],
+      "confidence": 0.9861857295036316
+    },
+    {
+      "text": "2084610770",
+      "bbox": [
+        734,
+        836,
+        754,
+        938
+      ],
+      "confidence": 0.9997569918632507
+    },
+    {
+      "text": "Constance lannacone at (917) 663-3269",
+      "bbox": [
+        59,
+        855,
+        427,
+        879
+      ],
+      "confidence": 0.9829813241958618
+    }
+  ],
+  "full_text": "PHILIP MORRIS\nU.S.A.\nPHILIP MORRIS USA\nMEDIA DEPARTMENT\n120 PARK AVENUE, NEW YORK CITY\n10017\nPHONE:\n(917)\n663-5000\nFAX:\n(917)\n663-5313\nDate\nNovember 23.1998\nTo\nRonnie Moreno, GM (Outdoor Systems)\nFax\n(619) 283-1850\nFrom\nSteve Piskor\n# of pages (with cover)\n3\nComments\nThis facsimile transmission (and/or the documents accompanying it) may contain confidential\nor entity named above. If you are not the intended recipiont, you are hereby notified that any\ninformation belonging to the sender. The information is intended only for the use of the addressee\ndisclosure, copying, distribution or the taking of any action in reliance of the contents of this\ninformation is strictly prohibited by law. If you have recoived this transmission in error, ploaso\nimmediately notify us by telephone to arrango for tho roturn of the documents. Thank you.\nIf you have any problems receiving this transmission, please cail\n2084610770\nConstance lannacone at (917) 663-3269"
+}

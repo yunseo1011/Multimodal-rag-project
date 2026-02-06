@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0469.png",
+    "image_width": 781,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PRIVILEGED & CONFIDENTIAL",
+      "bbox": [
+        58,
+        53,
+        317,
+        75
+      ],
+      "confidence": 0.9831804037094116
+    },
+    {
+      "text": "ATTORNEY-CLIENT COMMUNICATION",
+      "bbox": [
+        60,
+        71,
+        358,
+        92
+      ],
+      "confidence": 0.9959373474121094
+    },
+    {
+      "text": "Philip Morris Companies Inc.",
+      "bbox": [
+        255,
+        220,
+        540,
+        244
+      ],
+      "confidence": 0.9995436072349548
+    },
+    {
+      "text": "Philip Morris Management Corp.",
+      "bbox": [
+        240,
+        237,
+        543,
+        261
+      ],
+      "confidence": 0.979584276676178
+    },
+    {
+      "text": "Philip Morris International",
+      "bbox": [
+        260,
+        253,
+        537,
+        277
+      ],
+      "confidence": 0.9978165030479431
+    },
+    {
+      "text": "Philip Morris Capital Corp.",
+      "bbox": [
+        261,
+        269,
+        536,
+        294
+      ],
+      "confidence": 0.9928103089332581
+    },
+    {
+      "text": "RECORDS MANAGEMENT PROGRAM QUESTIONNAIRE",
+      "bbox": [
+        193,
+        319,
+        596,
+        343
+      ],
+      "confidence": 0.9805877804756165
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        73,
+        393,
+        107,
+        410
+      ],
+      "confidence": 0.9996657967567444
+    },
+    {
+      "text": "HUNTON & WILLIAMS",
+      "bbox": [
+        131,
+        389,
+        300,
+        409
+      ],
+      "confidence": 0.9993869662284851
+    },
+    {
+      "text": "Ray V. Hartwell, III, Esquire",
+      "bbox": [
+        130,
+        402,
+        417,
+        428
+      ],
+      "confidence": 0.9710425734519958
+    },
+    {
+      "text": "Arthur J. DeBaugh, Esquire",
+      "bbox": [
+        132,
+        420,
+        387,
+        442
+      ],
+      "confidence": 0.9963956475257874
+    },
+    {
+      "text": "Post Office Box 1535",
+      "bbox": [
+        133,
+        436,
+        330,
+        458
+      ],
+      "confidence": 0.9929513931274414
+    },
+    {
+      "text": "Richmond, Virginia",
+      "bbox": [
+        133,
+        452,
+        313,
+        474
+      ],
+      "confidence": 0.9981677532196045
+    },
+    {
+      "text": "23212-1535",
+      "bbox": [
+        324,
+        455,
+        426,
+        469
+      ],
+      "confidence": 0.9997403025627136
+    },
+    {
+      "text": "DARIENNE DENNIS",
+      "bbox": [
+        195,
+        510,
+        349,
+        528
+      ],
+      "confidence": 0.9797579050064087
+    },
+    {
+      "text": "-",
+      "bbox": [
+        352,
+        516,
+        363,
+        524
+      ],
+      "confidence": 0.6524277329444885
+    },
+    {
+      "text": "ROBERT KAPLAN",
+      "bbox": [
+        368,
+        511,
+        505,
+        529
+      ],
+      "confidence": 0.9959495067596436
+    },
+    {
+      "text": "FROM: Name:",
+      "bbox": [
+        76,
+        520,
+        185,
+        537
+      ],
+      "confidence": 0.9884542226791382
+    },
+    {
+      "text": "Title:",
+      "bbox": [
+        131,
+        562,
+        197,
+        586
+      ],
+      "confidence": 0.9999087452888489
+    },
+    {
+      "text": "MANAGERS",
+      "bbox": [
+        206,
+        560,
+        292,
+        575
+      ],
+      "confidence": 0.9999281764030457
+    },
+    {
+      "text": "OF COMMUNICATIONS",
+      "bbox": [
+        284,
+        558,
+        465,
+        577
+      ],
+      "confidence": 0.9995084404945374
+    },
+    {
+      "text": "PMI-CORPORATE AFFAIRS",
+      "bbox": [
+        254,
+        606,
+        465,
+        625
+      ],
+      "confidence": 0.9798026084899902
+    },
+    {
+      "text": "Department:",
+      "bbox": [
+        131,
+        612,
+        242,
+        632
+      ],
+      "confidence": 0.9999387264251709
+    },
+    {
+      "text": "Division/functional area: INTERNATIONAL",
+      "bbox": [
+        129,
+        659,
+        528,
+        683
+      ],
+      "confidence": 0.9994055032730103
+    },
+    {
+      "text": "Immediate supervisor",
+      "bbox": [
+        131,
+        714,
+        331,
+        731
+      ],
+      "confidence": 0.994647204875946
+    },
+    {
+      "text": "JOHN DOLLISON",
+      "bbox": [
+        341,
+        722,
+        481,
+        744
+      ],
+      "confidence": 0.9997878670692444
+    },
+    {
+      "text": "and title:",
+      "bbox": [
+        147,
+        728,
+        251,
+        748
+      ],
+      "confidence": 0.9996125102043152
+    },
+    {
+      "text": "VICE PRESIDENT, CORPORATE AFFAIRS",
+      "bbox": [
+        340,
+        742,
+        693,
+        770
+      ],
+      "confidence": 0.9914406538009644
+    },
+    {
+      "text": "NOTE:",
+      "bbox": [
+        36,
+        806,
+        102,
+        827
+      ],
+      "confidence": 0.995075523853302
+    },
+    {
+      "text": "PLEASE CALL TERRY DAVID AT (212) 880-3483 IF YOU HAVE",
+      "bbox": [
+        106,
+        805,
+        672,
+        841
+      ],
+      "confidence": 0.991266667842865
+    },
+    {
+      "text": "ANY QUESTIONS OR REQUIRE ADDITIONAL INFORMATION.",
+      "bbox": [
+        109,
+        825,
+        616,
+        857
+      ],
+      "confidence": 0.9913756251335144
+    },
+    {
+      "text": "2500072521",
+      "bbox": [
+        763,
+        869,
+        780,
+        969
+      ],
+      "confidence": 0.9991334676742554
+    }
+  ],
+  "full_text": "PRIVILEGED & CONFIDENTIAL\nATTORNEY-CLIENT COMMUNICATION\nPhilip Morris Companies Inc.\nPhilip Morris Management Corp.\nPhilip Morris International\nPhilip Morris Capital Corp.\nRECORDS MANAGEMENT PROGRAM QUESTIONNAIRE\nTO:\nHUNTON & WILLIAMS\nRay V. Hartwell, III, Esquire\nArthur J. DeBaugh, Esquire\nPost Office Box 1535\nRichmond, Virginia\n23212-1535\nDARIENNE DENNIS\n-\nROBERT KAPLAN\nFROM: Name:\nTitle:\nMANAGERS\nOF COMMUNICATIONS\nPMI-CORPORATE AFFAIRS\nDepartment:\nDivision/functional area: INTERNATIONAL\nImmediate supervisor\nJOHN DOLLISON\nand title:\nVICE PRESIDENT, CORPORATE AFFAIRS\nNOTE:\nPLEASE CALL TERRY DAVID AT (212) 880-3483 IF YOU HAVE\nANY QUESTIONS OR REQUIRE ADDITIONAL INFORMATION.\n2500072521"
+}

@@ -1,0 +1,1061 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0645.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "CIGARETTE TEST NO. 75-22",
+      "bbox": [
+        275,
+        44,
+        461,
+        61
+      ],
+      "confidence": 0.9790546298027039
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        44,
+        88,
+        80,
+        107
+      ],
+      "confidence": 0.9996743202209473
+    },
+    {
+      "text": "Location",
+      "bbox": [
+        356,
+        92,
+        422,
+        110
+      ],
+      "confidence": 0.9989026188850403
+    },
+    {
+      "text": "You have been given two packs of cigarettes, one pack labeled \"J\" and one pack labeled \"M\".",
+      "bbox": [
+        45,
+        126,
+        717,
+        150
+      ],
+      "confidence": 0.9868990778923035
+    },
+    {
+      "text": "Please smoke these cigarettes and complete and return the questionnaire to your Panel",
+      "bbox": [
+        46,
+        143,
+        675,
+        166
+      ],
+      "confidence": 0.9903122186660767
+    },
+    {
+      "text": "Supervisor by Tuesday, May 27.",
+      "bbox": [
+        47,
+        158,
+        276,
+        182
+      ],
+      "confidence": 0.9834938645362854
+    },
+    {
+      "text": "1. Which cigarette do you prefer? , \"J\" Brand ( ) \"M\" Brand ( ) No Choice ( )",
+      "bbox": [
+        47,
+        195,
+        633,
+        220
+      ],
+      "confidence": 0.9454037547111511
+    },
+    {
+      "text": "2. Comments",
+      "bbox": [
+        45,
+        226,
+        145,
+        249
+      ],
+      "confidence": 0.9874743819236755
+    },
+    {
+      "text": "3. Using the five-point rating scale below, how would you rate the individual character-",
+      "bbox": [
+        45,
+        285,
+        713,
+        308
+      ],
+      "confidence": 0.9796945452690125
+    },
+    {
+      "text": "fstics for these two brands:",
+      "bbox": [
+        78,
+        303,
+        289,
+        321
+      ],
+      "confidence": 0.9582938551902771
+    },
+    {
+      "text": "TOBACCO TASTE",
+      "bbox": [
+        221,
+        334,
+        318,
+        351
+      ],
+      "confidence": 0.9788415431976318
+    },
+    {
+      "text": "MILDNESS",
+      "bbox": [
+        525,
+        335,
+        589,
+        353
+      ],
+      "confidence": 0.9997125267982483
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        182,
+        350,
+        210,
+        369
+      ],
+      "confidence": 0.9785376191139221
+    },
+    {
+      "text": "About",
+      "bbox": [
+        256,
+        349,
+        299,
+        368
+      ],
+      "confidence": 0.9726213216781616
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        361,
+        351,
+        388,
+        369
+      ],
+      "confidence": 0.9860153198242188
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        468,
+        351,
+        495,
+        371
+      ],
+      "confidence": 0.993133544921875
+    },
+    {
+      "text": "About",
+      "bbox": [
+        555,
+        351,
+        599,
+        369
+      ],
+      "confidence": 0.9990838170051575
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        655,
+        348,
+        686,
+        367
+      ],
+      "confidence": 0.9944674968719482
+    },
+    {
+      "text": "Much",
+      "bbox": [
+        171,
+        364,
+        212,
+        386
+      ],
+      "confidence": 0.9979272484779358
+    },
+    {
+      "text": "Right",
+      "bbox": [
+        254,
+        365,
+        301,
+        384
+      ],
+      "confidence": 0.9826313257217407
+    },
+    {
+      "text": "Little",
+      "bbox": [
+        341,
+        364,
+        398,
+        385
+      ],
+      "confidence": 0.994605302810669
+    },
+    {
+      "text": "Strong",
+      "bbox": [
+        454,
+        364,
+        515,
+        388
+      ],
+      "confidence": 0.9818989634513855
+    },
+    {
+      "text": "Right",
+      "bbox": [
+        553,
+        364,
+        602,
+        386
+      ],
+      "confidence": 0.9288663864135742
+    },
+    {
+      "text": "Mild",
+      "bbox": [
+        647,
+        363,
+        686,
+        382
+      ],
+      "confidence": 0.9914764165878296
+    },
+    {
+      "text": "Brand \"J\"",
+      "bbox": [
+        66,
+        394,
+        143,
+        419
+      ],
+      "confidence": 0.9331597089767456
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        173,
+        394,
+        203,
+        419
+      ],
+      "confidence": 0.9867374897003174
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        218,
+        394,
+        249,
+        419
+      ],
+      "confidence": 0.9212493896484375
+    },
+    {
+      "text": "(3) (4)",
+      "bbox": [
+        262,
+        394,
+        337,
+        419
+      ],
+      "confidence": 0.78249591588974
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        350,
+        395,
+        381,
+        419
+      ],
+      "confidence": 0.9683220982551575
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        466,
+        395,
+        498,
+        421
+      ],
+      "confidence": 0.9906949996948242
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        510,
+        394,
+        552,
+        421
+      ],
+      "confidence": 0.7921134829521179
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        563,
+        394,
+        595,
+        420
+      ],
+      "confidence": 0.986909806728363
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        608,
+        392,
+        642,
+        417
+      ],
+      "confidence": 0.996465265750885
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        656,
+        391,
+        687,
+        416
+      ],
+      "confidence": 0.9899609684944153
+    },
+    {
+      "text": "Brand \"M\".",
+      "bbox": [
+        66,
+        425,
+        148,
+        450
+      ],
+      "confidence": 0.9821921586990356
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        173,
+        425,
+        203,
+        451
+      ],
+      "confidence": 0.9936888813972473
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        218,
+        425,
+        249,
+        451
+      ],
+      "confidence": 0.8663824200630188
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        262,
+        425,
+        293,
+        451
+      ],
+      "confidence": 0.9672062993049622
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        306,
+        426,
+        338,
+        451
+      ],
+      "confidence": 0.9860793948173523
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        350,
+        426,
+        389,
+        451
+      ],
+      "confidence": 0.8985678553581238
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        467,
+        426,
+        498,
+        453
+      ],
+      "confidence": 0.9794281125068665
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        512,
+        426,
+        545,
+        452
+      ],
+      "confidence": 0.9465303421020508
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        565,
+        425,
+        597,
+        450
+      ],
+      "confidence": 0.9912686347961426
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        610,
+        424,
+        643,
+        449
+      ],
+      "confidence": 0.9965699315071106
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        659,
+        424,
+        689,
+        446
+      ],
+      "confidence": 0.9945388436317444
+    },
+    {
+      "text": "BURNING_QUALITY",
+      "bbox": [
+        219,
+        476,
+        340,
+        496
+      ],
+      "confidence": 0.9763683080673218
+    },
+    {
+      "text": "DRAW",
+      "bbox": [
+        544,
+        474,
+        584,
+        496
+      ],
+      "confidence": 0.988224446773529
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        183,
+        495,
+        212,
+        511
+      ],
+      "confidence": 0.9763395190238953
+    },
+    {
+      "text": "About",
+      "bbox": [
+        264,
+        493,
+        308,
+        512
+      ],
+      "confidence": 0.9858753085136414
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        354,
+        494,
+        384,
+        513
+      ],
+      "confidence": 0.9574229121208191
+    },
+    {
+      "text": "..Too",
+      "bbox": [
+        462,
+        495,
+        500,
+        513
+      ],
+      "confidence": 0.8652251362800598
+    },
+    {
+      "text": "About",
+      "bbox": [
+        547,
+        493,
+        591,
+        511
+      ],
+      "confidence": 0.9993755221366882
+    },
+    {
+      "text": "Too",
+      "bbox": [
+        650,
+        489,
+        682,
+        509
+      ],
+      "confidence": 0.9731598496437073
+    },
+    {
+      "text": "Fast",
+      "bbox": [
+        171,
+        508,
+        211,
+        527
+      ],
+      "confidence": 0.9036981463432312
+    },
+    {
+      "text": "Right",
+      "bbox": [
+        262,
+        509,
+        309,
+        527
+      ],
+      "confidence": 0.9858636856079102
+    },
+    {
+      "text": "Slow",
+      "bbox": [
+        342,
+        505,
+        389,
+        532
+      ],
+      "confidence": 0.8309186697006226
+    },
+    {
+      "text": "Hard",
+      "bbox": [
+        459,
+        508,
+        502,
+        530
+      ],
+      "confidence": 0.9809067845344543
+    },
+    {
+      "text": "Right",
+      "bbox": [
+        540,
+        506,
+        595,
+        530
+      ],
+      "confidence": 0.9094165563583374
+    },
+    {
+      "text": "Easy_",
+      "bbox": [
+        637,
+        505,
+        688,
+        527
+      ],
+      "confidence": 0.9162830114364624
+    },
+    {
+      "text": "Brand \"J\"",
+      "bbox": [
+        63,
+        538,
+        140,
+        563
+      ],
+      "confidence": 0.9121300578117371
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        173,
+        540,
+        200,
+        562
+      ],
+      "confidence": 0.9551933407783508
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        219,
+        540,
+        247,
+        562
+      ],
+      "confidence": 0.980914831161499
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        270,
+        539,
+        301,
+        565
+      ],
+      "confidence": 0.9973602294921875
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        316,
+        539,
+        347,
+        564
+      ],
+      "confidence": 0.989513635635376
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        350,
+        539,
+        383,
+        564
+      ],
+      "confidence": 0.9854100346565247
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        472,
+        540,
+        504,
+        565
+      ],
+      "confidence": 0.9747786521911621
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        509,
+        539,
+        540,
+        565
+      ],
+      "confidence": 0.9593246579170227
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        553,
+        539,
+        587,
+        564
+      ],
+      "confidence": 0.986405074596405
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        599,
+        538,
+        635,
+        562
+      ],
+      "confidence": 0.960167407989502
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        648,
+        539,
+        681,
+        561
+      ],
+      "confidence": 0.9852525591850281
+    },
+    {
+      "text": "Brand \"M\"",
+      "bbox": [
+        62,
+        568,
+        141,
+        595
+      ],
+      "confidence": 0.9264801740646362
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        173,
+        571,
+        200,
+        593
+      ],
+      "confidence": 0.932694137096405
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        216,
+        570,
+        248,
+        594
+      ],
+      "confidence": 0.9338841438293457
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        270,
+        570,
+        301,
+        595
+      ],
+      "confidence": 0.991748034954071
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        318,
+        572,
+        347,
+        593
+      ],
+      "confidence": 0.9875062108039856
+    },
+    {
+      "text": "(5)",
+      "bbox": [
+        351,
+        571,
+        388,
+        594
+      ],
+      "confidence": 0.767491340637207
+    },
+    {
+      "text": "{1)",
+      "bbox": [
+        473,
+        573,
+        504,
+        594
+      ],
+      "confidence": 0.8459510207176208
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        508,
+        571,
+        542,
+        595
+      ],
+      "confidence": 0.9671189188957214
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        554,
+        570,
+        592,
+        596
+      ],
+      "confidence": 0.9693381786346436
+    },
+    {
+      "text": "(4(5)",
+      "bbox": [
+        598,
+        569,
+        682,
+        594
+      ],
+      "confidence": 0.8132781982421875
+    },
+    {
+      "text": "4. . All things considered, if you were to make out a report card on the \"J\" Brand,",
+      "bbox": [
+        38,
+        616,
+        682,
+        644
+      ],
+      "confidence": 0.9761359095573425
+    },
+    {
+      "text": "the \"M\" Brand, and your own brand (using the grading system A through F, where",
+      "bbox": [
+        71,
+        635,
+        682,
+        658
+      ],
+      "confidence": 0.9701817631721497
+    },
+    {
+      "text": "A is excellent and F is totally unsatisfactory), how would you grade?",
+      "bbox": [
+        71,
+        651,
+        612,
+        674
+      ],
+      "confidence": 0.9785494804382324
+    },
+    {
+      "text": "Brand \"J\"",
+      "bbox": [
+        168,
+        689,
+        246,
+        713
+      ],
+      "confidence": 0.9458830952644348
+    },
+    {
+      "text": "A",
+      "bbox": [
+        293,
+        692,
+        310,
+        712
+      ],
+      "confidence": 0.9996317625045776
+    },
+    {
+      "text": "B",
+      "bbox": [
+        339,
+        692,
+        355,
+        712
+      ],
+      "confidence": 0.9995262622833252
+    },
+    {
+      "text": "c",
+      "bbox": [
+        386,
+        694,
+        400,
+        711
+      ],
+      "confidence": 0.7074210047721863
+    },
+    {
+      "text": "D",
+      "bbox": [
+        434,
+        694,
+        447,
+        711
+      ],
+      "confidence": 0.9998176693916321
+    },
+    {
+      "text": "E",
+      "bbox": [
+        481,
+        694,
+        495,
+        711
+      ],
+      "confidence": 0.9998480081558228
+    },
+    {
+      "text": "F",
+      "bbox": [
+        529,
+        693,
+        543,
+        710
+      ],
+      "confidence": 0.9999098777770996
+    },
+    {
+      "text": "Brand \"M\"",
+      "bbox": [
+        170,
+        715,
+        246,
+        736
+      ],
+      "confidence": 0.8976446986198425
+    },
+    {
+      "text": "A",
+      "bbox": [
+        294,
+        717,
+        308,
+        734
+      ],
+      "confidence": 0.9997915625572205
+    },
+    {
+      "text": "B",
+      "bbox": [
+        340,
+        716,
+        353,
+        734
+      ],
+      "confidence": 0.999663233757019
+    },
+    {
+      "text": "c",
+      "bbox": [
+        385,
+        715,
+        402,
+        735
+      ],
+      "confidence": 0.6751310229301453
+    },
+    {
+      "text": "D",
+      "bbox": [
+        433,
+        715,
+        448,
+        735
+      ],
+      "confidence": 0.998075008392334
+    },
+    {
+      "text": "E",
+      "bbox": [
+        481,
+        717,
+        495,
+        734
+      ],
+      "confidence": 0.9998281002044678
+    },
+    {
+      "text": "F",
+      "bbox": [
+        530,
+        716,
+        543,
+        733
+      ],
+      "confidence": 0.9998452663421631
+    },
+    {
+      "text": "Own Brand",
+      "bbox": [
+        172,
+        740,
+        249,
+        758
+      ],
+      "confidence": 0.9975276589393616
+    },
+    {
+      "text": "A",
+      "bbox": [
+        292,
+        740,
+        309,
+        758
+      ],
+      "confidence": 0.9994226694107056
+    },
+    {
+      "text": "B",
+      "bbox": [
+        339,
+        740,
+        353,
+        757
+      ],
+      "confidence": 0.9996392726898193
+    },
+    {
+      "text": "c",
+      "bbox": [
+        386,
+        740,
+        400,
+        757
+      ],
+      "confidence": 0.6578255295753479
+    },
+    {
+      "text": "D",
+      "bbox": [
+        431,
+        739,
+        449,
+        757
+      ],
+      "confidence": 0.999840259552002
+    },
+    {
+      "text": "E",
+      "bbox": [
+        482,
+        739,
+        495,
+        756
+      ],
+      "confidence": 0.9998146891593933
+    },
+    {
+      "text": "F",
+      "bbox": [
+        529,
+        738,
+        543,
+        755
+      ],
+      "confidence": 0.9999047517776489
+    },
+    {
+      "text": "Thank you for your cooperation.",
+      "bbox": [
+        40,
+        787,
+        279,
+        807
+      ],
+      "confidence": 0.999204158782959
+    }
+  ],
+  "full_text": "CIGARETTE TEST NO. 75-22\nName\nLocation\nYou have been given two packs of cigarettes, one pack labeled \"J\" and one pack labeled \"M\".\nPlease smoke these cigarettes and complete and return the questionnaire to your Panel\nSupervisor by Tuesday, May 27.\n1. Which cigarette do you prefer? , \"J\" Brand ( ) \"M\" Brand ( ) No Choice ( )\n2. Comments\n3. Using the five-point rating scale below, how would you rate the individual character-\nfstics for these two brands:\nTOBACCO TASTE\nMILDNESS\nToo\nAbout\nToo\nToo\nAbout\nToo\nMuch\nRight\nLittle\nStrong\nRight\nMild\nBrand \"J\"\n(1)\n(2)\n(3) (4)\n(5)\n(1)\n(2)\n(3)\n(4)\n(5)\nBrand \"M\".\n(1)\n(2)\n(3)\n(4)\n(5)\n(1)\n(2)\n(3)\n(4)\n(5)\nBURNING_QUALITY\nDRAW\nToo\nAbout\nToo\n..Too\nAbout\nToo\nFast\nRight\nSlow\nHard\nRight\nEasy_\nBrand \"J\"\n(1)\n(2)\n(3)\n(4)\n(5)\n(1)\n(2)\n(3)\n(4)\n(5)\nBrand \"M\"\n(1)\n(2)\n(3)\n(4)\n(5)\n{1)\n(2)\n(3)\n(4(5)\n4. . All things considered, if you were to make out a report card on the \"J\" Brand,\nthe \"M\" Brand, and your own brand (using the grading system A through F, where\nA is excellent and F is totally unsatisfactory), how would you grade?\nBrand \"J\"\nA\nB\nc\nD\nE\nF\nBrand \"M\"\nA\nB\nc\nD\nE\nF\nOwn Brand\nA\nB\nc\nD\nE\nF\nThank you for your cooperation."
+}

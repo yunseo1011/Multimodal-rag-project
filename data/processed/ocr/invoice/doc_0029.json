@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0029.png",
+    "image_width": 788,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BORRISTON",
+      "bbox": [
+        77,
+        73,
+        280,
+        104
+      ],
+      "confidence": 0.9981558918952942
+    },
+    {
+      "text": "RESEARCH LABORATORIES, INC.",
+      "bbox": [
+        79,
+        100,
+        277,
+        120
+      ],
+      "confidence": 0.9843124151229858
+    },
+    {
+      "text": "* * * * INVOICE * * * *",
+      "bbox": [
+        316,
+        115,
+        525,
+        138
+      ],
+      "confidence": 0.8629748225212097
+    },
+    {
+      "text": "November 6, 1981",
+      "bbox": [
+        82,
+        210,
+        217,
+        230
+      ],
+      "confidence": 0.9973598122596741
+    },
+    {
+      "text": "LORILLARD INC.",
+      "bbox": [
+        84,
+        276,
+        201,
+        293
+      ],
+      "confidence": 0.9746364951133728
+    },
+    {
+      "text": "420 English Street",
+      "bbox": [
+        82,
+        289,
+        239,
+        313
+      ],
+      "confidence": 0.9245447516441345
+    },
+    {
+      "text": "Greensboro, North Carolina 27420",
+      "bbox": [
+        82,
+        303,
+        354,
+        329
+      ],
+      "confidence": 0.9866417050361633
+    },
+    {
+      "text": "Attention: Dr. Harry Minnemeyer",
+      "bbox": [
+        82,
+        354,
+        355,
+        376
+      ],
+      "confidence": 0.9819903373718262
+    },
+    {
+      "text": "Ref.:",
+      "bbox": [
+        79,
+        404,
+        129,
+        429
+      ],
+      "confidence": 0.9966998100280762
+    },
+    {
+      "text": "P. O. #312A",
+      "bbox": [
+        208,
+        402,
+        307,
+        426
+      ],
+      "confidence": 0.9325165152549744
+    },
+    {
+      "text": "BRL Ref.:",
+      "bbox": [
+        81,
+        440,
+        162,
+        461
+      ],
+      "confidence": 0.9922558665275574
+    },
+    {
+      "text": "2-22-251R",
+      "bbox": [
+        210,
+        440,
+        291,
+        458
+      ],
+      "confidence": 0.9999558329582214
+    },
+    {
+      "text": "Invoice No.:",
+      "bbox": [
+        81,
+        475,
+        187,
+        495
+      ],
+      "confidence": 0.9986798763275146
+    },
+    {
+      "text": "1R",
+      "bbox": [
+        207,
+        474,
+        232,
+        494
+      ],
+      "confidence": 0.9986783266067505
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        155,
+        522,
+        258,
+        547
+      ],
+      "confidence": 0.9999425411224365
+    },
+    {
+      "text": "AMOUNT",
+      "bbox": [
+        567,
+        519,
+        626,
+        539
+      ],
+      "confidence": 0.999518871307373
+    },
+    {
+      "text": "For Submission of Final Report",
+      "bbox": [
+        78,
+        540,
+        346,
+        564
+      ],
+      "confidence": 0.9911270141601562
+    },
+    {
+      "text": "$2,700.00",
+      "bbox": [
+        551,
+        534,
+        637,
+        560
+      ],
+      "confidence": 0.9744412899017334
+    },
+    {
+      "text": "CARDIOVASCULAR TESTING OF COM-",
+      "bbox": [
+        79,
+        556,
+        345,
+        581
+      ],
+      "confidence": 0.9867257475852966
+    },
+    {
+      "text": "POUND A-16 IN THE BEAGLE DOG",
+      "bbox": [
+        79,
+        573,
+        329,
+        597
+      ],
+      "confidence": 0.9808272123336792
+    },
+    {
+      "text": "@ $2,700.00 per compound",
+      "bbox": [
+        79,
+        591,
+        294,
+        616
+      ],
+      "confidence": 0.991969645023346
+    },
+    {
+      "text": "REMITTANCE ADDRESS: DynamaC Building",
+      "bbox": [
+        229,
+        654,
+        559,
+        682
+      ],
+      "confidence": 0.9619663953781128
+    },
+    {
+      "text": "11140Rockville Pike",
+      "bbox": [
+        412,
+        672,
+        593,
+        695
+      ],
+      "confidence": 0.986793041229248
+    },
+    {
+      "text": "Rockville, Md. 20852",
+      "bbox": [
+        411,
+        688,
+        594,
+        713
+      ],
+      "confidence": 0.9749959111213684
+    },
+    {
+      "text": "B. Belford,",
+      "bbox": [
+        410,
+        723,
+        513,
+        747
+      ],
+      "confidence": 0.9966234564781189
+    },
+    {
+      "text": "Attn:",
+      "bbox": [
+        327,
+        730,
+        371,
+        745
+      ],
+      "confidence": 0.9995080232620239
+    },
+    {
+      "text": "Accounting",
+      "bbox": [
+        413,
+        743,
+        505,
+        761
+      ],
+      "confidence": 0.9999791979789734
+    },
+    {
+      "text": "00921444",
+      "bbox": [
+        693,
+        842,
+        729,
+        948
+      ],
+      "confidence": 0.9999474287033081
+    },
+    {
+      "text": "INVOICE * * * *",
+      "bbox": [
+        397,
+        884,
+        538,
+        905
+      ],
+      "confidence": 0.9335786700248718
+    }
+  ],
+  "full_text": "BORRISTON\nRESEARCH LABORATORIES, INC.\n* * * * INVOICE * * * *\nNovember 6, 1981\nLORILLARD INC.\n420 English Street\nGreensboro, North Carolina 27420\nAttention: Dr. Harry Minnemeyer\nRef.:\nP. O. #312A\nBRL Ref.:\n2-22-251R\nInvoice No.:\n1R\nDESCRIPTION\nAMOUNT\nFor Submission of Final Report\n$2,700.00\nCARDIOVASCULAR TESTING OF COM-\nPOUND A-16 IN THE BEAGLE DOG\n@ $2,700.00 per compound\nREMITTANCE ADDRESS: DynamaC Building\n11140Rockville Pike\nRockville, Md. 20852\nB. Belford,\nAttn:\nAccounting\n00921444\nINVOICE * * * *"
+}

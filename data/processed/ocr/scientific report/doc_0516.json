@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0516.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "slide 1",
+      "bbox": [
+        39,
+        125,
+        104,
+        145
+      ],
+      "confidence": 0.9316239953041077
+    },
+    {
+      "text": "ODOR AND IRRITATION ASPECTS OF CIGARETTE SIDESTREAM SMOKE",
+      "bbox": [
+        82,
+        212,
+        578,
+        242
+      ],
+      "confidence": 0.9954768419265747
+    },
+    {
+      "text": "2051027462",
+      "bbox": [
+        727,
+        840,
+        753,
+        991
+      ],
+      "confidence": 0.9999234080314636
+    }
+  ],
+  "full_text": "slide 1\nODOR AND IRRITATION ASPECTS OF CIGARETTE SIDESTREAM SMOKE\n2051027462"
+}

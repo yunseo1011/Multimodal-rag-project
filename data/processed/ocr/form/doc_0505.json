@@ -1,0 +1,1201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0505.png",
+    "image_width": 783,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BERMUDA HUNDRED PILOT PLANT",
+      "bbox": [
+        160,
+        2,
+        601,
+        32
+      ],
+      "confidence": 0.9977207779884338
+    },
+    {
+      "text": "RUN SET-UP SHEET",
+      "bbox": [
+        250,
+        36,
+        511,
+        63
+      ],
+      "confidence": 0.9875173568725586
+    },
+    {
+      "text": "289",
+      "bbox": [
+        457,
+        74,
+        502,
+        97
+      ],
+      "confidence": 0.9997138977050781
+    },
+    {
+      "text": "Wednesday,",
+      "bbox": [
+        591,
+        73,
+        677,
+        97
+      ],
+      "confidence": 0.9822857975959778
+    },
+    {
+      "text": "RUN NO.",
+      "bbox": [
+        0,
+        88,
+        69,
+        108
+      ],
+      "confidence": 0.9436359405517578
+    },
+    {
+      "text": "89-280",
+      "bbox": [
+        95,
+        90,
+        150,
+        108
+      ],
+      "confidence": 0.9272225499153137
+    },
+    {
+      "text": "HIGH PRESSURE CYCLE NO. 08",
+      "bbox": [
+        234,
+        89,
+        490,
+        109
+      ],
+      "confidence": 0.9305492639541626
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        535,
+        94,
+        581,
+        109
+      ],
+      "confidence": 0.9992602467536926
+    },
+    {
+      "text": "04-JAN-89",
+      "bbox": [
+        594,
+        94,
+        672,
+        108
+      ],
+      "confidence": 0.9989700317382812
+    },
+    {
+      "text": "***BHPP CHECK OUT RUN with tObACCO *****",
+      "bbox": [
+        102,
+        105,
+        434,
+        123
+      ],
+      "confidence": 0.8964289426803589
+    },
+    {
+      "text": "PURPOSE:",
+      "bbox": [
+        0,
+        122,
+        74,
+        139
+      ],
+      "confidence": 0.999439001083374
+    },
+    {
+      "text": "DL-5 WITH 3% AB, 2% PG, 28 Gly ; LVL CRS @ 150 Cpi",
+      "bbox": [
+        126,
+        123,
+        538,
+        141
+      ],
+      "confidence": 0.9127475619316101
+    },
+    {
+      "text": "3% AB, 2% PG, 2% Gly APPLIED TO FILIER @ BHPP",
+      "bbox": [
+        127,
+        157,
+        497,
+        174
+      ],
+      "confidence": 0.9608234167098999
+    },
+    {
+      "text": "FILLER ORDERING AND STEM CASING:",
+      "bbox": [
+        0,
+        187,
+        268,
+        209
+      ],
+      "confidence": 0.9801009893417358
+    },
+    {
+      "text": "BOX FEED OV: =12.5 %",
+      "bbox": [
+        0,
+        218,
+        202,
+        244
+      ],
+      "confidence": 0.8711637258529663
+    },
+    {
+      "text": "TARGET ORDERED OV: FLOAT % TARGET AB: 3.0",
+      "bbox": [
+        204,
+        221,
+        583,
+        240
+      ],
+      "confidence": 0.9627801775932312
+    },
+    {
+      "text": "8DWB",
+      "bbox": [
+        583,
+        221,
+        622,
+        239
+      ],
+      "confidence": 0.8612589240074158
+    },
+    {
+      "text": "# 10",
+      "bbox": [
+        0,
+        236,
+        40,
+        255
+      ],
+      "confidence": 0.9875081777572632
+    },
+    {
+      "text": "PG",
+      "bbox": [
+        417,
+        239,
+        454,
+        257
+      ],
+      "confidence": 0.9963434934616089
+    },
+    {
+      "text": "WT: 18.1",
+      "bbox": [
+        447,
+        239,
+        531,
+        256
+      ],
+      "confidence": 0.9719113111495972
+    },
+    {
+      "text": "IBS",
+      "bbox": [
+        550,
+        239,
+        581,
+        255
+      ],
+      "confidence": 0.9888133406639099
+    },
+    {
+      "text": "SOLUTION CONC. 11.4 % AB WT: 30.4",
+      "bbox": [
+        42,
+        253,
+        382,
+        275
+      ],
+      "confidence": 0.9358962774276733
+    },
+    {
+      "text": "lbs",
+      "bbox": [
+        374,
+        258,
+        410,
+        273
+      ],
+      "confidence": 0.9532644152641296
+    },
+    {
+      "text": "Gly WT: 20.3",
+      "bbox": [
+        415,
+        254,
+        533,
+        273
+      ],
+      "confidence": 0.9684165120124817
+    },
+    {
+      "text": "IBS",
+      "bbox": [
+        550,
+        256,
+        581,
+        271
+      ],
+      "confidence": 0.9787613749504089
+    },
+    {
+      "text": "78 to 80 °F",
+      "bbox": [
+        616,
+        252,
+        732,
+        276
+      ],
+      "confidence": 0.934030294418335
+    },
+    {
+      "text": "H20 WT: 198.0",
+      "bbox": [
+        418,
+        271,
+        542,
+        290
+      ],
+      "confidence": 0.9414395689964294
+    },
+    {
+      "text": "IBS",
+      "bbox": [
+        543,
+        274,
+        580,
+        289
+      ],
+      "confidence": 0.9618952870368958
+    },
+    {
+      "text": "APPLICATION RATE:",
+      "bbox": [
+        0,
+        304,
+        148,
+        324
+      ],
+      "confidence": 0.9994240999221802
+    },
+    {
+      "text": "151.1 1bs/hr.@",
+      "bbox": [
+        181,
+        305,
+        304,
+        326
+      ],
+      "confidence": 0.9419172406196594
+    },
+    {
+      "text": "525",
+      "bbox": [
+        336,
+        305,
+        369,
+        325
+      ],
+      "confidence": 0.9999127388000488
+    },
+    {
+      "text": "lbS/hr FILIER FEED RATE",
+      "bbox": [
+        385,
+        305,
+        580,
+        325
+      ],
+      "confidence": 0.9307119250297546
+    },
+    {
+      "text": "( MODEL USING 1.25 FUDGE, 0.9 PGfactor, 1.0 Gfactor, 26 %OVtargetnopgg)",
+      "bbox": [
+        44,
+        321,
+        626,
+        343
+      ],
+      "confidence": 0.9605557322502136
+    },
+    {
+      "text": "CASED STEM OV:",
+      "bbox": [
+        43,
+        338,
+        165,
+        357
+      ],
+      "confidence": 0.9955126047134399
+    },
+    {
+      "text": "35",
+      "bbox": [
+        190,
+        341,
+        214,
+        356
+      ],
+      "confidence": 0.9999541640281677
+    },
+    {
+      "text": "8",
+      "bbox": [
+        229,
+        342,
+        247,
+        355
+      ],
+      "confidence": 0.9120591282844543
+    },
+    {
+      "text": "ABSORBANT LEVEL:",
+      "bbox": [
+        255,
+        340,
+        392,
+        357
+      ],
+      "confidence": 0.9908778667449951
+    },
+    {
+      "text": "12",
+      "bbox": [
+        417,
+        341,
+        442,
+        357
+      ],
+      "confidence": 0.9999440312385559
+    },
+    {
+      "text": "8",
+      "bbox": [
+        458,
+        342,
+        473,
+        356
+      ],
+      "confidence": 0.8125385046005249
+    },
+    {
+      "text": "TYPE ABSORBANT: MPCitrate",
+      "bbox": [
+        484,
+        341,
+        703,
+        358
+      ],
+      "confidence": 0.9744009971618652
+    },
+    {
+      "text": "TOBACOO LOADING AND DRYING:",
+      "bbox": [
+        0,
+        371,
+        225,
+        391
+      ],
+      "confidence": 0.9895594120025635
+    },
+    {
+      "text": "DRY WT",
+      "bbox": [
+        410,
+        391,
+        466,
+        409
+      ],
+      "confidence": 0.9976585507392883
+    },
+    {
+      "text": "AS-IS",
+      "bbox": [
+        490,
+        390,
+        540,
+        408
+      ],
+      "confidence": 0.9992517232894897
+    },
+    {
+      "text": "DENSITY",
+      "bbox": [
+        573,
+        390,
+        637,
+        407
+      ],
+      "confidence": 0.9996756315231323
+    },
+    {
+      "text": "TARGET OV",
+      "bbox": [
+        658,
+        389,
+        738,
+        406
+      ],
+      "confidence": 0.9978825449943542
+    },
+    {
+      "text": "MATERIAL",
+      "bbox": [
+        41,
+        406,
+        114,
+        423
+      ],
+      "confidence": 0.9900715351104736
+    },
+    {
+      "text": "VESSEL",
+      "bbox": [
+        122,
+        407,
+        179,
+        424
+      ],
+      "confidence": 0.97239750623703
+    },
+    {
+      "text": "BASKET CONFIGURATION",
+      "bbox": [
+        205,
+        407,
+        376,
+        424
+      ],
+      "confidence": 0.9937353134155273
+    },
+    {
+      "text": "POUNDS",
+      "bbox": [
+        409,
+        408,
+        467,
+        425
+      ],
+      "confidence": 0.9996840357780457
+    },
+    {
+      "text": "POUNDS",
+      "bbox": [
+        489,
+        406,
+        550,
+        426
+      ],
+      "confidence": 0.9991269111633301
+    },
+    {
+      "text": "1BS/FT3",
+      "bbox": [
+        572,
+        405,
+        635,
+        423
+      ],
+      "confidence": 0.7975124716758728
+    },
+    {
+      "text": "DRYING",
+      "bbox": [
+        672,
+        404,
+        729,
+        425
+      ],
+      "confidence": 0.9996860027313232
+    },
+    {
+      "text": "DRIED TD I2.S",
+      "bbox": [
+        672,
+        422,
+        782,
+        440
+      ],
+      "confidence": 0.8697993159294128
+    },
+    {
+      "text": "DL-5",
+      "bbox": [
+        56,
+        439,
+        98,
+        457
+      ],
+      "confidence": 0.9429521560668945
+    },
+    {
+      "text": "EXTR",
+      "bbox": [
+        129,
+        442,
+        175,
+        457
+      ],
+      "confidence": 0.9994863271713257
+    },
+    {
+      "text": "SMALL INSERT",
+      "bbox": [
+        206,
+        441,
+        310,
+        458
+      ],
+      "confidence": 0.9956890940666199
+    },
+    {
+      "text": "222",
+      "bbox": [
+        415,
+        438,
+        451,
+        461
+      ],
+      "confidence": 0.9999664425849915
+    },
+    {
+      "text": "300",
+      "bbox": [
+        508,
+        439,
+        540,
+        458
+      ],
+      "confidence": 0.9998603463172913
+    },
+    {
+      "text": "15.4",
+      "bbox": [
+        589,
+        438,
+        632,
+        457
+      ],
+      "confidence": 0.9998323321342468
+    },
+    {
+      "text": "LVL CRS",
+      "bbox": [
+        39,
+        454,
+        105,
+        475
+      ],
+      "confidence": 0.9984103441238403
+    },
+    {
+      "text": "269",
+      "bbox": [
+        417,
+        472,
+        451,
+        492
+      ],
+      "confidence": 0.999870777130127
+    },
+    {
+      "text": "480",
+      "bbox": [
+        509,
+        471,
+        540,
+        491
+      ],
+      "confidence": 0.9998864531517029
+    },
+    {
+      "text": "15.3",
+      "bbox": [
+        591,
+        471,
+        632,
+        490
+      ],
+      "confidence": 0.9985185861587524
+    },
+    {
+      "text": "10-14%",
+      "bbox": [
+        662,
+        469,
+        732,
+        490
+      ],
+      "confidence": 0.9938730597496033
+    },
+    {
+      "text": "150 cpi_",
+      "bbox": [
+        42,
+        474,
+        114,
+        491
+      ],
+      "confidence": 0.8731681108474731
+    },
+    {
+      "text": "ABS",
+      "bbox": [
+        136,
+        474,
+        173,
+        492
+      ],
+      "confidence": 0.9970479011535645
+    },
+    {
+      "text": "NO MIDDLESCREEN",
+      "bbox": [
+        205,
+        476,
+        342,
+        490
+      ],
+      "confidence": 0.984531044960022
+    },
+    {
+      "text": "FILLER/STEM RATIO (DWB): 9:11",
+      "bbox": [
+        198,
+        506,
+        449,
+        526
+      ],
+      "confidence": 0.9668205976486206
+    },
+    {
+      "text": "FILLTO",
+      "bbox": [
+        632,
+        514,
+        722,
+        537
+      ],
+      "confidence": 0.8568625450134277
+    },
+    {
+      "text": "FIXED WT",
+      "bbox": [
+        607,
+        532,
+        732,
+        558
+      ],
+      "confidence": 0.9729433059692383
+    },
+    {
+      "text": "EXTRACTION PROCESS TARGETS:",
+      "bbox": [
+        0,
+        537,
+        226,
+        558
+      ],
+      "confidence": 0.9917938709259033
+    },
+    {
+      "text": "PRESSURE:",
+      "bbox": [
+        41,
+        571,
+        136,
+        591
+      ],
+      "confidence": 0.9992274045944214
+    },
+    {
+      "text": "3800",
+      "bbox": [
+        147,
+        573,
+        190,
+        592
+      ],
+      "confidence": 0.9999422430992126
+    },
+    {
+      "text": "_pSig TEMP: _140_F M/M: _200",
+      "bbox": [
+        194,
+        571,
+        486,
+        593
+      ],
+      "confidence": 0.8620927929878235
+    },
+    {
+      "text": "CYCLE TIME: _5 hrs",
+      "bbox": [
+        514,
+        568,
+        686,
+        592
+      ],
+      "confidence": 0.9428438544273376
+    },
+    {
+      "text": "mins",
+      "bbox": [
+        706,
+        572,
+        749,
+        591
+      ],
+      "confidence": 0.9999275207519531
+    },
+    {
+      "text": "VESSEL ISOLATION: EXTR: --- / NO",
+      "bbox": [
+        40,
+        604,
+        315,
+        626
+      ],
+      "confidence": 0.9792056679725647
+    },
+    {
+      "text": "ABS 1: --- / NO",
+      "bbox": [
+        334,
+        605,
+        470,
+        625
+      ],
+      "confidence": 0.9157046675682068
+    },
+    {
+      "text": "ABS 2: --- / NO",
+      "bbox": [
+        491,
+        604,
+        626,
+        625
+      ],
+      "confidence": 0.891565203666687
+    },
+    {
+      "text": "FILL/HEATUP",
+      "bbox": [
+        125,
+        641,
+        219,
+        659
+      ],
+      "confidence": 0.9985160827636719
+    },
+    {
+      "text": "15",
+      "bbox": [
+        246,
+        651,
+        276,
+        679
+      ],
+      "confidence": 0.9798980951309204
+    },
+    {
+      "text": "EXTRACTION",
+      "bbox": [
+        512,
+        640,
+        599,
+        658
+      ],
+      "confidence": 0.9993659257888794
+    },
+    {
+      "text": "WORKING VESSEL LEVEL:",
+      "bbox": [
+        43,
+        675,
+        224,
+        693
+      ],
+      "confidence": 0.9992287158966064
+    },
+    {
+      "text": "988",
+      "bbox": [
+        245,
+        674,
+        293,
+        693
+      ],
+      "confidence": 0.8122329711914062
+    },
+    {
+      "text": "FLOW PATTERN: 11",
+      "bbox": [
+        320,
+        672,
+        475,
+        693
+      ],
+      "confidence": 0.9855283498764038
+    },
+    {
+      "text": "FLOW PATTERN: 11",
+      "bbox": [
+        42,
+        708,
+        178,
+        727
+      ],
+      "confidence": 0.997055172920227
+    },
+    {
+      "text": "RECIRCULATION RATE: ",
+      "bbox": [
+        321,
+        705,
+        493,
+        727
+      ],
+      "confidence": 0.9755302667617798
+    },
+    {
+      "text": "285 lbs/min",
+      "bbox": [
+        524,
+        704,
+        643,
+        725
+      ],
+      "confidence": 0.9464880228042603
+    },
+    {
+      "text": "RECIRC RATE: 267",
+      "bbox": [
+        42,
+        740,
+        197,
+        760
+      ],
+      "confidence": 0.9893362522125244
+    },
+    {
+      "text": "1bs/min",
+      "bbox": [
+        224,
+        741,
+        289,
+        759
+      ],
+      "confidence": 0.9367257356643677
+    },
+    {
+      "text": "C2 RECIRCULATION SP: _44,400",
+      "bbox": [
+        320,
+        736,
+        575,
+        760
+      ],
+      "confidence": 0.9517194032669067
+    },
+    {
+      "text": "lbs",
+      "bbox": [
+        609,
+        736,
+        645,
+        759
+      ],
+      "confidence": 0.897106945514679
+    },
+    {
+      "text": "CO2 VELOCITY: EXTR: 1.8 ft/min ABS: 1.8 ft/min",
+      "bbox": [
+        321,
+        769,
+        750,
+        793
+      ],
+      "confidence": 0.9629864692687988
+    },
+    {
+      "text": "FILL TURNDOWN: 2500",
+      "bbox": [
+        42,
+        774,
+        222,
+        794
+      ],
+      "confidence": 0.9775677919387817
+    },
+    {
+      "text": "psig",
+      "bbox": [
+        246,
+        773,
+        290,
+        795
+      ],
+      "confidence": 0.9998253583908081
+    },
+    {
+      "text": "CO2 FILL SP: .",
+      "bbox": [
+        42,
+        808,
+        154,
+        829
+      ],
+      "confidence": 0.9042640924453735
+    },
+    {
+      "text": "9850",
+      "bbox": [
+        165,
+        807,
+        214,
+        827
+      ],
+      "confidence": 0.9996818900108337
+    },
+    {
+      "text": "lbs",
+      "bbox": [
+        256,
+        806,
+        290,
+        827
+      ],
+      "confidence": 0.9747493267059326
+    },
+    {
+      "text": "FLOW DIRECTION: EXTR: UP / ---",
+      "bbox": [
+        320,
+        804,
+        587,
+        826
+      ],
+      "confidence": 0.9727884531021118
+    },
+    {
+      "text": "ABS: UP / -",
+      "bbox": [
+        601,
+        806,
+        724,
+        824
+      ],
+      "confidence": 0.9435598254203796
+    },
+    {
+      "text": "COLD",
+      "bbox": [
+        66,
+        843,
+        106,
+        861
+      ],
+      "confidence": 0.992548942565918
+    },
+    {
+      "text": "RECOVERY",
+      "bbox": [
+        123,
+        843,
+        196,
+        861
+      ],
+      "confidence": 0.990115225315094
+    },
+    {
+      "text": "ΔP CONTROL SP: EXTR: 2.5_pSig ABS: 4.0 _pSig",
+      "bbox": [
+        319,
+        837,
+        752,
+        860
+      ],
+      "confidence": 0.9189532995223999
+    },
+    {
+      "text": "FLOW PATTERN: 18",
+      "bbox": [
+        40,
+        876,
+        190,
+        895
+      ],
+      "confidence": 0.960624098777771
+    },
+    {
+      "text": "ONLINE NICOTINE MONITOR",
+      "bbox": [
+        446,
+        875,
+        643,
+        892
+      ],
+      "confidence": 0.9874913692474365
+    },
+    {
+      "text": "2050283129",
+      "bbox": [
+        700,
+        890,
+        724,
+        998
+      ],
+      "confidence": 0.9809045791625977
+    },
+    {
+      "text": "---_1bs/min",
+      "bbox": [
+        180,
+        906,
+        290,
+        927
+      ],
+      "confidence": 0.8776739239692688
+    },
+    {
+      "text": "RECIRC RATE:",
+      "bbox": [
+        41,
+        911,
+        149,
+        928
+      ],
+      "confidence": 0.9986400604248047
+    },
+    {
+      "text": "START",
+      "bbox": [
+        469,
+        908,
+        519,
+        926
+      ],
+      "confidence": 0.9994945526123047
+    },
+    {
+      "text": "STOP",
+      "bbox": [
+        577,
+        908,
+        619,
+        927
+      ],
+      "confidence": 0.9987727403640747
+    },
+    {
+      "text": "EXTR EFFLUENT: - M/M",
+      "bbox": [
+        317,
+        936,
+        550,
+        964
+      ],
+      "confidence": 0.9551369547843933
+    },
+    {
+      "text": "LOOP TEMP:",
+      "bbox": [
+        40,
+        945,
+        134,
+        962
+      ],
+      "confidence": 0.9807890057563782
+    },
+    {
+      "text": "°F",
+      "bbox": [
+        265,
+        941,
+        292,
+        962
+      ],
+      "confidence": 0.7082852721214294
+    },
+    {
+      "text": "-- M/M",
+      "bbox": [
+        576,
+        938,
+        648,
+        964
+      ],
+      "confidence": 0.7909577488899231
+    },
+    {
+      "text": "DISCHARGE:",
+      "bbox": [
+        39,
+        978,
+        131,
+        997
+      ],
+      "confidence": 0.9993042945861816
+    },
+    {
+      "text": "200",
+      "bbox": [
+        175,
+        976,
+        206,
+        995
+      ],
+      "confidence": 0.9999000430107117
+    },
+    {
+      "text": "1bS/min  ABS EFFLUENT: ",
+      "bbox": [
+        221,
+        972,
+        503,
+        997
+      ],
+      "confidence": 0.92322838306427
+    },
+    {
+      "text": "M/M",
+      "bbox": [
+        507,
+        972,
+        549,
+        996
+      ],
+      "confidence": 0.9944282174110413
+    },
+    {
+      "text": "-M/M",
+      "bbox": [
+        579,
+        971,
+        649,
+        997
+      ],
+      "confidence": 0.8682184219360352
+    }
+  ],
+  "full_text": "BERMUDA HUNDRED PILOT PLANT\nRUN SET-UP SHEET\n289\nWednesday,\nRUN NO.\n89-280\nHIGH PRESSURE CYCLE NO. 08\nDATE:\n04-JAN-89\n***BHPP CHECK OUT RUN with tObACCO *****\nPURPOSE:\nDL-5 WITH 3% AB, 2% PG, 28 Gly ; LVL CRS @ 150 Cpi\n3% AB, 2% PG, 2% Gly APPLIED TO FILIER @ BHPP\nFILLER ORDERING AND STEM CASING:\nBOX FEED OV: =12.5 %\nTARGET ORDERED OV: FLOAT % TARGET AB: 3.0\n8DWB\n# 10\nPG\nWT: 18.1\nIBS\nSOLUTION CONC. 11.4 % AB WT: 30.4\nlbs\nGly WT: 20.3\nIBS\n78 to 80 °F\nH20 WT: 198.0\nIBS\nAPPLICATION RATE:\n151.1 1bs/hr.@\n525\nlbS/hr FILIER FEED RATE\n( MODEL USING 1.25 FUDGE, 0.9 PGfactor, 1.0 Gfactor, 26 %OVtargetnopgg)\nCASED STEM OV:\n35\n8\nABSORBANT LEVEL:\n12\n8\nTYPE ABSORBANT: MPCitrate\nTOBACOO LOADING AND DRYING:\nDRY WT\nAS-IS\nDENSITY\nTARGET OV\nMATERIAL\nVESSEL\nBASKET CONFIGURATION\nPOUNDS\nPOUNDS\n1BS/FT3\nDRYING\nDRIED TD I2.S\nDL-5\nEXTR\nSMALL INSERT\n222\n300\n15.4\nLVL CRS\n269\n480\n15.3\n10-14%\n150 cpi_\nABS\nNO MIDDLESCREEN\nFILLER/STEM RATIO (DWB): 9:11\nFILLTO\nFIXED WT\nEXTRACTION PROCESS TARGETS:\nPRESSURE:\n3800\n_pSig TEMP: _140_F M/M: _200\nCYCLE TIME: _5 hrs\nmins\nVESSEL ISOLATION: EXTR: --- / NO\nABS 1: --- / NO\nABS 2: --- / NO\nFILL/HEATUP\n15\nEXTRACTION\nWORKING VESSEL LEVEL:\n988\nFLOW PATTERN: 11\nFLOW PATTERN: 11\nRECIRCULATION RATE: \n285 lbs/min\nRECIRC RATE: 267\n1bs/min\nC2 RECIRCULATION SP: _44,400\nlbs\nCO2 VELOCITY: EXTR: 1.8 ft/min ABS: 1.8 ft/min\nFILL TURNDOWN: 2500\npsig\nCO2 FILL SP: .\n9850\nlbs\nFLOW DIRECTION: EXTR: UP / ---\nABS: UP / -\nCOLD\nRECOVERY\nΔP CONTROL SP: EXTR: 2.5_pSig ABS: 4.0 _pSig\nFLOW PATTERN: 18\nONLINE NICOTINE MONITOR\n2050283129\n---_1bs/min\nRECIRC RATE:\nSTART\nSTOP\nEXTR EFFLUENT: - M/M\nLOOP TEMP:\n°F\n-- M/M\nDISCHARGE:\n200\n1bS/min  ABS EFFLUENT: \nM/M\n-M/M"
+}

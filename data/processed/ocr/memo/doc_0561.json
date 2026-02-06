@@ -1,0 +1,251 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0561.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MEMORANDUM",
+      "bbox": [
+        170,
+        231,
+        265,
+        250
+      ],
+      "confidence": 0.9995115995407104
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        171,
+        271,
+        196,
+        287
+      ],
+      "confidence": 0.9987261295318604
+    },
+    {
+      "text": "MR. J. A. BROUGHTON",
+      "bbox": [
+        254,
+        266,
+        394,
+        285
+      ],
+      "confidence": 0.9836955666542053
+    },
+    {
+      "text": "MR. R, O. STEWART",
+      "bbox": [
+        255,
+        307,
+        380,
+        322
+      ],
+      "confidence": 0.9518142938613892
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        170,
+        308,
+        195,
+        325
+      ],
+      "confidence": 0.9037788510322571
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        169,
+        346,
+        214,
+        363
+      ],
+      "confidence": 0.9991933703422546
+    },
+    {
+      "text": "MR. D. 5. JOHNSTON",
+      "bbox": [
+        254,
+        345,
+        382,
+        360
+      ],
+      "confidence": 0.9584426879882812
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        171,
+        362,
+        212,
+        376
+      ],
+      "confidence": 0.9969539642333984
+    },
+    {
+      "text": "DECEMBER 13, 1977",
+      "bbox": [
+        254,
+        358,
+        376,
+        373
+      ],
+      "confidence": 0.9789202213287354
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        171,
+        375,
+        234,
+        389
+      ],
+      "confidence": 0.999515175819397
+    },
+    {
+      "text": "CALIFORNIA TRIP REPORT",
+      "bbox": [
+        255,
+        371,
+        420,
+        387
+      ],
+      "confidence": 0.9611575603485107
+    },
+    {
+      "text": "Recently, Waily Hultman of ZML, made a field trip to the California",
+      "bbox": [
+        173,
+        471,
+        561,
+        493
+      ],
+      "confidence": 0.9788483381271362
+    },
+    {
+      "text": "area. He makes these field tripe from time to time to keop current",
+      "bbox": [
+        172,
+        482,
+        559,
+        507
+      ],
+      "confidence": 0.9546027779579163
+    },
+    {
+      "text": "on the retail marketpiece, activity of the competitton, and the tools",
+      "bbox": [
+        173,
+        494,
+        556,
+        520
+      ],
+      "confidence": 0.9305837750434875
+    },
+    {
+      "text": "and enles alds that our Sales Force is uwing. Attached is a copy of",
+      "bbox": [
+        173,
+        509,
+        555,
+        530
+      ],
+      "confidence": 0.9629437923431396
+    },
+    {
+      "text": "his trip report from his most recemt experience in Californis which",
+      "bbox": [
+        174,
+        522,
+        556,
+        543
+      ],
+      "confidence": 0.9677694439888
+    },
+    {
+      "text": "I think you will find of intereat.",
+      "bbox": [
+        174,
+        537,
+        353,
+        556
+      ],
+      "confidence": 0.9825146794319153
+    },
+    {
+      "text": "I have a eeparate copy for follow-up use in the aress affecting",
+      "bbox": [
+        174,
+        560,
+        526,
+        581
+      ],
+      "confidence": 0.958776593208313
+    },
+    {
+      "text": "Sules Operations.",
+      "bbox": [
+        175,
+        578,
+        277,
+        593
+      ],
+      "confidence": 0.9568262696266174
+    },
+    {
+      "text": "/gl",
+      "bbox": [
+        179,
+        733,
+        200,
+        749
+      ],
+      "confidence": 0.865689218044281
+    },
+    {
+      "text": "67415 0 7 3 2",
+      "bbox": [
+        198,
+        938,
+        435,
+        985
+      ],
+      "confidence": 0.9208012819290161
+    },
+    {
+      "text": "IF TUE FLIM IMAGE IS LRSS CLEAR",
+      "bbox": [
+        4,
+        961,
+        198,
+        978
+      ],
+      "confidence": 0.9254334568977356
+    },
+    {
+      "text": "RIS MOTICE, IT IS DUE TO THE",
+      "bbox": [
+        0,
+        971,
+        175,
+        991
+      ],
+      "confidence": 0.9303342700004578
+    },
+    {
+      "text": "THE JOCTEET BEINC TEV",
+      "bbox": [
+        28,
+        980,
+        188,
+        1000
+      ],
+      "confidence": 0.6169146299362183
+    }
+  ],
+  "full_text": "MEMORANDUM\nTO:\nMR. J. A. BROUGHTON\nMR. R, O. STEWART\nCC:\nFROM:\nMR. D. 5. JOHNSTON\nDATE:\nDECEMBER 13, 1977\nSUBJECT:\nCALIFORNIA TRIP REPORT\nRecently, Waily Hultman of ZML, made a field trip to the California\narea. He makes these field tripe from time to time to keop current\non the retail marketpiece, activity of the competitton, and the tools\nand enles alds that our Sales Force is uwing. Attached is a copy of\nhis trip report from his most recemt experience in Californis which\nI think you will find of intereat.\nI have a eeparate copy for follow-up use in the aress affecting\nSules Operations.\n/gl\n67415 0 7 3 2\nIF TUE FLIM IMAGE IS LRSS CLEAR\nRIS MOTICE, IT IS DUE TO THE\nTHE JOCTEET BEINC TEV"
+}

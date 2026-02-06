@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0185.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "P-12196",
+      "bbox": [
+        16,
+        687,
+        122,
+        710
+      ],
+      "confidence": 0.9241110682487488
+    },
+    {
+      "text": "2505189239",
+      "bbox": [
+        166,
+        692,
+        272,
+        715
+      ],
+      "confidence": 0.9995549321174622
+    }
+  ],
+  "full_text": "P-12196\n2505189239"
+}

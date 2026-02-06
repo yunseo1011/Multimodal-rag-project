@@ -1,0 +1,241 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0060.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ST. PAUL PIONEER PRESS",
+      "bbox": [
+        148,
+        335,
+        286,
+        366
+      ],
+      "confidence": 0.9174150228500366
+    },
+    {
+      "text": "MN-0200",
+      "bbox": [
+        149,
+        329,
+        197,
+        346
+      ],
+      "confidence": 0.9107449650764465
+    },
+    {
+      "text": "ST",
+      "bbox": [
+        152,
+        363,
+        168,
+        375
+      ],
+      "confidence": 0.995384156703949
+    },
+    {
+      "text": "PARL.MN",
+      "bbox": [
+        167,
+        359,
+        228,
+        375
+      ],
+      "confidence": 0.8543227910995483
+    },
+    {
+      "text": "CIRC-(M)212.5",
+      "bbox": [
+        151,
+        371,
+        241,
+        387
+      ],
+      "confidence": 0.9417165517807007
+    },
+    {
+      "text": "DRILY NEP",
+      "bbox": [
+        152,
+        381,
+        229,
+        397
+      ],
+      "confidence": 0.835832953453064
+    },
+    {
+      "text": "(5)272.235",
+      "bbox": [
+        253,
+        370,
+        314,
+        384
+      ],
+      "confidence": 0.968612790107727
+    },
+    {
+      "text": "MAY 31. 1994",
+      "bbox": [
+        150,
+        389,
+        229,
+        417
+      ],
+      "confidence": 0.7827394604682922
+    },
+    {
+      "text": "Indy lays a brick",
+      "bbox": [
+        173,
+        458,
+        306,
+        484
+      ],
+      "confidence": 0.9980301856994629
+    },
+    {
+      "text": "Associated Press sportswriter John Nelson had this to say",
+      "bbox": [
+        186,
+        477,
+        521,
+        499
+      ],
+      "confidence": 0.9815062284469604
+    },
+    {
+      "text": "about the watching the Indianapolis 500 on TV:",
+      "bbox": [
+        174,
+        491,
+        447,
+        513
+      ],
+      "confidence": 0.9986052513122559
+    },
+    {
+      "text": "ular camera work by ABC, and what happens? We get to watch",
+      "bbox": [
+        174,
+        515,
+        543,
+        541
+      ],
+      "confidence": 0.9505048394203186
+    },
+    {
+      "text": "Three hours of smoking tires, screaming engines and spectac-",
+      "bbox": [
+        185,
+        503,
+        544,
+        526
+      ],
+      "confidence": 0.983767569065094
+    },
+    {
+      "text": "Al Unser Jr. win the Indy 500 under a yellow caution flag at 80",
+      "bbox": [
+        172,
+        531,
+        542,
+        555
+      ],
+      "confidence": 0.9878332018852234
+    },
+    {
+      "text": "mph.",
+      "bbox": [
+        176,
+        552,
+        206,
+        568
+      ],
+      "confidence": 0.9087878465652466
+    },
+    {
+      "text": "If my mother had a Mercedes, she could drive it that fast.",
+      "bbox": [
+        187,
+        557,
+        524,
+        580
+      ],
+      "confidence": 0.9910600185394287
+    },
+    {
+      "text": "Three hours wasted.",
+      "bbox": [
+        188,
+        574,
+        305,
+        592
+      ],
+      "confidence": 0.9964314699172974
+    },
+    {
+      "text": "Then, in the first minute of his TV interview, Unser plugs",
+      "bbox": [
+        187,
+        584,
+        524,
+        607
+      ],
+      "confidence": 0.9692461490631104
+    },
+    {
+      "text": "Mercedes, Goodyear and Mobil Oil, hugs his father, and throws",
+      "bbox": [
+        175,
+        596,
+        544,
+        620
+      ],
+      "confidence": 0.9830197095870972
+    },
+    {
+      "text": "in a word about Marlboro for good measure. At least be didn't",
+      "bbox": [
+        176,
+        610,
+        541,
+        635
+      ],
+      "confidence": 0.9620765447616577
+    },
+    {
+      "text": "light up.",
+      "bbox": [
+        179,
+        632,
+        229,
+        646
+      ],
+      "confidence": 0.9828081130981445
+    },
+    {
+      "text": "It's time for a few changes at the old brickyard.",
+      "bbox": [
+        189,
+        639,
+        469,
+        660
+      ],
+      "confidence": 0.9698908925056458
+    },
+    {
+      "text": "2083779635",
+      "bbox": [
+        738,
+        834,
+        752,
+        935
+      ],
+      "confidence": 0.985575795173645
+    }
+  ],
+  "full_text": "ST. PAUL PIONEER PRESS\nMN-0200\nST\nPARL.MN\nCIRC-(M)212.5\nDRILY NEP\n(5)272.235\nMAY 31. 1994\nIndy lays a brick\nAssociated Press sportswriter John Nelson had this to say\nabout the watching the Indianapolis 500 on TV:\nular camera work by ABC, and what happens? We get to watch\nThree hours of smoking tires, screaming engines and spectac-\nAl Unser Jr. win the Indy 500 under a yellow caution flag at 80\nmph.\nIf my mother had a Mercedes, she could drive it that fast.\nThree hours wasted.\nThen, in the first minute of his TV interview, Unser plugs\nMercedes, Goodyear and Mobil Oil, hugs his father, and throws\nin a word about Marlboro for good measure. At least be didn't\nlight up.\nIt's time for a few changes at the old brickyard.\n2083779635"
+}

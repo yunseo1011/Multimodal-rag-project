@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0119.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Starrett",
+      "bbox": [
+        539,
+        235,
+        702,
+        283
+      ],
+      "confidence": 0.9629812836647034
+    },
+    {
+      "text": "SALEM TOOLS",
+      "bbox": [
+        294,
+        282,
+        501,
+        314
+      ],
+      "confidence": 0.9997238516807556
+    },
+    {
+      "text": "PRECISION TOOLS",
+      "bbox": [
+        545,
+        284,
+        701,
+        309
+      ],
+      "confidence": 0.9991958737373352
+    },
+    {
+      "text": "Salem, VA",
+      "bbox": [
+        310,
+        318,
+        353,
+        332
+      ],
+      "confidence": 0.9921709895133972
+    },
+    {
+      "text": "(540) 389-0233",
+      "bbox": [
+        411,
+        317,
+        470,
+        331
+      ],
+      "confidence": 0.9780060648918152
+    },
+    {
+      "text": "TARRET",
+      "bbox": [
+        595,
+        312,
+        655,
+        345
+      ],
+      "confidence": 0.9833053946495056
+    },
+    {
+      "text": "Brisal, VA",
+      "bbox": [
+        310,
+        329,
+        354,
+        343
+      ],
+      "confidence": 0.7819283604621887
+    },
+    {
+      "text": "(540) 669-8844",
+      "bbox": [
+        410,
+        326,
+        470,
+        343
+      ],
+      "confidence": 0.9197887182235718
+    },
+    {
+      "text": "Richmond, VA",
+      "bbox": [
+        309,
+        340,
+        369,
+        354
+      ],
+      "confidence": 0.9365067481994629
+    },
+    {
+      "text": "Kernerwille, NC",
+      "bbox": [
+        309,
+        351,
+        375,
+        365
+      ],
+      "confidence": 0.968813955783844
+    },
+    {
+      "text": "(804) 271-7247",
+      "bbox": [
+        411,
+        338,
+        471,
+        355
+      ],
+      "confidence": 0.9257317185401917
+    },
+    {
+      "text": "(336) 996-1044",
+      "bbox": [
+        411,
+        351,
+        471,
+        365
+      ],
+      "confidence": 0.9923408627510071
+    },
+    {
+      "text": "S",
+      "bbox": [
+        591,
+        343,
+        602,
+        353
+      ],
+      "confidence": 0.6549175977706909
+    },
+    {
+      "text": "Arden, NC",
+      "bbox": [
+        310,
+        362,
+        356,
+        376
+      ],
+      "confidence": 0.9687176942825317
+    },
+    {
+      "text": "(828) 687-7719",
+      "bbox": [
+        411,
+        362,
+        472,
+        376
+      ],
+      "confidence": 0.9761900305747986
+    },
+    {
+      "text": "Fort Mill, SC",
+      "bbox": [
+        311,
+        373,
+        363,
+        387
+      ],
+      "confidence": 0.8513126373291016
+    },
+    {
+      "text": "(803) 547-7828",
+      "bbox": [
+        412,
+        373,
+        472,
+        387
+      ],
+      "confidence": 0.9548867344856262
+    },
+    {
+      "text": "Pickens, SC",
+      "bbox": [
+        310,
+        393,
+        360,
+        411
+      ],
+      "confidence": 0.8105342388153076
+    },
+    {
+      "text": "Orangeburg, SC",
+      "bbox": [
+        311,
+        385,
+        374,
+        399
+      ],
+      "confidence": 0.9613214135169983
+    },
+    {
+      "text": "(803)533-4969",
+      "bbox": [
+        412,
+        385,
+        472,
+        399
+      ],
+      "confidence": 0.9398686289787292
+    },
+    {
+      "text": "(864) 898-0618",
+      "bbox": [
+        414,
+        397,
+        472,
+        408
+      ],
+      "confidence": 0.9706043004989624
+    },
+    {
+      "text": "THE WINNING COMBINATION",
+      "bbox": [
+        394,
+        420,
+        617,
+        440
+      ],
+      "confidence": 0.9881995916366577
+    },
+    {
+      "text": "loeCanel",
+      "bbox": [
+        316,
+        445,
+        500,
+        473
+      ],
+      "confidence": 0.68410325050354
+    },
+    {
+      "text": "Dham alot d Canel",
+      "bbox": [
+        336,
+        467,
+        694,
+        504
+      ],
+      "confidence": 0.6267059445381165
+    },
+    {
+      "text": "MileanDndcattind",
+      "bbox": [
+        296,
+        500,
+        672,
+        530
+      ],
+      "confidence": 0.7183706760406494
+    },
+    {
+      "text": "Q BpoRtor then. :",
+      "bbox": [
+        293,
+        528,
+        659,
+        556
+      ],
+      "confidence": 0.6794543266296387
+    },
+    {
+      "text": "Delasee me kno usat",
+      "bbox": [
+        296,
+        551,
+        717,
+        585
+      ],
+      "confidence": 0.6940559148788452
+    },
+    {
+      "text": "Ecanda wilh those,  dgut",
+      "bbox": [
+        293,
+        578,
+        722,
+        615
+      ],
+      "confidence": 0.7063737511634827
+    },
+    {
+      "text": "thinkitsfairtqe gtstace",
+      "bbox": [
+        299,
+        612,
+        737,
+        639
+      ],
+      "confidence": 0.6499279737472534
+    },
+    {
+      "text": "AuFD pentetes this as",
+      "bbox": [
+        296,
+        637,
+        720,
+        666
+      ],
+      "confidence": 0.725959837436676
+    },
+    {
+      "text": "Fthink sen Ahould Koner",
+      "bbox": [
+        305,
+        716,
+        721,
+        750
+      ],
+      "confidence": 0.7688678503036499
+    },
+    {
+      "text": "52272 0580",
+      "bbox": [
+        719,
+        738,
+        741,
+        837
+      ],
+      "confidence": 0.9997689127922058
+    },
+    {
+      "text": "BO",
+      "bbox": [
+        291,
+        831,
+        341,
+        863
+      ],
+      "confidence": 0.7585277557373047
+    },
+    {
+      "text": "Than k you",
+      "bbox": [
+        479,
+        831,
+        720,
+        886
+      ],
+      "confidence": 0.7514417171478271
+    },
+    {
+      "text": "2.10.54",
+      "bbox": [
+        289,
+        842,
+        407,
+        895
+      ],
+      "confidence": 0.8209760785102844
+    }
+  ],
+  "full_text": "Starrett\nSALEM TOOLS\nPRECISION TOOLS\nSalem, VA\n(540) 389-0233\nTARRET\nBrisal, VA\n(540) 669-8844\nRichmond, VA\nKernerwille, NC\n(804) 271-7247\n(336) 996-1044\nS\nArden, NC\n(828) 687-7719\nFort Mill, SC\n(803) 547-7828\nPickens, SC\nOrangeburg, SC\n(803)533-4969\n(864) 898-0618\nTHE WINNING COMBINATION\nloeCanel\nDham alot d Canel\nMileanDndcattind\nQ BpoRtor then. :\nDelasee me kno usat\nEcanda wilh those,  dgut\nthinkitsfairtqe gtstace\nAuFD pentetes this as\nFthink sen Ahould Koner\n52272 0580\nBO\nThan k you\n2.10.54"
+}

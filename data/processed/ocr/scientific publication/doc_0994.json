@@ -1,0 +1,481 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0994.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Addietive Behaviors. Vol. 22. No. 6. pp. 753-757. 1997",
+      "bbox": [
+        407,
+        157,
+        661,
+        177
+      ],
+      "confidence": 0.9306222200393677
+    },
+    {
+      "text": "Pergamon",
+      "bbox": [
+        156,
+        171,
+        221,
+        189
+      ],
+      "confidence": 0.9988831877708435
+    },
+    {
+      "text": "Copyright © 1997 Elsevier Seience Ltd",
+      "bbox": [
+        476,
+        169,
+        661,
+        188
+      ],
+      "confidence": 0.9056916236877441
+    },
+    {
+      "text": "Printed in the USA. Alf rights reservied",
+      "bbox": [
+        475,
+        179,
+        661,
+        200
+      ],
+      "confidence": 0.9616401791572571
+    },
+    {
+      "text": "PIT S0306-4603(97)00041-5",
+      "bbox": [
+        294,
+        198,
+        457,
+        221
+      ],
+      "confidence": 0.9788709878921509
+    },
+    {
+      "text": "0306-4603/97$17.00 +.00",
+      "bbox": [
+        531,
+        191,
+        661,
+        210
+      ],
+      "confidence": 0.9853015542030334
+    },
+    {
+      "text": "A COMPARISON OF MEASURES USED TO ASSESS",
+      "bbox": [
+        158,
+        248,
+        587,
+        280
+      ],
+      "confidence": 0.987740159034729
+    },
+    {
+      "text": "EFFECTIVENESS OF THE TRANSDERMAL NICOTINE PATCH",
+      "bbox": [
+        108,
+        267,
+        638,
+        300
+      ],
+      "confidence": 0.9951735138893127
+    },
+    {
+      "text": "ATIYEAR",
+      "bbox": [
+        326,
+        290,
+        422,
+        311
+      ],
+      "confidence": 0.9422152638435364
+    },
+    {
+      "text": "ROBYNL. RICHMOND",
+      "bbox": [
+        285,
+        317,
+        462,
+        339
+      ],
+      "confidence": 0.9635925889015198
+    },
+    {
+      "text": "School of Communjty Medicine, University of New South Wales",
+      "bbox": [
+        197,
+        333,
+        546,
+        357
+      ],
+      "confidence": 0.9761889576911926
+    },
+    {
+      "text": "12-month outcomes of the nicotine transdermal palch using different measures of effective-",
+      "bbox": [
+        117,
+        367,
+        625,
+        394
+      ],
+      "confidence": 0.9817191362380981
+    },
+    {
+      "text": "Abstract  This study cxamines outcome measures of abstinence among studies reporting",
+      "bbox": [
+        118,
+        354,
+        626,
+        383
+      ],
+      "confidence": 0.9797065258026123
+    },
+    {
+      "text": "ness. This was achieved by reviewing published randomized controlted studies reporting",
+      "bbox": [
+        116,
+        379,
+        626,
+        406
+      ],
+      "confidence": 0.9805259704589844
+    },
+    {
+      "text": "I-year abstinence ratcs of the nicotine transdermal patch, Comparisons are made ncrcss stud-",
+      "bbox": [
+        117,
+        391,
+        625,
+        417
+      ],
+      "confidence": 0.9707953333854675
+    },
+    {
+      "text": "prolonged abstinence. Studies that measured outcome in terms of continuous and prolonged",
+      "bbox": [
+        115,
+        412,
+        627,
+        443
+      ],
+      "confidence": 0.9511502981185913
+    },
+    {
+      "text": "ies of three outcome measures use.t to report abstinence: point prevalence, continuous, and",
+      "bbox": [
+        116,
+        402,
+        625,
+        429
+      ],
+      "confidence": 0.9323316216468811
+    },
+    {
+      "text": "outcome measure.  1997 Elsevier Science Ltd",
+      "bbox": [
+        115,
+        450,
+        399,
+        469
+      ],
+      "confidence": 0.9299734234809875
+    },
+    {
+      "text": "Nicotince transdermal patches were developcd as an aid to smoking cessation and arc",
+      "bbox": [
+        75,
+        487,
+        664,
+        518
+      ],
+      "confidence": 0.9697629809379578
+    },
+    {
+      "text": "designed to offer an efficient method of delivering nicotine in a controlled and contin-",
+      "bbox": [
+        76,
+        503,
+        664,
+        532
+      ],
+      "confidence": 0.9835003018379211
+    },
+    {
+      "text": "uous way (Palmer. Buckley, & Faulds, 1992) so that withdrawal symptoins are allevi-",
+      "bbox": [
+        77,
+        519,
+        663,
+        547
+      ],
+      "confidence": 0.9534952640533447
+    },
+    {
+      "text": "ated. Compared to other nicotine replacement therapies (gum and nasal spray). trans-",
+      "bbox": [
+        77,
+        535,
+        663,
+        562
+      ],
+      "confidence": 0.9848195910453796
+    },
+    {
+      "text": "dermal patches appear to offer the best risk-to-benefit ratio: they combinc good",
+      "bbox": [
+        77,
+        550,
+        663,
+        577
+      ],
+      "confidence": 0.9809466600418091
+    },
+    {
+      "text": "smoking cessation efficacy and withdrawal supprcssion with a modest adverse effect",
+      "bbox": [
+        77,
+        566,
+        662,
+        592
+      ],
+      "confidence": 0.98525071144104
+    },
+    {
+      "text": "profile and low abuse liability (Gross & Stitzer, 19s9). Further, there is a high compli-",
+      "bbox": [
+        77,
+        582,
+        660,
+        607
+      ],
+      "confidence": 0.9773898124694824
+    },
+    {
+      "text": "ance and paticnt acceptance. of the patches compared to the gum (Mendelsohn &",
+      "bbox": [
+        77,
+        599,
+        659,
+        622
+      ],
+      "confidence": 0.9654956459999084
+    },
+    {
+      "text": "Richmond,1994).",
+      "bbox": [
+        76,
+        613,
+        200,
+        634
+      ],
+      "confidence": 0.9951547980308533
+    },
+    {
+      "text": "Criteria for reporting abstinence in smoking cessation trials use one of thrce alter-",
+      "bbox": [
+        90,
+        629,
+        656,
+        654
+      ],
+      "confidence": 0.9880328178405762
+    },
+    {
+      "text": "native outcome measures to cvaluate efficacy. Thcy are (a) point prevalence, the per-",
+      "bbox": [
+        76,
+        645,
+        658,
+        668
+      ],
+      "confidence": 0.9794780015945435
+    },
+    {
+      "text": "centage of people not smoking at a particular point in time, including long-term and",
+      "bbox": [
+        76,
+        659,
+        658,
+        683
+      ],
+      "confidence": 0.9840741753578186
+    },
+    {
+      "text": "short-term quitters; (b) continuous abstinence, the most conseryative mcasure of out-",
+      "bbox": [
+        76,
+        675,
+        654,
+        696
+      ],
+      "confidence": 0.9721851348876953
+    },
+    {
+      "text": "come, which is the percentage of people who have not smokcd at all since commence-",
+      "bbox": [
+        77,
+        689,
+        652,
+        710
+      ],
+      "confidence": 0.9919805526733398
+    },
+    {
+      "text": "ment of thc intervention to the 12-month follow-up point: and (c) prolongcd absti-",
+      "bbox": [
+        77,
+        705,
+        652,
+        724
+      ],
+      "confidence": 0.9630501866340637
+    },
+    {
+      "text": "nence. the percentage who have been continuously abstinent for a prolonged period",
+      "bbox": [
+        77,
+        719,
+        651,
+        738
+      ],
+      "confidence": 0.9761797189712524
+    },
+    {
+      "text": "since thc previous assessment (Velicer, Prochaska, Rossi, & Snow. 1992). The out-",
+      "bbox": [
+        75,
+        733,
+        650,
+        754
+      ],
+      "confidence": 0.9601702094078064
+    },
+    {
+      "text": "come measure of prolongcd abstinence reflects the natural process of stopping smok-",
+      "bbox": [
+        78,
+        750,
+        648,
+        767
+      ],
+      "confidence": 0.9962656497955322
+    },
+    {
+      "text": "ing, as some smokers succeed in quitting only after experiencing a scrics of delayed quit",
+      "bbox": [
+        77,
+        764,
+        648,
+        783
+      ],
+      "confidence": 0.9846639037132263
+    },
+    {
+      "text": "attempts, lapses, and relapses following an intervention (Prochaska & DiClcmcntc.",
+      "bbox": [
+        77,
+        778,
+        647,
+        799
+      ],
+      "confidence": 0.9823167324066162
+    },
+    {
+      "text": "1986). Although continuous abstinence may not account for this frequent occurrence",
+      "bbox": [
+        77,
+        792,
+        646,
+        815
+      ],
+      "confidence": 0.9848614931106567
+    },
+    {
+      "text": "in the dynamic process of quitting, it is regarded as the most rigorous measure, as ab-",
+      "bbox": [
+        77,
+        808,
+        643,
+        830
+      ],
+      "confidence": 0.9817318916320801
+    },
+    {
+      "text": "stinence is considered to be a dircct result of intervention. Thcrcfore., the gold stan-",
+      "bbox": [
+        76,
+        821,
+        643,
+        846
+      ],
+      "confidence": 0.9702489972114563
+    },
+    {
+      "text": "dards for presenting efficacy are 12-month validated continuous or prolonged smoking",
+      "bbox": [
+        77,
+        836,
+        642,
+        861
+      ],
+      "confidence": 0.981983482837677
+    },
+    {
+      "text": "abstinence ratcs, as thcse measures demonstrate stable abstinence over time.",
+      "bbox": [
+        77,
+        851,
+        584,
+        876
+      ],
+      "confidence": 0.9666842222213745
+    },
+    {
+      "text": "A meta-analysis of 17 clinical trials of the nicotine transdermal patch using absti-",
+      "bbox": [
+        94,
+        866,
+        636,
+        889
+      ],
+      "confidence": 0.9817425608634949
+    },
+    {
+      "text": "nence at 6 months found 22% for active treatment and 9% for placebo (odds ratio was",
+      "bbox": [
+        78,
+        881,
+        638,
+        903
+      ],
+      "confidence": 0.9847813844680786
+    },
+    {
+      "text": "Requests for reprints should be sent 1o Robyn L. Richinond. School of Comimunity Medicine. University",
+      "bbox": [
+        90,
+        904,
+        637,
+        932
+      ],
+      "confidence": 0.940803050994873
+    },
+    {
+      "text": "753",
+      "bbox": [
+        350,
+        945,
+        371,
+        959
+      ],
+      "confidence": 0.9946563839912415
+    }
+  ],
+  "full_text": "Addietive Behaviors. Vol. 22. No. 6. pp. 753-757. 1997\nPergamon\nCopyright © 1997 Elsevier Seience Ltd\nPrinted in the USA. Alf rights reservied\nPIT S0306-4603(97)00041-5\n0306-4603/97$17.00 +.00\nA COMPARISON OF MEASURES USED TO ASSESS\nEFFECTIVENESS OF THE TRANSDERMAL NICOTINE PATCH\nATIYEAR\nROBYNL. RICHMOND\nSchool of Communjty Medicine, University of New South Wales\n12-month outcomes of the nicotine transdermal palch using different measures of effective-\nAbstract  This study cxamines outcome measures of abstinence among studies reporting\nness. This was achieved by reviewing published randomized controlted studies reporting\nI-year abstinence ratcs of the nicotine transdermal patch, Comparisons are made ncrcss stud-\nprolonged abstinence. Studies that measured outcome in terms of continuous and prolonged\nies of three outcome measures use.t to report abstinence: point prevalence, continuous, and\noutcome measure.  1997 Elsevier Science Ltd\nNicotince transdermal patches were developcd as an aid to smoking cessation and arc\ndesigned to offer an efficient method of delivering nicotine in a controlled and contin-\nuous way (Palmer. Buckley, & Faulds, 1992) so that withdrawal symptoins are allevi-\nated. Compared to other nicotine replacement therapies (gum and nasal spray). trans-\ndermal patches appear to offer the best risk-to-benefit ratio: they combinc good\nsmoking cessation efficacy and withdrawal supprcssion with a modest adverse effect\nprofile and low abuse liability (Gross & Stitzer, 19s9). Further, there is a high compli-\nance and paticnt acceptance. of the patches compared to the gum (Mendelsohn &\nRichmond,1994).\nCriteria for reporting abstinence in smoking cessation trials use one of thrce alter-\nnative outcome measures to cvaluate efficacy. Thcy are (a) point prevalence, the per-\ncentage of people not smoking at a particular point in time, including long-term and\nshort-term quitters; (b) continuous abstinence, the most conseryative mcasure of out-\ncome, which is the percentage of people who have not smokcd at all since commence-\nment of thc intervention to the 12-month follow-up point: and (c) prolongcd absti-\nnence. the percentage who have been continuously abstinent for a prolonged period\nsince thc previous assessment (Velicer, Prochaska, Rossi, & Snow. 1992). The out-\ncome measure of prolongcd abstinence reflects the natural process of stopping smok-\ning, as some smokers succeed in quitting only after experiencing a scrics of delayed quit\nattempts, lapses, and relapses following an intervention (Prochaska & DiClcmcntc.\n1986). Although continuous abstinence may not account for this frequent occurrence\nin the dynamic process of quitting, it is regarded as the most rigorous measure, as ab-\nstinence is considered to be a dircct result of intervention. Thcrcfore., the gold stan-\ndards for presenting efficacy are 12-month validated continuous or prolonged smoking\nabstinence ratcs, as thcse measures demonstrate stable abstinence over time.\nA meta-analysis of 17 clinical trials of the nicotine transdermal patch using absti-\nnence at 6 months found 22% for active treatment and 9% for placebo (odds ratio was\nRequests for reprints should be sent 1o Robyn L. Richinond. School of Comimunity Medicine. University\n753"
+}

@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0637.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "—Original Message--",
+      "bbox": [
+        61,
+        80,
+        157,
+        93
+      ],
+      "confidence": 0.8936442136764526
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        49,
+        88,
+        85,
+        107
+      ],
+      "confidence": 0.9980681538581848
+    },
+    {
+      "text": "Thursday. Juty 08, 1999 2:13 PM",
+      "bbox": [
+        136,
+        95,
+        286,
+        113
+      ],
+      "confidence": 0.9620457291603088
+    },
+    {
+      "text": "Curi, Al T.",
+      "bbox": [
+        137,
+        88,
+        187,
+        102
+      ],
+      "confidence": 0.9008970260620117
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        48,
+        98,
+        81,
+        116
+      ],
+      "confidence": 0.9336729049682617
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        49,
+        111,
+        73,
+        126
+      ],
+      "confidence": 0.9967802166938782
+    },
+    {
+      "text": "Femandez, Henry L; Chaikin, Karen",
+      "bbox": [
+        137,
+        106,
+        300,
+        125
+      ],
+      "confidence": 0.9906070828437805
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        50,
+        123,
+        94,
+        137
+      ],
+      "confidence": 0.9971061944961548
+    },
+    {
+      "text": "Please forward any agenda items...",
+      "bbox": [
+        137,
+        118,
+        298,
+        135
+      ],
+      "confidence": 0.9745054841041565
+    },
+    {
+      "text": "Importance:",
+      "bbox": [
+        51,
+        133,
+        111,
+        147
+      ],
+      "confidence": 0.9965934157371521
+    },
+    {
+      "text": "High",
+      "bbox": [
+        137,
+        133,
+        164,
+        149
+      ],
+      "confidence": 0.9953011274337769
+    },
+    {
+      "text": "...for tomorrow's staff mtg.",
+      "bbox": [
+        51,
+        176,
+        195,
+        196
+      ],
+      "confidence": 0.9369117617607117
+    },
+    {
+      "text": "Ali T. Curi",
+      "bbox": [
+        51,
+        223,
+        109,
+        240
+      ],
+      "confidence": 0.943576991558075
+    },
+    {
+      "text": "Youth Smoking Prevention",
+      "bbox": [
+        50,
+        238,
+        189,
+        256
+      ],
+      "confidence": 0.9710825085639954
+    },
+    {
+      "text": "x. 2072",
+      "bbox": [
+        50,
+        252,
+        91,
+        266
+      ],
+      "confidence": 0.9711600542068481
+    },
+    {
+      "text": "83",
+      "bbox": [
+        372,
+        352,
+        388,
+        365
+      ],
+      "confidence": 0.9984923601150513
+    },
+    {
+      "text": "2072356436 C",
+      "bbox": [
+        584,
+        964,
+        708,
+        995
+      ],
+      "confidence": 0.9904573559761047
+    }
+  ],
+  "full_text": "—Original Message--\nFrom:\nThursday. Juty 08, 1999 2:13 PM\nCuri, Al T.\nSent:\nTo:\nFemandez, Henry L; Chaikin, Karen\nSubject:\nPlease forward any agenda items...\nImportance:\nHigh\n...for tomorrow's staff mtg.\nAli T. Curi\nYouth Smoking Prevention\nx. 2072\n83\n2072356436 C"
+}

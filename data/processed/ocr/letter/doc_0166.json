@@ -1,0 +1,331 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0166.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Lorillard",
+      "bbox": [
+        2,
+        37,
+        264,
+        136
+      ],
+      "confidence": 0.9719586968421936
+    },
+    {
+      "text": "TOBACCO COMPANY",
+      "bbox": [
+        111,
+        123,
+        244,
+        142
+      ],
+      "confidence": 0.9991720914840698
+    },
+    {
+      "text": "One Park Avenue, New York, N.Y. 10016-5895 • (212) 545-3000",
+      "bbox": [
+        54,
+        148,
+        345,
+        165
+      ],
+      "confidence": 0.9851460456848145
+    },
+    {
+      "text": "NICHOLAS SIMEONIDIS",
+      "bbox": [
+        59,
+        210,
+        181,
+        228
+      ],
+      "confidence": 0.9993901252746582
+    },
+    {
+      "text": "Associate General Counsel",
+      "bbox": [
+        58,
+        221,
+        190,
+        240
+      ],
+      "confidence": 0.9669192433357239
+    },
+    {
+      "text": "(212) 545-3355",
+      "bbox": [
+        59,
+        231,
+        134,
+        248
+      ],
+      "confidence": 0.9725351333618164
+    },
+    {
+      "text": "Fax: (212) 545.3297",
+      "bbox": [
+        58,
+        242,
+        155,
+        260
+      ],
+      "confidence": 0.9401121735572815
+    },
+    {
+      "text": "February 6, 1995",
+      "bbox": [
+        390,
+        240,
+        552,
+        261
+      ],
+      "confidence": 0.998720645904541
+    },
+    {
+      "text": "Via Fax",
+      "bbox": [
+        50,
+        323,
+        126,
+        344
+      ],
+      "confidence": 0.9919833540916443
+    },
+    {
+      "text": "Princeton Public Affairs Group, Inc.",
+      "bbox": [
+        48,
+        396,
+        399,
+        421
+      ],
+      "confidence": 0.9767261147499084
+    },
+    {
+      "text": "Margaret Payne",
+      "bbox": [
+        50,
+        385,
+        191,
+        405
+      ],
+      "confidence": 0.9979344010353088
+    },
+    {
+      "text": "160 West State Street",
+      "bbox": [
+        50,
+        413,
+        257,
+        436
+      ],
+      "confidence": 0.996134340763092
+    },
+    {
+      "text": "Trenton, NJ 08608",
+      "bbox": [
+        49,
+        429,
+        229,
+        451
+      ],
+      "confidence": 0.9708989262580872
+    },
+    {
+      "text": "Dear Ms. Payne:",
+      "bbox": [
+        50,
+        462,
+        197,
+        482
+      ],
+      "confidence": 0.9802535176277161
+    },
+    {
+      "text": "I am in receipt of your memo to Arthur Stevens dated January",
+      "bbox": [
+        98,
+        491,
+        679,
+        511
+      ],
+      "confidence": 0.9798290133476257
+    },
+    {
+      "text": "26, 1995. The original of this letter, and enclosures, is being",
+      "bbox": [
+        47,
+        504,
+        679,
+        527
+      ],
+      "confidence": 0.9552833437919617
+    },
+    {
+      "text": "sent by courier for delivery tomorrow, February 8th.",
+      "bbox": [
+        48,
+        521,
+        551,
+        542
+      ],
+      "confidence": 0.9872432947158813
+    },
+    {
+      "text": "I have attached E.L.E.C. Form L-2. In addition, note that I",
+      "bbox": [
+        99,
+        552,
+        676,
+        570
+      ],
+      "confidence": 0.9742810726165771
+    },
+    {
+      "text": "have no record of direct Lorillard expenditures in New Jersey to",
+      "bbox": [
+        46,
+        566,
+        676,
+        587
+      ],
+      "confidence": 0.9897090196609497
+    },
+    {
+      "text": "any state officials, including legislators or their immediate",
+      "bbox": [
+        45,
+        579,
+        675,
+        604
+      ],
+      "confidence": 0.9873796701431274
+    },
+    {
+      "text": "families, in 1994.",
+      "bbox": [
+        47,
+        596,
+        225,
+        615
+      ],
+      "confidence": 0.9885744452476501
+    },
+    {
+      "text": "Please review with Joe Doss of Covington & Burling to",
+      "bbox": [
+        95,
+        625,
+        675,
+        648
+      ],
+      "confidence": 0.982660710811615
+    },
+    {
+      "text": "determine any indirect expenditures made by third parties that may",
+      "bbox": [
+        45,
+        641,
+        674,
+        664
+      ],
+      "confidence": 0.9853654503822327
+    },
+    {
+      "text": "be attributable to Lorillard.",
+      "bbox": [
+        44,
+        656,
+        327,
+        677
+      ],
+      "confidence": 0.9794710278511047
+    },
+    {
+      "text": "Yours sincerepy,",
+      "bbox": [
+        379,
+        700,
+        537,
+        727
+      ],
+      "confidence": 0.9682166576385498
+    },
+    {
+      "text": "Nicholas Simeonidis",
+      "bbox": [
+        378,
+        792,
+        568,
+        812
+      ],
+      "confidence": 0.9764988422393799
+    },
+    {
+      "text": "NS:fp",
+      "bbox": [
+        41,
+        807,
+        97,
+        829
+      ],
+      "confidence": 0.9676035642623901
+    },
+    {
+      "text": "Enclosures",
+      "bbox": [
+        42,
+        824,
+        145,
+        843
+      ],
+      "confidence": 0.9999440908432007
+    },
+    {
+      "text": "83670620",
+      "bbox": [
+        677,
+        837,
+        710,
+        952
+      ],
+      "confidence": 0.9997706413269043
+    },
+    {
+      "text": "cc: A.J. Stevens, Esq.",
+      "bbox": [
+        40,
+        853,
+        257,
+        876
+      ],
+      "confidence": 0.9857620000839233
+    },
+    {
+      "text": "J.R. Cherry, 'Esq.",
+      "bbox": [
+        78,
+        869,
+        248,
+        893
+      ],
+      "confidence": 0.9583361148834229
+    },
+    {
+      "text": "J. Doss, Esq.",
+      "bbox": [
+        77,
+        885,
+        208,
+        907
+      ],
+      "confidence": 0.9726570844650269
+    }
+  ],
+  "full_text": "Lorillard\nTOBACCO COMPANY\nOne Park Avenue, New York, N.Y. 10016-5895 • (212) 545-3000\nNICHOLAS SIMEONIDIS\nAssociate General Counsel\n(212) 545-3355\nFax: (212) 545.3297\nFebruary 6, 1995\nVia Fax\nPrinceton Public Affairs Group, Inc.\nMargaret Payne\n160 West State Street\nTrenton, NJ 08608\nDear Ms. Payne:\nI am in receipt of your memo to Arthur Stevens dated January\n26, 1995. The original of this letter, and enclosures, is being\nsent by courier for delivery tomorrow, February 8th.\nI have attached E.L.E.C. Form L-2. In addition, note that I\nhave no record of direct Lorillard expenditures in New Jersey to\nany state officials, including legislators or their immediate\nfamilies, in 1994.\nPlease review with Joe Doss of Covington & Burling to\ndetermine any indirect expenditures made by third parties that may\nbe attributable to Lorillard.\nYours sincerepy,\nNicholas Simeonidis\nNS:fp\nEnclosures\n83670620\ncc: A.J. Stevens, Esq.\nJ.R. Cherry, 'Esq.\nJ. Doss, Esq."
+}

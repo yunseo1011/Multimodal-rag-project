@@ -1,0 +1,531 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0086.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BQR",
+      "bbox": [
+        59,
+        80,
+        99,
+        105
+      ],
+      "confidence": 0.9999287724494934
+    },
+    {
+      "text": "New York",
+      "bbox": [
+        58,
+        97,
+        147,
+        124
+      ],
+      "confidence": 0.9997866153717041
+    },
+    {
+      "text": "JOB #9060",
+      "bbox": [
+        608,
+        103,
+        690,
+        120
+      ],
+      "confidence": 0.9997333884239197
+    },
+    {
+      "text": "Oct. 1987",
+      "bbox": [
+        609,
+        121,
+        689,
+        135
+      ],
+      "confidence": 0.9978067874908447
+    },
+    {
+      "text": "SCREENING _QUESTIONNAIRE",
+      "bbox": [
+        282,
+        141,
+        494,
+        163
+      ],
+      "confidence": 0.9835304617881775
+    },
+    {
+      "text": "Hello, my name is",
+      "bbox": [
+        63,
+        161,
+        234,
+        192
+      ],
+      "confidence": 0.989000678062439
+    },
+    {
+      "text": "from",
+      "bbox": [
+        369,
+        172,
+        416,
+        194
+      ],
+      "confidence": 0.9998742938041687
+    },
+    {
+      "text": "firm.",
+      "bbox": [
+        64,
+        178,
+        126,
+        201
+      ],
+      "confidence": 0.982257068157196
+    },
+    {
+      "text": "We are conducting a survey in your area, and I'd like to ask",
+      "bbox": [
+        127,
+        182,
+        682,
+        214
+      ],
+      "confidence": 0.9916497468948364
+    },
+    {
+      "text": ", a market research",
+      "bbox": [
+        520,
+        180,
+        689,
+        195
+      ],
+      "confidence": 0.9983580708503723
+    },
+    {
+      "text": "you a few questions.",
+      "bbox": [
+        64,
+        194,
+        257,
+        222
+      ],
+      "confidence": 0.9979560971260071
+    },
+    {
+      "text": "Q. 1",
+      "bbox": [
+        62,
+        222,
+        111,
+        248
+      ],
+      "confidence": 0.9784570336341858
+    },
+    {
+      "text": "Are you/May I speak with a (male) (female) between 18 and 21",
+      "bbox": [
+        148,
+        228,
+        700,
+        257
+      ],
+      "confidence": 0.9976382851600647
+    },
+    {
+      "text": "years of age?",
+      "bbox": [
+        148,
+        245,
+        274,
+        266
+      ],
+      "confidence": 0.999225914478302
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        146,
+        273,
+        184,
+        296
+      ],
+      "confidence": 0.9990183711051941
+    },
+    {
+      "text": "REINTRODUCE YOURSELF, IF NECESSARY",
+      "bbox": [
+        269,
+        277,
+        581,
+        297
+      ],
+      "confidence": 0.9967825412750244
+    },
+    {
+      "text": "No",
+      "bbox": [
+        147,
+        290,
+        176,
+        310
+      ],
+      "confidence": 0.998883843421936
+    },
+    {
+      "text": "TERMINATE",
+      "bbox": [
+        268,
+        291,
+        356,
+        311
+      ],
+      "confidence": 0.9986217021942139
+    },
+    {
+      "text": "AT EACH SESSION, YOU ARE TO RECRUIT HALF MALES AND HALF",
+      "bbox": [
+        148,
+        322,
+        655,
+        344
+      ],
+      "confidence": 0.9920614957809448
+    },
+    {
+      "text": "FEMALES.",
+      "bbox": [
+        147,
+        337,
+        226,
+        354
+      ],
+      "confidence": 0.9991583824157715
+    },
+    {
+      "text": "Q. 2",
+      "bbox": [
+        65,
+        368,
+        109,
+        386
+      ],
+      "confidence": 0.9619512557983398
+    },
+    {
+      "text": "What is your exact age?",
+      "bbox": [
+        147,
+        368,
+        361,
+        387
+      ],
+      "confidence": 0.9863463640213013
+    },
+    {
+      "text": "RECORD",
+      "bbox": [
+        267,
+        400,
+        326,
+        417
+      ],
+      "confidence": 0.9998885989189148
+    },
+    {
+      "text": "ATTEMPT TO RECRUIT EQUAL/NEARLY EQUAL NUMBERS FOR EACH OF",
+      "bbox": [
+        147,
+        414,
+        675,
+        435
+      ],
+      "confidence": 0.9761545658111572
+    },
+    {
+      "text": "THE FOUR YEARS WHICH QUALIFY.",
+      "bbox": [
+        147,
+        430,
+        416,
+        449
+      ],
+      "confidence": 0.9989799857139587
+    },
+    {
+      "text": "Q. 3a",
+      "bbox": [
+        63,
+        459,
+        118,
+        484
+      ],
+      "confidence": 0.9870386123657227
+    },
+    {
+      "text": "Sometimes the type of work people do, and the kinds of",
+      "bbox": [
+        147,
+        462,
+        647,
+        480
+      ],
+      "confidence": 0.9839431643486023
+    },
+    {
+      "text": "companies they work for, affect the kinds of products they",
+      "bbox": [
+        147,
+        479,
+        683,
+        496
+      ],
+      "confidence": 0.9991675615310669
+    },
+    {
+      "text": "buy. Please tell me what your occupation is, and the type",
+      "bbox": [
+        146,
+        495,
+        682,
+        512
+      ],
+      "confidence": 0.9850895404815674
+    },
+    {
+      "text": "of company you work for.",
+      "bbox": [
+        147,
+        511,
+        368,
+        528
+      ],
+      "confidence": 0.9757981300354004
+    },
+    {
+      "text": "Occupation",
+      "bbox": [
+        146,
+        540,
+        243,
+        560
+      ],
+      "confidence": 0.9999100565910339
+    },
+    {
+      "text": "Type of Company",
+      "bbox": [
+        394,
+        539,
+        537,
+        559
+      ],
+      "confidence": 0.9996578693389893
+    },
+    {
+      "text": "Q. 3b",
+      "bbox": [
+        63,
+        568,
+        116,
+        594
+      ],
+      "confidence": 0.9701036214828491
+    },
+    {
+      "text": "(If Married ask) It is also essential that I know the occu-",
+      "bbox": [
+        149,
+        571,
+        691,
+        589
+      ],
+      "confidence": 0.9803944826126099
+    },
+    {
+      "text": "pation of your spouse, and the type of company he/she works",
+      "bbox": [
+        146,
+        588,
+        690,
+        605
+      ],
+      "confidence": 0.9862604737281799
+    },
+    {
+      "text": "for.",
+      "bbox": [
+        145,
+        603,
+        188,
+        622
+      ],
+      "confidence": 0.9994021058082581
+    },
+    {
+      "text": "Occupation",
+      "bbox": [
+        146,
+        635,
+        242,
+        652
+      ],
+      "confidence": 0.9998947978019714
+    },
+    {
+      "text": "Type of Company",
+      "bbox": [
+        394,
+        633,
+        536,
+        654
+      ],
+      "confidence": 0.987405002117157
+    },
+    {
+      "text": "Q. 3c",
+      "bbox": [
+        63,
+        662,
+        116,
+        687
+      ],
+      "confidence": 0.9480379223823547
+    },
+    {
+      "text": "(If a Student) If you work, I need to know your occupation,",
+      "bbox": [
+        149,
+        665,
+        688,
+        682
+      ],
+      "confidence": 0.9819968342781067
+    },
+    {
+      "text": "and the type of company you work for.",
+      "bbox": [
+        148,
+        683,
+        488,
+        698
+      ],
+      "confidence": 0.9809838533401489
+    },
+    {
+      "text": "Type of Company",
+      "bbox": [
+        393,
+        712,
+        536,
+        731
+      ],
+      "confidence": 0.9990600347518921
+    },
+    {
+      "text": "Occupation",
+      "bbox": [
+        147,
+        714,
+        242,
+        731
+      ],
+      "confidence": 0.9999527931213379
+    },
+    {
+      "text": "Because you are a student, it is important that I know the",
+      "bbox": [
+        147,
+        743,
+        681,
+        760
+      ],
+      "confidence": 0.9955465793609619
+    },
+    {
+      "text": "for.",
+      "bbox": [
+        145,
+        771,
+        190,
+        796
+      ],
+      "confidence": 0.9987527132034302
+    },
+    {
+      "text": "occupations, and the types of companies your parents work",
+      "bbox": [
+        148,
+        759,
+        673,
+        776
+      ],
+      "confidence": 0.9913915395736694
+    },
+    {
+      "text": "Mother's Occupation",
+      "bbox": [
+        147,
+        802,
+        324,
+        822
+      ],
+      "confidence": 0.9997923970222473
+    },
+    {
+      "text": "Type of Company",
+      "bbox": [
+        437,
+        801,
+        581,
+        824
+      ],
+      "confidence": 0.9804485440254211
+    },
+    {
+      "text": "Type of Company",
+      "bbox": [
+        436,
+        832,
+        581,
+        855
+      ],
+      "confidence": 0.9890668392181396
+    },
+    {
+      "text": "2045624274",
+      "bbox": [
+        707,
+        826,
+        735,
+        976
+      ],
+      "confidence": 0.9994012713432312
+    },
+    {
+      "text": "Father's Occupation",
+      "bbox": [
+        148,
+        833,
+        322,
+        851
+      ],
+      "confidence": 0.9980828166007996
+    },
+    {
+      "text": "TERMINATE IF CANDIDATE, SPOUSE OR PARENTS WORK FOR: A MARKET",
+      "bbox": [
+        147,
+        859,
+        703,
+        889
+      ],
+      "confidence": 0.9969199299812317
+    }
+  ],
+  "full_text": "BQR\nNew York\nJOB #9060\nOct. 1987\nSCREENING _QUESTIONNAIRE\nHello, my name is\nfrom\nfirm.\nWe are conducting a survey in your area, and I'd like to ask\n, a market research\nyou a few questions.\nQ. 1\nAre you/May I speak with a (male) (female) between 18 and 21\nyears of age?\nYes\nREINTRODUCE YOURSELF, IF NECESSARY\nNo\nTERMINATE\nAT EACH SESSION, YOU ARE TO RECRUIT HALF MALES AND HALF\nFEMALES.\nQ. 2\nWhat is your exact age?\nRECORD\nATTEMPT TO RECRUIT EQUAL/NEARLY EQUAL NUMBERS FOR EACH OF\nTHE FOUR YEARS WHICH QUALIFY.\nQ. 3a\nSometimes the type of work people do, and the kinds of\ncompanies they work for, affect the kinds of products they\nbuy. Please tell me what your occupation is, and the type\nof company you work for.\nOccupation\nType of Company\nQ. 3b\n(If Married ask) It is also essential that I know the occu-\npation of your spouse, and the type of company he/she works\nfor.\nOccupation\nType of Company\nQ. 3c\n(If a Student) If you work, I need to know your occupation,\nand the type of company you work for.\nType of Company\nOccupation\nBecause you are a student, it is important that I know the\nfor.\noccupations, and the types of companies your parents work\nMother's Occupation\nType of Company\nType of Company\n2045624274\nFather's Occupation\nTERMINATE IF CANDIDATE, SPOUSE OR PARENTS WORK FOR: A MARKET"
+}

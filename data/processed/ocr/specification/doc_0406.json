@@ -1,0 +1,391 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0406.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BROWN AND WILLIAMSON TABACCO CORPORATION",
+      "bbox": [
+        181,
+        44,
+        548,
+        65
+      ],
+      "confidence": 0.9933155179023743
+    },
+    {
+      "text": "Capri Cigarette Liner Specification - (cse 3r-Ov6-e",
+      "bbox": [
+        194,
+        89,
+        678,
+        112
+      ],
+      "confidence": 0.9115336537361145
+    },
+    {
+      "text": "Target.",
+      "bbox": [
+        249,
+        120,
+        316,
+        141
+      ],
+      "confidence": 0.9940500855445862
+    },
+    {
+      "text": "+/- Tolerance",
+      "bbox": [
+        386,
+        120,
+        509,
+        139
+      ],
+      "confidence": 0.988541841506958
+    },
+    {
+      "text": "Test I.D.",
+      "bbox": [
+        570,
+        121,
+        660,
+        140
+      ],
+      "confidence": 0.9768276214599609
+    },
+    {
+      "text": "Foil Gauge",
+      "bbox": [
+        29,
+        151,
+        123,
+        168
+      ],
+      "confidence": 0.9958192706108093
+    },
+    {
+      "text": ".000285",
+      "bbox": [
+        249,
+        152,
+        316,
+        169
+      ],
+      "confidence": 0.9913777112960815
+    },
+    {
+      "text": "10% (inch)",
+      "bbox": [
+        386,
+        152,
+        479,
+        169
+      ],
+      "confidence": 0.8739275932312012
+    },
+    {
+      "text": "RTM 4",
+      "bbox": [
+        569,
+        149,
+        625,
+        170
+      ],
+      "confidence": 0.9636632800102234
+    },
+    {
+      "text": "Yield(tiner)",
+      "bbox": [
+        28,
+        166,
+        138,
+        183
+      ],
+      "confidence": 0.9807367324829102
+    },
+    {
+      "text": "10,936",
+      "bbox": [
+        248,
+        168,
+        307,
+        186
+      ],
+      "confidence": 0.9785454273223877
+    },
+    {
+      "text": "i0% (sq.inch/#)",
+      "bbox": [
+        384,
+        165,
+        525,
+        185
+      ],
+      "confidence": 0.9002285003662109
+    },
+    {
+      "text": "RTM 908",
+      "bbox": [
+        572,
+        166,
+        644,
+        183
+      ],
+      "confidence": 0.9833641052246094
+    },
+    {
+      "text": "Adhesive",
+      "bbox": [
+        29,
+        183,
+        103,
+        198
+      ],
+      "confidence": 0.9980154037475586
+    },
+    {
+      "text": "i.5",
+      "bbox": [
+        247,
+        183,
+        281,
+        203
+      ],
+      "confidence": 0.7880620956420898
+    },
+    {
+      "text": ".25 (4/R)",
+      "bbox": [
+        386,
+        182,
+        471,
+        201
+      ],
+      "confidence": 0.9670814871788025
+    },
+    {
+      "text": "RTM 114",
+      "bbox": [
+        572,
+        181,
+        644,
+        199
+      ],
+      "confidence": 0.9071165919303894
+    },
+    {
+      "text": "Coef. of Frictian",
+      "bbox": [
+        27,
+        196,
+        185,
+        216
+      ],
+      "confidence": 0.9759995937347412
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        246,
+        200,
+        270,
+        217
+      ],
+      "confidence": 0.9983558058738708
+    },
+    {
+      "text": "Moisture Content",
+      "bbox": [
+        26,
+        211,
+        175,
+        231
+      ],
+      "confidence": 0.9971548914909363
+    },
+    {
+      "text": "Can not be guaranteed",
+      "bbox": [
+        245,
+        213,
+        443,
+        232
+      ],
+      "confidence": 0.9959418773651123
+    },
+    {
+      "text": "Core I.D.",
+      "bbox": [
+        25,
+        226,
+        110,
+        245
+      ],
+      "confidence": 0.9888125658035278
+    },
+    {
+      "text": "3 (inch)",
+      "bbox": [
+        246,
+        231,
+        320,
+        245
+      ],
+      "confidence": 0.9700311422348022
+    },
+    {
+      "text": "Roii O.D. Max.",
+      "bbox": [
+        25,
+        240,
+        154,
+        262
+      ],
+      "confidence": 0.9473327994346619
+    },
+    {
+      "text": "13.5 (inch)",
+      "bbox": [
+        245,
+        245,
+        350,
+        262
+      ],
+      "confidence": 0.932666540145874
+    },
+    {
+      "text": "Max.Splices",
+      "bbox": [
+        23,
+        255,
+        129,
+        276
+      ],
+      "confidence": 0.9947337508201599
+    },
+    {
+      "text": "3 Max. on 9ox of order,5 Max.on remaining i0%",
+      "bbox": [
+        242,
+        256,
+        675,
+        278
+      ],
+      "confidence": 0.9650998711585999
+    },
+    {
+      "text": "Paper Weight",
+      "bbox": [
+        22,
+        271,
+        137,
+        291
+      ],
+      "confidence": 0.9814181923866272
+    },
+    {
+      "text": "25.0",
+      "bbox": [
+        245,
+        276,
+        286,
+        291
+      ],
+      "confidence": 0.9988375306129456
+    },
+    {
+      "text": "23.7 - 26.3 (#/R)",
+      "bbox": [
+        383,
+        272,
+        546,
+        292
+      ],
+      "confidence": 0.9402741193771362
+    },
+    {
+      "text": "Color",
+      "bbox": [
+        20,
+        285,
+        74,
+        306
+      ],
+      "confidence": 0.9199315905570984
+    },
+    {
+      "text": "To be within agreed and approved colar stds.",
+      "bbox": [
+        243,
+        289,
+        663,
+        309
+      ],
+      "confidence": 0.9534700512886047
+    },
+    {
+      "text": "Lubricant Level",
+      "bbox": [
+        20,
+        300,
+        163,
+        322
+      ],
+      "confidence": 0.9957218766212463
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        243,
+        305,
+        268,
+        322
+      ],
+      "confidence": 0.999204695224762
+    },
+    {
+      "text": "Odor",
+      "bbox": [
+        18,
+        315,
+        63,
+        335
+      ],
+      "confidence": 0.9962136745452881
+    },
+    {
+      "text": "No objectionable odor",
+      "bbox": [
+        243,
+        320,
+        441,
+        338
+      ],
+      "confidence": 0.9823074340820312
+    },
+    {
+      "text": "RTM 78",
+      "bbox": [
+        570,
+        317,
+        635,
+        340
+      ],
+      "confidence": 0.9798691868782043
+    },
+    {
+      "text": "682211210",
+      "bbox": [
+        573,
+        896,
+        718,
+        926
+      ],
+      "confidence": 0.9998372197151184
+    }
+  ],
+  "full_text": "BROWN AND WILLIAMSON TABACCO CORPORATION\nCapri Cigarette Liner Specification - (cse 3r-Ov6-e\nTarget.\n+/- Tolerance\nTest I.D.\nFoil Gauge\n.000285\n10% (inch)\nRTM 4\nYield(tiner)\n10,936\ni0% (sq.inch/#)\nRTM 908\nAdhesive\ni.5\n.25 (4/R)\nRTM 114\nCoef. of Frictian\nNA\nMoisture Content\nCan not be guaranteed\nCore I.D.\n3 (inch)\nRoii O.D. Max.\n13.5 (inch)\nMax.Splices\n3 Max. on 9ox of order,5 Max.on remaining i0%\nPaper Weight\n25.0\n23.7 - 26.3 (#/R)\nColor\nTo be within agreed and approved colar stds.\nLubricant Level\nNA\nOdor\nNo objectionable odor\nRTM 78\n682211210"
+}

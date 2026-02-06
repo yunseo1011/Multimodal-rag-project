@@ -1,0 +1,501 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0588.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ID:213 607 3702",
+      "bbox": [
+        430,
+        2,
+        568,
+        25
+      ],
+      "confidence": 0.9922556281089783
+    },
+    {
+      "text": "1/5",
+      "bbox": [
+        720,
+        7,
+        748,
+        18
+      ],
+      "confidence": 0.9990145564079285
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        654,
+        8,
+        692,
+        19
+      ],
+      "confidence": 0.9994978904724121
+    },
+    {
+      "text": "MUNGER, TOLLES & OLSON",
+      "bbox": [
+        250,
+        39,
+        503,
+        62
+      ],
+      "confidence": 0.9977416396141052
+    },
+    {
+      "text": "355 South Grand Avenue",
+      "bbox": [
+        271,
+        58,
+        480,
+        78
+      ],
+      "confidence": 0.9830392599105835
+    },
+    {
+      "text": "Thirty-Fifth Floor",
+      "bbox": [
+        289,
+        74,
+        463,
+        95
+      ],
+      "confidence": 0.9978854060173035
+    },
+    {
+      "text": "Los Angeies, California 90o7i-1560",
+      "bbox": [
+        213,
+        88,
+        536,
+        111
+      ],
+      "confidence": 0.9671220183372498
+    },
+    {
+      "text": "Telephone",
+      "bbox": [
+        256,
+        108,
+        348,
+        125
+      ],
+      "confidence": 0.9996084570884705
+    },
+    {
+      "text": "(213)683-9100",
+      "bbox": [
+        361,
+        105,
+        494,
+        123
+      ],
+      "confidence": 0.9690344333648682
+    },
+    {
+      "text": "FACSIMILE: (213) 687-3702",
+      "bbox": [
+        251,
+        121,
+        498,
+        140
+      ],
+      "confidence": 0.9764863848686218
+    },
+    {
+      "text": "FACSIMILE COVER SHEET",
+      "bbox": [
+        276,
+        152,
+        474,
+        172
+      ],
+      "confidence": 0.9971034526824951
+    },
+    {
+      "text": "THIS MESSAGE IS INTENDED ONLY FOR THE USE OF TEE INDIVIDUAL OR",
+      "bbox": [
+        59,
+        179,
+        660,
+        204
+      ],
+      "confidence": 0.9836453199386597
+    },
+    {
+      "text": "ENTITY TO WHICH IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT",
+      "bbox": [
+        60,
+        197,
+        680,
+        220
+      ],
+      "confidence": 0.9918043613433838
+    },
+    {
+      "text": "IS PRIVILEGED, CONFIDENTIAL AND EXKMPT FROM DISCLOSURE: UNDER",
+      "bbox": [
+        60,
+        212,
+        639,
+        236
+      ],
+      "confidence": 0.9775516390800476
+    },
+    {
+      "text": "APPLICABLE LAW. If the reaDer of this message is not the intended recipient",
+      "bbox": [
+        59,
+        229,
+        680,
+        252
+      ],
+      "confidence": 0.9558578729629517
+    },
+    {
+      "text": "or the employee or agent responsible for delivering the message to the intended",
+      "bbox": [
+        59,
+        243,
+        673,
+        265
+      ],
+      "confidence": 0.9866356253623962
+    },
+    {
+      "text": "recipient, you are hereby notified that any dissemination, distributiongor",
+      "bbox": [
+        60,
+        258,
+        632,
+        278
+      ],
+      "confidence": 0.9667779207229614
+    },
+    {
+      "text": "copying of this communication is strictly prohibited. If you have received this",
+      "bbox": [
+        59,
+        268,
+        679,
+        291
+      ],
+      "confidence": 0.9814487099647522
+    },
+    {
+      "text": "communication in error, please notify us immediately by telephone (collect), and",
+      "bbox": [
+        59,
+        281,
+        679,
+        304
+      ],
+      "confidence": 0.9802732467651367
+    },
+    {
+      "text": "return the original message to usjat the above address via the U.s. Postal",
+      "bbox": [
+        59,
+        294,
+        632,
+        316
+      ],
+      "confidence": 0.9162178039550781
+    },
+    {
+      "text": "Services. Thank you.",
+      "bbox": [
+        61,
+        308,
+        227,
+        328
+      ],
+      "confidence": 0.9893462061882019
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        60,
+        338,
+        130,
+        359
+      ],
+      "confidence": 0.9963160753250122
+    },
+    {
+      "text": "January 8, 1997",
+      "bbox": [
+        160,
+        339,
+        336,
+        359
+      ],
+      "confidence": 0.9976434111595154
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        61,
+        376,
+        101,
+        395
+      ],
+      "confidence": 0.9990279078483582
+    },
+    {
+      "text": "John J. Mulderig, Esq.",
+      "bbox": [
+        140,
+        373,
+        392,
+        399
+      ],
+      "confidence": 0.9878542423248291
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        140,
+        395,
+        294,
+        415
+      ],
+      "confidence": 0.9995039701461792
+    },
+    {
+      "text": "212-907-5796} (fax)",
+      "bbox": [
+        412,
+        387,
+        621,
+        414
+      ],
+      "confidence": 0.9536200165748596
+    },
+    {
+      "text": "Gregory G. Little, Esq.",
+      "bbox": [
+        140,
+        412,
+        404,
+        438
+      ],
+      "confidence": 0.9843830466270447
+    },
+    {
+      "text": "212-907-5979 (fax)",
+      "bbox": [
+        411,
+        425,
+        621,
+        453
+      ],
+      "confidence": 0.9915734529495239
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        141,
+        429,
+        299,
+        454
+      ],
+      "confidence": 0.9841756820678711
+    },
+    {
+      "text": "Timothy J. Lindon,",
+      "bbox": [
+        141,
+        449,
+        342,
+        472
+      ],
+      "confidence": 0.9601175785064697
+    },
+    {
+      "text": "Esq.",
+      "bbox": [
+        353,
+        447,
+        403,
+        473
+      ],
+      "confidence": 0.9031214118003845
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        142,
+        468,
+        295,
+        490
+      ],
+      "confidence": 0.9980374574661255
+    },
+    {
+      "text": "212-907-5979(fax)",
+      "bbox": [
+        412,
+        463,
+        619,
+        489
+      ],
+      "confidence": 0.997164785861969
+    },
+    {
+      "text": "Thomas E. Silfen, Esq.",
+      "bbox": [
+        143,
+        502,
+        394,
+        528
+      ],
+      "confidence": 0.9801573157310486
+    },
+    {
+      "text": "202-942-5883 (fax)",
+      "bbox": [
+        411,
+        500,
+        617,
+        526
+      ],
+      "confidence": 0.9823786616325378
+    },
+    {
+      "text": "Arnold & Porter",
+      "bbox": [
+        143,
+        523,
+        321,
+        545
+      ],
+      "confidence": 0.9736009836196899
+    },
+    {
+      "text": "Peter W. Sipkins, Esq.",
+      "bbox": [
+        145,
+        560,
+        393,
+        584
+      ],
+      "confidence": 0.9944695830345154
+    },
+    {
+      "text": "Dorsey & Whitney",
+      "bbox": [
+        144,
+        576,
+        329,
+        601
+      ],
+      "confidence": 0.9584822654724121
+    },
+    {
+      "text": "612-340-2683 (fax)",
+      "bbox": [
+        414,
+        572,
+        616,
+        598
+      ],
+      "confidence": 0.998790979385376
+    },
+    {
+      "text": "FROM: Mark B. Helm,",
+      "bbox": [
+        68,
+        631,
+        294,
+        653
+      ],
+      "confidence": 0.9518870115280151
+    },
+    {
+      "text": "Esq.",
+      "bbox": [
+        299,
+        632,
+        350,
+        657
+      ],
+      "confidence": 0.9619671702384949
+    },
+    {
+      "text": "Number of Pages (Including Cover Sheet):",
+      "bbox": [
+        67,
+        691,
+        522,
+        718
+      ],
+      "confidence": 0.9606569409370422
+    },
+    {
+      "text": "IF YOU DO NOT RECEIVE ALL PAGES OF THIS TRANSMISSION",
+      "bbox": [
+        81,
+        712,
+        675,
+        734
+      ],
+      "confidence": 0.9791694283485413
+    },
+    {
+      "text": "OR HAVE EXPERIENCED A TRANSMISSION PROBLEM, PLEASE",
+      "bbox": [
+        92,
+        731,
+        664,
+        752
+      ],
+      "confidence": 0.9872819781303406
+    },
+    {
+      "text": "CALL",
+      "bbox": [
+        271,
+        752,
+        321,
+        768
+      ],
+      "confidence": 0.9994972944259644
+    },
+    {
+      "text": "(213) 683-9510",
+      "bbox": [
+        322,
+        749,
+        483,
+        768
+      ],
+      "confidence": 0.9710569381713867
+    },
+    {
+      "text": "2074845359",
+      "bbox": [
+        726,
+        817,
+        754,
+        927
+      ],
+      "confidence": 0.999974250793457
+    },
+    {
+      "text": "[L217599.1]-",
+      "bbox": [
+        72,
+        974,
+        136,
+        985
+      ],
+      "confidence": 0.9802141189575195
+    }
+  ],
+  "full_text": "ID:213 607 3702\n1/5\nPAGE\nMUNGER, TOLLES & OLSON\n355 South Grand Avenue\nThirty-Fifth Floor\nLos Angeies, California 90o7i-1560\nTelephone\n(213)683-9100\nFACSIMILE: (213) 687-3702\nFACSIMILE COVER SHEET\nTHIS MESSAGE IS INTENDED ONLY FOR THE USE OF TEE INDIVIDUAL OR\nENTITY TO WHICH IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT\nIS PRIVILEGED, CONFIDENTIAL AND EXKMPT FROM DISCLOSURE: UNDER\nAPPLICABLE LAW. If the reaDer of this message is not the intended recipient\nor the employee or agent responsible for delivering the message to the intended\nrecipient, you are hereby notified that any dissemination, distributiongor\ncopying of this communication is strictly prohibited. If you have received this\ncommunication in error, please notify us immediately by telephone (collect), and\nreturn the original message to usjat the above address via the U.s. Postal\nServices. Thank you.\nDATE:\nJanuary 8, 1997\nTO:\nJohn J. Mulderig, Esq.\nPhilip Morris\n212-907-5796} (fax)\nGregory G. Little, Esq.\n212-907-5979 (fax)\nPhilip Morris\nTimothy J. Lindon,\nEsq.\nPhilip Morris\n212-907-5979(fax)\nThomas E. Silfen, Esq.\n202-942-5883 (fax)\nArnold & Porter\nPeter W. Sipkins, Esq.\nDorsey & Whitney\n612-340-2683 (fax)\nFROM: Mark B. Helm,\nEsq.\nNumber of Pages (Including Cover Sheet):\nIF YOU DO NOT RECEIVE ALL PAGES OF THIS TRANSMISSION\nOR HAVE EXPERIENCED A TRANSMISSION PROBLEM, PLEASE\nCALL\n(213) 683-9510\n2074845359\n[L217599.1]-"
+}

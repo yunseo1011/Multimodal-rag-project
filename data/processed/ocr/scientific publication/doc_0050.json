@@ -1,0 +1,1421 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0050.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BRucE",
+      "bbox": [
+        434,
+        0,
+        516,
+        27
+      ],
+      "confidence": 0.7750692963600159
+    },
+    {
+      "text": "D. Davies",
+      "bbox": [
+        536,
+        0,
+        683,
+        28
+      ],
+      "confidence": 0.8935658931732178
+    },
+    {
+      "text": "Determination of Tetrahydroisoquinoline Alkaloids in Biological",
+      "bbox": [
+        56,
+        12,
+        693,
+        58
+      ],
+      "confidence": 0.990608274936676
+    },
+    {
+      "text": "Materials with High Performance Liquid Chromatography",
+      "bbox": [
+        57,
+        38,
+        628,
+        81
+      ],
+      "confidence": 0.9905802607536316
+    },
+    {
+      "text": "Ralph M. Riggin1 and Peter T. Kissinger*",
+      "bbox": [
+        58,
+        94,
+        303,
+        117
+      ],
+      "confidence": 0.988071084022522
+    },
+    {
+      "text": "Department of Chemistry, Purdue University, West Lafayette, Ind. 47907",
+      "bbox": [
+        60,
+        119,
+        404,
+        141
+      ],
+      "confidence": 0.9873399138450623
+    },
+    {
+      "text": "A new approach! described for the selective determination",
+      "bbox": [
+        59,
+        163,
+        387,
+        187
+      ],
+      "confidence": 0.974433183670044
+    },
+    {
+      "text": "It has long been recognized that available analytical",
+      "bbox": [
+        417,
+        170,
+        739,
+        190
+      ],
+      "confidence": 0.9800375699996948
+    },
+    {
+      "text": "of tetrahydroisoq; nolines (TiQ's) formed by condensation of",
+      "bbox": [
+        59,
+        177,
+        387,
+        202
+      ],
+      "confidence": 0.9674436450004578
+    },
+    {
+      "text": "methods for catecholamines are quite poor, especially when",
+      "bbox": [
+        401,
+        185,
+        739,
+        204
+      ],
+      "confidence": 0.9992530941963196
+    },
+    {
+      "text": "catecholamines with aldehydes in vivo. High performance",
+      "bbox": [
+        59,
+        191,
+        386,
+        216
+      ],
+      "confidence": 0.9835636019706726
+    },
+    {
+      "text": "dealing with endogenous levels in biological samples. Since",
+      "bbox": [
+        404,
+        198,
+        738,
+        219
+      ],
+      "confidence": 0.9802914261817932
+    },
+    {
+      "text": "cation exchange chromatography in combination with am-",
+      "bbox": [
+        59,
+        207,
+        386,
+        230
+      ],
+      "confidence": 0.9917274713516235
+    },
+    {
+      "text": "TIQ levels will always be significantly less than their cate-",
+      "bbox": [
+        403,
+        213,
+        737,
+        232
+      ],
+      "confidence": 0.983069658279419
+    },
+    {
+      "text": "perometric detection permits simultaneous quantitation of",
+      "bbox": [
+        58,
+        222,
+        387,
+        244
+      ],
+      "confidence": 0.9872415065765381
+    },
+    {
+      "text": "cholamine precursors, it is obvious that their assay will be even",
+      "bbox": [
+        402,
+        226,
+        736,
+        246
+      ],
+      "confidence": 0.9788812398910522
+    },
+    {
+      "text": "tetrahydropapaveroline (THP) and salsolinol (SAL) at 2 ng/g",
+      "bbox": [
+        58,
+        235,
+        385,
+        260
+      ],
+      "confidence": 0.9783160090446472
+    },
+    {
+      "text": "more difficult. This is indeed the case and hias hampered",
+      "bbox": [
+        403,
+        242,
+        733,
+        257
+      ],
+      "confidence": 0.9851534366607666
+    },
+    {
+      "text": "In rat brain and 2 ng/mL In urine. Examples of application of",
+      "bbox": [
+        58,
+        249,
+        384,
+        273
+      ],
+      "confidence": 0.9930518269538879
+    },
+    {
+      "text": "workers in this area to a large extent.",
+      "bbox": [
+        403,
+        255,
+        607,
+        271
+      ],
+      "confidence": 0.9948570132255554
+    },
+    {
+      "text": "the new method are given for studies pertalning to the possible",
+      "bbox": [
+        59,
+        264,
+        383,
+        287
+      ],
+      "confidence": 0.9930503368377686
+    },
+    {
+      "text": "Recently we have described a simple and sensitive assay",
+      "bbox": [
+        416,
+        269,
+        732,
+        285
+      ],
+      "confidence": 0.9825697541236877
+    },
+    {
+      "text": "involvement of TiQ's in alcohol abuse.",
+      "bbox": [
+        59,
+        279,
+        265,
+        297
+      ],
+      "confidence": 0.984143078327179
+    },
+    {
+      "text": "procedure for urinary and tissue catecholamines (7, 8). This",
+      "bbox": [
+        403,
+        283,
+        730,
+        298
+      ],
+      "confidence": 0.9844217896461487
+    },
+    {
+      "text": "method utilizes high performance liquid chromatography",
+      "bbox": [
+        403,
+        296,
+        729,
+        313
+      ],
+      "confidence": 0.9893805384635925
+    },
+    {
+      "text": "The primary metabolic pathways of the catecholamines",
+      "bbox": [
+        71,
+        320,
+        383,
+        345
+      ],
+      "confidence": 0.9969437718391418
+    },
+    {
+      "text": "(HPLC) coupled to a thin-layer electrochemical detector",
+      "bbox": [
+        403,
+        309,
+        731,
+        327
+      ],
+      "confidence": 0.976405680179596
+    },
+    {
+      "text": "have been extensively studied and their involvement in neu-",
+      "bbox": [
+        57,
+        334,
+        383,
+        358
+      ],
+      "confidence": 0.9824464321136475
+    },
+    {
+      "text": "opposed to gas-liquid and other forms of chromatography or",
+      "bbox": [
+        402,
+        336,
+        731,
+        356
+      ],
+      "confidence": 0.9781607389450073
+    },
+    {
+      "text": "(LCEC). The advantages of using liquid chromatography as",
+      "bbox": [
+        403,
+        324,
+        728,
+        341
+      ],
+      "confidence": 0.9772236943244934
+    },
+    {
+      "text": "rotransmission and other processes in the peripheral and",
+      "bbox": [
+        59,
+        348,
+        382,
+        371
+      ],
+      "confidence": 0.9888787865638733
+    },
+    {
+      "text": "fluorometry to assay catecholamines are obvious and have",
+      "bbox": [
+        401,
+        349,
+        730,
+        369
+      ],
+      "confidence": 0.9958407282829285
+    },
+    {
+      "text": "central nervous systems has long been recognized.There ex-",
+      "bbox": [
+        59,
+        362,
+        381,
+        385
+      ],
+      "confidence": 0.970333993434906
+    },
+    {
+      "text": "been adequately described by us and others (7, 9). The same",
+      "bbox": [
+        401,
+        362,
+        729,
+        383
+      ],
+      "confidence": 0.9842821359634399
+    },
+    {
+      "text": "ists, however, another possible metabolic route for these",
+      "bbox": [
+        58,
+        375,
+        383,
+        399
+      ],
+      "confidence": 0.9839475154876709
+    },
+    {
+      "text": "advantages apply to the present TIQ assay. The fundamental",
+      "bbox": [
+        401,
+        376,
+        727,
+        396
+      ],
+      "confidence": 0.9608967304229736
+    },
+    {
+      "text": "compounds which has only recently received attention. This",
+      "bbox": [
+        58,
+        390,
+        383,
+        412
+      ],
+      "confidence": 0.9906425476074219
+    },
+    {
+      "text": "problem with HPLC analysis of TIQ's is the relatively poor",
+      "bbox": [
+        401,
+        390,
+        725,
+        409
+      ],
+      "confidence": 0.980291485786438
+    },
+    {
+      "text": "pathway involves the nonenzymatic condensation of cate-",
+      "bbox": [
+        59,
+        403,
+        382,
+        428
+      ],
+      "confidence": 0.9881104230880737
+    },
+    {
+      "text": "sensitivity of the commonly used detectors (eg., UV.VIS",
+      "bbox": [
+        400,
+        404,
+        725,
+        423
+      ],
+      "confidence": 0.9788292050361633
+    },
+    {
+      "text": "cholamines with aldehydes to form tetrahydroisoquinoline",
+      "bbox": [
+        58,
+        416,
+        382,
+        441
+      ],
+      "confidence": 0.9976105093955994
+    },
+    {
+      "text": "absorption). The use of thin-layer electrochemistry as a de-",
+      "bbox": [
+        400,
+        416,
+        724,
+        437
+      ],
+      "confidence": 0.9809539914131165
+    },
+    {
+      "text": "alkaloids (TIQ's) which can act as \"false\" neurotransmitters",
+      "bbox": [
+        58,
+        429,
+        382,
+        454
+      ],
+      "confidence": 0.9793445467948914
+    },
+    {
+      "text": "tection system has numerous advantages in terms of sensi-",
+      "bbox": [
+        401,
+        431,
+        723,
+        449
+      ],
+      "confidence": 0.9813708066940308
+    },
+    {
+      "text": "is shown below.",
+      "bbox": [
+        57,
+        457,
+        146,
+        477
+      ],
+      "confidence": 0.9988445043563843
+    },
+    {
+      "text": "and result in catecholamine depletion. Such a reaction scheme",
+      "bbox": [
+        58,
+        443,
+        382,
+        467
+      ],
+      "confidence": 0.986728847026825
+    },
+    {
+      "text": "tivity, selectivity, and cost. The sensitivity using electro-",
+      "bbox": [
+        401,
+        445,
+        722,
+        462
+      ],
+      "confidence": 0.9819751381874084
+    },
+    {
+      "text": "magnitude better than for UV and its inherent selectivity",
+      "bbox": [
+        399,
+        470,
+        721,
+        491
+      ],
+      "confidence": 0.988172709941864
+    },
+    {
+      "text": "chemical detection can sometimes be two to three orders of",
+      "bbox": [
+        401,
+        458,
+        723,
+        475
+      ],
+      "confidence": 0.9938562512397766
+    },
+    {
+      "text": "makes it a much more feasible approach for assays of many",
+      "bbox": [
+        399,
+        483,
+        720,
+        505
+      ],
+      "confidence": 0.9971743226051331
+    },
+    {
+      "text": "HO",
+      "bbox": [
+        73,
+        502,
+        87,
+        510
+      ],
+      "confidence": 0.8885562419891357
+    },
+    {
+      "text": "NHR",
+      "bbox": [
+        166,
+        497,
+        197,
+        511
+      ],
+      "confidence": 0.9915319085121155
+    },
+    {
+      "text": "biological materials.",
+      "bbox": [
+        400,
+        498,
+        509,
+        513
+      ],
+      "confidence": 0.9990735650062561
+    },
+    {
+      "text": "+ R\"CHO",
+      "bbox": [
+        187,
+        512,
+        238,
+        526
+      ],
+      "confidence": 0.8914536833763123
+    },
+    {
+      "text": "HO",
+      "bbox": [
+        273,
+        505,
+        287,
+        512
+      ],
+      "confidence": 0.9203561544418335
+    },
+    {
+      "text": "A fundamental advantage (in many cases a limitation) of",
+      "bbox": [
+        410,
+        509,
+        729,
+        531
+      ],
+      "confidence": 0.982796847820282
+    },
+    {
+      "text": "HO",
+      "bbox": [
+        72,
+        526,
+        90,
+        537
+      ],
+      "confidence": 0.9952242970466614
+    },
+    {
+      "text": "HO",
+      "bbox": [
+        271,
+        526,
+        291,
+        538
+      ],
+      "confidence": 0.9982461929321289
+    },
+    {
+      "text": "NR'",
+      "bbox": [
+        352,
+        521,
+        372,
+        533
+      ],
+      "confidence": 0.8154022693634033
+    },
+    {
+      "text": "LCEC is the fact that only electroactive compounds can be",
+      "bbox": [
+        399,
+        524,
+        717,
+        543
+      ],
+      "confidence": 0.9794795513153076
+    },
+    {
+      "text": "detected. For assay of TiQ's, this turns out to be a great ad-",
+      "bbox": [
+        398,
+        536,
+        718,
+        558
+      ],
+      "confidence": 0.9715315103530884
+    },
+    {
+      "text": "Although it is conceivable that this reaction could oocur",
+      "bbox": [
+        72,
+        554,
+        381,
+        575
+      ],
+      "confidence": 0.9902898073196411
+    },
+    {
+      "text": "one phenolic substituent, thus making them electrooxidizable.",
+      "bbox": [
+        396,
+        562,
+        718,
+        585
+      ],
+      "confidence": 0.9561435580253601
+    },
+    {
+      "text": "vantage since all the compounds of interest contain at least",
+      "bbox": [
+        399,
+        551,
+        715,
+        570
+      ],
+      "confidence": 0.9967066645622253
+    },
+    {
+      "text": "normally by utilizing endogenous aldehydes (eg. glyceral.",
+      "bbox": [
+        59,
+        567,
+        379,
+        589
+      ],
+      "confidence": 0.9642344117164612
+    },
+    {
+      "text": "Figure 1 illustrates the electrochemical behavior of two typical",
+      "bbox": [
+        396,
+        576,
+        714,
+        598
+      ],
+      "confidence": 0.9951249361038208
+    },
+    {
+      "text": "dehyde or glyoxylate), these compounds are generally present",
+      "bbox": [
+        60,
+        582,
+        379,
+        601
+      ],
+      "confidence": 0.9815135598182678
+    },
+    {
+      "text": "TIQ's. By selecting a detection potential in the range of +0.7.",
+      "bbox": [
+        395,
+        589,
+        713,
+        611
+      ],
+      "confidence": 0.9647653102874756
+    },
+    {
+      "text": "at low concentrations within the mitochondria or other or-",
+      "bbox": [
+        60,
+        595,
+        379,
+        613
+      ],
+      "confidence": 0.9866378903388977
+    },
+    {
+      "text": "to +0.8 V, one can oxidize the TIQ's (and catecholamines)",
+      "bbox": [
+        396,
+        603,
+        710,
+        622
+      ],
+      "confidence": 0.972510039806366
+    },
+    {
+      "text": "ganelles of the cell and thus never encounter the catechol-",
+      "bbox": [
+        60,
+        608,
+        378,
+        625
+      ],
+      "confidence": 0.9838363528251648
+    },
+    {
+      "text": "amines. TIQ formation is believed to have its most probable",
+      "bbox": [
+        61,
+        621,
+        377,
+        638
+      ],
+      "confidence": 0.979149580001831
+    },
+    {
+      "text": "while not detecting compounds with much larger oxidation",
+      "bbox": [
+        394,
+        615,
+        711,
+        637
+      ],
+      "confidence": 0.9936971664428711
+    },
+    {
+      "text": "significance under abnormal circumstances in which the body",
+      "bbox": [
+        60,
+        632,
+        378,
+        653
+      ],
+      "confidence": 0.9904154539108276
+    },
+    {
+      "text": "potentials.",
+      "bbox": [
+        396,
+        630,
+        454,
+        644
+      ],
+      "confidence": 0.9996554851531982
+    },
+    {
+      "text": "is presented with an external stimulus which results in sig.",
+      "bbox": [
+        60,
+        645,
+        377,
+        667
+      ],
+      "confidence": 0.98557049036026
+    },
+    {
+      "text": "Using the LCEC technique, we have detected the presence",
+      "bbox": [
+        408,
+        642,
+        709,
+        662
+      ],
+      "confidence": 0.9984495639801025
+    },
+    {
+      "text": "nificant levels of circulating aldehydes. The most obvious",
+      "bbox": [
+        60,
+        658,
+        378,
+        680
+      ],
+      "confidence": 0.9843051433563232
+    },
+    {
+      "text": "of TiQ's in plant matter and in the urine of individuals fol-",
+      "bbox": [
+        394,
+        655,
+        707,
+        674
+      ],
+      "confidence": 0.9815996289253235
+    },
+    {
+      "text": "lowing consumption of bananas or cocoa-based products (10,",
+      "bbox": [
+        394,
+        667,
+        708,
+        689
+      ],
+      "confidence": 0.9904547929763794
+    },
+    {
+      "text": "example of such a stimulus is alcohol consumption. During",
+      "bbox": [
+        59,
+        672,
+        376,
+        693
+      ],
+      "confidence": 0.9941701889038086
+    },
+    {
+      "text": "11). This report describes analytical procedures for ppb levels",
+      "bbox": [
+        394,
+        679,
+        706,
+        702
+      ],
+      "confidence": 0.9804849028587341
+    },
+    {
+      "text": "kill",
+      "bbox": [
+        757,
+        681,
+        777,
+        696
+      ],
+      "confidence": 0.877240777015686
+    },
+    {
+      "text": "foll",
+      "bbox": [
+        759,
+        671,
+        777,
+        683
+      ],
+      "confidence": 0.96601802110672
+    },
+    {
+      "text": "alcohol intoxication, significant levels of circulating acetal.",
+      "bbox": [
+        61,
+        684,
+        377,
+        705
+      ],
+      "confidence": 0.9697629809379578
+    },
+    {
+      "text": "of TIQ's in body fluids and tissues. Several preliminary studies",
+      "bbox": [
+        393,
+        691,
+        706,
+        715
+      ],
+      "confidence": 0.9395027160644531
+    },
+    {
+      "text": "fro",
+      "bbox": [
+        756,
+        692,
+        777,
+        709
+      ],
+      "confidence": 0.872860848903656
+    },
+    {
+      "text": "dehyde are present and it has been proposed by various",
+      "bbox": [
+        61,
+        698,
+        377,
+        718
+      ],
+      "confidence": 0.9937408566474915
+    },
+    {
+      "text": "workers that the condensation of acetaldehyde with cate-",
+      "bbox": [
+        63,
+        711,
+        375,
+        731
+      ],
+      "confidence": 0.9888551831245422
+    },
+    {
+      "text": "on TIQ formation in vivo are also discussed.",
+      "bbox": [
+        392,
+        706,
+        624,
+        725
+      ],
+      "confidence": 0.9820842146873474
+    },
+    {
+      "text": "6m",
+      "bbox": [
+        755,
+        704,
+        777,
+        718
+      ],
+      "confidence": 0.9977701902389526
+    },
+    {
+      "text": "cholamines to form TIQ's may account in some way for the",
+      "bbox": [
+        62,
+        724,
+        376,
+        743
+      ],
+      "confidence": 0.9755614399909973
+    },
+    {
+      "text": "EXPERIMENTAL",
+      "bbox": [
+        494,
+        727,
+        604,
+        743
+      ],
+      "confidence": 0.9998661875724792
+    },
+    {
+      "text": "met",
+      "bbox": [
+        757,
+        718,
+        777,
+        729
+      ],
+      "confidence": 0.9855549931526184
+    },
+    {
+      "text": "addicting properties of alcohol. The literature adequately",
+      "bbox": [
+        63,
+        738,
+        375,
+        754
+      ],
+      "confidence": 0.9919282793998718
+    },
+    {
+      "text": "tiss",
+      "bbox": [
+        754,
+        736,
+        777,
+        752
+      ],
+      "confidence": 0.9981434345245361
+    },
+    {
+      "text": "at 0",
+      "bbox": [
+        757,
+        729,
+        777,
+        740
+      ],
+      "confidence": 0.9471357464790344
+    },
+    {
+      "text": "describes the rationale for this hypothesis (1-4). It appears",
+      "bbox": [
+        63,
+        750,
+        375,
+        766
+      ],
+      "confidence": 0.9811067581176758
+    },
+    {
+      "text": "procedure for catecholamines (7)Urine was collectedover acid to",
+      "bbox": [
+        390,
+        752,
+        706,
+        777
+      ],
+      "confidence": 0.7319689989089966
+    },
+    {
+      "text": "The present assay for urinary T1Q's is a modification of our earlier",
+      "bbox": [
+        402,
+        743,
+        706,
+        765
+      ],
+      "confidence": 0.9583607912063599
+    },
+    {
+      "text": "sam",
+      "bbox": [
+        753,
+        750,
+        777,
+        763
+      ],
+      "confidence": 0.9997039437294006
+    },
+    {
+      "text": "as though no definite conclusions have been reached as to the",
+      "bbox": [
+        63,
+        763,
+        374,
+        778
+      ],
+      "confidence": 0.9941582679748535
+    },
+    {
+      "text": "pH 2) using 6 M HCl and stored at -35 C prior to amalysi. Four.",
+      "bbox": [
+        390,
+        763,
+        706,
+        788
+      ],
+      "confidence": 0.7910577654838562
+    },
+    {
+      "text": "cage",
+      "bbox": [
+        752,
+        770,
+        777,
+        786
+      ],
+      "confidence": 0.9944327473640442
+    },
+    {
+      "text": "A",
+      "bbox": [
+        768,
+        763,
+        776,
+        772
+      ],
+      "confidence": 0.9997103810310364
+    },
+    {
+      "text": "credibility of this idea; however, the balance of evidence re-",
+      "bbox": [
+        63,
+        775,
+        374,
+        790
+      ],
+      "confidence": 0.9916536211967468
+    },
+    {
+      "text": "centrifuge tubes with 1.5 g of (NH)SO. capped and shaken, and",
+      "bbox": [
+        389,
+        785,
+        705,
+        810
+      ],
+      "confidence": 0.795222818851471
+    },
+    {
+      "text": "milliliters of acid-hydrolyzed (7) urine were placed in polyethylene",
+      "bbox": [
+        390,
+        774,
+        704,
+        799
+      ],
+      "confidence": 0.7597391605377197
+    },
+    {
+      "text": "Joh",
+      "bbox": [
+        752,
+        780,
+        777,
+        795
+      ],
+      "confidence": 0.9975093007087708
+    },
+    {
+      "text": "ported to date is negative. A recent encouraging report by",
+      "bbox": [
+        63,
+        788,
+        374,
+        803
+      ],
+      "confidence": 0.9792793989181519
+    },
+    {
+      "text": "Myers and Melchior indicates that drinking behavior in rats",
+      "bbox": [
+        63,
+        801,
+        374,
+        817
+      ],
+      "confidence": 0.9918619394302368
+    },
+    {
+      "text": "centrifuged to remove solids and precipitated proteins. Acid by",
+      "bbox": [
+        390,
+        797,
+        711,
+        821
+      ],
+      "confidence": 0.9902121424674988
+    },
+    {
+      "text": "etha",
+      "bbox": [
+        754,
+        793,
+        777,
+        805
+      ],
+      "confidence": 0.9799332022666931
+    },
+    {
+      "text": "can be influenced by ventricular perfusion of TIQ's in brain",
+      "bbox": [
+        63,
+        813,
+        373,
+        830
+      ],
+      "confidence": 0.9778735041618347
+    },
+    {
+      "text": "drolysis is necessary to release the alkaloids from sulfate and gluco",
+      "bbox": [
+        390,
+        808,
+        704,
+        831
+      ],
+      "confidence": 0.9762473702430725
+    },
+    {
+      "text": "amo",
+      "bbox": [
+        751,
+        803,
+        777,
+        818
+      ],
+      "confidence": 0.994106113910675
+    },
+    {
+      "text": "quar",
+      "bbox": [
+        753,
+        817,
+        777,
+        829
+      ],
+      "confidence": 0.9320958256721497
+    },
+    {
+      "text": "(5). There are also reports that T1Q's form during various drug",
+      "bbox": [
+        63,
+        826,
+        373,
+        843
+      ],
+      "confidence": 0.9732232689857483
+    },
+    {
+      "text": "ronide conjugation. The supernate was transferred to 12-mL. glass",
+      "bbox": [
+        389,
+        819,
+        702,
+        842
+      ],
+      "confidence": 0.9824540019035339
+    },
+    {
+      "text": "centrifuge tubes and extracted twice with ethyl acetate and once with",
+      "bbox": [
+        389,
+        831,
+        702,
+        853
+      ],
+      "confidence": 0.9792347550392151
+    },
+    {
+      "text": "U",
+      "bbox": [
+        766,
+        828,
+        776,
+        838
+      ],
+      "confidence": 0.9777219295501709
+    },
+    {
+      "text": "therapies (e.g., L-Dopa treatment of Parkinson's disease) and",
+      "bbox": [
+        63,
+        839,
+        373,
+        855
+      ],
+      "confidence": 0.992488443851471
+    },
+    {
+      "text": "hexane (5-mL aliquots). The nonaqueous layers were discarded. The",
+      "bbox": [
+        389,
+        841,
+        701,
+        864
+      ],
+      "confidence": 0.979898989200592
+    },
+    {
+      "text": "adm",
+      "bbox": [
+        749,
+        847,
+        777,
+        864
+      ],
+      "confidence": 0.9882760643959045
+    },
+    {
+      "text": "0.5",
+      "bbox": [
+        750,
+        836,
+        777,
+        851
+      ],
+      "confidence": 0.9971573948860168
+    },
+    {
+      "text": "may play some role in the pharmacological effects of these",
+      "bbox": [
+        62,
+        852,
+        373,
+        867
+      ],
+      "confidence": 0.9920302033424377
+    },
+    {
+      "text": "drugs (6).",
+      "bbox": [
+        62,
+        862,
+        118,
+        879
+      ],
+      "confidence": 0.9846957921981812
+    },
+    {
+      "text": " sodium metabisulfite and 1% EDA. The stirred sample was then",
+      "bbox": [
+        388,
+        860,
+        702,
+        887
+      ],
+      "confidence": 0.7923898696899414
+    },
+    {
+      "text": "aqueous layer was transferred to a 10-mL. beaker with 100 pL, each of.",
+      "bbox": [
+        389,
+        851,
+        702,
+        874
+      ],
+      "confidence": 0.9312456250190735
+    },
+    {
+      "text": "djusted to pH 8.5 and placed in a 5-mL. conical vial containing 80 mg",
+      "bbox": [
+        388,
+        871,
+        702,
+        898
+      ],
+      "confidence": 0.8075145483016968
+    },
+    {
+      "text": "o alumia (1)and shaken for 1 min on a reciprocating shaker. The",
+      "bbox": [
+        387,
+        881,
+        702,
+        908
+      ],
+      "confidence": 0.6902397274971008
+    },
+    {
+      "text": "F",
+      "bbox": [
+        765,
+        892,
+        777,
+        906
+      ],
+      "confidence": 0.9991580247879028
+    },
+    {
+      "text": "1 Present address Battelle Columbus Laboratories, 505 King Av-",
+      "bbox": [
+        74,
+        901,
+        372,
+        920
+      ],
+      "confidence": 0.9762406349182129
+    },
+    {
+      "text": "distilled water and dried in vacuo for 3 min at 30 *C.",
+      "bbox": [
+        387,
+        902,
+        634,
+        928
+      ],
+      "confidence": 0.9304415583610535
+    },
+    {
+      "text": "TIQ",
+      "bbox": [
+        748,
+        901,
+        777,
+        921
+      ],
+      "confidence": 0.9961830973625183
+    },
+    {
+      "text": "enue, Columbus, Ohio 43201.",
+      "bbox": [
+        61,
+        912,
+        201,
+        927
+      ],
+      "confidence": 0.9498776197433472
+    },
+    {
+      "text": "The compounds were eluted from the alumina with 400 L. of 1 M",
+      "bbox": [
+        399,
+        914,
+        701,
+        939
+      ],
+      "confidence": 0.9682328104972839
+    },
+    {
+      "text": "urin",
+      "bbox": [
+        748,
+        915,
+        777,
+        933
+      ],
+      "confidence": 0.9994297027587891
+    },
+    {
+      "text": "two",
+      "bbox": [
+        747,
+        928,
+        776,
+        947
+      ],
+      "confidence": 0.9998569488525391
+    },
+    {
+      "text": "530 • ANALYTICAL CHEMISTRY, VOL. 49, NO. 4, APRIL 1977",
+      "bbox": [
+        63,
+        940,
+        374,
+        957
+      ],
+      "confidence": 0.9727368354797363
+    },
+    {
+      "text": "2023448360",
+      "bbox": [
+        506,
+        950,
+        668,
+        977
+      ],
+      "confidence": 0.999778151512146
+    }
+  ],
+  "full_text": "BRucE\nD. Davies\nDetermination of Tetrahydroisoquinoline Alkaloids in Biological\nMaterials with High Performance Liquid Chromatography\nRalph M. Riggin1 and Peter T. Kissinger*\nDepartment of Chemistry, Purdue University, West Lafayette, Ind. 47907\nA new approach! described for the selective determination\nIt has long been recognized that available analytical\nof tetrahydroisoq; nolines (TiQ's) formed by condensation of\nmethods for catecholamines are quite poor, especially when\ncatecholamines with aldehydes in vivo. High performance\ndealing with endogenous levels in biological samples. Since\ncation exchange chromatography in combination with am-\nTIQ levels will always be significantly less than their cate-\nperometric detection permits simultaneous quantitation of\ncholamine precursors, it is obvious that their assay will be even\ntetrahydropapaveroline (THP) and salsolinol (SAL) at 2 ng/g\nmore difficult. This is indeed the case and hias hampered\nIn rat brain and 2 ng/mL In urine. Examples of application of\nworkers in this area to a large extent.\nthe new method are given for studies pertalning to the possible\nRecently we have described a simple and sensitive assay\ninvolvement of TiQ's in alcohol abuse.\nprocedure for urinary and tissue catecholamines (7, 8). This\nmethod utilizes high performance liquid chromatography\nThe primary metabolic pathways of the catecholamines\n(HPLC) coupled to a thin-layer electrochemical detector\nhave been extensively studied and their involvement in neu-\nopposed to gas-liquid and other forms of chromatography or\n(LCEC). The advantages of using liquid chromatography as\nrotransmission and other processes in the peripheral and\nfluorometry to assay catecholamines are obvious and have\ncentral nervous systems has long been recognized.There ex-\nbeen adequately described by us and others (7, 9). The same\nists, however, another possible metabolic route for these\nadvantages apply to the present TIQ assay. The fundamental\ncompounds which has only recently received attention. This\nproblem with HPLC analysis of TIQ's is the relatively poor\npathway involves the nonenzymatic condensation of cate-\nsensitivity of the commonly used detectors (eg., UV.VIS\ncholamines with aldehydes to form tetrahydroisoquinoline\nabsorption). The use of thin-layer electrochemistry as a de-\nalkaloids (TIQ's) which can act as \"false\" neurotransmitters\ntection system has numerous advantages in terms of sensi-\nis shown below.\nand result in catecholamine depletion. Such a reaction scheme\ntivity, selectivity, and cost. The sensitivity using electro-\nmagnitude better than for UV and its inherent selectivity\nchemical detection can sometimes be two to three orders of\nmakes it a much more feasible approach for assays of many\nHO\nNHR\nbiological materials.\n+ R\"CHO\nHO\nA fundamental advantage (in many cases a limitation) of\nHO\nHO\nNR'\nLCEC is the fact that only electroactive compounds can be\ndetected. For assay of TiQ's, this turns out to be a great ad-\nAlthough it is conceivable that this reaction could oocur\none phenolic substituent, thus making them electrooxidizable.\nvantage since all the compounds of interest contain at least\nnormally by utilizing endogenous aldehydes (eg. glyceral.\nFigure 1 illustrates the electrochemical behavior of two typical\ndehyde or glyoxylate), these compounds are generally present\nTIQ's. By selecting a detection potential in the range of +0.7.\nat low concentrations within the mitochondria or other or-\nto +0.8 V, one can oxidize the TIQ's (and catecholamines)\nganelles of the cell and thus never encounter the catechol-\namines. TIQ formation is believed to have its most probable\nwhile not detecting compounds with much larger oxidation\nsignificance under abnormal circumstances in which the body\npotentials.\nis presented with an external stimulus which results in sig.\nUsing the LCEC technique, we have detected the presence\nnificant levels of circulating aldehydes. The most obvious\nof TiQ's in plant matter and in the urine of individuals fol-\nlowing consumption of bananas or cocoa-based products (10,\nexample of such a stimulus is alcohol consumption. During\n11). This report describes analytical procedures for ppb levels\nkill\nfoll\nalcohol intoxication, significant levels of circulating acetal.\nof TIQ's in body fluids and tissues. Several preliminary studies\nfro\ndehyde are present and it has been proposed by various\nworkers that the condensation of acetaldehyde with cate-\non TIQ formation in vivo are also discussed.\n6m\ncholamines to form TIQ's may account in some way for the\nEXPERIMENTAL\nmet\naddicting properties of alcohol. The literature adequately\ntiss\nat 0\ndescribes the rationale for this hypothesis (1-4). It appears\nprocedure for catecholamines (7)Urine was collectedover acid to\nThe present assay for urinary T1Q's is a modification of our earlier\nsam\nas though no definite conclusions have been reached as to the\npH 2) using 6 M HCl and stored at -35 C prior to amalysi. Four.\ncage\nA\ncredibility of this idea; however, the balance of evidence re-\ncentrifuge tubes with 1.5 g of (NH)SO. capped and shaken, and\nmilliliters of acid-hydrolyzed (7) urine were placed in polyethylene\nJoh\nported to date is negative. A recent encouraging report by\nMyers and Melchior indicates that drinking behavior in rats\ncentrifuged to remove solids and precipitated proteins. Acid by\netha\ncan be influenced by ventricular perfusion of TIQ's in brain\ndrolysis is necessary to release the alkaloids from sulfate and gluco\namo\nquar\n(5). There are also reports that T1Q's form during various drug\nronide conjugation. The supernate was transferred to 12-mL. glass\ncentrifuge tubes and extracted twice with ethyl acetate and once with\nU\ntherapies (e.g., L-Dopa treatment of Parkinson's disease) and\nhexane (5-mL aliquots). The nonaqueous layers were discarded. The\nadm\n0.5\nmay play some role in the pharmacological effects of these\ndrugs (6).\n sodium metabisulfite and 1% EDA. The stirred sample was then\naqueous layer was transferred to a 10-mL. beaker with 100 pL, each of.\ndjusted to pH 8.5 and placed in a 5-mL. conical vial containing 80 mg\no alumia (1)and shaken for 1 min on a reciprocating shaker. The\nF\n1 Present address Battelle Columbus Laboratories, 505 King Av-\ndistilled water and dried in vacuo for 3 min at 30 *C.\nTIQ\nenue, Columbus, Ohio 43201.\nThe compounds were eluted from the alumina with 400 L. of 1 M\nurin\ntwo\n530 • ANALYTICAL CHEMISTRY, VOL. 49, NO. 4, APRIL 1977\n2023448360"
+}

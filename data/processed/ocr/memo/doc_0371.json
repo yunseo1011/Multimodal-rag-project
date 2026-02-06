@@ -1,0 +1,201 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0371.png",
+    "image_width": 752,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "February 25, 1970",
+      "bbox": [
+        409,
+        41,
+        550,
+        64
+      ],
+      "confidence": 0.998327374458313
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        69,
+        94,
+        103,
+        117
+      ],
+      "confidence": 0.9988250136375427
+    },
+    {
+      "text": "Dr. Arthur Furst",
+      "bbox": [
+        158,
+        101,
+        291,
+        115
+      ],
+      "confidence": 0.9920967817306519
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        70,
+        127,
+        119,
+        148
+      ],
+      "confidence": 0.9996125102043152
+    },
+    {
+      "text": "V.F.L.",
+      "bbox": [
+        154,
+        130,
+        209,
+        148
+      ],
+      "confidence": 0.9982829689979553
+    },
+    {
+      "text": "SUBJEcT: Recommendation for additional supportive equipment for contract",
+      "bbox": [
+        71,
+        158,
+        667,
+        184
+      ],
+      "confidence": 0.9814923405647278
+    },
+    {
+      "text": "activities at Mason Research Institute.",
+      "bbox": [
+        154,
+        176,
+        473,
+        197
+      ],
+      "confidence": 0.9963354468345642
+    },
+    {
+      "text": "Attached find copy of letter 2-18-7o from Dr. R. D. Carpenter of",
+      "bbox": [
+        151,
+        224,
+        674,
+        246
+      ],
+      "confidence": 0.9692873954772949
+    },
+    {
+      "text": "Philip Morris to Dr. M. Senkus of Reynolds.",
+      "bbox": [
+        72,
+        243,
+        422,
+        260
+      ],
+      "confidence": 0.9666537046432495
+    },
+    {
+      "text": "I agree whole heartedly with Dr. Carpenter's recommendation.",
+      "bbox": [
+        151,
+        274,
+        637,
+        293
+      ],
+      "confidence": 0.9907443523406982
+    },
+    {
+      "text": "Secondly, after discussions with Dr. Rosencrans of M.R.I. I find",
+      "bbox": [
+        153,
+        309,
+        670,
+        324
+      ],
+      "confidence": 0.9918444156646729
+    },
+    {
+      "text": "that they do not have an adequate recorder for the I.R. analyzer. Therefore",
+      "bbox": [
+        70,
+        325,
+        685,
+        342
+      ],
+      "confidence": 0.9926571846008301
+    },
+    {
+      "text": "an additional $2,00o.o0 would be required for the purchase of a reliable",
+      "bbox": [
+        69,
+        342,
+        654,
+        359
+      ],
+      "confidence": 0.971060037612915
+    },
+    {
+      "text": "x y recorder.",
+      "bbox": [
+        67,
+        358,
+        175,
+        376
+      ],
+      "confidence": 0.9742043614387512
+    },
+    {
+      "text": "This procedure would be used for all the smoking machines being",
+      "bbox": [
+        146,
+        388,
+        664,
+        409
+      ],
+      "confidence": 0.99409419298172
+    },
+    {
+      "text": "tested by M.R.I. before and during animal exposures.",
+      "bbox": [
+        67,
+        405,
+        494,
+        427
+      ],
+      "confidence": 0.9887117147445679
+    },
+    {
+      "text": "Total amount to be requested not less than $4,50o.00.",
+      "bbox": [
+        144,
+        435,
+        583,
+        462
+      ],
+      "confidence": 0.9789642691612244
+    },
+    {
+      "text": "V.F.L.",
+      "bbox": [
+        396,
+        521,
+        451,
+        539
+      ],
+      "confidence": 0.9915646910667419
+    },
+    {
+      "text": "CTR CONTRACTS OOOB2O",
+      "bbox": [
+        397,
+        953,
+        747,
+        1000
+      ],
+      "confidence": 0.982155442237854
+    }
+  ],
+  "full_text": "February 25, 1970\nTO:\nDr. Arthur Furst\nFROM:\nV.F.L.\nSUBJEcT: Recommendation for additional supportive equipment for contract\nactivities at Mason Research Institute.\nAttached find copy of letter 2-18-7o from Dr. R. D. Carpenter of\nPhilip Morris to Dr. M. Senkus of Reynolds.\nI agree whole heartedly with Dr. Carpenter's recommendation.\nSecondly, after discussions with Dr. Rosencrans of M.R.I. I find\nthat they do not have an adequate recorder for the I.R. analyzer. Therefore\nan additional $2,00o.o0 would be required for the purchase of a reliable\nx y recorder.\nThis procedure would be used for all the smoking machines being\ntested by M.R.I. before and during animal exposures.\nTotal amount to be requested not less than $4,50o.00.\nV.F.L.\nCTR CONTRACTS OOOB2O"
+}

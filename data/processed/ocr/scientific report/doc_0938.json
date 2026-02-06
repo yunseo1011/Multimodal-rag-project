@@ -1,0 +1,281 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0938.png",
+    "image_width": 790,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE RELATIONSHIP BETWEEN HISTOLOGIC TYPES OF LUNG CANCER AND",
+      "bbox": [
+        90,
+        80,
+        639,
+        106
+      ],
+      "confidence": 0.9947400689125061
+    },
+    {
+      "text": "CIGARETTE SMOKING",
+      "bbox": [
+        292,
+        103,
+        444,
+        116
+      ],
+      "confidence": 0.9834036827087402
+    },
+    {
+      "text": "Zhou, Baosen; He, Anguang; and Wang, Tianjue",
+      "bbox": [
+        164,
+        129,
+        563,
+        150
+      ],
+      "confidence": 0.99570232629776
+    },
+    {
+      "text": "China Medical University, Shenyang, China",
+      "bbox": [
+        185,
+        145,
+        553,
+        163
+      ],
+      "confidence": 0.9961388111114502
+    },
+    {
+      "text": "Abstract",
+      "bbox": [
+        72,
+        171,
+        152,
+        193
+      ],
+      "confidence": 0.9993985891342163
+    },
+    {
+      "text": "This paper discusses l056 cases of lung cancer which were",
+      "bbox": [
+        166,
+        203,
+        662,
+        223
+      ],
+      "confidence": 0.9780410528182983
+    },
+    {
+      "text": "identified by pathology in the department of thoracic medicine of",
+      "bbox": [
+        76,
+        231,
+        664,
+        254
+      ],
+      "confidence": 0.9879368543624878
+    },
+    {
+      "text": "China Medical University from 1978-1994. The sections were stained",
+      "bbox": [
+        77,
+        261,
+        664,
+        281
+      ],
+      "confidence": 0.9817389249801636
+    },
+    {
+      "text": "with H.E.Pas-ab and Keratin. In the 1056 cases diagnosed by",
+      "bbox": [
+        76,
+        290,
+        665,
+        312
+      ],
+      "confidence": 0.986477792263031
+    },
+    {
+      "text": "histologic examinations, squamous cell carcinoma accounted for 516",
+      "bbox": [
+        77,
+        321,
+        665,
+        342
+      ],
+      "confidence": 0.992231547832489
+    },
+    {
+      "text": "cases (439 male and 77 female), adenocarcinoma for 345 cases (219",
+      "bbox": [
+        80,
+        353,
+        664,
+        370
+      ],
+      "confidence": 0.985093355178833
+    },
+    {
+      "text": "male and 126 female), small cell carcinoma for 128 cases (9l male",
+      "bbox": [
+        79,
+        382,
+        666,
+        400
+      ],
+      "confidence": 0.9754326939582825
+    },
+    {
+      "text": "and 37 female), large cell carcinoma for 46 cases (37 male and 9",
+      "bbox": [
+        81,
+        409,
+        666,
+        426
+      ],
+      "confidence": 0.9848841428756714
+    },
+    {
+      "text": "female), and other types for 21 cases (18 male and 3 female). A",
+      "bbox": [
+        80,
+        437,
+        668,
+        460
+      ],
+      "confidence": 0.9864460229873657
+    },
+    {
+      "text": "high proportion of cases in our study (10l cases, 9.76%) were under",
+      "bbox": [
+        79,
+        469,
+        668,
+        491
+      ],
+      "confidence": 0.9924396276473999
+    },
+    {
+      "text": "40 years of age (73 male and 28 female).",
+      "bbox": [
+        82,
+        502,
+        437,
+        519
+      ],
+      "confidence": 0.9813917279243469
+    },
+    {
+      "text": "To correlate the number of cigarettes smoked per day, and",
+      "bbox": [
+        173,
+        559,
+        669,
+        574
+      ],
+      "confidence": 0.9897521138191223
+    },
+    {
+      "text": "the duration and index of smoking with lung cancer development as",
+      "bbox": [
+        83,
+        591,
+        672,
+        608
+      ],
+      "confidence": 0.9860495924949646
+    },
+    {
+      "text": "well as the histologic types of lung cancer (wHo classification),",
+      "bbox": [
+        81,
+        620,
+        670,
+        639
+      ],
+      "confidence": 0.9907812476158142
+    },
+    {
+      "text": "we retrospectively analyzed 1o35 inpatients with lung cancer and",
+      "bbox": [
+        82,
+        652,
+        673,
+        669
+      ],
+      "confidence": 0.9787193536758423
+    },
+    {
+      "text": "compared them with 116 (48 smoker and 68 nonsmoker) inpatients",
+      "bbox": [
+        83,
+        683,
+        675,
+        701
+      ],
+      "confidence": 0.9967184662818909
+    },
+    {
+      "text": "without malignant diseases by means of the Mantel-Haenszel Method.",
+      "bbox": [
+        83,
+        714,
+        675,
+        731
+      ],
+      "confidence": 0.9868965148925781
+    },
+    {
+      "text": "The results show that squamous cell carcinoma (total, 516 cases; 78",
+      "bbox": [
+        81,
+        741,
+        678,
+        764
+      ],
+      "confidence": 0.9849159121513367
+    },
+    {
+      "text": "smoker and 138 nonsmoker), large cell carcinoma (total, 46 cases;",
+      "bbox": [
+        82,
+        770,
+        679,
+        797
+      ],
+      "confidence": 0.9915775060653687
+    },
+    {
+      "text": "32 smoker and 14 nonsmoker), and small cell carcinoma (total, 128",
+      "bbox": [
+        82,
+        800,
+        681,
+        829
+      ],
+      "confidence": 0.9775854349136353
+    },
+    {
+      "text": "2029049434",
+      "bbox": [
+        751,
+        813,
+        790,
+        987
+      ],
+      "confidence": 0.9999263882637024
+    },
+    {
+      "text": "cases; 83 smoker, and 45 nonsmoker), are correlated with cigarette",
+      "bbox": [
+        82,
+        830,
+        683,
+        860
+      ],
+      "confidence": 0.989839494228363
+    }
+  ],
+  "full_text": "THE RELATIONSHIP BETWEEN HISTOLOGIC TYPES OF LUNG CANCER AND\nCIGARETTE SMOKING\nZhou, Baosen; He, Anguang; and Wang, Tianjue\nChina Medical University, Shenyang, China\nAbstract\nThis paper discusses l056 cases of lung cancer which were\nidentified by pathology in the department of thoracic medicine of\nChina Medical University from 1978-1994. The sections were stained\nwith H.E.Pas-ab and Keratin. In the 1056 cases diagnosed by\nhistologic examinations, squamous cell carcinoma accounted for 516\ncases (439 male and 77 female), adenocarcinoma for 345 cases (219\nmale and 126 female), small cell carcinoma for 128 cases (9l male\nand 37 female), large cell carcinoma for 46 cases (37 male and 9\nfemale), and other types for 21 cases (18 male and 3 female). A\nhigh proportion of cases in our study (10l cases, 9.76%) were under\n40 years of age (73 male and 28 female).\nTo correlate the number of cigarettes smoked per day, and\nthe duration and index of smoking with lung cancer development as\nwell as the histologic types of lung cancer (wHo classification),\nwe retrospectively analyzed 1o35 inpatients with lung cancer and\ncompared them with 116 (48 smoker and 68 nonsmoker) inpatients\nwithout malignant diseases by means of the Mantel-Haenszel Method.\nThe results show that squamous cell carcinoma (total, 516 cases; 78\nsmoker and 138 nonsmoker), large cell carcinoma (total, 46 cases;\n32 smoker and 14 nonsmoker), and small cell carcinoma (total, 128\n2029049434\ncases; 83 smoker, and 45 nonsmoker), are correlated with cigarette"
+}

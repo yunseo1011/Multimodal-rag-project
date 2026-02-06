@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0137.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Bummed one of his",
+      "bbox": [
+        122,
+        94,
+        429,
+        220
+      ],
+      "confidence": 0.9996775388717651
+    },
+    {
+      "text": "and liked the taste.\"",
+      "bbox": [
+        135,
+        131,
+        439,
+        252
+      ],
+      "confidence": 0.9644789099693298
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        143,
+        691,
+        457,
+        812
+      ],
+      "confidence": 0.987679660320282
+    },
+    {
+      "text": "92244687",
+      "bbox": [
+        712,
+        773,
+        739,
+        850
+      ],
+      "confidence": 0.9990923404693604
+    },
+    {
+      "text": "A taste worth switching to.",
+      "bbox": [
+        170,
+        806,
+        450,
+        837
+      ],
+      "confidence": 0.9748165607452393
+    },
+    {
+      "text": "SURGEON GENERAL'S WARNING: Smoking",
+      "bbox": [
+        112,
+        870,
+        383,
+        892
+      ],
+      "confidence": 0.9847568273544312
+    },
+    {
+      "text": "Only 5mg. tar.",
+      "bbox": [
+        491,
+        864,
+        635,
+        895
+      ],
+      "confidence": 0.9590765237808228
+    },
+    {
+      "text": "Causes Lung Cancer, Heart",
+      "bbox": [
+        113,
+        891,
+        317,
+        908
+      ],
+      "confidence": 0.9959977865219116
+    },
+    {
+      "text": "Disease.",
+      "bbox": [
+        316,
+        889,
+        383,
+        908
+      ],
+      "confidence": 0.9779964685440063
+    },
+    {
+      "text": "Emphysema, And May Complicate",
+      "bbox": [
+        113,
+        907,
+        319,
+        927
+      ],
+      "confidence": 0.9886756539344788
+    },
+    {
+      "text": "Pregnancy.",
+      "bbox": [
+        318,
+        906,
+        382,
+        927
+      ],
+      "confidence": 0.9986675381660461
+    }
+  ],
+  "full_text": "Bummed one of his\nand liked the taste.\"\nTRUE\n92244687\nA taste worth switching to.\nSURGEON GENERAL'S WARNING: Smoking\nOnly 5mg. tar.\nCauses Lung Cancer, Heart\nDisease.\nEmphysema, And May Complicate\nPregnancy."
+}

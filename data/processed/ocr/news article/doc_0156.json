@@ -1,0 +1,1141 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0156.png",
+    "image_width": 781,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Washincton Post",
+      "bbox": [
+        181,
+        10,
+        295,
+        32
+      ],
+      "confidence": 0.8848510384559631
+    },
+    {
+      "text": "ThuRSdaY, FeBRUaRY 7, 1991 A19",
+      "bbox": [
+        335,
+        12,
+        520,
+        33
+      ],
+      "confidence": 0.8369389176368713
+    },
+    {
+      "text": "George F. Will",
+      "bbox": [
+        30,
+        106,
+        162,
+        142
+      ],
+      "confidence": 0.9639784693717957
+    },
+    {
+      "text": "Smoldering Death",
+      "bbox": [
+        28,
+        139,
+        313,
+        190
+      ],
+      "confidence": 0.9997568130493164
+    },
+    {
+      "text": "cable cars and streetcars, as Seattle's and Den-",
+      "bbox": [
+        524,
+        187,
+        762,
+        208
+      ],
+      "confidence": 0.9760467410087585
+    },
+    {
+      "text": "Gui War produced the first 11 deaths from",
+      "bbox": [
+        32,
+        202,
+        267,
+        226
+      ],
+      "confidence": 0.8919312953948975
+    },
+    {
+      "text": "Death was much on American minds when the",
+      "bbox": [
+        44,
+        189,
+        266,
+        215
+      ],
+      "confidence": 0.9927197694778442
+    },
+    {
+      "text": "not warning customers (California law requires",
+      "bbox": [
+        275,
+        190,
+        514,
+        210
+      ],
+      "confidence": 0.9952759742736816
+    },
+    {
+      "text": "ground combat. How many Americans noticed",
+      "bbox": [
+        32,
+        217,
+        264,
+        237
+      ],
+      "confidence": 0.9888970255851746
+    },
+    {
+      "text": "pipe tobacco can cause cancer and birth de-",
+      "bbox": [
+        275,
+        216,
+        512,
+        236
+      ],
+      "confidence": 0.9823371767997742
+    },
+    {
+      "text": "\"clear and reasonable warning\") that cigars and",
+      "bbox": [
+        276,
+        204,
+        513,
+        222
+      ],
+      "confidence": 0.9662471413612366
+    },
+    {
+      "text": "gress soon will consider sharply curtailing all•",
+      "bbox": [
+        524,
+        215,
+        769,
+        234
+      ],
+      "confidence": 0.9718914031982422
+    },
+    {
+      "text": "ver's transportation systems have done. Com",
+      "bbox": [
+        525,
+        203,
+        762,
+        219
+      ],
+      "confidence": 0.9863408207893372
+    },
+    {
+      "text": "fec. Massachusetts' Supreme Court has al-",
+      "bbox": [
+        274,
+        228,
+        512,
+        249
+      ],
+      "confidence": 0.8516656160354614
+    },
+    {
+      "text": "cigarette advertising, banning the use of ciga",
+      "bbox": [
+        524,
+        228,
+        763,
+        247
+      ],
+      "confidence": 0.9885485172271729
+    },
+    {
+      "text": "lowed plaintiffs in a liability case against Phillip",
+      "bbox": [
+        276,
+        245,
+        509,
+        259
+      ],
+      "confidence": 0.9940654039382935
+    },
+    {
+      "text": "rette brand names in sponsorship of sporting",
+      "bbox": [
+        525,
+        245,
+        763,
+        259
+      ],
+      "confidence": 0.993550717830658
+    },
+    {
+      "text": "eight Vietnams—were the resuit of tobacco?",
+      "bbox": [
+        32,
+        255,
+        245,
+        275
+      ],
+      "confidence": 0.9726951122283936
+    },
+    {
+      "text": "Morris to name as a defendant a store that sold",
+      "bbox": [
+        275,
+        255,
+        512,
+        273
+      ],
+      "confidence": 0.9921776652336121
+    },
+    {
+      "text": "events and restricting cigarette vending ma-",
+      "bbox": [
+        525,
+        258,
+        763,
+        272
+      ],
+      "confidence": 0.9787806868553162
+    },
+    {
+      "text": "Most of these deaths—up 11 percent over",
+      "bbox": [
+        44,
+        268,
+        263,
+        289
+      ],
+      "confidence": 0.9856407046318054
+    },
+    {
+      "text": "the company's cigarettes to minors.",
+      "bbox": [
+        277,
+        271,
+        455,
+        285
+      ],
+      "confidence": 0.9990948438644409
+    },
+    {
+      "text": "chines to aduit locations such as nightclubs of",
+      "bbox": [
+        526,
+        271,
+        764,
+        285
+      ],
+      "confidence": 0.9888788461685181
+    },
+    {
+      "text": "1985-were from seif-inflicted wounds, inflict-",
+      "bbox": [
+        33,
+        280,
+        263,
+        301
+      ],
+      "confidence": 0.9382787942886353
+    },
+    {
+      "text": "New Jersey's Supreme Court has heid",
+      "bbox": [
+        323,
+        281,
+        512,
+        299
+      ],
+      "confidence": 0.9820007085800171
+    },
+    {
+      "text": "restaurants where hard liquor is served.",
+      "bbox": [
+        526,
+        284,
+        722,
+        298
+      ],
+      "confidence": 0.9958893060684204
+    },
+    {
+      "text": "ed during 10, 20 or more years, the time it",
+      "bbox": [
+        32,
+        293,
+        263,
+        315
+      ],
+      "confidence": 0.9685512185096741
+    },
+    {
+      "text": "usuaily takes for smoking to result in cancer.",
+      "bbox": [
+        32,
+        307,
+        262,
+        328
+      ],
+      "confidence": 0.9593991041183472
+    },
+    {
+      "text": "that warning labels on cigarette packs",
+      "bbox": [
+        311,
+        294,
+        512,
+        313
+      ],
+      "confidence": 0.9565074443817139
+    },
+    {
+      "text": "The vendor's lot is not a happy one these days.",
+      "bbox": [
+        538,
+        298,
+        764,
+        312
+      ],
+      "confidence": 0.9850726127624512
+    },
+    {
+      "text": "But for some thousands of aduits and children,",
+      "bbox": [
+        32,
+        321,
+        261,
+        340
+      ],
+      "confidence": 0.9833939671516418
+    },
+    {
+      "text": "and advertisements do not immunize",
+      "bbox": [
+        313,
+        310,
+        510,
+        325
+      ],
+      "confidence": 0.9978417754173279
+    },
+    {
+      "text": "To purchase a $2.50 pack, a customer needs 10",
+      "bbox": [
+        526,
+        310,
+        763,
+        325
+      ],
+      "confidence": 0.9888193011283875
+    },
+    {
+      "text": "death came from the second-hand smoke of",
+      "bbox": [
+        32,
+        334,
+        262,
+        353
+      ],
+      "confidence": 0.9867517352104187
+    },
+    {
+      "text": "manufacturers against damage claims by",
+      "bbox": [
+        313,
+        324,
+        510,
+        338
+      ],
+      "confidence": 0.9775819182395935
+    },
+    {
+      "text": "smokers or their relatives. A New York",
+      "bbox": [
+        313,
+        337,
+        512,
+        351
+      ],
+      "confidence": 0.9968127012252808
+    },
+    {
+      "text": "dollar bill with a dollar coin. And while many",
+      "bbox": [
+        524,
+        335,
+        765,
+        354
+      ],
+      "confidence": 0.9913398623466492
+    },
+    {
+      "text": "quarters, so vendors are pushing to replace the",
+      "bbox": [
+        526,
+        325,
+        765,
+        339
+      ],
+      "confidence": 0.981157124042511
+    },
+    {
+      "text": "others, and because women smoked during",
+      "bbox": [
+        32,
+        348,
+        262,
+        367
+      ],
+      "confidence": 0.9967166185379028
+    },
+    {
+      "text": "cigarette machines are being reduced to scrap,",
+      "bbox": [
+        527,
+        352,
+        764,
+        366
+      ],
+      "confidence": 0.9751190543174744
+    },
+    {
+      "text": "pregnancy and parents smoked around their",
+      "bbox": [
+        33,
+        362,
+        261,
+        380
+      ],
+      "confidence": 0.9968675971031189
+    },
+    {
+      "text": "some visionary vendors are working on ways to",
+      "bbox": [
+        526,
+        365,
+        765,
+        379
+      ],
+      "confidence": 0.9940111637115479
+    },
+    {
+      "text": "infants. (Second-hand smoke increases the risk",
+      "bbox": [
+        34,
+        378,
+        260,
+        392
+      ],
+      "confidence": 0.9961711168289185
+    },
+    {
+      "text": "sell french fries from machines.",
+      "bbox": [
+        526,
+        378,
+        681,
+        392
+      ],
+      "confidence": 0.9978912472724915
+    },
+    {
+      "text": "of sudden infant death syndrome.)",
+      "bbox": [
+        34,
+        391,
+        198,
+        405
+      ],
+      "confidence": 0.9822548627853394
+    },
+    {
+      "text": "Last summer, Laguna Beach, Calif., raised the",
+      "bbox": [
+        536,
+        392,
+        764,
+        406
+      ],
+      "confidence": 0.9759678244590759
+    },
+    {
+      "text": "Fathers who smoike increase the risk that",
+      "bbox": [
+        44,
+        402,
+        261,
+        420
+      ],
+      "confidence": 0.9851527214050293
+    },
+    {
+      "text": "minimum requirement for non-smoking seating in",
+      "bbox": [
+        526,
+        406,
+        766,
+        420
+      ],
+      "confidence": 0.9879946708679199
+    },
+    {
+      "text": "their children will have brain cancer or leuikemia,",
+      "bbox": [
+        34,
+        418,
+        260,
+        432
+      ],
+      "confidence": 0.9619971513748169
+    },
+    {
+      "text": "restaurants from 25 percent to 60 percent of",
+      "bbox": [
+        527,
+        419,
+        767,
+        433
+      ],
+      "confidence": 0.993248701095581
+    },
+    {
+      "text": "which suggests that smoking can damage sperm.",
+      "bbox": [
+        34,
+        432,
+        260,
+        447
+      ],
+      "confidence": 0.9577853679656982
+    },
+    {
+      "text": "capacity. San Luis Obispo has passed the nation's",
+      "bbox": [
+        525,
+        430,
+        768,
+        449
+      ],
+      "confidence": 0.9698514342308044
+    },
+    {
+      "text": "acceierates development of AIDS in infected",
+      "bbox": [
+        30,
+        457,
+        261,
+        476
+      ],
+      "confidence": 0.981562077999115
+    },
+    {
+      "text": "Recent research also suggests that smoking",
+      "bbox": [
+        31,
+        444,
+        261,
+        462
+      ],
+      "confidence": 0.9621586799621582
+    },
+    {
+      "text": "strictest anti-smoking law, banning smoking in any",
+      "bbox": [
+        524,
+        445,
+        767,
+        463
+      ],
+      "confidence": 0.9826216101646423
+    },
+    {
+      "text": "peopile and that there is a dangerous synergism",
+      "bbox": [
+        30,
+        470,
+        261,
+        491
+      ],
+      "confidence": 0.9789994359016418
+    },
+    {
+      "text": "indoor public space—shops, restaurants and bars.",
+      "bbox": [
+        526,
+        461,
+        756,
+        475
+      ],
+      "confidence": 0.9940972328186035
+    },
+    {
+      "text": "between depression and nicotine addiction.",
+      "bbox": [
+        30,
+        484,
+        234,
+        504
+      ],
+      "confidence": 0.9913584589958191
+    },
+    {
+      "text": "IY MAMBANET SCOTT",
+      "bbox": [
+        438,
+        476,
+        504,
+        487
+      ],
+      "confidence": 0.8760870695114136
+    },
+    {
+      "text": "tending its smoicing ban from 18 buildings to aimost",
+      "bbox": [
+        524,
+        486,
+        768,
+        504
+      ],
+      "confidence": 0.9570039510726929
+    },
+    {
+      "text": "The University of Wisconsin, Madison, is ex-",
+      "bbox": [
+        537,
+        473,
+        768,
+        490
+      ],
+      "confidence": 0.9982801675796509
+    },
+    {
+      "text": "Most of those 1988 tobacco fatalities result-",
+      "bbox": [
+        42,
+        498,
+        259,
+        517
+      ],
+      "confidence": 0.9979225397109985
+    },
+    {
+      "text": "legitimate consideration when determining",
+      "bbox": [
+        272,
+        500,
+        513,
+        521
+      ],
+      "confidence": 0.9890645742416382
+    },
+    {
+      "text": "judge has ruled that parents' smoking habit is a",
+      "bbox": [
+        273,
+        488,
+        513,
+        506
+      ],
+      "confidence": 0.9912521243095398
+    },
+    {
+      "text": "all its 900 buildings, a policy comparabie to that of",
+      "bbox": [
+        526,
+        502,
+        767,
+        516
+      ],
+      "confidence": 0.9776653051376343
+    },
+    {
+      "text": "ed from addictions acquired before or not long",
+      "bbox": [
+        31,
+        513,
+        261,
+        530
+      ],
+      "confidence": 0.9737576842308044
+    },
+    {
+      "text": "which parent in a divorce proceeding shouid get",
+      "bbox": [
+        271,
+        515,
+        512,
+        533
+      ],
+      "confidence": 0.9851346015930176
+    },
+    {
+      "text": "Temple University in Philadelphia. Some campuses",
+      "bbox": [
+        525,
+        514,
+        766,
+        528
+      ],
+      "confidence": 0.9661750793457031
+    },
+    {
+      "text": "after the 1964 Surgeon General's report insist-",
+      "bbox": [
+        29,
+        525,
+        260,
+        543
+      ],
+      "confidence": 0.9751156568527222
+    },
+    {
+      "text": "custody of children.",
+      "bbox": [
+        271,
+        527,
+        369,
+        547
+      ],
+      "confidence": 0.962448000907898
+    },
+    {
+      "text": "are considering giving staff who smoike paid hours",
+      "bbox": [
+        524,
+        526,
+        768,
+        544
+      ],
+      "confidence": 0.9738128185272217
+    },
+    {
+      "text": "ing on the coanection between smoking and",
+      "bbox": [
+        28,
+        538,
+        260,
+        556
+      ],
+      "confidence": 0.9712970852851868
+    },
+    {
+      "text": "(One in six cases of lung cancer in non-smok-",
+      "bbox": [
+        284,
+        540,
+        511,
+        558
+      ],
+      "confidence": 0.9844546914100647
+    },
+    {
+      "text": "of leave to attend classes to help them quit.",
+      "bbox": [
+        526,
+        541,
+        729,
+        555
+      ],
+      "confidence": 0.9939900040626526
+    },
+    {
+      "text": "cancer. Today, grimly realistic social policy",
+      "bbox": [
+        27,
+        549,
+        260,
+        572
+      ],
+      "confidence": 0.8672427535057068
+    },
+    {
+      "text": "ers is caused by protracted exposure of chil-",
+      "bbox": [
+        273,
+        554,
+        510,
+        572
+      ],
+      "confidence": 0.9920125603675842
+    },
+    {
+      "text": "Californin seems to have doubled the rate at",
+      "bbox": [
+        537,
+        553,
+        769,
+        571
+      ],
+      "confidence": 0.9691230654716492
+    },
+    {
+      "text": "counts on these utterly predictable casualties of",
+      "bbox": [
+        27,
+        564,
+        260,
+        583
+      ],
+      "confidence": 0.9766527414321899
+    },
+    {
+      "text": "dren to second-hand smoke at home. Twenty-",
+      "bbox": [
+        270,
+        566,
+        512,
+        586
+      ],
+      "confidence": 0.9934397339820862
+    },
+    {
+      "text": "which smnoikers quit, using an extremely aggressive",
+      "bbox": [
+        526,
+        568,
+        769,
+        585
+      ],
+      "confidence": 0.9561499953269958
+    },
+    {
+      "text": "counts on millions of smokers dying before",
+      "bbox": [
+        26,
+        591,
+        258,
+        609
+      ],
+      "confidence": 0.9903958439826965
+    },
+    {
+      "text": "foolish behavior: the Social Security system",
+      "bbox": [
+        28,
+        578,
+        259,
+        595
+      ],
+      "confidence": 0.9673349261283875
+    },
+    {
+      "text": "five \"smoker-years\"-two parents smoking",
+      "bbox": [
+        270,
+        580,
+        512,
+        600
+      ],
+      "confidence": 0.9720159769058228
+    },
+    {
+      "text": "advertising campnign that stigmatises smoicing as",
+      "bbox": [
+        525,
+        580,
+        773,
+        598
+      ],
+      "confidence": 0.9667955636978149
+    },
+    {
+      "text": "receiving many, if any, benefits.",
+      "bbox": [
+        26,
+        603,
+        185,
+        622
+      ],
+      "confidence": 0.9616493582725525
+    },
+    {
+      "text": "121 years-doubles a child's lung-cancer risk.)",
+      "bbox": [
+        271,
+        593,
+        511,
+        612
+      ],
+      "confidence": 0.9444077610969543
+    },
+    {
+      "text": "California's state health director wants state",
+      "bbox": [
+        282,
+        607,
+        512,
+        626
+      ],
+      "confidence": 0.9618254899978638
+    },
+    {
+      "text": "companies as loathsomet In one radio ad. a man telle",
+      "bbox": [
+        524,
+        605,
+        769,
+        624
+      ],
+      "confidence": 0.948637843132019
+    },
+    {
+      "text": "decleesé as weil as dangerous and depicting tobaccos",
+      "bbox": [
+        525,
+        594,
+        774,
+        611
+      ],
+      "confidence": 0.927454948425293
+    },
+    {
+      "text": "Today's tobacco-reiated mortality rates re-",
+      "bbox": [
+        38,
+        617,
+        258,
+        636
+      ],
+      "confidence": 0.9721838235855103
+    },
+    {
+      "text": "universities and major pension funds to divest",
+      "bbox": [
+        271,
+        621,
+        512,
+        639
+      ],
+      "confidence": 0.9679270386695862
+    },
+    {
+      "text": "his girliriend that her yellow teeth are disgusting.",
+      "bbox": [
+        524,
+        621,
+        756,
+        638
+      ],
+      "confidence": 0.9245522022247314
+    },
+    {
+      "text": "flect a lag of about a generation in changed",
+      "bbox": [
+        26,
+        630,
+        257,
+        650
+      ],
+      "confidence": 0.980963945388794
+    },
+    {
+      "text": "themseives of their $525 million of stocks in",
+      "bbox": [
+        270,
+        634,
+        511,
+        652
+      ],
+      "confidence": 0.976586639881134
+    },
+    {
+      "text": "As a resuit of these and many other measures,",
+      "bbox": [
+        538,
+        636,
+        769,
+        650
+      ],
+      "confidence": 0.9906659722328186
+    },
+    {
+      "text": "behavior. Today's many behavior-changing pot-",
+      "bbox": [
+        26,
+        643,
+        257,
+        663
+      ],
+      "confidence": 0.9715754985809326
+    },
+    {
+      "text": "tobaco companies. Smoiking will soon be",
+      "bbox": [
+        269,
+        648,
+        512,
+        666
+      ],
+      "confidence": 0.9816621541976929
+    },
+    {
+      "text": "comprising a comprehensive campaign against mil-",
+      "bbox": [
+        524,
+        646,
+        769,
+        666
+      ],
+      "confidence": 0.9935750961303711
+    },
+    {
+      "text": "icies constitute reasonable attempts to deal with",
+      "bbox": [
+        26,
+        657,
+        257,
+        676
+      ],
+      "confidence": 0.9606695175170898
+    },
+    {
+      "text": "banned on all regularty scheduled bus trips in",
+      "bbox": [
+        269,
+        661,
+        511,
+        679
+      ],
+      "confidence": 0.9719105362892151
+    },
+    {
+      "text": "lions of premature deaths, 20 years from now the",
+      "bbox": [
+        524,
+        660,
+        770,
+        679
+      ],
+      "confidence": 0.9804301261901855
+    },
+    {
+      "text": "the conundrum of a legally merchandised prod-",
+      "bbox": [
+        26,
+        670,
+        257,
+        691
+      ],
+      "confidence": 0.9750526547431946
+    },
+    {
+      "text": "the United States, affecting 300 companies",
+      "bbox": [
+        269,
+        674,
+        511,
+        694
+      ],
+      "confidence": 0.9960628747940063
+    },
+    {
+      "text": "ashtray may have gone the way of the spittoon. This",
+      "bbox": [
+        524,
+        673,
+        770,
+        694
+      ],
+      "confidence": 0.9826772809028625
+    },
+    {
+      "text": "uct that is invariably harmful. Consider these:",
+      "bbox": [
+        26,
+        683,
+        243,
+        705
+      ],
+      "confidence": 0.966621458530426
+    },
+    {
+      "text": "carrying 94 million passengers a year.",
+      "bbox": [
+        269,
+        688,
+        464,
+        708
+      ],
+      "confidence": 0.9871309399604797
+    },
+    {
+      "text": "happy resuit wouid mean victory in a war that",
+      "bbox": [
+        524,
+        687,
+        771,
+        707
+      ],
+      "confidence": 0.9639065265655518
+    },
+    {
+      "text": "Eight California chain stores and some tobac-",
+      "bbox": [
+        39,
+        699,
+        257,
+        719
+      ],
+      "confidence": 0.9685637354850769
+    },
+    {
+      "text": "San Francisco is restricting tobacco (and alco-",
+      "bbox": [
+        281,
+        702,
+        511,
+        720
+      ],
+      "confidence": 0.9896352291107178
+    },
+    {
+      "text": "already has killed many times more peopie than",
+      "bbox": [
+        524,
+        702,
+        771,
+        720
+      ],
+      "confidence": 0.9725744128227234
+    },
+    {
+      "text": "co manufacturers have paid a $750,000 fine for",
+      "bbox": [
+        26,
+        713,
+        257,
+        733
+      ],
+      "confidence": 0.9796820282936096
+    },
+    {
+      "text": "hol advertising on such public places as buses,",
+      "bbox": [
+        267,
+        716,
+        512,
+        734
+      ],
+      "confidence": 0.9774168133735657
+    },
+    {
+      "text": "have died in all of America's wars combined.",
+      "bbox": [
+        525,
+        719,
+        733,
+        733
+      ],
+      "confidence": 0.9738572835922241
+    }
+  ],
+  "full_text": "The Washincton Post\nThuRSdaY, FeBRUaRY 7, 1991 A19\nGeorge F. Will\nSmoldering Death\ncable cars and streetcars, as Seattle's and Den-\nGui War produced the first 11 deaths from\nDeath was much on American minds when the\nnot warning customers (California law requires\nground combat. How many Americans noticed\npipe tobacco can cause cancer and birth de-\n\"clear and reasonable warning\") that cigars and\ngress soon will consider sharply curtailing all•\nver's transportation systems have done. Com\nfec. Massachusetts' Supreme Court has al-\ncigarette advertising, banning the use of ciga\nlowed plaintiffs in a liability case against Phillip\nrette brand names in sponsorship of sporting\neight Vietnams—were the resuit of tobacco?\nMorris to name as a defendant a store that sold\nevents and restricting cigarette vending ma-\nMost of these deaths—up 11 percent over\nthe company's cigarettes to minors.\nchines to aduit locations such as nightclubs of\n1985-were from seif-inflicted wounds, inflict-\nNew Jersey's Supreme Court has heid\nrestaurants where hard liquor is served.\ned during 10, 20 or more years, the time it\nusuaily takes for smoking to result in cancer.\nthat warning labels on cigarette packs\nThe vendor's lot is not a happy one these days.\nBut for some thousands of aduits and children,\nand advertisements do not immunize\nTo purchase a $2.50 pack, a customer needs 10\ndeath came from the second-hand smoke of\nmanufacturers against damage claims by\nsmokers or their relatives. A New York\ndollar bill with a dollar coin. And while many\nquarters, so vendors are pushing to replace the\nothers, and because women smoked during\ncigarette machines are being reduced to scrap,\npregnancy and parents smoked around their\nsome visionary vendors are working on ways to\ninfants. (Second-hand smoke increases the risk\nsell french fries from machines.\nof sudden infant death syndrome.)\nLast summer, Laguna Beach, Calif., raised the\nFathers who smoike increase the risk that\nminimum requirement for non-smoking seating in\ntheir children will have brain cancer or leuikemia,\nrestaurants from 25 percent to 60 percent of\nwhich suggests that smoking can damage sperm.\ncapacity. San Luis Obispo has passed the nation's\nacceierates development of AIDS in infected\nRecent research also suggests that smoking\nstrictest anti-smoking law, banning smoking in any\npeopile and that there is a dangerous synergism\nindoor public space—shops, restaurants and bars.\nbetween depression and nicotine addiction.\nIY MAMBANET SCOTT\ntending its smoicing ban from 18 buildings to aimost\nThe University of Wisconsin, Madison, is ex-\nMost of those 1988 tobacco fatalities result-\nlegitimate consideration when determining\njudge has ruled that parents' smoking habit is a\nall its 900 buildings, a policy comparabie to that of\ned from addictions acquired before or not long\nwhich parent in a divorce proceeding shouid get\nTemple University in Philadelphia. Some campuses\nafter the 1964 Surgeon General's report insist-\ncustody of children.\nare considering giving staff who smoike paid hours\ning on the coanection between smoking and\n(One in six cases of lung cancer in non-smok-\nof leave to attend classes to help them quit.\ncancer. Today, grimly realistic social policy\ners is caused by protracted exposure of chil-\nCalifornin seems to have doubled the rate at\ncounts on these utterly predictable casualties of\ndren to second-hand smoke at home. Twenty-\nwhich smnoikers quit, using an extremely aggressive\ncounts on millions of smokers dying before\nfoolish behavior: the Social Security system\nfive \"smoker-years\"-two parents smoking\nadvertising campnign that stigmatises smoicing as\nreceiving many, if any, benefits.\n121 years-doubles a child's lung-cancer risk.)\nCalifornia's state health director wants state\ncompanies as loathsomet In one radio ad. a man telle\ndecleesé as weil as dangerous and depicting tobaccos\nToday's tobacco-reiated mortality rates re-\nuniversities and major pension funds to divest\nhis girliriend that her yellow teeth are disgusting.\nflect a lag of about a generation in changed\nthemseives of their $525 million of stocks in\nAs a resuit of these and many other measures,\nbehavior. Today's many behavior-changing pot-\ntobaco companies. Smoiking will soon be\ncomprising a comprehensive campaign against mil-\nicies constitute reasonable attempts to deal with\nbanned on all regularty scheduled bus trips in\nlions of premature deaths, 20 years from now the\nthe conundrum of a legally merchandised prod-\nthe United States, affecting 300 companies\nashtray may have gone the way of the spittoon. This\nuct that is invariably harmful. Consider these:\ncarrying 94 million passengers a year.\nhappy resuit wouid mean victory in a war that\nEight California chain stores and some tobac-\nSan Francisco is restricting tobacco (and alco-\nalready has killed many times more peopie than\nco manufacturers have paid a $750,000 fine for\nhol advertising on such public places as buses,\nhave died in all of America's wars combined."
+}

@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0763.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Michele Sawadogo, Ph.D.",
+      "bbox": [
+        506,
+        15,
+        693,
+        36
+      ],
+      "confidence": 0.9920730590820312
+    },
+    {
+      "text": "Biographical Sketch",
+      "bbox": [
+        296,
+        80,
+        457,
+        102
+      ],
+      "confidence": 0.988492488861084
+    },
+    {
+      "text": "Mingming Hao",
+      "bbox": [
+        324,
+        114,
+        428,
+        134
+      ],
+      "confidence": 0.9973900318145752
+    },
+    {
+      "text": "Education",
+      "bbox": [
+        61,
+        218,
+        140,
+        242
+      ],
+      "confidence": 0.9998141527175903
+    },
+    {
+      "text": "Shandong Medical University, Jinan, PRC, 1986, Medicine",
+      "bbox": [
+        159,
+        245,
+        603,
+        273
+      ],
+      "confidence": 0.9894888401031494
+    },
+    {
+      "text": "M.D.",
+      "bbox": [
+        61,
+        254,
+        99,
+        272
+      ],
+      "confidence": 0.9982015490531921
+    },
+    {
+      "text": "M.S.",
+      "bbox": [
+        61,
+        285,
+        99,
+        303
+      ],
+      "confidence": 0.9933677911758423
+    },
+    {
+      "text": "Shandong Medical University, Jinan, PRC, 1989, Cytogenetics",
+      "bbox": [
+        159,
+        278,
+        633,
+        304
+      ],
+      "confidence": 0.9917777180671692
+    },
+    {
+      "text": "Professional Experience",
+      "bbox": [
+        63,
+        333,
+        247,
+        352
+      ],
+      "confidence": 0.9816453456878662
+    },
+    {
+      "text": "1986-89",
+      "bbox": [
+        62,
+        365,
+        124,
+        385
+      ],
+      "confidence": 0.999818742275238
+    },
+    {
+      "text": "Undergraduate research with Dr. Yishou Guo, Department of Biology.",
+      "bbox": [
+        157,
+        362,
+        686,
+        385
+      ],
+      "confidence": 0.9913955330848694
+    },
+    {
+      "text": "Shandong Medical University, Jinan, PRC",
+      "bbox": [
+        158,
+        378,
+        470,
+        402
+      ],
+      "confidence": 0.9974598288536072
+    },
+    {
+      "text": "Graduate research with Dr. Michele Sawadogo, Department of",
+      "bbox": [
+        157,
+        412,
+        624,
+        435
+      ],
+      "confidence": 0.9796885251998901
+    },
+    {
+      "text": "1990-pres",
+      "bbox": [
+        61,
+        414,
+        140,
+        438
+      ],
+      "confidence": 0.9999037981033325
+    },
+    {
+      "text": "Molecular Genetics, University of Texas M.D. Anderson Cancer",
+      "bbox": [
+        156,
+        428,
+        639,
+        451
+      ],
+      "confidence": 0.9856194257736206
+    },
+    {
+      "text": "Center, Houston, TX",
+      "bbox": [
+        158,
+        446,
+        308,
+        466
+      ],
+      "confidence": 0.9980446696281433
+    },
+    {
+      "text": "Professional Membership",
+      "bbox": [
+        64,
+        496,
+        245,
+        515
+      ],
+      "confidence": 0.9812263250350952
+    },
+    {
+      "text": "1986-pres. Chinese Association of Medical Genetics",
+      "bbox": [
+        62,
+        526,
+        469,
+        547
+      ],
+      "confidence": 0.9978906512260437
+    },
+    {
+      "text": "1987-pres. Chinese Society of Genetic Epidemiology",
+      "bbox": [
+        62,
+        543,
+        468,
+        565
+      ],
+      "confidence": 0.9976764917373657
+    },
+    {
+      "text": "Publications",
+      "bbox": [
+        62,
+        594,
+        159,
+        611
+      ],
+      "confidence": 0.9995719790458679
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        61,
+        626,
+        81,
+        642
+      ],
+      "confidence": 0.9995009899139404
+    },
+    {
+      "text": "D.Y,You and M. Hao. Repeat mole among three sisters from a family.",
+      "bbox": [
+        97,
+        625,
+        638,
+        647
+      ],
+      "confidence": 0.9741451144218445
+    },
+    {
+      "text": "ryth",
+      "bbox": [
+        97,
+        635,
+        139,
+        661
+      ],
+      "confidence": 0.8776512145996094
+    },
+    {
+      "text": "World Congress on GTN, Beijing, PRC, September 1988.",
+      "bbox": [
+        134,
+        640,
+        557,
+        665
+      ],
+      "confidence": 0.9827349185943604
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        55,
+        689,
+        80,
+        712
+      ],
+      "confidence": 0.9988539218902588
+    },
+    {
+      "text": "M. Hao and Y.S.Guo. A simple method for premetaphase chromosome",
+      "bbox": [
+        94,
+        691,
+        614,
+        714
+      ],
+      "confidence": 0.9916967749595642
+    },
+    {
+      "text": "preparations. Human Heredity (in Chinese) 23: 14 (1989)",
+      "bbox": [
+        96,
+        709,
+        547,
+        730
+      ],
+      "confidence": 0.9788805246353149
+    },
+    {
+      "text": "M. Hao and Y.S. Guo. High-resolution G-banding chromosome analysis of",
+      "bbox": [
+        91,
+        756,
+        665,
+        781
+      ],
+      "confidence": 0.9869108200073242
+    },
+    {
+      "text": "3",
+      "bbox": [
+        53,
+        758,
+        66,
+        774
+      ],
+      "confidence": 0.9998571872711182
+    },
+    {
+      "text": "32 mentally retarded children. Genetics (in chinese). In press.",
+      "bbox": [
+        92,
+        773,
+        623,
+        797
+      ],
+      "confidence": 0.9953473210334778
+    }
+  ],
+  "full_text": "Michele Sawadogo, Ph.D.\nBiographical Sketch\nMingming Hao\nEducation\nShandong Medical University, Jinan, PRC, 1986, Medicine\nM.D.\nM.S.\nShandong Medical University, Jinan, PRC, 1989, Cytogenetics\nProfessional Experience\n1986-89\nUndergraduate research with Dr. Yishou Guo, Department of Biology.\nShandong Medical University, Jinan, PRC\nGraduate research with Dr. Michele Sawadogo, Department of\n1990-pres\nMolecular Genetics, University of Texas M.D. Anderson Cancer\nCenter, Houston, TX\nProfessional Membership\n1986-pres. Chinese Association of Medical Genetics\n1987-pres. Chinese Society of Genetic Epidemiology\nPublications\n1.\nD.Y,You and M. Hao. Repeat mole among three sisters from a family.\nryth\nWorld Congress on GTN, Beijing, PRC, September 1988.\n2.\nM. Hao and Y.S.Guo. A simple method for premetaphase chromosome\npreparations. Human Heredity (in Chinese) 23: 14 (1989)\nM. Hao and Y.S. Guo. High-resolution G-banding chromosome analysis of\n3\n32 mentally retarded children. Genetics (in chinese). In press."
+}

@@ -1,0 +1,491 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0636.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RESUME",
+      "bbox": [
+        321,
+        59,
+        375,
+        81
+      ],
+      "confidence": 0.9982495903968811
+    },
+    {
+      "text": "CHARLOTTE L. TSOUCALAS",
+      "bbox": [
+        71,
+        84,
+        274,
+        105
+      ],
+      "confidence": 0.9948947429656982
+    },
+    {
+      "text": "13010 S. 35th Street",
+      "bbox": [
+        441,
+        94,
+        609,
+        114
+      ],
+      "confidence": 0.9893621206283569
+    },
+    {
+      "text": "Omaha, NB",
+      "bbox": [
+        443,
+        111,
+        523,
+        125
+      ],
+      "confidence": 0.9776591062545776
+    },
+    {
+      "text": "68123",
+      "bbox": [
+        543,
+        111,
+        587,
+        126
+      ],
+      "confidence": 0.974941074848175
+    },
+    {
+      "text": "291-c16!",
+      "bbox": [
+        482,
+        127,
+        559,
+        141
+      ],
+      "confidence": 0.8016406893730164
+    },
+    {
+      "text": "EXPERIENCE",
+      "bbox": [
+        306,
+        146,
+        388,
+        166
+      ],
+      "confidence": 0.9996220469474792
+    },
+    {
+      "text": "1984 (January-July): Office of the Assistant Secretary of",
+      "bbox": [
+        66,
+        172,
+        568,
+        200
+      ],
+      "confidence": 0.991406261920929
+    },
+    {
+      "text": "Defense for Health Affairs. Department of Defense",
+      "bbox": [
+        193,
+        189,
+        606,
+        216
+      ],
+      "confidence": 0.9791293740272522
+    },
+    {
+      "text": "1984:. Assistant for Planning & Coordipation'.",
+      "bbox": [
+        149,
+        205,
+        539,
+        228
+      ],
+      "confidence": 0.9586607813835144
+    },
+    {
+      "text": "complied with Departmental guidance. Monitored budget",
+      "bbox": [
+        65,
+        247,
+        537,
+        272
+      ],
+      "confidence": 0.9871881604194641
+    },
+    {
+      "text": "Insured that Defense medical programs and budgets",
+      "bbox": [
+        194,
+        234,
+        607,
+        258
+      ],
+      "confidence": 0.982805073261261
+    },
+    {
+      "text": "allocation and execution, Served as primary liaison between",
+      "bbox": [
+        64,
+        262,
+        584,
+        288
+      ],
+      "confidence": 0.9813750982284546
+    },
+    {
+      "text": "Health Affairs and agencies. Developed and executed the",
+      "bbox": [
+        63,
+        277,
+        553,
+        302
+      ],
+      "confidence": 0.9782591462135315
+    },
+    {
+      "text": "operating.budget for Health Affairs. Conducted and supervised",
+      "bbox": [
+        64,
+        294,
+        602,
+        317
+      ],
+      "confidence": 0.9863144755363464
+    },
+    {
+      "text": "various economic, management and cost analyses of defense",
+      "bbox": [
+        63,
+        309,
+        561,
+        332
+      ],
+      "confidence": 0.9760164618492126
+    },
+    {
+      "text": "health activities. Prepared and consolidated testimony and",
+      "bbox": [
+        65,
+        326,
+        578,
+        346
+      ],
+      "confidence": 0.9906150698661804
+    },
+    {
+      "text": "supporting material ·for appearances by the Assistant Secretary",
+      "bbox": [
+        67,
+        343,
+        598,
+        360
+      ],
+      "confidence": 0.9858053922653198
+    },
+    {
+      "text": "before Congress. Represented the Assistant Secretary at",
+      "bbox": [
+        65,
+        356,
+        552,
+        376
+      ],
+      "confidence": 0.9909974336624146
+    },
+    {
+      "text": "meetings within the Department.and with other government",
+      "bbox": [
+        66,
+        373,
+        551,
+        390
+      ],
+      "confidence": 0.9909550547599792
+    },
+    {
+      "text": "agencies.",
+      "bbox": [
+        66,
+        389,
+        150,
+        406
+      ],
+      "confidence": 0.9995057582855225
+    },
+    {
+      "text": "'1983-l984: Office of the Deputy Assistant Secretary of Defense",
+      "bbox": [
+        62,
+        416,
+        608,
+        436
+      ],
+      "confidence": 0.9641168117523193
+    },
+    {
+      "text": "for International Economic Trade & Security",
+      "bbox": [
+        190,
+        430,
+        557,
+        452
+      ],
+      "confidence": 0.9619926810264587
+    },
+    {
+      "text": "Policy. Department of Defense",
+      "bbox": [
+        191,
+        446,
+        436,
+        467
+      ],
+      "confidence": 0.9668905138969421
+    },
+    {
+      "text": "Nov 1983-Jan 1984:",
+      "bbox": [
+        145,
+        463,
+        306,
+        483
+      ],
+      "confidence": 0.9976876378059387
+    },
+    {
+      "text": "Consultant",
+      "bbox": [
+        342,
+        463,
+        427,
+        480
+      ],
+      "confidence": 0.9991070628166199
+    },
+    {
+      "text": "Legal and legislative counsel on legislative",
+      "bbox": [
+        188,
+        489,
+        563,
+        513
+      ],
+      "confidence": 0.9966596364974976
+    },
+    {
+      "text": "proposals and implementation directives. Drafted and",
+      "bbox": [
+        63,
+        505,
+        524,
+        529
+      ],
+      "confidence": 0.985859751701355
+    },
+    {
+      "text": "coordinated with Congress and federal agencies changes to",
+      "bbox": [
+        64,
+        519,
+        554,
+        545
+      ],
+      "confidence": 0.98797208070755
+    },
+    {
+      "text": "legislation.",
+      "bbox": [
+        65,
+        541,
+        175,
+        558
+      ],
+      "confidence": 0.9866640567779541
+    },
+    {
+      "text": "1975-l983: Office of Henry M. Jackson. U.S. Senator",
+      "bbox": [
+        64,
+        566,
+        512,
+        588
+      ],
+      "confidence": 0.9832388758659363
+    },
+    {
+      "text": "July 1981-Nov 1983:",
+      "bbox": [
+        142,
+        582,
+        314,
+        602
+      ],
+      "confidence": 0.9452471733093262
+    },
+    {
+      "text": "Legislative Counsel",
+      "bbox": [
+        340,
+        581,
+        503,
+        600
+      ],
+      "confidence": 0.9985758066177368
+    },
+    {
+      "text": "Sept 1975-July 1981:",
+      "bbox": [
+        144,
+        597,
+        321,
+        618
+      ],
+      "confidence": 0.9880093336105347
+    },
+    {
+      "text": "Assistant to Legislative Counsel",
+      "bbox": [
+        339,
+        605,
+        605,
+        633
+      ],
+      "confidence": 0.9984147548675537
+    },
+    {
+      "text": "Legislative Aide",
+      "bbox": [
+        340,
+        597,
+        477,
+        615
+      ],
+      "confidence": 0.9994446039199829
+    },
+    {
+      "text": "Feb.1975-Sept 1975:",
+      "bbox": [
+        143,
+        613,
+        313,
+        633
+      ],
+      "confidence": 0.976566731929779
+    },
+    {
+      "text": ",Senator's primary advisor. representative and",
+      "bbox": [
+        184,
+        635,
+        567,
+        665
+      ],
+      "confidence": 0.9716320633888245
+    },
+    {
+      "text": "writer on heaith, education and various legal issues. Prepared",
+      "bbox": [
+        60,
+        647,
+        598,
+        684
+      ],
+      "confidence": 0.9622565507888794
+    },
+    {
+      "text": "original legislative proposals. Worked with highest level",
+      "bbox": [
+        62,
+        665,
+        559,
+        696
+      ],
+      "confidence": 0.9755886793136597
+    },
+    {
+      "text": "public and private health and education administrators.",
+      "bbox": [
+        62,
+        681,
+        534,
+        711
+      ],
+      "confidence": 0.9613866806030273
+    },
+    {
+      "text": "Initiated and organized campaign support for Senator within",
+      "bbox": [
+        61,
+        692,
+        568,
+        728
+      ],
+      "confidence": 0.9624298214912415
+    },
+    {
+      "text": "special interest groups.",
+      "bbox": [
+        62,
+        720,
+        282,
+        740
+      ],
+      "confidence": 0.9864419102668762
+    },
+    {
+      "text": "198o (March-December): Law Clerk (part-time)",
+      "bbox": [
+        59,
+        742,
+        455,
+        770
+      ],
+      "confidence": 0.9627177715301514
+    },
+    {
+      "text": "Select Panel on Chila Health, Office of the Secretary.",
+      "bbox": [
+        142,
+        753,
+        592,
+        784
+      ],
+      "confidence": 0.9691539406776428
+    },
+    {
+      "text": "Department of Health and Human Services",
+      "bbox": [
+        187,
+        770,
+        516,
+        799
+      ],
+      "confidence": 0.9915282130241394
+    },
+    {
+      "text": "Legal research, analysis and writing in support of EHS",
+      "bbox": [
+        142,
+        797,
+        594,
+        829
+      ],
+      "confidence": 0.9701060056686401
+    },
+    {
+      "text": "publications.",
+      "bbox": [
+        62,
+        820,
+        182,
+        842
+      ],
+      "confidence": 0.9974881410598755
+    }
+  ],
+  "full_text": "RESUME\nCHARLOTTE L. TSOUCALAS\n13010 S. 35th Street\nOmaha, NB\n68123\n291-c16!\nEXPERIENCE\n1984 (January-July): Office of the Assistant Secretary of\nDefense for Health Affairs. Department of Defense\n1984:. Assistant for Planning & Coordipation'.\ncomplied with Departmental guidance. Monitored budget\nInsured that Defense medical programs and budgets\nallocation and execution, Served as primary liaison between\nHealth Affairs and agencies. Developed and executed the\noperating.budget for Health Affairs. Conducted and supervised\nvarious economic, management and cost analyses of defense\nhealth activities. Prepared and consolidated testimony and\nsupporting material ·for appearances by the Assistant Secretary\nbefore Congress. Represented the Assistant Secretary at\nmeetings within the Department.and with other government\nagencies.\n'1983-l984: Office of the Deputy Assistant Secretary of Defense\nfor International Economic Trade & Security\nPolicy. Department of Defense\nNov 1983-Jan 1984:\nConsultant\nLegal and legislative counsel on legislative\nproposals and implementation directives. Drafted and\ncoordinated with Congress and federal agencies changes to\nlegislation.\n1975-l983: Office of Henry M. Jackson. U.S. Senator\nJuly 1981-Nov 1983:\nLegislative Counsel\nSept 1975-July 1981:\nAssistant to Legislative Counsel\nLegislative Aide\nFeb.1975-Sept 1975:\n,Senator's primary advisor. representative and\nwriter on heaith, education and various legal issues. Prepared\noriginal legislative proposals. Worked with highest level\npublic and private health and education administrators.\nInitiated and organized campaign support for Senator within\nspecial interest groups.\n198o (March-December): Law Clerk (part-time)\nSelect Panel on Chila Health, Office of the Secretary.\nDepartment of Health and Human Services\nLegal research, analysis and writing in support of EHS\npublications."
+}

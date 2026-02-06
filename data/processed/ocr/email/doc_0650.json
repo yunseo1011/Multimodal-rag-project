@@ -1,0 +1,91 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0650.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Handal, Kenneth on Fri, Jun 6, 1997 1:57 PM",
+      "bbox": [
+        93,
+        64,
+        441,
+        88
+      ],
+      "confidence": 0.9942479133605957
+    },
+    {
+      "text": "Subject: MY OLD PETTY SELF",
+      "bbox": [
+        94,
+        82,
+        307,
+        101
+      ],
+      "confidence": 0.9675366282463074
+    },
+    {
+      "text": "To: Wall, Charles",
+      "bbox": [
+        94,
+        98,
+        211,
+        117
+      ],
+      "confidence": 0.9968874454498291
+    },
+    {
+      "text": "NOT ONLY DID JACK NOT WANT TO TALK YESTERDAY AFTERNOON; I CALLED",
+      "bbox": [
+        95,
+        129,
+        691,
+        149
+      ],
+      "confidence": 0.9942493438720703
+    },
+    {
+      "text": "HIM AT 7:30 THIS MORNING AND LEFT A MESSAGE ABOUT GETTING",
+      "bbox": [
+        94,
+        143,
+        618,
+        165
+      ],
+      "confidence": 0.9839595556259155
+    },
+    {
+      "text": "TOGETHER TODAY, AND HE JUST LEFT A MESSAGE THAT HE COULDN'T DO IT",
+      "bbox": [
+        94,
+        159,
+        692,
+        181
+      ],
+      "confidence": 0.9907788634300232
+    },
+    {
+      "text": "UNTIL MONDAY. IF YOU HAVE A CRISIS WITH A CLIENT, THIS IS A VERY",
+      "bbox": [
+        95,
+        176,
+        657,
+        197
+      ],
+      "confidence": 0.9885042309761047
+    },
+    {
+      "text": "UNUSUAL WAY TO ACT. KEN.",
+      "bbox": [
+        95,
+        192,
+        326,
+        212
+      ],
+      "confidence": 0.9942221641540527
+    }
+  ],
+  "full_text": "From: Handal, Kenneth on Fri, Jun 6, 1997 1:57 PM\nSubject: MY OLD PETTY SELF\nTo: Wall, Charles\nNOT ONLY DID JACK NOT WANT TO TALK YESTERDAY AFTERNOON; I CALLED\nHIM AT 7:30 THIS MORNING AND LEFT A MESSAGE ABOUT GETTING\nTOGETHER TODAY, AND HE JUST LEFT A MESSAGE THAT HE COULDN'T DO IT\nUNTIL MONDAY. IF YOU HAVE A CRISIS WITH A CLIENT, THIS IS A VERY\nUNUSUAL WAY TO ACT. KEN."
+}

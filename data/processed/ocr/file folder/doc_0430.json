@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0430.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Abl",
+      "bbox": [
+        450,
+        4,
+        558,
+        51
+      ],
+      "confidence": 0.9887381196022034
+    },
+    {
+      "text": "RUNDSCHREIBEN",
+      "bbox": [
+        452,
+        119,
+        656,
+        140
+      ],
+      "confidence": 0.973960280418396
+    },
+    {
+      "text": "N 001",
+      "bbox": [
+        446,
+        142,
+        518,
+        164
+      ],
+      "confidence": 0.7797263860702515
+    },
+    {
+      "text": "Firma",
+      "bbox": [
+        68,
+        160,
+        121,
+        181
+      ],
+      "confidence": 0.9844371676445007
+    },
+    {
+      "text": "EUROSPRAY-Gesellschaft",
+      "bbox": [
+        69,
+        172,
+        282,
+        198
+      ],
+      "confidence": 0.995430052280426
+    },
+    {
+      "text": "H. Hering K.G.",
+      "bbox": [
+        70,
+        192,
+        204,
+        216
+      ],
+      "confidence": 0.9827175140380859
+    },
+    {
+      "text": "Telex: 08 882: 477",
+      "bbox": [
+        511,
+        199,
+        674,
+        220
+      ],
+      "confidence": 0.9883591532707214
+    },
+    {
+      "text": "5",
+      "bbox": [
+        75,
+        228,
+        96,
+        242
+      ],
+      "confidence": 0.9988126754760742
+    },
+    {
+      "text": "K5ln",
+      "bbox": [
+        103,
+        227,
+        181,
+        245
+      ],
+      "confidence": 0.7043347358703613
+    },
+    {
+      "text": "Pantaleonswall 39",
+      "bbox": [
+        73,
+        238,
+        237,
+        262
+      ],
+      "confidence": 0.992443859577179
+    },
+    {
+      "text": "25. Mai 1965",
+      "bbox": [
+        585,
+        254,
+        700,
+        274
+      ],
+      "confidence": 0.9959306716918945
+    }
+  ],
+  "full_text": "Abl\nRUNDSCHREIBEN\nN 001\nFirma\nEUROSPRAY-Gesellschaft\nH. Hering K.G.\nTelex: 08 882: 477\n5\nK5ln\nPantaleonswall 39\n25. Mai 1965"
+}

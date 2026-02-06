@@ -1,0 +1,181 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0405.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ker Do sene sonl searckn",
+      "bbox": [
+        168,
+        85,
+        661,
+        170
+      ],
+      "confidence": 0.7127092480659485
+    },
+    {
+      "text": "Owir't bow te deal with",
+      "bbox": [
+        188,
+        130,
+        650,
+        201
+      ],
+      "confidence": 0.6670188307762146
+    },
+    {
+      "text": "health",
+      "bbox": [
+        368,
+        181,
+        478,
+        237
+      ],
+      "confidence": 0.9803688526153564
+    },
+    {
+      "text": "isshe",
+      "bbox": [
+        229,
+        197,
+        314,
+        234
+      ],
+      "confidence": 0.8983023762702942
+    },
+    {
+      "text": "E.TS.",
+      "bbox": [
+        374,
+        226,
+        483,
+        279
+      ],
+      "confidence": 0.878564715385437
+    },
+    {
+      "text": "Belllard",
+      "bbox": [
+        378,
+        261,
+        547,
+        321
+      ],
+      "confidence": 0.7561648488044739
+    },
+    {
+      "text": "inWokpbee",
+      "bbox": [
+        508,
+        349,
+        663,
+        389
+      ],
+      "confidence": 0.7209957242012024
+    },
+    {
+      "text": "Tohocce Promdian",
+      "bbox": [
+        380,
+        386,
+        643,
+        443
+      ],
+      "confidence": 0.8409866094589233
+    },
+    {
+      "text": "Investigatien",
+      "bbox": [
+        201,
+        531,
+        399,
+        603
+      ],
+      "confidence": 0.7774031162261963
+    },
+    {
+      "text": "Stimate in Phila",
+      "bbox": [
+        199,
+        583,
+        456,
+        665
+      ],
+      "confidence": 0.7897389531135559
+    },
+    {
+      "text": "50776 1723",
+      "bbox": [
+        634,
+        636,
+        663,
+        746
+      ],
+      "confidence": 0.999480128288269
+    },
+    {
+      "text": "fecammedaten",
+      "bbox": [
+        216,
+        666,
+        427,
+        743
+      ],
+      "confidence": 0.6076745986938477
+    },
+    {
+      "text": "e.g.adestie in Shile. Fib",
+      "bbox": [
+        235,
+        694,
+        555,
+        772
+      ],
+      "confidence": 0.6809414625167847
+    },
+    {
+      "text": "②BSR go To thila.",
+      "bbox": [
+        282,
+        740,
+        490,
+        790
+      ],
+      "confidence": 0.775668203830719
+    },
+    {
+      "text": "mut with Bill Moore",
+      "bbox": [
+        337,
+        758,
+        560,
+        808
+      ],
+      "confidence": 0.8755296468734741
+    },
+    {
+      "text": "-Bave Ricladan",
+      "bbox": [
+        333,
+        819,
+        530,
+        865
+      ],
+      "confidence": 0.6957201361656189
+    },
+    {
+      "text": "③ Evenne Soert seanmelel",
+      "bbox": [
+        290,
+        867,
+        592,
+        927
+      ],
+      "confidence": 0.6806562542915344
+    }
+  ],
+  "full_text": "Ker Do sene sonl searckn\nOwir't bow te deal with\nhealth\nisshe\nE.TS.\nBelllard\ninWokpbee\nTohocce Promdian\nInvestigatien\nStimate in Phila\n50776 1723\nfecammedaten\ne.g.adestie in Shile. Fib\n②BSR go To thila.\nmut with Bill Moore\n-Bave Ricladan\n③ Evenne Soert seanmelel"
+}

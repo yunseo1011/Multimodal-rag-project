@@ -1,0 +1,661 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0312.png",
+    "image_width": 763,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RT",
+      "bbox": [
+        601,
+        64,
+        698,
+        127
+      ],
+      "confidence": 0.6825199127197266
+    },
+    {
+      "text": "RESEARCH",
+      "bbox": [
+        38,
+        75,
+        163,
+        94
+      ],
+      "confidence": 0.9997206926345825
+    },
+    {
+      "text": "eed 2/27/84",
+      "bbox": [
+        455,
+        117,
+        632,
+        189
+      ],
+      "confidence": 0.7401244640350342
+    },
+    {
+      "text": "OK ",
+      "bbox": [
+        505,
+        153,
+        644,
+        233
+      ],
+      "confidence": 0.7703447937965393
+    },
+    {
+      "text": "INVOICE",
+      "bbox": [
+        320,
+        198,
+        380,
+        216
+      ],
+      "confidence": 0.9998356699943542
+    },
+    {
+      "text": "DATE: February 17, 1984",
+      "bbox": [
+        453,
+        257,
+        657,
+        279
+      ],
+      "confidence": 0.9690694212913513
+    },
+    {
+      "text": "TERMS: Net",
+      "bbox": [
+        446,
+        277,
+        543,
+        294
+      ],
+      "confidence": 0.9813542366027832
+    },
+    {
+      "text": "INV. NO.: 31T 2552-13B",
+      "bbox": [
+        423,
+        290,
+        617,
+        313
+      ],
+      "confidence": 0.9703130125999451
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        39,
+        358,
+        69,
+        377
+      ],
+      "confidence": 0.9962465763092041
+    },
+    {
+      "text": "Lorillard Research Center",
+      "bbox": [
+        217,
+        358,
+        420,
+        375
+      ],
+      "confidence": 0.9886742234230042
+    },
+    {
+      "text": "Post Office Box 21688",
+      "bbox": [
+        214,
+        376,
+        386,
+        390
+      ],
+      "confidence": 0.995010495185852
+    },
+    {
+      "text": "Greensboro, N. C.",
+      "bbox": [
+        218,
+        392,
+        360,
+        406
+      ],
+      "confidence": 0.9539815187454224
+    },
+    {
+      "text": "27420",
+      "bbox": [
+        361,
+        390,
+        421,
+        407
+      ],
+      "confidence": 0.9996598958969116
+    },
+    {
+      "text": "ATTN:  Dr. Harry Minnemeyer",
+      "bbox": [
+        216,
+        412,
+        436,
+        432
+      ],
+      "confidence": 0.9740263819694519
+    },
+    {
+      "text": "Director, Research",
+      "bbox": [
+        270,
+        431,
+        419,
+        446
+      ],
+      "confidence": 0.9963735938072205
+    },
+    {
+      "text": "2-27-84",
+      "bbox": [
+        597,
+        438,
+        690,
+        460
+      ],
+      "confidence": 0.9921155571937561
+    },
+    {
+      "text": "V",
+      "bbox": [
+        371,
+        454,
+        396,
+        474
+      ],
+      "confidence": 0.7516618371009827
+    },
+    {
+      "text": "Dept.959S",
+      "bbox": [
+        597,
+        452,
+        726,
+        486
+      ],
+      "confidence": 0.8906116485595703
+    },
+    {
+      "text": "REFERENCE:",
+      "bbox": [
+        42,
+        477,
+        123,
+        491
+      ],
+      "confidence": 0.9995712041854858
+    },
+    {
+      "text": "P.0. No. 327B and 336A",
+      "bbox": [
+        216,
+        476,
+        402,
+        493
+      ],
+      "confidence": 0.9672325253486633
+    },
+    {
+      "text": "Acct. 4111",
+      "bbox": [
+        595,
+        484,
+        723,
+        511
+      ],
+      "confidence": 0.9684933423995972
+    },
+    {
+      "text": "Agreement Dated 11/18/82",
+      "bbox": [
+        217,
+        494,
+        411,
+        508
+      ],
+      "confidence": 0.9769675135612488
+    },
+    {
+      "text": "FOR:",
+      "bbox": [
+        45,
+        538,
+        79,
+        553
+      ],
+      "confidence": 0.9996426105499268
+    },
+    {
+      "text": "Carbon-14 Syntheses",
+      "bbox": [
+        217,
+        538,
+        373,
+        555
+      ],
+      "confidence": 0.9867229461669922
+    },
+    {
+      "text": "Other Direct Costs",
+      "bbox": [
+        216,
+        553,
+        366,
+        572
+      ],
+      "confidence": 0.9763758778572083
+    },
+    {
+      "text": "PERIOD:",
+      "bbox": [
+        41,
+        596,
+        103,
+        616
+      ],
+      "confidence": 0.9975454211235046
+    },
+    {
+      "text": "January 1, 1984 to January 31, 1984",
+      "bbox": [
+        215,
+        599,
+        510,
+        622
+      ],
+      "confidence": 0.9856016039848328
+    },
+    {
+      "text": "OTHER DIRECT COSTS:",
+      "bbox": [
+        42,
+        643,
+        198,
+        665
+      ],
+      "confidence": 0.9841465950012207
+    },
+    {
+      "text": "CURRENT",
+      "bbox": [
+        388,
+        649,
+        453,
+        667
+      ],
+      "confidence": 0.9997841119766235
+    },
+    {
+      "text": "CUMULATIVE",
+      "bbox": [
+        573,
+        650,
+        667,
+        669
+      ],
+      "confidence": 0.9998685717582703
+    },
+    {
+      "text": "Materials",
+      "bbox": [
+        63,
+        667,
+        139,
+        689
+      ],
+      "confidence": 0.9995297193527222
+    },
+    {
+      "text": "$",
+      "bbox": [
+        381,
+        675,
+        393,
+        690
+      ],
+      "confidence": 0.9993477463722229
+    },
+    {
+      "text": "762.04",
+      "bbox": [
+        402,
+        673,
+        460,
+        692
+      ],
+      "confidence": 0.999875545501709
+    },
+    {
+      "text": "$10,384.08",
+      "bbox": [
+        575,
+        675,
+        672,
+        694
+      ],
+      "confidence": 0.9997020959854126
+    },
+    {
+      "text": "Services",
+      "bbox": [
+        62,
+        683,
+        132,
+        705
+      ],
+      "confidence": 0.9989858865737915
+    },
+    {
+      "text": "30.00",
+      "bbox": [
+        414,
+        690,
+        461,
+        708
+      ],
+      "confidence": 0.9851563572883606
+    },
+    {
+      "text": "1,081.00",
+      "bbox": [
+        593,
+        689,
+        667,
+        710
+      ],
+      "confidence": 0.9991823434829712
+    },
+    {
+      "text": "Shipping & Communications",
+      "bbox": [
+        61,
+        700,
+        275,
+        726
+      ],
+      "confidence": 0.9752265810966492
+    },
+    {
+      "text": "0.00",
+      "bbox": [
+        422,
+        706,
+        462,
+        724
+      ],
+      "confidence": 0.998986542224884
+    },
+    {
+      "text": "189.30",
+      "bbox": [
+        610,
+        707,
+        668,
+        725
+      ],
+      "confidence": 0.9997461438179016
+    },
+    {
+      "text": "ODC SUBTOTAL",
+      "bbox": [
+        85,
+        719,
+        188,
+        738
+      ],
+      "confidence": 0.9824808239936829
+    },
+    {
+      "text": "$ 792.04",
+      "bbox": [
+        381,
+        722,
+        462,
+        739
+      ],
+      "confidence": 0.9789173603057861
+    },
+    {
+      "text": "$11,654.38",
+      "bbox": [
+        574,
+        720,
+        669,
+        742
+      ],
+      "confidence": 0.998826801776886
+    },
+    {
+      "text": "00922247",
+      "bbox": [
+        667,
+        721,
+        696,
+        826
+      ],
+      "confidence": 0.9999176859855652
+    },
+    {
+      "text": "Omase OHi - Prov 12.00%",
+      "bbox": [
+        60,
+        735,
+        248,
+        755
+      ],
+      "confidence": 0.9473264813423157
+    },
+    {
+      "text": "95.04",
+      "bbox": [
+        413,
+        738,
+        463,
+        756
+      ],
+      "confidence": 0.9998480677604675
+    },
+    {
+      "text": "1,336.44",
+      "bbox": [
+        594,
+        739,
+        668,
+        757
+      ],
+      "confidence": 0.9991201758384705
+    },
+    {
+      "text": "ODC and OMASE SUBTOTAL",
+      "bbox": [
+        80,
+        752,
+        269,
+        772
+      ],
+      "confidence": 0.9814223647117615
+    },
+    {
+      "text": "$",
+      "bbox": [
+        382,
+        757,
+        397,
+        771
+      ],
+      "confidence": 0.9653834700584412
+    },
+    {
+      "text": "887.08",
+      "bbox": [
+        405,
+        755,
+        462,
+        772
+      ],
+      "confidence": 0.9997758865356445
+    },
+    {
+      "text": "$12,990.82",
+      "bbox": [
+        576,
+        753,
+        667,
+        773
+      ],
+      "confidence": 0.9994314908981323
+    },
+    {
+      "text": "Fee 15.00%",
+      "bbox": [
+        60,
+        770,
+        145,
+        787
+      ],
+      "confidence": 0.9884581565856934
+    },
+    {
+      "text": "133.06",
+      "bbox": [
+        407,
+        771,
+        463,
+        788
+      ],
+      "confidence": 0.9999297261238098
+    },
+    {
+      "text": "1,948.62",
+      "bbox": [
+        593,
+        769,
+        667,
+        789
+      ],
+      "confidence": 0.9974554777145386
+    },
+    {
+      "text": "TOTAL AMOUNT CLAIMED",
+      "bbox": [
+        82,
+        786,
+        253,
+        804
+      ],
+      "confidence": 0.9875672459602356
+    },
+    {
+      "text": "$1.020.14",
+      "bbox": [
+        382,
+        787,
+        463,
+        804
+      ],
+      "confidence": 0.9507395625114441
+    },
+    {
+      "text": "$14,939.44",
+      "bbox": [
+        577,
+        785,
+        667,
+        806
+      ],
+      "confidence": 0.9994357824325562
+    },
+    {
+      "text": "TOTAL DUE",
+      "bbox": [
+        82,
+        814,
+        161,
+        831
+      ],
+      "confidence": 0.9912450313568115
+    },
+    {
+      "text": "$1,020.14",
+      "bbox": [
+        380,
+        809,
+        463,
+        833
+      ],
+      "confidence": 0.9998230338096619
+    },
+    {
+      "text": "Details are provided on the attached list. Please note that prices presented",
+      "bbox": [
+        65,
+        873,
+        713,
+        896
+      ],
+      "confidence": 0.9909021258354187
+    },
+    {
+      "text": "1)",
+      "bbox": [
+        33,
+        878,
+        52,
+        898
+      ],
+      "confidence": 0.9918204545974731
+    },
+    {
+      "text": "on the list do not include prepaid shipping charges and sales tax (when",
+      "bbox": [
+        65,
+        889,
+        664,
+        915
+      ],
+      "confidence": 0.9908111095428467
+    },
+    {
+      "text": "applicable). Such charges are included in the total material amount",
+      "bbox": [
+        65,
+        904,
+        638,
+        934
+      ],
+      "confidence": 0.9814363121986389
+    },
+    {
+      "text": "claimed above.",
+      "bbox": [
+        66,
+        929,
+        185,
+        949
+      ],
+      "confidence": 0.990056574344635
+    },
+    {
+      "text": "PLEASE RETURN ONE COPY OF INVOICE WITH PAYMENT TO ASSURE PROPER CREDIT",
+      "bbox": [
+        32,
+        967,
+        623,
+        996
+      ],
+      "confidence": 0.998153030872345
+    }
+  ],
+  "full_text": "RT\nRESEARCH\need 2/27/84\nOK \nINVOICE\nDATE: February 17, 1984\nTERMS: Net\nINV. NO.: 31T 2552-13B\nTO:\nLorillard Research Center\nPost Office Box 21688\nGreensboro, N. C.\n27420\nATTN:  Dr. Harry Minnemeyer\nDirector, Research\n2-27-84\nV\nDept.959S\nREFERENCE:\nP.0. No. 327B and 336A\nAcct. 4111\nAgreement Dated 11/18/82\nFOR:\nCarbon-14 Syntheses\nOther Direct Costs\nPERIOD:\nJanuary 1, 1984 to January 31, 1984\nOTHER DIRECT COSTS:\nCURRENT\nCUMULATIVE\nMaterials\n$\n762.04\n$10,384.08\nServices\n30.00\n1,081.00\nShipping & Communications\n0.00\n189.30\nODC SUBTOTAL\n$ 792.04\n$11,654.38\n00922247\nOmase OHi - Prov 12.00%\n95.04\n1,336.44\nODC and OMASE SUBTOTAL\n$\n887.08\n$12,990.82\nFee 15.00%\n133.06\n1,948.62\nTOTAL AMOUNT CLAIMED\n$1.020.14\n$14,939.44\nTOTAL DUE\n$1,020.14\nDetails are provided on the attached list. Please note that prices presented\n1)\non the list do not include prepaid shipping charges and sales tax (when\napplicable). Such charges are included in the total material amount\nclaimed above.\nPLEASE RETURN ONE COPY OF INVOICE WITH PAYMENT TO ASSURE PROPER CREDIT"
+}

@@ -1,0 +1,691 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0395.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "A message",
+      "bbox": [
+        119,
+        28,
+        352,
+        91
+      ],
+      "confidence": 0.9753339290618896
+    },
+    {
+      "text": "A message",
+      "bbox": [
+        412,
+        31,
+        648,
+        103
+      ],
+      "confidence": 0.9701256155967712
+    },
+    {
+      "text": "from those",
+      "bbox": [
+        120,
+        80,
+        350,
+        139
+      ],
+      "confidence": 0.9999256134033203
+    },
+    {
+      "text": "from those",
+      "bbox": [
+        413,
+        85,
+        647,
+        148
+      ],
+      "confidence": 0.9999149441719055
+    },
+    {
+      "text": "who don't",
+      "bbox": [
+        138,
+        131,
+        334,
+        187
+      ],
+      "confidence": 0.9993730187416077
+    },
+    {
+      "text": "who do",
+      "bbox": [
+        447,
+        132,
+        605,
+        194
+      ],
+      "confidence": 0.9990531802177429
+    },
+    {
+      "text": "to.those",
+      "bbox": [
+        150,
+        183,
+        322,
+        233
+      ],
+      "confidence": 0.94523686170578
+    },
+    {
+      "text": "to those",
+      "bbox": [
+        437,
+        186,
+        611,
+        237
+      ],
+      "confidence": 0.9954188466072083
+    },
+    {
+      "text": "who do.",
+      "bbox": [
+        151,
+        228,
+        314,
+        281
+      ],
+      "confidence": 0.9997054934501648
+    },
+    {
+      "text": "who don't.",
+      "bbox": [
+        423,
+        231,
+        633,
+        286
+      ],
+      "confidence": 0.9817236065864563
+    },
+    {
+      "text": "We're uncomfortable.",
+      "bbox": [
+        129,
+        295,
+        304,
+        323
+      ],
+      "confidence": 0.9694692492485046
+    },
+    {
+      "text": "We're on the spot.",
+      "bbox": [
+        427,
+        299,
+        577,
+        330
+      ],
+      "confidence": 0.9986169338226318
+    },
+    {
+      "text": "To us, the smoke from your",
+      "bbox": [
+        126,
+        316,
+        351,
+        346
+      ],
+      "confidence": 0.9921716451644897
+    },
+    {
+      "text": "Smoking is something we",
+      "bbox": [
+        428,
+        322,
+        641,
+        350
+      ],
+      "confidence": 0.9987794756889343
+    },
+    {
+      "text": "cigarettes can be anything from",
+      "bbox": [
+        80,
+        341,
+        377,
+        367
+      ],
+      "confidence": 0.9876466989517212
+    },
+    {
+      "text": "consider·a personalchoice, yet",
+      "bbox": [
+        377,
+        344,
+        650,
+        373
+      ],
+      "confidence": 0.9503121972084045
+    },
+    {
+      "text": "a minor nuisance to a real",
+      "bbox": [
+        84,
+        364,
+        297,
+        386
+      ],
+      "confidence": 0.9797269105911255
+    },
+    {
+      "text": "it's become a very public issue.",
+      "bbox": [
+        389,
+        365,
+        644,
+        393
+      ],
+      "confidence": 0.9907616972923279
+    },
+    {
+      "text": "annoyance.",
+      "bbox": [
+        82,
+        386,
+        177,
+        409
+      ],
+      "confidence": 0.9653050303459167
+    },
+    {
+      "text": "We're confused.",
+      "bbox": [
+        430,
+        389,
+        558,
+        410
+      ],
+      "confidence": 0.985991895198822
+    },
+    {
+      "text": "We're frustrated.",
+      "bbox": [
+        119,
+        404,
+        261,
+        431
+      ],
+      "confidence": 0.9993516206741333
+    },
+    {
+      "text": "Smoking is something that",
+      "bbox": [
+        429,
+        409,
+        648,
+        433
+      ],
+      "confidence": 0.9792314767837524
+    },
+    {
+      "text": "Even though we've chosen",
+      "bbox": [
+        117,
+        425,
+        342,
+        453
+      ],
+      "confidence": 0.9770517349243164
+    },
+    {
+      "text": "gives us enjoyment, but it gives",
+      "bbox": [
+        389,
+        429,
+        648,
+        456
+      ],
+      "confidence": 0.9876500964164734
+    },
+    {
+      "text": "not to smoke, we're exposed to",
+      "bbox": [
+        78,
+        449,
+        338,
+        474
+      ],
+      "confidence": 0.9704841375350952
+    },
+    {
+      "text": "you offense.",
+      "bbox": [
+        389,
+        452,
+        495,
+        476
+      ],
+      "confidence": 0.9862989783287048
+    },
+    {
+      "text": "second-hand smoke anyway.",
+      "bbox": [
+        76,
+        470,
+        313,
+        495
+      ],
+      "confidence": 0.9884012341499329
+    },
+    {
+      "text": "We feel singled out.",
+      "bbox": [
+        428,
+        471,
+        592,
+        497
+      ],
+      "confidence": 0.9843384027481079
+    },
+    {
+      "text": "We feel a little powerless.",
+      "bbox": [
+        115,
+        490,
+        333,
+        516
+      ],
+      "confidence": 0.999527633190155
+    },
+    {
+      "text": "We're doing something",
+      "bbox": [
+        428,
+        493,
+        618,
+        520
+      ],
+      "confidence": 0.989704430103302
+    },
+    {
+      "text": "Because you can invade our",
+      "bbox": [
+        115,
+        516,
+        350,
+        537
+      ],
+      "confidence": 0.9994353652000427
+    },
+    {
+      "text": "perfectly legal, yet we're often",
+      "bbox": [
+        387,
+        515,
+        639,
+        540
+      ],
+      "confidence": 0.9972602128982544
+    },
+    {
+      "text": "privacy without even trying.",
+      "bbox": [
+        73,
+        536,
+        312,
+        562
+      ],
+      "confidence": 0.9611626267433167
+    },
+    {
+      "text": "segregated, discriminated",
+      "bbox": [
+        389,
+        539,
+        602,
+        560
+      ],
+      "confidence": 0.989716649055481
+    },
+    {
+      "text": "Often without noticing.",
+      "bbox": [
+        73,
+        554,
+        270,
+        583
+      ],
+      "confidence": 0.9978686571121216
+    },
+    {
+      "text": "against, even legislated against.",
+      "bbox": [
+        389,
+        560,
+        647,
+        584
+      ],
+      "confidence": 0.9901156425476074
+    },
+    {
+      "text": "And sometimes when we",
+      "bbox": [
+        113,
+        580,
+        327,
+        601
+      ],
+      "confidence": 0.9807647466659546
+    },
+    {
+      "text": "Total strangers feel free to",
+      "bbox": [
+        428,
+        582,
+        647,
+        603
+      ],
+      "confidence": 0.9855630993843079
+    },
+    {
+      "text": "speak up and let you know how",
+      "bbox": [
+        73,
+        602,
+        337,
+        625
+      ],
+      "confidence": 0.9989956617355347
+    },
+    {
+      "text": "abuse us verbally in public with-",
+      "bbox": [
+        388,
+        603,
+        654,
+        626
+      ],
+      "confidence": 0.9906447529792786
+    },
+    {
+      "text": "we feel, you react as though we",
+      "bbox": [
+        72,
+        624,
+        336,
+        647
+      ],
+      "confidence": 0.9989785552024841
+    },
+    {
+      "text": "out warning.",
+      "bbox": [
+        387,
+        625,
+        496,
+        649
+      ],
+      "confidence": 0.9989458918571472
+    },
+    {
+      "text": "were the bad guys.",
+      "bbox": [
+        72,
+        646,
+        232,
+        670
+      ],
+      "confidence": 0.9924795627593994
+    },
+    {
+      "text": "We're not criminals. We",
+      "bbox": [
+        428,
+        646,
+        623,
+        667
+      ],
+      "confidence": 0.9885408878326416
+    },
+    {
+      "text": "don't mean to bother or offend",
+      "bbox": [
+        387,
+        667,
+        641,
+        690
+      ],
+      "confidence": 0.9907600283622742
+    },
+    {
+      "text": "We're not fanatics. We're not",
+      "bbox": [
+        112,
+        668,
+        349,
+        690
+      ],
+      "confidence": 0.9732900857925415
+    },
+    {
+      "text": "out to deprive you of something",
+      "bbox": [
+        72,
+        691,
+        341,
+        714
+      ],
+      "confidence": 0.9969399571418762
+    },
+    {
+      "text": "you. And we don't like confronta-",
+      "bbox": [
+        385,
+        688,
+        661,
+        714
+      ],
+      "confidence": 0.994754433631897
+    },
+    {
+      "text": "you enjoy. We don't want to be",
+      "bbox": [
+        70,
+        712,
+        326,
+        737
+      ],
+      "confidence": 0.9945737719535828
+    },
+    {
+      "text": "tions with you.",
+      "bbox": [
+        388,
+        712,
+        511,
+        733
+      ],
+      "confidence": 0.9937333464622498
+    },
+    {
+      "text": "your enemies.",
+      "bbox": [
+        70,
+        737,
+        193,
+        757
+      ],
+      "confidence": 0.9648069143295288
+    },
+    {
+      "text": "We're just doing something",
+      "bbox": [
+        428,
+        734,
+        651,
+        755
+      ],
+      "confidence": 0.985767126083374
+    },
+    {
+      "text": "We just wish you'd be more",
+      "bbox": [
+        110,
+        757,
+        339,
+        778
+      ],
+      "confidence": 0.9789949655532837
+    },
+    {
+      "text": "we enjoy, and trying to under-",
+      "bbox": [
+        385,
+        752,
+        634,
+        779
+      ],
+      "confidence": 0.9921455979347229
+    },
+    {
+      "text": "considerate and responsible about",
+      "bbox": [
+        72,
+        779,
+        356,
+        799
+      ],
+      "confidence": 0.9984690546989441
+    },
+    {
+      "text": "stand your concerns.",
+      "bbox": [
+        387,
+        778,
+        561,
+        798
+      ],
+      "confidence": 0.9821566343307495
+    },
+    {
+      "text": "how, when, and where you smoke.",
+      "bbox": [
+        70,
+        800,
+        355,
+        824
+      ],
+      "confidence": 0.9928346276283264
+    },
+    {
+      "text": "We know you've got rights",
+      "bbox": [
+        428,
+        798,
+        646,
+        819
+      ],
+      "confidence": 0.9874168634414673
+    },
+    {
+      "text": "and feelings. We just want —",
+      "bbox": [
+        384,
+        817,
+        663,
+        844
+      ],
+      "confidence": 0.9686182141304016
+    },
+    {
+      "text": "We know you've got rights",
+      "bbox": [
+        111,
+        824,
+        332,
+        845
+      ],
+      "confidence": 0.9955136775970459
+    },
+    {
+      "text": "and feelings. We just want you to",
+      "bbox": [
+        73,
+        847,
+        347,
+        867
+      ],
+      "confidence": 0.9940608739852905
+    },
+    {
+      "text": "respect our rights and feeh.as",
+      "bbox": [
+        384,
+        842,
+        663,
+        864
+      ],
+      "confidence": 0.974689781665802
+    },
+    {
+      "text": "well.",
+      "bbox": [
+        383,
+        860,
+        431,
+        887
+      ],
+      "confidence": 0.9405052065849304
+    },
+    {
+      "text": "·50192 6054",
+      "bbox": [
+        728,
+        858,
+        758,
+        967
+      ],
+      "confidence": 0.9366419315338135
+    },
+    {
+      "text": "respect our rights and feelings,",
+      "bbox": [
+        71,
+        866,
+        332,
+        891
+      ],
+      "confidence": 0.9640588164329529
+    },
+    {
+      "text": "as well.",
+      "bbox": [
+        70,
+        888,
+        137,
+        913
+      ],
+      "confidence": 0.9884700775146484
+    },
+    {
+      "text": "Brought to you in the inlerest of commom courlesy by",
+      "bbox": [
+        257,
+        923,
+        485,
+        944
+      ],
+      "confidence": 0.9508469700813293
+    },
+    {
+      "text": "R.J. Reynolds Tobacco Company",
+      "bbox": [
+        202,
+        940,
+        542,
+        980
+      ],
+      "confidence": 0.9799162745475769
+    }
+  ],
+  "full_text": "A message\nA message\nfrom those\nfrom those\nwho don't\nwho do\nto.those\nto those\nwho do.\nwho don't.\nWe're uncomfortable.\nWe're on the spot.\nTo us, the smoke from your\nSmoking is something we\ncigarettes can be anything from\nconsider·a personalchoice, yet\na minor nuisance to a real\nit's become a very public issue.\nannoyance.\nWe're confused.\nWe're frustrated.\nSmoking is something that\nEven though we've chosen\ngives us enjoyment, but it gives\nnot to smoke, we're exposed to\nyou offense.\nsecond-hand smoke anyway.\nWe feel singled out.\nWe feel a little powerless.\nWe're doing something\nBecause you can invade our\nperfectly legal, yet we're often\nprivacy without even trying.\nsegregated, discriminated\nOften without noticing.\nagainst, even legislated against.\nAnd sometimes when we\nTotal strangers feel free to\nspeak up and let you know how\nabuse us verbally in public with-\nwe feel, you react as though we\nout warning.\nwere the bad guys.\nWe're not criminals. We\ndon't mean to bother or offend\nWe're not fanatics. We're not\nout to deprive you of something\nyou. And we don't like confronta-\nyou enjoy. We don't want to be\ntions with you.\nyour enemies.\nWe're just doing something\nWe just wish you'd be more\nwe enjoy, and trying to under-\nconsiderate and responsible about\nstand your concerns.\nhow, when, and where you smoke.\nWe know you've got rights\nand feelings. We just want —\nWe know you've got rights\nand feelings. We just want you to\nrespect our rights and feeh.as\nwell.\n·50192 6054\nrespect our rights and feelings,\nas well.\nBrought to you in the inlerest of commom courlesy by\nR.J. Reynolds Tobacco Company"
+}

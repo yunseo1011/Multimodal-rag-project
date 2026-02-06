@@ -1,0 +1,601 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0433.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "i v/",
+      "bbox": [
+        12,
+        6,
+        50,
+        30
+      ],
+      "confidence": 0.6540682911872864
+    },
+    {
+      "text": "CIG",
+      "bbox": [
+        636,
+        19,
+        667,
+        38
+      ],
+      "confidence": 0.9907280802726746
+    },
+    {
+      "text": "62-2",
+      "bbox": [
+        636,
+        34,
+        677,
+        53
+      ],
+      "confidence": 0.9845391511917114
+    },
+    {
+      "text": "51761",
+      "bbox": [
+        635,
+        47,
+        692,
+        73
+      ],
+      "confidence": 0.7858923673629761
+    },
+    {
+      "text": "SUPPLEMENTAL FACE SHEET",
+      "bbox": [
+        304,
+        53,
+        485,
+        79
+      ],
+      "confidence": 0.9667730927467346
+    },
+    {
+      "text": "Page 1",
+      "bbox": [
+        632,
+        64,
+        691,
+        91
+      ],
+      "confidence": 0.9108969569206238
+    },
+    {
+      "text": "i brand of cigarettes do you usually smoke? (25,26)",
+      "bbox": [
+        9,
+        71,
+        447,
+        112
+      ],
+      "confidence": 0.9613866806030273
+    },
+    {
+      "text": "loar have you been smoking them? (27)",
+      "bbox": [
+        7,
+        136,
+        345,
+        174
+      ],
+      "confidence": 0.9469248056411743
+    },
+    {
+      "text": "Six months or less",
+      "bbox": [
+        62,
+        171,
+        212,
+        199
+      ],
+      "confidence": 0.9711968302726746
+    },
+    {
+      "text": "jiore than six months, up to one year",
+      "bbox": [
+        59,
+        185,
+        352,
+        220
+      ],
+      "confidence": 0.9589378833770752
+    },
+    {
+      "text": "Hore than 1 yoar, up' to 2 years",
+      "bbox": [
+        59,
+        202,
+        314,
+        234
+      ],
+      "confidence": 0.9496558904647827
+    },
+    {
+      "text": "Nore than 2 years, up to 5 years",
+      "bbox": [
+        58,
+        219,
+        320,
+        250
+      ],
+      "confidence": 0.9543347954750061
+    },
+    {
+      "text": "ore than 5 years",
+      "bbox": [
+        58,
+        236,
+        203,
+        263
+      ],
+      "confidence": 0.9943774938583374
+    },
+    {
+      "text": "i. cigarettes did you smoke before then? (28,29)",
+      "bbox": [
+        0,
+        266,
+        414,
+        300
+      ],
+      "confidence": 0.9593321681022644
+    },
+    {
+      "text": "ou loug: had you smoked this brand? (30)",
+      "bbox": [
+        0,
+        331,
+        333,
+        360
+      ],
+      "confidence": 0.9184066653251648
+    },
+    {
+      "text": "Six months or less",
+      "bbox": [
+        55,
+        366,
+        208,
+        389
+      ],
+      "confidence": 0.9855633974075317
+    },
+    {
+      "text": "iiore than six :onths, up to one year",
+      "bbox": [
+        53,
+        382,
+        349,
+        409
+      ],
+      "confidence": 0.9559953212738037
+    },
+    {
+      "text": "2222",
+      "bbox": [
+        414,
+        373,
+        440,
+        444
+      ],
+      "confidence": 0.6006080508232117
+    },
+    {
+      "text": "ore than 1 year, up to 5 years",
+      "bbox": [
+        53,
+        398,
+        311,
+        427
+      ],
+      "confidence": 0.9658166766166687
+    },
+    {
+      "text": "Tore than 5 years",
+      "bbox": [
+        53,
+        414,
+        201,
+        441
+      ],
+      "confidence": 0.9148392677307129
+    },
+    {
+      "text": "\"he other brands do you smoke now?",
+      "bbox": [
+        2,
+        445,
+        286,
+        474
+      ],
+      "confidence": 0.9363030791282654
+    },
+    {
+      "text": "(32,32)",
+      "bbox": [
+        662,
+        455,
+        726,
+        484
+      ],
+      "confidence": 0.9135462641716003
+    },
+    {
+      "text": "\"yretly()",
+      "bbox": [
+        0,
+        479,
+        144,
+        504
+      ],
+      "confidence": 0.7470889091491699
+    },
+    {
+      "text": "Occasionally",
+      "bbox": [
+        138,
+        484,
+        255,
+        504
+      ],
+      "confidence": 0.9999250769615173
+    },
+    {
+      "text": "((33)",
+      "bbox": [
+        277,
+        482,
+        356,
+        507
+      ],
+      "confidence": 0.7580074667930603
+    },
+    {
+      "text": "Specity",
+      "bbox": [
+        491,
+        473,
+        554,
+        494
+      ],
+      "confidence": 0.9733262062072754
+    },
+    {
+      "text": "1",
+      "bbox": [
+        103,
+        501,
+        120,
+        520
+      ],
+      "confidence": 0.9724280834197998
+    },
+    {
+      "text": "2",
+      "bbox": [
+        293,
+        500,
+        310,
+        519
+      ],
+      "confidence": 0.9998884201049805
+    },
+    {
+      "text": "ray cigarettes do you smoke a day? (3l)",
+      "bbox": [
+        0,
+        528,
+        364,
+        556
+      ],
+      "confidence": 0.946189284324646
+    },
+    {
+      "text": "!ive or less",
+      "bbox": [
+        54,
+        563,
+        157,
+        586
+      ],
+      "confidence": 0.926776647567749
+    },
+    {
+      "text": "Six through ten",
+      "bbox": [
+        53,
+        579,
+        183,
+        603
+      ],
+      "confidence": 0.9878233075141907
+    },
+    {
+      "text": "tleven through fifteen",
+      "bbox": [
+        55,
+        597,
+        239,
+        617
+      ],
+      "confidence": 0.9844236969947815
+    },
+    {
+      "text": "Sixteen through twenty",
+      "bbox": [
+        55,
+        613,
+        237,
+        633
+      ],
+      "confidence": 0.9805330038070679
+    },
+    {
+      "text": "Between twenty and thirty",
+      "bbox": [
+        54,
+        627,
+        260,
+        649
+      ],
+      "confidence": 0.9435598254203796
+    },
+    {
+      "text": "inirly and forty",
+      "bbox": [
+        54,
+        644,
+        191,
+        665
+      ],
+      "confidence": 0.9237699508666992
+    },
+    {
+      "text": "(wer forty",
+      "bbox": [
+        54,
+        660,
+        140,
+        681
+      ],
+      "confidence": 0.8696154356002808
+    },
+    {
+      "text": ";Asu also snoke cigars or a pipe?",
+      "bbox": [
+        23,
+        694,
+        285,
+        713
+      ],
+      "confidence": 0.933090090751648
+    },
+    {
+      "text": "(35)",
+      "bbox": [
+        295,
+        694,
+        330,
+        714
+      ],
+      "confidence": 0.9987229108810425
+    },
+    {
+      "text": "\"igarottes only",
+      "bbox": [
+        53,
+        723,
+        182,
+        746
+      ],
+      "confidence": 0.8928781747817993
+    },
+    {
+      "text": "Frequently ( )",
+      "bbox": [
+        428,
+        725,
+        562,
+        748
+      ],
+      "confidence": 0.9845209717750549
+    },
+    {
+      "text": "Occasionally",
+      "bbox": [
+        599,
+        726,
+        723,
+        746
+      ],
+      "confidence": 0.9996948838233948
+    },
+    {
+      "text": "Pige",
+      "bbox": [
+        54,
+        740,
+        95,
+        760
+      ],
+      "confidence": 0.6269665360450745
+    },
+    {
+      "text": "−)",
+      "bbox": [
+        717,
+        729,
+        736,
+        746
+      ],
+      "confidence": 0.6714690923690796
+    },
+    {
+      "text": "Gigars",
+      "bbox": [
+        53,
+        755,
+        110,
+        775
+      ],
+      "confidence": 0.8595375418663025
+    },
+    {
+      "text": "4",
+      "bbox": [
+        529,
+        744,
+        546,
+        762
+      ],
+      "confidence": 0.9994181394577026
+    },
+    {
+      "text": "5",
+      "bbox": [
+        707,
+        743,
+        724,
+        763
+      ],
+      "confidence": 0.9987199306488037
+    },
+    {
+      "text": " ;o\" ever roll your own cigarettes?",
+      "bbox": [
+        0,
+        787,
+        300,
+        809
+      ],
+      "confidence": 0.9069151282310486
+    },
+    {
+      "text": "who else in your family smokes? (37)",
+      "bbox": [
+        388,
+        774,
+        682,
+        794
+      ],
+      "confidence": 0.9562936425209045
+    },
+    {
+      "text": "(36)",
+      "bbox": [
+        309,
+        788,
+        348,
+        811
+      ],
+      "confidence": 0.9807736277580261
+    },
+    {
+      "text": "Respondent only",
+      "bbox": [
+        430,
+        807,
+        551,
+        825
+      ],
+      "confidence": 0.9976409673690796
+    },
+    {
+      "text": "Eever",
+      "bbox": [
+        53,
+        818,
+        103,
+        840
+      ],
+      "confidence": 0.7264539003372192
+    },
+    {
+      "text": "Zasz",
+      "bbox": [
+        333,
+        821,
+        358,
+        890
+      ],
+      "confidence": 0.6316735148429871
+    },
+    {
+      "text": "Wife or husband",
+      "bbox": [
+        430,
+        825,
+        551,
+        839
+      ],
+      "confidence": 0.9871065616607666
+    },
+    {
+      "text": "dorvtines",
+      "bbox": [
+        55,
+        834,
+        133,
+        857
+      ],
+      "confidence": 0.7882794141769409
+    },
+    {
+      "text": "Father and/or mother",
+      "bbox": [
+        429,
+        839,
+        590,
+        856
+      ],
+      "confidence": 0.9959805607795715
+    },
+    {
+      "text": "1requently",
+      "bbox": [
+        56,
+        851,
+        140,
+        872
+      ],
+      "confidence": 0.8236520886421204
+    },
+    {
+      "text": "Child(ren)",
+      "bbox": [
+        430,
+        854,
+        509,
+        872
+      ],
+      "confidence": 0.9962387084960938
+    },
+    {
+      "text": "ilid so in the past",
+      "bbox": [
+        57,
+        867,
+        206,
+        888
+      ],
+      "confidence": 0.9113221168518066
+    },
+    {
+      "text": "Brother(s)and/or sister(s)",
+      "bbox": [
+        428,
+        868,
+        645,
+        889
+      ],
+      "confidence": 0.970458984375
+    }
+  ],
+  "full_text": "i v/\nCIG\n62-2\n51761\nSUPPLEMENTAL FACE SHEET\nPage 1\ni brand of cigarettes do you usually smoke? (25,26)\nloar have you been smoking them? (27)\nSix months or less\njiore than six months, up to one year\nHore than 1 yoar, up' to 2 years\nNore than 2 years, up to 5 years\nore than 5 years\ni. cigarettes did you smoke before then? (28,29)\nou loug: had you smoked this brand? (30)\nSix months or less\niiore than six :onths, up to one year\n2222\nore than 1 year, up to 5 years\nTore than 5 years\n\"he other brands do you smoke now?\n(32,32)\n\"yretly()\nOccasionally\n((33)\nSpecity\n1\n2\nray cigarettes do you smoke a day? (3l)\n!ive or less\nSix through ten\ntleven through fifteen\nSixteen through twenty\nBetween twenty and thirty\ninirly and forty\n(wer forty\n;Asu also snoke cigars or a pipe?\n(35)\n\"igarottes only\nFrequently ( )\nOccasionally\nPige\n−)\nGigars\n4\n5\n ;o\" ever roll your own cigarettes?\nwho else in your family smokes? (37)\n(36)\nRespondent only\nEever\nZasz\nWife or husband\ndorvtines\nFather and/or mother\n1requently\nChild(ren)\nilid so in the past\nBrother(s)and/or sister(s)"
+}

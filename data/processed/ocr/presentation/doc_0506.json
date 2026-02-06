@@ -1,0 +1,341 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0506.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "FOR IMMEDIATE RELEASE",
+      "bbox": [
+        90,
+        119,
+        297,
+        141
+      ],
+      "confidence": 0.9785304069519043
+    },
+    {
+      "text": "CONTACT: DOLLY COLBY",
+      "bbox": [
+        426,
+        125,
+        622,
+        145
+      ],
+      "confidence": 0.9932300448417664
+    },
+    {
+      "text": "212-878-2144",
+      "bbox": [
+        512,
+        144,
+        614,
+        161
+      ],
+      "confidence": 0.999978244304657
+    },
+    {
+      "text": "PHILIP MORRIS U.S.A. TO MOUNT CHALLENGE",
+      "bbox": [
+        176,
+        191,
+        583,
+        212
+      ],
+      "confidence": 0.9974290132522583
+    },
+    {
+      "text": "TO MORALES' ACTION IN FEDERAL COURT",
+      "bbox": [
+        193,
+        211,
+        566,
+        228
+      ],
+      "confidence": 0.9950184226036072
+    },
+    {
+      "text": "NEW YORK, June 13 - Today's decision by a state judge in Austin not to",
+      "bbox": [
+        143,
+        251,
+        658,
+        271
+      ],
+      "confidence": 0.9881355166435242
+    },
+    {
+      "text": "decide whether Texas Attorney General Dan Morales has overstepped his",
+      "bbox": [
+        97,
+        274,
+        621,
+        294
+      ],
+      "confidence": 0.9958929419517517
+    },
+    {
+      "text": "statutory and constitutional authority now places those issues before a federal",
+      "bbox": [
+        95,
+        296,
+        647,
+        320
+      ],
+      "confidence": 0.9833396077156067
+    },
+    {
+      "text": "judge in Texarkana.",
+      "bbox": [
+        95,
+        321,
+        241,
+        342
+      ],
+      "confidence": 0.9984869956970215
+    },
+    {
+      "text": "In his letter decision today, Joseph H. Hart of the 126th District Court said",
+      "bbox": [
+        144,
+        345,
+        660,
+        362
+      ],
+      "confidence": 0.9829612970352173
+    },
+    {
+      "text": "that although he had the authority to render a decision, he would decline to",
+      "bbox": [
+        96,
+        365,
+        627,
+        386
+      ],
+      "confidence": 0.989208996295929
+    },
+    {
+      "text": "exercise his jurisdiction to rule whether Morales has violated state law in",
+      "bbox": [
+        99,
+        391,
+        608,
+        408
+      ],
+      "confidence": 0.9924129247665405
+    },
+    {
+      "text": "bringing suit against cigarette makers.",
+      "bbox": [
+        97,
+        411,
+        368,
+        432
+      ],
+      "confidence": 0.9833388924598694
+    },
+    {
+      "text": "The judge's decision is not a ruling on the merits of our case, and we still",
+      "bbox": [
+        144,
+        433,
+        665,
+        455
+      ],
+      "confidence": 0.9667772054672241
+    },
+    {
+      "text": "believe very strongly that Mr. Morales' lawsuit is not only without legal merit but",
+      "bbox": [
+        97,
+        456,
+        663,
+        479
+      ],
+      "confidence": 0.9936484694480896
+    },
+    {
+      "text": "that he has no power even to file it,\" said Gregory G. Little, senior assistant",
+      "bbox": [
+        95,
+        478,
+        625,
+        504
+      ],
+      "confidence": 0.9853323698043823
+    },
+    {
+      "text": "general counsel for Philip Morris.",
+      "bbox": [
+        97,
+        502,
+        335,
+        526
+      ],
+      "confidence": 0.9822027683258057
+    },
+    {
+      "text": "The ruling came in a lawsuit filed in state court last year by Philip Morris",
+      "bbox": [
+        144,
+        525,
+        655,
+        548
+      ],
+      "confidence": 0.9909517168998718
+    },
+    {
+      "text": "U.S.A and the nation's other leading tobacco companies. The companies",
+      "bbox": [
+        96,
+        548,
+        626,
+        571
+      ],
+      "confidence": 0.9922459721565247
+    },
+    {
+      "text": "asked for a declaratory judgment against Morales holding that he lacked",
+      "bbox": [
+        96,
+        571,
+        618,
+        594
+      ],
+      "confidence": 0.988923192024231
+    },
+    {
+      "text": "authority to file suit to recover Medicaid costs claimed to have been incurred by",
+      "bbox": [
+        95,
+        594,
+        663,
+        617
+      ],
+      "confidence": 0.9852561354637146
+    },
+    {
+      "text": "smoking-related illnesses. Earlier this year, Morales filed suit against the",
+      "bbox": [
+        95,
+        617,
+        622,
+        640
+      ],
+      "confidence": 0.9899584054946899
+    },
+    {
+      "text": "companies in federal court in Texarkana.",
+      "bbox": [
+        94,
+        639,
+        391,
+        663
+      ],
+      "confidence": 0.9980005025863647
+    },
+    {
+      "text": "In his decision, Judge Hart declined to dismiss the companies' lawsuit;",
+      "bbox": [
+        141,
+        663,
+        653,
+        686
+      ],
+      "confidence": 0.9934740662574768
+    },
+    {
+      "text": "rather, he said he would retain the case in his court pending developments in",
+      "bbox": [
+        94,
+        685,
+        653,
+        709
+      ],
+      "confidence": 0.98758864402771
+    },
+    {
+      "text": "the federal case.",
+      "bbox": [
+        95,
+        714,
+        218,
+        731
+      ],
+      "confidence": 0.9985866546630859
+    },
+    {
+      "text": "In addition, Judge Hart denied the state's motion for sanctions against",
+      "bbox": [
+        142,
+        731,
+        648,
+        755
+      ],
+      "confidence": 0.993499219417572
+    },
+    {
+      "text": "the tobacco companies, ruling that Morales had not supported his claim that the",
+      "bbox": [
+        93,
+        754,
+        668,
+        779
+      ],
+      "confidence": 0.9901058077812195
+    },
+    {
+      "text": "state case was filed for any improper purpose.",
+      "bbox": [
+        94,
+        780,
+        430,
+        803
+      ],
+      "confidence": 0.9880855679512024
+    },
+    {
+      "text": "2062199228",
+      "bbox": [
+        709,
+        797,
+        739,
+        928
+      ],
+      "confidence": 0.9999831914901733
+    },
+    {
+      "text": "#",
+      "bbox": [
+        351,
+        831,
+        364,
+        846
+      ],
+      "confidence": 0.9998078942298889
+    },
+    {
+      "text": "#",
+      "bbox": [
+        381,
+        830,
+        394,
+        845
+      ],
+      "confidence": 0.9999626874923706
+    },
+    {
+      "text": "#",
+      "bbox": [
+        410,
+        830,
+        424,
+        845
+      ],
+      "confidence": 0.9997765421867371
+    }
+  ],
+  "full_text": "FOR IMMEDIATE RELEASE\nCONTACT: DOLLY COLBY\n212-878-2144\nPHILIP MORRIS U.S.A. TO MOUNT CHALLENGE\nTO MORALES' ACTION IN FEDERAL COURT\nNEW YORK, June 13 - Today's decision by a state judge in Austin not to\ndecide whether Texas Attorney General Dan Morales has overstepped his\nstatutory and constitutional authority now places those issues before a federal\njudge in Texarkana.\nIn his letter decision today, Joseph H. Hart of the 126th District Court said\nthat although he had the authority to render a decision, he would decline to\nexercise his jurisdiction to rule whether Morales has violated state law in\nbringing suit against cigarette makers.\nThe judge's decision is not a ruling on the merits of our case, and we still\nbelieve very strongly that Mr. Morales' lawsuit is not only without legal merit but\nthat he has no power even to file it,\" said Gregory G. Little, senior assistant\ngeneral counsel for Philip Morris.\nThe ruling came in a lawsuit filed in state court last year by Philip Morris\nU.S.A and the nation's other leading tobacco companies. The companies\nasked for a declaratory judgment against Morales holding that he lacked\nauthority to file suit to recover Medicaid costs claimed to have been incurred by\nsmoking-related illnesses. Earlier this year, Morales filed suit against the\ncompanies in federal court in Texarkana.\nIn his decision, Judge Hart declined to dismiss the companies' lawsuit;\nrather, he said he would retain the case in his court pending developments in\nthe federal case.\nIn addition, Judge Hart denied the state's motion for sanctions against\nthe tobacco companies, ruling that Morales had not supported his claim that the\nstate case was filed for any improper purpose.\n2062199228\n#\n#\n#"
+}

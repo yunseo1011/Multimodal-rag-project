@@ -1,0 +1,21 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0492.png",
+    "image_width": 835,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "2051230708",
+      "bbox": [
+        114,
+        745,
+        282,
+        779
+      ],
+      "confidence": 0.9994126558303833
+    }
+  ],
+  "full_text": "2051230708"
+}

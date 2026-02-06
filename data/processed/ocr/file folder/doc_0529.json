@@ -1,0 +1,31 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0529.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "MONTCLAIR CHAIN",
+      "bbox": [
+        357,
+        323,
+        610,
+        362
+      ],
+      "confidence": 0.9037743806838989
+    },
+    {
+      "text": "D.y. Proyan",
+      "bbox": [
+        362,
+        349,
+        591,
+        384
+      ],
+      "confidence": 0.7306920886039734
+    }
+  ],
+  "full_text": "MONTCLAIR CHAIN\nD.y. Proyan"
+}

@@ -1,0 +1,121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0154.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Tort Winberry",
+      "bbox": [
+        112,
+        443,
+        291,
+        482
+      ],
+      "confidence": 0.7436544895172119
+    },
+    {
+      "text": "Halls Tn, 38040",
+      "bbox": [
+        114,
+        475,
+        298,
+        513
+      ],
+      "confidence": 0.8122779726982117
+    },
+    {
+      "text": "PM",
+      "bbox": [
+        387,
+        486,
+        413,
+        505
+      ],
+      "confidence": 0.9993144273757935
+    },
+    {
+      "text": "207,maple st.",
+      "bbox": [
+        111,
+        510,
+        287,
+        547
+      ],
+      "confidence": 0.8608276844024658
+    },
+    {
+      "text": "KY",
+      "bbox": [
+        381,
+        514,
+        417,
+        528
+      ],
+      "confidence": 0.6328069567680359
+    },
+    {
+      "text": "R-3709",
+      "bbox": [
+        398,
+        548,
+        539,
+        596
+      ],
+      "confidence": 0.9920353889465332
+    },
+    {
+      "text": "Zoupon Redemption",
+      "bbox": [
+        445,
+        646,
+        658,
+        679
+      ],
+      "confidence": 0.911797046661377
+    },
+    {
+      "text": "zonter",
+      "bbox": [
+        450,
+        673,
+        521,
+        691
+      ],
+      "confidence": 0.6815617680549622
+    },
+    {
+      "text": "P.0.D031618-hinston",
+      "bbox": [
+        457,
+        677,
+        662,
+        712
+      ],
+      "confidence": 0.7065551280975342
+    },
+    {
+      "text": "51722 8467",
+      "bbox": [
+        141,
+        707,
+        231,
+        727
+      ],
+      "confidence": 0.9748280644416809
+    },
+    {
+      "text": "Nt.,27102",
+      "bbox": [
+        519,
+        703,
+        621,
+        730
+      ],
+      "confidence": 0.7613086104393005
+    }
+  ],
+  "full_text": "Tort Winberry\nHalls Tn, 38040\nPM\n207,maple st.\nKY\nR-3709\nZoupon Redemption\nzonter\nP.0.D031618-hinston\n51722 8467\nNt.,27102"
+}

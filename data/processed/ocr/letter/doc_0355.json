@@ -1,0 +1,311 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0355.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "RJReynolds",
+      "bbox": [
+        17,
+        17,
+        315,
+        125
+      ],
+      "confidence": 0.9652981758117676
+    },
+    {
+      "text": "Tobacco Company",
+      "bbox": [
+        202,
+        109,
+        322,
+        135
+      ],
+      "confidence": 0.9981857538223267
+    },
+    {
+      "text": "RICHARD M. SANDERS",
+      "bbox": [
+        528,
+        159,
+        664,
+        179
+      ],
+      "confidence": 0.9938926696777344
+    },
+    {
+      "text": "Senior Vice President - Marketing",
+      "bbox": [
+        528,
+        170,
+        709,
+        193
+      ],
+      "confidence": 0.9860890507698059
+    },
+    {
+      "text": "President - Sports Marketing Enterprises",
+      "bbox": [
+        528,
+        182,
+        746,
+        206
+      ],
+      "confidence": 0.9925880432128906
+    },
+    {
+      "text": "January 19, 2001",
+      "bbox": [
+        135,
+        197,
+        260,
+        217
+      ],
+      "confidence": 0.9808874130249023
+    },
+    {
+      "text": "P.O. Box 484",
+      "bbox": [
+        529,
+        212,
+        603,
+        226
+      ],
+      "confidence": 0.9519026279449463
+    },
+    {
+      "text": "Winston-Salem, NC 27102-0484",
+      "bbox": [
+        527,
+        219,
+        703,
+        239
+      ],
+      "confidence": 0.969231128692627
+    },
+    {
+      "text": "336-741-1286",
+      "bbox": [
+        528,
+        234,
+        606,
+        250
+      ],
+      "confidence": 0.9879612326622009
+    },
+    {
+      "text": "Fax: 336-741-2800",
+      "bbox": [
+        529,
+        245,
+        633,
+        261
+      ],
+      "confidence": 0.9800861477851868
+    },
+    {
+      "text": "E-Mait: sanderr@rjrt.com",
+      "bbox": [
+        530,
+        256,
+        663,
+        272
+      ],
+      "confidence": 0.963941752910614
+    },
+    {
+      "text": "Chip Rowen",
+      "bbox": [
+        138,
+        266,
+        228,
+        287
+      ],
+      "confidence": 0.9995803833007812
+    },
+    {
+      "text": "MOTORDROME SPEEDWAY",
+      "bbox": [
+        136,
+        282,
+        350,
+        303
+      ],
+      "confidence": 0.9984375834465027
+    },
+    {
+      "text": "RR 1 Box 88A",
+      "bbox": [
+        137,
+        299,
+        241,
+        322
+      ],
+      "confidence": 0.9890801310539246
+    },
+    {
+      "text": "Smithton, PA 15479",
+      "bbox": [
+        136,
+        315,
+        285,
+        340
+      ],
+      "confidence": 0.9700088500976562
+    },
+    {
+      "text": "Dear Chip:",
+      "bbox": [
+        136,
+        354,
+        217,
+        378
+      ],
+      "confidence": 0.9990984797477722
+    },
+    {
+      "text": "Recently, the Attorney General of California wrote to us",
+      "bbox": [
+        186,
+        390,
+        562,
+        409
+      ],
+      "confidence": 0.9786520004272461
+    },
+    {
+      "text": "complaining about a number of NASCAR Winston Racing Series signs",
+      "bbox": [
+        138,
+        422,
+        622,
+        449
+      ],
+      "confidence": 0.9935003519058228
+    },
+    {
+      "text": "which remain at one or more tracks in California. You might still have",
+      "bbox": [
+        138,
+        458,
+        613,
+        483
+      ],
+      "confidence": 0.9856817126274109
+    },
+    {
+      "text": "some of these signs at your facility.",
+      "bbox": [
+        137,
+        496,
+        380,
+        519
+      ],
+      "confidence": 0.959795355796814
+    },
+    {
+      "text": "While it may seem surprising to you that the AG is concerned that",
+      "bbox": [
+        185,
+        531,
+        632,
+        551
+      ],
+      "confidence": 0.979268491268158
+    },
+    {
+      "text": "these mentions of the Series do any harm to anyone, it is clear that, under",
+      "bbox": [
+        136,
+        565,
+        644,
+        588
+      ],
+      "confidence": 0.9697428345680237
+    },
+    {
+      "text": "the terms of the Master Settlement Agreement entered into between R. J.",
+      "bbox": [
+        137,
+        601,
+        640,
+        621
+      ],
+      "confidence": 0.9809333086013794
+    },
+    {
+      "text": "Reynolds Tobacco Company and various states, including California, RJR",
+      "bbox": [
+        136,
+        636,
+        645,
+        659
+      ],
+      "confidence": 0.9918881058692932
+    },
+    {
+      "text": "could not post signage mentioning the Series today.",
+      "bbox": [
+        136,
+        672,
+        493,
+        695
+      ],
+      "confidence": 0.98204505443573
+    },
+    {
+      "text": "While we no longer are the series sponsor, we recognize that if",
+      "bbox": [
+        184,
+        709,
+        619,
+        727
+      ],
+      "confidence": 0.9981809258460999
+    },
+    {
+      "text": "these signs remain, they belong to you and are on your property. The",
+      "bbox": [
+        137,
+        744,
+        619,
+        763
+      ],
+      "confidence": 0.983712375164032
+    },
+    {
+      "text": "decision to remove them is yours. However, in a spirit of cooperation with",
+      "bbox": [
+        136,
+        777,
+        645,
+        799
+      ],
+      "confidence": 0.9946337342262268
+    },
+    {
+      "text": "the AG, we ask that the word \"Winston\" in signs referring to the \"NASCAR",
+      "bbox": [
+        136,
+        815,
+        645,
+        834
+      ],
+      "confidence": 0.9897227883338928
+    },
+    {
+      "text": "Winston Racing Series\" be removed or painted over. We understand that",
+      "bbox": [
+        137,
+        852,
+        645,
+        869
+      ],
+      "confidence": 0.9842483997344971
+    }
+  ],
+  "full_text": "RJReynolds\nTobacco Company\nRICHARD M. SANDERS\nSenior Vice President - Marketing\nPresident - Sports Marketing Enterprises\nJanuary 19, 2001\nP.O. Box 484\nWinston-Salem, NC 27102-0484\n336-741-1286\nFax: 336-741-2800\nE-Mait: sanderr@rjrt.com\nChip Rowen\nMOTORDROME SPEEDWAY\nRR 1 Box 88A\nSmithton, PA 15479\nDear Chip:\nRecently, the Attorney General of California wrote to us\ncomplaining about a number of NASCAR Winston Racing Series signs\nwhich remain at one or more tracks in California. You might still have\nsome of these signs at your facility.\nWhile it may seem surprising to you that the AG is concerned that\nthese mentions of the Series do any harm to anyone, it is clear that, under\nthe terms of the Master Settlement Agreement entered into between R. J.\nReynolds Tobacco Company and various states, including California, RJR\ncould not post signage mentioning the Series today.\nWhile we no longer are the series sponsor, we recognize that if\nthese signs remain, they belong to you and are on your property. The\ndecision to remove them is yours. However, in a spirit of cooperation with\nthe AG, we ask that the word \"Winston\" in signs referring to the \"NASCAR\nWinston Racing Series\" be removed or painted over. We understand that"
+}

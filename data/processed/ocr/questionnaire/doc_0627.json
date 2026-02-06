@@ -1,0 +1,941 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0627.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Newman-Stein, Inc.",
+      "bbox": [
+        120,
+        81,
+        238,
+        96
+      ],
+      "confidence": 0.9722188115119934
+    },
+    {
+      "text": "1500 Broadway",
+      "bbox": [
+        121,
+        94,
+        207,
+        107
+      ],
+      "confidence": 0.9954491853713989
+    },
+    {
+      "text": "C415",
+      "bbox": [
+        425,
+        88,
+        481,
+        109
+      ],
+      "confidence": 0.9975318908691406
+    },
+    {
+      "text": "Job #2712",
+      "bbox": [
+        564,
+        92,
+        629,
+        108
+      ],
+      "confidence": 0.9986187815666199
+    },
+    {
+      "text": "New York, N.Y. 10036",
+      "bbox": [
+        120,
+        105,
+        251,
+        120
+      ],
+      "confidence": 0.9229485392570496
+    },
+    {
+      "text": "May. 1985",
+      "bbox": [
+        563,
+        104,
+        628,
+        120
+      ],
+      "confidence": 0.9266754984855652
+    },
+    {
+      "text": "RCLE QUOTA YO WHICH\"APPLTED:",
+      "bbox": [
+        130,
+        139,
+        313,
+        158
+      ],
+      "confidence": 0.9432015419006348
+    },
+    {
+      "text": "Q.B--SEX",
+      "bbox": [
+        141,
+        166,
+        199,
+        180
+      ],
+      "confidence": 0.9468885064125061
+    },
+    {
+      "text": "(6)",
+      "bbox": [
+        333,
+        165,
+        359,
+        183
+      ],
+      "confidence": 0.9929757714271545
+    },
+    {
+      "text": "CIRCLE CITY:",
+      "bbox": [
+        456,
+        165,
+        534,
+        179
+      ],
+      "confidence": 0.9986752867698669
+    },
+    {
+      "text": "Male",
+      "bbox": [
+        147,
+        178,
+        183,
+        193
+      ],
+      "confidence": 0.9922181367874146
+    },
+    {
+      "text": "1",
+      "bbox": [
+        340,
+        180,
+        348,
+        193
+      ],
+      "confidence": 0.9394477605819702
+    },
+    {
+      "text": "Detroit-Oakland.",
+      "bbox": [
+        455,
+        186,
+        559,
+        202
+      ],
+      "confidence": 0.9787375330924988
+    },
+    {
+      "text": "(7)",
+      "bbox": [
+        607,
+        174,
+        629,
+        191
+      ],
+      "confidence": 0.8649376034736633
+    },
+    {
+      "text": "Female",
+      "bbox": [
+        147,
+        188,
+        192,
+        206
+      ],
+      "confidence": 0.9190795421600342
+    },
+    {
+      "text": "2",
+      "bbox": [
+        340,
+        191,
+        349,
+        203
+      ],
+      "confidence": 0.9999556541442871
+    },
+    {
+      "text": "Detroit-Westland",
+      "bbox": [
+        455,
+        199,
+        564,
+        214
+      ],
+      "confidence": 0.9943033456802368
+    },
+    {
+      "text": "Jackson..",
+      "bbox": [
+        457,
+        213,
+        517,
+        224
+      ],
+      "confidence": 0.999343991279602
+    },
+    {
+      "text": "Phoenix.",
+      "bbox": [
+        457,
+        225,
+        512,
+        236
+      ],
+      "confidence": 0.9362126588821411
+    },
+    {
+      "text": "Seattle.",
+      "bbox": [
+        456,
+        236,
+        512,
+        247
+      ],
+      "confidence": 0.9544310569763184
+    },
+    {
+      "text": "CIGARETTE CONCEPT TEST",
+      "bbox": [
+        335,
+        271,
+        478,
+        285
+      ],
+      "confidence": 0.9768403768539429
+    },
+    {
+      "text": "(Screening Questionnaire)",
+      "bbox": [
+        324,
+        293,
+        484,
+        307
+      ],
+      "confidence": 0.997127890586853
+    },
+    {
+      "text": "RESPONDENT'S NAME",
+      "bbox": [
+        121,
+        339,
+        233,
+        354
+      ],
+      "confidence": 0.9958385229110718
+    },
+    {
+      "text": "AREA CODE",
+      "bbox": [
+        425,
+        339,
+        486,
+        356
+      ],
+      "confidence": 0.9985381364822388
+    },
+    {
+      "text": "TELEPHONE !",
+      "bbox": [
+        529,
+        341,
+        607,
+        355
+      ],
+      "confidence": 0.9210699200630188
+    },
+    {
+      "text": "ADDRESS",
+      "bbox": [
+        121,
+        362,
+        170,
+        379
+      ],
+      "confidence": 0.9988362193107605
+    },
+    {
+      "text": "CITY",
+      "bbox": [
+        367,
+        363,
+        399,
+        378
+      ],
+      "confidence": 0.9869186878204346
+    },
+    {
+      "text": "STATE",
+      "bbox": [
+        458,
+        364,
+        493,
+        379
+      ],
+      "confidence": 0.9993510246276855
+    },
+    {
+      "text": "Z:P CODE",
+      "bbox": [
+        554,
+        364,
+        611,
+        378
+      ],
+      "confidence": 0.9617099165916443
+    },
+    {
+      "text": "INTERVIEWER'S NAME",
+      "bbox": [
+        122,
+        386,
+        240,
+        402
+      ],
+      "confidence": 0.9956031441688538
+    },
+    {
+      "text": ":.0.0",
+      "bbox": [
+        418,
+        384,
+        457,
+        403
+      ],
+      "confidence": 0.7608514428138733
+    },
+    {
+      "text": "TIME BEGAN",
+      "bbox": [
+        515,
+        388,
+        585,
+        402
+      ],
+      "confidence": 0.999143123626709
+    },
+    {
+      "text": "AM/PM",
+      "bbox": [
+        652,
+        386,
+        691,
+        401
+      ],
+      "confidence": 0.9983327984809875
+    },
+    {
+      "text": "(8-11):",
+      "bbox": [
+        685,
+        393,
+        734,
+        414
+      ],
+      "confidence": 0.8873978853225708
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        121,
+        411,
+        151,
+        426
+      ],
+      "confidence": 0.9993480443954468
+    },
+    {
+      "text": "TIME ENDED",
+      "bbox": [
+        515,
+        411,
+        585,
+        425
+      ],
+      "confidence": 0.9969110488891602
+    },
+    {
+      "text": "AM/PM",
+      "bbox": [
+        651,
+        408,
+        691,
+        426
+      ],
+      "confidence": 0.9926397204399109
+    },
+    {
+      "text": "(12-15)",
+      "bbox": [
+        685,
+        416,
+        738,
+        437
+      ],
+      "confidence": 0.9774595499038696
+    },
+    {
+      "text": "We're conducting a survey today and D would like to ask you a. few questions.",
+      "bbox": [
+        122,
+        454,
+        619,
+        474
+      ],
+      "confidence": 0.9638468623161316
+    },
+    {
+      "text": "elio, I'm",
+      "bbox": [
+        123,
+        444,
+        191,
+        462
+      ],
+      "confidence": 0.9115603566169739
+    },
+    {
+      "text": "from Newan-Stein, Inc., a national market research firm.",
+      "bbox": [
+        298,
+        445,
+        669,
+        458
+      ],
+      "confidence": 0.9933220148086548
+    },
+    {
+      "text": "la.",
+      "bbox": [
+        124,
+        492,
+        148,
+        508
+      ],
+      "confidence": 0.8129756450653076
+    },
+    {
+      "text": "First, which of the following products db you cunrently' use? (REAo LIST)",
+      "bbox": [
+        174,
+        489,
+        649,
+        505
+      ],
+      "confidence": 0.9664462208747864
+    },
+    {
+      "text": "(16)",
+      "bbox": [
+        318,
+        502,
+        348,
+        517
+      ],
+      "confidence": 0.9948573708534241
+    },
+    {
+      "text": "Beer",
+      "bbox": [
+        238,
+        514,
+        271,
+        529
+      ],
+      "confidence": 0.9994593858718872
+    },
+    {
+      "text": "1",
+      "bbox": [
+        331,
+        514,
+        345,
+        528
+      ],
+      "confidence": 0.9850075244903564
+    },
+    {
+      "text": "-(MUST BE CIRCLED: IF NOT, TERMINATE, RECORD ON",
+      "bbox": [
+        370,
+        532,
+        677,
+        552
+      ],
+      "confidence": 0.9872742295265198
+    },
+    {
+      "text": "Ciganettes",
+      "bbox": [
+        240,
+        538,
+        308,
+        552
+      ],
+      "confidence": 0.9998712539672852
+    },
+    {
+      "text": "2",
+      "bbox": [
+        331,
+        536,
+        344,
+        551
+      ],
+      "confidence": 0.9999303817749023
+    },
+    {
+      "text": "TALLY SHEET, ERASE AND RE-USE)",
+      "bbox": [
+        379,
+        547,
+        573,
+        561
+      ],
+      "confidence": 0.9661152958869934
+    },
+    {
+      "text": "Wine",
+      "bbox": [
+        238,
+        558,
+        272,
+        577
+      ],
+      "confidence": 0.9013617038726807
+    },
+    {
+      "text": "3",
+      "bbox": [
+        332,
+        560,
+        345,
+        575
+      ],
+      "confidence": 0.9999548196792603
+    },
+    {
+      "text": "Liquor",
+      "bbox": [
+        241,
+        582,
+        285,
+        597
+      ],
+      "confidence": 0.999610424041748
+    },
+    {
+      "text": "4:",
+      "bbox": [
+        333,
+        582,
+        347,
+        595
+      ],
+      "confidence": 0.9435485005378723
+    },
+    {
+      "text": "1b.",
+      "bbox": [
+        127,
+        607,
+        150,
+        622
+      ],
+      "confidence": 0.953669011592865
+    },
+    {
+      "text": "Do you or does any member of your household work ... (ReAD LisT):?",
+      "bbox": [
+        176,
+        601,
+        602,
+        621
+      ],
+      "confidence": 0.9786117076873779
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        517,
+        627,
+        544,
+        643
+      ],
+      "confidence": 0.9975454807281494
+    },
+    {
+      "text": "No",
+      "bbox": [
+        559,
+        626,
+        584,
+        641
+      ],
+      "confidence": 0.9534568190574646
+    },
+    {
+      "text": "In advertising",
+      "bbox": [
+        244,
+        650,
+        348,
+        663
+      ],
+      "confidence": 0.9988805651664734
+    },
+    {
+      "text": "NN",
+      "bbox": [
+        570,
+        648,
+        582,
+        673
+      ],
+      "confidence": 0.8705940246582031
+    },
+    {
+      "text": "In market research",
+      "bbox": [
+        244,
+        661,
+        364,
+        674
+      ],
+      "confidence": 0.9929449558258057
+    },
+    {
+      "text": "For any company which manufactures,",
+      "bbox": [
+        243,
+        671,
+        470,
+        687
+      ],
+      "confidence": 0.9806867241859436
+    },
+    {
+      "text": "products",
+      "bbox": [
+        257,
+        693,
+        315,
+        710
+      ],
+      "confidence": 0.9979186058044434
+    },
+    {
+      "text": "distributes or promotes any tobacca",
+      "bbox": [
+        258,
+        684,
+        483,
+        698
+      ],
+      "confidence": 0.9832819104194641
+    },
+    {
+      "text": "1",
+      "bbox": [
+        525,
+        696,
+        536,
+        705
+      ],
+      "confidence": 0.9568715691566467
+    },
+    {
+      "text": "2",
+      "bbox": [
+        570,
+        693,
+        585,
+        707
+      ],
+      "confidence": 0.9997645020484924
+    },
+    {
+      "text": "ALL MUST 3E CIRCUED: *NO* IN Q.IB.",
+      "bbox": [
+        139,
+        727,
+        355,
+        744
+      ],
+      "confidence": 0.9157084226608276
+    },
+    {
+      "text": "OTHERWISE,. TERMINATE, RECORD ON: TAULY SHEET,",
+      "bbox": [
+        360,
+        727,
+        645,
+        740
+      ],
+      "confidence": 0.97047358751297
+    },
+    {
+      "text": "ERASE AND RE-USE.",
+      "bbox": [
+        139,
+        740,
+        250,
+        756
+      ],
+      "confidence": 0.9708024263381958
+    },
+    {
+      "text": "ic.",
+      "bbox": [
+        135,
+        786,
+        160,
+        802
+      ],
+      "confidence": 0.8879693150520325
+    },
+    {
+      "text": "(HAND RESPONDENT AGE CARD)",
+      "bbox": [
+        186,
+        780,
+        354,
+        799
+      ],
+      "confidence": 0.9917783141136169
+    },
+    {
+      "text": "Which of the following age groups best describes your age?",
+      "bbox": [
+        185,
+        788,
+        559,
+        811
+      ],
+      "confidence": 0.972926676273346
+    },
+    {
+      "text": "Under 21",
+      "bbox": [
+        249,
+        812,
+        305,
+        829
+      ],
+      "confidence": 0.9993557929992676
+    },
+    {
+      "text": "(12)",
+      "bbox": [
+        348,
+        803,
+        377,
+        818
+      ],
+      "confidence": 0.8222140073776245
+    },
+    {
+      "text": "1",
+      "bbox": [
+        359,
+        815,
+        368,
+        825
+      ],
+      "confidence": 0.9786645770072937
+    },
+    {
+      "text": "i",
+      "bbox": [
+        380,
+        816,
+        398,
+        823
+      ],
+      "confidence": 0.9601859450340271
+    },
+    {
+      "text": "(TERMINATE, RECORD CN TALLY SHEET, ERASE",
+      "bbox": [
+        396,
+        811,
+        651,
+        825
+      ],
+      "confidence": 0.9769676923751831
+    },
+    {
+      "text": "AND RE-USE)",
+      "bbox": [
+        403,
+        824,
+        475,
+        835
+      ],
+      "confidence": 0.9890642166137695
+    },
+    {
+      "text": "85374243",
+      "bbox": [
+        686,
+        819,
+        711,
+        912
+      ],
+      "confidence": 0.997111439704895
+    },
+    {
+      "text": "21-24",
+      "bbox": [
+        250,
+        833,
+        288,
+        851
+      ],
+      "confidence": 0.9984911680221558
+    },
+    {
+      "text": "2",
+      "bbox": [
+        360,
+        836,
+        370,
+        847
+      ],
+      "confidence": 0.9993520379066467
+    },
+    {
+      "text": "25-29",
+      "bbox": [
+        252,
+        858,
+        289,
+        872
+      ],
+      "confidence": 0.9996997714042664
+    },
+    {
+      "text": "3",
+      "bbox": [
+        359,
+        857,
+        372,
+        870
+      ],
+      "confidence": 0.9997968077659607
+    },
+    {
+      "text": "(CONTINUE)",
+      "bbox": [
+        399,
+        877,
+        463,
+        891
+      ],
+      "confidence": 0.9868709444999695
+    },
+    {
+      "text": "30-34",
+      "bbox": [
+        254,
+        879,
+        290,
+        893
+      ],
+      "confidence": 0.9892902374267578
+    },
+    {
+      "text": "4",
+      "bbox": [
+        359,
+        878,
+        371,
+        892
+      ],
+      "confidence": 0.9999302625656128
+    },
+    {
+      "text": "35-49",
+      "bbox": [
+        256,
+        900,
+        291,
+        914
+      ],
+      "confidence": 0.9996355772018433
+    },
+    {
+      "text": "5",
+      "bbox": [
+        360,
+        899,
+        372,
+        914
+      ],
+      "confidence": 0.9998013377189636
+    },
+    {
+      "text": "50-54",
+      "bbox": [
+        257,
+        921,
+        292,
+        935
+      ],
+      "confidence": 0.9881993532180786
+    },
+    {
+      "text": "6",
+      "bbox": [
+        361,
+        920,
+        373,
+        934
+      ],
+      "confidence": 0.9997910857200623
+    },
+    {
+      "text": "55 and over",
+      "bbox": [
+        257,
+        941,
+        328,
+        958
+      ],
+      "confidence": 0.9840131998062134
+    },
+    {
+      "text": "(TERMINATE, RECORD ON TALLY SHEET. ERASE",
+      "bbox": [
+        398,
+        939,
+        653,
+        956
+      ],
+      "confidence": 0.9823833703994751
+    },
+    {
+      "text": "AND RE-USE)",
+      "bbox": [
+        405,
+        951,
+        478,
+        968
+      ],
+      "confidence": 0.961076021194458
+    }
+  ],
+  "full_text": "Newman-Stein, Inc.\n1500 Broadway\nC415\nJob #2712\nNew York, N.Y. 10036\nMay. 1985\nRCLE QUOTA YO WHICH\"APPLTED:\nQ.B--SEX\n(6)\nCIRCLE CITY:\nMale\n1\nDetroit-Oakland.\n(7)\nFemale\n2\nDetroit-Westland\nJackson..\nPhoenix.\nSeattle.\nCIGARETTE CONCEPT TEST\n(Screening Questionnaire)\nRESPONDENT'S NAME\nAREA CODE\nTELEPHONE !\nADDRESS\nCITY\nSTATE\nZ:P CODE\nINTERVIEWER'S NAME\n:.0.0\nTIME BEGAN\nAM/PM\n(8-11):\nDATE\nTIME ENDED\nAM/PM\n(12-15)\nWe're conducting a survey today and D would like to ask you a. few questions.\nelio, I'm\nfrom Newan-Stein, Inc., a national market research firm.\nla.\nFirst, which of the following products db you cunrently' use? (REAo LIST)\n(16)\nBeer\n1\n-(MUST BE CIRCLED: IF NOT, TERMINATE, RECORD ON\nCiganettes\n2\nTALLY SHEET, ERASE AND RE-USE)\nWine\n3\nLiquor\n4:\n1b.\nDo you or does any member of your household work ... (ReAD LisT):?\nYes\nNo\nIn advertising\nNN\nIn market research\nFor any company which manufactures,\nproducts\ndistributes or promotes any tobacca\n1\n2\nALL MUST 3E CIRCUED: *NO* IN Q.IB.\nOTHERWISE,. TERMINATE, RECORD ON: TAULY SHEET,\nERASE AND RE-USE.\nic.\n(HAND RESPONDENT AGE CARD)\nWhich of the following age groups best describes your age?\nUnder 21\n(12)\n1\ni\n(TERMINATE, RECORD CN TALLY SHEET, ERASE\nAND RE-USE)\n85374243\n21-24\n2\n25-29\n3\n(CONTINUE)\n30-34\n4\n35-49\n5\n50-54\n6\n55 and over\n(TERMINATE, RECORD ON TALLY SHEET. ERASE\nAND RE-USE)"
+}

@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0123.png",
+    "image_width": 786,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Commissioner David Kessler",
+      "bbox": [
+        79,
+        93,
+        314,
+        114
+      ],
+      "confidence": 0.9943947196006775
+    },
+    {
+      "text": "Docket #95N-0253",
+      "bbox": [
+        81,
+        116,
+        226,
+        133
+      ],
+      "confidence": 0.9802336692810059
+    },
+    {
+      "text": "Dockets Management Branch (HFA-305)",
+      "bbox": [
+        80,
+        133,
+        399,
+        155
+      ],
+      "confidence": 0.9924963712692261
+    },
+    {
+      "text": "Food and Drug Administration, Room 1-23",
+      "bbox": [
+        81,
+        153,
+        425,
+        174
+      ],
+      "confidence": 0.9815478324890137
+    },
+    {
+      "text": "12420 Parklawn Drive",
+      "bbox": [
+        82,
+        174,
+        256,
+        192
+      ],
+      "confidence": 0.9811512231826782
+    },
+    {
+      "text": "Rockville, MD 20857",
+      "bbox": [
+        83,
+        196,
+        248,
+        213
+      ],
+      "confidence": 0.9861957430839539
+    },
+    {
+      "text": "SIR:",
+      "bbox": [
+        80,
+        271,
+        122,
+        294
+      ],
+      "confidence": 0.9993308782577515
+    },
+    {
+      "text": "I am writing to express my opposition to the Food and Drug Administration's",
+      "bbox": [
+        81,
+        310,
+        704,
+        335
+      ],
+      "confidence": 0.9903405904769897
+    },
+    {
+      "text": "efforts to assert regulatory control over the U.S. tobacco industry.",
+      "bbox": [
+        82,
+        333,
+        597,
+        355
+      ],
+      "confidence": 0.9814766049385071
+    },
+    {
+      "text": "I oppose this plan for several reasons.",
+      "bbox": [
+        81,
+        372,
+        381,
+        394
+      ],
+      "confidence": 0.9990615844726562
+    },
+    {
+      "text": "First, I agree that minors should not smoke or have access to tobacco products.",
+      "bbox": [
+        82,
+        410,
+        707,
+        434
+      ],
+      "confidence": 0.9879506826400757
+    },
+    {
+      "text": "We verify the ID's of all cigarette buyers who appears to be underage.",
+      "bbox": [
+        82,
+        432,
+        634,
+        456
+      ],
+      "confidence": 0.9771255254745483
+    },
+    {
+      "text": "Tobacco companies pay me to display their singnage. If is banned, I,ll earn less",
+      "bbox": [
+        80,
+        471,
+        707,
+        498
+      ],
+      "confidence": 0.9789646863937378
+    },
+    {
+      "text": "revenue and will have to cut expenses. That could force me to let employees",
+      "bbox": [
+        79,
+        493,
+        697,
+        516
+      ],
+      "confidence": 0.9873426556587219
+    },
+    {
+      "text": "go.",
+      "bbox": [
+        78,
+        517,
+        109,
+        541
+      ],
+      "confidence": 0.9991266131401062
+    },
+    {
+      "text": "FDA regulation of tobacco could lead to a requirement that smokers get",
+      "bbox": [
+        79,
+        554,
+        659,
+        577
+      ],
+      "confidence": 0.9832574129104614
+    },
+    {
+      "text": "doctors prescriptions for cigarettes--or even an outright ban on tobacco. We",
+      "bbox": [
+        80,
+        574,
+        689,
+        598
+      ],
+      "confidence": 0.9730678200721741
+    },
+    {
+      "text": "tried prohibition in the 1920,s, IT DID NOT WORK THEN AND IT WILL",
+      "bbox": [
+        79,
+        594,
+        673,
+        618
+      ],
+      "confidence": 0.9807370901107788
+    },
+    {
+      "text": "NOT WORK NOW!",
+      "bbox": [
+        78,
+        617,
+        248,
+        640
+      ],
+      "confidence": 0.9978618621826172
+    },
+    {
+      "text": "So I urge the FDA to reconsider its plan to regulate the Tobacco industry, and",
+      "bbox": [
+        76,
+        655,
+        704,
+        681
+      ],
+      "confidence": 0.9946174621582031
+    },
+    {
+      "text": "to focus instead on improving it's performance in the food and drug areas.",
+      "bbox": [
+        76,
+        677,
+        686,
+        701
+      ],
+      "confidence": 0.9760767817497253
+    },
+    {
+      "text": "Sincerely,",
+      "bbox": [
+        69,
+        756,
+        160,
+        786
+      ],
+      "confidence": 0.9998316764831543
+    },
+    {
+      "text": "2062432171",
+      "bbox": [
+        720,
+        831,
+        745,
+        938
+      ],
+      "confidence": 0.9999641180038452
+    },
+    {
+      "text": "KWIC STOP#121",
+      "bbox": [
+        71,
+        855,
+        372,
+        907
+      ],
+      "confidence": 0.9217709302902222
+    },
+    {
+      "text": "14175 Sa27AVE",
+      "bbox": [
+        84,
+        907,
+        302,
+        939
+      ],
+      "confidence": 0.8323174715042114
+    },
+    {
+      "text": "Mism: CIP",
+      "bbox": [
+        75,
+        945,
+        228,
+        983
+      ],
+      "confidence": 0.6406895518302917
+    }
+  ],
+  "full_text": "Commissioner David Kessler\nDocket #95N-0253\nDockets Management Branch (HFA-305)\nFood and Drug Administration, Room 1-23\n12420 Parklawn Drive\nRockville, MD 20857\nSIR:\nI am writing to express my opposition to the Food and Drug Administration's\nefforts to assert regulatory control over the U.S. tobacco industry.\nI oppose this plan for several reasons.\nFirst, I agree that minors should not smoke or have access to tobacco products.\nWe verify the ID's of all cigarette buyers who appears to be underage.\nTobacco companies pay me to display their singnage. If is banned, I,ll earn less\nrevenue and will have to cut expenses. That could force me to let employees\ngo.\nFDA regulation of tobacco could lead to a requirement that smokers get\ndoctors prescriptions for cigarettes--or even an outright ban on tobacco. We\ntried prohibition in the 1920,s, IT DID NOT WORK THEN AND IT WILL\nNOT WORK NOW!\nSo I urge the FDA to reconsider its plan to regulate the Tobacco industry, and\nto focus instead on improving it's performance in the food and drug areas.\nSincerely,\n2062432171\nKWIC STOP#121\n14175 Sa27AVE\nMism: CIP"
+}

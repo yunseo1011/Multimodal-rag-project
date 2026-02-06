@@ -1,0 +1,381 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0575.png",
+    "image_width": 772,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SF0660251",
+      "bbox": [
+        503,
+        34,
+        617,
+        61
+      ],
+      "confidence": 0.9899629950523376
+    },
+    {
+      "text": "CURRICULUM VITAE",
+      "bbox": [
+        242,
+        83,
+        370,
+        100
+      ],
+      "confidence": 0.9997641444206238
+    },
+    {
+      "text": "Harmon C. McAllister, Jr.",
+      "bbox": [
+        212,
+        127,
+        403,
+        141
+      ],
+      "confidence": 0.9824836850166321
+    },
+    {
+      "text": "Date and Place of Birth: April 5, 1936; Durham, N.C.",
+      "bbox": [
+        75,
+        166,
+        494,
+        184
+      ],
+      "confidence": 0.9772311449050903
+    },
+    {
+      "text": "Education:",
+      "bbox": [
+        74,
+        192,
+        156,
+        213
+      ],
+      "confidence": 0.9990400075912476
+    },
+    {
+      "text": "1958",
+      "bbox": [
+        74,
+        220,
+        111,
+        238
+      ],
+      "confidence": 0.9999353885650635
+    },
+    {
+      "text": "B.S. in Chemistry, University of North Carolina,",
+      "bbox": [
+        137,
+        221,
+        515,
+        239
+      ],
+      "confidence": 0.9926700592041016
+    },
+    {
+      "text": "Chapel Hill, N.C.",
+      "bbox": [
+        139,
+        237,
+        271,
+        251
+      ],
+      "confidence": 0.995449960231781
+    },
+    {
+      "text": "1963",
+      "bbox": [
+        74,
+        261,
+        111,
+        279
+      ],
+      "confidence": 0.9999487996101379
+    },
+    {
+      "text": "Ph.D. in Biochemistry, minors in Microbiology and",
+      "bbox": [
+        136,
+        261,
+        523,
+        279
+      ],
+      "confidence": 0.9974837303161621
+    },
+    {
+      "text": "Physiology, University of North Carolina Medical",
+      "bbox": [
+        138,
+        277,
+        514,
+        291
+      ],
+      "confidence": 0.9948229193687439
+    },
+    {
+      "text": "School. Chapel Hill, N.C. Dissertation: \"Polvacrylamide",
+      "bbox": [
+        137,
+        290,
+        575,
+        304
+      ],
+      "confidence": 0.9729912281036377
+    },
+    {
+      "text": "Gel Electrophoresis of Histones and Histone Fractions",
+      "bbox": [
+        136,
+        303,
+        554,
+        321
+      ],
+      "confidence": 0.9889214634895325
+    },
+    {
+      "text": "and a Preliminary Metabolic Study\". Dissertation",
+      "bbox": [
+        135,
+        317,
+        514,
+        335
+      ],
+      "confidence": 0.9946662783622742
+    },
+    {
+      "text": "director: Professor J. Logan Irvin.",
+      "bbox": [
+        135,
+        330,
+        409,
+        348
+      ],
+      "confidence": 0.9745955467224121
+    },
+    {
+      "text": "1963-65 Postdoctoral Fellow of the Muscular Dystrophy Associa-",
+      "bbox": [
+        77,
+        359,
+        559,
+        373
+      ],
+      "confidence": 0.9981907606124878
+    },
+    {
+      "text": "tions of America, Inc. Studies on the mechanism of biotin",
+      "bbox": [
+        135,
+        370,
+        590,
+        389
+      ],
+      "confidence": 0.9769623875617981
+    },
+    {
+      "text": "incorporation into carboxylase enzymes, with Professor",
+      "bbox": [
+        135,
+        384,
+        559,
+        403
+      ],
+      "confidence": 0.9908111095428467
+    },
+    {
+      "text": "Minor J. Coon, Department of Biological Chemistry.",
+      "bbox": [
+        135,
+        398,
+        524,
+        416
+      ],
+      "confidence": 0.9740685820579529
+    },
+    {
+      "text": "University of Michigan Medical School, Ann Arbor, MI.",
+      "bbox": [
+        136,
+        410,
+        550,
+        429
+      ],
+      "confidence": 0.9818170070648193
+    },
+    {
+      "text": "1965-67 Postdoctoral Fellow of the U.S.P.H.S. (National Heart",
+      "bbox": [
+        75,
+        435,
+        551,
+        457
+      ],
+      "confidence": 0.9965400695800781
+    },
+    {
+      "text": "Institute). Studies on function of the active ribosome",
+      "bbox": [
+        137,
+        451,
+        565,
+        471
+      ],
+      "confidence": 0.9804683327674866
+    },
+    {
+      "text": "complex, with Professor Richard S. Schweet, Department of",
+      "bbox": [
+        136,
+        463,
+        579,
+        485
+      ],
+      "confidence": 0.9842708110809326
+    },
+    {
+      "text": "Cell Biology, University of Kentucky Medical Center,",
+      "bbox": [
+        136,
+        478,
+        540,
+        497
+      ],
+      "confidence": 0.991699755191803
+    },
+    {
+      "text": "Lexington, KY.",
+      "bbox": [
+        134,
+        492,
+        246,
+        513
+      ],
+      "confidence": 0.9873014688491821
+    },
+    {
+      "text": "Professional Memberships:",
+      "bbox": [
+        75,
+        518,
+        266,
+        539
+      ],
+      "confidence": 0.9987610578536987
+    },
+    {
+      "text": "American Chemical Society",
+      "bbox": [
+        137,
+        561,
+        329,
+        576
+      ],
+      "confidence": 0.9835087060928345
+    },
+    {
+      "text": "Anerican Asscciation of Higher Education",
+      "bbox": [
+        138,
+        548,
+        442,
+        561
+      ],
+      "confidence": 0.9851791262626648
+    },
+    {
+      "text": "Association for Institutional Research",
+      "bbox": [
+        135,
+        573,
+        426,
+        591
+      ],
+      "confidence": 0.9926649332046509
+    },
+    {
+      "text": "Sigma Xi",
+      "bbox": [
+        135,
+        587,
+        198,
+        603
+      ],
+      "confidence": 0.9970803260803223
+    },
+    {
+      "text": "Society for College and University Planning",
+      "bbox": [
+        134,
+        599,
+        466,
+        617
+      ],
+      "confidence": 0.9917969703674316
+    },
+    {
+      "text": "Brief Chronology of Employment:",
+      "bbox": [
+        72,
+        625,
+        311,
+        646
+      ],
+      "confidence": 0.9848901033401489
+    },
+    {
+      "text": "1955-58 Undergraduate research assistantship in Biochemistry",
+      "bbox": [
+        71,
+        651,
+        537,
+        672
+      ],
+      "confidence": 0.9990769028663635
+    },
+    {
+      "text": "1958-63 Graduate assistantships, student research assistantships,",
+      "bbox": [
+        71,
+        677,
+        576,
+        700
+      ],
+      "confidence": 0.9902600646018982
+    },
+    {
+      "text": "student traineeship (NIH), all involving teaching of",
+      "bbox": [
+        131,
+        691,
+        537,
+        715
+      ],
+      "confidence": 0.9728237986564636
+    },
+    {
+      "text": "graduate and medical students.",
+      "bbox": [
+        131,
+        711,
+        362,
+        727
+      ],
+      "confidence": 0.996421217918396
+    },
+    {
+      "text": "1963-67 See Education",
+      "bbox": [
+        69,
+        737,
+        231,
+        753
+      ],
+      "confidence": 0.9992035627365112
+    }
+  ],
+  "full_text": "SF0660251\nCURRICULUM VITAE\nHarmon C. McAllister, Jr.\nDate and Place of Birth: April 5, 1936; Durham, N.C.\nEducation:\n1958\nB.S. in Chemistry, University of North Carolina,\nChapel Hill, N.C.\n1963\nPh.D. in Biochemistry, minors in Microbiology and\nPhysiology, University of North Carolina Medical\nSchool. Chapel Hill, N.C. Dissertation: \"Polvacrylamide\nGel Electrophoresis of Histones and Histone Fractions\nand a Preliminary Metabolic Study\". Dissertation\ndirector: Professor J. Logan Irvin.\n1963-65 Postdoctoral Fellow of the Muscular Dystrophy Associa-\ntions of America, Inc. Studies on the mechanism of biotin\nincorporation into carboxylase enzymes, with Professor\nMinor J. Coon, Department of Biological Chemistry.\nUniversity of Michigan Medical School, Ann Arbor, MI.\n1965-67 Postdoctoral Fellow of the U.S.P.H.S. (National Heart\nInstitute). Studies on function of the active ribosome\ncomplex, with Professor Richard S. Schweet, Department of\nCell Biology, University of Kentucky Medical Center,\nLexington, KY.\nProfessional Memberships:\nAmerican Chemical Society\nAnerican Asscciation of Higher Education\nAssociation for Institutional Research\nSigma Xi\nSociety for College and University Planning\nBrief Chronology of Employment:\n1955-58 Undergraduate research assistantship in Biochemistry\n1958-63 Graduate assistantships, student research assistantships,\nstudent traineeship (NIH), all involving teaching of\ngraduate and medical students.\n1963-67 See Education"
+}

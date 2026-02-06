@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0694.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Marion, Pam",
+      "bbox": [
+        86,
+        45,
+        229,
+        66
+      ],
+      "confidence": 0.9913197755813599
+    },
+    {
+      "text": "To: Joyner, Gwen B.",
+      "bbox": [
+        85,
+        64,
+        233,
+        88
+      ],
+      "confidence": 0.9702250957489014
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        85,
+        83,
+        126,
+        109
+      ],
+      "confidence": 0.9991958141326904
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        86,
+        106,
+        138,
+        130
+      ],
+      "confidence": 0.9996774792671204
+    },
+    {
+      "text": "Primary Date: 7/2/1999 4:39:59 PM",
+      "bbox": [
+        88,
+        127,
+        339,
+        149
+      ],
+      "confidence": 0.9833910465240479
+    },
+    {
+      "text": "Last Modified Date: 1999-Jul-02 16:39:59",
+      "bbox": [
+        88,
+        147,
+        380,
+        170
+      ],
+      "confidence": 0.9804899096488953
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        90,
+        169,
+        237,
+        190
+      ],
+      "confidence": 0.99977046251297
+    },
+    {
+      "text": "Sent Date: 1999-Jul-02 16:39:59",
+      "bbox": [
+        91,
+        187,
+        314,
+        209
+      ],
+      "confidence": 0.996224582195282
+    },
+    {
+      "text": "Received Date: 1999-Jul-02 16:39:59",
+      "bbox": [
+        91,
+        207,
+        346,
+        228
+      ],
+      "confidence": 0.987027645111084
+    },
+    {
+      "text": "Subject: SALEM OFFSITE MEETING FOLLOW-UP{F}",
+      "bbox": [
+        92,
+        227,
+        475,
+        248
+      ],
+      "confidence": 0.9879029989242554
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        97,
+        267,
+        194,
+        286
+      ],
+      "confidence": 0.9978517889976501
+    },
+    {
+      "text": "Pam Marion",
+      "bbox": [
+        98,
+        324,
+        183,
+        341
+      ],
+      "confidence": 0.9994659423828125
+    },
+    {
+      "text": "- Birthday is May 1",
+      "bbox": [
+        97,
+        341,
+        229,
+        363
+      ],
+      "confidence": 0.9608858823776245
+    },
+    {
+      "text": "- Hobbies/lnterests - Rollcrblading, Music, Movies - Pets",
+      "bbox": [
+        97,
+        359,
+        468,
+        381
+      ],
+      "confidence": 0.9876096248626709
+    },
+    {
+      "text": "- Interesting Facts about myself - Currently working on my MBA, I am a Junior Mint and",
+      "bbox": [
+        98,
+        377,
+        671,
+        400
+      ],
+      "confidence": 0.9857437014579773
+    },
+    {
+      "text": "Diet Mountain Dew Freak.",
+      "bbox": [
+        100,
+        398,
+        276,
+        416
+      ],
+      "confidence": 0.997961699962616
+    },
+    {
+      "text": "……Original Message--…",
+      "bbox": [
+        101,
+        434,
+        268,
+        456
+      ],
+      "confidence": 0.8742618560791016
+    },
+    {
+      "text": "From: Joyner, Gwen B.",
+      "bbox": [
+        101,
+        454,
+        255,
+        473
+      ],
+      "confidence": 0.9878628253936768
+    },
+    {
+      "text": "Scnt: Friday, July 02, 1999 11:01 AM",
+      "bbox": [
+        102,
+        471,
+        347,
+        491
+      ],
+      "confidence": 0.9915545582771301
+    },
+    {
+      "text": "To: 'marmstrong@mcofa.com'; 'pbartlclt@mcofa.com'; 'sbrangman@mcofa.com';",
+      "bbox": [
+        101,
+        488,
+        624,
+        510
+      ],
+      "confidence": 0.963473379611969
+    },
+    {
+      "text": "'ebritton@kbamarkcting.com'; Brown, Lisa; 'mbuchanan@wcstwaync.com';",
+      "bbox": [
+        102,
+        508,
+        587,
+        527
+      ],
+      "confidence": 0.9793313145637512
+    },
+    {
+      "text": "'dcalnon@mcofa.com'; 'ccooke@kbamarketing.com'; Crosswhite, Simone; Dcitclbaum,",
+      "bbox": [
+        104,
+        528,
+        662,
+        545
+      ],
+      "confidence": 0.9815675020217896
+    },
+    {
+      "text": "Jon (KBA); Deriso, Demetra (LHC); Dillard, Dennis G.; Dubc, Lynn G.;",
+      "bbox": [
+        103,
+        546,
+        568,
+        564
+      ],
+      "confidence": 0.9891872406005859
+    },
+    {
+      "text": "'bdzengolewski@wcstwayne.com'; 'agarofalo@westwayne.com';",
+      "bbox": [
+        105,
+        567,
+        516,
+        581
+      ],
+      "confidence": 0.9690467715263367
+    },
+    {
+      "text": "'tgood@wcstwayne.com'; 'shagedorn@wcstwaync.com'; Jennings, Cary D.;",
+      "bbox": [
+        104,
+        582,
+        585,
+        602
+      ],
+      "confidence": 0.9833605289459229
+    },
+    {
+      "text": "'urbancall@aol.com'; 'dmanning@mcofa.com'; Marion, Pam;",
+      "bbox": [
+        105,
+        602,
+        495,
+        619
+      ],
+      "confidence": 0.9612759947776794
+    },
+    {
+      "text": "'ymontcll@westwayne.com'; 'soshea@mcofa.com'; \"bquick@mcofa.com'; Robertson,",
+      "bbox": [
+        102,
+        618,
+        646,
+        639
+      ],
+      "confidence": 0.9741396903991699
+    },
+    {
+      "text": "Don L.; jsequenzia@mcofa.com'; Singleton, John W.; Smith, Teresa M.; Snow, Pam P.;",
+      "bbox": [
+        102,
+        636,
+        670,
+        657
+      ],
+      "confidence": 0.9696719646453857
+    },
+    {
+      "text": "'wthomason@westwayne.com'; Williard, JoAn M.; Ziesemer, Phil L.; Kcnncdy, Connor",
+      "bbox": [
+        105,
+        658,
+        666,
+        675
+      ],
+      "confidence": 0.983081042766571
+    },
+    {
+      "text": "Subject: SALEM OFFSITE MEETING FOLLOW-UP",
+      "bbox": [
+        106,
+        676,
+        452,
+        694
+      ],
+      "confidence": 0.9926358461380005
+    },
+    {
+      "text": "Picase e-mail to mc your birthday (no ycar, plcase) and a sentence or two about your",
+      "bbox": [
+        105,
+        711,
+        643,
+        729
+      ],
+      "confidence": 0.9677023887634277
+    },
+    {
+      "text": "hobbies, interests, intcresting facts about yourself. Sorry, you'll have to trust me on this",
+      "bbox": [
+        107,
+        732,
+        659,
+        746
+      ],
+      "confidence": 0.9859468936920166
+    },
+    {
+      "text": "one!",
+      "bbox": [
+        104,
+        747,
+        140,
+        770
+      ],
+      "confidence": 0.9965639114379883
+    },
+    {
+      "text": "Gwen",
+      "bbox": [
+        104,
+        784,
+        149,
+        802
+      ],
+      "confidence": 0.9998364448547363
+    },
+    {
+      "text": "JR0000001707040768",
+      "bbox": [
+        0,
+        975,
+        171,
+        998
+      ],
+      "confidence": 0.9998201727867126
+    }
+  ],
+  "full_text": "From: Marion, Pam\nTo: Joyner, Gwen B.\nCC:\nBCC:\nPrimary Date: 7/2/1999 4:39:59 PM\nLast Modified Date: 1999-Jul-02 16:39:59\nLast Touched Date:\nSent Date: 1999-Jul-02 16:39:59\nReceived Date: 1999-Jul-02 16:39:59\nSubject: SALEM OFFSITE MEETING FOLLOW-UP{F}\nAttachments:\nPam Marion\n- Birthday is May 1\n- Hobbies/lnterests - Rollcrblading, Music, Movies - Pets\n- Interesting Facts about myself - Currently working on my MBA, I am a Junior Mint and\nDiet Mountain Dew Freak.\n……Original Message--…\nFrom: Joyner, Gwen B.\nScnt: Friday, July 02, 1999 11:01 AM\nTo: 'marmstrong@mcofa.com'; 'pbartlclt@mcofa.com'; 'sbrangman@mcofa.com';\n'ebritton@kbamarkcting.com'; Brown, Lisa; 'mbuchanan@wcstwaync.com';\n'dcalnon@mcofa.com'; 'ccooke@kbamarketing.com'; Crosswhite, Simone; Dcitclbaum,\nJon (KBA); Deriso, Demetra (LHC); Dillard, Dennis G.; Dubc, Lynn G.;\n'bdzengolewski@wcstwayne.com'; 'agarofalo@westwayne.com';\n'tgood@wcstwayne.com'; 'shagedorn@wcstwaync.com'; Jennings, Cary D.;\n'urbancall@aol.com'; 'dmanning@mcofa.com'; Marion, Pam;\n'ymontcll@westwayne.com'; 'soshea@mcofa.com'; \"bquick@mcofa.com'; Robertson,\nDon L.; jsequenzia@mcofa.com'; Singleton, John W.; Smith, Teresa M.; Snow, Pam P.;\n'wthomason@westwayne.com'; Williard, JoAn M.; Ziesemer, Phil L.; Kcnncdy, Connor\nSubject: SALEM OFFSITE MEETING FOLLOW-UP\nPicase e-mail to mc your birthday (no ycar, plcase) and a sentence or two about your\nhobbies, interests, intcresting facts about yourself. Sorry, you'll have to trust me on this\none!\nGwen\nJR0000001707040768"
+}

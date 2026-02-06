@@ -1,0 +1,271 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0524.png",
+    "image_width": 780,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Canadian",
+      "bbox": [
+        326,
+        187,
+        417,
+        206
+      ],
+      "confidence": 0.9999203681945801
+    },
+    {
+      "text": "Clipping",
+      "bbox": [
+        331,
+        216,
+        413,
+        237
+      ],
+      "confidence": 0.9982438087463379
+    },
+    {
+      "text": "Press",
+      "bbox": [
+        343,
+        203,
+        398,
+        220
+      ],
+      "confidence": 0.9974242448806763
+    },
+    {
+      "text": "Service",
+      "bbox": [
+        335,
+        234,
+        410,
+        252
+      ],
+      "confidence": 0.999308168888092
+    },
+    {
+      "text": "481 UNIVERSITY AVE.",
+      "bbox": [
+        320,
+        257,
+        418,
+        274
+      ],
+      "confidence": 0.9979426860809326
+    },
+    {
+      "text": "TORONTO, M5W 1A7",
+      "bbox": [
+        320,
+        270,
+        419,
+        286
+      ],
+      "confidence": 0.9423298835754395
+    },
+    {
+      "text": "Evening Tribune",
+      "bbox": [
+        278,
+        294,
+        377,
+        311
+      ],
+      "confidence": 0.9796050190925598
+    },
+    {
+      "text": "Welland, Ont.",
+      "bbox": [
+        281,
+        309,
+        371,
+        327
+      ],
+      "confidence": 0.9917138814926147
+    },
+    {
+      "text": "Circ. 18,599",
+      "bbox": [
+        286,
+        326,
+        366,
+        345
+      ],
+      "confidence": 0.9979920983314514
+    },
+    {
+      "text": "CANADIAN PRESS CLIPPING SERVICE",
+      "bbox": [
+        239,
+        350,
+        417,
+        369
+      ],
+      "confidence": 0.9948979020118713
+    },
+    {
+      "text": "February 3, 1982",
+      "bbox": [
+        268,
+        377,
+        379,
+        396
+      ],
+      "confidence": 0.9978720545768738
+    },
+    {
+      "text": "Margaret MacDonatd",
+      "bbox": [
+        238,
+        406,
+        357,
+        421
+      ],
+      "confidence": 0.9757121205329895
+    },
+    {
+      "text": "SMOKING COSTS",
+      "bbox": [
+        270,
+        423,
+        374,
+        444
+      ],
+      "confidence": 0.9638551473617554
+    },
+    {
+      "text": "REGINA (CP) Saskat-",
+      "bbox": [
+        244,
+        437,
+        412,
+        456
+      ],
+      "confidence": 0.8494104146957397
+    },
+    {
+      "text": "chewan Health Minister Her-",
+      "bbox": [
+        236,
+        451,
+        410,
+        466
+      ],
+      "confidence": 0.9540892243385315
+    },
+    {
+      "text": "man Rolfes says an estimated",
+      "bbox": [
+        235,
+        462,
+        410,
+        478
+      ],
+      "confidence": 0.9886093735694885
+    },
+    {
+      "text": "$35.7 million was spent in his",
+      "bbox": [
+        234,
+        475,
+        413,
+        489
+      ],
+      "confidence": 0.9940739870071411
+    },
+    {
+      "text": "province on medical costs for.",
+      "bbox": [
+        234,
+        487,
+        411,
+        501
+      ],
+      "confidence": 0.9772268533706665
+    },
+    {
+      "text": "treatment of disease related to",
+      "bbox": [
+        235,
+        499,
+        410,
+        513
+      ],
+      "confidence": 0.991173505783081
+    },
+    {
+      "text": "smoking during 1981. Rolfes",
+      "bbox": [
+        231,
+        509,
+        409,
+        524
+      ],
+      "confidence": 0.9417404532432556
+    },
+    {
+      "text": "more actively encourage our",
+      "bbox": [
+        231,
+        531,
+        409,
+        546
+      ],
+      "confidence": 0.9866885542869568
+    },
+    {
+      "text": "sald it is evident we must",
+      "bbox": [
+        232,
+        519,
+        409,
+        533
+      ],
+      "confidence": 0.9165222644805908
+    },
+    {
+      "text": "young people not to smoke.\"",
+      "bbox": [
+        231,
+        543,
+        387,
+        557
+      ],
+      "confidence": 0.995613157749176
+    },
+    {
+      "text": "4535",
+      "bbox": [
+        273,
+        871,
+        356,
+        907
+      ],
+      "confidence": 0.9999558925628662
+    },
+    {
+      "text": "00=7-0490",
+      "bbox": [
+        332,
+        921,
+        609,
+        958
+      ],
+      "confidence": 0.95954829454422
+    },
+    {
+      "text": "TIMN 258242",
+      "bbox": [
+        600,
+        956,
+        755,
+        984
+      ],
+      "confidence": 0.9995229840278625
+    }
+  ],
+  "full_text": "Canadian\nClipping\nPress\nService\n481 UNIVERSITY AVE.\nTORONTO, M5W 1A7\nEvening Tribune\nWelland, Ont.\nCirc. 18,599\nCANADIAN PRESS CLIPPING SERVICE\nFebruary 3, 1982\nMargaret MacDonatd\nSMOKING COSTS\nREGINA (CP) Saskat-\nchewan Health Minister Her-\nman Rolfes says an estimated\n$35.7 million was spent in his\nprovince on medical costs for.\ntreatment of disease related to\nsmoking during 1981. Rolfes\nmore actively encourage our\nsald it is evident we must\nyoung people not to smoke.\"\n4535\n00=7-0490\nTIMN 258242"
+}

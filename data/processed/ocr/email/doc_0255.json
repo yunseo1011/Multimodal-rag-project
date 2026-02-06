@@ -1,0 +1,221 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0255.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Ogden, Mike",
+      "bbox": [
+        72,
+        61,
+        209,
+        90
+      ],
+      "confidence": 0.9779322147369385
+    },
+    {
+      "text": "To: Davis, Rilcy",
+      "bbox": [
+        73,
+        82,
+        186,
+        110
+      ],
+      "confidence": 0.9969207644462585
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        75,
+        104,
+        107,
+        124
+      ],
+      "confidence": 0.9988799691200256
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        75,
+        124,
+        118,
+        143
+      ],
+      "confidence": 0.9998458623886108
+    },
+    {
+      "text": "Primary Date: 3/4/199711:44:05 AM",
+      "bbox": [
+        72,
+        140,
+        327,
+        172
+      ],
+      "confidence": 0.9941841959953308
+    },
+    {
+      "text": "Last Modified Date: 2001-Nov-19 16:34:07",
+      "bbox": [
+        73,
+        161,
+        364,
+        188
+      ],
+      "confidence": 0.9974120855331421
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        73,
+        181,
+        211,
+        205
+      ],
+      "confidence": 0.9848306179046631
+    },
+    {
+      "text": "Sent Date: 1997-Mar-04 11:44:05",
+      "bbox": [
+        74,
+        201,
+        297,
+        221
+      ],
+      "confidence": 0.9947835206985474
+    },
+    {
+      "text": "Received Date: 1997-Mar-04 11:44:05",
+      "bbox": [
+        74,
+        219,
+        327,
+        240
+      ],
+      "confidence": 0.992892324924469
+    },
+    {
+      "text": "Subject: 97 Performance Plan-Revised{F}",
+      "bbox": [
+        74,
+        237,
+        350,
+        260
+      ],
+      "confidence": 0.9857127070426941
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        72,
+        273,
+        169,
+        297
+      ],
+      "confidence": 0.9984814524650574
+    },
+    {
+      "text": "Thanks, Riley. I think this version is more succinct and more informative.",
+      "bbox": [
+        73,
+        331,
+        540,
+        356
+      ],
+      "confidence": 0.9882679581642151
+    },
+    {
+      "text": "Mike",
+      "bbox": [
+        72,
+        367,
+        113,
+        390
+      ],
+      "confidence": 0.999901294708252
+    },
+    {
+      "text": "From: Davis, Rilcy",
+      "bbox": [
+        72,
+        405,
+        198,
+        430
+      ],
+      "confidence": 0.9727711081504822
+    },
+    {
+      "text": "To: Ogden, Mike",
+      "bbox": [
+        72,
+        425,
+        187,
+        449
+      ],
+      "confidence": 0.9946256875991821
+    },
+    {
+      "text": "Subject: 97 Performance Plan-Revised",
+      "bbox": [
+        74,
+        445,
+        321,
+        466
+      ],
+      "confidence": 0.9939159750938416
+    },
+    {
+      "text": "Date: Tuesday, March 04, 1997 9:23AM",
+      "bbox": [
+        75,
+        465,
+        333,
+        484
+      ],
+      "confidence": 0.9669855833053589
+    },
+    {
+      "text": "My 1997 Performance Plan has been revised. Plcasc rcvicw and make suggestions.",
+      "bbox": [
+        74,
+        501,
+        598,
+        524
+      ],
+      "confidence": 0.9845170378684998
+    },
+    {
+      "text": "Rilcy",
+      "bbox": [
+        72,
+        536,
+        114,
+        560
+      ],
+      "confidence": 0.9581135511398315
+    },
+    {
+      "text": "<<File Attachmcnt: 97PRFPLN.DOC>>",
+      "bbox": [
+        75,
+        574,
+        333,
+        594
+      ],
+      "confidence": 0.9844260811805725
+    },
+    {
+      "text": "52844 8536",
+      "bbox": [
+        717,
+        862,
+        754,
+        986
+      ],
+      "confidence": 0.9968563318252563
+    }
+  ],
+  "full_text": "From: Ogden, Mike\nTo: Davis, Rilcy\nCC:\nBCC:\nPrimary Date: 3/4/199711:44:05 AM\nLast Modified Date: 2001-Nov-19 16:34:07\nLast Touched Date:\nSent Date: 1997-Mar-04 11:44:05\nReceived Date: 1997-Mar-04 11:44:05\nSubject: 97 Performance Plan-Revised{F}\nAttachments:\nThanks, Riley. I think this version is more succinct and more informative.\nMike\nFrom: Davis, Rilcy\nTo: Ogden, Mike\nSubject: 97 Performance Plan-Revised\nDate: Tuesday, March 04, 1997 9:23AM\nMy 1997 Performance Plan has been revised. Plcasc rcvicw and make suggestions.\nRilcy\n<<File Attachmcnt: 97PRFPLN.DOC>>\n52844 8536"
+}

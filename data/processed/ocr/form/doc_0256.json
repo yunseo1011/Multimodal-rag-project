@@ -1,0 +1,961 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0256.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PHILIP",
+      "bbox": [
+        378,
+        3,
+        468,
+        27
+      ],
+      "confidence": 0.999525785446167
+    },
+    {
+      "text": "MORRIS",
+      "bbox": [
+        485,
+        3,
+        593,
+        27
+      ],
+      "confidence": 0.9997336268424988
+    },
+    {
+      "text": "USA",
+      "bbox": [
+        609,
+        2,
+        669,
+        30
+      ],
+      "confidence": 0.9997714161872864
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        237,
+        35,
+        367,
+        55
+      ],
+      "confidence": 0.9998394846916199
+    },
+    {
+      "text": "RETENTION",
+      "bbox": [
+        393,
+        35,
+        591,
+        56
+      ],
+      "confidence": 0.9996006488800049
+    },
+    {
+      "text": "SCHEDULE",
+      "bbox": [
+        627,
+        35,
+        754,
+        56
+      ],
+      "confidence": 0.9998254776000977
+    },
+    {
+      "text": "MANUFACTURING - PROCESSING PLANTS - BERMUDA HUNDRED",
+      "bbox": [
+        47,
+        64,
+        523,
+        83
+      ],
+      "confidence": 0.9987481832504272
+    },
+    {
+      "text": "PROCESSING PLANT",
+      "bbox": [
+        49,
+        79,
+        207,
+        99
+      ],
+      "confidence": 0.9996654391288757
+    },
+    {
+      "text": "ISSUED",
+      "bbox": [
+        693,
+        77,
+        751,
+        97
+      ],
+      "confidence": 0.9999032616615295
+    },
+    {
+      "text": "RECORD",
+      "bbox": [
+        53,
+        107,
+        127,
+        130
+      ],
+      "confidence": 0.9998963475227356
+    },
+    {
+      "text": "RETENTION PERIOD",
+      "bbox": [
+        589,
+        110,
+        743,
+        129
+      ],
+      "confidence": 0.9992824792861938
+    },
+    {
+      "text": "CATEGORY",
+      "bbox": [
+        55,
+        126,
+        147,
+        145
+      ],
+      "confidence": 0.9997658133506775
+    },
+    {
+      "text": "RECORD CATEGORY",
+      "bbox": [
+        232,
+        125,
+        393,
+        147
+      ],
+      "confidence": 0.9994181394577026
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        56,
+        141,
+        105,
+        159
+      ],
+      "confidence": 0.9994654655456543
+    },
+    {
+      "text": "IN DEPT.",
+      "bbox": [
+        493,
+        140,
+        565,
+        158
+      ],
+      "confidence": 0.9992660284042358
+    },
+    {
+      "text": "IN STORAGE",
+      "bbox": [
+        616,
+        141,
+        710,
+        159
+      ],
+      "confidence": 0.9836791753768921
+    },
+    {
+      "text": "c",
+      "bbox": [
+        488,
+        171,
+        502,
+        187
+      ],
+      "confidence": 0.973689079284668
+    },
+    {
+      "text": "+ 2",
+      "bbox": [
+        512,
+        170,
+        547,
+        188
+      ],
+      "confidence": 0.9598670601844788
+    },
+    {
+      "text": "A0556",
+      "bbox": [
+        78,
+        173,
+        131,
+        190
+      ],
+      "confidence": 0.9998091459274292
+    },
+    {
+      "text": "ACCIDENT REPORTS",
+      "bbox": [
+        172,
+        173,
+        323,
+        193
+      ],
+      "confidence": 0.9917593002319336
+    },
+    {
+      "text": "(ACT)",
+      "bbox": [
+        326,
+        201,
+        372,
+        222
+      ],
+      "confidence": 0.9977300763130188
+    },
+    {
+      "text": "c",
+      "bbox": [
+        487,
+        201,
+        501,
+        218
+      ],
+      "confidence": 0.9772363901138306
+    },
+    {
+      "text": "+ 1",
+      "bbox": [
+        511,
+        199,
+        547,
+        219
+      ],
+      "confidence": 0.8277114033699036
+    },
+    {
+      "text": "A0557",
+      "bbox": [
+        77,
+        204,
+        130,
+        221
+      ],
+      "confidence": 0.9998677968978882
+    },
+    {
+      "text": "ACTION",
+      "bbox": [
+        172,
+        205,
+        239,
+        222
+      ],
+      "confidence": 0.9995224475860596
+    },
+    {
+      "text": "COST TEAM",
+      "bbox": [
+        231,
+        203,
+        326,
+        221
+      ],
+      "confidence": 0.9993218183517456
+    },
+    {
+      "text": "AFFIRMATIVE ACTION",
+      "bbox": [
+        170,
+        232,
+        340,
+        251
+      ],
+      "confidence": 0.9995998740196228
+    },
+    {
+      "text": "c",
+      "bbox": [
+        487,
+        232,
+        500,
+        247
+      ],
+      "confidence": 0.9837216734886169
+    },
+    {
+      "text": "+ 2",
+      "bbox": [
+        511,
+        230,
+        546,
+        248
+      ],
+      "confidence": 0.9699814915657043
+    },
+    {
+      "text": "A0558",
+      "bbox": [
+        78,
+        234,
+        131,
+        250
+      ],
+      "confidence": 0.9999181032180786
+    },
+    {
+      "text": "ASSOCIATIONS AND MEMBERSHIPS",
+      "bbox": [
+        171,
+        261,
+        427,
+        280
+      ],
+      "confidence": 0.9937242269515991
+    },
+    {
+      "text": "c",
+      "bbox": [
+        487,
+        261,
+        500,
+        279
+      ],
+      "confidence": 0.9676834940910339
+    },
+    {
+      "text": "A0559",
+      "bbox": [
+        78,
+        263,
+        130,
+        281
+      ],
+      "confidence": 0.9999083280563354
+    },
+    {
+      "text": "c",
+      "bbox": [
+        487,
+        292,
+        501,
+        308
+      ],
+      "confidence": 0.9861964583396912
+    },
+    {
+      "text": "+ 2",
+      "bbox": [
+        511,
+        292,
+        547,
+        309
+      ],
+      "confidence": 0.9732115864753723
+    },
+    {
+      "text": "A0560",
+      "bbox": [
+        79,
+        295,
+        130,
+        310
+      ],
+      "confidence": 0.9997035264968872
+    },
+    {
+      "text": "ATTENDANCE",
+      "bbox": [
+        171,
+        294,
+        266,
+        310
+      ],
+      "confidence": 0.9998974800109863
+    },
+    {
+      "text": "TER",
+      "bbox": [
+        485,
+        320,
+        519,
+        340
+      ],
+      "confidence": 0.9998719692230225
+    },
+    {
+      "text": "5",
+      "bbox": [
+        633,
+        321,
+        650,
+        340
+      ],
+      "confidence": 0.9999140501022339
+    },
+    {
+      "text": "A0561",
+      "bbox": [
+        77,
+        323,
+        130,
+        341
+      ],
+      "confidence": 0.9998285174369812
+    },
+    {
+      "text": "AUDIO-VIDEO TAPES/FILES",
+      "bbox": [
+        171,
+        323,
+        381,
+        340
+      ],
+      "confidence": 0.9996455907821655
+    },
+    {
+      "text": "B0492",
+      "bbox": [
+        77,
+        352,
+        130,
+        370
+      ],
+      "confidence": 0.9998003244400024
+    },
+    {
+      "text": "BEETLE/BUG REPORTS",
+      "bbox": [
+        170,
+        351,
+        337,
+        370
+      ],
+      "confidence": 0.9998200535774231
+    },
+    {
+      "text": "c",
+      "bbox": [
+        486,
+        352,
+        500,
+        368
+      ],
+      "confidence": 0.9653499126434326
+    },
+    {
+      "text": "+ 1",
+      "bbox": [
+        509,
+        351,
+        546,
+        370
+      ],
+      "confidence": 0.9749841690063477
+    },
+    {
+      "text": "BENEFITS",
+      "bbox": [
+        171,
+        382,
+        247,
+        399
+      ],
+      "confidence": 0.9998489618301392
+    },
+    {
+      "text": "+ 1",
+      "bbox": [
+        508,
+        381,
+        546,
+        399
+      ],
+      "confidence": 0.9607892036437988
+    },
+    {
+      "text": "B0493",
+      "bbox": [
+        78,
+        383,
+        130,
+        401
+      ],
+      "confidence": 0.9988225698471069
+    },
+    {
+      "text": "c",
+      "bbox": [
+        486,
+        383,
+        500,
+        397
+      ],
+      "confidence": 0.9988646507263184
+    },
+    {
+      "text": "B0494",
+      "bbox": [
+        76,
+        410,
+        130,
+        431
+      ],
+      "confidence": 0.999651312828064
+    },
+    {
+      "text": "TER+ 1",
+      "bbox": [
+        484,
+        410,
+        545,
+        428
+      ],
+      "confidence": 0.9896231293678284
+    },
+    {
+      "text": "5",
+      "bbox": [
+        632,
+        411,
+        646,
+        428
+      ],
+      "confidence": 0.9999679327011108
+    },
+    {
+      "text": "BLUEPRINTS/DRAWINGS",
+      "bbox": [
+        172,
+        413,
+        345,
+        427
+      ],
+      "confidence": 0.9999009966850281
+    },
+    {
+      "text": "B0495",
+      "bbox": [
+        76,
+        440,
+        130,
+        460
+      ],
+      "confidence": 0.9996150135993958
+    },
+    {
+      "text": "BRAND AND",
+      "bbox": [
+        172,
+        442,
+        258,
+        456
+      ],
+      "confidence": 0.9996672868728638
+    },
+    {
+      "text": "CIGARETTE INFORMATION",
+      "bbox": [
+        262,
+        442,
+        453,
+        456
+      ],
+      "confidence": 0.9981859922409058
+    },
+    {
+      "text": "c",
+      "bbox": [
+        485,
+        441,
+        500,
+        456
+      ],
+      "confidence": 0.994549572467804
+    },
+    {
+      "text": "+ 1",
+      "bbox": [
+        508,
+        440,
+        545,
+        458
+      ],
+      "confidence": 0.9025328159332275
+    },
+    {
+      "text": "3",
+      "bbox": [
+        630,
+        440,
+        646,
+        459
+      ],
+      "confidence": 0.9998021721839905
+    },
+    {
+      "text": "B0496",
+      "bbox": [
+        78,
+        470,
+        130,
+        488
+      ],
+      "confidence": 0.9987034797668457
+    },
+    {
+      "text": "BUDGETS",
+      "bbox": [
+        170,
+        469,
+        238,
+        486
+      ],
+      "confidence": 0.9999107122421265
+    },
+    {
+      "text": "c",
+      "bbox": [
+        485,
+        470,
+        499,
+        486
+      ],
+      "confidence": 0.98799729347229
+    },
+    {
+      "text": "+ 2",
+      "bbox": [
+        507,
+        469,
+        544,
+        488
+      ],
+      "confidence": 0.9729308485984802
+    },
+    {
+      "text": "2",
+      "bbox": [
+        630,
+        470,
+        644,
+        487
+      ],
+      "confidence": 0.9999464750289917
+    },
+    {
+      "text": "c",
+      "bbox": [
+        753,
+        469,
+        754,
+        487
+      ],
+      "confidence": 0.9528241753578186
+    },
+    {
+      "text": "B0497",
+      "bbox": [
+        77,
+        498,
+        130,
+        519
+      ],
+      "confidence": 0.9995282888412476
+    },
+    {
+      "text": "BUILDINGS AND GROUNDS",
+      "bbox": [
+        172,
+        500,
+        363,
+        516
+      ],
+      "confidence": 0.9975676536560059
+    },
+    {
+      "text": "c",
+      "bbox": [
+        485,
+        501,
+        499,
+        516
+      ],
+      "confidence": 0.9621933102607727
+    },
+    {
+      "text": "+ 1",
+      "bbox": [
+        508,
+        500,
+        544,
+        517
+      ],
+      "confidence": 0.9149494171142578
+    },
+    {
+      "text": "c",
+      "bbox": [
+        753,
+        500,
+        754,
+        515
+      ],
+      "confidence": 0.918474018573761
+    },
+    {
+      "text": "B0498",
+      "bbox": [
+        80,
+        529,
+        130,
+        547
+      ],
+      "confidence": 0.9998792409896851
+    },
+    {
+      "text": "BULLETINS/POSTINGS/NOTICES",
+      "bbox": [
+        172,
+        531,
+        406,
+        545
+      ],
+      "confidence": 0.9998804926872253
+    },
+    {
+      "text": "c",
+      "bbox": [
+        483,
+        528,
+        500,
+        546
+      ],
+      "confidence": 0.99806147813797
+    },
+    {
+      "text": "+ 2",
+      "bbox": [
+        507,
+        528,
+        543,
+        547
+      ],
+      "confidence": 0.8720858693122864
+    },
+    {
+      "text": "REVISED DATE",
+      "bbox": [
+        65,
+        559,
+        174,
+        575
+      ],
+      "confidence": 0.9996583461761475
+    },
+    {
+      "text": "DEPT, CODE",
+      "bbox": [
+        477,
+        559,
+        572,
+        575
+      ],
+      "confidence": 0.9546290636062622
+    },
+    {
+      "text": "04MFP370",
+      "bbox": [
+        603,
+        558,
+        676,
+        575
+      ],
+      "confidence": 0.9996160268783569
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        727,
+        560,
+        754,
+        577
+      ],
+      "confidence": 0.9998127222061157
+    },
+    {
+      "text": "KEY TO RETENTIONS",
+      "bbox": [
+        54,
+        601,
+        185,
+        615
+      ],
+      "confidence": 0.9954849481582642
+    },
+    {
+      "text": "AUTHORIZATION:",
+      "bbox": [
+        269,
+        598,
+        407,
+        620
+      ],
+      "confidence": 0.9998669624328613
+    },
+    {
+      "text": "Department Head:",
+      "bbox": [
+        420,
+        599,
+        548,
+        622
+      ],
+      "confidence": 0.9996769428253174
+    },
+    {
+      "text": "ACT = While Active",
+      "bbox": [
+        63,
+        616,
+        188,
+        631
+      ],
+      "confidence": 0.9733800888061523
+    },
+    {
+      "text": "M = Current Month",
+      "bbox": [
+        76,
+        630,
+        202,
+        647
+      ],
+      "confidence": 0.9551804661750793
+    },
+    {
+      "text": "Responsible Records",
+      "bbox": [
+        422,
+        629,
+        561,
+        649
+      ],
+      "confidence": 0.9998834729194641
+    },
+    {
+      "text": "2.m.Ratt",
+      "bbox": [
+        574,
+        629,
+        712,
+        667
+      ],
+      "confidence": 0.6826653480529785
+    },
+    {
+      "text": "C = Current Year",
+      "bbox": [
+        77,
+        645,
+        192,
+        662
+      ],
+      "confidence": 0.9693350791931152
+    },
+    {
+      "text": "2074741764",
+      "bbox": [
+        260,
+        646,
+        362,
+        666
+      ],
+      "confidence": 0.9999793171882629
+    },
+    {
+      "text": "Management Group:",
+      "bbox": [
+        421,
+        645,
+        561,
+        668
+      ],
+      "confidence": 0.9982771873474121
+    },
+    {
+      "text": "P = Permanently",
+      "bbox": [
+        75,
+        659,
+        191,
+        678
+      ],
+      "confidence": 0.9664947390556335
+    },
+    {
+      "text": "SUP = Until Superseded",
+      "bbox": [
+        59,
+        674,
+        217,
+        692
+      ],
+      "confidence": 0.9800994396209717
+    },
+    {
+      "text": "Athug.",
+      "bbox": [
+        534,
+        669,
+        754,
+        712
+      ],
+      "confidence": 0.723073422908783
+    },
+    {
+      "text": "TER = Until Terminated",
+      "bbox": [
+        62,
+        691,
+        211,
+        705
+      ],
+      "confidence": 0.9770276546478271
+    },
+    {
+      "text": "Legal Counsel:",
+      "bbox": [
+        421,
+        690,
+        523,
+        710
+      ],
+      "confidence": 0.9689021110534668
+    },
+    {
+      "text": "[ Retention In years unless otherwise noted ]",
+      "bbox": [
+        222,
+        705,
+        423,
+        725
+      ],
+      "confidence": 0.9545206427574158
+    },
+    {
+      "text": "HUNTON & WILLIAMS",
+      "bbox": [
+        562,
+        716,
+        705,
+        737
+      ],
+      "confidence": 0.9960838556289673
+    }
+  ],
+  "full_text": "PHILIP\nMORRIS\nUSA\nRECORDS\nRETENTION\nSCHEDULE\nMANUFACTURING - PROCESSING PLANTS - BERMUDA HUNDRED\nPROCESSING PLANT\nISSUED\nRECORD\nRETENTION PERIOD\nCATEGORY\nRECORD CATEGORY\nCODE\nIN DEPT.\nIN STORAGE\nc\n+ 2\nA0556\nACCIDENT REPORTS\n(ACT)\nc\n+ 1\nA0557\nACTION\nCOST TEAM\nAFFIRMATIVE ACTION\nc\n+ 2\nA0558\nASSOCIATIONS AND MEMBERSHIPS\nc\nA0559\nc\n+ 2\nA0560\nATTENDANCE\nTER\n5\nA0561\nAUDIO-VIDEO TAPES/FILES\nB0492\nBEETLE/BUG REPORTS\nc\n+ 1\nBENEFITS\n+ 1\nB0493\nc\nB0494\nTER+ 1\n5\nBLUEPRINTS/DRAWINGS\nB0495\nBRAND AND\nCIGARETTE INFORMATION\nc\n+ 1\n3\nB0496\nBUDGETS\nc\n+ 2\n2\nc\nB0497\nBUILDINGS AND GROUNDS\nc\n+ 1\nc\nB0498\nBULLETINS/POSTINGS/NOTICES\nc\n+ 2\nREVISED DATE\nDEPT, CODE\n04MFP370\nSHEET\nKEY TO RETENTIONS\nAUTHORIZATION:\nDepartment Head:\nACT = While Active\nM = Current Month\nResponsible Records\n2.m.Ratt\nC = Current Year\n2074741764\nManagement Group:\nP = Permanently\nSUP = Until Superseded\nAthug.\nTER = Until Terminated\nLegal Counsel:\n[ Retention In years unless otherwise noted ]\nHUNTON & WILLIAMS"
+}

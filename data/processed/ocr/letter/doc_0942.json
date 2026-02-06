@@ -1,0 +1,171 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0942.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Vestal, James E.",
+      "bbox": [
+        53,
+        76,
+        175,
+        101
+      ],
+      "confidence": 0.9960203170776367
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        54,
+        94,
+        99,
+        115
+      ],
+      "confidence": 0.9973675012588501
+    },
+    {
+      "text": "Fulton, Chad",
+      "bbox": [
+        124,
+        96,
+        203,
+        117
+      ],
+      "confidence": 0.9991682171821594
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        54,
+        111,
+        93,
+        129
+      ],
+      "confidence": 0.9879378080368042
+    },
+    {
+      "text": "Wednesday, February 23, 2000 3:59 PM",
+      "bbox": [
+        123,
+        111,
+        362,
+        136
+      ],
+      "confidence": 0.9839847087860107
+    },
+    {
+      "text": "31-054",
+      "bbox": [
+        504,
+        112,
+        599,
+        142
+      ],
+      "confidence": 0.6489159464836121
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        53,
+        126,
+        82,
+        145
+      ],
+      "confidence": 0.9982393383979797
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        51,
+        141,
+        111,
+        164
+      ],
+      "confidence": 0.993524432182312
+    },
+    {
+      "text": "Vestal, James E.",
+      "bbox": [
+        124,
+        128,
+        225,
+        148
+      ],
+      "confidence": 0.988834023475647
+    },
+    {
+      "text": "QA Case Update for LINDA LEGG",
+      "bbox": [
+        123,
+        145,
+        326,
+        165
+      ],
+      "confidence": 0.9906027317047119
+    },
+    {
+      "text": "Contact: 932132040",
+      "bbox": [
+        52,
+        173,
+        180,
+        194
+      ],
+      "confidence": 0.9984912872314453
+    },
+    {
+      "text": "Case: 1",
+      "bbox": [
+        180,
+        176,
+        238,
+        197
+      ],
+      "confidence": 0.9984655380249023
+    },
+    {
+      "text": "Pid: 172912921",
+      "bbox": [
+        51,
+        204,
+        165,
+        225
+      ],
+      "confidence": 0.9870728850364685
+    },
+    {
+      "text": "Name: LINDA LEGG",
+      "bbox": [
+        157,
+        209,
+        284,
+        226
+      ],
+      "confidence": 0.9989738464355469
+    },
+    {
+      "text": "QA CaSe StatUS : CR RECEIVED/SENT TO QA",
+      "bbox": [
+        50,
+        236,
+        332,
+        257
+      ],
+      "confidence": 0.9594252109527588
+    },
+    {
+      "text": "52320 7274",
+      "bbox": [
+        666,
+        861,
+        690,
+        956
+      ],
+      "confidence": 0.9663885235786438
+    }
+  ],
+  "full_text": "Vestal, James E.\nFrom:\nFulton, Chad\nSent:\nWednesday, February 23, 2000 3:59 PM\n31-054\nTo:\nSubject:\nVestal, James E.\nQA Case Update for LINDA LEGG\nContact: 932132040\nCase: 1\nPid: 172912921\nName: LINDA LEGG\nQA CaSe StatUS : CR RECEIVED/SENT TO QA\n52320 7274"
+}

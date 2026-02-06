@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0653.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "SURGeoN GenerAl'S WarninG: Smoking",
+      "bbox": [
+        78,
+        769,
+        356,
+        792
+      ],
+      "confidence": 0.796694278717041
+    },
+    {
+      "text": "Causes Lung Cancer, Heart",
+      "bbox": [
+        78,
+        785,
+        294,
+        813
+      ],
+      "confidence": 0.981964111328125
+    },
+    {
+      "text": "16 mg2ac",
+      "bbox": [
+        396,
+        786,
+        449,
+        800
+      ],
+      "confidence": 0.8151280879974365
+    },
+    {
+      "text": "Disease,",
+      "bbox": [
+        286,
+        789,
+        358,
+        810
+      ],
+      "confidence": 0.978232741355896
+    },
+    {
+      "text": "11 mg",
+      "bbox": [
+        397,
+        799,
+        424,
+        809
+      ],
+      "confidence": 0.9254050254821777
+    },
+    {
+      "text": "ncotin",
+      "bbox": [
+        420,
+        799,
+        454,
+        809
+      ],
+      "confidence": 0.6654872298240662
+    },
+    {
+      "text": "Emphysema, And May Complicate",
+      "bbox": [
+        80,
+        804,
+        292,
+        826
+      ],
+      "confidence": 0.9940037131309509
+    },
+    {
+      "text": "Pregnancy.",
+      "bbox": [
+        286,
+        807,
+        356,
+        826
+      ],
+      "confidence": 0.9983636736869812
+    },
+    {
+      "text": "cicareme",
+      "bbox": [
+        424,
+        811,
+        458,
+        822
+      ],
+      "confidence": 0.7095353007316589
+    }
+  ],
+  "full_text": "SURGeoN GenerAl'S WarninG: Smoking\nCauses Lung Cancer, Heart\n16 mg2ac\nDisease,\n11 mg\nncotin\nEmphysema, And May Complicate\nPregnancy.\ncicareme"
+}

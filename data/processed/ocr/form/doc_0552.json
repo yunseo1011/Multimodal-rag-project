@@ -1,0 +1,721 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0552.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "ECEIVE",
+      "bbox": [
+        477,
+        8,
+        591,
+        40
+      ],
+      "confidence": 0.9876200556755066
+    },
+    {
+      "text": "SHOW THIS ORDER NO.",
+      "bbox": [
+        627,
+        18,
+        708,
+        28
+      ],
+      "confidence": 0.9641258716583252
+    },
+    {
+      "text": "ON YOUR INVOICE",
+      "bbox": [
+        637,
+        26,
+        699,
+        33
+      ],
+      "confidence": 0.9805288314819336
+    },
+    {
+      "text": "PURCHASE ORDER",
+      "bbox": [
+        25,
+        46,
+        132,
+        63
+      ],
+      "confidence": 0.9706149697303772
+    },
+    {
+      "text": "34383",
+      "bbox": [
+        622,
+        50,
+        668,
+        66
+      ],
+      "confidence": 0.9996764063835144
+    },
+    {
+      "text": "UCT - 7 1993",
+      "bbox": [
+        490,
+        53,
+        579,
+        77
+      ],
+      "confidence": 0.8223981857299805
+    },
+    {
+      "text": "PHILIP MORRIS",
+      "bbox": [
+        295,
+        86,
+        467,
+        110
+      ],
+      "confidence": 0.9942775368690491
+    },
+    {
+      "text": "R.AGARCHMAN",
+      "bbox": [
+        467,
+        97,
+        608,
+        125
+      ],
+      "confidence": 0.8496442437171936
+    },
+    {
+      "text": "U.S.A.",
+      "bbox": [
+        366,
+        111,
+        398,
+        125
+      ],
+      "confidence": 0.9798117280006409
+    },
+    {
+      "text": "boor",
+      "bbox": [
+        622,
+        112,
+        640,
+        120
+      ],
+      "confidence": 0.8145855665206909
+    },
+    {
+      "text": "P.O. BOX 26603, RICHMOND, VIRGINIA 23261",
+      "bbox": [
+        285,
+        126,
+        476,
+        141
+      ],
+      "confidence": 0.9894402623176575
+    },
+    {
+      "text": "PG NO.",
+      "bbox": [
+        627,
+        125,
+        681,
+        142
+      ],
+      "confidence": 0.9934117197990417
+    },
+    {
+      "text": "1",
+      "bbox": [
+        721,
+        127,
+        735,
+        142
+      ],
+      "confidence": 0.9998892545700073
+    },
+    {
+      "text": "LAST PAGE",
+      "bbox": [
+        627,
+        142,
+        707,
+        156
+      ],
+      "confidence": 0.9890158176422119
+    },
+    {
+      "text": "CF113",
+      "bbox": [
+        53,
+        148,
+        103,
+        166
+      ],
+      "confidence": 0.9403034448623657
+    },
+    {
+      "text": "421",
+      "bbox": [
+        419,
+        152,
+        449,
+        167
+      ],
+      "confidence": 0.9994444847106934
+    },
+    {
+      "text": "CENTER FOR INDOOR AIR RESEARCH",
+      "bbox": [
+        49,
+        163,
+        330,
+        181
+      ],
+      "confidence": 0.9961375594139099
+    },
+    {
+      "text": "PHILIP MORRIS USA",
+      "bbox": [
+        416,
+        165,
+        572,
+        187
+      ],
+      "confidence": 0.9938365817070007
+    },
+    {
+      "text": "7",
+      "bbox": [
+        717,
+        167,
+        737,
+        186
+      ],
+      "confidence": 0.8861371278762817
+    },
+    {
+      "text": "1099 WINTERSON ROAD",
+      "bbox": [
+        54,
+        178,
+        231,
+        199
+      ],
+      "confidence": 0.9916540384292603
+    },
+    {
+      "text": "RESEARCH & DEVELGPMENT",
+      "bbox": [
+        419,
+        180,
+        613,
+        202
+      ],
+      "confidence": 0.980608344078064
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        21,
+        188,
+        42,
+        204
+      ],
+      "confidence": 0.9974461793899536
+    },
+    {
+      "text": "SUITE 280",
+      "bbox": [
+        51,
+        193,
+        141,
+        214
+      ],
+      "confidence": 0.8675733208656311
+    },
+    {
+      "text": "SHIP",
+      "bbox": [
+        375,
+        189,
+        406,
+        204
+      ],
+      "confidence": 0.9996610879898071
+    },
+    {
+      "text": "4201 COHMEPCE RO, GATE C DR 17",
+      "bbox": [
+        418,
+        196,
+        682,
+        219
+      ],
+      "confidence": 0.9405304193496704
+    },
+    {
+      "text": "LINTHICUM, MAKYLAND",
+      "bbox": [
+        52,
+        210,
+        229,
+        228
+      ],
+      "confidence": 0.9540453553199768
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        380,
+        204,
+        404,
+        219
+      ],
+      "confidence": 0.996769905090332
+    },
+    {
+      "text": "RICHMOND, VA",
+      "bbox": [
+        420,
+        212,
+        526,
+        232
+      ],
+      "confidence": 0.9865338802337646
+    },
+    {
+      "text": "21090",
+      "bbox": [
+        297,
+        227,
+        345,
+        242
+      ],
+      "confidence": 0.9997955560684204
+    },
+    {
+      "text": "ATTN: RICHARO CARCHMAN",
+      "bbox": [
+        415,
+        226,
+        613,
+        248
+      ],
+      "confidence": 0.9644671082496643
+    },
+    {
+      "text": "23234",
+      "bbox": [
+        653,
+        232,
+        699,
+        247
+      ],
+      "confidence": 0.9998537302017212
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        37,
+        242,
+        70,
+        259
+      ],
+      "confidence": 0.9515784978866577
+    },
+    {
+      "text": "TERMS",
+      "bbox": [
+        142,
+        246,
+        179,
+        260
+      ],
+      "confidence": 0.9996783137321472
+    },
+    {
+      "text": "F.O.B.",
+      "bbox": [
+        291,
+        245,
+        324,
+        259
+      ],
+      "confidence": 0.9643325209617615
+    },
+    {
+      "text": "FREIGHT TERMS",
+      "bbox": [
+        447,
+        247,
+        524,
+        264
+      ],
+      "confidence": 0.9990991950035095
+    },
+    {
+      "text": "ROUTE VIA",
+      "bbox": [
+        635,
+        250,
+        686,
+        264
+      ],
+      "confidence": 0.9909764528274536
+    },
+    {
+      "text": "10/06/93",
+      "bbox": [
+        24,
+        269,
+        102,
+        286
+      ],
+      "confidence": 0.999462902545929
+    },
+    {
+      "text": "NET 30",
+      "bbox": [
+        107,
+        273,
+        165,
+        287
+      ],
+      "confidence": 0.9544112682342529
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        232,
+        270,
+        268,
+        288
+      ],
+      "confidence": 0.9824375510215759
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        407,
+        271,
+        444,
+        293
+      ],
+      "confidence": 0.9989964365959167
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        572,
+        275,
+        607,
+        293
+      ],
+      "confidence": 0.9963809847831726
+    },
+    {
+      "text": "Please retum acknowledgment immediately, advising shipping date. Sign acknowledgment before retuming.",
+      "bbox": [
+        35,
+        291,
+        467,
+        312
+      ],
+      "confidence": 0.9774354696273804
+    },
+    {
+      "text": "Invoices must be mailed with original bll of lading or transportation receipt if aplicablo, to P.O. Bax 266os, Richmond, VA 23261.",
+      "bbox": [
+        33,
+        305,
+        554,
+        326
+      ],
+      "confidence": 0.9245072603225708
+    },
+    {
+      "text": "Purchase order number must appear on al invoices, bils of lading, cases, packing lists and correspondence.",
+      "bbox": [
+        33,
+        334,
+        473,
+        352
+      ],
+      "confidence": 0.8852845430374146
+    },
+    {
+      "text": "5. This purchase order is exempt from the Va. State Sales Tax under exemption No. 216-02s456-4 unless othenwise specified.",
+      "bbox": [
+        34,
+        348,
+        528,
+        366
+      ],
+      "confidence": 0.9827809929847717
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        666,
+        367,
+        703,
+        384
+      ],
+      "confidence": 0.9992368817329407
+    },
+    {
+      "text": "LINE ITEM",
+      "bbox": [
+        1,
+        370,
+        62,
+        384
+      ],
+      "confidence": 0.9926376342773438
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": [
+        167,
+        370,
+        223,
+        384
+      ],
+      "confidence": 0.9997353553771973
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        347,
+        372,
+        416,
+        383
+      ],
+      "confidence": 0.9941501021385193
+    },
+    {
+      "text": "UNIT PRICE",
+      "bbox": [
+        489,
+        371,
+        549,
+        385
+      ],
+      "confidence": 0.9916583299636841
+    },
+    {
+      "text": "THIS IS A CONFIRMING ORDER",
+      "bbox": [
+        254,
+        394,
+        486,
+        412
+      ],
+      "confidence": 0.9827826023101807
+    },
+    {
+      "text": "LOT",
+      "bbox": [
+        235,
+        425,
+        267,
+        441
+      ],
+      "confidence": 0.9972124099731445
+    },
+    {
+      "text": "CONDUCT LIFE STYLE/CONFOUNDERS",
+      "bbox": [
+        278,
+        424,
+        545,
+        444
+      ],
+      "confidence": 0.9958215951919556
+    },
+    {
+      "text": "1",
+      "bbox": [
+        156,
+        428,
+        165,
+        441
+      ],
+      "confidence": 0.9991497993469238
+    },
+    {
+      "text": "STUDY.",
+      "bbox": [
+        279,
+        442,
+        337,
+        456
+      ],
+      "confidence": 0.9973316192626953
+    },
+    {
+      "text": "$750,000.00",
+      "bbox": [
+        419,
+        456,
+        520,
+        473
+      ],
+      "confidence": 0.9976312518119812
+    },
+    {
+      "text": "LOT .",
+      "bbox": [
+        558,
+        457,
+        605,
+        472
+      ],
+      "confidence": 0.9183839559555054
+    },
+    {
+      "text": "$750,000.00",
+      "bbox": [
+        617,
+        452,
+        722,
+        472
+      ],
+      "confidence": 0.9860548377037048
+    },
+    {
+      "text": "ORDER TOTAL",
+      "bbox": [
+        481,
+        531,
+        582,
+        548
+      ],
+      "confidence": 0.9687950611114502
+    },
+    {
+      "text": "$750,000.00",
+      "bbox": [
+        622,
+        530,
+        723,
+        547
+      ],
+      "confidence": 0.9963935613632202
+    },
+    {
+      "text": "2023053227",
+      "bbox": [
+        722,
+        731,
+        756,
+        893
+      ],
+      "confidence": 0.9997423887252808
+    },
+    {
+      "text": "TAX EXEMPT",
+      "bbox": [
+        33,
+        896,
+        124,
+        909
+      ],
+      "confidence": 0.9758055806159973
+    },
+    {
+      "text": "END",
+      "bbox": [
+        282,
+        897,
+        314,
+        911
+      ],
+      "confidence": 0.9896945953369141
+    },
+    {
+      "text": "ACCOUNT",
+      "bbox": [
+        33,
+        909,
+        98,
+        926
+      ],
+      "confidence": 0.9964742064476013
+    },
+    {
+      "text": "PHILIP MORRIS U.S.A.",
+      "bbox": [
+        506,
+        908,
+        628,
+        924
+      ],
+      "confidence": 0.9854649305343628
+    },
+    {
+      "text": "520-010-900-12",
+      "bbox": [
+        35,
+        925,
+        163,
+        939
+      ],
+      "confidence": 0.9429023861885071
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        507,
+        936,
+        525,
+        949
+      ],
+      "confidence": 0.9986019134521484
+    },
+    {
+      "text": "CARCKMAN, R",
+      "bbox": [
+        37,
+        954,
+        140,
+        968
+      ],
+      "confidence": 0.9095876812934875
+    },
+    {
+      "text": "PFO 4",
+      "bbox": [
+        75,
+        970,
+        119,
+        981
+      ],
+      "confidence": 0.6703048944473267
+    },
+    {
+      "text": "S.A.",
+      "bbox": [
+        510,
+        971,
+        563,
+        985
+      ],
+      "confidence": 0.850112795829773
+    },
+    {
+      "text": "SHAPP",
+      "bbox": [
+        562,
+        972,
+        612,
+        986
+      ],
+      "confidence": 0.877646803855896
+    }
+  ],
+  "full_text": "ECEIVE\nSHOW THIS ORDER NO.\nON YOUR INVOICE\nPURCHASE ORDER\n34383\nUCT - 7 1993\nPHILIP MORRIS\nR.AGARCHMAN\nU.S.A.\nboor\nP.O. BOX 26603, RICHMOND, VIRGINIA 23261\nPG NO.\n1\nLAST PAGE\nCF113\n421\nCENTER FOR INDOOR AIR RESEARCH\nPHILIP MORRIS USA\n7\n1099 WINTERSON ROAD\nRESEARCH & DEVELGPMENT\nTO\nSUITE 280\nSHIP\n4201 COHMEPCE RO, GATE C DR 17\nLINTHICUM, MAKYLAND\nTO\nRICHMOND, VA\n21090\nATTN: RICHARO CARCHMAN\n23234\nDATE\nTERMS\nF.O.B.\nFREIGHT TERMS\nROUTE VIA\n10/06/93\nNET 30\nN/A\nN/A\nN/A\nPlease retum acknowledgment immediately, advising shipping date. Sign acknowledgment before retuming.\nInvoices must be mailed with original bll of lading or transportation receipt if aplicablo, to P.O. Bax 266os, Richmond, VA 23261.\nPurchase order number must appear on al invoices, bils of lading, cases, packing lists and correspondence.\n5. This purchase order is exempt from the Va. State Sales Tax under exemption No. 216-02s456-4 unless othenwise specified.\nTOTAL\nLINE ITEM\nQUANTITY\nDESCRIPTION\nUNIT PRICE\nTHIS IS A CONFIRMING ORDER\nLOT\nCONDUCT LIFE STYLE/CONFOUNDERS\n1\nSTUDY.\n$750,000.00\nLOT .\n$750,000.00\nORDER TOTAL\n$750,000.00\n2023053227\nTAX EXEMPT\nEND\nACCOUNT\nPHILIP MORRIS U.S.A.\n520-010-900-12\nBY\nCARCKMAN, R\nPFO 4\nS.A.\nSHAPP"
+}

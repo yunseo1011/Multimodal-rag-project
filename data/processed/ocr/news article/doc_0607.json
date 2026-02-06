@@ -1,0 +1,301 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0607.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Asiana Airlines of South Korea has restricted",
+      "bbox": [
+        61,
+        10,
+        467,
+        34
+      ],
+      "confidence": 0.9912189245223999
+    },
+    {
+      "text": "not allowed to smoke on services of less than",
+      "bbox": [
+        52,
+        37,
+        458,
+        63
+      ],
+      "confidence": 0.9502649903297424
+    },
+    {
+      "text": "smoking on its services further. Passengers are",
+      "bbox": [
+        53,
+        25,
+        477,
+        48
+      ],
+      "confidence": 0.9720340371131897
+    },
+    {
+      "text": "6.5 hours as of January 1994.",
+      "bbox": [
+        54,
+        52,
+        313,
+        74
+      ],
+      "confidence": 0.9536742568016052
+    },
+    {
+      "text": "This ban impacts 17 flights.",
+      "bbox": [
+        63,
+        68,
+        313,
+        86
+      ],
+      "confidence": 0.968632161617279
+    },
+    {
+      "text": "x",
+      "bbox": [
+        63,
+        84,
+        78,
+        97
+      ],
+      "confidence": 0.8515989184379578
+    },
+    {
+      "text": "Ref: 011<ee4j7493",
+      "bbox": [
+        55,
+        111,
+        210,
+        128
+      ],
+      "confidence": 0.9488570094108582
+    },
+    {
+      "text": "/ESMERK/ENGLISH/EN.AJK",
+      "bbox": [
+        64,
+        98,
+        263,
+        112
+      ],
+      "confidence": 0.9929916262626648
+    },
+    {
+      "text": "Corporate Issues",
+      "bbox": [
+        5,
+        139,
+        158,
+        157
+      ],
+      "confidence": 0.9997825622558594
+    },
+    {
+      "text": "UK: AIR POLLUTION MORE HARMFUL THAN SMOKING?",
+      "bbox": [
+        54,
+        164,
+        454,
+        185
+      ],
+      "confidence": 0.9904116988182068
+    },
+    {
+      "text": "The Times, 12 Jan 1994, p.7:-",
+      "bbox": [
+        62,
+        190,
+        327,
+        214
+      ],
+      "confidence": 0.9862473011016846
+    },
+    {
+      "text": "Dr Jon Ayres, one of the UK's leading doctors,",
+      "bbox": [
+        61,
+        205,
+        484,
+        228
+      ],
+      "confidence": 0.9892179369926453
+    },
+    {
+      "text": "has announced that air pollution may be",
+      "bbox": [
+        52,
+        220,
+        412,
+        241
+      ],
+      "confidence": 0.988746166229248
+    },
+    {
+      "text": "affecting more people's health than smoking.",
+      "bbox": [
+        52,
+        233,
+        455,
+        256
+      ],
+      "confidence": 0.9843575954437256
+    },
+    {
+      "text": "Cases of asthma are increasing, despite the air",
+      "bbox": [
+        52,
+        247,
+        487,
+        270
+      ],
+      "confidence": 0.9828779101371765
+    },
+    {
+      "text": "being cleaner than a decade ago. Ayres is just",
+      "bbox": [
+        52,
+        261,
+        479,
+        284
+      ],
+      "confidence": 0.9716315269470215
+    },
+    {
+      "text": "one of the doctors now studying the mixture of",
+      "bbox": [
+        52,
+        274,
+        479,
+        299
+      ],
+      "confidence": 0.9789642095565796
+    },
+    {
+      "text": "chemicals which can trigger ill health, such as",
+      "bbox": [
+        52,
+        289,
+        489,
+        314
+      ],
+      "confidence": 0.9622342586517334
+    },
+    {
+      "text": "car fumes and house dust.",
+      "bbox": [
+        51,
+        305,
+        285,
+        329
+      ],
+      "confidence": 0.970958948135376
+    },
+    {
+      "text": "The extended article goes on to look at the",
+      "bbox": [
+        60,
+        316,
+        461,
+        343
+      ],
+      "confidence": 0.9481370449066162
+    },
+    {
+      "text": "issue in greater detail, and also looks at US",
+      "bbox": [
+        49,
+        332,
+        472,
+        358
+      ],
+      "confidence": 0.9740733504295349
+    },
+    {
+      "text": "research on air pollution death rates, and the",
+      "bbox": [
+        50,
+        346,
+        483,
+        372
+      ],
+      "confidence": 0.973865270614624
+    },
+    {
+      "text": "need for the government to invest GBP",
+      "bbox": [
+        49,
+        360,
+        396,
+        389
+      ],
+      "confidence": 0.9613466858863831
+    },
+    {
+      "text": "100mn/year on new more environment friendly",
+      "bbox": [
+        50,
+        376,
+        453,
+        403
+      ],
+      "confidence": 0.9765214920043945
+    },
+    {
+      "text": "buses.",
+      "bbox": [
+        51,
+        398,
+        110,
+        415
+      ],
+      "confidence": 0.999845564365387
+    },
+    {
+      "text": "/ESMERK/ENGLISH/EN.DEB",
+      "bbox": [
+        59,
+        409,
+        268,
+        430
+      ],
+      "confidence": 0.9988744854927063
+    },
+    {
+      "text": "Ref: 012Vee4v5878",
+      "bbox": [
+        50,
+        425,
+        214,
+        445
+      ],
+      "confidence": 0.9480903744697571
+    },
+    {
+      "text": "Part II to follow in separate profs.",
+      "bbox": [
+        2,
+        481,
+        337,
+        506
+      ],
+      "confidence": 0.9983591437339783
+    },
+    {
+      "text": "2500053849",
+      "bbox": [
+        751,
+        792,
+        777,
+        903
+      ],
+      "confidence": 0.9998060464859009
+    }
+  ],
+  "full_text": "Asiana Airlines of South Korea has restricted\nnot allowed to smoke on services of less than\nsmoking on its services further. Passengers are\n6.5 hours as of January 1994.\nThis ban impacts 17 flights.\nx\nRef: 011<ee4j7493\n/ESMERK/ENGLISH/EN.AJK\nCorporate Issues\nUK: AIR POLLUTION MORE HARMFUL THAN SMOKING?\nThe Times, 12 Jan 1994, p.7:-\nDr Jon Ayres, one of the UK's leading doctors,\nhas announced that air pollution may be\naffecting more people's health than smoking.\nCases of asthma are increasing, despite the air\nbeing cleaner than a decade ago. Ayres is just\none of the doctors now studying the mixture of\nchemicals which can trigger ill health, such as\ncar fumes and house dust.\nThe extended article goes on to look at the\nissue in greater detail, and also looks at US\nresearch on air pollution death rates, and the\nneed for the government to invest GBP\n100mn/year on new more environment friendly\nbuses.\n/ESMERK/ENGLISH/EN.DEB\nRef: 012Vee4v5878\nPart II to follow in separate profs.\n2500053849"
+}

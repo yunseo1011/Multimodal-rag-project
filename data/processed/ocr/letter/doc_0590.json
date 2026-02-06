@@ -1,0 +1,401 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0590.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Ameriean Tobaceo Company",
+      "bbox": [
+        218,
+        32,
+        564,
+        84
+      ],
+      "confidence": 0.9548097848892212
+    },
+    {
+      "text": "DEPARTMENT OF RESEARCH AND DEVELOPMENT",
+      "bbox": [
+        239,
+        92,
+        533,
+        111
+      ],
+      "confidence": 0.9892118573188782
+    },
+    {
+      "text": "L00 JEFPERBON DAVIG HIOHWAY",
+      "bbox": [
+        487,
+        140,
+        660,
+        158
+      ],
+      "confidence": 0.8784454464912415
+    },
+    {
+      "text": "RICHMOND 24, VIROINIA",
+      "bbox": [
+        507,
+        155,
+        639,
+        173
+      ],
+      "confidence": 0.9746178984642029
+    },
+    {
+      "text": "Apri1 17, 1963",
+      "bbox": [
+        512,
+        186,
+        633,
+        211
+      ],
+      "confidence": 0.9609938263893127
+    },
+    {
+      "text": ":7.r. John W. Leer",
+      "bbox": [
+        67,
+        254,
+        193,
+        268
+      ],
+      "confidence": 0.9114795327186584
+    },
+    {
+      "text": "Marketing Director",
+      "bbox": [
+        65,
+        267,
+        208,
+        284
+      ],
+      "confidence": 0.9972288608551025
+    },
+    {
+      "text": "The American Tobacco Company",
+      "bbox": [
+        67,
+        285,
+        285,
+        299
+      ],
+      "confidence": 0.9685125350952148
+    },
+    {
+      "text": "150 East 42nd Street",
+      "bbox": [
+        66,
+        298,
+        225,
+        317
+      ],
+      "confidence": 0.9830223917961121
+    },
+    {
+      "text": "New York 17, New York",
+      "bbox": [
+        65,
+        314,
+        233,
+        334
+      ],
+      "confidence": 0.9802148938179016
+    },
+    {
+      "text": "Dear John:",
+      "bbox": [
+        67,
+        350,
+        146,
+        364
+      ],
+      "confidence": 0.9298180341720581
+    },
+    {
+      "text": "I once knew a Vice President of the duPont Company who said that all research",
+      "bbox": [
+        66,
+        371,
+        674,
+        398
+      ],
+      "confidence": 0.9971106648445129
+    },
+    {
+      "text": "should be repeated once every five years. By the same token, it is useful to",
+      "bbox": [
+        67,
+        388,
+        674,
+        414
+      ],
+      "confidence": 0.9819788932800293
+    },
+    {
+      "text": "review, periooically, what we know about our products. In this vein, we may",
+      "bbox": [
+        66,
+        404,
+        667,
+        432
+      ],
+      "confidence": 0.9785217046737671
+    },
+    {
+      "text": "ask and try to answer the questions -- How does DUAL FILTER TAREYTON differ",
+      "bbox": [
+        67,
+        420,
+        658,
+        448
+      ],
+      "confidence": 0.9716144800186157
+    },
+    {
+      "text": "from other filter cigarettes? Wherein is it superior?",
+      "bbox": [
+        69,
+        437,
+        488,
+        462
+      ],
+      "confidence": 0.9871968030929565
+    },
+    {
+      "text": "Before the acvent of filtors, each cigarette manufacturer adhered fairly",
+      "bbox": [
+        67,
+        468,
+        633,
+        494
+      ],
+      "confidence": 0.9859511852264404
+    },
+    {
+      "text": "consistently to his own standards of quality.' Brand differences were dictated",
+      "bbox": [
+        68,
+        485,
+        682,
+        510
+      ],
+      "confidence": 0.9863492250442505
+    },
+    {
+      "text": "by the experience and preferences of management together with, in varying",
+      "bbox": [
+        67,
+        501,
+        640,
+        527
+      ],
+      "confidence": 0.9806535243988037
+    },
+    {
+      "text": "degrees, considerations of cost. Each manufacturer had his own ideas with",
+      "bbox": [
+        68,
+        516,
+        647,
+        542
+      ],
+      "confidence": 0.9793960452079773
+    },
+    {
+      "text": "respect to selection, blending and processing of tobacco; fabrication, packag-",
+      "bbox": [
+        68,
+        533,
+        679,
+        559
+      ],
+      "confidence": 0.9856204390525818
+    },
+    {
+      "text": "ing and merchandizing of his cigarette. There were discernible differences in",
+      "bbox": [
+        68,
+        549,
+        680,
+        573
+      ],
+      "confidence": 0.9851859211921692
+    },
+    {
+      "text": "the composition and character of leading brancs and these differences were",
+      "bbox": [
+        69,
+        565,
+        648,
+        588
+      ],
+      "confidence": 0.9807271957397461
+    },
+    {
+      "text": "raintained with remarkable consistency. Changes were few and unintentional.",
+      "bbox": [
+        69,
+        581,
+        661,
+        604
+      ],
+      "confidence": 0.9803174734115601
+    },
+    {
+      "text": "If tobacco crops or other circumstances forced a change, it was made gradually,",
+      "bbox": [
+        69,
+        596,
+        684,
+        620
+      ],
+      "confidence": 0.9917122721672058
+    },
+    {
+      "text": "where possible. The consumer could expect a basic sameness in his brand from",
+      "bbox": [
+        69,
+        612,
+        672,
+        636
+      ],
+      "confidence": 0.9861506223678589
+    },
+    {
+      "text": "year to year.",
+      "bbox": [
+        69,
+        632,
+        174,
+        652
+      ],
+      "confidence": 0.9882170557975769
+    },
+    {
+      "text": "Filter smoking marked a break with the past. Under the impact of the health",
+      "bbox": [
+        70,
+        660,
+        661,
+        680
+      ],
+      "confidence": 0.9752956032752991
+    },
+    {
+      "text": "scare, some manufacturers rushed fiiter cigarettes to market. They were ill-",
+      "bbox": [
+        70,
+        674,
+        669,
+        699
+      ],
+      "confidence": 0.9721645712852478
+    },
+    {
+      "text": "conceivcd with respect to flavor, over-tight for comfortable smoking, completely",
+      "bbox": [
+        71,
+        692,
+        693,
+        713
+      ],
+      "confidence": 0.9934898614883423
+    },
+    {
+      "text": "different from cigarettes to which smokers were accustomed. Fear compelled an",
+      "bbox": [
+        70,
+        708,
+        676,
+        728
+      ],
+      "confidence": 0.9991105198860168
+    },
+    {
+      "text": "unwiiling acceptance of a highly unsatisfactory product. Pilter cigarettes were",
+      "bbox": [
+        71,
+        723,
+        691,
+        744
+      ],
+      "confidence": 0.9867371320724487
+    },
+    {
+      "text": "characterized as \"weak\", \"flat\", \"tasteless\", for the want of better descriptive",
+      "bbox": [
+        70,
+        738,
+        692,
+        760
+      ],
+      "confidence": 0.981674313545227
+    },
+    {
+      "text": "terms.",
+      "bbox": [
+        71,
+        759,
+        120,
+        776
+      ],
+      "confidence": 0.958871066570282
+    },
+    {
+      "text": "Reynolds made the best of this situation. They gave the smoker visual evidence,",
+      "bbox": [
+        71,
+        787,
+        690,
+        807
+      ],
+      "confidence": 0.9877076148986816
+    },
+    {
+      "text": "if not the substance, of filtration. They gave him a filter that did not filter.",
+      "bbox": [
+        70,
+        802,
+        696,
+        824
+      ],
+      "confidence": 0.9774906039237976
+    },
+    {
+      "text": "It was well received. The doubtful smoker could have his cake and eat it via",
+      "bbox": [
+        71,
+        819,
+        666,
+        839
+      ],
+      "confidence": 0.9824440479278564
+    },
+    {
+      "text": "Winston. The more timid coulo stick with Kent. The makers of Winston claimed",
+      "bbox": [
+        71,
+        836,
+        674,
+        854
+      ],
+      "confidence": 0.9843587279319763
+    },
+    {
+      "text": "a cigarette that \"tastes good\" -- meaning strong -- \"like a cigarette should\".",
+      "bbox": [
+        70,
+        850,
+        672,
+        871
+      ],
+      "confidence": 0.9831822514533997
+    }
+  ],
+  "full_text": "The Ameriean Tobaceo Company\nDEPARTMENT OF RESEARCH AND DEVELOPMENT\nL00 JEFPERBON DAVIG HIOHWAY\nRICHMOND 24, VIROINIA\nApri1 17, 1963\n:7.r. John W. Leer\nMarketing Director\nThe American Tobacco Company\n150 East 42nd Street\nNew York 17, New York\nDear John:\nI once knew a Vice President of the duPont Company who said that all research\nshould be repeated once every five years. By the same token, it is useful to\nreview, periooically, what we know about our products. In this vein, we may\nask and try to answer the questions -- How does DUAL FILTER TAREYTON differ\nfrom other filter cigarettes? Wherein is it superior?\nBefore the acvent of filtors, each cigarette manufacturer adhered fairly\nconsistently to his own standards of quality.' Brand differences were dictated\nby the experience and preferences of management together with, in varying\ndegrees, considerations of cost. Each manufacturer had his own ideas with\nrespect to selection, blending and processing of tobacco; fabrication, packag-\ning and merchandizing of his cigarette. There were discernible differences in\nthe composition and character of leading brancs and these differences were\nraintained with remarkable consistency. Changes were few and unintentional.\nIf tobacco crops or other circumstances forced a change, it was made gradually,\nwhere possible. The consumer could expect a basic sameness in his brand from\nyear to year.\nFilter smoking marked a break with the past. Under the impact of the health\nscare, some manufacturers rushed fiiter cigarettes to market. They were ill-\nconceivcd with respect to flavor, over-tight for comfortable smoking, completely\ndifferent from cigarettes to which smokers were accustomed. Fear compelled an\nunwiiling acceptance of a highly unsatisfactory product. Pilter cigarettes were\ncharacterized as \"weak\", \"flat\", \"tasteless\", for the want of better descriptive\nterms.\nReynolds made the best of this situation. They gave the smoker visual evidence,\nif not the substance, of filtration. They gave him a filter that did not filter.\nIt was well received. The doubtful smoker could have his cake and eat it via\nWinston. The more timid coulo stick with Kent. The makers of Winston claimed\na cigarette that \"tastes good\" -- meaning strong -- \"like a cigarette should\"."
+}

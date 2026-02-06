@@ -1,0 +1,361 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0949.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "insiro",
+      "bbox": [
+        496,
+        51,
+        685,
+        110
+      ],
+      "confidence": 0.8952298164367676
+    },
+    {
+      "text": "INBiFO Institut fur blologische Forschung GmbH",
+      "bbox": [
+        51,
+        64,
+        371,
+        89
+      ],
+      "confidence": 0.9878688454627991
+    },
+    {
+      "text": "2175",
+      "bbox": [
+        277,
+        108,
+        340,
+        143
+      ],
+      "confidence": 0.9885167479515076
+    },
+    {
+      "text": "Contract Research",
+      "bbox": [
+        501,
+        107,
+        621,
+        121
+      ],
+      "confidence": 0.9648658633232117
+    },
+    {
+      "text": "TELEFAX MESSAGE NO.:",
+      "bbox": [
+        53,
+        118,
+        237,
+        140
+      ],
+      "confidence": 0.9864912033081055
+    },
+    {
+      "text": "INBIFO Institut f0r blologischa Forschung mbH  Fuggerstr. 3 · D-51149 Cologne",
+      "bbox": [
+        55,
+        157,
+        391,
+        177
+      ],
+      "confidence": 0.9424724578857422
+    },
+    {
+      "text": "Telelax (022 03) 303-362",
+      "bbox": [
+        500,
+        151,
+        607,
+        166
+      ],
+      "confidence": 0.9150117039680481
+    },
+    {
+      "text": "Telephone (0 22 03) 303-1",
+      "bbox": [
+        501,
+        143,
+        609,
+        156
+      ],
+      "confidence": 0.986247718334198
+    },
+    {
+      "text": "KHO/MWO",
+      "bbox": [
+        507,
+        202,
+        573,
+        216
+      ],
+      "confidence": 0.9985280632972717
+    },
+    {
+      "text": "GNI_INF.FAX",
+      "bbox": [
+        506,
+        216,
+        590,
+        233
+      ],
+      "confidence": 0.9772728085517883
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        60,
+        236,
+        107,
+        254
+      ],
+      "confidence": 0.9996929168701172
+    },
+    {
+      "text": "January 30, 1998",
+      "bbox": [
+        242,
+        237,
+        354,
+        254
+      ],
+      "confidence": 0.9996740221977234
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        61,
+        288,
+        111,
+        304
+      ],
+      "confidence": 0.9999021291732788
+    },
+    {
+      "text": "Dr. Klaus von Holt",
+      "bbox": [
+        240,
+        285,
+        358,
+        305
+      ],
+      "confidence": 0.9988253712654114
+    },
+    {
+      "text": "Dr. Gerry Nixon",
+      "bbox": [
+        239,
+        336,
+        377,
+        360
+      ],
+      "confidence": 0.9522462487220764
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        59,
+        339,
+        88,
+        355
+      ],
+      "confidence": 0.9951784610748291
+    },
+    {
+      "text": "Manager, External Studies",
+      "bbox": [
+        240,
+        357,
+        420,
+        377
+      ],
+      "confidence": 0.9989858865737915
+    },
+    {
+      "text": "ADDRESS:",
+      "bbox": [
+        59,
+        395,
+        139,
+        415
+      ],
+      "confidence": 0.9998112916946411
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        242,
+        396,
+        322,
+        413
+      ],
+      "confidence": 0.9755556583404541
+    },
+    {
+      "text": "Research Center",
+      "bbox": [
+        242,
+        412,
+        351,
+        429
+      ],
+      "confidence": 0.9997722506523132
+    },
+    {
+      "text": "P.O. Box 26583",
+      "bbox": [
+        242,
+        428,
+        345,
+        446
+      ],
+      "confidence": 0.9644581079483032
+    },
+    {
+      "text": "Richmond, Va. 23261",
+      "bbox": [
+        242,
+        444,
+        378,
+        461
+      ],
+      "confidence": 0.9993281364440918
+    },
+    {
+      "text": "USA",
+      "bbox": [
+        241,
+        475,
+        277,
+        493
+      ],
+      "confidence": 0.9998764991760254
+    },
+    {
+      "text": "Telefax no.: 001-804-274 3890",
+      "bbox": [
+        242,
+        507,
+        438,
+        524
+      ],
+      "confidence": 0.9959284663200378
+    },
+    {
+      "text": "NUMBER OF FOLLOWING PAGES:",
+      "bbox": [
+        60,
+        570,
+        295,
+        588
+      ],
+      "confidence": 0.9796074628829956
+    },
+    {
+      "text": "14",
+      "bbox": [
+        343,
+        568,
+        377,
+        595
+      ],
+      "confidence": 0.9991598129272461
+    },
+    {
+      "text": "Dear Gerry:",
+      "bbox": [
+        58,
+        671,
+        145,
+        695
+      ],
+      "confidence": 0.9990629553794861
+    },
+    {
+      "text": "During our last meeting you asked me for a comprehensive list of study nurbers of those",
+      "bbox": [
+        58,
+        702,
+        677,
+        724
+      ],
+      "confidence": 0.977196991443634
+    },
+    {
+      "text": "projects which I discussed in my overview on 'In vivo product integrity testing'.",
+      "bbox": [
+        58,
+        720,
+        597,
+        741
+      ],
+      "confidence": 0.9832940697669983
+    },
+    {
+      "text": "Please find attached copies of the corresponding transparencies of my presentation. I added",
+      "bbox": [
+        58,
+        750,
+        696,
+        771
+      ],
+      "confidence": 0.9947661757469177
+    },
+    {
+      "text": "the INBiFO study numbers and the years when the experimental parts of the studies were",
+      "bbox": [
+        58,
+        767,
+        678,
+        788
+      ],
+      "confidence": 0.9754524827003479
+    },
+    {
+      "text": "performed.",
+      "bbox": [
+        59,
+        787,
+        138,
+        805
+      ],
+      "confidence": 0.999933123588562
+    },
+    {
+      "text": "Kind regards,",
+      "bbox": [
+        58,
+        813,
+        156,
+        838
+      ],
+      "confidence": 0.9998892545700073
+    },
+    {
+      "text": "Kila von tol",
+      "bbox": [
+        127,
+        832,
+        390,
+        872
+      ],
+      "confidence": 0.7137038111686707
+    },
+    {
+      "text": "2064285631",
+      "bbox": [
+        689,
+        826,
+        717,
+        933
+      ],
+      "confidence": 0.9604250192642212
+    }
+  ],
+  "full_text": "insiro\nINBiFO Institut fur blologische Forschung GmbH\n2175\nContract Research\nTELEFAX MESSAGE NO.:\nINBIFO Institut f0r blologischa Forschung mbH  Fuggerstr. 3 · D-51149 Cologne\nTelelax (022 03) 303-362\nTelephone (0 22 03) 303-1\nKHO/MWO\nGNI_INF.FAX\nDATE:\nJanuary 30, 1998\nFROM:\nDr. Klaus von Holt\nDr. Gerry Nixon\nTO:\nManager, External Studies\nADDRESS:\nPhilip Morris\nResearch Center\nP.O. Box 26583\nRichmond, Va. 23261\nUSA\nTelefax no.: 001-804-274 3890\nNUMBER OF FOLLOWING PAGES:\n14\nDear Gerry:\nDuring our last meeting you asked me for a comprehensive list of study nurbers of those\nprojects which I discussed in my overview on 'In vivo product integrity testing'.\nPlease find attached copies of the corresponding transparencies of my presentation. I added\nthe INBiFO study numbers and the years when the experimental parts of the studies were\nperformed.\nKind regards,\nKila von tol\n2064285631"
+}

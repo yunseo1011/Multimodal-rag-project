@@ -1,0 +1,41 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0510.png",
+    "image_width": 713,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "PLASTICS",
+      "bbox": [
+        525,
+        178,
+        666,
+        225
+      ],
+      "confidence": 0.9968155026435852
+    },
+    {
+      "text": "ITENTIFICHTION",
+      "bbox": [
+        521,
+        216,
+        707,
+        251
+      ],
+      "confidence": 0.8196588754653931
+    },
+    {
+      "text": "2501268451",
+      "bbox": [
+        157,
+        570,
+        280,
+        616
+      ],
+      "confidence": 0.9505322575569153
+    }
+  ],
+  "full_text": "PLASTICS\nITENTIFICHTION\n2501268451"
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0644.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THE",
+      "bbox": [
+        464,
+        603,
+        532,
+        645
+      ],
+      "confidence": 0.6614475250244141
+    }
+  ],
+  "full_text": "THE"
+}

@@ -1,0 +1,441 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0914.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "December 20, 1991",
+      "bbox": [
+        415,
+        49,
+        556,
+        75
+      ],
+      "confidence": 0.994397759437561
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        62,
+        148,
+        94,
+        170
+      ],
+      "confidence": 0.9970912933349609
+    },
+    {
+      "text": "Ms. D. S. Burrows",
+      "bbox": [
+        156,
+        150,
+        295,
+        170
+      ],
+      "confidence": 0.9672579169273376
+    },
+    {
+      "text": "Ms. R. C. Pasterczyk",
+      "bbox": [
+        412,
+        148,
+        577,
+        175
+      ],
+      "confidence": 0.9896966814994812
+    },
+    {
+      "text": "Ms.P..C.Carte",
+      "bbox": [
+        155,
+        166,
+        287,
+        190
+      ],
+      "confidence": 0.8056126832962036
+    },
+    {
+      "text": "Mr. W. J. Roper",
+      "bbox": [
+        412,
+        166,
+        537,
+        191
+      ],
+      "confidence": 0.9429886341094971
+    },
+    {
+      "text": "Mr. M. Horrissey (M/B)",
+      "bbox": [
+        155,
+        183,
+        333,
+        205
+      ],
+      "confidence": 0.8527440428733826
+    },
+    {
+      "text": "Ms. K. W. Vuksan",
+      "bbox": [
+        411,
+        182,
+        545,
+        207
+      ],
+      "confidence": 0.9878610968589783
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        63,
+        215,
+        108,
+        237
+      ],
+      "confidence": 0.9501996040344238
+    },
+    {
+      "text": "Ms. C. M. Smith",
+      "bbox": [
+        156,
+        217,
+        279,
+        237
+      ],
+      "confidence": 0.9334692358970642
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        62,
+        247,
+        130,
+        270
+      ],
+      "confidence": 0.9987552165985107
+    },
+    {
+      "text": "RU ADVERTISING QUALITATIVE FOCUS GROUPS - PHOENIX, ARIZONA",
+      "bbox": [
+        155,
+        248,
+        622,
+        275
+      ],
+      "confidence": 0.9789032340049744
+    },
+    {
+      "text": "This provides suggested flight and hotel information for the January 8-9 focus",
+      "bbox": [
+        62,
+        314,
+        682,
+        342
+      ],
+      "confidence": 0.9853091239929199
+    },
+    {
+      "text": "groups in Phoenix. Please plan to be at the facility by 3:00 p.m. on",
+      "bbox": [
+        63,
+        332,
+        613,
+        359
+      ],
+      "confidence": 0.9833070039749146
+    },
+    {
+      "text": "Wednesday. Directions to the facility and hotel are attached.",
+      "bbox": [
+        62,
+        349,
+        553,
+        374
+      ],
+      "confidence": 0.9851099252700806
+    },
+    {
+      "text": "Suggested Flights:",
+      "bbox": [
+        63,
+        400,
+        207,
+        423
+      ],
+      "confidence": 0.960778534412384
+    },
+    {
+      "text": "Hednesday. January 8",
+      "bbox": [
+        65,
+        436,
+        222,
+        458
+      ],
+      "confidence": 0.8892780542373657
+    },
+    {
+      "text": "Depart Greensboro:",
+      "bbox": [
+        63,
+        471,
+        206,
+        491
+      ],
+      "confidence": 0.9963944554328918
+    },
+    {
+      "text": "8:55 a.m.",
+      "bbox": [
+        254,
+        469,
+        332,
+        492
+      ],
+      "confidence": 0.9801570177078247
+    },
+    {
+      "text": "Arrive Phoenix:",
+      "bbox": [
+        64,
+        489,
+        183,
+        509
+      ],
+      "confidence": 0.9984709024429321
+    },
+    {
+      "text": "12:55 p.m. (American #651)",
+      "bbox": [
+        250,
+        489,
+        457,
+        509
+      ],
+      "confidence": 0.9835472702980042
+    },
+    {
+      "text": "Friday, January 10",
+      "bbox": [
+        64,
+        536,
+        205,
+        560
+      ],
+      "confidence": 0.9798292517662048
+    },
+    {
+      "text": "Depart Phoenix:",
+      "bbox": [
+        64,
+        573,
+        181,
+        590
+      ],
+      "confidence": 0.9987996816635132
+    },
+    {
+      "text": "9:10 a.m. (via Nashville)",
+      "bbox": [
+        256,
+        573,
+        454,
+        593
+      ],
+      "confidence": 0.9979256391525269
+    },
+    {
+      "text": "Arrive Greensboro:",
+      "bbox": [
+        64,
+        587,
+        204,
+        608
+      ],
+      "confidence": 0.9936254024505615
+    },
+    {
+      "text": "4:00 p.m. (American #162/1124)",
+      "bbox": [
+        256,
+        590,
+        493,
+        610
+      ],
+      "confidence": 0.9784013628959656
+    },
+    {
+      "text": "Suggested Hotel:",
+      "bbox": [
+        64,
+        635,
+        191,
+        659
+      ],
+      "confidence": 0.9867324829101562
+    },
+    {
+      "text": "Su-",
+      "bbox": [
+        319,
+        647,
+        430,
+        712
+      ],
+      "confidence": 0.6998358368873596
+    },
+    {
+      "text": "Marriott Court Yard",
+      "bbox": [
+        64,
+        669,
+        214,
+        690
+      ],
+      "confidence": 0.994661808013916
+    },
+    {
+      "text": "2101 East Camelback Road",
+      "bbox": [
+        65,
+        685,
+        251,
+        706
+      ],
+      "confidence": 0.9641110301017761
+    },
+    {
+      "text": "Spin Jigits",
+      "bbox": [
+        309,
+        693,
+        550,
+        791
+      ],
+      "confidence": 0.7477138042449951
+    },
+    {
+      "text": "Phoenix, Arizona 85016",
+      "bbox": [
+        65,
+        702,
+        245,
+        723
+      ],
+      "confidence": 0.9765310883522034
+    },
+    {
+      "text": "602)955-5200",
+      "bbox": [
+        65,
+        718,
+        177,
+        741
+      ],
+      "confidence": 0.9813477396965027
+    },
+    {
+      "text": "Facility:",
+      "bbox": [
+        64,
+        767,
+        137,
+        788
+      ],
+      "confidence": 0.9916937351226807
+    },
+    {
+      "text": "Phoenix Research Services",
+      "bbox": [
+        64,
+        799,
+        256,
+        820
+      ],
+      "confidence": 0.9911792278289795
+    },
+    {
+      "text": "Colonnade Mall",
+      "bbox": [
+        63,
+        815,
+        173,
+        836
+      ],
+      "confidence": 0.996512234210968
+    },
+    {
+      "text": "ge i the Ionge",
+      "bbox": [
+        306,
+        810,
+        590,
+        884
+      ],
+      "confidence": 0.6620492935180664
+    },
+    {
+      "text": "1889 E. Camelback Road",
+      "bbox": [
+        63,
+        832,
+        236,
+        852
+      ],
+      "confidence": 0.9943460822105408
+    },
+    {
+      "text": "Phoenix, Arizona",
+      "bbox": [
+        63,
+        848,
+        192,
+        869
+      ],
+      "confidence": 0.9720181226730347
+    },
+    {
+      "text": "85016",
+      "bbox": [
+        198,
+        852,
+        242,
+        867
+      ],
+      "confidence": 0.9992685317993164
+    },
+    {
+      "text": "(602) 264-1133",
+      "bbox": [
+        63,
+        865,
+        175,
+        885
+      ],
+      "confidence": 0.934771716594696
+    },
+    {
+      "text": "51142 4172",
+      "bbox": [
+        704,
+        870,
+        729,
+        978
+      ],
+      "confidence": 0.9991572499275208
+    },
+    {
+      "text": "Moderator: Dr. Gene Shore",
+      "bbox": [
+        60,
+        914,
+        263,
+        938
+      ],
+      "confidence": 0.9730700850486755
+    }
+  ],
+  "full_text": "December 20, 1991\nTO:\nMs. D. S. Burrows\nMs. R. C. Pasterczyk\nMs.P..C.Carte\nMr. W. J. Roper\nMr. M. Horrissey (M/B)\nMs. K. W. Vuksan\nFROM:\nMs. C. M. Smith\nSUBJECT:\nRU ADVERTISING QUALITATIVE FOCUS GROUPS - PHOENIX, ARIZONA\nThis provides suggested flight and hotel information for the January 8-9 focus\ngroups in Phoenix. Please plan to be at the facility by 3:00 p.m. on\nWednesday. Directions to the facility and hotel are attached.\nSuggested Flights:\nHednesday. January 8\nDepart Greensboro:\n8:55 a.m.\nArrive Phoenix:\n12:55 p.m. (American #651)\nFriday, January 10\nDepart Phoenix:\n9:10 a.m. (via Nashville)\nArrive Greensboro:\n4:00 p.m. (American #162/1124)\nSuggested Hotel:\nSu-\nMarriott Court Yard\n2101 East Camelback Road\nSpin Jigits\nPhoenix, Arizona 85016\n602)955-5200\nFacility:\nPhoenix Research Services\nColonnade Mall\nge i the Ionge\n1889 E. Camelback Road\nPhoenix, Arizona\n85016\n(602) 264-1133\n51142 4172\nModerator: Dr. Gene Shore"
+}

@@ -1,0 +1,861 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0288.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "BASIC WEIGHT _SPECIFICATION",
+      "bbox": [
+        292,
+        75,
+        472,
+        88
+      ],
+      "confidence": 0.9729780554771423
+    },
+    {
+      "text": "LOUISVILLE",
+      "bbox": [
+        45,
+        83,
+        118,
+        100
+      ],
+      "confidence": 0.9997568130493164
+    },
+    {
+      "text": "EFFECTIVE DATE: 09/29/1995",
+      "bbox": [
+        509,
+        83,
+        699,
+        101
+      ],
+      "confidence": 0.9888147115707397
+    },
+    {
+      "text": "MARLBORO KS REGULAR 25'S SP",
+      "bbox": [
+        45,
+        98,
+        234,
+        118
+      ],
+      "confidence": 0.9697040915489197
+    },
+    {
+      "text": "STANDARD PRODUCTION",
+      "bbox": [
+        508,
+        100,
+        644,
+        116
+      ],
+      "confidence": 0.9996535778045654
+    },
+    {
+      "text": "BRAND CODE-03291 (STD)",
+      "bbox": [
+        45,
+        113,
+        198,
+        131
+      ],
+      "confidence": 0.9615282416343689
+    },
+    {
+      "text": "PHYSICAL PARAMETERS",
+      "bbox": [
+        304,
+        159,
+        448,
+        175
+      ],
+      "confidence": 0.9935601949691772
+    },
+    {
+      "text": "TOBACCO ROD LENGTH",
+      "bbox": [
+        85,
+        187,
+        212,
+        204
+      ],
+      "confidence": 0.9970855712890625
+    },
+    {
+      "text": "TIPPING LENGTH",
+      "bbox": [
+        85,
+        200,
+        185,
+        219
+      ],
+      "confidence": 0.999752402305603
+    },
+    {
+      "text": "63.0",
+      "bbox": [
+        324,
+        190,
+        355,
+        204
+      ],
+      "confidence": 0.9913628697395325
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        475,
+        190,
+        494,
+        202
+      ],
+      "confidence": 0.9936808347702026
+    },
+    {
+      "text": "CIGARETTE PAPER WIDTH",
+      "bbox": [
+        84,
+        217,
+        232,
+        233
+      ],
+      "confidence": 0.9986355900764465
+    },
+    {
+      "text": "25.000",
+      "bbox": [
+        311,
+        203,
+        355,
+        217
+      ],
+      "confidence": 0.9997065663337708
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        475,
+        204,
+        494,
+        217
+      ],
+      "confidence": 0.8164659738540649
+    },
+    {
+      "text": "CIRCUMFERENCE",
+      "bbox": [
+        85,
+        231,
+        177,
+        246
+      ],
+      "confidence": 0.9798746705055237
+    },
+    {
+      "text": "I",
+      "bbox": [
+        245,
+        223,
+        250,
+        230
+      ],
+      "confidence": 0.6794759035110474
+    },
+    {
+      "text": "27.00",
+      "bbox": [
+        318,
+        219,
+        354,
+        230
+      ],
+      "confidence": 0.9991380572319031
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        475,
+        218,
+        494,
+        231
+      ],
+      "confidence": 0.7032133340835571
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        475,
+        232,
+        494,
+        245
+      ],
+      "confidence": 0.9213637113571167
+    },
+    {
+      "text": "CALCULATED VOLUME",
+      "bbox": [
+        85,
+        246,
+        202,
+        260
+      ],
+      "confidence": 0.998538076877594
+    },
+    {
+      "text": ":",
+      "bbox": [
+        245,
+        237,
+        250,
+        244
+      ],
+      "confidence": 0.9914796352386475
+    },
+    {
+      "text": "24.80",
+      "bbox": [
+        318,
+        233,
+        354,
+        244
+      ],
+      "confidence": 0.9995342493057251
+    },
+    {
+      "text": "CUBIC HM",
+      "bbox": [
+        436,
+        247,
+        493,
+        258
+      ],
+      "confidence": 0.8990818858146667
+    },
+    {
+      "text": "CALCULATED DENSITY",
+      "bbox": [
+        84,
+        260,
+        209,
+        274
+      ],
+      "confidence": 0.9791445136070251
+    },
+    {
+      "text": "3,083.4297",
+      "bbox": [
+        285,
+        248,
+        353,
+        258
+      ],
+      "confidence": 0.9850476980209351
+    },
+    {
+      "text": "24.3683",
+      "bbox": [
+        304,
+        262,
+        354,
+        273
+      ],
+      "confidence": 0.998663604259491
+    },
+    {
+      "text": "CGMS/CC",
+      "bbox": [
+        443,
+        262,
+        493,
+        273
+      ],
+      "confidence": 0.9921639561653137
+    },
+    {
+      "text": ":",
+      "bbox": [
+        243,
+        264,
+        251,
+        273
+      ],
+      "confidence": 0.9457758665084839
+    },
+    {
+      "text": "TARGETS",
+      "bbox": [
+        340,
+        305,
+        400,
+        317
+      ],
+      "confidence": 0.9989667534828186
+    },
+    {
+      "text": "PACK O. V.",
+      "bbox": [
+        82,
+        333,
+        152,
+        344
+      ],
+      "confidence": 0.8735041618347168
+    },
+    {
+      "text": ":",
+      "bbox": [
+        242,
+        337,
+        250,
+        346
+      ],
+      "confidence": 0.9705740213394165
+    },
+    {
+      "text": "13.00",
+      "bbox": [
+        317,
+        334,
+        353,
+        345
+      ],
+      "confidence": 0.9981950521469116
+    },
+    {
+      "text": "% W/W",
+      "bbox": [
+        455,
+        334,
+        493,
+        345
+      ],
+      "confidence": 0.7835985422134399
+    },
+    {
+      "text": "LOOSE ENDS",
+      "bbox": [
+        84,
+        349,
+        154,
+        360
+      ],
+      "confidence": 0.9977811574935913
+    },
+    {
+      "text": "<",
+      "bbox": [
+        303,
+        350,
+        314,
+        359
+      ],
+      "confidence": 0.9992464780807495
+    },
+    {
+      "text": "0.500",
+      "bbox": [
+        324,
+        349,
+        361,
+        360
+      ],
+      "confidence": 0.990146815776825
+    },
+    {
+      "text": "GHS/50",
+      "bbox": [
+        456,
+        349,
+        500,
+        360
+      ],
+      "confidence": 0.9616237282752991
+    },
+    {
+      "text": "FIRMNESS TARGET",
+      "bbox": [
+        82,
+        362,
+        188,
+        376
+      ],
+      "confidence": 0.9948322772979736
+    },
+    {
+      "text": "3.00",
+      "bbox": [
+        323,
+        362,
+        354,
+        376
+      ],
+      "confidence": 0.9993987083435059
+    },
+    {
+      "text": "MH",
+      "bbox": [
+        455,
+        363,
+        473,
+        375
+      ],
+      "confidence": 0.6835284233093262
+    },
+    {
+      "text": "RANGE",
+      "bbox": [
+        146,
+        379,
+        182,
+        390
+      ],
+      "confidence": 0.9997628927230835
+    },
+    {
+      "text": ":",
+      "bbox": [
+        243,
+        382,
+        248,
+        389
+      ],
+      "confidence": 0.893997073173523
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        290,
+        378,
+        320,
+        389
+      ],
+      "confidence": 0.9989021420478821
+    },
+    {
+      "text": "2.60",
+      "bbox": [
+        331,
+        378,
+        361,
+        389
+      ],
+      "confidence": 0.9988999366760254
+    },
+    {
+      "text": "TO 3.40",
+      "bbox": [
+        372,
+        379,
+        423,
+        389
+      ],
+      "confidence": 0.893537163734436
+    },
+    {
+      "text": "HM",
+      "bbox": [
+        455,
+        378,
+        473,
+        390
+      ],
+      "confidence": 0.9610979557037354
+    },
+    {
+      "text": "(ONE WEEK N=3)",
+      "bbox": [
+        525,
+        375,
+        625,
+        390
+      ],
+      "confidence": 0.9834222793579102
+    },
+    {
+      "text": "RANGE",
+      "bbox": [
+        145,
+        394,
+        182,
+        405
+      ],
+      "confidence": 0.9998050928115845
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        289,
+        391,
+        321,
+        405
+      ],
+      "confidence": 0.9953048825263977
+    },
+    {
+      "text": "2.90",
+      "bbox": [
+        330,
+        393,
+        360,
+        404
+      ],
+      "confidence": 0.9994966983795166
+    },
+    {
+      "text": "TO 3.10",
+      "bbox": [
+        372,
+        393,
+        423,
+        404
+      ],
+      "confidence": 0.9572953581809998
+    },
+    {
+      "text": "MM",
+      "bbox": [
+        455,
+        392,
+        473,
+        405
+      ],
+      "confidence": 0.953464150428772
+    },
+    {
+      "text": "(EIGHT WEEK N=24)",
+      "bbox": [
+        526,
+        391,
+        647,
+        404
+      ],
+      "confidence": 0.9956684112548828
+    },
+    {
+      "text": "FILLER WEIGHT",
+      "bbox": [
+        80,
+        467,
+        174,
+        480
+      ],
+      "confidence": 0.9996064901351929
+    },
+    {
+      "text": ".7513808",
+      "bbox": [
+        297,
+        466,
+        352,
+        477
+      ],
+      "confidence": 0.9925953149795532
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        456,
+        465,
+        495,
+        479
+      ],
+      "confidence": 0.9767753481864929
+    },
+    {
+      "text": "CALCULATED WEIGHT :",
+      "bbox": [
+        122,
+        482,
+        248,
+        495
+      ],
+      "confidence": 0.9830746650695801
+    },
+    {
+      "text": "1.6565",
+      "bbox": [
+        309,
+        481,
+        352,
+        492
+      ],
+      "confidence": 0.9995341300964355
+    },
+    {
+      "text": "LBS. /1000",
+      "bbox": [
+        422,
+        481,
+        494,
+        492
+      ],
+      "confidence": 0.9965912699699402
+    },
+    {
+      "text": "PAPER AND ADHESIVE",
+      "bbox": [
+        78,
+        496,
+        206,
+        509
+      ],
+      "confidence": 0.9988663196563721
+    },
+    {
+      "text": ".0442840",
+      "bbox": [
+        296,
+        496,
+        352,
+        507
+      ],
+      "confidence": 0.9937830567359924
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        454,
+        493,
+        496,
+        509
+      ],
+      "confidence": 0.9716439247131348
+    },
+    {
+      "text": "ROD WEIGHT",
+      "bbox": [
+        80,
+        512,
+        152,
+        523
+      ],
+      "confidence": 0.9983233213424683
+    },
+    {
+      "text": ".7956648",
+      "bbox": [
+        297,
+        511,
+        352,
+        522
+      ],
+      "confidence": 0.999542772769928
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        456,
+        509,
+        496,
+        523
+      ],
+      "confidence": 0.9332109689712524
+    },
+    {
+      "text": "TIPPING AND ADHESIVE",
+      "bbox": [
+        78,
+        526,
+        221,
+        539
+      ],
+      "confidence": 0.9898048639297485
+    },
+    {
+      "text": ".0313904",
+      "bbox": [
+        297,
+        526,
+        353,
+        537
+      ],
+      "confidence": 0.9995526075363159
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        457,
+        524,
+        497,
+        538
+      ],
+      "confidence": 0.9991811513900757
+    },
+    {
+      "text": "TOTAL LESS PLUG",
+      "bbox": [
+        78,
+        541,
+        187,
+        554
+      ],
+      "confidence": 0.9992232918739319
+    },
+    {
+      "text": ".8270552",
+      "bbox": [
+        297,
+        540,
+        353,
+        551
+      ],
+      "confidence": 0.9999014139175415
+    },
+    {
+      "text": "GRAMS",
+      "bbox": [
+        457,
+        539,
+        497,
+        553
+      ],
+      "confidence": 0.9583389163017273
+    },
+    {
+      "text": "2069733017",
+      "bbox": [
+        728,
+        836,
+        753,
+        921
+      ],
+      "confidence": 0.9999321103096008
+    },
+    {
+      "text": ": FIRMNESS TARGETS AND/OR RANGES ADDED",
+      "bbox": [
+        239,
+        861,
+        519,
+        878
+      ],
+      "confidence": 0.9878905415534973
+    },
+    {
+      "text": "REASON FOR CHANCE",
+      "bbox": [
+        71,
+        866,
+        196,
+        879
+      ],
+      "confidence": 0.9973030090332031
+    },
+    {
+      "text": ": NO OTHER CHANGES",
+      "bbox": [
+        238,
+        878,
+        370,
+        894
+      ],
+      "confidence": 0.9990305304527283
+    },
+    {
+      "text": ": 1/20/02",
+      "bbox": [
+        608,
+        933,
+        685,
+        951
+      ],
+      "confidence": 0.9488002061843872
+    },
+    {
+      "text": "PREPARED BY",
+      "bbox": [
+        71,
+        938,
+        155,
+        954
+      ],
+      "confidence": 0.9993417859077454
+    },
+    {
+      "text": ": J.D. ELLIS / (AS400)",
+      "bbox": [
+        240,
+        938,
+        401,
+        954
+      ],
+      "confidence": 0.94091796875
+    },
+    {
+      "text": "PRINTING DATE",
+      "bbox": [
+        436,
+        939,
+        536,
+        952
+      ],
+      "confidence": 0.988423764705658
+    },
+    {
+      "text": ": 15:13:59",
+      "bbox": [
+        608,
+        948,
+        684,
+        966
+      ],
+      "confidence": 0.990792453289032
+    },
+    {
+      "text": "PREPARATION DATE",
+      "bbox": [
+        71,
+        954,
+        192,
+        969
+      ],
+      "confidence": 0.9943662881851196
+    },
+    {
+      "text": ": 12/01/94",
+      "bbox": [
+        242,
+        957,
+        313,
+        967
+      ],
+      "confidence": 0.9938915371894836
+    },
+    {
+      "text": "PRINTING TIME",
+      "bbox": [
+        435,
+        953,
+        536,
+        968
+      ],
+      "confidence": 0.9990314245223999
+    },
+    {
+      "text": "SUPERCEDES SPECIFICATION DATED: 12/12/94",
+      "bbox": [
+        421,
+        978,
+        721,
+        1000
+      ],
+      "confidence": 0.9907459020614624
+    },
+    {
+      "text": "APPROVED BY:",
+      "bbox": [
+        39,
+        987,
+        127,
+        1000
+      ],
+      "confidence": 0.9917333126068115
+    }
+  ],
+  "full_text": "BASIC WEIGHT _SPECIFICATION\nLOUISVILLE\nEFFECTIVE DATE: 09/29/1995\nMARLBORO KS REGULAR 25'S SP\nSTANDARD PRODUCTION\nBRAND CODE-03291 (STD)\nPHYSICAL PARAMETERS\nTOBACCO ROD LENGTH\nTIPPING LENGTH\n63.0\nMM\nCIGARETTE PAPER WIDTH\n25.000\nMM\nCIRCUMFERENCE\nI\n27.00\nHM\nMM\nCALCULATED VOLUME\n:\n24.80\nCUBIC HM\nCALCULATED DENSITY\n3,083.4297\n24.3683\nCGMS/CC\n:\nTARGETS\nPACK O. V.\n:\n13.00\n% W/W\nLOOSE ENDS\n<\n0.500\nGHS/50\nFIRMNESS TARGET\n3.00\nMH\nRANGE\n:\nFROM\n2.60\nTO 3.40\nHM\n(ONE WEEK N=3)\nRANGE\nFROM\n2.90\nTO 3.10\nMM\n(EIGHT WEEK N=24)\nFILLER WEIGHT\n.7513808\nGRAMS\nCALCULATED WEIGHT :\n1.6565\nLBS. /1000\nPAPER AND ADHESIVE\n.0442840\nGRAMS\nROD WEIGHT\n.7956648\nGRAMS\nTIPPING AND ADHESIVE\n.0313904\nGRAMS\nTOTAL LESS PLUG\n.8270552\nGRAMS\n2069733017\n: FIRMNESS TARGETS AND/OR RANGES ADDED\nREASON FOR CHANCE\n: NO OTHER CHANGES\n: 1/20/02\nPREPARED BY\n: J.D. ELLIS / (AS400)\nPRINTING DATE\n: 15:13:59\nPREPARATION DATE\n: 12/01/94\nPRINTING TIME\nSUPERCEDES SPECIFICATION DATED: 12/12/94\nAPPROVED BY:"
+}

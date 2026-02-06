@@ -1,0 +1,231 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0448.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From: Rcynolds, Juacane L.(RBM) 2300",
+      "bbox": [
+        69,
+        47,
+        339,
+        68
+      ],
+      "confidence": 0.9895233511924744
+    },
+    {
+      "text": "To: Hickman, Tommy L.",
+      "bbox": [
+        70,
+        64,
+        237,
+        89
+      ],
+      "confidence": 0.9939295649528503
+    },
+    {
+      "text": "CC: Ingram, Tom; Threat, Harold",
+      "bbox": [
+        70,
+        86,
+        297,
+        106
+      ],
+      "confidence": 0.988175094127655
+    },
+    {
+      "text": "BCC:",
+      "bbox": [
+        67,
+        103,
+        114,
+        124
+      ],
+      "confidence": 0.9997826814651489
+    },
+    {
+      "text": "Primary Date: 6/28/1995 2:52:00 PM",
+      "bbox": [
+        68,
+        123,
+        321,
+        144
+      ],
+      "confidence": 0.9835348725318909
+    },
+    {
+      "text": "Last Modified Date: 1997-Nov-21 11:06:59",
+      "bbox": [
+        68,
+        141,
+        362,
+        163
+      ],
+      "confidence": 0.9985912442207336
+    },
+    {
+      "text": "Last Touched Date:",
+      "bbox": [
+        69,
+        162,
+        209,
+        184
+      ],
+      "confidence": 0.9994084239006042
+    },
+    {
+      "text": "Sent Date: 1995-Jun-28 14:35:00",
+      "bbox": [
+        70,
+        181,
+        293,
+        202
+      ],
+      "confidence": 0.9913834929466248
+    },
+    {
+      "text": "Received Date: 1995-Jun-28 14:52:00",
+      "bbox": [
+        68,
+        200,
+        323,
+        221
+      ],
+      "confidence": 0.9788926243782043
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        67,
+        218,
+        133,
+        244
+      ],
+      "confidence": 0.9999150037765503
+    },
+    {
+      "text": "Attachments:",
+      "bbox": [
+        68,
+        257,
+        167,
+        281
+      ],
+      "confidence": 0.9998793601989746
+    },
+    {
+      "text": "Tommy:",
+      "bbox": [
+        65,
+        312,
+        133,
+        340
+      ],
+      "confidence": 0.9997559189796448
+    },
+    {
+      "text": "Looks like N2000 is building momentum. I could not resist scnding in my thoughts.",
+      "bbox": [
+        72,
+        355,
+        606,
+        372
+      ],
+      "confidence": 0.9743055105209351
+    },
+    {
+      "text": "1. Develop initial invcstment spending mentality to jump-start RJR brands. Generation of",
+      "bbox": [
+        72,
+        390,
+        643,
+        412
+      ],
+      "confidence": 0.9864366054534912
+    },
+    {
+      "text": "trial and awareness are crucial.",
+      "bbox": [
+        71,
+        410,
+        273,
+        431
+      ],
+      "confidence": 0.9810793399810791
+    },
+    {
+      "text": "2. Aggressively penetrate MIP markcts with Menthol products which have taste signature",
+      "bbox": [
+        71,
+        449,
+        641,
+        471
+      ],
+      "confidence": 0.9837154746055603
+    },
+    {
+      "text": "more appealing to those smokers, i.e. Salem Preferred, Salcm Gold.",
+      "bbox": [
+        73,
+        469,
+        506,
+        490
+      ],
+      "confidence": 0.9884396195411682
+    },
+    {
+      "text": "3. Develop and implement grass roots oriented trial and conversion programs. \"Personal",
+      "bbox": [
+        72,
+        505,
+        634,
+        529
+      ],
+      "confidence": 0.9836449027061462
+    },
+    {
+      "text": "Selling\" with a generous trial offer.",
+      "bbox": [
+        72,
+        527,
+        301,
+        548
+      ],
+      "confidence": 0.9862568974494934
+    },
+    {
+      "text": "Best of luck,",
+      "bbox": [
+        71,
+        563,
+        159,
+        587
+      ],
+      "confidence": 0.9965776801109314
+    },
+    {
+      "text": "Juacane",
+      "bbox": [
+        70,
+        604,
+        131,
+        626
+      ],
+      "confidence": 0.9999618530273438
+    },
+    {
+      "text": "52875 8597",
+      "bbox": [
+        716,
+        890,
+        747,
+        990
+      ],
+      "confidence": 0.950901985168457
+    }
+  ],
+  "full_text": "From: Rcynolds, Juacane L.(RBM) 2300\nTo: Hickman, Tommy L.\nCC: Ingram, Tom; Threat, Harold\nBCC:\nPrimary Date: 6/28/1995 2:52:00 PM\nLast Modified Date: 1997-Nov-21 11:06:59\nLast Touched Date:\nSent Date: 1995-Jun-28 14:35:00\nReceived Date: 1995-Jun-28 14:52:00\nSubject:\nAttachments:\nTommy:\nLooks like N2000 is building momentum. I could not resist scnding in my thoughts.\n1. Develop initial invcstment spending mentality to jump-start RJR brands. Generation of\ntrial and awareness are crucial.\n2. Aggressively penetrate MIP markcts with Menthol products which have taste signature\nmore appealing to those smokers, i.e. Salem Preferred, Salcm Gold.\n3. Develop and implement grass roots oriented trial and conversion programs. \"Personal\nSelling\" with a generous trial offer.\nBest of luck,\nJuacane\n52875 8597"
+}

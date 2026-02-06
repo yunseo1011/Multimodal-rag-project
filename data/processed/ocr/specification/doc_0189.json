@@ -1,0 +1,1431 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0189.png",
+    "image_width": 783,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "4SDS DATE: 9/19/88",
+      "bbox": [
+        0,
+        20,
+        109,
+        40
+      ],
+      "confidence": 0.9464104175567627
+    },
+    {
+      "text": "MSDS NO.:",
+      "bbox": [
+        595,
+        39,
+        658,
+        55
+      ],
+      "confidence": 0.9845166802406311
+    },
+    {
+      "text": "16-124E73-16",
+      "bbox": [
+        650,
+        38,
+        733,
+        55
+      ],
+      "confidence": 0.9939990043640137
+    },
+    {
+      "text": "16-124E73-15",
+      "bbox": [
+        658,
+        50,
+        733,
+        67
+      ],
+      "confidence": 0.9763830304145813
+    },
+    {
+      "text": "MATERIAL SAFETY DATA SHEET",
+      "bbox": [
+        266,
+        64,
+        523,
+        90
+      ],
+      "confidence": 0.9997670650482178
+    },
+    {
+      "text": "REPLACES:",
+      "bbox": [
+        597,
+        53,
+        654,
+        65
+      ],
+      "confidence": 0.9982838034629822
+    },
+    {
+      "text": "SECTICN I - PRODUCT IDENTIFICATION",
+      "bbox": [
+        307,
+        96,
+        509,
+        113
+      ],
+      "confidence": 0.9605348110198975
+    },
+    {
+      "text": "PRODUCT NUMBER:",
+      "bbox": [
+        0,
+        109,
+        90,
+        127
+      ],
+      "confidence": 0.9645513296127319
+    },
+    {
+      "text": "ROOUCT NAME:",
+      "bbox": [
+        0,
+        123,
+        80,
+        140
+      ],
+      "confidence": 0.9565736651420593
+    },
+    {
+      "text": "BAR RUST 235 OXIDE RED BASE",
+      "bbox": [
+        83,
+        126,
+        251,
+        146
+      ],
+      "confidence": 0.9866638779640198
+    },
+    {
+      "text": "23587821",
+      "bbox": [
+        97,
+        113,
+        150,
+        131
+      ],
+      "confidence": 0.9985209703445435
+    },
+    {
+      "text": "MANUFACTURER: DEVOE COATINGS COMPANY",
+      "bbox": [
+        440,
+        122,
+        661,
+        138
+      ],
+      "confidence": 0.9773015975952148
+    },
+    {
+      "text": "4000 DUPONT CIRCLE, LOUISVILLE, KY 40207",
+      "bbox": [
+        441,
+        134,
+        678,
+        150
+      ],
+      "confidence": 0.9915582537651062
+    },
+    {
+      "text": "EMERGENCY TELEPHONE: 800-424-9300 (CHEMTREC)",
+      "bbox": [
+        440,
+        145,
+        708,
+        164
+      ],
+      "confidence": 0.9612888097763062
+    },
+    {
+      "text": "TELEPHONE: 502-897-9861",
+      "bbox": [
+        442,
+        160,
+        584,
+        173
+      ],
+      "confidence": 0.9974937438964844
+    },
+    {
+      "text": "SECTION II · HAZARDOUS INGREDIENTS",
+      "bbox": [
+        281,
+        180,
+        487,
+        200
+      ],
+      "confidence": 0.991418719291687
+    },
+    {
+      "text": "INGREDIENT",
+      "bbox": [
+        8,
+        199,
+        75,
+        216
+      ],
+      "confidence": 0.9989086985588074
+    },
+    {
+      "text": "PERCT.",
+      "bbox": [
+        296,
+        202,
+        342,
+        224
+      ],
+      "confidence": 0.9812315106391907
+    },
+    {
+      "text": "BY WT.",
+      "bbox": [
+        296,
+        216,
+        342,
+        237
+      ],
+      "confidence": 0.8616690635681152
+    },
+    {
+      "text": "CAS NO.",
+      "bbox": [
+        355,
+        204,
+        404,
+        225
+      ],
+      "confidence": 0.9942339062690735
+    },
+    {
+      "text": "ACGIH",
+      "bbox": [
+        455,
+        209,
+        490,
+        224
+      ],
+      "confidence": 0.9977525472640991
+    },
+    {
+      "text": "OSHA",
+      "bbox": [
+        554,
+        210,
+        583,
+        225
+      ],
+      "confidence": 0.999507486820221
+    },
+    {
+      "text": "HAZARDOUS",
+      "bbox": [
+        624,
+        211,
+        681,
+        225
+      ],
+      "confidence": 0.9994522929191589
+    },
+    {
+      "text": "VAPOR (2)",
+      "bbox": [
+        691,
+        208,
+        750,
+        226
+      ],
+      "confidence": 0.9635756015777588
+    },
+    {
+      "text": "TLV (PPM)",
+      "bbox": [
+        442,
+        221,
+        501,
+        238
+      ],
+      "confidence": 0.9468593597412109
+    },
+    {
+      "text": "PEL (PPM)",
+      "bbox": [
+        540,
+        223,
+        598,
+        237
+      ],
+      "confidence": 0.9941740036010742
+    },
+    {
+      "text": "a",
+      "bbox": [
+        631,
+        226,
+        640,
+        236
+      ],
+      "confidence": 0.9375579953193665
+    },
+    {
+      "text": "b",
+      "bbox": [
+        648,
+        226,
+        659,
+        236
+      ],
+      "confidence": 0.9840949177742004
+    },
+    {
+      "text": "c",
+      "bbox": [
+        665,
+        226,
+        675,
+        236
+      ],
+      "confidence": 0.8116781115531921
+    },
+    {
+      "text": "PRESSURE",
+      "bbox": [
+        692,
+        224,
+        744,
+        238
+      ],
+      "confidence": 0.9994108080863953
+    },
+    {
+      "text": "HYDROCARBON RESIN",
+      "bbox": [
+        0,
+        238,
+        110,
+        254
+      ],
+      "confidence": 0.9991372227668762
+    },
+    {
+      "text": "10",
+      "bbox": [
+        318,
+        245,
+        333,
+        259
+      ],
+      "confidence": 0.9997740983963013
+    },
+    {
+      "text": "PROPRIETARY",
+      "bbox": [
+        343,
+        242,
+        414,
+        261
+      ],
+      "confidence": 0.9993053078651428
+    },
+    {
+      "text": "NE",
+      "bbox": [
+        424,
+        244,
+        442,
+        261
+      ],
+      "confidence": 0.9996485114097595
+    },
+    {
+      "text": "EPOXY FLEXIBILIZER",
+      "bbox": [
+        0,
+        251,
+        115,
+        267
+      ],
+      "confidence": 0.9993505477905273
+    },
+    {
+      "text": "<5",
+      "bbox": [
+        318,
+        256,
+        332,
+        272
+      ],
+      "confidence": 0.9981770515441895
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        345,
+        259,
+        361,
+        272
+      ],
+      "confidence": 0.9998388290405273
+    },
+    {
+      "text": ".005",
+      "bbox": [
+        425,
+        259,
+        454,
+        274
+      ],
+      "confidence": 0.9990556240081787
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        524,
+        248,
+        540,
+        262
+      ],
+      "confidence": 0.9998340606689453
+    },
+    {
+      "text": ".020",
+      "bbox": [
+        524,
+        260,
+        553,
+        276
+      ],
+      "confidence": 0.9989279508590698
+    },
+    {
+      "text": "<.001",
+      "bbox": [
+        684,
+        259,
+        722,
+        280
+      ],
+      "confidence": 0.9805737733840942
+    },
+    {
+      "text": "NE",
+      "bbox": [
+        686,
+        249,
+        702,
+        263
+      ],
+      "confidence": 0.9995297193527222
+    },
+    {
+      "text": "EPOXY RESIN",
+      "bbox": [
+        0,
+        264,
+        72,
+        278
+      ],
+      "confidence": 0.9930099844932556
+    },
+    {
+      "text": "IRON OXIDE",
+      "bbox": [
+        0,
+        275,
+        66,
+        291
+      ],
+      "confidence": 0.9703179597854614
+    },
+    {
+      "text": "20",
+      "bbox": [
+        316,
+        268,
+        333,
+        286
+      ],
+      "confidence": 0.9994757771492004
+    },
+    {
+      "text": "MIXTURE",
+      "bbox": [
+        344,
+        271,
+        389,
+        285
+      ],
+      "confidence": 0.9994683861732483
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        424,
+        272,
+        440,
+        286
+      ],
+      "confidence": 0.9992425441741943
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        524,
+        274,
+        540,
+        287
+      ],
+      "confidence": 0.9997981190681458
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        687,
+        275,
+        703,
+        288
+      ],
+      "confidence": 0.999646782875061
+    },
+    {
+      "text": "SILICATE",
+      "bbox": [
+        0,
+        291,
+        52,
+        302
+      ],
+      "confidence": 0.99982750415802
+    },
+    {
+      "text": "1309-37-1",
+      "bbox": [
+        344,
+        283,
+        401,
+        297
+      ],
+      "confidence": 0.967947244644165
+    },
+    {
+      "text": "5 MG/M^3",
+      "bbox": [
+        421,
+        281,
+        477,
+        302
+      ],
+      "confidence": 0.9481422901153564
+    },
+    {
+      "text": "10 MG/M^3",
+      "bbox": [
+        524,
+        286,
+        581,
+        300
+      ],
+      "confidence": 0.995442807674408
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        687,
+        288,
+        703,
+        301
+      ],
+      "confidence": 0.999267578125
+    },
+    {
+      "text": "INERT PIGMENT",
+      "bbox": [
+        0,
+        303,
+        84,
+        317
+      ],
+      "confidence": 0.996698796749115
+    },
+    {
+      "text": "10",
+      "bbox": [
+        316,
+        306,
+        330,
+        323
+      ],
+      "confidence": 0.9999520778656006
+    },
+    {
+      "text": "14807-96-6",
+      "bbox": [
+        341,
+        293,
+        407,
+        313
+      ],
+      "confidence": 0.9603284597396851
+    },
+    {
+      "text": "3 MG/M3",
+      "bbox": [
+        420,
+        306,
+        470,
+        327
+      ],
+      "confidence": 0.9600899815559387
+    },
+    {
+      "text": "2 MG/M3(RESP.",
+      "bbox": [
+        421,
+        294,
+        512,
+        314
+      ],
+      "confidence": 0.9707339406013489
+    },
+    {
+      "text": "20 MPPCF",
+      "bbox": [
+        523,
+        296,
+        575,
+        312
+      ],
+      "confidence": 0.9640548229217529
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        687,
+        300,
+        703,
+        314
+      ],
+      "confidence": 0.9998542070388794
+    },
+    {
+      "text": "HIGH FLASH NAPHTHA",
+      "bbox": [
+        0,
+        314,
+        113,
+        331
+      ],
+      "confidence": 0.9972388744354248
+    },
+    {
+      "text": "10",
+      "bbox": [
+        314,
+        319,
+        331,
+        337
+      ],
+      "confidence": 0.9997774958610535
+    },
+    {
+      "text": "64742·95-6",
+      "bbox": [
+        340,
+        317,
+        407,
+        337
+      ],
+      "confidence": 0.9389479756355286
+    },
+    {
+      "text": "20 MPPCF",
+      "bbox": [
+        522,
+        309,
+        574,
+        327
+      ],
+      "confidence": 0.962836503982544
+    },
+    {
+      "text": "NA",
+      "bbox": [
+        687,
+        312,
+        703,
+        327
+      ],
+      "confidence": 0.9997867345809937
+    },
+    {
+      "text": "METHYL NORMAL AMYL KETONE",
+      "bbox": [
+        0,
+        326,
+        154,
+        345
+      ],
+      "confidence": 0.9586280584335327
+    },
+    {
+      "text": "110-43-0",
+      "bbox": [
+        341,
+        331,
+        394,
+        349
+      ],
+      "confidence": 0.9686465859413147
+    },
+    {
+      "text": "NE",
+      "bbox": [
+        423,
+        323,
+        440,
+        337
+      ],
+      "confidence": 0.9995666742324829
+    },
+    {
+      "text": "50",
+      "bbox": [
+        423,
+        335,
+        439,
+        349
+      ],
+      "confidence": 0.9997889399528503
+    },
+    {
+      "text": "100",
+      "bbox": [
+        522,
+        336,
+        545,
+        352
+      ],
+      "confidence": 0.9999815821647644
+    },
+    {
+      "text": "100",
+      "bbox": [
+        523,
+        323,
+        546,
+        339
+      ],
+      "confidence": 0.9997234344482422
+    },
+    {
+      "text": "4.0",
+      "bbox": [
+        686,
+        337,
+        711,
+        352
+      ],
+      "confidence": 0.9993867874145508
+    },
+    {
+      "text": "10",
+      "bbox": [
+        687,
+        325,
+        703,
+        339
+      ],
+      "confidence": 0.9999495148658752
+    },
+    {
+      "text": "N-BUTYL ALCOHOL",
+      "bbox": [
+        0,
+        340,
+        94,
+        355
+      ],
+      "confidence": 0.9827881455421448
+    },
+    {
+      "text": "71-36-3",
+      "bbox": [
+        342,
+        346,
+        388,
+        361
+      ],
+      "confidence": 0.995177149772644
+    },
+    {
+      "text": "50 (C) SKIN",
+      "bbox": [
+        421,
+        347,
+        493,
+        364
+      ],
+      "confidence": 0.8854311108589172
+    },
+    {
+      "text": "100",
+      "bbox": [
+        522,
+        348,
+        545,
+        364
+      ],
+      "confidence": 0.9996606707572937
+    },
+    {
+      "text": "x x",
+      "bbox": [
+        645,
+        349,
+        678,
+        364
+      ],
+      "confidence": 0.9478738903999329
+    },
+    {
+      "text": "5.9",
+      "bbox": [
+        685,
+        349,
+        711,
+        365
+      ],
+      "confidence": 0.998116672039032
+    },
+    {
+      "text": "NOTE:",
+      "bbox": [
+        9,
+        404,
+        46,
+        418
+      ],
+      "confidence": 0.999311625957489
+    },
+    {
+      "text": "This product does not contain ingredients considered carcinogens or potential carcinogens by AcGiH, Federal osHA,",
+      "bbox": [
+        51,
+        402,
+        732,
+        431
+      ],
+      "confidence": 0.9704261422157288
+    },
+    {
+      "text": "NTP, IARC, or CAL/OSHA.",
+      "bbox": [
+        53,
+        417,
+        194,
+        434
+      ],
+      "confidence": 0.9487708806991577
+    },
+    {
+      "text": "ABBREVIATIONS: NE-NOT ESTABLISHED, NA-NOT APPLICABLE, C-CEILING LIMIT, D-NUISANCE PARTICLE TLV 10 MG/M^3 TOTAL DUST,",
+      "bbox": [
+        7,
+        440,
+        713,
+        466
+      ],
+      "confidence": 0.9867053627967834
+    },
+    {
+      "text": "[C] -CARCINOGEN, [PC] -POTENTIAL CARCINOGEN, DD-INERT CR NUISANCE DUST PEL 15 MG/M^3 TOTAL DUST, (1) NOT ESTABLISHED.",
+      "bbox": [
+        9,
+        454,
+        702,
+        479
+      ],
+      "confidence": 0.970133900642395
+    },
+    {
+      "text": "USE STODDARD SOLVENT AS A GUIDE, (2) mm Hg. [X] - HAZARDOUS ACCORDING TO:",
+      "bbox": [
+        7,
+        467,
+        456,
+        489
+      ],
+      "confidence": 0.9783441424369812
+    },
+    {
+      "text": "a-SARA 302/304,",
+      "bbox": [
+        466,
+        475,
+        568,
+        489
+      ],
+      "confidence": 0.99489426612854
+    },
+    {
+      "text": "b-SARA 313,",
+      "bbox": [
+        562,
+        476,
+        642,
+        489
+      ],
+      "confidence": 0.9800455570220947
+    },
+    {
+      "text": "c-CERCLA 103a",
+      "bbox": [
+        644,
+        475,
+        732,
+        489
+      ],
+      "confidence": 0.9845089316368103
+    },
+    {
+      "text": "SECTION III - PHYSICAL DATA",
+      "bbox": [
+        296,
+        496,
+        461,
+        513
+      ],
+      "confidence": 0.9966144561767578
+    },
+    {
+      "text": "DILING RANGE:",
+      "bbox": [
+        0,
+        523,
+        77,
+        537
+      ],
+      "confidence": 0.9579164981842041
+    },
+    {
+      "text": "BY VOLUME:",
+      "bbox": [
+        89,
+        532,
+        154,
+        549
+      ],
+      "confidence": 0.994548499584198
+    },
+    {
+      "text": "240 - 306 DEGREES F",
+      "bbox": [
+        92,
+        521,
+        207,
+        535
+      ],
+      "confidence": 0.9867995381355286
+    },
+    {
+      "text": "POUNDS PER GALLON:",
+      "bbox": [
+        219,
+        520,
+        328,
+        536
+      ],
+      "confidence": 0.9986699223518372
+    },
+    {
+      "text": "11.87",
+      "bbox": [
+        342,
+        522,
+        377,
+        537
+      ],
+      "confidence": 0.9998770952224731
+    },
+    {
+      "text": "VAPOR DENSITY:",
+      "bbox": [
+        390,
+        523,
+        477,
+        537
+      ],
+      "confidence": 0.9799289703369141
+    },
+    {
+      "text": "x",
+      "bbox": [
+        518,
+        521,
+        532,
+        538
+      ],
+      "confidence": 0.980471134185791
+    },
+    {
+      "text": "HEAVIER",
+      "bbox": [
+        541,
+        524,
+        588,
+        539
+      ],
+      "confidence": 0.9989567995071411
+    },
+    {
+      "text": "LIGHTER THAN AIR",
+      "bbox": [
+        616,
+        523,
+        721,
+        542
+      ],
+      "confidence": 0.9983112812042236
+    },
+    {
+      "text": "ERCENT VOLATILE",
+      "bbox": [
+        0,
+        534,
+        92,
+        551
+      ],
+      "confidence": 0.9924107789993286
+    },
+    {
+      "text": "34.09",
+      "bbox": [
+        167,
+        533,
+        201,
+        547
+      ],
+      "confidence": 0.9998055696487427
+    },
+    {
+      "text": "VOC: 286.23 (GRAMS/LITER)",
+      "bbox": [
+        220,
+        533,
+        370,
+        550
+      ],
+      "confidence": 0.9856501221656799
+    },
+    {
+      "text": "EVAPORATION RATE:",
+      "bbox": [
+        390,
+        536,
+        495,
+        550
+      ],
+      "confidence": 0.9834249019622803
+    },
+    {
+      "text": "FASTER",
+      "bbox": [
+        534,
+        535,
+        575,
+        553
+      ],
+      "confidence": 0.9995716214179993
+    },
+    {
+      "text": "SLOWER THAN ETHER",
+      "bbox": [
+        616,
+        537,
+        725,
+        553
+      ],
+      "confidence": 0.9946776032447815
+    },
+    {
+      "text": "SECTICN IV - FIRE AND EXPLOSION HAZARD DATA",
+      "bbox": [
+        244,
+        559,
+        502,
+        576
+      ],
+      "confidence": 0.9867379665374756
+    },
+    {
+      "text": "LAMMABILITY CLASSIFICATION",
+      "bbox": [
+        0,
+        582,
+        153,
+        602
+      ],
+      "confidence": 0.9857165813446045
+    },
+    {
+      "text": "FLASH POINT (SetafLash): 100F",
+      "bbox": [
+        341,
+        586,
+        517,
+        600
+      ],
+      "confidence": 0.9536306858062744
+    },
+    {
+      "text": "OMBUSTIBLE LIOUID - CLASS II",
+      "bbox": [
+        0,
+        607,
+        164,
+        626
+      ],
+      "confidence": 0.9506033062934875
+    },
+    {
+      "text": "LEL:. 1",
+      "bbox": [
+        341,
+        599,
+        393,
+        613
+      ],
+      "confidence": 0.9545360803604126
+    },
+    {
+      "text": "KTINGUISHING MEDIA",
+      "bbox": [
+        0,
+        621,
+        107,
+        639
+      ],
+      "confidence": 0.9939613342285156
+    },
+    {
+      "text": "n case of fire use",
+      "bbox": [
+        0,
+        633,
+        109,
+        650
+      ],
+      "confidence": 0.9939212799072266
+    },
+    {
+      "text": "co2 Dry Chemical, Foam, or other National Fire Protections Association (NFPA) approved method for treating a",
+      "bbox": [
+        104,
+        631,
+        763,
+        656
+      ],
+      "confidence": 0.9811144471168518
+    },
+    {
+      "text": "lass B Fire.",
+      "bbox": [
+        0,
+        646,
+        72,
+        662
+      ],
+      "confidence": 0.9650431275367737
+    },
+    {
+      "text": "NUSUAL FIRE AND EXPLOSION HAZARDS",
+      "bbox": [
+        0,
+        658,
+        194,
+        674
+      ],
+      "confidence": 0.9751411080360413
+    },
+    {
+      "text": "ontainers exposed to extreme heat may explode. Never use a welding or cutting torch on or near container (even empty) as product",
+      "bbox": [
+        0,
+        680,
+        761,
+        708
+      ],
+      "confidence": 0.9488580226898193
+    },
+    {
+      "text": " its residue may ignite. During emergency conditions overexposure to decompasition products may cause a heai th hazard. Symptoms",
+      "bbox": [
+        0,
+        693,
+        759,
+        719
+      ],
+      "confidence": 0.9641982316970825
+    },
+    {
+      "text": "ay not be immediatly apparent. Obtain medical attention.",
+      "bbox": [
+        0,
+        708,
+        332,
+        726
+      ],
+      "confidence": 0.9728055596351624
+    },
+    {
+      "text": "PECIAL FIRE FIGHTING PROCEDURES",
+      "bbox": [
+        0,
+        723,
+        181,
+        736
+      ],
+      "confidence": 0.9975470304489136
+    },
+    {
+      "text": "mmon professional firefighters. Use full protective equipment including self contained breathing apparatus. Water spray may be",
+      "bbox": [
+        0,
+        731,
+        756,
+        756
+      ],
+      "confidence": 0.9806258678436279
+    },
+    {
+      "text": "neffective. If water is used, fog nozzles preferable. If exposed to fire or extreme heat, water should be used to cool closed",
+      "bbox": [
+        0,
+        744,
+        755,
+        767
+      ],
+      "confidence": 0.9784702658653259
+    },
+    {
+      "text": "ontainers and prevent pressure build up or possible auto-ignition.",
+      "bbox": [
+        0,
+        757,
+        383,
+        777
+      ],
+      "confidence": 0.9892148375511169
+    },
+    {
+      "text": "SECTION V - HEALTH HAZARD DATA",
+      "bbox": [
+        241,
+        784,
+        418,
+        800
+      ],
+      "confidence": 0.9628161191940308
+    },
+    {
+      "text": "FFECTS OF OVEREXPOSURE",
+      "bbox": [
+        0,
+        807,
+        127,
+        825
+      ],
+      "confidence": 0.9731861352920532
+    },
+    {
+      "text": "CUTE",
+      "bbox": [
+        0,
+        821,
+        24,
+        836
+      ],
+      "confidence": 0.8913359642028809
+    },
+    {
+      "text": "BREATHING: Irritation of the respiratory tract; headache, nausea, dizziness, weakness and fatigue. Extreme exposure",
+      "bbox": [
+        48,
+        821,
+        749,
+        842
+      ],
+      "confidence": 0.9808483719825745
+    },
+    {
+      "text": "can result in unconsciousness and even respiratory arrest.",
+      "bbox": [
+        116,
+        836,
+        458,
+        851
+      ],
+      "confidence": 0.9929478168487549
+    },
+    {
+      "text": "SKIN oR EYE contAcT: Causes eye and skin irritation. May be harmful if absorbed through the skin.",
+      "bbox": [
+        46,
+        857,
+        632,
+        879
+      ],
+      "confidence": 0.9616442918777466
+    },
+    {
+      "text": "May cause al lergic reaction. Overexposure may cause permanent lung damage.",
+      "bbox": [
+        116,
+        848,
+        556,
+        864
+      ],
+      "confidence": 0.9888893365859985
+    },
+    {
+      "text": "swALLowiNG: Can cause stomach and/or intestinal irritation, nausea, vomiting and diarrhea.",
+      "bbox": [
+        45,
+        871,
+        574,
+        891
+      ],
+      "confidence": 0.9718878865242004
+    },
+    {
+      "text": "RONIC",
+      "bbox": [
+        0,
+        883,
+        34,
+        898
+      ],
+      "confidence": 0.9969736933708191
+    },
+    {
+      "text": "Reports have associated repeated and prolonged occupational overexposure to solvents with permanent brain and nervous",
+      "bbox": [
+        43,
+        883,
+        749,
+        904
+      ],
+      "confidence": 0.9801509380340576
+    },
+    {
+      "text": "system damage. Prolonged or repeated breathing of spray mist and/or sanding dust over a period of years may cause dust",
+      "bbox": [
+        43,
+        896,
+        748,
+        916
+      ],
+      "confidence": 0.9759548902511597
+    },
+    {
+      "text": "ICAL CONDITIONS PRONE TO AGGRAVATION BY EXPOSURE",
+      "bbox": [
+        0,
+        921,
+        286,
+        941
+      ],
+      "confidence": 0.9793078303337097
+    },
+    {
+      "text": "disease of the lungs.",
+      "bbox": [
+        43,
+        909,
+        167,
+        927
+      ],
+      "confidence": 0.9690031409263611
+    },
+    {
+      "text": "None, when used in ,accordance wi th, safe handl ing and use information (See Section vIII).",
+      "bbox": [
+        39,
+        934,
+        561,
+        955
+      ],
+      "confidence": 0.9565004110336304
+    },
+    {
+      "text": "MARY ROUTE(S) OF ENTRY",
+      "bbox": [
+        0,
+        949,
+        132,
+        962
+      ],
+      "confidence": 0.9477198123931885
+    },
+    {
+      "text": "SKIN",
+      "bbox": [
+        186,
+        951,
+        218,
+        965
+      ],
+      "confidence": 0.9995062351226807
+    },
+    {
+      "text": "BREATHING",
+      "bbox": [
+        273,
+        952,
+        334,
+        966
+      ],
+      "confidence": 0.9987928867340088
+    },
+    {
+      "text": "SWALLOWING",
+      "bbox": [
+        393,
+        949,
+        462,
+        966
+      ],
+      "confidence": 0.9992996454238892
+    },
+    {
+      "text": "x",
+      "bbox": [
+        359,
+        953,
+        381,
+        965
+      ],
+      "confidence": 0.9823927879333496
+    },
+    {
+      "text": "SECTION v Continued on Next Page",
+      "bbox": [
+        273,
+        976,
+        465,
+        993
+      ],
+      "confidence": 0.9847232699394226
+    }
+  ],
+  "full_text": "4SDS DATE: 9/19/88\nMSDS NO.:\n16-124E73-16\n16-124E73-15\nMATERIAL SAFETY DATA SHEET\nREPLACES:\nSECTICN I - PRODUCT IDENTIFICATION\nPRODUCT NUMBER:\nROOUCT NAME:\nBAR RUST 235 OXIDE RED BASE\n23587821\nMANUFACTURER: DEVOE COATINGS COMPANY\n4000 DUPONT CIRCLE, LOUISVILLE, KY 40207\nEMERGENCY TELEPHONE: 800-424-9300 (CHEMTREC)\nTELEPHONE: 502-897-9861\nSECTION II · HAZARDOUS INGREDIENTS\nINGREDIENT\nPERCT.\nBY WT.\nCAS NO.\nACGIH\nOSHA\nHAZARDOUS\nVAPOR (2)\nTLV (PPM)\nPEL (PPM)\na\nb\nc\nPRESSURE\nHYDROCARBON RESIN\n10\nPROPRIETARY\nNE\nEPOXY FLEXIBILIZER\n<5\nNA\n.005\nNA\n.020\n<.001\nNE\nEPOXY RESIN\nIRON OXIDE\n20\nMIXTURE\nNA\nNA\nNA\nSILICATE\n1309-37-1\n5 MG/M^3\n10 MG/M^3\nNA\nINERT PIGMENT\n10\n14807-96-6\n3 MG/M3\n2 MG/M3(RESP.\n20 MPPCF\nNA\nHIGH FLASH NAPHTHA\n10\n64742·95-6\n20 MPPCF\nNA\nMETHYL NORMAL AMYL KETONE\n110-43-0\nNE\n50\n100\n100\n4.0\n10\nN-BUTYL ALCOHOL\n71-36-3\n50 (C) SKIN\n100\nx x\n5.9\nNOTE:\nThis product does not contain ingredients considered carcinogens or potential carcinogens by AcGiH, Federal osHA,\nNTP, IARC, or CAL/OSHA.\nABBREVIATIONS: NE-NOT ESTABLISHED, NA-NOT APPLICABLE, C-CEILING LIMIT, D-NUISANCE PARTICLE TLV 10 MG/M^3 TOTAL DUST,\n[C] -CARCINOGEN, [PC] -POTENTIAL CARCINOGEN, DD-INERT CR NUISANCE DUST PEL 15 MG/M^3 TOTAL DUST, (1) NOT ESTABLISHED.\nUSE STODDARD SOLVENT AS A GUIDE, (2) mm Hg. [X] - HAZARDOUS ACCORDING TO:\na-SARA 302/304,\nb-SARA 313,\nc-CERCLA 103a\nSECTION III - PHYSICAL DATA\nDILING RANGE:\nBY VOLUME:\n240 - 306 DEGREES F\nPOUNDS PER GALLON:\n11.87\nVAPOR DENSITY:\nx\nHEAVIER\nLIGHTER THAN AIR\nERCENT VOLATILE\n34.09\nVOC: 286.23 (GRAMS/LITER)\nEVAPORATION RATE:\nFASTER\nSLOWER THAN ETHER\nSECTICN IV - FIRE AND EXPLOSION HAZARD DATA\nLAMMABILITY CLASSIFICATION\nFLASH POINT (SetafLash): 100F\nOMBUSTIBLE LIOUID - CLASS II\nLEL:. 1\nKTINGUISHING MEDIA\nn case of fire use\nco2 Dry Chemical, Foam, or other National Fire Protections Association (NFPA) approved method for treating a\nlass B Fire.\nNUSUAL FIRE AND EXPLOSION HAZARDS\nontainers exposed to extreme heat may explode. Never use a welding or cutting torch on or near container (even empty) as product\n its residue may ignite. During emergency conditions overexposure to decompasition products may cause a heai th hazard. Symptoms\nay not be immediatly apparent. Obtain medical attention.\nPECIAL FIRE FIGHTING PROCEDURES\nmmon professional firefighters. Use full protective equipment including self contained breathing apparatus. Water spray may be\nneffective. If water is used, fog nozzles preferable. If exposed to fire or extreme heat, water should be used to cool closed\nontainers and prevent pressure build up or possible auto-ignition.\nSECTION V - HEALTH HAZARD DATA\nFFECTS OF OVEREXPOSURE\nCUTE\nBREATHING: Irritation of the respiratory tract; headache, nausea, dizziness, weakness and fatigue. Extreme exposure\ncan result in unconsciousness and even respiratory arrest.\nSKIN oR EYE contAcT: Causes eye and skin irritation. May be harmful if absorbed through the skin.\nMay cause al lergic reaction. Overexposure may cause permanent lung damage.\nswALLowiNG: Can cause stomach and/or intestinal irritation, nausea, vomiting and diarrhea.\nRONIC\nReports have associated repeated and prolonged occupational overexposure to solvents with permanent brain and nervous\nsystem damage. Prolonged or repeated breathing of spray mist and/or sanding dust over a period of years may cause dust\nICAL CONDITIONS PRONE TO AGGRAVATION BY EXPOSURE\ndisease of the lungs.\nNone, when used in ,accordance wi th, safe handl ing and use information (See Section vIII).\nMARY ROUTE(S) OF ENTRY\nSKIN\nBREATHING\nSWALLOWING\nx\nSECTION v Continued on Next Page"
+}

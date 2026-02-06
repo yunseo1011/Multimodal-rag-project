@@ -1,0 +1,911 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0674.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Ivesligatoi/PTograif Direcior [Last, first, thcdle):",
+      "bbox": [
+        238,
+        0,
+        461,
+        9
+      ],
+      "confidence": 0.865344762802124
+    },
+    {
+      "text": "BIOGRAPHICAL SKETCH",
+      "bbox": [
+        281,
+        19,
+        442,
+        38
+      ],
+      "confidence": 0.9997178316116333
+    },
+    {
+      "text": "Give the following information for the key personnel and consultants and collaborators. Begin with the principal",
+      "bbox": [
+        103,
+        36,
+        616,
+        59
+      ],
+      "confidence": 0.9934459328651428
+    },
+    {
+      "text": "investigator/program director. Photocopy this page for each person.",
+      "bbox": [
+        203,
+        51,
+        518,
+        72
+      ],
+      "confidence": 0.9870710372924805
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        0,
+        72,
+        36,
+        87
+      ],
+      "confidence": 0.9999746084213257
+    },
+    {
+      "text": "POSITION TITLE",
+      "bbox": [
+        328,
+        75,
+        413,
+        93
+      ],
+      "confidence": 0.9981200098991394
+    },
+    {
+      "text": "VERMA, INDER M.",
+      "bbox": [
+        55,
+        91,
+        179,
+        114
+      ],
+      "confidence": 0.9641522169113159
+    },
+    {
+      "text": "PROFESSOR",
+      "bbox": [
+        344,
+        100,
+        415,
+        114
+      ],
+      "confidence": 0.9997859597206116
+    },
+    {
+      "text": "EDUCATION (Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral training.)",
+      "bbox": [
+        0,
+        118,
+        606,
+        142
+      ],
+      "confidence": 0.9762423038482666
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        474,
+        142,
+        510,
+        157
+      ],
+      "confidence": 0.9995140433311462
+    },
+    {
+      "text": "INSTITUTION AND LOCATION",
+      "bbox": [
+        106,
+        154,
+        255,
+        168
+      ],
+      "confidence": 0.9992024302482605
+    },
+    {
+      "text": "DEGREE",
+      "bbox": [
+        374,
+        154,
+        422,
+        168
+      ],
+      "confidence": 0.9983664155006409
+    },
+    {
+      "text": "CONFERRED",
+      "bbox": [
+        457,
+        155,
+        525,
+        169
+      ],
+      "confidence": 0.9983276724815369
+    },
+    {
+      "text": "FIELD OF STUDY",
+      "bbox": [
+        579,
+        155,
+        668,
+        169
+      ],
+      "confidence": 0.9861931204795837
+    },
+    {
+      "text": "Lucknow University, Lucknow India",
+      "bbox": [
+        1,
+        167,
+        274,
+        189
+      ],
+      "confidence": 0.9991825222969055
+    },
+    {
+      "text": "M.Sc.",
+      "bbox": [
+        363,
+        172,
+        404,
+        188
+      ],
+      "confidence": 0.9985969662666321
+    },
+    {
+      "text": "1966",
+      "bbox": [
+        457,
+        170,
+        493,
+        189
+      ],
+      "confidence": 0.9999797344207764
+    },
+    {
+      "text": "Biochemistry",
+      "bbox": [
+        542,
+        172,
+        640,
+        192
+      ],
+      "confidence": 0.9998462200164795
+    },
+    {
+      "text": "The Weizmann Institute, Rehovot, Israel",
+      "bbox": [
+        1,
+        180,
+        322,
+        207
+      ],
+      "confidence": 0.9973467588424683
+    },
+    {
+      "text": "1971",
+      "bbox": [
+        457,
+        186,
+        493,
+        205
+      ],
+      "confidence": 0.9999761581420898
+    },
+    {
+      "text": "M.I.T., Cambridge, MA",
+      "bbox": [
+        1,
+        197,
+        181,
+        220
+      ],
+      "confidence": 0.992963433265686
+    },
+    {
+      "text": "Ph.D.",
+      "bbox": [
+        364,
+        189,
+        405,
+        204
+      ],
+      "confidence": 0.9993423223495483
+    },
+    {
+      "text": "Biology",
+      "bbox": [
+        541,
+        202,
+        602,
+        224
+      ],
+      "confidence": 0.999453604221344
+    },
+    {
+      "text": "Biochemistry",
+      "bbox": [
+        542,
+        188,
+        639,
+        206
+      ],
+      "confidence": 0.9998267292976379
+    },
+    {
+      "text": "Postdoc.",
+      "bbox": [
+        356,
+        203,
+        421,
+        220
+      ],
+      "confidence": 0.9984341263771057
+    },
+    {
+      "text": "1971-1974",
+      "bbox": [
+        450,
+        203,
+        523,
+        220
+      ],
+      "confidence": 0.9961509704589844
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL. EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience, and",
+      "bbox": [
+        0,
+        250,
+        714,
+        271
+      ],
+      "confidence": 0.9846740365028381
+    },
+    {
+      "text": "honors. Key personnel include the principal investigator and any other individuals who participate in the scientific development or execution of the project.",
+      "bbox": [
+        0,
+        264,
+        714,
+        284
+      ],
+      "confidence": 0.9844001531600952
+    },
+    {
+      "text": "Key personnel typically will include all individuals with doctoral or other prcfessional degrees, but in some projects will inctude individuals at the masters or",
+      "bbox": [
+        0,
+        277,
+        714,
+        297
+      ],
+      "confidence": 0.9738733768463135
+    },
+    {
+      "text": "baccalaureate level provided they contribute in a substantive way to the scientific development or execution of the prcject. Include present membership on",
+      "bbox": [
+        0,
+        292,
+        714,
+        308
+      ],
+      "confidence": 0.9868473410606384
+    },
+    {
+      "text": "any Federal Government public advisory committee. List, in chronological order, the titles, all authors, and complete references to all publications during the",
+      "bbox": [
+        0,
+        305,
+        714,
+        322
+      ],
+      "confidence": 0.9945634603500366
+    },
+    {
+      "text": "past three years and to representative earlier publications pertinent to this application. DO NOT EXCEED TWO PAGES.",
+      "bbox": [
+        0,
+        318,
+        563,
+        336
+      ],
+      "confidence": 0.9837113618850708
+    },
+    {
+      "text": "RESEARCH AND PROFESSIONAL EXPERIENCE",
+      "bbox": [
+        81,
+        358,
+        387,
+        372
+      ],
+      "confidence": 0.9983608722686768
+    },
+    {
+      "text": "9/71",
+      "bbox": [
+        81,
+        373,
+        111,
+        388
+      ],
+      "confidence": 0.9999171495437622
+    },
+    {
+      "text": "3/74",
+      "bbox": [
+        139,
+        374,
+        172,
+        389
+      ],
+      "confidence": 0.9998321533203125
+    },
+    {
+      "text": "Department of Biology. Massachusetts Institute of Technology",
+      "bbox": [
+        224,
+        372,
+        591,
+        391
+      ],
+      "confidence": 0.9839000105857849
+    },
+    {
+      "text": "Cambridge, MA (with Dr. David Baltimore)",
+      "bbox": [
+        229,
+        388,
+        482,
+        406
+      ],
+      "confidence": 0.9918016195297241
+    },
+    {
+      "text": "4/74",
+      "bbox": [
+        80,
+        404,
+        111,
+        419
+      ],
+      "confidence": 0.9997000694274902
+    },
+    {
+      "text": "1/79",
+      "bbox": [
+        140,
+        404,
+        173,
+        421
+      ],
+      "confidence": 0.9999129772186279
+    },
+    {
+      "text": "Assistant Professor, The Salk Institute, La Jolla, CA",
+      "bbox": [
+        223,
+        403,
+        540,
+        422
+      ],
+      "confidence": 0.9853833317756653
+    },
+    {
+      "text": "1/79",
+      "bbox": [
+        80,
+        420,
+        110,
+        435
+      ],
+      "confidence": 0.9998524188995361
+    },
+    {
+      "text": "1/83",
+      "bbox": [
+        140,
+        420,
+        171,
+        435
+      ],
+      "confidence": 0.9997905492782593
+    },
+    {
+      "text": "Associate Professor, The Salk Institute, La Jolla, CA",
+      "bbox": [
+        223,
+        419,
+        541,
+        438
+      ],
+      "confidence": 0.9805083870887756
+    },
+    {
+      "text": "7/79",
+      "bbox": [
+        80,
+        436,
+        110,
+        452
+      ],
+      "confidence": 0.999514102935791
+    },
+    {
+      "text": "1/83",
+      "bbox": [
+        140,
+        436,
+        171,
+        452
+      ],
+      "confidence": 0.9995585680007935
+    },
+    {
+      "text": "Adjunct Associate Professor, Department of Biology, University of",
+      "bbox": [
+        222,
+        435,
+        628,
+        454
+      ],
+      "confidence": 0.986930251121521
+    },
+    {
+      "text": "California, San Diego, La Jolla, CA",
+      "bbox": [
+        227,
+        451,
+        436,
+        469
+      ],
+      "confidence": 0.972610592842102
+    },
+    {
+      "text": "2/83",
+      "bbox": [
+        79,
+        468,
+        110,
+        483
+      ],
+      "confidence": 0.9997552633285522
+    },
+    {
+      "text": "1/85",
+      "bbox": [
+        136,
+        468,
+        171,
+        483
+      ],
+      "confidence": 0.9996434450149536
+    },
+    {
+      "text": "Senior Member, Molecular Biology and Virology Laboratory, The",
+      "bbox": [
+        222,
+        467,
+        609,
+        485
+      ],
+      "confidence": 0.9908753037452698
+    },
+    {
+      "text": "Salk Institute, La Jolla, CA",
+      "bbox": [
+        227,
+        483,
+        391,
+        498
+      ],
+      "confidence": 0.9834328293800354
+    },
+    {
+      "text": "7/83",
+      "bbox": [
+        80,
+        499,
+        111,
+        514
+      ],
+      "confidence": 0.999661922454834
+    },
+    {
+      "text": "- Present",
+      "bbox": [
+        113,
+        500,
+        185,
+        514
+      ],
+      "confidence": 0.9474700093269348
+    },
+    {
+      "text": "Adjunct Professor, Department of Biology, University of",
+      "bbox": [
+        223,
+        500,
+        566,
+        514
+      ],
+      "confidence": 0.9846099019050598
+    },
+    {
+      "text": "California, La Jolla, CA",
+      "bbox": [
+        229,
+        515,
+        369,
+        529
+      ],
+      "confidence": 0.9805209040641785
+    },
+    {
+      "text": "2/85",
+      "bbox": [
+        80,
+        529,
+        110,
+        545
+      ],
+      "confidence": 0.9992591142654419
+    },
+    {
+      "text": "Present",
+      "bbox": [
+        130,
+        528,
+        184,
+        546
+      ],
+      "confidence": 0.9990774989128113
+    },
+    {
+      "text": "Professor, Molecular Biology and Virology Laboratory, The Salk",
+      "bbox": [
+        220,
+        528,
+        609,
+        546
+      ],
+      "confidence": 0.9958412647247314
+    },
+    {
+      "text": "Institute, La Jolla, CA",
+      "bbox": [
+        229,
+        546,
+        361,
+        560
+      ],
+      "confidence": 0.9802245497703552
+    },
+    {
+      "text": "ACADEMIC HONORS",
+      "bbox": [
+        81,
+        561,
+        216,
+        576
+      ],
+      "confidence": 0.9990587830543518
+    },
+    {
+      "text": "Reverend Solomon B. Caulker Memorial Fellowship",
+      "bbox": [
+        220,
+        576,
+        524,
+        594
+      ],
+      "confidence": 0.9847187995910645
+    },
+    {
+      "text": "1967-1970",
+      "bbox": [
+        81,
+        578,
+        153,
+        592
+      ],
+      "confidence": 0.9999061226844788
+    },
+    {
+      "text": "1970-1973",
+      "bbox": [
+        81,
+        593,
+        153,
+        607
+      ],
+      "confidence": 0.9999580383300781
+    },
+    {
+      "text": "Fellow, Jane Coffin Childs Memorial Fund for Medical Research",
+      "bbox": [
+        222,
+        594,
+        600,
+        608
+      ],
+      "confidence": 0.9961188435554504
+    },
+    {
+      "text": "1989-1992",
+      "bbox": [
+        81,
+        609,
+        153,
+        623
+      ],
+      "confidence": 0.9999359846115112
+    },
+    {
+      "text": "Academic Council, The Salk Institute",
+      "bbox": [
+        221,
+        608,
+        442,
+        626
+      ],
+      "confidence": 0.9790210723876953
+    },
+    {
+      "text": "1990-Present",
+      "bbox": [
+        81,
+        625,
+        169,
+        639
+      ],
+      "confidence": 0.99967360496521
+    },
+    {
+      "text": "American Cancer Society Professor of Molecular Biology",
+      "bbox": [
+        221,
+        624,
+        566,
+        642
+      ],
+      "confidence": 0.9811607003211975
+    },
+    {
+      "text": "1991-1992",
+      "bbox": [
+        81,
+        640,
+        154,
+        654
+      ],
+      "confidence": 0.9999049305915833
+    },
+    {
+      "text": "Chairman of the Faculty and Academic Council, The Salk Institute",
+      "bbox": [
+        221,
+        639,
+        613,
+        658
+      ],
+      "confidence": 0.9761157631874084
+    },
+    {
+      "text": "MEMBERSHIPS",
+      "bbox": [
+        79,
+        653,
+        185,
+        673
+      ],
+      "confidence": 0.9996431469917297
+    },
+    {
+      "text": "Virology Study Section 10/81 - 7/85; Ad hoc member and chairman of many site visit teams.",
+      "bbox": [
+        80,
+        670,
+        647,
+        690
+      ],
+      "confidence": 0.9759010672569275
+    },
+    {
+      "text": "American Cancer Society Study Section 1986-1990; Chairman 1988-1990",
+      "bbox": [
+        80,
+        685,
+        532,
+        706
+      ],
+      "confidence": 0.9825522303581238
+    },
+    {
+      "text": "Editor, Gene Expression",
+      "bbox": [
+        81,
+        703,
+        223,
+        719
+      ],
+      "confidence": 0.9953671097755432
+    },
+    {
+      "text": "Editorial Board of Virology, Mol. Endocrinol., J. Cell Biochem., Techniques, J. Virology",
+      "bbox": [
+        81,
+        717,
+        599,
+        738
+      ],
+      "confidence": 0.9812275171279907
+    },
+    {
+      "text": "Overseas Advisor, Department of Biotechnclogy. Government of India 1983-Present",
+      "bbox": [
+        81,
+        732,
+        587,
+        754
+      ],
+      "confidence": 0.9877299070358276
+    },
+    {
+      "text": "PUBLICATIONS (Dr. Verma has over 215 publications)",
+      "bbox": [
+        57,
+        763,
+        391,
+        785
+      ],
+      "confidence": 0.9758752584457397
+    },
+    {
+      "text": "Inoue, J., Kerr, L.D., Ransone, L.J., Bengal, E., Hunter, T., and Verma, I. M. (1991) c-Rel activates",
+      "bbox": [
+        57,
+        780,
+        660,
+        805
+      ],
+      "confidence": 0.9705203175544739
+    },
+    {
+      "text": "but v-rel suppresses transcription from kB sites. Proc. Natl. Acad. Sci. USA 88:3715-3719.",
+      "bbox": [
+        81,
+        795,
+        642,
+        821
+      ],
+      "confidence": 0.9610477089881897
+    },
+    {
+      "text": "Yen, J., Wisdom, R. M., Tratner, I., and Verma, I. M. (1991) An alternative spliced form of FosB is",
+      "bbox": [
+        56,
+        812,
+        653,
+        837
+      ],
+      "confidence": 0.9774119853973389
+    },
+    {
+      "text": "a negative regulator of transcriptional activation and transformation by Fos proteins. Proc.",
+      "bbox": [
+        81,
+        829,
+        632,
+        853
+      ],
+      "confidence": 0.9817984104156494
+    },
+    {
+      "text": "Natl. Acad. Sci. USA 88:5077-5081.",
+      "bbox": [
+        82,
+        845,
+        301,
+        863
+      ],
+      "confidence": 0.9731679558753967
+    },
+    {
+      "text": "Scharfmann, R., Axelrod, J.H., and Verma, I.M. (1991) Long term in_vivo expression of retrovirus-",
+      "bbox": [
+        57,
+        860,
+        656,
+        885
+      ],
+      "confidence": 0.9742699861526489
+    },
+    {
+      "text": "mediated gene transfer in mouse fibroblast implants. Proc. Natl. Acad. Sci. USA, 88:4626-",
+      "bbox": [
+        81,
+        876,
+        628,
+        901
+      ],
+      "confidence": 0.9865520596504211
+    },
+    {
+      "text": "Kerr, LD., Inoue, J.l. Davis, N., Link, E. Baeuere, P.A., Bose, H.R. Jr., andVerma, I.M.(1991",
+      "bbox": [
+        54,
+        903,
+        648,
+        937
+      ],
+      "confidence": 0.8328197002410889
+    },
+    {
+      "text": "4630.",
+      "bbox": [
+        82,
+        894,
+        123,
+        908
+      ],
+      "confidence": 0.9337355494499207
+    },
+    {
+      "text": "The Rel-associated pp40 protein prevents DNA binding of Rel and NF-kB: Relationship with IxBβ",
+      "bbox": [
+        81,
+        920,
+        647,
+        952
+      ],
+      "confidence": 0.9772985577583313
+    },
+    {
+      "text": "PHS 398 (Rev. 9/91)",
+      "bbox": [
+        0,
+        951,
+        103,
+        967
+      ],
+      "confidence": 0.9591724872589111
+    },
+    {
+      "text": "(Form Page 6) Page",
+      "bbox": [
+        289,
+        952,
+        385,
+        966
+      ],
+      "confidence": 0.9916433691978455
+    },
+    {
+      "text": "FF",
+      "bbox": [
+        692,
+        956,
+        716,
+        978
+      ],
+      "confidence": 0.9603121280670166
+    }
+  ],
+  "full_text": "Ivesligatoi/PTograif Direcior [Last, first, thcdle):\nBIOGRAPHICAL SKETCH\nGive the following information for the key personnel and consultants and collaborators. Begin with the principal\ninvestigator/program director. Photocopy this page for each person.\nNAME\nPOSITION TITLE\nVERMA, INDER M.\nPROFESSOR\nEDUCATION (Begin with baccalaureate or other initial professional education, such as nursing, and include postdoctoral training.)\nYEAR\nINSTITUTION AND LOCATION\nDEGREE\nCONFERRED\nFIELD OF STUDY\nLucknow University, Lucknow India\nM.Sc.\n1966\nBiochemistry\nThe Weizmann Institute, Rehovot, Israel\n1971\nM.I.T., Cambridge, MA\nPh.D.\nBiology\nBiochemistry\nPostdoc.\n1971-1974\nRESEARCH AND PROFESSIONAL. EXPERIENCE: Concluding with present position, list, in chronological order, previous employment, experience, and\nhonors. Key personnel include the principal investigator and any other individuals who participate in the scientific development or execution of the project.\nKey personnel typically will include all individuals with doctoral or other prcfessional degrees, but in some projects will inctude individuals at the masters or\nbaccalaureate level provided they contribute in a substantive way to the scientific development or execution of the prcject. Include present membership on\nany Federal Government public advisory committee. List, in chronological order, the titles, all authors, and complete references to all publications during the\npast three years and to representative earlier publications pertinent to this application. DO NOT EXCEED TWO PAGES.\nRESEARCH AND PROFESSIONAL EXPERIENCE\n9/71\n3/74\nDepartment of Biology. Massachusetts Institute of Technology\nCambridge, MA (with Dr. David Baltimore)\n4/74\n1/79\nAssistant Professor, The Salk Institute, La Jolla, CA\n1/79\n1/83\nAssociate Professor, The Salk Institute, La Jolla, CA\n7/79\n1/83\nAdjunct Associate Professor, Department of Biology, University of\nCalifornia, San Diego, La Jolla, CA\n2/83\n1/85\nSenior Member, Molecular Biology and Virology Laboratory, The\nSalk Institute, La Jolla, CA\n7/83\n- Present\nAdjunct Professor, Department of Biology, University of\nCalifornia, La Jolla, CA\n2/85\nPresent\nProfessor, Molecular Biology and Virology Laboratory, The Salk\nInstitute, La Jolla, CA\nACADEMIC HONORS\nReverend Solomon B. Caulker Memorial Fellowship\n1967-1970\n1970-1973\nFellow, Jane Coffin Childs Memorial Fund for Medical Research\n1989-1992\nAcademic Council, The Salk Institute\n1990-Present\nAmerican Cancer Society Professor of Molecular Biology\n1991-1992\nChairman of the Faculty and Academic Council, The Salk Institute\nMEMBERSHIPS\nVirology Study Section 10/81 - 7/85; Ad hoc member and chairman of many site visit teams.\nAmerican Cancer Society Study Section 1986-1990; Chairman 1988-1990\nEditor, Gene Expression\nEditorial Board of Virology, Mol. Endocrinol., J. Cell Biochem., Techniques, J. Virology\nOverseas Advisor, Department of Biotechnclogy. Government of India 1983-Present\nPUBLICATIONS (Dr. Verma has over 215 publications)\nInoue, J., Kerr, L.D., Ransone, L.J., Bengal, E., Hunter, T., and Verma, I. M. (1991) c-Rel activates\nbut v-rel suppresses transcription from kB sites. Proc. Natl. Acad. Sci. USA 88:3715-3719.\nYen, J., Wisdom, R. M., Tratner, I., and Verma, I. M. (1991) An alternative spliced form of FosB is\na negative regulator of transcriptional activation and transformation by Fos proteins. Proc.\nNatl. Acad. Sci. USA 88:5077-5081.\nScharfmann, R., Axelrod, J.H., and Verma, I.M. (1991) Long term in_vivo expression of retrovirus-\nmediated gene transfer in mouse fibroblast implants. Proc. Natl. Acad. Sci. USA, 88:4626-\nKerr, LD., Inoue, J.l. Davis, N., Link, E. Baeuere, P.A., Bose, H.R. Jr., andVerma, I.M.(1991\n4630.\nThe Rel-associated pp40 protein prevents DNA binding of Rel and NF-kB: Relationship with IxBβ\nPHS 398 (Rev. 9/91)\n(Form Page 6) Page\nFF"
+}

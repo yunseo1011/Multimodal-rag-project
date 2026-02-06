@@ -1,0 +1,161 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0970.png",
+    "image_width": 762,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "45¢OFF",
+      "bbox": [
+        390,
+        182,
+        548,
+        237
+      ],
+      "confidence": 0.9160667061805725
+    },
+    {
+      "text": "45¢OFF",
+      "bbox": [
+        392,
+        260,
+        548,
+        311
+      ],
+      "confidence": 0.9297270774841309
+    },
+    {
+      "text": "M",
+      "bbox": [
+        390,
+        346,
+        429,
+        381
+      ],
+      "confidence": 0.9886685013771057
+    },
+    {
+      "text": "M",
+      "bbox": [
+        513,
+        349,
+        554,
+        385
+      ],
+      "confidence": 0.9827623963356018
+    },
+    {
+      "text": "43300 13521",
+      "bbox": [
+        429,
+        380,
+        507,
+        400
+      ],
+      "confidence": 0.9925127625465393
+    },
+    {
+      "text": "45$",
+      "bbox": [
+        414,
+        391,
+        524,
+        450
+      ],
+      "confidence": 0.8008103966712952
+    },
+    {
+      "text": "OFFF",
+      "bbox": [
+        411,
+        436,
+        527,
+        486
+      ],
+      "confidence": 0.6802076101303101
+    },
+    {
+      "text": "THIS PACK",
+      "bbox": [
+        424,
+        477,
+        511,
+        497
+      ],
+      "confidence": 0.9997482299804688
+    },
+    {
+      "text": "Montclair",
+      "bbox": [
+        414,
+        494,
+        524,
+        527
+      ],
+      "confidence": 0.9794477820396423
+    },
+    {
+      "text": "M",
+      "bbox": [
+        443,
+        529,
+        494,
+        571
+      ],
+      "confidence": 0.9006590843200684
+    },
+    {
+      "text": "M",
+      "bbox": [
+        383,
+        576,
+        424,
+        612
+      ],
+      "confidence": 0.9920554757118225
+    },
+    {
+      "text": "ECKOUT",
+      "bbox": [
+        477,
+        573,
+        513,
+        583
+      ],
+      "confidence": 0.99362713098526
+    },
+    {
+      "text": "PERL ",
+      "bbox": [
+        511,
+        580,
+        543,
+        606
+      ],
+      "confidence": 0.6460434198379517
+    },
+    {
+      "text": "VOID IF DETACHED",
+      "bbox": [
+        423,
+        602,
+        501,
+        617
+      ],
+      "confidence": 0.9793704748153687
+    },
+    {
+      "text": "III",
+      "bbox": [
+        377,
+        610,
+        393,
+        623
+      ],
+      "confidence": 0.9781177639961243
+    }
+  ],
+  "full_text": "45¢OFF\n45¢OFF\nM\nM\n43300 13521\n45$\nOFFF\nTHIS PACK\nMontclair\nM\nM\nECKOUT\nPERL \nVOID IF DETACHED\nIII"
+}

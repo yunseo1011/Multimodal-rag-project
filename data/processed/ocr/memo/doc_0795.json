@@ -1,0 +1,371 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0795.png",
+    "image_width": 771,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "The Council For Tobacco Research-U.S.A., Inc.",
+      "bbox": [
+        10,
+        18,
+        454,
+        41
+      ],
+      "confidence": 0.934399425983429
+    },
+    {
+      "text": "October 29, 1974",
+      "bbox": [
+        432,
+        117,
+        562,
+        136
+      ],
+      "confidence": 0.9980429410934448
+    },
+    {
+      "text": "REVISED MEMORANDUM",
+      "bbox": [
+        114,
+        181,
+        263,
+        201
+      ],
+      "confidence": 0.9988568425178528
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        111,
+        230,
+        141,
+        246
+      ],
+      "confidence": 0.9993980526924133
+    },
+    {
+      "text": "RCH, WTH and HHR",
+      "bbox": [
+        193,
+        232,
+        322,
+        246
+      ],
+      "confidence": 0.9704381227493286
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        108,
+        259,
+        156,
+        281
+      ],
+      "confidence": 0.9994443655014038
+    },
+    {
+      "text": "WUG",
+      "bbox": [
+        190,
+        262,
+        221,
+        278
+      ],
+      "confidence": 0.9997232556343079
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        109,
+        293,
+        179,
+        313
+      ],
+      "confidence": 0.9996131658554077
+    },
+    {
+      "text": "Meetings for November.",
+      "bbox": [
+        187,
+        294,
+        369,
+        314
+      ],
+      "confidence": 0.9985195398330688
+    },
+    {
+      "text": "November",
+      "bbox": [
+        106,
+        344,
+        178,
+        362
+      ],
+      "confidence": 0.9999397397041321
+    },
+    {
+      "text": "1",
+      "bbox": [
+        214,
+        346,
+        229,
+        359
+      ],
+      "confidence": 0.9385898113250732
+    },
+    {
+      "text": "Scientific Advisory Board meeting",
+      "bbox": [
+        237,
+        344,
+        506,
+        364
+      ],
+      "confidence": 0.9941695332527161
+    },
+    {
+      "text": "5",
+      "bbox": [
+        213,
+        362,
+        227,
+        377
+      ],
+      "confidence": 0.999906063079834
+    },
+    {
+      "text": "Election Day",
+      "bbox": [
+        236,
+        360,
+        339,
+        381
+      ],
+      "confidence": 0.9987106323242188
+    },
+    {
+      "text": "13",
+      "bbox": [
+        204,
+        379,
+        228,
+        396
+      ],
+      "confidence": 0.9986449480056763
+    },
+    {
+      "text": "Information meeting, 9:30 A.M., CTR",
+      "bbox": [
+        237,
+        378,
+        524,
+        398
+      ],
+      "confidence": 0.9905344247817993
+    },
+    {
+      "text": "14",
+      "bbox": [
+        204,
+        396,
+        229,
+        412
+      ],
+      "confidence": 0.9999293684959412
+    },
+    {
+      "text": "Liaison Committee meeting, 9:30 A.M., CTR",
+      "bbox": [
+        236,
+        395,
+        570,
+        414
+      ],
+      "confidence": 0.9749221801757812
+    },
+    {
+      "text": "18-19",
+      "bbox": [
+        178,
+        410,
+        228,
+        431
+      ],
+      "confidence": 0.9998612403869629
+    },
+    {
+      "text": "Visit to Oak Ridge National Laboratory",
+      "bbox": [
+        235,
+        412,
+        546,
+        431
+      ],
+      "confidence": 0.9895732402801514
+    },
+    {
+      "text": "20",
+      "bbox": [
+        205,
+        429,
+        228,
+        447
+      ],
+      "confidence": 0.9998742341995239
+    },
+    {
+      "text": "American Brands, Inc., 10:30 A.M.",
+      "bbox": [
+        234,
+        429,
+        507,
+        448
+      ],
+      "confidence": 0.9940534830093384
+    },
+    {
+      "text": "22",
+      "bbox": [
+        204,
+        447,
+        227,
+        463
+      ],
+      "confidence": 0.9999845027923584
+    },
+    {
+      "text": "R. J. Reynolds, Winston-Salem. Set by Mr.",
+      "bbox": [
+        237,
+        449,
+        576,
+        463
+      ],
+      "confidence": 0.9892560243606567
+    },
+    {
+      "text": "Roemer. This date was originally set for Brown",
+      "bbox": [
+        253,
+        463,
+        635,
+        481
+      ],
+      "confidence": 0.9979480504989624
+    },
+    {
+      "text": "& Williamson but it was changed by Wally Hughes",
+      "bbox": [
+        255,
+        480,
+        635,
+        498
+      ],
+      "confidence": 0.9785578846931458
+    },
+    {
+      "text": "who called RCH and asked for a change of dates.",
+      "bbox": [
+        254,
+        496,
+        635,
+        514
+      ],
+      "confidence": 0.9904585480690002
+    },
+    {
+      "text": "25",
+      "bbox": [
+        205,
+        514,
+        237,
+        529
+      ],
+      "confidence": 0.9986752271652222
+    },
+    {
+      "text": "Philip Morris Incorporated, 1l:30 A.M. Arranged",
+      "bbox": [
+        233,
+        511,
+        630,
+        532
+      ],
+      "confidence": 0.9909322261810303
+    },
+    {
+      "text": "through Mr. Bowling.",
+      "bbox": [
+        255,
+        529,
+        421,
+        550
+      ],
+      "confidence": 0.9974406361579895
+    },
+    {
+      "text": "26",
+      "bbox": [
+        205,
+        546,
+        232,
+        561
+      ],
+      "confidence": 0.9999280571937561
+    },
+    {
+      "text": "Lorillard, 9:30 A.M. Arranged through Curtis",
+      "bbox": [
+        232,
+        543,
+        607,
+        565
+      ],
+      "confidence": 0.9814326763153076
+    },
+    {
+      "text": "Judge, (Changed 10/29/74.)",
+      "bbox": [
+        254,
+        561,
+        477,
+        581
+      ],
+      "confidence": 0.9670021533966064
+    },
+    {
+      "text": "Brown & Williamson Tobacco Corporation. Re-set",
+      "bbox": [
+        234,
+        577,
+        626,
+        599
+      ],
+      "confidence": 0.969764232635498
+    },
+    {
+      "text": "27",
+      "bbox": [
+        205,
+        579,
+        228,
+        594
+      ],
+      "confidence": 0.9999756217002869
+    },
+    {
+      "text": "by I. W. Hughes' call to RCH 10/25/74.",
+      "bbox": [
+        253,
+        593,
+        568,
+        615
+      ],
+      "confidence": 0.960776150226593
+    }
+  ],
+  "full_text": "The Council For Tobacco Research-U.S.A., Inc.\nOctober 29, 1974\nREVISED MEMORANDUM\nTO:\nRCH, WTH and HHR\nFROM:\nWUG\nSUBJECT:\nMeetings for November.\nNovember\n1\nScientific Advisory Board meeting\n5\nElection Day\n13\nInformation meeting, 9:30 A.M., CTR\n14\nLiaison Committee meeting, 9:30 A.M., CTR\n18-19\nVisit to Oak Ridge National Laboratory\n20\nAmerican Brands, Inc., 10:30 A.M.\n22\nR. J. Reynolds, Winston-Salem. Set by Mr.\nRoemer. This date was originally set for Brown\n& Williamson but it was changed by Wally Hughes\nwho called RCH and asked for a change of dates.\n25\nPhilip Morris Incorporated, 1l:30 A.M. Arranged\nthrough Mr. Bowling.\n26\nLorillard, 9:30 A.M. Arranged through Curtis\nJudge, (Changed 10/29/74.)\nBrown & Williamson Tobacco Corporation. Re-set\n27\nby I. W. Hughes' call to RCH 10/25/74."
+}

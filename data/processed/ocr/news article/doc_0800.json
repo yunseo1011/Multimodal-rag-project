@@ -1,0 +1,1121 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0800.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Butrelle's NewsExpress 1-800-766-7188",
+      "bbox": [
+        9,
+        26,
+        269,
+        46
+      ],
+      "confidence": 0.9801632761955261
+    },
+    {
+      "text": "06/07/95 09:25:05",
+      "bbox": [
+        283,
+        28,
+        399,
+        44
+      ],
+      "confidence": 0.9618854522705078
+    },
+    {
+      "text": "Page 2 of 23",
+      "bbox": [
+        448,
+        25,
+        535,
+        45
+      ],
+      "confidence": 0.963238537311554
+    },
+    {
+      "text": "The Boston Blobe",
+      "bbox": [
+        492,
+        72,
+        610,
+        92
+      ],
+      "confidence": 0.9584112167358398
+    },
+    {
+      "text": "June 7, 1995",
+      "bbox": [
+        300,
+        116,
+        402,
+        136
+      ],
+      "confidence": 0.9989120960235596
+    },
+    {
+      "text": "It's going, going . . .",
+      "bbox": [
+        148,
+        187,
+        625,
+        259
+      ],
+      "confidence": 0.9505143165588379
+    },
+    {
+      "text": "Ban would limit",
+      "bbox": [
+        312,
+        261,
+        479,
+        290
+      ],
+      "confidence": 0.999610185623169
+    },
+    {
+      "text": "RY7",
+      "bbox": [
+        85,
+        269,
+        130,
+        305
+      ],
+      "confidence": 0.7787193655967712
+    },
+    {
+      "text": "By Judy Rakowsky",
+      "bbox": [
+        130,
+        269,
+        228,
+        286
+      ],
+      "confidence": 0.9738548994064331
+    },
+    {
+      "text": "GLOBE STAFF",
+      "bbox": [
+        147,
+        282,
+        210,
+        296
+      ],
+      "confidence": 0.9941548705101013
+    },
+    {
+      "text": "tobacco billboards",
+      "bbox": [
+        298,
+        288,
+        492,
+        316
+      ],
+      "confidence": 0.9754036664962769
+    },
+    {
+      "text": "The Marlboro man, already in his",
+      "bbox": [
+        94,
+        305,
+        280,
+        320
+      ],
+      "confidence": 0.9744905233383179
+    },
+    {
+      "text": "team met with the company last Oc-",
+      "bbox": [
+        514,
+        303,
+        713,
+        322
+      ],
+      "confidence": 0.9816450476646423
+    },
+    {
+      "text": "last season at Fenway, may beat it out",
+      "bbox": [
+        73,
+        315,
+        282,
+        337
+      ],
+      "confidence": 0.9862579703330994
+    },
+    {
+      "text": "at sports events",
+      "bbox": [
+        311,
+        315,
+        478,
+        342
+      ],
+      "confidence": 0.9857857823371887
+    },
+    {
+      "text": "tober. Phiifp Morris denied the Sox",
+      "bbox": [
+        516,
+        321,
+        714,
+        335
+      ],
+      "confidence": 0.9749369025230408
+    },
+    {
+      "text": "of the old ballyard even sooner. Under",
+      "bbox": [
+        73,
+        330,
+        281,
+        349
+      ],
+      "confidence": 0.9973976612091064
+    },
+    {
+      "text": "request to repiace the Marlboro sign",
+      "bbox": [
+        513,
+        332,
+        714,
+        350
+      ],
+      "confidence": 0.977278470993042
+    },
+    {
+      "text": "an agreement reached yesterday be-",
+      "bbox": [
+        73,
+        345,
+        281,
+        363
+      ],
+      "confidence": 0.9761357307434082
+    },
+    {
+      "text": "judge in Washington, D.C.",
+      "bbox": [
+        293,
+        346,
+        431,
+        365
+      ],
+      "confidence": 0.9927013516426086
+    },
+    {
+      "text": "with one for another Phllip Morris",
+      "bbox": [
+        516,
+        348,
+        713,
+        362
+      ],
+      "confidence": 0.9909315705299377
+    },
+    {
+      "text": "tween the Justice Department and Phil-",
+      "bbox": [
+        72,
+        358,
+        282,
+        378
+      ],
+      "confidence": 0.95563143491745
+    },
+    {
+      "text": "The agreement will have no impact",
+      "bbox": [
+        312,
+        364,
+        499,
+        378
+      ],
+      "confidence": 0.9862929582595825
+    },
+    {
+      "text": "product. such as Kraft jelly. Since",
+      "bbox": [
+        515,
+        362,
+        714,
+        376
+      ],
+      "confidence": 0.9324859380722046
+    },
+    {
+      "text": "ip Morris USA. cigarete advertising",
+      "bbox": [
+        70,
+        372,
+        282,
+        392
+      ],
+      "confidence": 0.9714548587799072
+    },
+    {
+      "text": "at Foxboro Stadium, where eigarette",
+      "bbox": [
+        295,
+        378,
+        498,
+        392
+      ],
+      "confidence": 0.9884713292121887
+    },
+    {
+      "text": "the Sox aiready had a year left in the",
+      "bbox": [
+        514,
+        373,
+        714,
+        391
+      ],
+      "confidence": 0.9396865963935852
+    },
+    {
+      "text": "will be banned from biliboards within",
+      "bbox": [
+        72,
+        387,
+        280,
+        404
+      ],
+      "confidence": 0.9831532835960388
+    },
+    {
+      "text": "advertising is already prohibited. or at",
+      "bbox": [
+        293,
+        389,
+        500,
+        407
+      ],
+      "confidence": 0.9779877662658691
+    },
+    {
+      "text": "contract with the company. the ball",
+      "bbox": [
+        514,
+        387,
+        714,
+        406
+      ],
+      "confidence": 0.9795165061950684
+    },
+    {
+      "text": "range of televigion cameras at proies-",
+      "bbox": [
+        73,
+        402,
+        279,
+        417
+      ],
+      "confidence": 0.9907216429710388
+    },
+    {
+      "text": "the new FleetCenter. which will not al-",
+      "bbox": [
+        295,
+        405,
+        499,
+        419
+      ],
+      "confidence": 0.9844018220901489
+    },
+    {
+      "text": "club had no choice but to let the ciga-",
+      "bbox": [
+        516,
+        404,
+        712,
+        418
+      ],
+      "confidence": 0.9785763621330261
+    },
+    {
+      "text": "sional stadiums and arenas nationwide.",
+      "bbox": [
+        73,
+        415,
+        277,
+        432
+      ],
+      "confidence": 0.9672737121582031
+    },
+    {
+      "text": "The exact timetable for removing",
+      "bbox": [
+        89,
+        426,
+        279,
+        448
+      ],
+      "confidence": 0.9933321475982666
+    },
+    {
+      "text": "low eigarette advertising when it opens",
+      "bbox": [
+        293,
+        417,
+        499,
+        436
+      ],
+      "confidence": 0.9945995807647705
+    },
+    {
+      "text": "rette ad remain. he said.",
+      "bbox": [
+        516,
+        417,
+        649,
+        431
+      ],
+      "confidence": 0.9965904355049133
+    },
+    {
+      "text": "the Fenway sign and othere like it un-",
+      "bbox": [
+        72,
+        440,
+        279,
+        462
+      ],
+      "confidence": 0.9737842679023743
+    },
+    {
+      "text": "this fall.",
+      "bbox": [
+        294,
+        431,
+        338,
+        447
+      ],
+      "confidence": 0.9435356259346008
+    },
+    {
+      "text": "nounced plans to pull the Marlboro",
+      "bbox": [
+        514,
+        441,
+        712,
+        461
+      ],
+      "confidence": 0.9824254512786865
+    },
+    {
+      "text": "But the club had aiready an-",
+      "bbox": [
+        534,
+        428,
+        712,
+        445
+      ],
+      "confidence": 0.9889162182807922
+    },
+    {
+      "text": "der the agreement was not clear yeater-",
+      "bbox": [
+        72,
+        456,
+        279,
+        477
+      ],
+      "confidence": 0.9739309549331665
+    },
+    {
+      "text": "Red Sox offielals said they had al-",
+      "bbox": [
+        309,
+        445,
+        501,
+        463
+      ],
+      "confidence": 0.9662263989448547
+    },
+    {
+      "text": "ad at the end of the season and sees",
+      "bbox": [
+        514,
+        457,
+        712,
+        475
+      ],
+      "confidence": 0.9663069844245911
+    },
+    {
+      "text": "day. but a Justice Department spakes-",
+      "bbox": [
+        72,
+        471,
+        280,
+        490
+      ],
+      "confidence": 0.9807943105697632
+    },
+    {
+      "text": "ready decided to pull a Mariboro ad on",
+      "bbox": [
+        294,
+        462,
+        500,
+        476
+      ],
+      "confidence": 0.9803827404975891
+    },
+    {
+      "text": "a Femway billboard at the end of this",
+      "bbox": [
+        293,
+        476,
+        500,
+        490
+      ],
+      "confidence": 0.9717497825622559
+    },
+    {
+      "text": "the agreement yesterday as an affir-",
+      "bbox": [
+        515,
+        473,
+        712,
+        490
+      ],
+      "confidence": 0.9587035775184631
+    },
+    {
+      "text": "man aaid the ads would probably be re-",
+      "bbox": [
+        73,
+        488,
+        278,
+        502
+      ],
+      "confidence": 0.9881764650344849
+    },
+    {
+      "text": "season. The ad had caused an uproar",
+      "bbox": [
+        293,
+        491,
+        500,
+        505
+      ],
+      "confidence": 0.9940217137336731
+    },
+    {
+      "text": "mation of that move.",
+      "bbox": [
+        516,
+        489,
+        627,
+        503
+      ],
+      "confidence": 0.990799605846405
+    },
+    {
+      "text": "\"It just backs up what we're do-",
+      "bbox": [
+        533,
+        501,
+        712,
+        518
+      ],
+      "confidence": 0.9684751033782959
+    },
+    {
+      "text": "moved within the next couple of",
+      "bbox": [
+        73,
+        503,
+        279,
+        517
+      ],
+      "confidence": 0.9829356670379639
+    },
+    {
+      "text": "months.",
+      "bbox": [
+        73,
+        516,
+        117,
+        530
+      ],
+      "confidence": 0.9831942319869995
+    },
+    {
+      "text": "among some fans and anticancer groups",
+      "bbox": [
+        291,
+        503,
+        501,
+        521
+      ],
+      "confidence": 0.9791237115859985
+    },
+    {
+      "text": "over its close juxtaposition to a sign for",
+      "bbox": [
+        291,
+        516,
+        501,
+        535
+      ],
+      "confidence": 0.991435706615448
+    },
+    {
+      "text": "ing.\" Red Sox spokesman Kevin",
+      "bbox": [
+        514,
+        513,
+        711,
+        531
+      ],
+      "confidence": 0.9788634181022644
+    },
+    {
+      "text": "Gregory King, the spokesman, said",
+      "bbox": [
+        90,
+        531,
+        279,
+        549
+      ],
+      "confidence": 0.96708083152771
+    },
+    {
+      "text": "the Jimmy Fund at Dana Farber.",
+      "bbox": [
+        292,
+        531,
+        471,
+        550
+      ],
+      "confidence": 0.9931967854499817
+    },
+    {
+      "text": "Shea, said of the settlement. \"We're",
+      "bbox": [
+        516,
+        531,
+        710,
+        545
+      ],
+      "confidence": 0.9719128012657166
+    },
+    {
+      "text": "The Justice Department agreement",
+      "bbox": [
+        310,
+        546,
+        502,
+        565
+      ],
+      "confidence": 0.9872092604637146
+    },
+    {
+      "text": "in the middle of making the park",
+      "bbox": [
+        516,
+        546,
+        710,
+        560
+      ],
+      "confidence": 0.9615744352340698
+    },
+    {
+      "text": "the pulling of the ads will come after",
+      "bbox": [
+        75,
+        548,
+        279,
+        562
+      ],
+      "confidence": 0.9872921109199524
+    },
+    {
+      "text": "the agreement is approved by a federal",
+      "bbox": [
+        75,
+        559,
+        282,
+        578
+      ],
+      "confidence": 0.9835489392280579
+    },
+    {
+      "text": "smoke-free.'",
+      "bbox": [
+        515,
+        560,
+        580,
+        575
+      ],
+      "confidence": 0.970012903213501
+    },
+    {
+      "text": "is designed to prevent any inadvertent",
+      "bbox": [
+        291,
+        564,
+        501,
+        578
+      ],
+      "confidence": 0.9891514182090759
+    },
+    {
+      "text": "sppearances of the Mariboro Man or",
+      "bbox": [
+        292,
+        584,
+        499,
+        602
+      ],
+      "confidence": 0.9721991419792175
+    },
+    {
+      "text": "Currentiy, Fenway Park has",
+      "bbox": [
+        532,
+        579,
+        711,
+        598
+      ],
+      "confidence": 0.9750626087188721
+    },
+    {
+      "text": "any other cigarette reference on televi-",
+      "bbox": [
+        293,
+        600,
+        499,
+        614
+      ],
+      "confidence": 0.9884559512138367
+    },
+    {
+      "text": "Red Sox president, has pians to ban",
+      "bbox": [
+        514,
+        606,
+        711,
+        625
+      ],
+      "confidence": 0.984330415725708
+    },
+    {
+      "text": "nonsmoiing seata. John Harrington.",
+      "bbox": [
+        515,
+        593,
+        709,
+        612
+      ],
+      "confidence": 0.9739128351211548
+    },
+    {
+      "text": "sion. It settles a suit by the department,",
+      "bbox": [
+        293,
+        613,
+        498,
+        627
+      ],
+      "confidence": 0.9760645627975464
+    },
+    {
+      "text": "smoking at the park. but Shea said",
+      "bbox": [
+        513,
+        619,
+        711,
+        639
+      ],
+      "confidence": 0.9953925013542175
+    },
+    {
+      "text": "which seeused Philip Morris of trying to",
+      "bbox": [
+        293,
+        627,
+        498,
+        641
+      ],
+      "confidence": 0.9834967851638794
+    },
+    {
+      "text": "he did not know how long it would",
+      "bbox": [
+        515,
+        635,
+        710,
+        651
+      ],
+      "confidence": 0.9985812902450562
+    },
+    {
+      "text": "skirt the 1971 federal ban on televised",
+      "bbox": [
+        292,
+        638,
+        499,
+        656
+      ],
+      "confidence": 0.9853289723396301
+    },
+    {
+      "text": "take to implement that policy.",
+      "bbox": [
+        514,
+        648,
+        676,
+        666
+      ],
+      "confidence": 0.9888991117477417
+    },
+    {
+      "text": "tabacce ads.",
+      "bbox": [
+        292,
+        655,
+        358,
+        669
+      ],
+      "confidence": 0.8893960118293762
+    },
+    {
+      "text": "In a statement, Philip Morris said it",
+      "bbox": [
+        308,
+        667,
+        499,
+        688
+      ],
+      "confidence": 0.9820501208305359
+    },
+    {
+      "text": "We have to give everyone some",
+      "bbox": [
+        532,
+        661,
+        711,
+        679
+      ],
+      "confidence": 0.9973803162574768
+    },
+    {
+      "text": "was not violating the ban since the bil-",
+      "bbox": [
+        291,
+        682,
+        498,
+        702
+      ],
+      "confidence": 0.9773241281509399
+    },
+    {
+      "text": "time to adjust.\" Shea said.",
+      "bbox": [
+        515,
+        675,
+        657,
+        693
+      ],
+      "confidence": 0.9913558959960938
+    },
+    {
+      "text": "boards were in place befare the ban.",
+      "bbox": [
+        290,
+        694,
+        500,
+        716
+      ],
+      "confidence": 0.9827374219894409
+    },
+    {
+      "text": "Philip Morris said the Justice",
+      "bbox": [
+        533,
+        691,
+        710,
+        705
+      ],
+      "confidence": 0.9850648641586304
+    },
+    {
+      "text": "took effect.",
+      "bbox": [
+        292,
+        712,
+        354,
+        728
+      ],
+      "confidence": 0.9903011322021484
+    },
+    {
+      "text": "Department agreement is \"eonsis-",
+      "bbox": [
+        516,
+        704,
+        710,
+        718
+      ],
+      "confidence": 0.9848921298980713
+    },
+    {
+      "text": "A Philip Morris spokeswoman said",
+      "bbox": [
+        308,
+        721,
+        499,
+        742
+      ],
+      "confidence": 0.9916611909866333
+    },
+    {
+      "text": "tent with our ongoing efforts to place",
+      "bbox": [
+        515,
+        718,
+        711,
+        732
+      ],
+      "confidence": 0.9858424663543701
+    },
+    {
+      "text": "the agreement is simply a formality,",
+      "bbox": [
+        290,
+        734,
+        499,
+        756
+      ],
+      "confidence": 0.9683994650840759
+    },
+    {
+      "text": "stadium attendees but does not gen-",
+      "bbox": [
+        513,
+        741,
+        711,
+        760
+      ],
+      "confidence": 0.9888880252838135
+    },
+    {
+      "text": "signage where it remains visible to",
+      "bbox": [
+        515,
+        730,
+        711,
+        745
+      ],
+      "confidence": 0.9674304127693176
+    },
+    {
+      "text": "that it was already voluntarily \"reposi-",
+      "bbox": [
+        291,
+        747,
+        499,
+        769
+      ],
+      "confidence": 0.9756036996841431
+    },
+    {
+      "text": "erate television coverage.\"",
+      "bbox": [
+        515,
+        757,
+        654,
+        771
+      ],
+      "confidence": 0.992805004119873
+    },
+    {
+      "text": "tioming\" the signs. Karen Daragan said",
+      "bbox": [
+        290,
+        760,
+        499,
+        783
+      ],
+      "confidence": 0.9760563373565674
+    },
+    {
+      "text": "The television pick-up these ads",
+      "bbox": [
+        532,
+        767,
+        710,
+        787
+      ],
+      "confidence": 0.9907286167144775
+    },
+    {
+      "text": "matter in the 14 baseball pariks, 14 foot-",
+      "bbox": [
+        291,
+        786,
+        498,
+        810
+      ],
+      "confidence": 0.9711581468582153
+    },
+    {
+      "text": "the company has already resolved the",
+      "bbox": [
+        292,
+        775,
+        498,
+        796
+      ],
+      "confidence": 0.9821496605873108
+    },
+    {
+      "text": "may have received in the past was",
+      "bbox": [
+        513,
+        782,
+        711,
+        800
+      ],
+      "confidence": 0.9894229769706726
+    },
+    {
+      "text": "ball stadiums and five baaketball are-",
+      "bbox": [
+        291,
+        800,
+        498,
+        823
+      ],
+      "confidence": 0.9809486269950867
+    },
+    {
+      "text": "incidental,\" Philip Morris said. \"Re-",
+      "bbox": [
+        513,
+        795,
+        710,
+        814
+      ],
+      "confidence": 0.9749621748924255
+    },
+    {
+      "text": "nas, including Madison Squiare Garden",
+      "bbox": [
+        291,
+        813,
+        498,
+        838
+      ],
+      "confidence": 0.9528027176856995
+    },
+    {
+      "text": "positioning our. brand advertising af.",
+      "bbox": [
+        513,
+        809,
+        712,
+        828
+      ],
+      "confidence": 0.9416351318359375
+    },
+    {
+      "text": "in New York.",
+      "bbox": [
+        291,
+        832,
+        365,
+        852
+      ],
+      "confidence": 0.986746609210968
+    },
+    {
+      "text": "firms our objective of reaching actult",
+      "bbox": [
+        514,
+        824,
+        710,
+        843
+      ],
+      "confidence": 0.9869142770767212
+    },
+    {
+      "text": "John Buckley, vice president of the",
+      "bbox": [
+        309,
+        843,
+        499,
+        864
+      ],
+      "confidence": 0.9756777286529541
+    },
+    {
+      "text": "smokers at the stadiums, not those",
+      "bbox": [
+        515,
+        840,
+        710,
+        856
+      ],
+      "confidence": 0.9981834292411804
+    },
+    {
+      "text": "Red Sox, said, however, that when the",
+      "bbox": [
+        292,
+        856,
+        499,
+        878
+      ],
+      "confidence": 0.9913908243179321
+    },
+    {
+      "text": "watching on television.",
+      "bbox": [
+        514,
+        854,
+        636,
+        868
+      ],
+      "confidence": 0.983125627040863
+    },
+    {
+      "text": "ADS, Page 59",
+      "bbox": [
+        422,
+        872,
+        499,
+        886
+      ],
+      "confidence": 0.9421982765197754
+    },
+    {
+      "text": "1/2",
+      "bbox": [
+        676,
+        913,
+        721,
+        942
+      ],
+      "confidence": 0.7350339889526367
+    },
+    {
+      "text": "2073735207",
+      "bbox": [
+        542,
+        957,
+        652,
+        983
+      ],
+      "confidence": 0.9999719858169556
+    }
+  ],
+  "full_text": "Butrelle's NewsExpress 1-800-766-7188\n06/07/95 09:25:05\nPage 2 of 23\nThe Boston Blobe\nJune 7, 1995\nIt's going, going . . .\nBan would limit\nRY7\nBy Judy Rakowsky\nGLOBE STAFF\ntobacco billboards\nThe Marlboro man, already in his\nteam met with the company last Oc-\nlast season at Fenway, may beat it out\nat sports events\ntober. Phiifp Morris denied the Sox\nof the old ballyard even sooner. Under\nrequest to repiace the Marlboro sign\nan agreement reached yesterday be-\njudge in Washington, D.C.\nwith one for another Phllip Morris\ntween the Justice Department and Phil-\nThe agreement will have no impact\nproduct. such as Kraft jelly. Since\nip Morris USA. cigarete advertising\nat Foxboro Stadium, where eigarette\nthe Sox aiready had a year left in the\nwill be banned from biliboards within\nadvertising is already prohibited. or at\ncontract with the company. the ball\nrange of televigion cameras at proies-\nthe new FleetCenter. which will not al-\nclub had no choice but to let the ciga-\nsional stadiums and arenas nationwide.\nThe exact timetable for removing\nlow eigarette advertising when it opens\nrette ad remain. he said.\nthe Fenway sign and othere like it un-\nthis fall.\nnounced plans to pull the Marlboro\nBut the club had aiready an-\nder the agreement was not clear yeater-\nRed Sox offielals said they had al-\nad at the end of the season and sees\nday. but a Justice Department spakes-\nready decided to pull a Mariboro ad on\na Femway billboard at the end of this\nthe agreement yesterday as an affir-\nman aaid the ads would probably be re-\nseason. The ad had caused an uproar\nmation of that move.\n\"It just backs up what we're do-\nmoved within the next couple of\nmonths.\namong some fans and anticancer groups\nover its close juxtaposition to a sign for\ning.\" Red Sox spokesman Kevin\nGregory King, the spokesman, said\nthe Jimmy Fund at Dana Farber.\nShea, said of the settlement. \"We're\nThe Justice Department agreement\nin the middle of making the park\nthe pulling of the ads will come after\nthe agreement is approved by a federal\nsmoke-free.'\nis designed to prevent any inadvertent\nsppearances of the Mariboro Man or\nCurrentiy, Fenway Park has\nany other cigarette reference on televi-\nRed Sox president, has pians to ban\nnonsmoiing seata. John Harrington.\nsion. It settles a suit by the department,\nsmoking at the park. but Shea said\nwhich seeused Philip Morris of trying to\nhe did not know how long it would\nskirt the 1971 federal ban on televised\ntake to implement that policy.\ntabacce ads.\nIn a statement, Philip Morris said it\nWe have to give everyone some\nwas not violating the ban since the bil-\ntime to adjust.\" Shea said.\nboards were in place befare the ban.\nPhilip Morris said the Justice\ntook effect.\nDepartment agreement is \"eonsis-\nA Philip Morris spokeswoman said\ntent with our ongoing efforts to place\nthe agreement is simply a formality,\nstadium attendees but does not gen-\nsignage where it remains visible to\nthat it was already voluntarily \"reposi-\nerate television coverage.\"\ntioming\" the signs. Karen Daragan said\nThe television pick-up these ads\nmatter in the 14 baseball pariks, 14 foot-\nthe company has already resolved the\nmay have received in the past was\nball stadiums and five baaketball are-\nincidental,\" Philip Morris said. \"Re-\nnas, including Madison Squiare Garden\npositioning our. brand advertising af.\nin New York.\nfirms our objective of reaching actult\nJohn Buckley, vice president of the\nsmokers at the stadiums, not those\nRed Sox, said, however, that when the\nwatching on television.\nADS, Page 59\n1/2\n2073735207"
+}

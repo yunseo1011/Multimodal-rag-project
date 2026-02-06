@@ -1,0 +1,211 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0100.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "Contribution and Mechanism of Hypoventilation",
+      "bbox": [
+        191,
+        86,
+        513,
+        103
+      ],
+      "confidence": 0.9961062073707581
+    },
+    {
+      "text": "to Sleep Oxygen Desaturation in COPD",
+      "bbox": [
+        220,
+        118,
+        483,
+        135
+      ],
+      "confidence": 0.9854567050933838
+    },
+    {
+      "text": "David W. Hudgel, M.D.",
+      "bbox": [
+        272,
+        227,
+        430,
+        248
+      ],
+      "confidence": 0.9985342621803284
+    },
+    {
+      "text": "Assistant Professor of Medicine and Neurology",
+      "bbox": [
+        191,
+        244,
+        512,
+        265
+      ],
+      "confidence": 0.9936580061912537
+    },
+    {
+      "text": "Richard J. Martin, M.D.",
+      "bbox": [
+        271,
+        279,
+        435,
+        296
+      ],
+      "confidence": 0.9975718855857849
+    },
+    {
+      "text": "Assistant Professor of Medicine",
+      "bbox": [
+        243,
+        293,
+        460,
+        314
+      ],
+      "confidence": 0.95860356092453
+    },
+    {
+      "text": "Melvin Capehart, M.S.E.E.",
+      "bbox": [
+        261,
+        326,
+        443,
+        347
+      ],
+      "confidence": 0.994117796421051
+    },
+    {
+      "text": "Research Assistant",
+      "bbox": [
+        287,
+        344,
+        418,
+        361
+      ],
+      "confidence": 0.9992175698280334
+    },
+    {
+      "text": "Barbara Johnson, M.S.",
+      "bbox": [
+        276,
+        376,
+        428,
+        393
+      ],
+      "confidence": 0.9812221527099609
+    },
+    {
+      "text": "Research Assistant",
+      "bbox": [
+        286,
+        392,
+        419,
+        409
+      ],
+      "confidence": 0.9991163611412048
+    },
+    {
+      "text": "National Jewish Hospital/National Asthma Center",
+      "bbox": [
+        185,
+        424,
+        524,
+        442
+      ],
+      "confidence": 0.9970465898513794
+    },
+    {
+      "text": "and",
+      "bbox": [
+        339,
+        441,
+        366,
+        457
+      ],
+      "confidence": 0.999914824962616
+    },
+    {
+      "text": "University of Colorado Health Sciences Center",
+      "bbox": [
+        195,
+        457,
+        514,
+        474
+      ],
+      "confidence": 0.9970210790634155
+    },
+    {
+      "text": "For Reprints and/or Correspondence",
+      "bbox": [
+        231,
+        534,
+        479,
+        554
+      ],
+      "confidence": 0.9913344383239746
+    },
+    {
+      "text": "David W. Hudgel, M.D.",
+      "bbox": [
+        275,
+        549,
+        434,
+        571
+      ],
+      "confidence": 0.9826292395591736
+    },
+    {
+      "text": "NJH/NAC",
+      "bbox": [
+        318,
+        568,
+        390,
+        586
+      ],
+      "confidence": 0.9971768260002136
+    },
+    {
+      "text": "3800 E. Colfax Avenue",
+      "bbox": [
+        276,
+        584,
+        433,
+        603
+      ],
+      "confidence": 0.9949973821640015
+    },
+    {
+      "text": "Denver, CO 80206",
+      "bbox": [
+        289,
+        600,
+        418,
+        617
+      ],
+      "confidence": 0.9948275089263916
+    },
+    {
+      "text": "Supported in part by the American Lung Association of Colorado",
+      "bbox": [
+        76,
+        775,
+        511,
+        796
+      ],
+      "confidence": 0.9882537126541138
+    },
+    {
+      "text": "Running Head: Hypoventilation in Sleep Hypoxemia of COPD",
+      "bbox": [
+        78,
+        854,
+        488,
+        873
+      ],
+      "confidence": 0.9852702021598816
+    }
+  ],
+  "full_text": "Contribution and Mechanism of Hypoventilation\nto Sleep Oxygen Desaturation in COPD\nDavid W. Hudgel, M.D.\nAssistant Professor of Medicine and Neurology\nRichard J. Martin, M.D.\nAssistant Professor of Medicine\nMelvin Capehart, M.S.E.E.\nResearch Assistant\nBarbara Johnson, M.S.\nResearch Assistant\nNational Jewish Hospital/National Asthma Center\nand\nUniversity of Colorado Health Sciences Center\nFor Reprints and/or Correspondence\nDavid W. Hudgel, M.D.\nNJH/NAC\n3800 E. Colfax Avenue\nDenver, CO 80206\nSupported in part by the American Lung Association of Colorado\nRunning Head: Hypoventilation in Sleep Hypoxemia of COPD"
+}

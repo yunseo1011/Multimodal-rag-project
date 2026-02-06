@@ -1,0 +1,681 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0110.png",
+    "image_width": 777,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "THB NBW YORK TIMES, SUNDAY",
+      "bbox": [
+        317,
+        190,
+        502,
+        210
+      ],
+      "confidence": 0.9452084898948669
+    },
+    {
+      "text": ":3. 1986",
+      "bbox": [
+        544,
+        191,
+        584,
+        205
+      ],
+      "confidence": 0.878485918045044
+    },
+    {
+      "text": "Plan to Restrict Smoking in New York City Faces Considerable Opposition",
+      "bbox": [
+        0,
+        217,
+        777,
+        258
+      ],
+      "confidence": 0.9954692125320435
+    },
+    {
+      "text": "ONATHAN FRIENDLY",
+      "bbox": [
+        29,
+        267,
+        128,
+        280
+      ],
+      "confidence": 0.984493613243103
+    },
+    {
+      "text": "dec ide detalle of what they sald whas no",
+      "bbox": [
+        771,
+        264,
+        777,
+        278
+      ],
+      "confidence": 0.9475464224815369
+    },
+    {
+      "text": "allowed to deelgnate his\"work spece\"",
+      "bbox": [
+        771,
+        291,
+        777,
+        305
+      ],
+      "confidence": 0.9601238965988159
+    },
+    {
+      "text": "exampie, says an employee shotid be",
+      "bbox": [
+        772,
+        281,
+        777,
+        295
+      ],
+      "confidence": 0.978947639465332
+    },
+    {
+      "text": "plaun is opposed",
+      "bbox": [
+        83,
+        305,
+        143,
+        318
+      ],
+      "confidence": 0.9461358785629272
+    },
+    {
+      "text": "as smoke-free,",
+      "bbox": [
+        771,
+        300,
+        777,
+        313
+      ],
+      "confidence": 0.9579772353172302
+    },
+    {
+      "text": "trouble.",
+      "bbox": [
+        32,
+        309,
+        65,
+        316
+      ],
+      "confidence": 0.939552366733551
+    },
+    {
+      "text": "which fear It.",
+      "bbox": [
+        95,
+        316,
+        147,
+        326
+      ],
+      "confidence": 0.9303848147392273
+    },
+    {
+      "text": "space",
+      "bbox": [
+        773,
+        310,
+        777,
+        321
+      ],
+      "confidence": 0.9950631260871887
+    },
+    {
+      "text": "but also in the",
+      "bbox": [
+        89,
+        325,
+        145,
+        335
+      ],
+      "confidence": 0.9899371266365051
+    },
+    {
+      "text": "to study whetber be would need sdds",
+      "bbox": [
+        771,
+        326,
+        777,
+        339
+      ],
+      "confidence": 0.9557070136070251
+    },
+    {
+      "text": "tional staff to enforce the measuire. He",
+      "bbox": [
+        772,
+        335,
+        777,
+        348
+      ],
+      "confidence": 0.9544126391410828
+    },
+    {
+      "text": "enjoying some",
+      "bbox": [
+        88,
+        349,
+        146,
+        362
+      ],
+      "confidence": 0.9696025252342224
+    },
+    {
+      "text": "danhattah",
+      "bbox": [
+        413,
+        343,
+        452,
+        353
+      ],
+      "confidence": 0.8653388619422913
+    },
+    {
+      "text": "how to meesure the adeqaacy of vent",
+      "bbox": [
+        773,
+        351,
+        777,
+        365
+      ],
+      "confidence": 0.936829686164856
+    },
+    {
+      "text": "also sald the depertaffent did not kinow",
+      "bbox": [
+        774,
+        345,
+        777,
+        355
+      ],
+      "confidence": 0.9274495244026184
+    },
+    {
+      "text": "or nonsmok-",
+      "bbox": [
+        100,
+        367,
+        146,
+        377
+      ],
+      "confidence": 0.9596707820892334
+    },
+    {
+      "text": "latan eystems that the bill recudires flor",
+      "bbox": [
+        774,
+        362,
+        777,
+        372
+      ],
+      "confidence": 0.938815176486969
+    },
+    {
+      "text": "s Health",
+      "bbox": [
+        112,
+        375,
+        146,
+        386
+      ],
+      "confidence": 0.9622592926025391
+    },
+    {
+      "text": "restauraunts, sports arenas and ctarven",
+      "bbox": [
+        774,
+        369,
+        777,
+        383
+      ],
+      "confidence": 0.92538982629776
+    },
+    {
+      "text": "tion halls.",
+      "bbox": [
+        775,
+        379,
+        777,
+        391
+      ],
+      "confidence": 0.9718230962753296
+    },
+    {
+      "text": "letters",
+      "bbox": [
+        117,
+        385,
+        147,
+        396
+      ],
+      "confidence": 0.9993162155151367
+    },
+    {
+      "text": "He added that the Bealth Depart.",
+      "bbox": [
+        774,
+        386,
+        777,
+        401
+      ],
+      "confidence": 0.9419500827789307
+    },
+    {
+      "text": "ment had not decided how It grould",
+      "bbox": [
+        775,
+        396,
+        777,
+        410
+      ],
+      "confidence": 0.9461703300476074
+    },
+    {
+      "text": "Health",
+      "bbox": [
+        118,
+        403,
+        147,
+        413
+      ],
+      "confidence": 0.9820165634155273
+    },
+    {
+      "text": "carry out the Mayor's drder that' it pro-",
+      "bbox": [
+        773,
+        405,
+        777,
+        419
+      ],
+      "confidence": 0.9441677927970886
+    },
+    {
+      "text": "vide amoke-tree work arees in ths own",
+      "bbox": [
+        773,
+        416,
+        777,
+        426
+      ],
+      "confidence": 0.9110050797462463
+    },
+    {
+      "text": "; offices.",
+      "bbox": [
+        774,
+        424,
+        777,
+        434
+      ],
+      "confidence": 0.877852737903595
+    },
+    {
+      "text": "cam",
+      "bbox": [
+        127,
+        447,
+        143,
+        454
+      ],
+      "confidence": 0.9984648823738098
+    },
+    {
+      "text": "cortunkoe",
+      "bbox": [
+        677,
+        469,
+        722,
+        479
+      ],
+      "confidence": 0.7522721290588379
+    },
+    {
+      "text": "probiem.*",
+      "bbox": [
+        720,
+        468,
+        774,
+        479
+      ],
+      "confidence": 0.8881416916847229
+    },
+    {
+      "text": "lainta",
+      "bbox": [
+        95,
+        482,
+        117,
+        490
+      ],
+      "confidence": 0.805945873260498
+    },
+    {
+      "text": "Althou",
+      "bbox": [
+        471,
+        482,
+        498,
+        489
+      ],
+      "confidence": 0.860981285572052
+    },
+    {
+      "text": "fine",
+      "bbox": [
+        578,
+        482,
+        596,
+        489
+      ],
+      "confidence": 0.919762134552002
+    },
+    {
+      "text": "of up",
+      "bbox": [
+        597,
+        479,
+        619,
+        490
+      ],
+      "confidence": 0.8678697347640991
+    },
+    {
+      "text": "sald",
+      "bbox": [
+        626,
+        481,
+        643,
+        489
+      ],
+      "confidence": 0.8689800500869751
+    },
+    {
+      "text": "gto the Federal and state",
+      "bbox": [
+        679,
+        479,
+        775,
+        489
+      ],
+      "confidence": 0.9738891124725342
+    },
+    {
+      "text": "that have preoccuple",
+      "bbox": [
+        683,
+        487,
+        773,
+        498
+      ],
+      "confidence": 0.9724695086479187
+    },
+    {
+      "text": "wtabtiahments",
+      "bbox": [
+        525,
+        491,
+        584,
+        498
+      ],
+      "confidence": 0.8708658814430237
+    },
+    {
+      "text": "the code.",
+      "bbox": [
+        557,
+        500,
+        601,
+        507
+      ],
+      "confidence": 0.9752209186553955
+    },
+    {
+      "text": "that",
+      "bbox": [
+        586,
+        491,
+        604,
+        498
+      ],
+      "confidence": 0.9998480081558228
+    },
+    {
+      "text": "ciby",
+      "bbox": [
+        604,
+        500,
+        619,
+        508
+      ],
+      "confidence": 0.927483856678009
+    },
+    {
+      "text": "re",
+      "bbox": [
+        606,
+        491,
+        619,
+        499
+      ],
+      "confidence": 0.9210795164108276
+    },
+    {
+      "text": "Investigation",
+      "bbox": [
+        625,
+        488,
+        678,
+        499
+      ],
+      "confidence": 0.9752222299575806
+    },
+    {
+      "text": "ent since Jannary. \"But",
+      "bbox": [
+        681,
+        497,
+        776,
+        507
+      ],
+      "confidence": 0.925259530544281
+    },
+    {
+      "text": "xmect to",
+      "bbox": [
+        568,
+        509,
+        603,
+        516
+      ],
+      "confidence": 0.8769477605819702
+    },
+    {
+      "text": "it is or not, It means the iaiux",
+      "bbox": [
+        661,
+        506,
+        777,
+        516
+      ],
+      "confidence": 0.9161289930343628
+    },
+    {
+      "text": "red serfously.\"",
+      "bbox": [
+        688,
+        515,
+        744,
+        525
+      ],
+      "confidence": 0.9437366724014282
+    },
+    {
+      "text": "strategs",
+      "bbox": [
+        587,
+        518,
+        618,
+        525
+      ],
+      "confidence": 0.8594565391540527
+    },
+    {
+      "text": "Dr. Joseph, the Health Commission",
+      "bbox": [
+        634,
+        527,
+        777,
+        537
+      ],
+      "confidence": 0.9899294376373291
+    },
+    {
+      "text": "ecticut.",
+      "bbox": [
+        552,
+        541,
+        584,
+        551
+      ],
+      "confidence": 0.9564196467399597
+    },
+    {
+      "text": "br. said the clty had mot analysed the",
+      "bbox": [
+        629,
+        534,
+        777,
+        546
+      ],
+      "confidence": 0.9346708059310913
+    },
+    {
+      "text": "conomie imoact of the prp",
+      "bbox": [
+        668,
+        546,
+        777,
+        553
+      ],
+      "confidence": 0.8985737562179565
+    },
+    {
+      "text": "Mr. Michels said he was glad the",
+      "bbox": [
+        470,
+        562,
+        619,
+        575
+      ],
+      "confidence": 0.9396824836730957
+    },
+    {
+      "text": "Glad to See Plan",
+      "bbox": [
+        529,
+        552,
+        603,
+        563
+      ],
+      "confidence": 0.9501540660858154
+    },
+    {
+      "text": "posial. He said the mayoral panel would",
+      "bbox": [
+        625,
+        551,
+        777,
+        564
+      ],
+      "confidence": 0.9642295837402344
+    },
+    {
+      "text": "begin heaurings next month.",
+      "bbox": [
+        625,
+        560,
+        747,
+        573
+      ],
+      "confidence": 0.9481232166290283
+    },
+    {
+      "text": "Mayor wras supporting restraints on",
+      "bbox": [
+        462,
+        572,
+        619,
+        584
+      ],
+      "confidence": 0.9804016947746277
+    },
+    {
+      "text": "He and other administration official",
+      "bbox": [
+        631,
+        573,
+        777,
+        583
+      ],
+      "confidence": 0.9560329914093018
+    },
+    {
+      "text": "smoking.\"Marty people dismissed it as",
+      "bbox": [
+        462,
+        582,
+        620,
+        592
+      ],
+      "confidence": 0.9744600653648376
+    },
+    {
+      "text": "Machlavellian tactic to divert atten.",
+      "bbox": [
+        467,
+        590,
+        619,
+        600
+      ],
+      "confidence": 0.9645801186561584
+    },
+    {
+      "text": "public support for the messure and to",
+      "bbox": [
+        623,
+        590,
+        777,
+        600
+      ],
+      "confidence": 0.9713468551635742
+    },
+    {
+      "text": "said the hearings were needed to buik.",
+      "bbox": [
+        624,
+        582,
+        777,
+        592
+      ],
+      "confidence": 0.9492861032485962
+    },
+    {
+      "text": "2025856998",
+      "bbox": [
+        136,
+        744,
+        291,
+        773
+      ],
+      "confidence": 0.9997398257255554
+    }
+  ],
+  "full_text": "THB NBW YORK TIMES, SUNDAY\n:3. 1986\nPlan to Restrict Smoking in New York City Faces Considerable Opposition\nONATHAN FRIENDLY\ndec ide detalle of what they sald whas no\nallowed to deelgnate his\"work spece\"\nexampie, says an employee shotid be\nplaun is opposed\nas smoke-free,\ntrouble.\nwhich fear It.\nspace\nbut also in the\nto study whetber be would need sdds\ntional staff to enforce the measuire. He\nenjoying some\ndanhattah\nhow to meesure the adeqaacy of vent\nalso sald the depertaffent did not kinow\nor nonsmok-\nlatan eystems that the bill recudires flor\ns Health\nrestauraunts, sports arenas and ctarven\ntion halls.\nletters\nHe added that the Bealth Depart.\nment had not decided how It grould\nHealth\ncarry out the Mayor's drder that' it pro-\nvide amoke-tree work arees in ths own\n; offices.\ncam\ncortunkoe\nprobiem.*\nlainta\nAlthou\nfine\nof up\nsald\ngto the Federal and state\nthat have preoccuple\nwtabtiahments\nthe code.\nthat\nciby\nre\nInvestigation\nent since Jannary. \"But\nxmect to\nit is or not, It means the iaiux\nred serfously.\"\nstrategs\nDr. Joseph, the Health Commission\necticut.\nbr. said the clty had mot analysed the\nconomie imoact of the prp\nMr. Michels said he was glad the\nGlad to See Plan\nposial. He said the mayoral panel would\nbegin heaurings next month.\nMayor wras supporting restraints on\nHe and other administration official\nsmoking.\"Marty people dismissed it as\nMachlavellian tactic to divert atten.\npublic support for the messure and to\nsaid the hearings were needed to buik.\n2025856998"
+}

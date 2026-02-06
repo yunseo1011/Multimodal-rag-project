@@ -1,0 +1,101 @@
+{
+  "page_id": 1,
+  "metadata": {
+    "file_name": "doc_0528.png",
+    "image_width": 754,
+    "image_height": 1000
+  },
+  "lines": [
+    {
+      "text": "From:",
+      "bbox": [
+        55,
+        111,
+        92,
+        128
+      ],
+      "confidence": 0.9880077242851257
+    },
+    {
+      "text": "--Original Message--",
+      "bbox": [
+        57,
+        98,
+        173,
+        113
+      ],
+      "confidence": 0.8795097470283508
+    },
+    {
+      "text": "Zinser, Lori",
+      "bbox": [
+        101,
+        112,
+        157,
+        126
+      ],
+      "confidence": 0.9986866116523743
+    },
+    {
+      "text": "Sent:",
+      "bbox": [
+        56,
+        124,
+        87,
+        139
+      ],
+      "confidence": 0.998165488243103
+    },
+    {
+      "text": "Monday, October C4, 1999 2:21 PM",
+      "bbox": [
+        100,
+        123,
+        268,
+        138
+      ],
+      "confidence": 0.9683243036270142
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        52,
+        134,
+        79,
+        152
+      ],
+      "confidence": 0.9482055306434631
+    },
+    {
+      "text": "Osborne, Kevin (PMMC Legal)",
+      "bbox": [
+        102,
+        137,
+        244,
+        150
+      ],
+      "confidence": 0.9659342765808105
+    },
+    {
+      "text": "Subject: RE: IV 708 EE -Marboro Winter Ranch",
+      "bbox": [
+        55,
+        148,
+        284,
+        162
+      ],
+      "confidence": 0.959027886390686
+    },
+    {
+      "text": "What item is this?",
+      "bbox": [
+        53,
+        173,
+        161,
+        192
+      ],
+      "confidence": 0.994547963142395
+    }
+  ],
+  "full_text": "From:\n--Original Message--\nZinser, Lori\nSent:\nMonday, October C4, 1999 2:21 PM\nTo:\nOsborne, Kevin (PMMC Legal)\nSubject: RE: IV 708 EE -Marboro Winter Ranch\nWhat item is this?"
+}
