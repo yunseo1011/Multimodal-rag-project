@@ -10,7 +10,7 @@ venv/
 .env
 
 # --- 데이터 ---
-# data/
+data/
 paddle_models/
 
 # --- 모델 가중치 파일 (대용량) ---
