@@ -80,25 +80,22 @@
 ## 🔎 Phase 2: 멀티모달 문서 임베딩
 
 ### LayoutLMv3 기반 문서 이해
-
-  **Input**
+- **Input**
   - Image
   - OCR Text
   - Bounding Box Layout 정보
-  
-  **Model**
+- **Model**
   - LayoutLMv3 Encoder
-  
-  **성능**
+- **성능**
   - Validation Accuracy 85% 이상 달성
   - 클래스별 균형 잡힌 성능 분포 확인
   - t-SNE 시각화를 통해 임베딩 공간의 분리도 검증
-
+---
 ### 임베딩 방식
 - Encoder 출력에서 Masked Mean Pooling 적용
 - 768-dim Document Embedding 생성
 - t-SNE 분석을 통해 클래스별 군집 분리 확인
-
+---
 ### 결과
 - 시각 정보 + 텍스트 정보 결합 학습 성공
 - 문서 유형별 의미적 군집 형성 확인
@@ -109,15 +106,13 @@
 
 ### 🚨 초기 문제점
 
-LayoutLM 기반 임베딩은
-
 LayoutLM 기반 임베딩은 이미지와 텍스트가 결합된 **멀티모달 벡터**이기 때문에  
 **텍스트로만 구성**된 사용자 질의와 동일한 임베딩 공간을 공유할 수 없었음.
 
 → 검색 성능 저하 문제 발생
 → LayoutLM은 **문서 이해에는 강력하지만, 검색용 임베딩 모델로는 부적합**
 
-
+---
 ### ✅ 해결 방법: Gemini Embedding 도입
 
 **개선 전략**
@@ -135,30 +130,30 @@ LayoutLM 기반 임베딩은 이미지와 텍스트가 결합된 **멀티모달 
 - Semantic Search 정확도 대폭 향상
 - 실제 QA 성능 안정화
 
-
+---
 ## 🏗️ Multimodal RAG 핵심 구성 요소
 
 ### 주요 컴포넌트
 
-  **Intent Router**
-  - Gemini Embedding 기반 Zero-shot 분류
-  - 질문 의도 및 카테고리 자동 예측
-  - 신뢰도가 낮을 경우 전체 검색(Fallback) 수행
-  
-  **Retriever**
-  - Chroma Vector DB 기반 검색
-  
-  **LLM Reranker**
-  - Top-k 결과 재정렬
-  - 가장 적합한 문서 선택
-  
-  **Vision RAG**
-  - 이미지 + OCR JSON 결합 처리
-  - 표, 도장, 레이아웃 정보 반영
-  
-  **Session & File Locking**
-  - 대화 상태 관리
-  - Multi-turn QA 지원
+**1. Intent Router**
+- Gemini Embedding 기반 Zero-shot 분류
+- 질문 의도 및 카테고리 자동 예측
+- 신뢰도가 낮을 경우 전체 검색(Fallback) 수행
+
+**2. Retriever**
+- Chroma Vector DB 기반 검색
+
+**3. LLM Reranker**
+- Top-k 결과 재정렬
+- 가장 적합한 문서 선택
+
+**4. Vision RAG**
+- 이미지 + OCR JSON 결합 처리
+- 표, 도장, 레이아웃 정보 반영
+
+**5. Session & File Locking**
+- 대화 상태 관리
+- Multi-turn QA 지원
 
 ---
 
@@ -179,7 +174,7 @@ flowchart TD
     SessionLock --> VisionRAG[Gemini Vision RAG]
     VisionRAG --> Answer
 ```
-
+---
 
 ### 2. AWS Cloud Infrastructure
 
@@ -189,9 +184,19 @@ flowchart TD
 - Backend: FastAPI
 - Frontend: Streamlit
 
+**네트워크 구조**
+
+| Service   | Port |
+|-----------|------|
+| FastAPI   | 8000 |
+| Streamlit | 8501 |
+| SSH       | 22   |
+
+---
 ### 3. Frontend (Streamlit UI)
 
-CLI 기반 시스템을 사용자 친화적인 웹 인터페이스로 확장
+CLI 기반 시스템을  
+사용자 친화적인 웹 인터페이스로 확장
 
 **제공 기능**
 - 채팅 기반 QA 인터페이스
@@ -199,7 +204,7 @@ CLI 기반 시스템을 사용자 친화적인 웹 인터페이스로 확장
 - 대화 히스토리 관리
 - 다중 세션 지원
 
-
+---
 ### 4. AWS S3 Storage Integration
 
 **설계 목적**
@@ -216,21 +221,25 @@ CLI 기반 시스템을 사용자 친화적인 웹 인터페이스로 확장
 - 서버 장애와 무관한 안정성
 - IAM 기반 보안 접근
 
-
+---
 ### 5. Docker Orchestration
 
-**목적**                    **구성**
-- 환경 독립성 확보            - Backend / Frontend 분리 컨테이너
-- 재현 가능한 배포 구조        - Volume 기반 DB 유지
-                          - 환경 변수 기반 설정
+**목적**
+- 환경 독립성 확보
+- 재현 가능한 배포 구조
 
+**구성**
+- Backend / Frontend 분리 컨테이너
+- Volume 기반 DB 유지
+- 환경 변수 기반 설정
 
 ---
 
 ### 전체 파이프라인 흐름
 
-User → UI → FastAPI → OCR → Router → Vector DB → Reranker → LLM → Answer  
-
+User → UI → FastAPI → OCR → Router →  
+Vector DB → Reranker → LLM → Answer  
+---
 ## 📌 Key Achievements
 
 - 멀티모달 문서 이해 기반 RAG 시스템 완성
